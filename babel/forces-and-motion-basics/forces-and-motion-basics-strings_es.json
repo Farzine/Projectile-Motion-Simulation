@@ -1,0 +1,593 @@
+{
+  "speed": {
+    "value": "Rapidez",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Velocidad",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1530644846796,
+        "oldValue": "Velocidad",
+        "newValue": "Rapidez",
+        "explanation": null
+      }
+    ]
+  },
+  "go": {
+    "value": "Inicio",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Inicio",
+        "explanation": null
+      }
+    ]
+  },
+  "pause": {
+    "value": "Pausa",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Pausa",
+        "explanation": null
+      }
+    ]
+  },
+  "return": {
+    "value": "Reiniciar",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Reiniciar",
+        "explanation": null
+      }
+    ]
+  },
+  "blueWins": {
+    "value": "¡Ganan los Azules!",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "¡Ganan los azules!",
+        "explanation": null
+      },
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "¡Ganan los azules!",
+        "newValue": "¡Ganan los Azules!",
+        "explanation": null
+      }
+    ]
+  },
+  "redWins": {
+    "value": "¡Ganan los Rojos!",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "¡Ganan los rojos!",
+        "explanation": null
+      },
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "¡Ganan los rojos!",
+        "newValue": "¡Ganan los Rojos!",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForces": {
+    "value": "Suma de Fuerzas",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Suma de Fuerzas",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Valores",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Valores",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsN": {
+    "value": "{0}N",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "{0}N",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForcesEqualsZero": {
+    "value": "Suma de Fuerza = 0",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Suma de Fuerza = 0",
+        "explanation": null
+      }
+    ]
+  },
+  "leftForce": {
+    "value": "Fuerza Izquierda",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerza Izquierda",
+        "explanation": null
+      }
+    ]
+  },
+  "rightForce": {
+    "value": "Fuerza Derecha",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerza Derecha",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0massUnitsKilograms": {
+    "value": "{0} kg",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "{0} kg",
+        "explanation": null
+      }
+    ]
+  },
+  "appliedForce": {
+    "value": "Fuerza Aplicada",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerza Aplicada",
+        "explanation": null
+      }
+    ]
+  },
+  "frictionForce": {
+    "value": "Fuerza de Fricción",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerza de Fricción",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsVelocity": {
+    "value": "{0} m/s",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "{0} m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Aceleración",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Aceleración",
+        "explanation": null
+      }
+    ]
+  },
+  "force": {
+    "value": "Fuerza",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerza",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Fuerzas",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerzas",
+        "explanation": null
+      }
+    ]
+  },
+  "masses": {
+    "value": "Masas",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Masas",
+        "explanation": null
+      }
+    ]
+  },
+  "friction": {
+    "value": "Fricción",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fricción",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Mucho",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Mucho",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Nada",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Nada",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsAcceleration": {
+    "value": "{0}: {1} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "{0}: {1} m/s<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsNewtons": {
+    "value": "{0} Newtons",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "{0} Newtons",
+        "explanation": null
+      }
+    ]
+  },
+  "forces-and-motion-basics.title": {
+    "value": "Fuerzas y Movimiento: Intro",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerzas y Movimiento: Fundamentos",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1582157313018,
+        "oldValue": "Fuerzas y Movimiento: Fundamentos",
+        "newValue": "Fuerzas y Movimiento: Intro",
+        "explanation": null
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Fuerza neta",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Fuerza neta",
+        "explanation": null
+      }
+    ]
+  },
+  "motion": {
+    "value": "Movimiento",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476115364674,
+        "oldValue": "",
+        "newValue": "Movimiento",
+        "explanation": null
+      }
+    ]
+  },
+  "goButton.description": {
+    "value": "goButton.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "goButton.description"
+      }
+    ]
+  },
+  "pauseButton.description": {
+    "value": "pauseButton.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "pauseButton.description"
+      }
+    ]
+  },
+  "leftSideWins.description": {
+    "value": "leftSideWins.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "leftSideWins.description"
+      }
+    ]
+  },
+  "rightSideWins.description": {
+    "value": "rightSideWins.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "rightSideWins.description"
+      }
+    ]
+  },
+  "netForce.description": {
+    "value": "netForce.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "netForce.description"
+      }
+    ]
+  },
+  "bluePullerGroup.description": {
+    "value": "bluePullerGroup.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "bluePullerGroup.description"
+      }
+    ]
+  },
+  "redPullerGroup.description": {
+    "value": "redPullerGroup.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "redPullerGroup.description"
+      }
+    ]
+  },
+  "left": {
+    "value": "izquierda",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "izquierda"
+      }
+    ]
+  },
+  "right": {
+    "value": "derecha",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "derecha"
+      }
+    ]
+  },
+  "group": {
+    "value": "grupo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "grupo"
+      }
+    ]
+  },
+  "puller": {
+    "value": "puller",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "puller"
+      }
+    ]
+  },
+  "motion.leftItemGroup.description": {
+    "value": "motion.leftItemGroup.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "motion.leftItemGroup.description"
+      }
+    ]
+  },
+  "motion.rightItemGroup.description": {
+    "value": "motion.rightItemGroup.description",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682898664040,
+        "oldValue": "",
+        "newValue": "motion.rightItemGroup.description"
+      }
+    ]
+  },
+  "netForcePullerColors": {
+    "value": "Fuerza Neta de los Tiradores de Colores",
+    "history": [
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "",
+        "newValue": "Fuerza Neta de los Tiradores de Colores"
+      }
+    ]
+  },
+  "blueAndRed": {
+    "value": "Azul y Rojo",
+    "history": [
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "",
+        "newValue": "Azul y Rojo"
+      }
+    ]
+  },
+  "purpleAndOrange": {
+    "value": "Morado y Naranja",
+    "history": [
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "",
+        "newValue": "Morado y Naranja"
+      }
+    ]
+  },
+  "purpleWins": {
+    "value": "¡Ganan los Morados!",
+    "history": [
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "",
+        "newValue": "¡Ganan los Morados!"
+      }
+    ]
+  },
+  "orangeWins": {
+    "value": "¡Ganan los Naranjas!",
+    "history": [
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "",
+        "newValue": "¡Ganan los Naranjas!"
+      }
+    ]
+  },
+  "unknownValueIndicator": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Cronómetro",
+    "history": [
+      {
+        "userId": 802667,
+        "timestamp": 1736462741094,
+        "oldValue": "",
+        "newValue": "Cronógrafo"
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1736471962500,
+        "oldValue": "Cronógrafo",
+        "newValue": "Cronómetro",
+        "explanation": null
+      }
+    ]
+  }
+}

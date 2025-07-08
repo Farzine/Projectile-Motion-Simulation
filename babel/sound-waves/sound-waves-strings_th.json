@@ -1,0 +1,343 @@
+{
+  "measure.clearWaves": {
+    "value": "เริ่มต้นแสดงคลื่นใหม่",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ล้างค่าคลื่น"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "ล้างค่าคลื่น",
+        "newValue": "เริ่มต้นแสดงคลื่นใหม่",
+        "explanation": null
+      }
+    ]
+  },
+  "airDensityControlPanel.reset": {
+    "value": "เริ่มต้นใหม่",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "เริ่มต้นใหม่"
+      }
+    ]
+  },
+  "airDensityControlPanel.title": {
+    "value": "ความหนาแน่นของอากาศในกล่อง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ความหนาแน่นของอากาศในกล่อง"
+      }
+    ]
+  },
+  "reflectionControlPanel.positionSlider": {
+    "value": "ตำแหน่งของสิ่งกีดขวาง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ตำแหน่งของผนัง"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "ตำแหน่งของผนัง",
+        "newValue": "ตำแหน่งของสิ่งกีดขวาง",
+        "explanation": null
+      }
+    ]
+  },
+  "reflectionControlPanel.rotationSlider": {
+    "value": "มุมของสิ่งกีดขวาง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "มุมของผนัง"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "มุมของผนัง",
+        "newValue": "มุมของสิ่งกีดขวาง",
+        "explanation": null
+      }
+    ]
+  },
+  "soundModeControlPanel.title": {
+    "value": "การแสดงผลคลื่นเสียง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "โหมดของเสียง"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "โหมดของเสียง",
+        "newValue": "การแสดงผลคลื่นเสียง",
+        "explanation": null
+      }
+    ]
+  },
+  "soundModeControlPanel.continuous": {
+    "value": "สั่นสะเทือนอย่างต่อเนื่อง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ต่อเนื่อง"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "ต่อเนื่อง",
+        "newValue": "สั่นสะเทือนอย่างต่อเนื่อง",
+        "explanation": null
+      }
+    ]
+  },
+  "soundModeControlPanel.pulse": {
+    "value": "สะเทือนเป็นครั้ง ๆ (พัลซ์)",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "พัลซ์"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "พัลซ์",
+        "newValue": "สะเทือนเป็นครั้ง ๆ (พัลซ์)",
+        "explanation": null
+      }
+    ]
+  },
+  "soundModeControlPanel.firePulse": {
+    "value": "สร้างการสะเทือน (พัลซ์)",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ยิงพัลซ์"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "ยิงพัลซ์",
+        "newValue": "สร้างการสะเทือน (พัลซ์)",
+        "explanation": null
+      }
+    ]
+  },
+  "audioControlPanel.title": {
+    "value": "ควบคุมการแสดงเสียง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ควบคุมเสียง"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "ควบคุมเสียง",
+        "newValue": "ควบคุมการแสดงเสียง",
+        "explanation": null
+      }
+    ]
+  },
+  "audioControlPanel.audioEnabled": {
+    "value": "เสียงที่ถูกได้ยิน",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "เสียงที่ได้ยิน"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "เสียงที่ได้ยิน",
+        "newValue": "เสียงที่ถูกได้ยิน",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "ความถี่",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ความถี่"
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "แอมพลิจูด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "แอมพลิจูด"
+      }
+    ]
+  },
+  "sound-waves.title": {
+    "value": "คลื่นเสียง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "คลื่นเสียง"
+      }
+    ]
+  },
+  "screen.singleSource": {
+    "value": "บทนำ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "แนะนำ"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "แนะนำ",
+        "newValue": "บทนำ",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.measure": {
+    "value": "วัดค่า",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "วัด"
+      },
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "วัด",
+        "newValue": "วัดค่า",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.twoSource": {
+    "value": "สองแหล่งกำเนิด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "สองแหล่งกำเนิด"
+      }
+    ]
+  },
+  "screen.reflection": {
+    "value": "การสะท้อน",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "การสะท้อน"
+      }
+    ]
+  },
+  "screen.airPressure": {
+    "value": "ความดันอากาศ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473889841,
+        "oldValue": "",
+        "newValue": "ความดันอากาศ"
+      }
+    ]
+  },
+  "meters": {
+    "value": "เมตร",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "",
+        "newValue": "เมตร"
+      }
+    ]
+  },
+  "atm": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "one": {
+    "value": "1.0",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "",
+        "newValue": "1.0"
+      }
+    ]
+  },
+  "zero": {
+    "value": "0.0",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "",
+        "newValue": "0.0"
+      }
+    ]
+  },
+  "hzPattern": {
+    "value": "{{value}} เฮิร์ตซ์",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1696482428580,
+        "oldValue": "",
+        "newValue": "{{value}} เฮิร์ตซ์"
+      }
+    ]
+  }
+}

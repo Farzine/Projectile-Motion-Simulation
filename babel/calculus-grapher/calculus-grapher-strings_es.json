@@ -1,0 +1,316 @@
+{
+  "screen.derivative": {
+    "value": "Derivada",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Derivada"
+      }
+    ]
+  },
+  "screen.integral": {
+    "value": "Integral",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Integral"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratorio",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Lab"
+      },
+      {
+        "userId": 964963,
+        "timestamp": 1688426579613,
+        "oldValue": "Lab",
+        "newValue": "Laboratorio",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.advanced": {
+    "value": "Avanzado",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Avanzado"
+      }
+    ]
+  },
+  "discontinuities": {
+    "value": "Discontinuidades",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Discontinuidades"
+      }
+    ]
+  },
+  "values": {
+    "value": "Valores",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Valores"
+      }
+    ]
+  },
+  "valuesPreferenceDescription": {
+    "value": "Muestra valores en los ejes de la gráfica, la línea de referencia, la \"pendiente de la tangente\" y el \"área neta con signo\".",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Muestra valores en los ejes de la gráfica, la línea de referencia, la \"Pendiente de la Tangente\" y el \"Área Neta con Signo\"."
+      },
+      {
+        "userId": 964963,
+        "timestamp": 1681837479040,
+        "oldValue": "Muestra valores en los ejes de la gráfica, la línea de referencia, la \"Pendiente de la Tangente\" y el \"Área Neta con Signo\".",
+        "newValue": "Muestra valores en los ejes de la gráfica, la línea de referencia, la \"pendiente de la tangente\" y el \"área neta con signo\".",
+        "explanation": null
+      }
+    ]
+  },
+  "notation": {
+    "value": "Notación",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Notación"
+      }
+    ]
+  },
+  "lagrange": {
+    "value": "Lagrange",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Lagrange"
+      }
+    ]
+  },
+  "leibniz": {
+    "value": "Leibniz",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Leibniz"
+      }
+    ]
+  },
+  "variable": {
+    "value": "Variable",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Variable"
+      }
+    ]
+  },
+  "predictPreference": {
+    "value": "Predice",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Predice"
+      }
+    ]
+  },
+  "predictPreferenceDescription": {
+    "value": "Agrega un modo que te permite predecir f({{variable}}).",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Agrega un modo que te permite predecir f({{variable}})."
+      }
+    ]
+  },
+  "barometer.slopeOfTangent": {
+    "value": "Pendiente de <br> la Tangente",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Pendiente de la Tangente"
+      },
+      {
+        "userId": 964963,
+        "timestamp": 1688236236993,
+        "oldValue": "Pendiente de la Tangente",
+        "newValue": "Pendiente de <br> la Tangente",
+        "explanation": null
+      }
+    ]
+  },
+  "checkbox.tangent": {
+    "value": "Tangente",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Tangente"
+      }
+    ]
+  },
+  "barometer.netSignedArea": {
+    "value": "Área Neta <br> con Signo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Área Neta <br> con Signo"
+      }
+    ]
+  },
+  "checkbox.areaUnderCurve": {
+    "value": "Área Bajo <br> la Curva",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Área Bajo <br> la Curva"
+      }
+    ]
+  },
+  "symbol.d": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.f": {
+    "value": "f",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "f"
+      }
+    ]
+  },
+  "symbol.t": {
+    "value": "t",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "t"
+      }
+    ]
+  },
+  "smooth": {
+    "value": "Suavizar",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Suavizar"
+      }
+    ]
+  },
+  "predict": {
+    "value": "Predice",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Predice"
+      }
+    ]
+  },
+  "referenceLine": {
+    "value": "Línea de<br>Referencia",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Línea de<br>Referencia"
+      }
+    ]
+  },
+  "show": {
+    "value": "Muestra",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Muestra"
+      }
+    ]
+  },
+  "calculus-grapher.title": {
+    "value": "Graficador para Cálculo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1681836888103,
+        "oldValue": "",
+        "newValue": "Graficadora para Cálculo"
+      },
+      {
+        "userId": 964963,
+        "timestamp": 1681837479040,
+        "oldValue": "Graficadora para Cálculo",
+        "newValue": "Graficador para Cálculo",
+        "explanation": null
+      }
+    ]
+  }
+}

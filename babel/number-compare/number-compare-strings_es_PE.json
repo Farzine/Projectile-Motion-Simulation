@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Compara",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1651000447991,
+        "oldValue": "",
+        "newValue": "Compara"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} es menor que {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1651000447991,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} es menor que {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} es mayor que {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1651000447991,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} es mayor que {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} es igual que {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1651000447991,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} es igual que {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Comparación de números",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700318561211,
+        "oldValue": "",
+        "newValue": "Comparación de números"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Escuche automáticamente la oración numérica",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700318561211,
+        "oldValue": "",
+        "newValue": "Escuche automáticamente la oración numérica"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Escuche la oración numérica actualizarse automáticamente a medida que interactúa.",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700318561211,
+        "oldValue": "",
+        "newValue": "Escuche la oración numérica actualizarse automáticamente a medida que interactúa."
+      }
+    ]
+  }
+}

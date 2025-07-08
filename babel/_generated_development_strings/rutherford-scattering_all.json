@@ -1,0 +1,6584 @@
+{
+  "am": {
+    "options.projectorMode": {
+      "value": "ፕሮጀክተር ሞድ "
+    },
+    "alphaParticleProperties": {
+      "value": "የአልፋ ቅንጣት"
+    },
+    "energy": {
+      "value": "ጉልበት "
+    },
+    "maxEnergy": {
+      "value": "ትልቁ"
+    },
+    "minEnergy": {
+      "value": "ትንሹ"
+    },
+    "showTraces": {
+      "value": "መደረብ/"
+    },
+    "legend": {
+      "value": "አፈ ታሪክ"
+    },
+    "alphaParticle": {
+      "value": "የአልፋ ቅንጣት"
+    },
+    "electron": {
+      "value": "ኤሌክትሮን"
+    },
+    "neutron": {
+      "value": "ኒውትሮን"
+    },
+    "positiveCharge": {
+      "value": "ፖሲቲቭ ቻርጅ"
+    },
+    "proton": {
+      "value": "ፕሮቶን "
+    },
+    "alphaParticles": {
+      "value": "የአልፋ ቅንጣቶች"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} ሜ (የአቶሚክ ልኬት)"
+    },
+    "plumPuddingAtom": {
+      "value": "ፕለም ፑዲንግ አቶም"
+    },
+    "alphaParticleTrace": {
+      "value": "የአልፋ ቅንጣቢ መከታተያ"
+    },
+    "electronEnergyLevel": {
+      "value": "የኤሌክትሮን ጉልበት ደረጃ"
+    },
+    "nucleus": {
+      "value": "ኒውክሊየስ"
+    },
+    "atom": {
+      "value": "አቶም "
+    },
+    "numberOfNeutrons": {
+      "value": "ኒውክለሶች "
+    },
+    "numberOfProtons": {
+      "value": "ፕሮቶኖች"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} ሜ (የኒውክለስ መለኪያ)"
+    },
+    "rutherfordAtom": {
+      "value": "ራዘርፎርድ አቶም"
+    },
+    "rutherford-scattering.title": {
+      "value": "ራዘርፎርድ መበተን"
+    }
+  },
+  "ar": {
+    "plumPuddingAtom": {
+      "value": "ذرة على نموذج كيكة البرقوق"
+    },
+    "numberOfProtons": {
+      "value": "عدد البروتونات"
+    },
+    "rutherford-scattering.title": {
+      "value": "تشتت رذرفورد"
+    },
+    "maxEnergy": {
+      "value": "أقصى"
+    },
+    "neutron": {
+      "value": "النيوترون"
+    },
+    "energy": {
+      "value": "الطاقة:"
+    },
+    "minEnergy": {
+      "value": "أقل"
+    },
+    "alphaParticle": {
+      "value": "جسيم ألفا"
+    },
+    "numberOfNeutrons": {
+      "value": "عدد النيوترونات"
+    },
+    "showTraces": {
+      "value": "إظهار الأثر"
+    },
+    "legend": {
+      "value": "قائمة"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "rutherfordAtom": {
+      "value": "ذرة رذرفورد"
+    },
+    "proton": {
+      "value": "البروتون"
+    },
+    "turnOnTheGun": {
+      "value": "تشغيل المسدس"
+    },
+    "atomProperties": {
+      "value": "خصائص الذرة"
+    },
+    "electron": {
+      "value": "الالكترون"
+    },
+    "translation.credits": {
+      "value": "KSU"
+    },
+    "alphaParticleProperties": {
+      "value": "خصائص جسيم ألفا"
+    }
+  },
+  "ar_MA": {
+    "options.projectorMode": {
+      "value": "وضع جهاز الإسقاط"
+    },
+    "alphaParticleProperties": {
+      "value": "جزيئة ألفا"
+    },
+    "energy": {
+      "value": "طاقة"
+    },
+    "maxEnergy": {
+      "value": "قيمة قصوية"
+    },
+    "minEnergy": {
+      "value": "قيمة دنوية"
+    },
+    "showTraces": {
+      "value": "آثار "
+    },
+    "legend": {
+      "value": "عناوين وصفية"
+    },
+    "alphaParticle": {
+      "value": "جزيئة ألفا"
+    },
+    "electron": {
+      "value": "الكترون"
+    },
+    "neutron": {
+      "value": "نوترون"
+    },
+    "positiveCharge": {
+      "value": "شحنة موجبة"
+    },
+    "proton": {
+      "value": "بروتون"
+    },
+    "alphaParticles": {
+      "value": "جزيئات الفا"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} متر (السلم الذري)"
+    },
+    "plumPuddingAtom": {
+      "value": "نموذج حلوى الخوخ"
+    },
+    "alphaParticleTrace": {
+      "value": "آثار جزيئة ألفا"
+    },
+    "electronEnergyLevel": {
+      "value": "مستوى طاقة الالكترون"
+    },
+    "nucleus": {
+      "value": "نواة"
+    },
+    "atom": {
+      "value": "ذرة"
+    },
+    "numberOfNeutrons": {
+      "value": "نوترونات"
+    },
+    "numberOfProtons": {
+      "value": "بروتونات"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} متر (السلم الذري)"
+    },
+    "rutherfordAtom": {
+      "value": "ذرة راذرفورد"
+    },
+    "rutherford-scattering.title": {
+      "value": "تشتيت راذرفورد"
+    }
+  },
+  "ar_SA": {
+    "plumPuddingAtom": {
+      "value": "ذرة على نموذج كيكة البرقوق"
+    },
+    "numberOfProtons": {
+      "value": "عدد البروتونات"
+    },
+    "rutherford-scattering.title": {
+      "value": "تشتت رذرفورد"
+    },
+    "maxEnergy": {
+      "value": "أقصى"
+    },
+    "neutron": {
+      "value": "النيوترون"
+    },
+    "energy": {
+      "value": "الطاقة:"
+    },
+    "minEnergy": {
+      "value": "أقل"
+    },
+    "alphaParticle": {
+      "value": "جسيم ألفا"
+    },
+    "numberOfNeutrons": {
+      "value": "عدد النيوترونات"
+    },
+    "showTraces": {
+      "value": "إظهار الأثر"
+    },
+    "legend": {
+      "value": "قائمة"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "rutherfordAtom": {
+      "value": "ذرة رذرفورد"
+    },
+    "proton": {
+      "value": "البروتون"
+    },
+    "turnOnTheGun": {
+      "value": "تشغيل المسدس"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} فيمتومتر (مقياس نووي)"
+    },
+    "electron": {
+      "value": "الالكترون"
+    },
+    "atomProperties": {
+      "value": "خصائص الذرة"
+    },
+    "translation.credits": {
+      "value": "هشام الهدلق - جامعة الملك سعود"
+    },
+    "alphaParticleProperties": {
+      "value": "خصائص جسيم ألفا"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} بيكومتر (مقياس ذري)"
+    }
+  },
+  "az": {
+    "options.projectorMode": {
+      "value": "Proyektor rejimi"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa zərrəciyi"
+    },
+    "energy": {
+      "value": "Enerji"
+    },
+    "maxEnergy": {
+      "value": "maks"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Trayektoriyalar"
+    },
+    "legend": {
+      "value": "İşarələr"
+    },
+    "alphaParticle": {
+      "value": "Alfa zərrəciyi"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "neutron": {
+      "value": "Neytron"
+    },
+    "positiveCharge": {
+      "value": "Müsbət yük"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Alfa zərrəcikləri"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atom miqyasında)"
+    },
+    "plumPuddingAtom": {
+      "value": "Üzümlü keks modeli"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa zərrəciklərinin izi"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektronun enerji səviyyəsi"
+    },
+    "nucleus": {
+      "value": "Nüvə"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Neytronların sayı"
+    },
+    "numberOfProtons": {
+      "value": "Protonların sayı"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nüvə miqyasında)"
+    },
+    "rutherfordAtom": {
+      "value": "Rezerford atom modeli"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rezerford səpilməsi"
+    }
+  },
+  "be": {
+    "legend": {
+      "value": "Легенда"
+    },
+    "electron": {
+      "value": "Электрон"
+    },
+    "proton": {
+      "value": "Пратон"
+    },
+    "neutron": {
+      "value": "Нейтрон"
+    },
+    "alphaParticle": {
+      "value": "Альфа-часціца"
+    },
+    "positiveCharge": {
+      "value": "Дадатны зарад"
+    },
+    "alphaParticleProperties": {
+      "value": "Альфа-часціца"
+    },
+    "energy": {
+      "value": "Энергія"
+    },
+    "showTraces": {
+      "value": "Траекторыі"
+    },
+    "minEnergy": {
+      "value": "мін"
+    },
+    "maxEnergy": {
+      "value": "макс"
+    },
+    "alphaParticles": {
+      "value": "Альфа-часціцы"
+    },
+    "atom": {
+      "value": "Атам"
+    },
+    "numberOfProtons": {
+      "value": "Пратоны"
+    },
+    "numberOfNeutrons": {
+      "value": "Нейтроны"
+    },
+    "nucleus": {
+      "value": "Ядро"
+    },
+    "electronEnergyLevel": {
+      "value": "Электронныя слаі"
+    },
+    "alphaParticleTrace": {
+      "value": "Траекторыі альфа-часціц"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} м (nuclear scale)"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} м (atomic scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Мадэль атама Рэзерфарда"
+    },
+    "plumPuddingAtom": {
+      "value": "Пудынгавая мадэль атама"
+    },
+    "options.projectorMode": {
+      "value": "Рэжым праектара"
+    },
+    "rutherford-scattering.title": {
+      "value": "Рассейванне Рэзерфарда"
+    }
+  },
+  "bg": {
+    "alphaParticle": {
+      "value": "Алфа частица"
+    },
+    "alphaParticleProperties": {
+      "value": "Алфа частици"
+    },
+    "alphaParticleTrace": {
+      "value": "Следа от алфа частицата"
+    },
+    "alphaParticles": {
+      "value": "Източник на алфа частици"
+    },
+    "atom": {
+      "value": "Атом"
+    },
+    "electron": {
+      "value": "Електрон"
+    },
+    "electronEnergyLevel": {
+      "value": "Енергийно ниво"
+    },
+    "energy": {
+      "value": "Енергия"
+    },
+    "legend": {
+      "value": "Легенда"
+    },
+    "neutron": {
+      "value": "Неутрон"
+    },
+    "nucleus": {
+      "value": "Ядра"
+    },
+    "numberOfNeutrons": {
+      "value": "Неутрони"
+    },
+    "numberOfProtons": {
+      "value": "Протони"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m"
+    },
+    "plumPuddingAtom": {
+      "value": "Пудингов модел на атома"
+    },
+    "positiveCharge": {
+      "value": "Положителен заряд"
+    },
+    "proton": {
+      "value": "Протон"
+    },
+    "rutherford-scattering.title": {
+      "value": "Експеримент на Ръдърфорд"
+    },
+    "rutherfordAtom": {
+      "value": "Планетарен модел на атома"
+    },
+    "showTraces": {
+      "value": "Следа"
+    }
+  },
+  "bn": {
+    "options.projectorMode": {
+      "value": "প্রজেক্টর মোড "
+    },
+    "alphaParticleProperties": {
+      "value": "আলফা  কণা "
+    },
+    "energy": {
+      "value": "শক্তি "
+    },
+    "maxEnergy": {
+      "value": "সর্বাধিক "
+    },
+    "minEnergy": {
+      "value": "সর্বনিম্ন "
+    },
+    "showTraces": {
+      "value": "Traces"
+    },
+    "legend": {
+      "value": "Legend"
+    },
+    "alphaParticle": {
+      "value": "আলফা কণা "
+    },
+    "electron": {
+      "value": "ইলেকট্রন "
+    },
+    "neutron": {
+      "value": "নিউট্রন "
+    },
+    "positiveCharge": {
+      "value": "ধনাত্মক কণা "
+    },
+    "proton": {
+      "value": "প্রোটন "
+    },
+    "alphaParticles": {
+      "value": "আলফা  কণা "
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "প্লাম পুডিং  অ্যাটম "
+    },
+    "alphaParticleTrace": {
+      "value": "আলফা কণা ট্রেস(Trace)"
+    },
+    "electronEnergyLevel": {
+      "value": "ইলেকট্রনের শক্তি স্তর "
+    },
+    "nucleus": {
+      "value": "নিউক্লিয়াস"
+    },
+    "atom": {
+      "value": "পরমাণু "
+    },
+    "numberOfNeutrons": {
+      "value": "নিউট্রন "
+    },
+    "numberOfProtons": {
+      "value": "প্রোটন "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "রাদারফোর্ড পরমাণু "
+    },
+    "rutherford-scattering.title": {
+      "value": "রাদারফোর্ড আলফা কণা বিক্ষেপণ  পরীক্ষণ "
+    }
+  },
+  "bs": {
+    "alphaParticle": {
+      "value": "Alfa-čestica"
+    },
+    "alphaParticleProperties": {
+      "value": "Osobine alfa-čestica"
+    },
+    "alphaParticleTrace": {
+      "value": "Putanja alfa-čestice"
+    },
+    "alphaParticles": {
+      "value": "Alfa-čestice"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atomProperties": {
+      "value": "Osobine atoma"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "Energetski nivo elektrona"
+    },
+    "energy": {
+      "value": "Energija"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "nucleus": {
+      "value": "Jezgro"
+    },
+    "numberOfNeutrons": {
+      "value": "Broj neutrona:"
+    },
+    "numberOfProtons": {
+      "value": "Broj protona:"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (аtomske razmjere)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (nukleаrne razmjere)"
+    },
+    "plumPuddingAtom": {
+      "value": "Puding od jagoda - Model atoma"
+    },
+    "positiveCharge": {
+      "value": "Pozitivno naelektrisanje"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rаderfordovo (Rutherford) rаsijanje"
+    },
+    "rutherfordAtom": {
+      "value": "Raderfordov atom"
+    },
+    "showTraces": {
+      "value": "Pokaži putanje čestica"
+    },
+    "turnOnTheGun": {
+      "value": "okidač"
+    }
+  },
+  "ca": {
+    "options.projectorMode": {
+      "value": "Mode projector"
+    },
+    "alphaParticleProperties": {
+      "value": "Partícula alfa"
+    },
+    "energy": {
+      "value": "Energia"
+    },
+    "maxEnergy": {
+      "value": "màx."
+    },
+    "minEnergy": {
+      "value": "mín."
+    },
+    "showTraces": {
+      "value": "Traces"
+    },
+    "legend": {
+      "value": "Llegenda"
+    },
+    "alphaParticle": {
+      "value": "partícula alfa"
+    },
+    "electron": {
+      "value": "electró"
+    },
+    "neutron": {
+      "value": "neutró"
+    },
+    "positiveCharge": {
+      "value": "càrrega positiva"
+    },
+    "proton": {
+      "value": "protó"
+    },
+    "alphaParticles": {
+      "value": "partícules alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (escala atòmica)"
+    },
+    "plumPuddingAtom": {
+      "value": "L'àtom de púding de panses "
+    },
+    "alphaParticleTrace": {
+      "value": "traça de la partícula alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "nivell d'energia de l'electró"
+    },
+    "nucleus": {
+      "value": "nucli"
+    },
+    "atom": {
+      "value": "Àtom"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutrons"
+    },
+    "numberOfProtons": {
+      "value": "Protons"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (escala nuclear)"
+    },
+    "rutherfordAtom": {
+      "value": "L'àtom de Rutherford "
+    },
+    "rutherford-scattering.title": {
+      "value": "Dispersió de Rutherford "
+    }
+  },
+  "cs": {
+    "options.projectorMode": {
+      "value": "Mód projektoru"
+    },
+    "alphaParticleProperties": {
+      "value": "Vlastnosti alfa částic"
+    },
+    "energy": {
+      "value": "Energie:"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Zobrazit dráhy"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "alphaParticle": {
+      "value": "alfa částice"
+    },
+    "electron": {
+      "value": "elektron"
+    },
+    "neutron": {
+      "value": "neutron"
+    },
+    "positiveCharge": {
+      "value": "kladný náboj"
+    },
+    "proton": {
+      "value": "proton"
+    },
+    "alphaParticles": {
+      "value": "alfa částice"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (atomová stupnice)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atom švestkového pudinku"
+    },
+    "alphaParticleTrace": {
+      "value": "Dráha alfa částic"
+    },
+    "electronEnergyLevel": {
+      "value": "Energetická hladina elektronu"
+    },
+    "nucleus": {
+      "value": "Jádro"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronové číslo"
+    },
+    "numberOfProtons": {
+      "value": "Protonové číslo"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (jaderná stupnice)"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherfordův atom"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordův rozptyl"
+    },
+    "turnOnTheGun": {
+      "value": "Zapnout pistoly"
+    },
+    "atomProperties": {
+      "value": "Vlastnosti atomu"
+    },
+    "translation.credits": {
+      "value": "Matěj Picka"
+    }
+  },
+  "cy": {
+    "options.projectorMode": {
+      "value": "Modd Taflunydd"
+    },
+    "alphaParticleProperties": {
+      "value": "Gronyn Alffa"
+    },
+    "energy": {
+      "value": "Egni"
+    },
+    "maxEnergy": {
+      "value": "macs"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Olion"
+    },
+    "legend": {
+      "value": "Allwedd"
+    },
+    "alphaParticle": {
+      "value": "Gronyn Alffa"
+    },
+    "electron": {
+      "value": "Electron"
+    },
+    "neutron": {
+      "value": "Niwtron"
+    },
+    "positiveCharge": {
+      "value": "Gwefr Positif"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Gronynnau Alffa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (graddfa atomig)"
+    },
+    "plumPuddingAtom": {
+      "value": "Model Pwdin Eirin"
+    },
+    "alphaParticleTrace": {
+      "value": "Ôl Gronyn Alffa"
+    },
+    "electronEnergyLevel": {
+      "value": "Lefel Egni Electron"
+    },
+    "nucleus": {
+      "value": "Niwclews"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Niwtronau"
+    },
+    "numberOfProtons": {
+      "value": "Protonau"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (graddfa niwclear)"
+    },
+    "rutherfordAtom": {
+      "value": "Atom Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Gwasgariad Rutherford"
+    }
+  },
+  "da": {
+    "": {
+      "value": "Rutherford spredning"
+    },
+    "alphaParticle": {
+      "value": "Alfa-partikel"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa-partikel"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa-partikelspor"
+    },
+    "alphaParticles": {
+      "value": "Alfa-partikler"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atomProperties": {
+      "value": "Atom-egenskaber"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektron-energiniveau"
+    },
+    "energy": {
+      "value": "Energi"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Forklaring"
+    },
+    "maxEnergy": {
+      "value": "maksimum"
+    },
+    "minEnergy": {
+      "value": "minimum"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "nucleus": {
+      "value": "Kerne"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutroner"
+    },
+    "numberOfProtons": {
+      "value": "Protoner"
+    },
+    "options.projectorMode": {
+      "value": "Projektor visning"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomisk visning)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuklear visning)"
+    },
+    "plumPuddingAtom": {
+      "value": "Budding-atom"
+    },
+    "positiveCharge": {
+      "value": "Positiv ladning"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford-spredning"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford-atom"
+    },
+    "showTraces": {
+      "value": "Spor"
+    },
+    "turnOnTheGun": {
+      "value": "Affyr alfa-pistolen"
+    }
+  },
+  "de": {
+    "alphaParticle": {
+      "value": "Alphateilchen"
+    },
+    "alphaParticleProperties": {
+      "value": "Alphateilchen Eigenschaften"
+    },
+    "alphaParticleTrace": {
+      "value": "Alphateilchen Flugbahn"
+    },
+    "alphaParticles": {
+      "value": "Alphateilchen"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atomProperties": {
+      "value": "Atom Eigenschaften"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektron Energieniveau"
+    },
+    "energy": {
+      "value": "Energie"
+    },
+    "legend": {
+      "value": "Legende"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "nucleus": {
+      "value": "Atomkern"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronenzahl"
+    },
+    "numberOfProtons": {
+      "value": "Protonenzahl"
+    },
+    "options.projectorMode": {
+      "value": "Projektor Modus"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (Atom Skala)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (Kern Skala)"
+    },
+    "plumPuddingAtom": {
+      "value": "Rosinenkuchen - Atom"
+    },
+    "positiveCharge": {
+      "value": "Positive Ladung"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford Streuung"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford - Atom"
+    },
+    "showTraces": {
+      "value": "Zeige Flugbahnen"
+    },
+    "turnOnTheGun": {
+      "value": "Kanone einschalten"
+    }
+  },
+  "el": {
+    "options.projectorMode": {
+      "value": "Λειτουργία προβολής"
+    },
+    "alphaParticleProperties": {
+      "value": "Σωματίδιο άλφα"
+    },
+    "energy": {
+      "value": "Ενέργεια"
+    },
+    "maxEnergy": {
+      "value": "μέγ."
+    },
+    "minEnergy": {
+      "value": "ελάχ."
+    },
+    "showTraces": {
+      "value": "Ίχνη"
+    },
+    "legend": {
+      "value": "Υπόμνημα"
+    },
+    "alphaParticle": {
+      "value": "Σωματίδιο άλφα"
+    },
+    "electron": {
+      "value": "Ηλεκτρόνιο"
+    },
+    "neutron": {
+      "value": "Νετρόνιο"
+    },
+    "positiveCharge": {
+      "value": "Θετικό φορτίο"
+    },
+    "proton": {
+      "value": "Πρωτόνιο"
+    },
+    "alphaParticles": {
+      "value": "Σωματίδια άλφα"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} μ (κλίμακα ατόμου)"
+    },
+    "plumPuddingAtom": {
+      "value": "Μοντέλο Σταφιδόψωμου"
+    },
+    "alphaParticleTrace": {
+      "value": "Ίχνος σωματιδίου άλφα"
+    },
+    "electronEnergyLevel": {
+      "value": "Επίπεδο ενέργειας ηλεκτρονίου"
+    },
+    "nucleus": {
+      "value": "Πυρήνας"
+    },
+    "atom": {
+      "value": "Άτομο"
+    },
+    "numberOfNeutrons": {
+      "value": "Νετρόνια"
+    },
+    "numberOfProtons": {
+      "value": "Πρωτόνια"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} μ (κλίμακα πυρήνα)"
+    },
+    "rutherfordAtom": {
+      "value": "Μοντέλο ατόμου του Ράδερφορντ"
+    },
+    "rutherford-scattering.title": {
+      "value": "Σκέδαση Ράδερφορντ"
+    },
+    "atomProperties": {
+      "value": "Ιδιότητες Ατόμου"
+    },
+    "resetAll": {
+      "value": "Επαναφορά Όλων"
+    },
+    "rutherford-scattering.description": {
+      "value": "Πως ανακάλυψε ο Rutherford τη δομή του πυρήνα του ατόμου χωρίς να τον βλέπει; Προσομοιώστε το περίφημο πείραμα με το οποίο κατέρριψε το ατομικό  μοντέλο του "
+    },
+    "turnOnTheGun": {
+      "value": "Λειτουργία Πυροβόλου"
+    }
+  },
+  "es": {
+    "alphaParticle": {
+      "value": "partícula alfa"
+    },
+    "alphaParticleProperties": {
+      "value": "partícula alfa"
+    },
+    "alphaParticleTrace": {
+      "value": "Traza de la partícula alfa"
+    },
+    "alphaParticles": {
+      "value": "Partículas alfa"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "atomProperties": {
+      "value": "Propiedades del Átomo"
+    },
+    "electron": {
+      "value": "electrón"
+    },
+    "electronEnergyLevel": {
+      "value": "Nivel de energía del electrón"
+    },
+    "energy": {
+      "value": "Energía:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "260"
+    },
+    "legend": {
+      "value": "Leyenda"
+    },
+    "maxEnergy": {
+      "value": "máximo"
+    },
+    "minEnergy": {
+      "value": "mínimo"
+    },
+    "neutron": {
+      "value": "neutrón"
+    },
+    "nucleus": {
+      "value": "Núcleo"
+    },
+    "numberOfNeutrons": {
+      "value": "Número de neutrones:"
+    },
+    "numberOfProtons": {
+      "value": "Número de protones:"
+    },
+    "options.projectorMode": {
+      "value": "Modo de proyector"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (escala atómica)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (escala nuclear)"
+    },
+    "plumPuddingAtom": {
+      "value": "Modelo atómico de budín de pasas (Thomson)"
+    },
+    "positiveCharge": {
+      "value": "carga positiva"
+    },
+    "proton": {
+      "value": "protón"
+    },
+    "resetAll": {
+      "value": "Reiniciar Todo"
+    },
+    "rutherford-scattering.description": {
+      "value": "¿Cómo descubrió Rutherford  la estructura del núcleo atómico sin mirarlo? Simule el famoso experimento en el cual refutó el modelo de budín de ciruelas del átomo, observando partículas alfa rebotando de átomos y determinando que estos deben tener un núcleo pequeño."
+    },
+    "rutherford-scattering.title": {
+      "value": "Dispersión de Rutherford"
+    },
+    "rutherfordAtom": {
+      "value": "Modelo atómico de Rutherford"
+    },
+    "showTraces": {
+      "value": "Trazas"
+    },
+    "turnOnTheGun": {
+      "value": "Encienda el cañón"
+    }
+  },
+  "es_ES": {
+    "alphaParticle": {
+      "value": "Partícula alfa"
+    },
+    "alphaParticleProperties": {
+      "value": "Partícula alfa"
+    },
+    "alphaParticleTrace": {
+      "value": "Traza de la partícula alfa"
+    },
+    "alphaParticles": {
+      "value": "Partículas alfa"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "electron": {
+      "value": "Electrón"
+    },
+    "electronEnergyLevel": {
+      "value": "Nivel energético del electrón"
+    },
+    "energy": {
+      "value": "Energía"
+    },
+    "legend": {
+      "value": "Leyenda"
+    },
+    "maxEnergy": {
+      "value": "max."
+    },
+    "minEnergy": {
+      "value": "min."
+    },
+    "neutron": {
+      "value": "Neutrón"
+    },
+    "nucleus": {
+      "value": "Núcleo"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutrones"
+    },
+    "numberOfProtons": {
+      "value": "Protones"
+    },
+    "options.projectorMode": {
+      "value": "Modo proyector"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (escala atómica)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (escala nuclear)"
+    },
+    "plumPuddingAtom": {
+      "value": "Modelo atómico de Thomson"
+    },
+    "positiveCharge": {
+      "value": "Carga positiva"
+    },
+    "proton": {
+      "value": "Protón"
+    },
+    "rutherford-scattering.title": {
+      "value": "Dispersión de Rutherford"
+    },
+    "rutherfordAtom": {
+      "value": "Modelo atómico de Rutherford"
+    },
+    "showTraces": {
+      "value": "Trazas"
+    }
+  },
+  "es_MX": {
+    "alphaParticle": {
+      "value": "partícula alfa"
+    },
+    "alphaParticleProperties": {
+      "value": "partícula alfa"
+    },
+    "alphaParticleTrace": {
+      "value": "Traza de la partícula alfa"
+    },
+    "alphaParticles": {
+      "value": "Partículas alfa"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "atomProperties": {
+      "value": "Propiedades del Átomo"
+    },
+    "electron": {
+      "value": "electrón"
+    },
+    "electronEnergyLevel": {
+      "value": "Nivel de energía del electrón"
+    },
+    "energy": {
+      "value": "Energía:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "260"
+    },
+    "legend": {
+      "value": "Leyenda"
+    },
+    "maxEnergy": {
+      "value": "máximo"
+    },
+    "minEnergy": {
+      "value": "mínimo"
+    },
+    "neutron": {
+      "value": "neutrón"
+    },
+    "nucleus": {
+      "value": "Núcleo"
+    },
+    "numberOfNeutrons": {
+      "value": "Número de neutrones:"
+    },
+    "numberOfProtons": {
+      "value": "Número de protones:"
+    },
+    "options.projectorMode": {
+      "value": "Modo de proyector"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (escala atómica)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (escala nuclear)"
+    },
+    "plumPuddingAtom": {
+      "value": "Modelo atómico de budín de pasas (Thomson)"
+    },
+    "positiveCharge": {
+      "value": "carga positiva"
+    },
+    "proton": {
+      "value": "protón"
+    },
+    "resetAll": {
+      "value": "Reiniciar Todo"
+    },
+    "rutherford-scattering.description": {
+      "value": "¿Cómo descubrió Rutherford  la estructura del núcleo atómico sin mirarlo? Simule el famoso experimento en el cual refutó el modelo de budín de ciruelas del átomo, observando partículas alfa rebotando de átomos y determinando que estos deben tener un núcleo pequeño."
+    },
+    "rutherford-scattering.title": {
+      "value": "Dispersión de Rutherford"
+    },
+    "rutherfordAtom": {
+      "value": "Modelo atómico de Rutherford"
+    },
+    "showTraces": {
+      "value": "Trazas"
+    },
+    "turnOnTheGun": {
+      "value": "Encienda el cañón"
+    }
+  },
+  "es_PE": {
+    "alphaParticle": {
+      "value": "Partícula alfa"
+    },
+    "alphaParticleProperties": {
+      "value": "Partícula alfa"
+    },
+    "alphaParticleTrace": {
+      "value": "Rastro de la Partícula Alfa"
+    },
+    "alphaParticles": {
+      "value": "Partículas Alfa"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "atomProperties": {
+      "value": "Propiedades del átomo"
+    },
+    "electron": {
+      "value": "Electrón"
+    },
+    "electronEnergyLevel": {
+      "value": "Nivel de Energía del Electrón"
+    },
+    "energy": {
+      "value": "Energía:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Leyenda"
+    },
+    "maxEnergy": {
+      "value": "máx."
+    },
+    "minEnergy": {
+      "value": "mín"
+    },
+    "neutron": {
+      "value": "Neutrón"
+    },
+    "nucleus": {
+      "value": "Núcleo"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutrones:"
+    },
+    "numberOfProtons": {
+      "value": "Protones:"
+    },
+    "options.projectorMode": {
+      "value": "Modo Proyector"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (escala atómica)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (escala nuclear)"
+    },
+    "plumPuddingAtom": {
+      "value": "Átomo de pudín de ciruela"
+    },
+    "positiveCharge": {
+      "value": "Carga Positiva"
+    },
+    "proton": {
+      "value": "Protón"
+    },
+    "rutherford-scattering.title": {
+      "value": "Dispersión de Rutherford"
+    },
+    "rutherfordAtom": {
+      "value": "Átomo de Rutherford"
+    },
+    "showTraces": {
+      "value": "Rastros"
+    },
+    "translation.credits": {
+      "value": "Por Héctor R. MALLMA ALVARADO (UNFV)(LIMA-PERÚ) hecmall@hotmail.com; hecmall@outlook.com"
+    },
+    "turnOnTheGun": {
+      "value": "Enciende el arma"
+    }
+  },
+  "et": {
+    "alphaParticle": {
+      "value": "alfaosake"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfaosakese omadused"
+    },
+    "alphaParticleTrace": {
+      "value": "alfaosakese jälg"
+    },
+    "alphaParticles": {
+      "value": "Alfaosakesed"
+    },
+    "atom": {
+      "value": "Aatom"
+    },
+    "atomProperties": {
+      "value": "Aatomi omadused"
+    },
+    "electron": {
+      "value": "elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "elektroni energiatase"
+    },
+    "energy": {
+      "value": "Energia:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Legend:"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "neutron"
+    },
+    "nucleus": {
+      "value": "aatomituum"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronite arv:"
+    },
+    "numberOfProtons": {
+      "value": "Prootonite arv:"
+    },
+    "options.projectorMode": {
+      "value": "Projektori režiim"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (aatomi suurusjärk)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (tuuma suurusjärk)"
+    },
+    "plumPuddingAtom": {
+      "value": "Ploomipudingu aatom"
+    },
+    "positiveCharge": {
+      "value": "positiivne laeng"
+    },
+    "proton": {
+      "value": "prooton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordi hajumine"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherfordi aatom"
+    },
+    "showTraces": {
+      "value": "Näita trajektoore"
+    },
+    "translation.credits": {
+      "value": "S.K."
+    },
+    "turnOnTheGun": {
+      "value": "Lülita kahur sisse"
+    }
+  },
+  "eu": {
+    "options.projectorMode": {
+      "value": "Proiektore-modua"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa partikulen ezaugarriak"
+    },
+    "energy": {
+      "value": "Energia"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Erakutsi arrastoa"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "alphaParticle": {
+      "value": "Alfa partikula"
+    },
+    "electron": {
+      "value": "Elektroia"
+    },
+    "neutron": {
+      "value": "Neutroia"
+    },
+    "positiveCharge": {
+      "value": "Karga positiboa"
+    },
+    "proton": {
+      "value": "Protoia"
+    },
+    "alphaParticles": {
+      "value": "Alfa partikulak"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (eskala atomikoan)"
+    },
+    "plumPuddingAtom": {
+      "value": "Thomson-en atomoa (aran-budina)"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa partikulen arrastoa"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektroi-energiaren maila"
+    },
+    "nucleus": {
+      "value": "Nukleoa"
+    },
+    "atom": {
+      "value": "Atomoa"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutroi-kopurua"
+    },
+    "numberOfProtons": {
+      "value": "Protoi-kopurua"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (eskala nuklearrean)"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford-en atomoa"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherdord-en esperimentua"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "turnOnTheGun": {
+      "value": "Pistola piztu"
+    },
+    "atomProperties": {
+      "value": "Atomoaren ezaugarriak"
+    },
+    "translation.credits": {
+      "value": "J.L Arrieta"
+    }
+  },
+  "fa": {
+    "alphaParticle": {
+      "value": "ذره آلفا"
+    },
+    "alphaParticleProperties": {
+      "value": "ذره  آلفا"
+    },
+    "alphaParticleTrace": {
+      "value": "رد ذره آلفا"
+    },
+    "alphaParticles": {
+      "value": "ذرات آلفا"
+    },
+    "atom": {
+      "value": "اتم"
+    },
+    "atomProperties": {
+      "value": "ویژگی های اتم"
+    },
+    "electron": {
+      "value": "الكترون"
+    },
+    "electronEnergyLevel": {
+      "value": "تراز انرژی الکترون"
+    },
+    "energy": {
+      "value": "انرژى"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "شرح"
+    },
+    "maxEnergy": {
+      "value": "بیشینه"
+    },
+    "minEnergy": {
+      "value": "کمینه"
+    },
+    "neutron": {
+      "value": "نوترون"
+    },
+    "nucleus": {
+      "value": "هسته اتم"
+    },
+    "numberOfNeutrons": {
+      "value": "تعداد نوترون ها"
+    },
+    "numberOfProtons": {
+      "value": "تعداد پروتون ها"
+    },
+    "options.projectorMode": {
+      "value": "حالت پروژکتور"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} متر (مقیاس اتمی)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} متر (مقیاس هسته ای)"
+    },
+    "plumPuddingAtom": {
+      "value": "الگوی کیک کشمشی اتم تامسون"
+    },
+    "positiveCharge": {
+      "value": "بار مثبت"
+    },
+    "proton": {
+      "value": "پروتون"
+    },
+    "rutherford-scattering.title": {
+      "value": "پراکندگی رادرفورد"
+    },
+    "rutherfordAtom": {
+      "value": "الگوی اتم رادر فورد"
+    },
+    "showTraces": {
+      "value": "مسیرها را نشان بده"
+    },
+    "turnOnTheGun": {
+      "value": "تفنگ را روشن کن"
+    }
+  },
+  "fa_DA": {
+    "options.projectorMode": {
+      "value": "حالت پروجکتور"
+    },
+    "alphaParticleProperties": {
+      "value": "ذرهٔ الفا"
+    },
+    "energy": {
+      "value": "انرژی"
+    },
+    "maxEnergy": {
+      "value": "اعظمی"
+    },
+    "minEnergy": {
+      "value": "اصغری"
+    },
+    "showTraces": {
+      "value": "مسیرها را نشان دهید"
+    },
+    "legend": {
+      "value": "شرح"
+    },
+    "alphaParticle": {
+      "value": "ذرهٔ الفا"
+    },
+    "electron": {
+      "value": "الکترون"
+    },
+    "neutron": {
+      "value": "نیوترون"
+    },
+    "positiveCharge": {
+      "value": "چارج مثبت"
+    },
+    "proton": {
+      "value": "پروتون"
+    },
+    "alphaParticles": {
+      "value": "ذرات الفا"
+    },
+    "plumPuddingAtom": {
+      "value": "مدل اتومی تامسن (کیک کشمشی)"
+    },
+    "alphaParticleTrace": {
+      "value": "مسیر ذرهٔ الفا"
+    },
+    "electronEnergyLevel": {
+      "value": "سویهٔ انرژی الکترون"
+    },
+    "nucleus": {
+      "value": "هسته"
+    },
+    "atom": {
+      "value": "اتوم"
+    },
+    "numberOfNeutrons": {
+      "value": "نیوترون‌ها"
+    },
+    "numberOfProtons": {
+      "value": "پروتون‌ها"
+    },
+    "rutherfordAtom": {
+      "value": "اتوم رادرفورد"
+    },
+    "rutherford-scattering.title": {
+      "value": "پراگندگی رادرفورد"
+    }
+  },
+  "fi": {
+    "alphaParticle": {
+      "value": "alfahiukkanen"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfahiukkasen ominaisuudet"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfahiukkasen jälki"
+    },
+    "alphaParticles": {
+      "value": "Alfahiukkaset"
+    },
+    "atom": {
+      "value": "Atomi"
+    },
+    "atomProperties": {
+      "value": "Atomin ominaisuudet"
+    },
+    "electron": {
+      "value": "elektroni"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektronin energiataso"
+    },
+    "energy": {
+      "value": "Energia:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Selite"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "neutroni"
+    },
+    "nucleus": {
+      "value": "Ydin"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronien lukumäärä:"
+    },
+    "numberOfProtons": {
+      "value": "Protonien lukumäärä:"
+    },
+    "options.projectorMode": {
+      "value": "Projektorimoodi"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomin mittakaava)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (ytimen mittakaava)"
+    },
+    "plumPuddingAtom": {
+      "value": "Rusinakakkumalli"
+    },
+    "positiveCharge": {
+      "value": "positiivinen varaus"
+    },
+    "proton": {
+      "value": "protoni"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordin koe"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherfordin atomimalli"
+    },
+    "showTraces": {
+      "value": "Näytä jäljet"
+    },
+    "translation.credits": {
+      "value": "Rami Nuotio"
+    },
+    "turnOnTheGun": {
+      "value": "Käynnistä ase"
+    }
+  },
+  "fr": {
+    "options.projectorMode": {
+      "value": "Mode de projection"
+    },
+    "alphaParticleProperties": {
+      "value": "Propriétés des particules alpha"
+    },
+    "energy": {
+      "value": "Energie : "
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Montrer les traces des particules alpha"
+    },
+    "legend": {
+      "value": "Légende"
+    },
+    "alphaParticle": {
+      "value": "particule alpha"
+    },
+    "electron": {
+      "value": "Électron"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "positiveCharge": {
+      "value": "Charge positive"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Particules Alpha"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (échelle de l'atome)"
+    },
+    "plumPuddingAtom": {
+      "value": "Modèle de l'atome dit du \"Plum Pudding\""
+    },
+    "alphaParticleTrace": {
+      "value": "Trace de la particule Alpha"
+    },
+    "electronEnergyLevel": {
+      "value": "Niveaux d'énergie des électrons"
+    },
+    "nucleus": {
+      "value": "Noyau"
+    },
+    "atom": {
+      "value": "Atome"
+    },
+    "numberOfNeutrons": {
+      "value": "Nombre de neutrons : "
+    },
+    "numberOfProtons": {
+      "value": "Nombre de protons : "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (échelle du noyau)"
+    },
+    "rutherfordAtom": {
+      "value": "Modèle de l'atome de Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Diffusion de Rutherford"
+    },
+    "atomProperties": {
+      "value": "Propriétés de l'atome"
+    },
+    "turnOnTheGun": {
+      "value": "Activer la source de particule alpha"
+    }
+  },
+  "ga": {
+    "alphaParticle": {
+      "value": "Alfa-Cháithnín"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa-Cháithnín"
+    },
+    "alphaParticleTrace": {
+      "value": "Rian Alfa-Cháithnín"
+    },
+    "alphaParticles": {
+      "value": "Alfa-cháithníní"
+    },
+    "atom": {
+      "value": "Adamh"
+    },
+    "electron": {
+      "value": "Leictreon"
+    },
+    "electronEnergyLevel": {
+      "value": "Leibhéal Fuinnimh Leictreon"
+    },
+    "energy": {
+      "value": "Fuinneamh"
+    },
+    "legend": {
+      "value": "Eochair Eolais"
+    },
+    "maxEnergy": {
+      "value": "uas"
+    },
+    "minEnergy": {
+      "value": "íos"
+    },
+    "neutron": {
+      "value": "Neodrón"
+    },
+    "nucleus": {
+      "value": "Núicléas"
+    },
+    "numberOfNeutrons": {
+      "value": "Neodróin"
+    },
+    "numberOfProtons": {
+      "value": "Prótóin"
+    },
+    "options.projectorMode": {
+      "value": "Modh Teilgin"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (scála adamhach)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (scála núicléach)"
+    },
+    "plumPuddingAtom": {
+      "value": "Adamh Maróg Rísíní"
+    },
+    "positiveCharge": {
+      "value": "Lucht Deimhneach"
+    },
+    "proton": {
+      "value": "Prótón"
+    },
+    "rutherford-scattering.title": {
+      "value": "Scaipeadh Rutherford"
+    },
+    "rutherfordAtom": {
+      "value": "Adamh Rutherford"
+    },
+    "showTraces": {
+      "value": "Rianta"
+    }
+  },
+  "gl": {
+    "plumPuddingAtom": {
+      "value": "Modelo de Thomson"
+    },
+    "numberOfProtons": {
+      "value": "Número de protóns"
+    },
+    "rutherford-scattering.title": {
+      "value": "Dispersión de Rutherford"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "neutron": {
+      "value": "neutrón"
+    },
+    "energy": {
+      "value": "Enerxía"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "alphaParticle": {
+      "value": "partícula alfa"
+    },
+    "numberOfNeutrons": {
+      "value": "Número de neutróns"
+    },
+    "showTraces": {
+      "value": "Motrar traxectorias"
+    },
+    "legend": {
+      "value": "Lenda"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "rutherfordAtom": {
+      "value": "Modelo de Rutherford"
+    },
+    "proton": {
+      "value": "protón"
+    },
+    "turnOnTheGun": {
+      "value": "Acender o disparador"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (escala nuclear)"
+    },
+    "electron": {
+      "value": "electrón"
+    },
+    "atomProperties": {
+      "value": "Propiedades Átomo"
+    },
+    "alphaParticleProperties": {
+      "value": "Propiedades partícula alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (escala atómica)"
+    }
+  },
+  "gu": {
+    "alphaParticleProperties": {
+      "value": "આલ્ફા કણ"
+    },
+    "energy": {
+      "value": "ઉર્ઝા"
+    },
+    "maxEnergy": {
+      "value": "વધારે"
+    },
+    "minEnergy": {
+      "value": "ઓછી"
+    },
+    "alphaParticle": {
+      "value": "આલ્ફા કણ"
+    },
+    "electron": {
+      "value": "ઇલેક્ટ્રોન"
+    },
+    "neutron": {
+      "value": "ન્યુટ્રોન"
+    },
+    "positiveCharge": {
+      "value": "ધન વીજભાર"
+    },
+    "proton": {
+      "value": "પ્રોટોન"
+    },
+    "alphaParticles": {
+      "value": "આલ્ફા કણો"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (પરામાંણુ માપપટી)"
+    },
+    "alphaParticleTrace": {
+      "value": "આલ્ફા કણ દિશા"
+    },
+    "electronEnergyLevel": {
+      "value": "ઈલેક્ટ્રોનનું ઉર્ઝા સ્તર"
+    },
+    "nucleus": {
+      "value": "પરમાણુ કેન્દ્ર"
+    },
+    "atom": {
+      "value": "પરમાણુ"
+    },
+    "numberOfNeutrons": {
+      "value": "ન્યુટ્રોન"
+    },
+    "numberOfProtons": {
+      "value": "પ્રોટોન"
+    },
+    "rutherfordAtom": {
+      "value": "રુથરફોર્ડ પરમાણું"
+    },
+    "rutherford-scattering.title": {
+      "value": "રુથરફોર્ડનું વિખેરણ મોડેલ - જીજ્ઞેશ ખુંટ"
+    }
+  },
+  "ha": {
+    "options.projectorMode": {
+      "value": "Yanayin na'urar majigi "
+    },
+    "alphaParticleProperties": {
+      "value": "Ɓarɓashin alfa "
+    },
+    "energy": {
+      "value": "Attakka/Kuzari "
+    },
+    "maxEnergy": {
+      "value": "mafi yawa "
+    },
+    "minEnergy": {
+      "value": "mafi ƙaranta "
+    },
+    "showTraces": {
+      "value": "Layukka "
+    },
+    "legend": {
+      "value": "Ƙarin bayani akan taswira"
+    },
+    "alphaParticle": {
+      "value": "Ɓarɓashin alfa "
+    },
+    "electron": {
+      "value": "Ilaktiron "
+    },
+    "neutron": {
+      "value": "Nutara"
+    },
+    "positiveCharge": {
+      "value": "Chajin lantarki mai Alamar tarawa "
+    },
+    "proton": {
+      "value": "Furotan "
+    },
+    "alphaParticles": {
+      "value": "Ɓarɓashin alfa "
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "Zarra (a misalin kamar gwaiba)"
+    },
+    "alphaParticleTrace": {
+      "value": "Layin da Ɓarɓashin alfa yabi "
+    },
+    "electronEnergyLevel": {
+      "value": "Matsayin kuzarin Ilaktiron "
+    },
+    "nucleus": {
+      "value": "Zuciyar zarra (tsakiya)"
+    },
+    "atom": {
+      "value": "Zarra "
+    },
+    "numberOfNeutrons": {
+      "value": "Nituran"
+    },
+    "numberOfProtons": {
+      "value": "Furoton "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Zarrar Rutherford "
+    },
+    "rutherford-scattering.title": {
+      "value": "Tarwatsewar hasken Rutherford "
+    }
+  },
+  "hi": {
+    "options.projectorMode": {
+      "value": "प्रक्षेपण  विधि "
+    },
+    "alphaParticleProperties": {
+      "value": "अल्फा कण "
+    },
+    "energy": {
+      "value": "उर्जा "
+    },
+    "maxEnergy": {
+      "value": "अधिकतम "
+    },
+    "minEnergy": {
+      "value": "न्यूनतम "
+    },
+    "showTraces": {
+      "value": "निशान "
+    },
+    "legend": {
+      "value": "संकेत "
+    },
+    "alphaParticle": {
+      "value": "अल्फा कण "
+    },
+    "electron": {
+      "value": "इलेक्ट्रॉन "
+    },
+    "neutron": {
+      "value": "न्यूट्रॉन "
+    },
+    "positiveCharge": {
+      "value": "धनात्मक आवेश "
+    },
+    "proton": {
+      "value": "प्रोटॉन "
+    },
+    "alphaParticles": {
+      "value": "अल्फा कण"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (परमाणु पैमाना )"
+    },
+    "plumPuddingAtom": {
+      "value": "किशमिश से भरा हलवे जैसा परमाणु "
+    },
+    "alphaParticleTrace": {
+      "value": "अल्फा कणों के निशान "
+    },
+    "electronEnergyLevel": {
+      "value": "इलेक्ट्रॉन उर्जा स्तर "
+    },
+    "nucleus": {
+      "value": "नाभिक "
+    },
+    "atom": {
+      "value": "परमाणु "
+    },
+    "numberOfNeutrons": {
+      "value": "न्यूट्रॉनों की संख्या "
+    },
+    "numberOfProtons": {
+      "value": "प्रोटॉनों  की संख्या "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (नाभिकीय पैमाना )"
+    },
+    "rutherfordAtom": {
+      "value": "रुदरफोर्ड परमाणु "
+    },
+    "rutherford-scattering.title": {
+      "value": "रुदरफोर्ड विकिरण "
+    }
+  },
+  "hr": {
+    "plumPuddingAtom": {
+      "value": "Puding model atoma"
+    },
+    "numberOfProtons": {
+      "value": "Broj protona:"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordovo raspršenje"
+    },
+    "maxEnergy": {
+      "value": "maksimum"
+    },
+    "neutron": {
+      "value": "neutron"
+    },
+    "energy": {
+      "value": "Energija:"
+    },
+    "minEnergy": {
+      "value": "minimum"
+    },
+    "alphaParticle": {
+      "value": "alfa čestica"
+    },
+    "numberOfNeutrons": {
+      "value": "Broj neutrona:"
+    },
+    "showTraces": {
+      "value": "Pokaži tragove čestica"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherfordov atom"
+    },
+    "proton": {
+      "value": "proton"
+    },
+    "turnOnTheGun": {
+      "value": "Uključi"
+    },
+    "atomProperties": {
+      "value": "Svojstva atoma"
+    },
+    "electron": {
+      "value": "elektron"
+    },
+    "rutherford-scattering.description": {
+      "value": "Kako znamo da atomi izgledaju upravo onako nako nas uče: mala kompaktna pozitivno nabijena jezgra koja nosi gotovo svu masu atoma i veliki elektronski oblak oko nje u kojem se nalaze lagani negativno nabijeni elektroni. Rutherford je eksperimentalno utvrdio ovu sliku! Ideju eksperimenta dočarava i ova simulacija."
+    },
+    "alphaParticleProperties": {
+      "value": "Svojstva alfa čestice"
+    }
+  },
+  "ht": {
+    "options.projectorMode": {
+      "value": "Pwojektè Mòd"
+    },
+    "alphaParticleProperties": {
+      "value": "Patikil Alfa"
+    },
+    "energy": {
+      "value": "Enèji"
+    },
+    "maxEnergy": {
+      "value": "maks"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Tras"
+    },
+    "legend": {
+      "value": "Lejand"
+    },
+    "alphaParticle": {
+      "value": "Patikil Alfa"
+    },
+    "electron": {
+      "value": "Elektwon"
+    },
+    "neutron": {
+      "value": "Netwon"
+    },
+    "positiveCharge": {
+      "value": "Chaj Pozitif"
+    },
+    "proton": {
+      "value": "Pwoton"
+    },
+    "alphaParticles": {
+      "value": "Patikil Alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (echèl atomik)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atòm pouding prin"
+    },
+    "alphaParticleTrace": {
+      "value": "Trase Patikil Alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Nivo Enèji Elektwonik"
+    },
+    "nucleus": {
+      "value": "Nwayo"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Netwon"
+    },
+    "numberOfProtons": {
+      "value": "Pwoton"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (echèl nikleyè)"
+    },
+    "rutherfordAtom": {
+      "value": "Atom Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Difizyon Rutherford"
+    }
+  },
+  "hu": {
+    "alphaParticle": {
+      "value": "alfa-részecske"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa-részecskék"
+    },
+    "alphaParticleTrace": {
+      "value": "alfa-részecske nyomvonala"
+    },
+    "alphaParticles": {
+      "value": "Alfa-részecskék"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atomProperties": {
+      "value": "Az atommag összetétele"
+    },
+    "electron": {
+      "value": "elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "elektron-energiaszintek"
+    },
+    "energy": {
+      "value": "Energia:"
+    },
+    "legend": {
+      "value": "Jelölések"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "neutron"
+    },
+    "nucleus": {
+      "value": "atommag"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronok"
+    },
+    "numberOfProtons": {
+      "value": "Protonok"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} 000 fm (aranyatom átmérője)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (aranyatommag átmérője × 10)"
+    },
+    "plumPuddingAtom": {
+      "value": "Mazsoláspuding-atom"
+    },
+    "positiveCharge": {
+      "value": "pozitív töltés"
+    },
+    "proton": {
+      "value": "proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford-szórás"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford-atom"
+    },
+    "showTraces": {
+      "value": "Nyomvonallal"
+    },
+    "turnOnTheGun": {
+      "value": "Tüzelj!"
+    }
+  },
+  "hy": {
+    "options.projectorMode": {
+      "value": "Պրոյեկտորի ռեժիմ"
+    },
+    "alphaParticleProperties": {
+      "value": "Ալֆա մասնիկ"
+    },
+    "energy": {
+      "value": "Էներգիա"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Հետքեր"
+    },
+    "legend": {
+      "value": "Նշանակումներ"
+    },
+    "alphaParticle": {
+      "value": "Ալֆա մասնիկ"
+    },
+    "electron": {
+      "value": "Էլեկտրոն"
+    },
+    "neutron": {
+      "value": "Նեյտրոն"
+    },
+    "positiveCharge": {
+      "value": "Դրական լիցք"
+    },
+    "proton": {
+      "value": "Պրոտոն"
+    },
+    "alphaParticles": {
+      "value": "Ալֆա մասնիկ"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} մ (ատոմական մասշտաբ)"
+    },
+    "plumPuddingAtom": {
+      "value": "Չամիչով բուլկի ատոմ"
+    },
+    "alphaParticleTrace": {
+      "value": "Ալֆա մասնիկի հետք"
+    },
+    "electronEnergyLevel": {
+      "value": "Էլեկտրոնի էներգիայի մակարդակ"
+    },
+    "nucleus": {
+      "value": "Միջուկներ"
+    },
+    "atom": {
+      "value": "Ատոմ"
+    },
+    "numberOfNeutrons": {
+      "value": "Նեյտրոններ"
+    },
+    "numberOfProtons": {
+      "value": "Պրոտոններ"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} մ (միջուկայինմասշտաբ)"
+    },
+    "rutherfordAtom": {
+      "value": "Ռեզերֆորդի ատոմ"
+    },
+    "rutherford-scattering.title": {
+      "value": "Ռեզերֆորդի ցրում"
+    }
+  },
+  "ig": {
+    "options.projectorMode": {
+      "value": "Ụdị projector"
+    },
+    "alphaParticleProperties": {
+      "value": "Mkpụrụ irighiri alfa"
+    },
+    "energy": {
+      "value": "Ike"
+    },
+    "maxEnergy": {
+      "value": "kacha"
+    },
+    "minEnergy": {
+      "value": "kacha nta"
+    },
+    "showTraces": {
+      "value": "Chọpụta"
+    },
+    "legend": {
+      "value": "Akụkọ mgbe ochie"
+    },
+    "alphaParticle": {
+      "value": "Mkpụrụ irighiri alfa"
+    },
+    "electron": {
+      "value": "Elektrọn"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "positiveCharge": {
+      "value": "ichaaaji positive"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Mkpụrụ irighiri alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (Ọnụ ọgụgụ atọmịk)"
+    },
+    "plumPuddingAtom": {
+      "value": "Plọm Pudding Atọm"
+    },
+    "alphaParticleTrace": {
+      "value": "Chọpụta mkpụrụ irighiri alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Ike larịị nke Elektrọn "
+    },
+    "nucleus": {
+      "value": "Nucleus"
+    },
+    "atom": {
+      "value": "Atọm"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutron"
+    },
+    "numberOfProtons": {
+      "value": "protons"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (ọnụ ọgụgụ nuklia)"
+    },
+    "rutherfordAtom": {
+      "value": "Atọm nke Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "ịgbasa nke Rutherford"
+    }
+  },
+  "in": {
+    "plumPuddingAtom": {
+      "value": "Atom Thomson (Kue kismis)"
+    },
+    "numberOfProtons": {
+      "value": "Banyaknya Proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Hamburan Rutherford"
+    },
+    "maxEnergy": {
+      "value": "Maksimum"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "energy": {
+      "value": "Energi:"
+    },
+    "minEnergy": {
+      "value": "Minimum"
+    },
+    "alphaParticle": {
+      "value": "Partikel alfa"
+    },
+    "numberOfNeutrons": {
+      "value": "Banyaknya Neutron"
+    },
+    "showTraces": {
+      "value": "Tunjukan jejak"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "rutherfordAtom": {
+      "value": "Atom Rutherford"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "turnOnTheGun": {
+      "value": "Tembak "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (skala nuklir)"
+    },
+    "electron": {
+      "value": "elektron"
+    },
+    "atomProperties": {
+      "value": "Sifat Atom"
+    },
+    "translation.credits": {
+      "value": "Anne Sirait\nSTKIP - Surya\nannesirait@gmail.com / annesirait@stkipsurya.ac.id"
+    },
+    "alphaParticleProperties": {
+      "value": "Sifat Partikel Alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (skala atomik)"
+    }
+  },
+  "it": {
+    "options.projectorMode": {
+      "value": "Modalità proiettore"
+    },
+    "alphaParticleProperties": {
+      "value": "Proprietà delle particelle Alfa"
+    },
+    "energy": {
+      "value": "Energia"
+    },
+    "maxEnergy": {
+      "value": "Max"
+    },
+    "minEnergy": {
+      "value": "Min"
+    },
+    "showTraces": {
+      "value": "Tracce"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "alphaParticle": {
+      "value": "Particella alfa"
+    },
+    "electron": {
+      "value": "Elettrone"
+    },
+    "neutron": {
+      "value": "Neutrone"
+    },
+    "positiveCharge": {
+      "value": "Carica positiva"
+    },
+    "proton": {
+      "value": "Protone"
+    },
+    "alphaParticles": {
+      "value": "Particelle alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (scala atomica)"
+    },
+    "plumPuddingAtom": {
+      "value": "Modello atomico a panettone"
+    },
+    "alphaParticleTrace": {
+      "value": "Traccia particella alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Livello energetico elettrone"
+    },
+    "nucleus": {
+      "value": "Nucleo"
+    },
+    "atom": {
+      "value": "Nucleoni dell'atomo"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutroni"
+    },
+    "numberOfProtons": {
+      "value": "Protoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (scala nucleare)"
+    },
+    "rutherfordAtom": {
+      "value": "Atomo di Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Diffusione di Rutherford"
+    },
+    "atomProperties": {
+      "value": "Proprietà dell'atomo"
+    },
+    "turnOnTheGun": {
+      "value": "Accendi la pistola"
+    }
+  },
+  "iw": {
+    "options.projectorMode": {
+      "value": "מצב הקרנה"
+    },
+    "alphaParticleProperties": {
+      "value": "תכונות חלקי האלפא"
+    },
+    "energy": {
+      "value": "אנרגיה:"
+    },
+    "maxEnergy": {
+      "value": "מקסימום"
+    },
+    "minEnergy": {
+      "value": "מינימום"
+    },
+    "showTraces": {
+      "value": "הראה עקבות"
+    },
+    "legend": {
+      "value": "מקרא"
+    },
+    "alphaParticle": {
+      "value": "חלקיק אלפא"
+    },
+    "electron": {
+      "value": "אלקטרון"
+    },
+    "neutron": {
+      "value": "נויטרון"
+    },
+    "positiveCharge": {
+      "value": "מטען חיובי"
+    },
+    "proton": {
+      "value": "פרוטון"
+    },
+    "alphaParticles": {
+      "value": "חלקיקי אלפא"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (קנה מידה אטומי)"
+    },
+    "plumPuddingAtom": {
+      "value": "מודל עוגת הצימוקים"
+    },
+    "alphaParticleTrace": {
+      "value": "עקבות חלקיקי אלפא"
+    },
+    "electronEnergyLevel": {
+      "value": "רמת יינון של האלקטרונים"
+    },
+    "nucleus": {
+      "value": "גרעין"
+    },
+    "atom": {
+      "value": "אטום"
+    },
+    "numberOfNeutrons": {
+      "value": "מספר נויטרונים:"
+    },
+    "numberOfProtons": {
+      "value": "מספר פרוטונים:"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (קנה מידה גרעיני)"
+    },
+    "rutherfordAtom": {
+      "value": "אטום ראתרפורד"
+    },
+    "rutherford-scattering.title": {
+      "value": "פיזור ראתרפורד"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "turnOnTheGun": {
+      "value": "הפעל תותח"
+    },
+    "atomProperties": {
+      "value": "תכונות האטום"
+    },
+    "rutherford-scattering.description": {
+      "value": "כיצד פענח ראתרפורד את מבנה גרעין האטום מבלי לצפות בו? בצע סימולציה של הניסוי המפורסם שהפריך את מודל עוגת הצימוקים של האטום ע"
+    }
+  },
+  "ja": {
+    "legend": {
+      "value": "凡例"
+    },
+    "electron": {
+      "value": "電子"
+    },
+    "proton": {
+      "value": "陽子"
+    },
+    "neutron": {
+      "value": "中性子"
+    },
+    "alphaParticle": {
+      "value": "α粒子"
+    },
+    "positiveCharge": {
+      "value": "正の電荷"
+    },
+    "alphaParticleProperties": {
+      "value": "α粒子"
+    },
+    "energy": {
+      "value": "エネルギー "
+    },
+    "showTraces": {
+      "value": "軌跡を表示"
+    },
+    "minEnergy": {
+      "value": "最小"
+    },
+    "maxEnergy": {
+      "value": "最大"
+    },
+    "alphaParticles": {
+      "value": "アルファ粒子"
+    },
+    "atom": {
+      "value": "原子"
+    },
+    "numberOfProtons": {
+      "value": "陽子の数 "
+    },
+    "numberOfNeutrons": {
+      "value": "中性子の数 "
+    },
+    "nucleus": {
+      "value": "原子核"
+    },
+    "electronEnergyLevel": {
+      "value": "電気エネルギーレベル"
+    },
+    "alphaParticleTrace": {
+      "value": "α粒子の軌跡"
+    },
+    "rutherfordAtom": {
+      "value": "ラザフォードモデル"
+    },
+    "plumPuddingAtom": {
+      "value": "プラムプディングモデル"
+    },
+    "rutherford-scattering.title": {
+      "value": "ラザフォード散乱"
+    },
+    "turnOnTheGun": {
+      "value": "照射器のスイッチを入れて下さい"
+    },
+    "atomProperties": {
+      "value": "原子の設定"
+    },
+    "translation.credits": {
+      "value": "高知工科大学"
+    }
+  },
+  "ka": {
+    "options.projectorMode": {
+      "value": "პროექტორი"
+    },
+    "alphaParticleProperties": {
+      "value": "ალფა ნაწილაკი"
+    },
+    "energy": {
+      "value": "ენერგია"
+    },
+    "maxEnergy": {
+      "value": "მაქს."
+    },
+    "minEnergy": {
+      "value": "მინ."
+    },
+    "showTraces": {
+      "value": "კვალი"
+    },
+    "legend": {
+      "value": "აღნიშვნა"
+    },
+    "alphaParticle": {
+      "value": "ალფა ნაწილაკი"
+    },
+    "electron": {
+      "value": "ელექტრონი"
+    },
+    "neutron": {
+      "value": "ნეიტრონი"
+    },
+    "positiveCharge": {
+      "value": "დადებითი მუხტი"
+    },
+    "proton": {
+      "value": "პროტონი"
+    },
+    "alphaParticles": {
+      "value": "ალფა ნაწილაკი"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (ატომის სკალა)"
+    },
+    "plumPuddingAtom": {
+      "value": "ტომსონის მოდელი"
+    },
+    "alphaParticleTrace": {
+      "value": "ალფა ნაწილლაკის კვალი"
+    },
+    "electronEnergyLevel": {
+      "value": "ელექტრონის ენერგიის დონე"
+    },
+    "nucleus": {
+      "value": "ბირთვი"
+    },
+    "atom": {
+      "value": "ატომი"
+    },
+    "numberOfNeutrons": {
+      "value": "ნეიტრონები"
+    },
+    "numberOfProtons": {
+      "value": "პროტონები"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (ბირთვის სკალა)"
+    },
+    "rutherfordAtom": {
+      "value": "რეზერფორდის ატომი"
+    },
+    "rutherford-scattering.title": {
+      "value": "რეზერფორდის გაბნევა"
+    }
+  },
+  "ki": {
+    "options.projectorMode": {
+      "value": "Njĩra ya kũruta mbica"
+    },
+    "alphaParticleProperties": {
+      "value": "Gĩcunjĩ kĩa Alpha"
+    },
+    "energy": {
+      "value": "Ũũmbi"
+    },
+    "maxEnergy": {
+      "value": "Nene"
+    },
+    "minEnergy": {
+      "value": "nini"
+    },
+    "showTraces": {
+      "value": "Marũũri"
+    },
+    "legend": {
+      "value": "Rũgano"
+    },
+    "alphaParticle": {
+      "value": "Gĩcunjĩ kĩa Alpha"
+    },
+    "electron": {
+      "value": "Erektroni"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "positiveCharge": {
+      "value": "Kũrĩha Kũrĩha Kũrĩha"
+    },
+    "proton": {
+      "value": "Protoni"
+    },
+    "alphaParticles": {
+      "value": "Tũcunjĩ twa Alpha"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atomu ya Mũcamo wa Mũcamo"
+    },
+    "alphaParticleTrace": {
+      "value": "Kĩruru kĩa Kĩndũ kĩa Alpha"
+    },
+    "electronEnergyLevel": {
+      "value": "Ũritũ wa Ihenya rĩa Erektroni"
+    },
+    "nucleus": {
+      "value": "Kĩongo"
+    },
+    "atom": {
+      "value": "Atomu"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutroni"
+    },
+    "numberOfProtons": {
+      "value": "Protoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Atomu ya Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Kũhurunjũka kwa Rutherford"
+    }
+  },
+  "kk": {
+    "alphaParticle": {
+      "value": "Альфа-бөлшек"
+    },
+    "alphaParticleProperties": {
+      "value": "Альфа-бөлшек"
+    },
+    "alphaParticleTrace": {
+      "value": "Альфа-бөлшегінің ізі"
+    },
+    "atom": {
+      "value": "Атом"
+    },
+    "atomProperties": {
+      "value": "атомның  ұрғашылыктары"
+    },
+    "electron": {
+      "value": "электрон"
+    },
+    "electronEnergyLevel": {
+      "value": "Электрондардың энергетискалық деңгейлері"
+    },
+    "energy": {
+      "value": "энергия"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Белгілері"
+    },
+    "maxEnergy": {
+      "value": "Максималды мәні"
+    },
+    "minEnergy": {
+      "value": "Минималды мәні"
+    },
+    "neutron": {
+      "value": "нейтрон"
+    },
+    "nucleus": {
+      "value": "Нуклондар"
+    },
+    "numberOfNeutrons": {
+      "value": "Нейтрондар"
+    },
+    "numberOfProtons": {
+      "value": "Протондар"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} м (атом масштабы) "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} м (молекула масштабы)"
+    },
+    "plumPuddingAtom": {
+      "value": "Резерфорд атомының моделі"
+    },
+    "positiveCharge": {
+      "value": "Оң заряд"
+    },
+    "proton": {
+      "value": "протон"
+    },
+    "rutherford-scattering.title": {
+      "value": "Себудің Резерфорды"
+    },
+    "rutherfordAtom": {
+      "value": "Резерфорд атомы"
+    },
+    "showTraces": {
+      "value": "Іздері"
+    },
+    "turnOnTheGun": {
+      "value": "пистолетті қосу"
+    }
+  },
+  "km": {
+    "plumPuddingAtom": {
+      "value": "អាតូម​សង់ខ្យា​ផ្លែព្រូន"
+    },
+    "numberOfProtons": {
+      "value": "ចំនួន​ប្រូតុង ៖"
+    },
+    "rutherford-scattering.title": {
+      "value": "ការ​ពង្រាយ"
+    },
+    "maxEnergy": {
+      "value": "អតិ."
+    },
+    "neutron": {
+      "value": "ណឺត្រុង"
+    },
+    "energy": {
+      "value": "ថាមពល ៖"
+    },
+    "minEnergy": {
+      "value": "អប្ប."
+    },
+    "alphaParticle": {
+      "value": "ភាគល្អិត​អាល់ផា"
+    },
+    "numberOfNeutrons": {
+      "value": "ចំនួន​ណឹត្រុង ៖"
+    },
+    "showTraces": {
+      "value": "បង្ហាញ​ដាន"
+    },
+    "legend": {
+      "value": "តាង"
+    },
+    "int.minControlPanelWidth": {
+      "value": "២៥០"
+    },
+    "rutherfordAtom": {
+      "value": "អាតូម Rutherford"
+    },
+    "proton": {
+      "value": "ប្រូតុង"
+    },
+    "turnOnTheGun": {
+      "value": "បើក​កាំភ្លើង"
+    },
+    "atomProperties": {
+      "value": "លក្ខណៈ​អាតូម"
+    },
+    "electron": {
+      "value": "អេឡិចត្រុង"
+    },
+    "alphaParticleProperties": {
+      "value": "លក្ខណៈ​ភាគល្អិត​អាល់ផា"
+    }
+  },
+  "kn": {
+    "options.projectorMode": {
+      "value": "Projector Mode"
+    },
+    "alphaParticleProperties": {
+      "value": "ಆಲ್ಫಾ ಕಣದ ಗುಣ"
+    },
+    "energy": {
+      "value": "ಶಕ್ತಿ:"
+    },
+    "maxEnergy": {
+      "value": "ಗರಿಷ್ಠ"
+    },
+    "minEnergy": {
+      "value": "ಕನಿಷ್ಠ"
+    },
+    "showTraces": {
+      "value": "ಗೆರೆ ತೋರಿಸು"
+    },
+    "legend": {
+      "value": "ಪಟ್ಟಿ"
+    },
+    "alphaParticle": {
+      "value": "ಆಲ್ಫಾ ಕಣ"
+    },
+    "electron": {
+      "value": "ಎಲೆಕ್ಟ್ರಾನ್"
+    },
+    "neutron": {
+      "value": "ನ್ಯೂಟ್ರಾನ್"
+    },
+    "positiveCharge": {
+      "value": "ಧನ ಆವೇಶ"
+    },
+    "proton": {
+      "value": "ಪ್ರೋಟಾನ್"
+    },
+    "alphaParticles": {
+      "value": "ಆಲ್ಫಾ ಕಣ"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "ಕೇಕ್ ಮಾದರಿ ಪರಮಾಣು"
+    },
+    "alphaParticleTrace": {
+      "value": "ಆಲ್ಫಾ ಕಣ Trace"
+    },
+    "electronEnergyLevel": {
+      "value": "ಎಲೆಕ್ಟ್ರಾನ್ ಶಕ್ತಿ ಮಟ್ಟ"
+    },
+    "nucleus": {
+      "value": "ನ್ಯೂಕ್ಲಿಯಸ್"
+    },
+    "atom": {
+      "value": "ಪರಮಾಣು"
+    },
+    "numberOfNeutrons": {
+      "value": "ನ್ಯೂಟ್ರಾನ್ ಸಂಖ್ಯೆ: "
+    },
+    "numberOfProtons": {
+      "value": "ಪ್ರೋಟಾನ್ ಸಂಖ್ಯೆ: "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "ರುದರ್‌ಫೋರ್ಡ್"
+    },
+    "rutherford-scattering.title": {
+      "value": "ರುದರ್‌ಫೋರ್ಡ್‌ರವರ ಚದುರುವಿಕೆ"
+    },
+    "turnOnTheGun": {
+      "value": "ಗನ್ ಆನ್ ಮಾಡು"
+    },
+    "atomProperties": {
+      "value": "ಪರಮಾಣುವಿನ ಗುಣ "
+    }
+  },
+  "ko": {
+    "alphaParticle": {
+      "value": "알파입자"
+    },
+    "alphaParticleProperties": {
+      "value": "알파입자 성질"
+    },
+    "alphaParticleTrace": {
+      "value": "알파입자 흔적"
+    },
+    "alphaParticles": {
+      "value": "알파입자"
+    },
+    "atom": {
+      "value": "원자"
+    },
+    "atomProperties": {
+      "value": "원자 성질"
+    },
+    "electron": {
+      "value": "전자"
+    },
+    "electronEnergyLevel": {
+      "value": "전자 에너지 준위"
+    },
+    "energy": {
+      "value": "에너지"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "범례"
+    },
+    "maxEnergy": {
+      "value": "최대"
+    },
+    "minEnergy": {
+      "value": "최소"
+    },
+    "neutron": {
+      "value": "중성자"
+    },
+    "nucleus": {
+      "value": "원자핵"
+    },
+    "numberOfNeutrons": {
+      "value": "중성자 수:"
+    },
+    "numberOfProtons": {
+      "value": "양성자 수:"
+    },
+    "options.projectorMode": {
+      "value": "프로젝터 모드"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (원자 규모)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (원자핵 규모)"
+    },
+    "plumPuddingAtom": {
+      "value": "자두 푸딩 원자"
+    },
+    "positiveCharge": {
+      "value": "양 전하"
+    },
+    "proton": {
+      "value": "양성자"
+    },
+    "rutherford-scattering.title": {
+      "value": "러더포드 산란"
+    },
+    "rutherfordAtom": {
+      "value": "러더포드 원자"
+    },
+    "showTraces": {
+      "value": "흔적 보기"
+    },
+    "translation.credits": {
+      "value": "이화국 전북대 명예교수(www.whakuk.com)"
+    },
+    "turnOnTheGun": {
+      "value": "발사총 작동"
+    }
+  },
+  "ku": {
+    "options.projectorMode": {
+      "value": "جۆری وێنه‌نوێن"
+    },
+    "alphaParticleProperties": {
+      "value": "تەنۆلکەی ئەلفا"
+    },
+    "energy": {
+      "value": "وزە"
+    },
+    "maxEnergy": {
+      "value": "بەرزترین نرخ"
+    },
+    "minEnergy": {
+      "value": "نزمترین نرخ"
+    },
+    "showTraces": {
+      "value": "شوێنەوار"
+    },
+    "legend": {
+      "value": "شیکردنەوە"
+    },
+    "alphaParticle": {
+      "value": "تەنۆلکەی ئەلفا"
+    },
+    "electron": {
+      "value": "ئەلیکترۆن"
+    },
+    "neutron": {
+      "value": "نیەترۆن"
+    },
+    "positiveCharge": {
+      "value": "بارگەی موجەب"
+    },
+    "proton": {
+      "value": "پرۆتۆن"
+    },
+    "alphaParticles": {
+      "value": "تەنۆلکەی ئەلفا"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} م (پێوانەی گەردیلە)"
+    },
+    "plumPuddingAtom": {
+      "value": "مۆدێلی تۆمسۆن"
+    },
+    "alphaParticleTrace": {
+      "value": "شوێنەواری تەنۆلکەی ئەلفا"
+    },
+    "electronEnergyLevel": {
+      "value": "ئاستە وزەی ئەلیکترۆن"
+    },
+    "nucleus": {
+      "value": "ناوک"
+    },
+    "atom": {
+      "value": "گەردیلە"
+    },
+    "numberOfNeutrons": {
+      "value": "نیوترۆنەکان"
+    },
+    "numberOfProtons": {
+      "value": "پرۆتۆنەکان"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} م (پێوانەی ناوک)"
+    },
+    "rutherfordAtom": {
+      "value": "مۆدێلی گەردیلەیی ڕەزەرفۆرد"
+    },
+    "rutherford-scattering.title": {
+      "value": "پەرژبوونەوەی ڕەزەرفۆرد"
+    }
+  },
+  "lg": {
+    "options.projectorMode": {
+      "value": "Modi ya Pulojekita"
+    },
+    "alphaParticleProperties": {
+      "value": "Ekitundu Kya alufa"
+    },
+    "energy": {
+      "value": "Amanyi"
+    },
+    "maxEnergy": {
+      "value": "Ekisingayo"
+    },
+    "minEnergy": {
+      "value": "Ekisembayo"
+    },
+    "showTraces": {
+      "value": "Ebigobererwa"
+    },
+    "legend": {
+      "value": "Omuzira"
+    },
+    "alphaParticle": {
+      "value": "Ekitundu Kya alufa "
+    },
+    "electron": {
+      "value": "Obusannyalazo"
+    },
+    "neutron": {
+      "value": "Nyutulooni"
+    },
+    "positiveCharge": {
+      "value": "Masanyalaze"
+    },
+    "proton": {
+      "value": "Pulotoni"
+    },
+    "alphaParticles": {
+      "value": "Ekitundu Kya alufa "
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atomuya Puddingi ya Plumu"
+    },
+    "alphaParticleTrace": {
+      "value": "Ekitundu Kya alufa ekigobererwa"
+    },
+    "electronEnergyLevel": {
+      "value": "Levo yamanyi gobusanyalaze"
+    },
+    "nucleus": {
+      "value": "Nukiliyasi"
+    },
+    "atom": {
+      "value": "Atomu"
+    },
+    "numberOfNeutrons": {
+      "value": "Nyutulooni"
+    },
+    "numberOfProtons": {
+      "value": "Pulotoni "
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford Atomu "
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford Okusaasaana  "
+    }
+  },
+  "lt": {
+    "options.projectorMode": {
+      "value": "Projektoriaus režimas"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa dalelė"
+    },
+    "energy": {
+      "value": "Energija"
+    },
+    "maxEnergy": {
+      "value": "maks."
+    },
+    "minEnergy": {
+      "value": "min."
+    },
+    "showTraces": {
+      "value": "Pėdsakai"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "alphaParticle": {
+      "value": "Alfa dalelė"
+    },
+    "electron": {
+      "value": "Elektronas"
+    },
+    "neutron": {
+      "value": "Neutronas"
+    },
+    "positiveCharge": {
+      "value": "Teigiamas krūvis"
+    },
+    "proton": {
+      "value": "Protonas"
+    },
+    "alphaParticles": {
+      "value": "Alfa dalelės"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atominė skalė)"
+    },
+    "plumPuddingAtom": {
+      "value": "Razinų pudingo atomas"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa dalelės pėdsakas"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektrono energijos lygis"
+    },
+    "nucleus": {
+      "value": "Branduolys"
+    },
+    "atom": {
+      "value": "Atomas"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronai"
+    },
+    "numberOfProtons": {
+      "value": "Protonai"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (branduolio skalė)"
+    },
+    "rutherfordAtom": {
+      "value": "Rezerfordo atomas"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rezerfordo Sklaida"
+    }
+  },
+  "lv": {
+    "options.projectorMode": {
+      "value": "Projektēšanas režīms"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa daļiņa"
+    },
+    "energy": {
+      "value": "Enerģija"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Trajektorijas"
+    },
+    "legend": {
+      "value": "Paskaidrojumi"
+    },
+    "alphaParticle": {
+      "value": "Alfa daļiņas"
+    },
+    "electron": {
+      "value": "Elektrons"
+    },
+    "neutron": {
+      "value": "Neitrons"
+    },
+    "positiveCharge": {
+      "value": "Pozitīvais lādiņš"
+    },
+    "proton": {
+      "value": "Protons"
+    },
+    "alphaParticles": {
+      "value": "Alfa daļiņas"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (molekulu skala)"
+    },
+    "plumPuddingAtom": {
+      "value": "Plūmju pudiņa atoms"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa daļiņu trajektorija"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektronu enerģijas līmenis"
+    },
+    "nucleus": {
+      "value": "Kodols"
+    },
+    "atom": {
+      "value": "Atoms"
+    },
+    "numberOfNeutrons": {
+      "value": "Neitroni"
+    },
+    "numberOfProtons": {
+      "value": "Protoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (kodolu skala)"
+    },
+    "rutherfordAtom": {
+      "value": "Rezerforda atoms"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rezerforda izkliede"
+    }
+  },
+  "mk": {
+    "plumPuddingAtom": {
+      "value": "Пудинг модел на атом"
+    },
+    "numberOfProtons": {
+      "value": "Број на протони:"
+    },
+    "rutherford-scattering.title": {
+      "value": "Рутерфордово расејување"
+    },
+    "maxEnergy": {
+      "value": "мин."
+    },
+    "neutron": {
+      "value": "неутрон"
+    },
+    "energy": {
+      "value": "Енергија:"
+    },
+    "minEnergy": {
+      "value": "макс."
+    },
+    "alphaParticle": {
+      "value": "Алфа честичка"
+    },
+    "numberOfNeutrons": {
+      "value": "Број на неутрони:"
+    },
+    "showTraces": {
+      "value": "Покажи траги"
+    },
+    "legend": {
+      "value": "Ознака"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "rutherfordAtom": {
+      "value": "Рутерфордов атом"
+    },
+    "proton": {
+      "value": "протон"
+    },
+    "turnOnTheGun": {
+      "value": "Вклучи"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (нуклеарна скала)"
+    },
+    "electron": {
+      "value": "електрон"
+    },
+    "atomProperties": {
+      "value": "Особини на атом"
+    },
+    "translation.credits": {
+      "value": "Зоран Христовски"
+    },
+    "alphaParticleProperties": {
+      "value": "Особини на Алфа честичка"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (атомска скала)"
+    }
+  },
+  "mn": {
+    "options.projectorMode": {
+      "value": "Проекторын Горим"
+    },
+    "alphaParticleProperties": {
+      "value": "Альфа Бөөм"
+    },
+    "energy": {
+      "value": "Энерги"
+    },
+    "maxEnergy": {
+      "value": "их"
+    },
+    "minEnergy": {
+      "value": "бага"
+    },
+    "showTraces": {
+      "value": "Мөр"
+    },
+    "legend": {
+      "value": "Тайлбар"
+    },
+    "alphaParticle": {
+      "value": "Альфа Бөөм"
+    },
+    "electron": {
+      "value": "Электрон"
+    },
+    "neutron": {
+      "value": "Нейтрон"
+    },
+    "positiveCharge": {
+      "value": "Эерэг Цэнэг"
+    },
+    "proton": {
+      "value": "Протон"
+    },
+    "alphaParticles": {
+      "value": "Альфа Бөөм"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} м (атомын хэмжээ)"
+    },
+    "plumPuddingAtom": {
+      "value": "Үзэмтэй Талх Атом"
+    },
+    "alphaParticleTrace": {
+      "value": "Альфа Бөөмийн Мөр"
+    },
+    "electronEnergyLevel": {
+      "value": "Электрон Энергийн Түвшин"
+    },
+    "nucleus": {
+      "value": "Цөмүүд"
+    },
+    "atom": {
+      "value": "Атом"
+    },
+    "numberOfNeutrons": {
+      "value": "Нейтронууд"
+    },
+    "numberOfProtons": {
+      "value": "Протонууд"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} м (цөмийн хэмжээ)"
+    },
+    "rutherfordAtom": {
+      "value": "Резерфордын Атом"
+    },
+    "rutherford-scattering.title": {
+      "value": "Резерфордын Сарнил"
+    }
+  },
+  "mr": {
+    "legend": {
+      "value": "सूची"
+    },
+    "electron": {
+      "value": "इलेक्ट्रॉन"
+    },
+    "proton": {
+      "value": "प्रोटॉन"
+    },
+    "neutron": {
+      "value": "न्युटॉन"
+    },
+    "alphaParticle": {
+      "value": "अल्फा कण"
+    },
+    "positiveCharge": {
+      "value": "धन भार"
+    },
+    "alphaParticleProperties": {
+      "value": "अल्फा कण"
+    },
+    "energy": {
+      "value": "उर्जा"
+    },
+    "showTraces": {
+      "value": "माग"
+    },
+    "minEnergy": {
+      "value": "कमी"
+    },
+    "maxEnergy": {
+      "value": "जास्त"
+    },
+    "alphaParticles": {
+      "value": "अल्फा कण"
+    },
+    "atom": {
+      "value": "अणू"
+    },
+    "numberOfProtons": {
+      "value": "प्रोटॉन"
+    },
+    "numberOfNeutrons": {
+      "value": "न्युटॉनस"
+    },
+    "nucleus": {
+      "value": "केंद्र"
+    },
+    "electronEnergyLevel": {
+      "value": "इलेक्ट्रॉन उर्जा पातळी"
+    },
+    "alphaParticleTrace": {
+      "value": "अल्फा कणांचा माग"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (केन्द्रक पातळी)"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (आण्विक पातळी)"
+    },
+    "rutherfordAtom": {
+      "value": "रुदरफ़ोर्ड अणू"
+    },
+    "plumPuddingAtom": {
+      "value": "Plum Pudding Atom"
+    },
+    "options.projectorMode": {
+      "value": "प्रोजेक्टर मोड"
+    },
+    "rutherford-scattering.title": {
+      "value": "रुदरफ़ोर्ड विचलन"
+    }
+  },
+  "ms": {
+    "options.projectorMode": {
+      "value": "Mod Projektor"
+    },
+    "alphaParticleProperties": {
+      "value": "Zarah Alfa"
+    },
+    "energy": {
+      "value": "Tenaga"
+    },
+    "maxEnergy": {
+      "value": "maksimum"
+    },
+    "minEnergy": {
+      "value": "minimum"
+    },
+    "showTraces": {
+      "value": "Kesan (Surih)"
+    },
+    "legend": {
+      "value": "Petunjuk"
+    },
+    "alphaParticle": {
+      "value": "Zarah Alfa"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "positiveCharge": {
+      "value": "Cas Positif"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Zarah-zarah Alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (skala atom)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atom Plum Pudding"
+    },
+    "alphaParticleTrace": {
+      "value": "Kesan (Surih) Zarah Alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Paras Tenaga Elektron"
+    },
+    "nucleus": {
+      "value": "Nukleus"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutron"
+    },
+    "numberOfProtons": {
+      "value": "Proton"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (skala nukleus)"
+    },
+    "rutherfordAtom": {
+      "value": "Atom Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Penyerakan Rutherford"
+    }
+  },
+  "nb": {
+    "alphaParticle": {
+      "value": "Alfapartikkel"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfapartikkel"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfapartikkkelspor"
+    },
+    "alphaParticles": {
+      "value": "Alfapartikler"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektronenergi"
+    },
+    "energy": {
+      "value": "Energi"
+    },
+    "legend": {
+      "value": "Tegnforklaring"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "Nøytron"
+    },
+    "nucleus": {
+      "value": "Kjerne"
+    },
+    "numberOfNeutrons": {
+      "value": "Nøytroner"
+    },
+    "numberOfProtons": {
+      "value": "Protoner"
+    },
+    "options.projectorMode": {
+      "value": "Prosjektormodus"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomær skala)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (kjerneskala)"
+    },
+    "plumPuddingAtom": {
+      "value": "Rosinbolleatom"
+    },
+    "positiveCharge": {
+      "value": "Positiv ladning"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordavbøynig"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherfordatom"
+    },
+    "showTraces": {
+      "value": "Spor"
+    }
+  },
+  "nl": {
+    "alphaParticle": {
+      "value": "Alfadeeltje"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfadeeltje"
+    },
+    "alphaParticleTrace": {
+      "value": "Spoor alfadeeltje"
+    },
+    "alphaParticles": {
+      "value": "Alfadeeltjes"
+    },
+    "atom": {
+      "value": "Atoom"
+    },
+    "atomProperties": {
+      "value": "Eigenschappen atomen"
+    },
+    "confirmResetAll": {
+      "value": "Instellingen wissen?"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "Energieniveau elektron"
+    },
+    "energy": {
+      "value": "Energie"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "nucleus": {
+      "value": "Kern"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronen"
+    },
+    "numberOfProtons": {
+      "value": "Protonen"
+    },
+    "options.projectorMode": {
+      "value": "Projecteren"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m"
+    },
+    "plumPuddingAtom": {
+      "value": "Atoommodel van Thomson"
+    },
+    "positiveCharge": {
+      "value": "Positieve lading"
+    },
+    "resetAll": {
+      "value": "Wissen"
+    },
+    "rutherford-scattering.description": {
+      "value": "Ook Rutherford kon geen atomen zien. Toch ontdekte hij met zijn beroemd  geworden experiment de atoomkern.  Hoe deed hij dat?\r\nMet deze simulatie doe jij Rutherford's  beroemde experiment na en ontdek je ook dat bijna alle massa van het atoom in de heel kleine kern moet zitten. Een atoom zou wel een  vreemde krentenbol zijn: al het brood in een klein puntje en de krenten daar ver vandaan!\r\nHet model van een atoom als een kleine kern en elektronen op grote afstand daaromheen noem je het atoommodel van Rutherford."
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordverstrooiing"
+    },
+    "rutherfordAtom": {
+      "value": "Atoomodel van Rutherford"
+    },
+    "showTraces": {
+      "value": "Sporen"
+    },
+    "turnOnTheGun": {
+      "value": "Zet kanon aan en uit met de knop."
+    }
+  },
+  "ny": {
+    "options.projectorMode": {
+      "value": "mode mu projector"
+    },
+    "alphaParticleProperties": {
+      "value": "Alpha Particle"
+    },
+    "energy": {
+      "value": "Mphamvu"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Traces"
+    },
+    "legend": {
+      "value": "Legend"
+    },
+    "alphaParticle": {
+      "value": "Patikulu ya alpha"
+    },
+    "electron": {
+      "value": "Elekitironi"
+    },
+    "neutron": {
+      "value": "Neutroni"
+    },
+    "positiveCharge": {
+      "value": "Chaji ya positive"
+    },
+    "proton": {
+      "value": "Protoni"
+    },
+    "alphaParticles": {
+      "value": "Ma patikulu ya alpha"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atomu wa Plum Pudding "
+    },
+    "alphaParticleTrace": {
+      "value": "Patikulu ya alpha"
+    },
+    "electronEnergyLevel": {
+      "value": "Mulingo wa Mphamvu wa elekitroni"
+    },
+    "nucleus": {
+      "value": "Nucleus"
+    },
+    "atom": {
+      "value": "Atomu"
+    },
+    "numberOfNeutrons": {
+      "value": "Ma neutroni"
+    },
+    "numberOfProtons": {
+      "value": "Mapulotoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Atomu wa Rutherford "
+    },
+    "rutherford-scattering.title": {
+      "value": "Kubalalitsa kwa Rutherford"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "turnOnTheGun": {
+      "value": "发射"
+    },
+    "atomProperties": {
+      "value": "原子性质"
+    },
+    "translation.credits": {
+      "value": "Hudielan"
+    }
+  },
+  "om": {
+    "options.projectorMode": {
+      "value": "Haala Pirojektaraa"
+    },
+    "alphaParticleProperties": {
+      "value": "Sudoo Aalfaa"
+    },
+    "energy": {
+      "value": "Annisaa"
+    },
+    "maxEnergy": {
+      "value": "guddaa"
+    },
+    "minEnergy": {
+      "value": "xiqqaa"
+    },
+    "showTraces": {
+      "value": "Faana dhahuu"
+    },
+    "legend": {
+      "value": "Waayoo"
+    },
+    "alphaParticle": {
+      "value": "Suuddo Aalfaa"
+    },
+    "electron": {
+      "value": "Elektirooni"
+    },
+    "neutron": {
+      "value": "Niwutironii"
+    },
+    "positiveCharge": {
+      "value": "Chaarjii Poozaatiivii"
+    },
+    "proton": {
+      "value": "Pirootonii"
+    },
+    "alphaParticles": {
+      "value": "Suuddowwan Alfaa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (iskeelii atoomaawaan)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atoomii Ija Mukaa Fakaatu "
+    },
+    "alphaParticleTrace": {
+      "value": "Faana Paartiikilii Aalfaa"
+    },
+    "electronEnergyLevel": {
+      "value": "Sadarkaa Annisaa Elektiroonii"
+    },
+    "nucleus": {
+      "value": "Niwukilasii"
+    },
+    "atom": {
+      "value": "Atoomi"
+    },
+    "numberOfNeutrons": {
+      "value": "Niwutiroonota"
+    },
+    "numberOfProtons": {
+      "value": "Pirootoonota"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (iskeelii niwukilaraan)"
+    },
+    "rutherfordAtom": {
+      "value": "Atoomii Raazarfoordi"
+    },
+    "rutherford-scattering.title": {
+      "value": "Faca’iinsa Raazarfoordi"
+    }
+  },
+  "pl": {
+    "alphaParticle": {
+      "value": "cząstki alfa"
+    },
+    "alphaParticleProperties": {
+      "value": "Właściwości cząstek alfa"
+    },
+    "alphaParticleTrace": {
+      "value": "Ślad cząstki alfa"
+    },
+    "alphaParticles": {
+      "value": "Cząstki alfa"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atomProperties": {
+      "value": "Właściwości atomu"
+    },
+    "electron": {
+      "value": "elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "Poziom energetyczny"
+    },
+    "energy": {
+      "value": "Energia"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "maxEnergy": {
+      "value": "maksimim"
+    },
+    "minEnergy": {
+      "value": "minimum"
+    },
+    "neutron": {
+      "value": "neutron"
+    },
+    "nucleus": {
+      "value": "Jądro"
+    },
+    "numberOfNeutrons": {
+      "value": "Liczba neutronów"
+    },
+    "numberOfProtons": {
+      "value": "Liczba protonów"
+    },
+    "options.projectorMode": {
+      "value": "Tryb projektora"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (skala atomowa)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (skala jądrowa)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atom ciasto z rodzynkami"
+    },
+    "positiveCharge": {
+      "value": "Ładunek dodatni"
+    },
+    "proton": {
+      "value": "proton"
+    },
+    "rutherford-scattering.description": {
+      "value": "Jak Rutheerford odkrył budowę atomu bez mozliwości zajrzenia do jego wnętrza? Przeprowadż symulacje słynnego doświadczenia. Pokaż, że model atomu- ciasta ze śliwkami nie odpowiada rzeczywistości. Zobacz, jak wyniki dowodzą, że atom ma bardzo male ( w porównaniu z całościa ) jądro."
+    },
+    "rutherford-scattering.title": {
+      "value": "Doświadczenie Rutherforda "
+    },
+    "rutherfordAtom": {
+      "value": "Atom Rutherforda"
+    },
+    "showTraces": {
+      "value": "Pokaż tory"
+    },
+    "turnOnTheGun": {
+      "value": "Uruchom działo"
+    }
+  },
+  "ps": {
+    "options.projectorMode": {
+      "value": "پروجکټور حالت"
+    },
+    "alphaParticleProperties": {
+      "value": "الفا ذره"
+    },
+    "energy": {
+      "value": "انرژي"
+    },
+    "maxEnergy": {
+      "value": "اعظمي"
+    },
+    "minEnergy": {
+      "value": "اصغري"
+    },
+    "showTraces": {
+      "value": "نښې"
+    },
+    "legend": {
+      "value": "تشریحي نښه"
+    },
+    "alphaParticle": {
+      "value": "الفا ذره"
+    },
+    "electron": {
+      "value": "الکترون"
+    },
+    "neutron": {
+      "value": "نیوترون"
+    },
+    "positiveCharge": {
+      "value": "مثبت چارج"
+    },
+    "proton": {
+      "value": "پروتون"
+    },
+    "alphaParticles": {
+      "value": "الفا ذرې"
+    },
+    "plumPuddingAtom": {
+      "value": "د تامسن اتومي موډل"
+    },
+    "alphaParticleTrace": {
+      "value": "د الفا ذرې نښه"
+    },
+    "electronEnergyLevel": {
+      "value": "د الکترون د انرژۍ کچه"
+    },
+    "nucleus": {
+      "value": "هسته"
+    },
+    "atom": {
+      "value": "اتوم"
+    },
+    "numberOfNeutrons": {
+      "value": "نیوترونونه"
+    },
+    "numberOfProtons": {
+      "value": "پروتونونه"
+    },
+    "rutherfordAtom": {
+      "value": "د رادرفورد اتوم"
+    },
+    "rutherford-scattering.title": {
+      "value": "رادرفورد خپرېدنه"
+    }
+  },
+  "pt": {
+    "alphaParticleProperties": {
+      "value": "Propriedades da partícula alfa"
+    },
+    "energy": {
+      "value": "Energia:"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Mostrar trajetória"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "alphaParticle": {
+      "value": "Partícula alfa"
+    },
+    "electron": {
+      "value": "eletrão"
+    },
+    "neutron": {
+      "value": "neutrão"
+    },
+    "positiveCharge": {
+      "value": "carga positiva"
+    },
+    "proton": {
+      "value": "protão"
+    },
+    "alphaParticles": {
+      "value": "partículas alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (escala atómica)"
+    },
+    "plumPuddingAtom": {
+      "value": "Modelo atómico de Thomson"
+    },
+    "alphaParticleTrace": {
+      "value": "trajetória da partícula alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "nível de energia do eletrão"
+    },
+    "nucleus": {
+      "value": "núcleo "
+    },
+    "atom": {
+      "value": "átomo"
+    },
+    "numberOfNeutrons": {
+      "value": "Número de neutrões"
+    },
+    "numberOfProtons": {
+      "value": "Número de protões:"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (escala nuclear)"
+    },
+    "rutherfordAtom": {
+      "value": "Átomo de Rutherford "
+    },
+    "rutherford-scattering.title": {
+      "value": "Experiência de Rutherford"
+    },
+    "resetAll": {
+      "value": "Reiniciar tudo"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "turnOnTheGun": {
+      "value": "Ligar"
+    },
+    "atomProperties": {
+      "value": "Propriedades atômica"
+    },
+    "rutherford-scattering.description": {
+      "value": "Como Rutherford descobriu a estrutura do núcleo atômico sem vê-lo?  Simule o famoso experimento no qual ele não dispunha do modelo atômico pudim de ameixas para observar as particulas alpha saltitantes dos átomos."
+    }
+  },
+  "pt_BR": {
+    "options.projectorMode": {
+      "value": "Modo Projetor"
+    },
+    "alphaParticleProperties": {
+      "value": "Partícula Alfa"
+    },
+    "energy": {
+      "value": "Energia"
+    },
+    "maxEnergy": {
+      "value": "máx"
+    },
+    "minEnergy": {
+      "value": "mín"
+    },
+    "showTraces": {
+      "value": "Exibir trajetória"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "alphaParticle": {
+      "value": "partícula alfa"
+    },
+    "electron": {
+      "value": "elétron"
+    },
+    "neutron": {
+      "value": "nêutron"
+    },
+    "positiveCharge": {
+      "value": "carga positiva"
+    },
+    "proton": {
+      "value": "próton"
+    },
+    "alphaParticles": {
+      "value": "partículas alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (escala atômica)"
+    },
+    "plumPuddingAtom": {
+      "value": "Átomo Pudim de Passas"
+    },
+    "alphaParticleTrace": {
+      "value": "Trajetória Partícula Alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Nível de energia do elétron"
+    },
+    "nucleus": {
+      "value": "Núcleo"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "numberOfNeutrons": {
+      "value": "Número de nêutrons"
+    },
+    "numberOfProtons": {
+      "value": "Número de prótons"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (escala nuclear)"
+    },
+    "rutherfordAtom": {
+      "value": "Átomo de Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Espalhamento de Rutherford"
+    },
+    "atomProperties": {
+      "value": "Propriedades do Átomo"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "translation.credits": {
+      "value": "Alexandre R Soares"
+    },
+    "turnOnTheGun": {
+      "value": "Acione a pistola"
+    }
+  },
+  "ro": {
+    "options.projectorMode": {
+      "value": "Mod videoproiector"
+    },
+    "alphaParticleProperties": {
+      "value": "Particule alfa"
+    },
+    "energy": {
+      "value": "Energie"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Traiectorii"
+    },
+    "legend": {
+      "value": "Legendă"
+    },
+    "alphaParticle": {
+      "value": "Particule alfa"
+    },
+    "electron": {
+      "value": "Electron"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "positiveCharge": {
+      "value": "Sarcină pozitivă"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Particule alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (scară atomică)"
+    },
+    "plumPuddingAtom": {
+      "value": "Modelul ”cozonac cu stafide”"
+    },
+    "alphaParticleTrace": {
+      "value": "Traiectoria particulei alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Nivelul energetic "
+    },
+    "nucleus": {
+      "value": "Nucleu"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutroni"
+    },
+    "numberOfProtons": {
+      "value": "Protoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (scară nucleară)"
+    },
+    "rutherfordAtom": {
+      "value": "Modelul atomic Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Împrăștierea Rutherford"
+    }
+  },
+  "ru": {
+    "alphaParticle": {
+      "value": "Альфа-частица"
+    },
+    "alphaParticleProperties": {
+      "value": "Альфа-частица"
+    },
+    "alphaParticleTrace": {
+      "value": "След альфа-частицы"
+    },
+    "alphaParticles": {
+      "value": "Альфа-частица"
+    },
+    "atom": {
+      "value": "Атом"
+    },
+    "electron": {
+      "value": "Электрон"
+    },
+    "electronEnergyLevel": {
+      "value": "Энергетические уровни электронов"
+    },
+    "energy": {
+      "value": "Энергия"
+    },
+    "legend": {
+      "value": "Обозначения"
+    },
+    "maxEnergy": {
+      "value": "макс."
+    },
+    "minEnergy": {
+      "value": "мин."
+    },
+    "neutron": {
+      "value": "Нейтрон"
+    },
+    "nucleus": {
+      "value": "Нуклоны"
+    },
+    "numberOfNeutrons": {
+      "value": "Нейтроны"
+    },
+    "numberOfProtons": {
+      "value": "Протоны"
+    },
+    "options.projectorMode": {
+      "value": "Режим проектора"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} м (атомный масштаб)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} м (молекулярный масштаб)"
+    },
+    "plumPuddingAtom": {
+      "value": "Модель атома «Сливочный пудинг»"
+    },
+    "positiveCharge": {
+      "value": "Положительный заряд"
+    },
+    "proton": {
+      "value": "Протон"
+    },
+    "rutherford-scattering.title": {
+      "value": "Резерфордовское рассеяние"
+    },
+    "rutherfordAtom": {
+      "value": "Атом Резерфорда"
+    },
+    "showTraces": {
+      "value": "Следы"
+    }
+  },
+  "rw": {
+    "options.projectorMode": {
+      "value": "Uburyo bwo kwerekana"
+    },
+    "alphaParticleProperties": {
+      "value": "Utuvungukira twa Alpha"
+    },
+    "energy": {
+      "value": "Ingufu"
+    },
+    "maxEnergy": {
+      "value": "Kinini cyane"
+    },
+    "minEnergy": {
+      "value": "Gito cyane"
+    },
+    "showTraces": {
+      "value": "Ibisigara inyuma"
+    },
+    "legend": {
+      "value": "Ikirango"
+    },
+    "alphaParticle": {
+      "value": "Utuvungukira twa Alpha"
+    },
+    "electron": {
+      "value": "Elegitoro"
+    },
+    "neutron": {
+      "value": "Neturo"
+    },
+    "positiveCharge": {
+      "value": "Sharije guteranya"
+    },
+    "proton": {
+      "value": "Poroto"
+    },
+    "alphaParticles": {
+      "value": "Utuvungukira twa Alpha"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (ihindurangano rya atome)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atome y'urubuto"
+    },
+    "alphaParticleTrace": {
+      "value": "Igishushanyo cy'Utuvungukira twa Alpha"
+    },
+    "electronEnergyLevel": {
+      "value": "Urwego rw'imbaraga za elegitoro"
+    },
+    "nucleus": {
+      "value": "Intimatima"
+    },
+    "atom": {
+      "value": "Atome"
+    },
+    "numberOfNeutrons": {
+      "value": "Neturo"
+    },
+    "numberOfProtons": {
+      "value": "Poroto"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (ihindurangano ry'intimatima)"
+    },
+    "rutherfordAtom": {
+      "value": "Atome ya Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Ihinduranzira rya Rutherford"
+    }
+  },
+  "sk": {
+    "alphaParticle": {
+      "value": "alfa častica"
+    },
+    "alphaParticleProperties": {
+      "value": "Vlastnosti alfa častice"
+    },
+    "alphaParticleTrace": {
+      "value": "trajektória alfa častice"
+    },
+    "alphaParticles": {
+      "value": "Alfa častice"
+    },
+    "atom": {
+      "value": "Atóm"
+    },
+    "atomProperties": {
+      "value": "Vlastnosti atómu"
+    },
+    "electron": {
+      "value": "elektrón"
+    },
+    "electronEnergyLevel": {
+      "value": "energetická hladina elektrónu"
+    },
+    "energy": {
+      "value": "Energia:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "neutrón"
+    },
+    "nucleus": {
+      "value": "jadro"
+    },
+    "numberOfNeutrons": {
+      "value": "Počet neutrónov:"
+    },
+    "numberOfProtons": {
+      "value": "Počet protónov:"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (rozmer atómu)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (rozmer jadra)"
+    },
+    "plumPuddingAtom": {
+      "value": "Pudingový model atómu"
+    },
+    "positiveCharge": {
+      "value": "kladný náboj"
+    },
+    "proton": {
+      "value": "protón"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordov pokus"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherfordov model atómu"
+    },
+    "showTraces": {
+      "value": "Zobraziť trajektóriu"
+    },
+    "turnOnTheGun": {
+      "value": "Použite žiarič alfa častíc"
+    },
+    "options.projectorMode": {
+      "value": "Režim projektora"
+    }
+  },
+  "sl": {
+    "alphaParticle": {
+      "value": "alfa delec"
+    },
+    "alphaParticleProperties": {
+      "value": "alfa delec"
+    },
+    "alphaParticleTrace": {
+      "value": "sled alfa delca"
+    },
+    "alphaParticles": {
+      "value": "alfa delci"
+    },
+    "atom": {
+      "value": "atom"
+    },
+    "electron": {
+      "value": "elektron"
+    },
+    "electronEnergyLevel": {
+      "value": "energijska stanja elektrona"
+    },
+    "energy": {
+      "value": "energija"
+    },
+    "legend": {
+      "value": "Legenda"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "nevtron"
+    },
+    "nucleus": {
+      "value": "jedro"
+    },
+    "numberOfNeutrons": {
+      "value": "nevtroni"
+    },
+    "numberOfProtons": {
+      "value": "protoni"
+    },
+    "options.projectorMode": {
+      "value": "Način projekcije"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomska velikost)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuklearna velikost)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atom kot slivov puding"
+    },
+    "positiveCharge": {
+      "value": "pozitivni naboj"
+    },
+    "proton": {
+      "value": "proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordovo sipanje"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherfordov atom"
+    },
+    "showTraces": {
+      "value": "sledi"
+    }
+  },
+  "sn": {
+    "options.projectorMode": {
+      "value": "Purojekita Mode"
+    },
+    "alphaParticleProperties": {
+      "value": "Alpha Particle"
+    },
+    "energy": {
+      "value": "Eneji"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Zvisaririra"
+    },
+    "legend": {
+      "value": "Muzvinambiri"
+    },
+    "alphaParticle": {
+      "value": "Alpha Particle"
+    },
+    "electron": {
+      "value": "Erekitironi"
+    },
+    "neutron": {
+      "value": "Nyuturoni"
+    },
+    "positiveCharge": {
+      "value": "Positive Charge"
+    },
+    "proton": {
+      "value": "Purotoni"
+    },
+    "alphaParticles": {
+      "value": "Alpha Particles"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "Plum Pudding Atomu"
+    },
+    "alphaParticleTrace": {
+      "value": "Alpha Particle Trace"
+    },
+    "electronEnergyLevel": {
+      "value": "Erekitironi Eneji level"
+    },
+    "nucleus": {
+      "value": "Nyukirusi"
+    },
+    "atom": {
+      "value": "Atomu"
+    },
+    "numberOfNeutrons": {
+      "value": "maNyuturoni"
+    },
+    "numberOfProtons": {
+      "value": "maPurotoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford Atomu"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford Scattering"
+    }
+  },
+  "sq": {
+    "options.projectorMode": {
+      "value": "Formati i projektorit"
+    },
+    "alphaParticleProperties": {
+      "value": "Grimca Alfa"
+    },
+    "energy": {
+      "value": "Energjia"
+    },
+    "maxEnergy": {
+      "value": "Max"
+    },
+    "minEnergy": {
+      "value": "Min"
+    },
+    "showTraces": {
+      "value": "Gjurmët"
+    },
+    "legend": {
+      "value": "Legjenda"
+    },
+    "alphaParticle": {
+      "value": "Grimca Alfa "
+    },
+    "electron": {
+      "value": "Elektroni"
+    },
+    "neutron": {
+      "value": "Neutroni"
+    },
+    "positiveCharge": {
+      "value": "Ngarkesa pozitive"
+    },
+    "proton": {
+      "value": "Protoni"
+    },
+    "alphaParticles": {
+      "value": "Grimcat Alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (shkalla atomike)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atomi si puding kumbulle"
+    },
+    "alphaParticleTrace": {
+      "value": "Gjurma e grimcës Alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Niveli i energjisë së elektronit"
+    },
+    "nucleus": {
+      "value": "Bërthama"
+    },
+    "atom": {
+      "value": "Atomi"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutronet"
+    },
+    "numberOfProtons": {
+      "value": "Protonet"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0}m (shkalla bërthamore)"
+    },
+    "rutherfordAtom": {
+      "value": "Atomi i Radherfordit"
+    },
+    "rutherford-scattering.title": {
+      "value": "Shpërndarja e Radherfordit"
+    }
+  },
+  "sr": {
+    "options.projectorMode": {
+      "value": "Пројектор мод"
+    },
+    "alphaParticleProperties": {
+      "value": "Особине алфа честица"
+    },
+    "energy": {
+      "value": "Енергија:"
+    },
+    "showTraces": {
+      "value": "Покажи путање честица"
+    },
+    "legend": {
+      "value": "Легенда"
+    },
+    "alphaParticle": {
+      "value": "Алфа честице"
+    },
+    "electron": {
+      "value": "Електрон"
+    },
+    "neutron": {
+      "value": "Неутрон"
+    },
+    "positiveCharge": {
+      "value": "Позитивно наелектрисање"
+    },
+    "proton": {
+      "value": "Протон"
+    },
+    "alphaParticles": {
+      "value": "Алфа честице"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (атомска скала)"
+    },
+    "plumPuddingAtom": {
+      "value": "Пудинг од шљива -Модел атома"
+    },
+    "alphaParticleTrace": {
+      "value": "путања алфа честице"
+    },
+    "electronEnergyLevel": {
+      "value": "ниво енергије електрона"
+    },
+    "nucleus": {
+      "value": "Језгара"
+    },
+    "atom": {
+      "value": "Атом"
+    },
+    "numberOfNeutrons": {
+      "value": "Број неутрона:"
+    },
+    "numberOfProtons": {
+      "value": "Број протона:"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (нуклеарна скала)"
+    },
+    "rutherfordAtom": {
+      "value": "Радерфордов атом"
+    },
+    "rutherford-scattering.title": {
+      "value": "Радерфордово (Rutherford) расејање"
+    },
+    "atomProperties": {
+      "value": "Особине атома"
+    },
+    "translation.credits": {
+      "value": "Превео Владан Ал. Младеновић, проф. физике, Алексинац  Примедбе ако баш имате на: vladan.al.m@gmail.com"
+    },
+    "turnOnTheGun": {
+      "value": "окидач"
+    }
+  },
+  "st": {
+    "options.projectorMode": {
+      "value": "mode oa porojekthara"
+    },
+    "alphaParticleProperties": {
+      "value": "lekumane la Alpha"
+    },
+    "energy": {
+      "value": "matla"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "mephula"
+    },
+    "legend": {
+      "value": "'mapuli"
+    },
+    "alphaParticle": {
+      "value": "lekumane la Alpha"
+    },
+    "electron": {
+      "value": "elekterone"
+    },
+    "neutron": {
+      "value": "nyutorone"
+    },
+    "positiveCharge": {
+      "value": "li-charge tse positive"
+    },
+    "proton": {
+      "value": "porothone"
+    },
+    "alphaParticles": {
+      "value": "makumane a Alpha"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (sekala se athomic)"
+    },
+    "plumPuddingAtom": {
+      "value": "athomo ea plum pudding"
+    },
+    "alphaParticleTrace": {
+      "value": "mophula oa lekumane la Alpha"
+    },
+    "electronEnergyLevel": {
+      "value": "boemo ba matla a elekterone"
+    },
+    "nucleus": {
+      "value": "nyutleliase"
+    },
+    "atom": {
+      "value": "athomo"
+    },
+    "numberOfNeutrons": {
+      "value": "nyuterone"
+    },
+    "numberOfProtons": {
+      "value": "porothone"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (sekala sa nyutleliase)"
+    },
+    "rutherfordAtom": {
+      "value": "Athomo ea Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": " Ho hasana ho Rutherford"
+    }
+  },
+  "sv": {
+    "alphaParticle": {
+      "value": "Alfapartikel"
+    },
+    "alphaParticleProperties": {
+      "value": "Egenskaper alfapartikel"
+    },
+    "alphaParticles": {
+      "value": "Alfapartiklar"
+    },
+    "atomProperties": {
+      "value": "Egenskaper atom"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "energy": {
+      "value": "Energi:"
+    },
+    "legend": {
+      "value": "Teckenförklaring"
+    },
+    "nucleus": {
+      "value": "Nukleus"
+    },
+    "numberOfNeutrons": {
+      "value": "Antal neutroner:"
+    },
+    "numberOfProtons": {
+      "value": "Antal protoner:"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomär skala)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nukleär skala)"
+    },
+    "positiveCharge": {
+      "value": "Positiv laddning"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherfordspridning"
+    },
+    "showTraces": {
+      "value": "Visa spår"
+    },
+    "translation.credits": {
+      "value": "Anders Gölstam"
+    },
+    "turnOnTheGun": {
+      "value": "Sätt på kanonen"
+    }
+  },
+  "sw": {
+    "options.projectorMode": {
+      "value": "Mahali pa kurushia"
+    },
+    "alphaParticleProperties": {
+      "value": "Chembe alfa"
+    },
+    "energy": {
+      "value": "Nishati"
+    },
+    "maxEnergy": {
+      "value": "Kiwango cha juu"
+    },
+    "minEnergy": {
+      "value": "Kiwango cha chini"
+    },
+    "showTraces": {
+      "value": "Vifuatisho"
+    },
+    "legend": {
+      "value": "Kielelezo"
+    },
+    "alphaParticle": {
+      "value": "Chembe alfa"
+    },
+    "electron": {
+      "value": "elektroni"
+    },
+    "neutron": {
+      "value": "Nyutroni"
+    },
+    "positiveCharge": {
+      "value": "Chaji chnya"
+    },
+    "proton": {
+      "value": "Protoni"
+    },
+    "alphaParticles": {
+      "value": "Chembe alfa"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (kipimo cha atomi)"
+    },
+    "plumPuddingAtom": {
+      "value": "Plamu Pudini Atomi"
+    },
+    "alphaParticleTrace": {
+      "value": "Kifuatisho cha Chembe alfa"
+    },
+    "electronEnergyLevel": {
+      "value": "Kiwango cha nishati cha Electroni"
+    },
+    "nucleus": {
+      "value": "Nyukliasi"
+    },
+    "atom": {
+      "value": "Atomi"
+    },
+    "numberOfNeutrons": {
+      "value": "Nyutroni"
+    },
+    "numberOfProtons": {
+      "value": "Protoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (kipimo cha atomi)"
+    },
+    "rutherfordAtom": {
+      "value": "Atomi ya Rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Mtawanyiko wa Rutherford"
+    }
+  },
+  "ta": {
+    "alphaParticleProperties": {
+      "value": "ஆல்ஃபா துகள்"
+    },
+    "energy": {
+      "value": "ஆற்றல்"
+    },
+    "maxEnergy": {
+      "value": "அதிகம்"
+    },
+    "minEnergy": {
+      "value": "குறைவு"
+    },
+    "showTraces": {
+      "value": "தடயம்"
+    },
+    "alphaParticle": {
+      "value": "ஆல்ஃபா துகள்"
+    },
+    "electron": {
+      "value": "எலக்ட்ரான்"
+    },
+    "neutron": {
+      "value": "நியூட்ரான்"
+    },
+    "positiveCharge": {
+      "value": "நேர்மின்னூட்டம்"
+    },
+    "proton": {
+      "value": "புரோட்டான்"
+    },
+    "alphaParticles": {
+      "value": "ஆல்ஃபா துகள்கள்"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "தாம்சன் அணு மாதிரி"
+    },
+    "alphaParticleTrace": {
+      "value": "ஆல்ஃபா துகளின் தடம்"
+    },
+    "electronEnergyLevel": {
+      "value": "எலக்ட்ரானின் ஆற்றல் மட்டங்கள்"
+    },
+    "nucleus": {
+      "value": "உட்கரு"
+    },
+    "atom": {
+      "value": "அணு"
+    },
+    "numberOfNeutrons": {
+      "value": "நியூட்ரான்கள்"
+    },
+    "numberOfProtons": {
+      "value": "புரோட்டான்கள்"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "ரூதர்போர்டு அணுமாதிரி"
+    },
+    "rutherford-scattering.title": {
+      "value": "ரூதர்போர்டு சிதறல் ஆய்வு"
+    }
+  },
+  "te": {
+    "options.projectorMode": {
+      "value": "ప్రొజెక్టర్ వీక్షణం"
+    },
+    "alphaParticleProperties": {
+      "value": "ఆల్ఫా కణం"
+    },
+    "energy": {
+      "value": "శక్తి"
+    },
+    "maxEnergy": {
+      "value": "గరిష్ఠ"
+    },
+    "minEnergy": {
+      "value": "కనిష్ఠ"
+    },
+    "showTraces": {
+      "value": "జాడలు"
+    },
+    "legend": {
+      "value": "వివరణలు"
+    },
+    "alphaParticle": {
+      "value": "ఆల్ఫా కణం"
+    },
+    "electron": {
+      "value": "ఎలక్ట్రాన్"
+    },
+    "neutron": {
+      "value": "న్యూట్రాన్"
+    },
+    "positiveCharge": {
+      "value": "ధనావేశం"
+    },
+    "proton": {
+      "value": "ప్రోటాన్"
+    },
+    "alphaParticles": {
+      "value": "ఆల్ఫా కణం"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (పరమాణుక పరిమాణ స్థాయి)"
+    },
+    "plumPuddingAtom": {
+      "value": "పుచ్చపండు పరమాణు నమూనా"
+    },
+    "alphaParticleTrace": {
+      "value": "ఆల్ఫా కణపు జాడ"
+    },
+    "electronEnergyLevel": {
+      "value": "ఎలక్ట్రాన్ శక్తి స్థాయి"
+    },
+    "nucleus": {
+      "value": "కేంద్రకం"
+    },
+    "atom": {
+      "value": "పరమాణువు"
+    },
+    "numberOfNeutrons": {
+      "value": "న్యూట్రాన్లు"
+    },
+    "numberOfProtons": {
+      "value": "ప్రోటాన్లు"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (కేంద్రక పరిమాణ స్థాయి)"
+    },
+    "rutherfordAtom": {
+      "value": "రూథర్ ఫర్డ్  పరమాణువు"
+    },
+    "rutherford-scattering.title": {
+      "value": "రూథర్ ఫర్డ్  పరిక్షేపణం"
+    }
+  },
+  "th": {
+    "alphaParticleProperties": {
+      "value": "อนุภาคแอลฟา"
+    },
+    "energy": {
+      "value": "พลังงาน"
+    },
+    "maxEnergy": {
+      "value": "สูงสุด"
+    },
+    "minEnergy": {
+      "value": "ต่ำสุด"
+    },
+    "showTraces": {
+      "value": "ร่องรอย"
+    },
+    "legend": {
+      "value": "คำอธิบาย"
+    },
+    "alphaParticle": {
+      "value": "อนุภาคแอลฟา"
+    },
+    "electron": {
+      "value": "อิเล็กตรอน"
+    },
+    "neutron": {
+      "value": "นิวตรอน"
+    },
+    "positiveCharge": {
+      "value": "ประจุบวก"
+    },
+    "proton": {
+      "value": "โปรตอน"
+    },
+    "alphaParticles": {
+      "value": "อนุภาคแอลฟา"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (ระดับอะตอม)"
+    },
+    "plumPuddingAtom": {
+      "value": "อะตอมแบบ Plum Pudding"
+    },
+    "alphaParticleTrace": {
+      "value": "ร่องรอยของอนุภาคแอลฟา"
+    },
+    "electronEnergyLevel": {
+      "value": "ระดับพลังงานของอิเล็กตรอน"
+    },
+    "nucleus": {
+      "value": "นิวเคลียส"
+    },
+    "atom": {
+      "value": "อะตอม"
+    },
+    "numberOfNeutrons": {
+      "value": "นิวตรอน"
+    },
+    "numberOfProtons": {
+      "value": "โปรตอน"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (ระดับนิวเคลียส)"
+    },
+    "rutherfordAtom": {
+      "value": "อะตอมของรัทเทอร์ฟอร์ด"
+    },
+    "rutherford-scattering.title": {
+      "value": "การกระเจิงของรัทเทอร์ฟอร์ด"
+    },
+    "options.projectorMode": {
+      "value": "วิธีโพรเจกไทล์"
+    }
+  },
+  "tk": {
+    "options.projectorMode": {
+      "value": "Proektor tertibi"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa bölejik"
+    },
+    "energy": {
+      "value": "Energiýa"
+    },
+    "maxEnergy": {
+      "value": "maks"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Yzlar"
+    },
+    "legend": {
+      "value": "Şertli belgi"
+    },
+    "alphaParticle": {
+      "value": "Alfa bölejik"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "neutron": {
+      "value": "Neýtron"
+    },
+    "positiveCharge": {
+      "value": "Pozitiw zarýad"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Alfa bölejikler"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atom ölçegi)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atomyň kişmişli puding modeli"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa bölejiginiň yzy"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektron energiýa derejesi"
+    },
+    "nucleus": {
+      "value": "Ýadro"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Neýtronlar"
+    },
+    "numberOfProtons": {
+      "value": "Protonlar"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (ýadro ölçegi)"
+    },
+    "rutherfordAtom": {
+      "value": "Rezerfordyň atomy"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rezerford ýaýratmasy"
+    },
+    "translation.credits": {
+      "value": "PICTT"
+    },
+    "turnOnTheGun": {
+      "value": "Tüpeňi aç"
+    },
+    "atomProperties": {
+      "value": "Atomyň häsiýetleri"
+    }
+  },
+  "tr": {
+    "options.projectorMode": {
+      "value": "Projektör Modu"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa Taneciği"
+    },
+    "energy": {
+      "value": "Enerji"
+    },
+    "maxEnergy": {
+      "value": "mak"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Tanecik izlerini göster"
+    },
+    "legend": {
+      "value": "Gösterimler"
+    },
+    "alphaParticle": {
+      "value": "Alfa Taneciği"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "neutron": {
+      "value": "Nötron"
+    },
+    "positiveCharge": {
+      "value": "Pozitif Yük"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Alfa Tanecikleri"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomik ölçek)"
+    },
+    "plumPuddingAtom": {
+      "value": "Üzümlü Kek Atom Modeli"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa Tanecik İzi"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektron Enerji Seviyesi"
+    },
+    "nucleus": {
+      "value": "Çekirdek"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Nötron sayısı"
+    },
+    "numberOfProtons": {
+      "value": "Proton sayısı"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (çekirdek ölçeği)"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford Atom Modeli"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford Saçılması"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "turnOnTheGun": {
+      "value": "Sialhı ateşle"
+    },
+    "atomProperties": {
+      "value": "Atom özellikleri"
+    },
+    "translation.credits": {
+      "value": "Yusuf Ülkü"
+    }
+  },
+  "tw": {
+    "options.projectorMode": {
+      "value": "Progyɛkta Bia"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa Patikil"
+    },
+    "energy": {
+      "value": "Ahoɔden"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Esa / Anammɔn"
+    },
+    "legend": {
+      "value": "Lɛgyɛnd"
+    },
+    "alphaParticle": {
+      "value": "Alfa Patikil"
+    },
+    "electron": {
+      "value": "Elektrɔn"
+    },
+    "neutron": {
+      "value": "Niutrɔn"
+    },
+    "positiveCharge": {
+      "value": "Pɔsitiv kyaagye"
+    },
+    "proton": {
+      "value": "Protɔn"
+    },
+    "alphaParticles": {
+      "value": "Alfa Patikils"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atɔmik nsania)"
+    },
+    "plumPuddingAtom": {
+      "value": "Plɔm Paden Atɔm"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa Patikil "
+    },
+    "electronEnergyLevel": {
+      "value": "Elektrɔn Ahoɔden Gyinabere"
+    },
+    "nucleus": {
+      "value": "Nukliɔs"
+    },
+    "atom": {
+      "value": "Atɔm"
+    },
+    "numberOfNeutrons": {
+      "value": "Niutrɔns"
+    },
+    "numberOfProtons": {
+      "value": "Protɔns"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuklɛɛ nsania)"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford Atɔm"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford Skataren"
+    }
+  },
+  "uk": {
+    "alphaParticle": {
+      "value": "Альфа-частинки"
+    },
+    "alphaParticleProperties": {
+      "value": "Властивості альфа-частинки"
+    },
+    "alphaParticleTrace": {
+      "value": "Траси Альфа-частинок"
+    },
+    "alphaParticles": {
+      "value": "Альфа частинки"
+    },
+    "atom": {
+      "value": "Атом"
+    },
+    "atomProperties": {
+      "value": "Властивості атома"
+    },
+    "electron": {
+      "value": "Електрон"
+    },
+    "electronEnergyLevel": {
+      "value": "Енергетичний рівень електрона"
+    },
+    "energy": {
+      "value": "Енергія"
+    },
+    "legend": {
+      "value": "Опис"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "Нейтрон"
+    },
+    "nucleus": {
+      "value": "Ядра"
+    },
+    "numberOfNeutrons": {
+      "value": "Нейтрони"
+    },
+    "numberOfProtons": {
+      "value": "Протони"
+    },
+    "options.projectorMode": {
+      "value": "Режим проектора"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} м (атомна шкала)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} м (ядерна шкала)"
+    },
+    "plumPuddingAtom": {
+      "value": "Модель \"булочка з роздинками\""
+    },
+    "positiveCharge": {
+      "value": "Позитивний заряд"
+    },
+    "proton": {
+      "value": "Протон"
+    },
+    "resetAll": {
+      "value": "Відновити все"
+    },
+    "rutherford-scattering.title": {
+      "value": "Резерфордівське розсіювання"
+    },
+    "rutherfordAtom": {
+      "value": "Модель атома Резерфорда"
+    },
+    "showTraces": {
+      "value": "Показати траекторії"
+    },
+    "turnOnTheGun": {
+      "value": "Натисніть кнопку"
+    }
+  },
+  "uz": {
+    "options.projectorMode": {
+      "value": "Proyektor rejimi"
+    },
+    "alphaParticleProperties": {
+      "value": "Alfa zarracha"
+    },
+    "energy": {
+      "value": "Energiya"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "showTraces": {
+      "value": "Izlar"
+    },
+    "legend": {
+      "value": "\r\n  Belgilar"
+    },
+    "alphaParticle": {
+      "value": "Alfa zarracha"
+    },
+    "electron": {
+      "value": "Elektron"
+    },
+    "neutron": {
+      "value": "Neytron"
+    },
+    "positiveCharge": {
+      "value": "Musbat zaryad"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "alphaParticles": {
+      "value": "Alfa zarrachalar"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atom miqyosida)"
+    },
+    "plumPuddingAtom": {
+      "value": "Atomning \"olxo‘rili puding\" modeli"
+    },
+    "alphaParticleTrace": {
+      "value": "Alfa zarracha izi"
+    },
+    "electronEnergyLevel": {
+      "value": "Elektron energetik pog‘onalari"
+    },
+    "nucleus": {
+      "value": "Yadro"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfNeutrons": {
+      "value": "Neytronlar"
+    },
+    "numberOfProtons": {
+      "value": "Protonlar"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (yadro miqyosida)"
+    },
+    "rutherfordAtom": {
+      "value": "Atomning Rezerford modeli"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rezerford sochilishi"
+    }
+  },
+  "vi": {
+    "alphaParticle": {
+      "value": "Hạt alpha"
+    },
+    "alphaParticleProperties": {
+      "value": "Thuộc tính của hạt Alpha"
+    },
+    "alphaParticleTrace": {
+      "value": "Vết của hạt Alpha"
+    },
+    "alphaParticles": {
+      "value": "Hạt Alpha"
+    },
+    "atom": {
+      "value": "Nguyên tử"
+    },
+    "atomProperties": {
+      "value": "Bảng thuộc tính của nguyên tử"
+    },
+    "electron": {
+      "value": "Electron"
+    },
+    "electronEnergyLevel": {
+      "value": "Mức năng lượng điện tử"
+    },
+    "energy": {
+      "value": "Năng lượng:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "Chú thích"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "nucleus": {
+      "value": "Hạt nhân"
+    },
+    "numberOfNeutrons": {
+      "value": "Số  neutron:"
+    },
+    "numberOfProtons": {
+      "value": "Số proton:"
+    },
+    "options.projectorMode": {
+      "value": "Chế độ đèn chiếu"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (thang đo nguyên tử)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} pm (thang đo hạt nhân)"
+    },
+    "plumPuddingAtom": {
+      "value": "Mẫu Nguyên tử bánh pudding"
+    },
+    "positiveCharge": {
+      "value": "Điện tích dương"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "rutherford-scattering.title": {
+      "value": "Tán xạ Rutherford"
+    },
+    "rutherfordAtom": {
+      "value": "Mẫu Nguyên tử Rutherford"
+    },
+    "showTraces": {
+      "value": "Hiển thị quỹ đạo"
+    },
+    "translation.credits": {
+      "value": "PhET_VN, Hoàng Nguyên, Sài Gòn, Việt Nam."
+    },
+    "turnOnTheGun": {
+      "value": "Mở súng "
+    }
+  },
+  "yo": {
+    "options.projectorMode": {
+      "value": "Móòdù projector"
+    },
+    "alphaParticleProperties": {
+      "value": "Patiku ti alphá"
+    },
+    "energy": {
+      "value": "Agbárá"
+    },
+    "maxEnergy": {
+      "value": "Tobi ju"
+    },
+    "minEnergy": {
+      "value": "Kere ju"
+    },
+    "showTraces": {
+      "value": "Itọpa"
+    },
+    "legend": {
+      "value": "Lẹ́jẹ̀ndì"
+    },
+    "alphaParticle": {
+      "value": "Patiku ti álphá"
+    },
+    "electron": {
+      "value": "Ẹ̀lẹ́ktròn"
+    },
+    "neutron": {
+      "value": "Nuitroni"
+    },
+    "positiveCharge": {
+      "value": "Owo idiyele to dárá"
+    },
+    "proton": {
+      "value": "Prótónì"
+    },
+    "alphaParticles": {
+      "value": "Patiku ti álphá"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (òṣùwọ̀n átọ̀miki)"
+    },
+    "plumPuddingAtom": {
+      "value": "Átomu Plum Pudding "
+    },
+    "alphaParticleTrace": {
+      "value": "Wiwa patiku ti álpha"
+    },
+    "electronEnergyLevel": {
+      "value": "Ipele ágabara Ẹ̀lẹ́ktròn"
+    },
+    "nucleus": {
+      "value": "Núkléù átọ̀mù"
+    },
+    "atom": {
+      "value": "Atọ̀mù"
+    },
+    "numberOfNeutrons": {
+      "value": "Awọ̀n Nuitroni"
+    },
+    "numberOfProtons": {
+      "value": "Awọ̀n Prótónì"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Atọ̀mù rutherford"
+    },
+    "rutherford-scattering.title": {
+      "value": "Tituka Patikulu Rutherford"
+    }
+  },
+  "zh_CN": {
+    "alphaParticle": {
+      "value": "α粒子"
+    },
+    "alphaParticleProperties": {
+      "value": "α粒子属性"
+    },
+    "alphaParticleTrace": {
+      "value": "α粒子示踪"
+    },
+    "alphaParticles": {
+      "value": "α粒子"
+    },
+    "atom": {
+      "value": "原子"
+    },
+    "atomProperties": {
+      "value": "原子性质"
+    },
+    "electron": {
+      "value": "电子"
+    },
+    "electronEnergyLevel": {
+      "value": "电子能级"
+    },
+    "energy": {
+      "value": "能量"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "图示"
+    },
+    "maxEnergy": {
+      "value": "最大"
+    },
+    "minEnergy": {
+      "value": "最小"
+    },
+    "neutron": {
+      "value": "中子"
+    },
+    "nucleus": {
+      "value": "原子核"
+    },
+    "numberOfNeutrons": {
+      "value": "中子数目"
+    },
+    "numberOfProtons": {
+      "value": "质子数目"
+    },
+    "options.projectorMode": {
+      "value": "抛物线类型"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (原子标度)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (核标度)"
+    },
+    "plumPuddingAtom": {
+      "value": "枣糕原子"
+    },
+    "positiveCharge": {
+      "value": "正电荷"
+    },
+    "proton": {
+      "value": "质子"
+    },
+    "rutherford-scattering.title": {
+      "value": "卢瑟福散射"
+    },
+    "rutherfordAtom": {
+      "value": "卢瑟福原子"
+    },
+    "showTraces": {
+      "value": "显示轨迹"
+    },
+    "translation.credits": {
+      "value": "Hudielan"
+    },
+    "turnOnTheGun": {
+      "value": "发射"
+    }
+  },
+  "zh_TW": {
+    "alphaParticle": {
+      "value": "Alpha 粒子"
+    },
+    "alphaParticleProperties": {
+      "value": "Alpha 粒子"
+    },
+    "alphaParticleTrace": {
+      "value": "Alpha 粒子軌跡"
+    },
+    "alphaParticles": {
+      "value": "Alpha 粒子"
+    },
+    "atom": {
+      "value": "原子"
+    },
+    "atomProperties": {
+      "value": "原子性質"
+    },
+    "electron": {
+      "value": "電子"
+    },
+    "electronEnergyLevel": {
+      "value": "電子能階"
+    },
+    "energy": {
+      "value": "能量:"
+    },
+    "int.minControlPanelWidth": {
+      "value": "250"
+    },
+    "legend": {
+      "value": "圖示"
+    },
+    "maxEnergy": {
+      "value": "最大"
+    },
+    "minEnergy": {
+      "value": "最小"
+    },
+    "neutron": {
+      "value": "中子"
+    },
+    "nucleus": {
+      "value": "原子核"
+    },
+    "numberOfNeutrons": {
+      "value": "中子數:"
+    },
+    "numberOfProtons": {
+      "value": "質子數:"
+    },
+    "options.projectorMode": {
+      "value": "投射模式"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} pm (原子的尺度)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} fm (原子核的尺度)"
+    },
+    "plumPuddingAtom": {
+      "value": "李子布丁原子"
+    },
+    "positiveCharge": {
+      "value": "正電荷"
+    },
+    "proton": {
+      "value": "質子"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford Scattering_拉塞福散射實驗"
+    },
+    "rutherfordAtom": {
+      "value": "拉塞福原子"
+    },
+    "showTraces": {
+      "value": "顯示軌跡"
+    },
+    "translation.credits": {
+      "value": "謝祿適 (2009); 江易原 I-Yuan Chiang (2010, 2012)"
+    },
+    "turnOnTheGun": {
+      "value": "發射"
+    }
+  },
+  "zu": {
+    "options.projectorMode": {
+      "value": "imodi yeprojektha"
+    },
+    "alphaParticleProperties": {
+      "value": "i-alpha Particle"
+    },
+    "energy": {
+      "value": "amandla"
+    },
+    "maxEnergy": {
+      "value": "ubuningi"
+    },
+    "minEnergy": {
+      "value": "ubuncane"
+    },
+    "showTraces": {
+      "value": "imikhondo"
+    },
+    "legend": {
+      "value": "inganekwane"
+    },
+    "alphaParticle": {
+      "value": "i-alpha Particle"
+    },
+    "electron": {
+      "value": "i-electron"
+    },
+    "neutron": {
+      "value": "i-neutron"
+    },
+    "positiveCharge": {
+      "value": "i-positive Charge"
+    },
+    "proton": {
+      "value": "i-phrothoni"
+    },
+    "alphaParticles": {
+      "value": "i-alpha Particles"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "plumPuddingAtom": {
+      "value": "i-athomu ye-plum pudding"
+    },
+    "alphaParticleTrace": {
+      "value": "i-alpha particle trace"
+    },
+    "electronEnergyLevel": {
+      "value": "izinga lamandla e-electron"
+    },
+    "nucleus": {
+      "value": "i-nucleus"
+    },
+    "atom": {
+      "value": "i-athomu"
+    },
+    "numberOfNeutrons": {
+      "value": "ama-neutron"
+    },
+    "numberOfProtons": {
+      "value": "iphrothoni"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford Athomu"
+    },
+    "rutherford-scattering.title": {
+      "value": "Rutherford ehlakazeka"
+    }
+  },
+  "en": {
+    "rutherford-scattering.title": {
+      "value": "Rutherford Scattering"
+    },
+    "rutherfordAtom": {
+      "value": "Rutherford Atom"
+    },
+    "plumPuddingAtom": {
+      "value": "Plum Pudding Atom"
+    },
+    "alphaParticleProperties": {
+      "value": "Alpha Particle"
+    },
+    "energy": {
+      "value": "Energy"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "numberOfProtons": {
+      "value": "Protons"
+    },
+    "numberOfNeutrons": {
+      "value": "Neutrons"
+    },
+    "minEnergy": {
+      "value": "min"
+    },
+    "maxEnergy": {
+      "value": "max"
+    },
+    "showTraces": {
+      "value": "Traces"
+    },
+    "alphaParticle": {
+      "value": "Alpha Particle"
+    },
+    "alphaParticles": {
+      "value": "Alpha Particles"
+    },
+    "positiveCharge": {
+      "value": "Positive Charge"
+    },
+    "proton": {
+      "value": "Proton"
+    },
+    "electron": {
+      "value": "Electron"
+    },
+    "neutron": {
+      "value": "Neutron"
+    },
+    "nucleus": {
+      "value": "Nucleus"
+    },
+    "electronEnergyLevel": {
+      "value": "Electron Energy Level"
+    },
+    "alphaParticleTrace": {
+      "value": "Alpha Particle Trace"
+    },
+    "legend": {
+      "value": "Legend"
+    },
+    "pattern.0atomicScale": {
+      "value": "{0} m (atomic scale)"
+    },
+    "pattern.0nuclearScale": {
+      "value": "{0} m (nuclear scale)"
+    },
+    "a11y": {
+      "screenSummary": {
+        "value": "On this screen, the Play Area has a source that can stream Alpha particles onto a thin foil. A highly magnified view of the foil is shown in an observation window. Sliders adjust energy of the alpha particles and the number of protons and neutrons comprising the atoms in the foil. The Control Area has radio buttons to toggle between atomic and nuclear scale views, buttons to pause and step incrementally through observations, and a button to reset the sim. Stream alpha particles to begin observations. Look for alpha particles and atom sliders to play, or read on for details about the observation window."
+      },
+      "observationWindow": {
+        "value": "Observation Window"
+      },
+      "atomSpaceDescription": {
+        "value": "An atomic scale view of the foil is shown. Portions of five tightly packed atoms are visible, with three nuclei visible in the scene."
+      },
+      "nucleusSpaceDescription": {
+        "value": "An nuclear scale view of the foil is shown. A single atomic nucleus is visible with a representative number of protons and neutrons."
+      },
+      "toggleAlphaParticle": {
+        "value": "Toggle Alpha Particle Stream"
+      },
+      "alphaParticlesHelpText": {
+        "value": "Start and stop stream of alpha particles."
+      },
+      "alphaParticleSettings": {
+        "value": "Alpha Particle Settings"
+      },
+      "energySliderDescription": {
+        "value": "Adjust the energy of particles in the alpha particle stream"
+      },
+      "energy": {
+        "value": "Energy"
+      },
+      "traces": {
+        "value": "Traces"
+      },
+      "traceCheckboxDescription": {
+        "value": "Observe particles in stream with or without traces"
+      },
+      "atomSettings": {
+        "value": "Atom Settings"
+      },
+      "protonsValuePattern": {
+        "value": "Protons"
+      },
+      "protonsPerAtomValuePattern": {
+        "value": "Protons per Atom {protons}"
+      },
+      "protonSliderDescription": {
+        "value": "Adjust number of protons per atom in foil."
+      },
+      "neutronsValuePattern": {
+        "value": "Neutrons"
+      },
+      "neutronsPerAtomValuePattern": {
+        "value": "Neutrons per Atom {neutrons}"
+      },
+      "neutronSliderDescription": {
+        "value": "Adjust number of neutrons per atom in foil."
+      },
+      "atomicScaleView": {
+        "value": "Atomic Scale View"
+      },
+      "nuclearScaleView": {
+        "value": "Nuclear Scale View"
+      },
+      "switchScale": {
+        "value": "Switch Scale"
+      },
+      "switchScaleDescription": {
+        "value": "Observe experiments at nuclear or atomic scales."
+      },
+      "otherViewingStreamingOptions": {
+        "value": "Other/Viewing/Streaming Options"
+      },
+      "otherOptionsDescription": {
+        "value": "Observe details by pausing continuous stream, or streaming in steps."
+      }
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": " {{value}} {{units}}"
+      },
+      {
+        "userId": 157571,
+        "timestamp": 1697089296004,
+        "oldValue": " {{value}} {{units}}",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.years": {
+    "value": "leta",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "leta"
+      }
+    ]
+  },
+  "clear": {
+    "value": "Izbriši",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Izbriši"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AE",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "AE"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "grid": {
+    "value": "Mreža",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Mreža"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Merilni trak",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Merilni trak"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Gravitacijska sila",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Gravitacijska sila"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Hitrost",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Hitrost"
+      }
+    ]
+  },
+  "path": {
+    "value": "Pot",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Pot"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Nekateri vektorji sil so premajkhni za prikaz",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1697089296004,
+        "oldValue": "",
+        "newValue": "Nekateri vektorji sil so premajkhni za prikaz"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Hitrost (km/s)",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1697089296004,
+        "oldValue": "",
+        "newValue": "Hitrost (km/s)"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Zoom:",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1697089296004,
+        "oldValue": "",
+        "newValue": "Zoom:"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1697089296004,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

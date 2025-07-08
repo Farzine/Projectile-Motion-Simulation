@@ -1,0 +1,644 @@
+{
+  "build-a-molecule.title": {
+    "value": "Costruisci una Molecola",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Costruisci una Molecola",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogen": {
+    "value": "Idrogeno",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Idrogeno",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Ossigeno",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Ossigeno",
+        "explanation": null
+      }
+    ]
+  },
+  "carbon": {
+    "value": "Carbonio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Carbonio",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "value": "Azoto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Azoto",
+        "explanation": null
+      }
+    ]
+  },
+  "fluorine": {
+    "value": "Fluoro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Fluoro",
+        "explanation": null
+      }
+    ]
+  },
+  "chlorine": {
+    "value": "Cloro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Cloro",
+        "explanation": null
+      }
+    ]
+  },
+  "boron": {
+    "value": "Boro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Boro",
+        "explanation": null
+      }
+    ]
+  },
+  "sulphur": {
+    "value": "Zolfo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Zolfo",
+        "explanation": null
+      }
+    ]
+  },
+  "silicon": {
+    "value": "Silicio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Silicio",
+        "explanation": null
+      }
+    ]
+  },
+  "phosphorus": {
+    "value": "Fosforo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Fosforo",
+        "explanation": null
+      }
+    ]
+  },
+  "iodine": {
+    "value": "Iodio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Iodio",
+        "explanation": null
+      }
+    ]
+  },
+  "bromine": {
+    "value": "Bromo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Bromo",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedYourCollection": {
+    "value": "Hai completato la tua raccolta!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Hai completato la tua raccolta!",
+        "explanation": null
+      }
+    ]
+  },
+  "nextCollection": {
+    "value": "Raccolta successiva",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Raccolta successiva",
+        "explanation": null
+      }
+    ]
+  },
+  "yourMolecules": {
+    "value": "Le tue molecole",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Le tue molecole",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionPattern": {
+    "value": "Raccolta {{number}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Raccolta {{number}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityEmpty": {
+    "value": "Tu hai: (vuoto)",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Tu hai: (vuoto)",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityPattern": {
+    "value": "Tu hai: {{number}}{{formula}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Tu hai: {{number}}{{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleGoalPattern": {
+    "value": "Obiettivo: {{number}}{{formula}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Obiettivo: {{number}}{{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "warning": {
+    "value": "La visualizzazione 3D di una molecola richiede WebGL.\nWebGL non è abilitato o non disponibile. Clicca per sapere di più.",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "La visualizzazione 3D di una molecola richiede WebGL.\nWebGL non è abilitato o non disponibile. Clicca per sapere di più.",
+        "explanation": null
+      }
+    ]
+  },
+  "title.multiple": {
+    "value": "Multipla",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Multipla",
+        "explanation": null
+      }
+    ]
+  },
+  "title.playground": {
+    "value": "Area di gioco",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Area di gioco",
+        "explanation": null
+      }
+    ]
+  },
+  "title.single": {
+    "value": "Singola",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1603203238101,
+        "oldValue": "",
+        "newValue": "Singola",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeNamePattern": {
+    "value": "{{display}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "{{display}}"
+      }
+    ]
+  },
+  "acetylene": {
+    "value": "Acetilene",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Acetilene"
+      }
+    ]
+  },
+  "ammonia": {
+    "value": "Ammoniaca",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Ammoniaca"
+      }
+    ]
+  },
+  "borane": {
+    "value": "Borano",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Borano"
+      }
+    ]
+  },
+  "carbonDioxide": {
+    "value": "Anidride carbonica",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Biossido di carbonio"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1679809998359,
+        "oldValue": "Biossido di carbonio",
+        "newValue": "Biossido di Carbonio",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1697300908199,
+        "oldValue": "Biossido di Carbonio",
+        "newValue": "Anidride carbonica",
+        "explanation": null
+      }
+    ]
+  },
+  "carbonMonoxide": {
+    "value": "Monossido di carbonio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Monossido di carbonio"
+      }
+    ]
+  },
+  "chloromethane": {
+    "value": "Cloruro di metile",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Cloruro di metile"
+      }
+    ]
+  },
+  "ethylene": {
+    "value": "Etilene",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Etilene"
+      }
+    ]
+  },
+  "fluoromethane": {
+    "value": "Fluoruro di metile",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Fluoruro di metile"
+      }
+    ]
+  },
+  "formaldehyde": {
+    "value": "Formaldeide",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Formaldeide"
+      }
+    ]
+  },
+  "hydrogenCyanide": {
+    "value": "Acido cianidrico",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Acido cianidrico"
+      }
+    ]
+  },
+  "hydrogenPeroxide": {
+    "value": "Perossido di idrogeno",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Perossido di Idrogeno"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1679809998359,
+        "oldValue": "Perossido di Idrogeno",
+        "newValue": "Perossido di idrogeno",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenSulfide": {
+    "value": "Idrogeno solforato",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Idrogeno solforato"
+      }
+    ]
+  },
+  "methane": {
+    "value": "Metano",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Metano"
+      }
+    ]
+  },
+  "molecularChlorine": {
+    "value": "Cloro molecolare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Cloro molecolare"
+      }
+    ]
+  },
+  "molecularFluorine": {
+    "value": "Fluoro molecolare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Fluoro molecolare"
+      }
+    ]
+  },
+  "molecularHydrogen": {
+    "value": "Idrogeno molecolare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Idrogeno molecolare"
+      }
+    ]
+  },
+  "molecularNitrogen": {
+    "value": "Azoto molecolare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Azoto molecolare"
+      }
+    ]
+  },
+  "molecularOxygen": {
+    "value": "Ossigeno molecolare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Ossigeno molecolare"
+      }
+    ]
+  },
+  "nitricOxide": {
+    "value": "Monossido di azoto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Monossido di azoto"
+      }
+    ]
+  },
+  "nitrousOxide": {
+    "value": "Protossido di azoto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Protossido di azoto"
+      }
+    ]
+  },
+  "ozone": {
+    "value": "Ozono",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Ozono"
+      }
+    ]
+  },
+  "phosphine": {
+    "value": "Fosfano",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Fosfano"
+      }
+    ]
+  },
+  "silane": {
+    "value": "Silano",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Silano"
+      }
+    ]
+  },
+  "sulfurDioxide": {
+    "value": "Biossido di zolfo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Biossido di zolfo"
+      }
+    ]
+  },
+  "trifluoroborane": {
+    "value": "Trifluoruro di boro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Trifluoruro di boro"
+      }
+    ]
+  },
+  "water": {
+    "value": "acqua",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "Acqua"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1679809998359,
+        "oldValue": "Acqua",
+        "newValue": "acqua",
+        "explanation": null
+      }
+    ]
+  },
+  "threeD": {
+    "value": "3d",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "3D"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1679809998359,
+        "oldValue": "3D",
+        "newValue": "3d",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionSinglePattern": {
+    "value": "{{general}} ({{display}})",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679809256322,
+        "oldValue": "",
+        "newValue": "{{general}} ({{display}})"
+      }
+    ]
+  }
+}

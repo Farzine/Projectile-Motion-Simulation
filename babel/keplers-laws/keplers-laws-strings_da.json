@@ -1,0 +1,876 @@
+{
+  "screen.firstLaw": {
+    "value": "Første lov",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Første lov"
+      }
+    ]
+  },
+  "screen.secondLaw": {
+    "value": "Anden lov",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Anden lov"
+      }
+    ]
+  },
+  "screen.thirdLaw": {
+    "value": "Tredje lov",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Tredje lov"
+      }
+    ]
+  },
+  "screen.allLaws": {
+    "value": "Alle love",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Alle love"
+      }
+    ]
+  },
+  "preferences.moreOrbitalData.title": {
+    "value": "Flere kredsløbsdata",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Flere kredsløbsdata"
+      }
+    ]
+  },
+  "preferences.moreOrbitalData.description": {
+    "value": "Vis information om planetens position og hastighedsvektorer i Første- og Anden lovs skærme.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Vis information om planetens position og hastighedsvektorer i Første- og Anden lovs skærme."
+      }
+    ]
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "år",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "år"
+      }
+    ]
+  },
+  "keyboardHelpDialog.targetOrbit": {
+    "value": "mål-kredsløb",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "mål-kredsløb"
+      }
+    ]
+  },
+  "alwaysCircular": {
+    "value": "Altid cirkulær",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Altid cirkulær"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Stopur",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Stopur"
+      }
+    ]
+  },
+  "symbol.a": {
+    "value": "a",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "a"
+      }
+    ]
+  },
+  "symbol.b": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "b"
+      }
+    ]
+  },
+  "symbol.c": {
+    "value": "c",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "c"
+      }
+    ]
+  },
+  "symbol.R": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "pattern.warningMessage": {
+    "value": "Advarsel: {{message}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Advarsel: {{message}}"
+      }
+    ]
+  },
+  "warning.theBodyWillCrashIntoTheSun": {
+    "value": "Emnet vil støde ind i solen.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Emnet vil støde ind i solen."
+      }
+    ]
+  },
+  "warning.theBodyWillEscapeTheSystem": {
+    "value": "Emnet vil forlade systemet.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Emnet vil forlade systemet."
+      }
+    ]
+  },
+  "period": {
+    "value": "Periode",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Periode"
+      }
+    ]
+  },
+  "none": {
+    "value": "Ingen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Ingen"
+      }
+    ]
+  },
+  "orbit.mercury": {
+    "value": "Merkur",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Merkur"
+      }
+    ]
+  },
+  "orbit.venus": {
+    "value": "Venus",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Venus"
+      }
+    ]
+  },
+  "orbit.earth": {
+    "value": "Jorden",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Jorden"
+      }
+    ]
+  },
+  "orbit.mars": {
+    "value": "Mars",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Mars"
+      }
+    ]
+  },
+  "orbit.jupiter": {
+    "value": "Jupiter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Jupiter"
+      }
+    ]
+  },
+  "orbit.eris": {
+    "value": "Eris",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Eris"
+      }
+    ]
+  },
+  "orbit.nereid": {
+    "value": "Nereid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Nereid"
+      }
+    ]
+  },
+  "orbit.halley": {
+    "value": "Halley",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Halley"
+      }
+    ]
+  },
+  "foci": {
+    "value": "Brændpunkter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Foci"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "Foci",
+        "newValue": "Fokus",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696691989192,
+        "oldValue": "Fokus",
+        "newValue": "Brændpunkter",
+        "explanation": null
+      }
+    ]
+  },
+  "axes": {
+    "value": "Akser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Akser"
+      }
+    ]
+  },
+  "semiaxes": {
+    "value": "Semiakser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Semiakser"
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "Ekscentricitet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Ekscentricitet"
+      }
+    ]
+  },
+  "apoapsis": {
+    "value": "Apoapsis",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Apoapsis"
+      }
+    ]
+  },
+  "periapsis": {
+    "value": "Periapsis",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Periapsis"
+      }
+    ]
+  },
+  "graph.t": {
+    "value": "Periode (T)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Periode (T)"
+      }
+    ]
+  },
+  "targetOrbit": {
+    "value": "Mål-kredsløb:",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Mål-kredsløb"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "Mål-kredsløb",
+        "newValue": "Mål-kredsløb:",
+        "explanation": null
+      }
+    ]
+  },
+  "sweptArea": {
+    "value": "Overstrøget areal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Berørt areal"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696779229843,
+        "oldValue": "Berørt areal",
+        "newValue": "Overstrøget areal",
+        "explanation": null
+      }
+    ]
+  },
+  "periodDivision": {
+    "value": "Periodeinddelinger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Periodeinddelinger"
+      }
+    ]
+  },
+  "areaUnits": {
+    "value": "Areal (AU<sup>2</sup>)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Areal (AU<sup>2</sup>)"
+      }
+    ]
+  },
+  "areaValues": {
+    "value": "Arealværdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Arealværdier"
+      }
+    ]
+  },
+  "timeValues": {
+    "value": "Tidsværdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Tidsværdier"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "au",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "AU"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696779229843,
+        "oldValue": "AU",
+        "newValue": "au",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "starMass": {
+    "value": "Stjernemasse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Stjernemasse"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "Vores sol",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Vores sol"
+      }
+    ]
+  },
+  "graph.title": {
+    "value": "{{period}} vs {{axis}} graf",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "{{period}} vs {{axis}} Graf"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "{{period}} vs {{axis}} Graf",
+        "newValue": "{{period}} vs {{axis}} Graph",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696653731278,
+        "oldValue": "{{period}} vs {{axis}} Graph",
+        "newValue": "{{period}} vs {{axis}} graf",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.T": {
+    "value": "T",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "T"
+      }
+    ]
+  },
+  "undefined": {
+    "value": "udefineret",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "udefineret"
+      }
+    ]
+  },
+  "symbol.d": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "symbol.r": {
+    "value": "r",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "r"
+      }
+    ]
+  },
+  "symbol.v": {
+    "value": "v",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "v"
+      }
+    ]
+  },
+  "infoDialog.moreOrbitalData": {
+    "value": "Flere kredsløbsdata",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Flere kredsløbsdata"
+      }
+    ]
+  },
+  "infoDialog.planetsPositionVector": {
+    "value": "<b>En planets positionsvektor (|r| og θ<sub>r</sub>):</b> Vektorstørrelsen |r| er lig med distancen mellem stjernen og planeten. Vektorretningen (θ<sub>r</sub>) er beskrevet i forhold til det vandrette.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "<b>En planets positionsvektor (|r| og θ<sub>r</sub>):</b> vektorstørrelse |r| er lig med distancen mellem stjernen og planeten. Vektorretningen (θ<sub>r</sub>) er beskrevet med respekt for horisonten."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696588923684,
+        "oldValue": "<b>En planets positionsvektor (|r| og θ<sub>r</sub>):</b> vektorstørrelse |r| er lig med distancen mellem stjernen og planeten. Vektorretningen (θ<sub>r</sub>) er beskrevet med respekt for horisonten.",
+        "newValue": "<b>En planets positionsvektor (|r| og θ<sub>r</sub>):</b> Vektorstørrelsen |r| er lig med distancen mellem stjernen og planeten. Vektorretningen (θ<sub>r</sub>) er beskrevet med respekt for horisonten.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696653731278,
+        "oldValue": "<b>En planets positionsvektor (|r| og θ<sub>r</sub>):</b> Vektorstørrelsen |r| er lig med distancen mellem stjernen og planeten. Vektorretningen (θ<sub>r</sub>) er beskrevet med respekt for horisonten.",
+        "newValue": "<b>En planets positionsvektor (|r| og θ<sub>r</sub>):</b> Vektorstørrelsen |r| er lig med distancen mellem stjernen og planeten. Vektorretningen (θ<sub>r</sub>) er beskrevet i forhold til det vandrette.",
+        "explanation": null
+      }
+    ]
+  },
+  "infoDialog.orbitalData": {
+    "value": "Kredsløbsdata",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Kredsløbsdata"
+      }
+    ]
+  },
+  "keplers-laws.title": {
+    "value": "Keplers love",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534159954,
+        "oldValue": "",
+        "newValue": "Keplers love"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseATargetOribit": {
+    "value": "Vælg et mål-kredsløb",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534373180,
+        "oldValue": "",
+        "newValue": "Vælg en mål-kredsløb"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "Vælg en mål-kredsløb",
+        "newValue": "Vælg et mål-kredsløb",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.targetOrbits": {
+    "value": "mål-kredsløb",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696534373180,
+        "oldValue": "",
+        "newValue": "mål-kredsløb"
+      }
+    ]
+  },
+  "string": {
+    "value": "Brændstråler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "",
+        "newValue": "String"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696691989192,
+        "oldValue": "String",
+        "newValue": "Brændstråler",
+        "explanation": null
+      }
+    ]
+  },
+  "graph.a": {
+    "value": "Halve storakse (a)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "",
+        "newValue": "Halve storakse (a)"
+      }
+    ]
+  },
+  "infoDialog.planetsVelocityVector": {
+    "value": "<b>En planets hastighedsvektor (|v| og θ<sub>v</sub>):</b> Vektorstørrelsen |v| er lig\nmed hastigheden af en planet. Vektorretningen (θ<sub>v</sub>) er beskrevet i forhold til det vandrette.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "",
+        "newValue": "<b>En planets hastighedsvektor (|v| og θ<sub>v</sub>):</b> vektorstørrelse |v| er lig\nmed hastigheden af en planet. Vektorretningen (θ<sub>v</sub>) er beskrevet med respekt for horisonten.."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696588923684,
+        "oldValue": "<b>En planets hastighedsvektor (|v| og θ<sub>v</sub>):</b> vektorstørrelse |v| er lig\nmed hastigheden af en planet. Vektorretningen (θ<sub>v</sub>) er beskrevet med respekt for horisonten..",
+        "newValue": "<b>En planets hastighedsvektor (|v| og θ<sub>v</sub>):</b> Vektorstørrelsen |v| er lig\nmed hastigheden af en planet. Vektorretningen (θ<sub>v</sub>) er beskrevet med respekt for horisonten..",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696653731278,
+        "oldValue": "<b>En planets hastighedsvektor (|v| og θ<sub>v</sub>):</b> Vektorstørrelsen |v| er lig\nmed hastigheden af en planet. Vektorretningen (θ<sub>v</sub>) er beskrevet med respekt for horisonten..",
+        "newValue": "<b>En planets hastighedsvektor (|v| og θ<sub>v</sub>):</b> Vektorstørrelsen |v| er lig\nmed hastigheden af en planet. Vektorretningen (θ<sub>v</sub>) er beskrevet i forhold til det vandrette.",
+        "explanation": null
+      }
+    ]
+  },
+  "infoDialog.angleBetweenVectors": {
+    "value": "<b>Vinkel mellem vektorerne  r og v (θ<sub>rv</sub>).",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "",
+        "newValue": "<b>Vinkel mellem vektorerne  r and v (θ<sub>rv</sub>)."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696588923684,
+        "oldValue": "<b>Vinkel mellem vektorerne  r and v (θ<sub>rv</sub>).",
+        "newValue": "<b>Vinkel mellem vektorerne  r og v (θ<sub>rv</sub>).",
+        "explanation": null
+      }
+    ]
+  },
+  "infoDialog.semiMajorAxis": {
+    "value": "<b>Halve storakse (a):</b> Repræsenterer halvdelen af den længste diameter af det elliptiske kredsløb.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "",
+        "newValue": "<b>Halve storakse (a):</b> repræsenterer halvdelen af den længste diameter af det elliptiske kredsløb."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696588184528,
+        "oldValue": "<b>Halve storakse (a):</b> repræsenterer halvdelen af den længste diameter af det elliptiske kredsløb.",
+        "newValue": "<b>Halve storakse (a):</b> Repræsenterer halvdelen af den længste diameter af det elliptiske kredsløb.",
+        "explanation": null
+      }
+    ]
+  },
+  "infoDialog.semiMinorAxis": {
+    "value": "<b>Halve lilleakse (b):</b> Repræsenterer halvdelen af den korteste diameter af det elliptiske kredsløb.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "",
+        "newValue": "<b>Halve lilleakse (b):\n</b> repræsenterer halvdelen af den korteste diameter af det elliptiske kredsløb."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696588184528,
+        "oldValue": "<b>Halve lilleakse (b):\n</b> repræsenterer halvdelen af den korteste diameter af det elliptiske kredsløb.",
+        "newValue": "<b>Halve lilleakse (b):\n</b> Repræsenterer halvdelen af den korteste diameter af det elliptiske kredsløb.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696588923684,
+        "oldValue": "<b>Halve lilleakse (b):\n</b> Repræsenterer halvdelen af den korteste diameter af det elliptiske kredsløb.",
+        "newValue": "<b>Halve lilleakse (b):</b> Repræsenterer halvdelen af den korteste diameter af det elliptiske kredsløb.",
+        "explanation": null
+      }
+    ]
+  },
+  "infoDialog.focalDistance": {
+    "value": "<b>Brændvidde (c):</b> Repræsenterer distancen mellem centrum af ellipsen og et af fokuspunkterne.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696587199232,
+        "oldValue": "",
+        "newValue": "<b>Brændvidde (c):</b> repræsenterer distancen mellem centrum af ellipsen og et af fokuspunkterne."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696588184528,
+        "oldValue": "<b>Brændvidde (c):</b> repræsenterer distancen mellem centrum af ellipsen og et af fokuspunkterne.",
+        "newValue": "<b>Brændvidde (c):</b> Repræsenterer distancen mellem centrum af ellipsen og et af fokuspunkterne.",
+        "explanation": null
+      }
+    ]
+  },
+  "orbit.targetOrbit1": {
+    "value": "Mål-kredsløb 1",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1713343697550,
+        "oldValue": "",
+        "newValue": "Mål-kredsløb 1"
+      }
+    ]
+  },
+  "orbit.targetOrbit2": {
+    "value": "Mål-kredsløb 2",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1713343697550,
+        "oldValue": "",
+        "newValue": "Mål-kredsløb 2"
+      }
+    ]
+  },
+  "orbit.targetOrbit3": {
+    "value": "Mål-kredsløb 3",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1713343697550,
+        "oldValue": "",
+        "newValue": "Mål-kredsløb 3"
+      }
+    ]
+  },
+  "orbit.targetOrbit4": {
+    "value": "Mål-kredsløb 4",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1713343697550,
+        "oldValue": "",
+        "newValue": "Mål-kredsløb 4"
+      }
+    ]
+  }
+}

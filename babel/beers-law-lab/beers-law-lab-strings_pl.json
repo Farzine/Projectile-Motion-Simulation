@@ -1,0 +1,584 @@
+{
+  "drinkMix": {
+    "value": "Napój",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Napój",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Woda",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Woda",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltChloride": {
+    "value": "Chlorek kobaltu(II)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Chlorek kobaltu ",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892119,
+        "oldValue": "Chlorek kobaltu ",
+        "newValue": "Chlorek kobaltu",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678533262710,
+        "oldValue": "Chlorek kobaltu",
+        "newValue": "Chlorek kobaltu(II)",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltIINitrate": {
+    "value": "Azotan kobaltu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Azotan kobaltu ",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892119,
+        "oldValue": "Azotan kobaltu ",
+        "newValue": "Azotan kobaltu",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "copperSulfate": {
+    "value": "Siarczan miedzi(II)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Siarczan miedzi ",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892119,
+        "oldValue": "Siarczan miedzi ",
+        "newValue": "Siarczan miedzi",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678533262710,
+        "oldValue": "Siarczan miedzi",
+        "newValue": "Siarczan miedzi(II)",
+        "explanation": null
+      }
+    ]
+  },
+  "nickelIIChloride": {
+    "value": "Chlorek niklu(II)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Chlorek niklu ",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892119,
+        "oldValue": "Chlorek niklu ",
+        "newValue": "Chlorek niklu",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678533262710,
+        "oldValue": "Chlorek niklu",
+        "newValue": "Chlorek niklu(II)",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChromate": {
+    "value": "Chromian potasu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Chromian potasu",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumDichromate": {
+    "value": "Dwuchromian potasu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Dwuchromian potasu",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumPermanganate": {
+    "value": "Nadmanganian potasu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Nadmanganian potasu",
+        "explanation": null
+      }
+    ]
+  },
+  "absorbance": {
+    "value": "Absorbancja",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1451116096441,
+        "oldValue": "",
+        "newValue": "Absorbancja",
+        "explanation": null
+      }
+    ]
+  },
+  "transmittance": {
+    "value": "Przepuszczalność",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1451116096441,
+        "oldValue": "",
+        "newValue": "Przepuszczalność",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Stężenie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Stężenie molowe",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1711823686061,
+        "oldValue": "Stężenie molowe",
+        "newValue": "Stężenie",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "Roztwór",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Roztwór",
+        "explanation": null
+      }
+    ]
+  },
+  "preset": {
+    "value": "zadana",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1451116096442,
+        "oldValue": "",
+        "newValue": "zadana",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "zmienna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1451116096442,
+        "oldValue": "",
+        "newValue": "zmienna",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Długość fali",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1451116096442,
+        "oldValue": "",
+        "newValue": "Długość fali",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.beersLaw": {
+    "value": "Prawo Beera",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1451116096442,
+        "oldValue": "",
+        "newValue": "Prawo Beera",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumChloride": {
+    "value": "Chlorek sodu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1634302560326,
+        "oldValue": "",
+        "newValue": "Chlorek sodu"
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "l",
+        "explanation": null
+      }
+    ]
+  },
+  "units.milliliters": {
+    "value": "ml",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1634302560326,
+        "oldValue": "",
+        "newValue": "ml"
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/l",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "mol/l",
+        "explanation": null
+      }
+    ]
+  },
+  "evaporation": {
+    "value": "Parowanie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Parowanie",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "duże",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "duże",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "brak",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "brak",
+        "explanation": null
+      }
+    ]
+  },
+  "removeSolute": {
+    "value": "usuń substancję rozpuszczoną",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "usuń substancję rozpuszczoną",
+        "explanation": null
+      }
+    ]
+  },
+  "saturated": {
+    "value": "Nasycony!",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Nasycony!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0soluteAmount": {
+    "value": "Masa substancji rozpuszczonej: {0} g",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1634302560326,
+        "oldValue": "",
+        "newValue": "Masa substancji rozpuszczonej: {0} g"
+      }
+    ]
+  },
+  "solute": {
+    "value": "Rozpuszczany",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Substancja rozpuszczana",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678534020942,
+        "oldValue": "Substancja rozpuszczana",
+        "newValue": "Rozpuszczany",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "Ciało stałe",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Ciało stałe",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.concentration": {
+    "value": "Stężenie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1448557791482,
+        "oldValue": "",
+        "newValue": "Stężenie molowe",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1711823686061,
+        "oldValue": "Stężenie molowe",
+        "newValue": "Stężenie",
+        "explanation": null
+      }
+    ]
+  },
+  "beers-law-lab.title": {
+    "value": "Prawo Beera",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1451116096442,
+        "oldValue": "",
+        "newValue": "Prawo Beera",
+        "explanation": null
+      }
+    ]
+  },
+  "showSolutionVolume": {
+    "value": "Pokaż objętość roztworu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "Pokaż objętość roztworu"
+      }
+    ]
+  },
+  "showSoluteAmount": {
+    "value": "Pokaż ilość substancji rozpuszczonej",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "Pokaż ilość substancji rozpuszczonej"
+      }
+    ]
+  },
+  "beakerUnits": {
+    "value": "Jednostki zlewki:",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "Jednostki zlewki:"
+      }
+    ]
+  },
+  "concentrationMeterUnits": {
+    "value": "Jednostki miernika stężenia:",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "Jednostki miernika stężenia:"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "%",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "%"
+      }
+    ]
+  },
+  "pattern.0percent": {
+    "value": "{0}%",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "{0}%"
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}:",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "{0}:"
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "units.nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "pattern.0formula.1name": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "{0}: {1}"
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "mM",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "mM"
+      }
+    ]
+  },
+  "units.uM": {
+    "value": "µM",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1677160189480,
+        "oldValue": "",
+        "newValue": "µM"
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "done": {
+    "value": "완료",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "완료",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "다음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1454552164883,
+        "oldValue": "",
+        "newValue": "다음",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "점수:",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1526213074756,
+        "oldValue": "",
+        "newValue": "점수:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "점수: {{score}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1526213074756,
+        "oldValue": "",
+        "newValue": "점수: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "이 수준을 끝냈습니다!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "이 수준을 끝냈습니다!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "계속 하세요",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1532341812498,
+        "oldValue": "",
+        "newValue": "계속 하세요",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "새로운 수준!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1532341812498,
+        "oldValue": "",
+        "newValue": "새로운 수준!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "최고 점수: {0}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375909,
+        "oldValue": "",
+        "newValue": "최고 점수: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "새로운 최고 점수!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375909,
+        "oldValue": "",
+        "newValue": "갱신 최고 점수!",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1526213074756,
+        "oldValue": "갱신 최고 점수!",
+        "newValue": "새로운 최고 점수!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "{1} 중에서 {0} 도전",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451304605255,
+        "oldValue": "",
+        "newValue": "{1} 중에서 {0} 도전",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "확인",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1454552164883,
+        "oldValue": "",
+        "newValue": "확인",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "계속",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375909,
+        "oldValue": "",
+        "newValue": "계속",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "잘 했어요!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375909,
+        "oldValue": "",
+        "newValue": "우수해요!",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1454550898556,
+        "oldValue": "우수해요!",
+        "newValue": "잘 했어요!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "좋아요!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375909,
+        "oldValue": "",
+        "newValue": "좋아요!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "그렇죠!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "그렇죠!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "계속 해보세요",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "계속 해보세요",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "수준: {0}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "수준: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "점수: {1} 점 만점에 {0}점",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "점수: {1} 점 만점에 {0}점",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "정답 보기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1454552164883,
+        "oldValue": "",
+        "newValue": "정답 보기",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "다시 시작",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451304605255,
+        "oldValue": "",
+        "newValue": "다시 시작",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "시간: {0}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "시간: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "다시 해보세요",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1454552164883,
+        "oldValue": "",
+        "newValue": "다시 해보세요",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "점수: {0}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451302375910,
+        "oldValue": "",
+        "newValue": "점수: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "수준 설정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460255472250,
+        "oldValue": "",
+        "newValue": "수준 설정",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "수준을 선정하세요!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915543052,
+        "oldValue": "",
+        "newValue": "수준을 선정하세요!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "decimalNotation": {
+    "value": "Desimaaliesitys",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1660654946626,
+        "oldValue": "",
+        "newValue": "Desimaaliesitys"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Kappaleeseen {{thisObject}} kohdistuva voima kappaleen {{otherObject}} aiheuttamana.",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1660654946626,
+        "oldValue": "",
+        "newValue": "Kappaleeseen {{thisObject}} kohdistuva voima kappaleen {{otherObject}} aiheuttamana."
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Kappaleeseen {{thisObject}} kohdistuva voima (kappaleen {{otherObject}} aiheuttamana) = {{value}} N",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1660654946626,
+        "oldValue": "",
+        "newValue": "Kappaleeseen {{thisObject}} kohdistuva voima (kappaleen {{otherObject}} aiheuttamana) = {{value}} N "
+      },
+      {
+        "userId": 1135480,
+        "timestamp": 1686369831591,
+        "oldValue": "Kappaleeseen {{thisObject}} kohdistuva voima (kappaleen {{otherObject}} aiheuttamana) = {{value}} N ",
+        "newValue": "Kappaleeseen {{thisObject}} kohdistuva voima (kappaleen {{otherObject}} aiheuttamana) = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Voiman suuruus",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1660654946626,
+        "oldValue": "",
+        "newValue": "Voiman suuruus"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Tieteellinen",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1660654946626,
+        "oldValue": "",
+        "newValue": "Tieteellinen"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686369831591,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686369831591,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686369831591,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  }
+}

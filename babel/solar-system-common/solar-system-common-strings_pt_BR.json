@@ -1,0 +1,213 @@
+{
+  "units.years": {
+    "value": "anos",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "anos"
+      }
+    ]
+  },
+  "clear": {
+    "value": "Limpar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "Limpar"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "UA",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "UA"
+      }
+    ]
+  },
+  "grid": {
+    "value": "Grade",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "Grade"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Fita Métrica",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "Fita Métrica"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1696520880745,
+        "oldValue": "Fita Métrica",
+        "newValue": "Trena",
+        "explanation": null
+      },
+      {
+        "userId": 310636,
+        "timestamp": 1696521199605,
+        "oldValue": "Trena",
+        "newValue": "Fita Métrica",
+        "explanation": null
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Força Gravitacional",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "Força Gravitacional"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Vetor Velocidade",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "Velocidade"
+      },
+      {
+        "userId": 924856,
+        "timestamp": 1684188305487,
+        "oldValue": "Velocidade",
+        "newValue": "Vetor Velocidade",
+        "explanation": null
+      }
+    ]
+  },
+  "path": {
+    "value": "Caminho",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1670441204314,
+        "oldValue": "",
+        "newValue": "Caminho"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Alguns vetores de força são muito pequenos para serem exibidos.",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684188305487,
+        "oldValue": "",
+        "newValue": "Alguns vetores de força são muito pequenos para serem exibidos."
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684188305487,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684188305487,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Valor da Velocidade (km/s)",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684188305487,
+        "oldValue": "",
+        "newValue": "Valor da Velocidade (km/s)"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1696520880745,
+        "oldValue": "Valor da Velocidade (km/s)",
+        "newValue": "Rapidez (km/s)",
+        "explanation": null
+      },
+      {
+        "userId": 310636,
+        "timestamp": 1696521199605,
+        "oldValue": "Rapidez (km/s)",
+        "newValue": "Valor da Velocidade (km/s)",
+        "explanation": null
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Ampliar:",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1684251016408,
+        "oldValue": "",
+        "newValue": "Ampliar:"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1684251016408,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1684251016408,
+        "oldValue": "",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 684187,
+        "timestamp": 1696473800280,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Telling: {0}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Telling: {0}"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Tyd: {0}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Tyd: {0}"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Hou aan!",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Hou aan!"
+      }
+    ]
+  },
+  "good": {
+    "value": "Oulik!",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Oulik!"
+      }
+    ]
+  },
+  "great": {
+    "value": "Mooi!",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Mooi!"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Uitstekend!",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Uitstekend!"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Tellling: {0} uit {1}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Tellling: {0} uit {1}"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Jou nuwe beste!)",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "(Jou nuwe beste!)"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Jou Beste: {0})",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "(Jou Beste: {0})"
+      }
+    ]
+  },
+  "continue": {
+    "value": "Volgende",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Volgende"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Vlak: {0}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Vlak: {0}"
+      }
+    ]
+  },
+  "check": {
+    "value": "Toets",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Loer"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1678722598026,
+        "oldValue": "Loer",
+        "newValue": "Antwoord",
+        "explanation": null
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "Antwoord",
+        "newValue": "Loer",
+        "explanation": null
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1678732637604,
+        "oldValue": "Loer",
+        "newValue": "Toets",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Volgende",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Volgende"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Probeer weer!",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678721454492,
+        "oldValue": "",
+        "newValue": "Probeer weer!"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Telling: {{score}}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Telling: {{score}}"
+      }
+    ]
+  },
+  "score": {
+    "value": "Telling:",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Telling:"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Challenge {0} of {1}",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Challenge {0} of {1}"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Begin weer",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Begin weer"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Kies jou vlak!",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Kies jou vlak!"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Wys antwoord",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Wys antwoord"
+      }
+    ]
+  },
+  "done": {
+    "value": "Klaar",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678726046489,
+        "oldValue": "",
+        "newValue": "Klaar"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Jy het al die vlakke voltooi!",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678726046489,
+        "oldValue": "",
+        "newValue": "Jy het al die vlakke voltooi!"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Kies vlak",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1737634055474,
+        "oldValue": "",
+        "newValue": "Kies vlak"
+      }
+    ]
+  }
+}

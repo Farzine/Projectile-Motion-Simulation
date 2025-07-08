@@ -1,0 +1,721 @@
+{
+  "screen.intro": {
+    "value": "Introducció",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Introducció"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratori",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Laboratori"
+      }
+    ]
+  },
+  "addMutations": {
+    "value": "Afegir mutacions",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Afegir Mutacions"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Afegir Mutacions",
+        "newValue": "Afegir mutacions"
+      }
+    ]
+  },
+  "dominant": {
+    "value": "Dominant",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Dominant"
+      }
+    ]
+  },
+  "recessive": {
+    "value": "Recessiva",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Recessiva"
+      }
+    ]
+  },
+  "addMutation": {
+    "value": "Afegir mutació",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Afegir Mutació"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Afegir Mutació",
+        "newValue": "Afegir mutació"
+      }
+    ]
+  },
+  "allOfTheBunniesHaveDied": {
+    "value": "S'han mort tots els conills.",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "S'han mort tots els conills."
+      }
+    ]
+  },
+  "environmentalFactors": {
+    "value": "Factor ambiental",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Factor Ambiental"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Factor Ambiental",
+        "newValue": "Factor ambiental"
+      }
+    ]
+  },
+  "environmentalFactor": {
+    "value": "Factors ambientals",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Factors Ambientals"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Factors Ambientals",
+        "newValue": "Factors ambientals"
+      }
+    ]
+  },
+  "population": {
+    "value": "Població",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Població"
+      }
+    ]
+  },
+  "proportions": {
+    "value": "Proporcions",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Proporcions"
+      }
+    ]
+  },
+  "pedigree": {
+    "value": "Pedigrí",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Pedigrí"
+      }
+    ]
+  },
+  "none": {
+    "value": "En blanc",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "En blanc"
+      }
+    ]
+  },
+  "memoryLimitMessage": {
+    "value": "Felicitats!<br><br>La teva població de conills ha sobreviscut el suficient<br>per omplir la memòria límit de la simulació.",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Felicitats!<br><br>La teva població de conills ha sobreviscut el suficient<br>per omplir la memòria límit de la simulació."
+      }
+    ]
+  },
+  "bunniesHaveTakenOverTheWorld": {
+    "value": "Els conills s'han apoderat del món!",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Els conills s'han apoderat del món!"
+      }
+    ]
+  },
+  "fur": {
+    "value": "Pelatge",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Pelatge"
+      }
+    ]
+  },
+  "furDominant": {
+    "value": "P",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "P"
+      }
+    ]
+  },
+  "furRecessive": {
+    "value": "p",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "p"
+      }
+    ]
+  },
+  "ears": {
+    "value": "Orelles",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Orelles"
+      }
+    ]
+  },
+  "earsDominant": {
+    "value": "O",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "O"
+      }
+    ]
+  },
+  "earsRecessive": {
+    "value": "o",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "o"
+      }
+    ]
+  },
+  "teeth": {
+    "value": "Dents",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Dents"
+      }
+    ]
+  },
+  "teethDominant": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "teethRecessive": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "whiteFur": {
+    "value": "Pelatge blanc",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Pelatge Blanc"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Pelatge Blanc",
+        "newValue": "Pelatge blanc"
+      }
+    ]
+  },
+  "brownFur": {
+    "value": "Pelatge marró",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Pelatge Marró"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Pelatge Marró",
+        "newValue": "Pelatge marró"
+      }
+    ]
+  },
+  "floppyEars": {
+    "value": "Orelles caigudes",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Orelles Caigudes"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Orelles Caigudes",
+        "newValue": "Orelles caigudes"
+      }
+    ]
+  },
+  "straightEars": {
+    "value": "Orelles rectes",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Orelles Rectes"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Orelles Rectes",
+        "newValue": "Orelles rectes"
+      }
+    ]
+  },
+  "shortTeeth": {
+    "value": "Dents curtes",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Dents Curtes"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Dents Curtes",
+        "newValue": "Dents curtes"
+      }
+    ]
+  },
+  "longTeeth": {
+    "value": "Dents llargues",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Dents Llargues"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Dents Llargues",
+        "newValue": "Dents llargues"
+      }
+    ]
+  },
+  "limitedFood": {
+    "value": "Menjar limitat",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Menjar Limitat"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Menjar Limitat",
+        "newValue": "Menjar limitat"
+      }
+    ]
+  },
+  "toughFood": {
+    "value": "Menjar dur",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Menjar Dur"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Menjar Dur",
+        "newValue": "Menjar dur"
+      }
+    ]
+  },
+  "wolves": {
+    "value": "Llops",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Llops"
+      }
+    ]
+  },
+  "generationValue": {
+    "value": "Generació {{value}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Generació {{value}}"
+      }
+    ]
+  },
+  "mutationComing": {
+    "value": "Arribant mutació...",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Arribant mutació..."
+      }
+    ]
+  },
+  "generation": {
+    "value": "Generació",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Generació"
+      }
+    ]
+  },
+  "zoomOutToSeeData": {
+    "value": "Allunyar per veure les dades.",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Allunyar per veure les dades."
+      }
+    ]
+  },
+  "total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Total"
+      }
+    ]
+  },
+  "dataProbe": {
+    "value": "Explorar dades",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Explorar Dades"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Explorar Dades",
+        "newValue": "Explorar dades"
+      }
+    ]
+  },
+  "alleles": {
+    "value": "Al·lels",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Al·lels"
+      }
+    ]
+  },
+  "selectABunny": {
+    "value": "Selecciona un conill",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Selecciona un Conill"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Selecciona un Conill",
+        "newValue": "Selecciona un conill"
+      }
+    ]
+  },
+  "startOfGeneration": {
+    "value": "Inici de la generació",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Inici de la Generació"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Inici de la Generació",
+        "newValue": "Inici de la generació"
+      }
+    ]
+  },
+  "endOfGeneration": {
+    "value": "Fi de la generació",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Fi de la Generació"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Fi de la Generació",
+        "newValue": "Fi de la generació"
+      }
+    ]
+  },
+  "noData": {
+    "value": "Sense dades",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Sense Dades"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Sense Dades",
+        "newValue": "Sense dades"
+      }
+    ]
+  },
+  "currently": {
+    "value": "Actualment",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Actualment"
+      }
+    ]
+  },
+  "oneBunny": {
+    "value": "1 conill",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "1 conill"
+      }
+    ]
+  },
+  "countBunnies": {
+    "value": "{{count}} conills",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "{{count}} conills"
+      }
+    ]
+  },
+  "values": {
+    "value": "Valors",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Valors"
+      }
+    ]
+  },
+  "addAMate": {
+    "value": "Afegir una parella",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Afegir una Parella"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Afegir una Parella",
+        "newValue": "Afegir una parella"
+      }
+    ]
+  },
+  "play": {
+    "value": "Reproduir",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Reproduir"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Començar de nou",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Començar de nou"
+      }
+    ]
+  },
+  "greaterThanValuePercent": {
+    "value": ">{{value}}%",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": ">{{value}}%"
+      }
+    ]
+  },
+  "lessThanValuePercent": {
+    "value": "<{{value}}%",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "<{{value}}%"
+      }
+    ]
+  },
+  "valuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "natural-selection.title": {
+    "value": "Selecció natural",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664307199375,
+        "oldValue": "",
+        "newValue": "Selecció Natural"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669657266714,
+        "oldValue": "Selecció Natural",
+        "newValue": "Selecció natural"
+      }
+    ]
+  }
+}

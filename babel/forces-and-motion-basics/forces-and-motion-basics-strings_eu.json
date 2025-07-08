@@ -1,0 +1,567 @@
+{
+  "speed": {
+    "value": "Abiadura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Abiadura",
+        "explanation": null
+      }
+    ]
+  },
+  "go": {
+    "value": "Aurrera!",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272421,
+        "oldValue": "",
+        "newValue": "Aurrera!",
+        "explanation": null
+      }
+    ]
+  },
+  "pause": {
+    "value": "Geldialdia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Geldi",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Geldi",
+        "newValue": "Geldialdia",
+        "explanation": null
+      }
+    ]
+  },
+  "return": {
+    "value": "Itzuli",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Itzuli",
+        "explanation": null
+      }
+    ]
+  },
+  "blueWins": {
+    "value": "Urdina irabazle!",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Urdina irabazle!",
+        "explanation": null
+      }
+    ]
+  },
+  "redWins": {
+    "value": "Gorria irabazle!",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Gorria irabazle!",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForces": {
+    "value": "Indarren batura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Indar erresultantea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Indar erresultantea",
+        "newValue": "Indarren batura",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Balioak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Balioak",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsN": {
+    "value": "{0}N",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "{0}N",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForcesEqualsZero": {
+    "value": "Indarren batura = 0",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Indar erresultantea = 0",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Indar erresultantea = 0",
+        "newValue": "Indarren batura = 0",
+        "explanation": null
+      }
+    ]
+  },
+  "leftForce": {
+    "value": "Ezkerreko indarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Ezkerreko indarra",
+        "explanation": null
+      }
+    ]
+  },
+  "rightForce": {
+    "value": "Eskuineko indarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Eskubiko indarra",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Eskubiko indarra",
+        "newValue": "Eskuineko indarra",
+        "explanation": null
+      }
+    ]
+  },
+  "left": {
+    "value": "Ezker",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "",
+        "newValue": "Ezker",
+        "explanation": null
+      }
+    ]
+  },
+  "right": {
+    "value": "Eskuin",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "",
+        "newValue": "Eskuin",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0massUnitsKilograms": {
+    "value": "{0} kg",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "{0} kg",
+        "explanation": null
+      }
+    ]
+  },
+  "appliedForce": {
+    "value": "Aplikatutako indarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Ezarritako indarra",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Ezarritako indarra",
+        "newValue": "Aplikatutako indarra",
+        "explanation": null
+      }
+    ]
+  },
+  "frictionForce": {
+    "value": "Marruskadura-indarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Igurtzimendu indarra",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Igurtzimendu indarra",
+        "newValue": "Marruskadura-indarra",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsVelocity": {
+    "value": "{0} m/s",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "{0} m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Azelerazioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Azelerazioa",
+        "explanation": null
+      }
+    ]
+  },
+  "force": {
+    "value": "Indarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Indarra",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Indarrak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Indarrak",
+        "explanation": null
+      }
+    ]
+  },
+  "masses": {
+    "value": "Masak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Masa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Masa",
+        "newValue": "Masak",
+        "explanation": null
+      }
+    ]
+  },
+  "friction": {
+    "value": "Marruskadura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Igurtzimendua",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Igurtzimendua",
+        "newValue": "Marruskadura",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "handia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Multzoak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Multzoak",
+        "newValue": "handia",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "ezer ez",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Ezer",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Ezer",
+        "newValue": "ezer ez",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsAcceleration": {
+    "value": "{0}: {1} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "{0}: {1} m/s<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsNewtons": {
+    "value": "{0} newton",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "{0} Newton",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "{0} Newton",
+        "newValue": "{0} newton",
+        "explanation": null
+      }
+    ]
+  },
+  "forces-and-motion-basics.title": {
+    "value": "Indarrak eta higidura: oinarriak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Indarrak eta higidura: Oinarrizkoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274512644,
+        "oldValue": "Indarrak eta higidura: Oinarrizkoa",
+        "newValue": "Indarrak eta higidura: oinarriak",
+        "explanation": null
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Sokatira",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Sokatira",
+        "explanation": null
+      }
+    ]
+  },
+  "motion": {
+    "value": "Higidura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490135272422,
+        "oldValue": "",
+        "newValue": "Higidura",
+        "explanation": null
+      }
+    ]
+  },
+  "goButton.description": {
+    "value": "Hautatu tiratzaileak abiarazteko.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Hautatu tiratzaileak abiarazteko."
+      }
+    ]
+  },
+  "pauseButton.description": {
+    "value": "Hautatu tiratzaileak pausatzeko.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Hautatu tiratzaileak pausatzeko."
+      }
+    ]
+  },
+  "leftSideWins.description": {
+    "value": "Ezkerrak irabazi du.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Ezkerrak irabazi du."
+      }
+    ]
+  },
+  "rightSideWins.description": {
+    "value": "Eskuinaldeak irabazi du.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Eskuinaldeak irabazi du."
+      }
+    ]
+  },
+  "netForce.description": {
+    "value": "Indarrak eta mugimenduaren oinarriak. Asko kargatutako gurdi bat dago pista batean eserita gurpil gainean. Gurdiaren ezkerreko aldean soka lodi bat dago 4 korapilo soka berdinean banatuta. Korapilodun soka honen ondoan 4 tiralariz osatutako talde bat dago. Gurdiaren kontrako aldean, 4 korapiloko soka antzeko bat lotzen da gurdiaren eskuinaldean. Soka honen ondoan 4 tiralariz osatutako beste talde bat dago. Orgaren erdiko posizioa lurrean markatu da.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Indarrak eta mugimenduaren oinarriak. Asko kargatutako gurdi bat dago pista batean eserita gurpil gainean. Gurdiaren ezkerreko aldean soka lodi bat dago 4 korapilo soka berdinean banatuta. Korapilodun soka honen ondoan 4 tiralariz osatutako talde bat dago. Gurdiaren kontrako aldean, 4 korapiloko soka antzeko bat lotzen da gurdiaren eskuinaldean. Soka honen ondoan 4 tiralariz osatutako beste talde bat dago. Orgaren erdiko posizioa lurrean markatu da."
+      }
+    ]
+  },
+  "redPullerGroup.description": {
+    "value": "Eskuineko tiratzaileak. Hautatu sartu tiratzaileak aukeratzeko eta sokan jartzeko.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Eskuineko tiratzaileak. Hautatu sartu tiratzaileak aukeratzeko eta sokan jartzeko."
+      }
+    ]
+  },
+  "group": {
+    "value": "Taldea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Taldea"
+      }
+    ]
+  },
+  "puller": {
+    "value": "tiratzaile",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "tiratzaile"
+      }
+    ]
+  },
+  "motion.leftItemGroup.description": {
+    "value": "Sakatu Sartu ezkerreko objektuen edukiontzia aktibatzeko. Hozkailu bat eta egurrezko kaxa bat daude objektu-ontzi honetan.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Sakatu Sartu ezkerreko objektuen edukiontzia aktibatzeko. Hozkailu bat eta egurrezko kaxa bat daude objektu-ontzi honetan."
+      }
+    ]
+  },
+  "motion.rightItemGroup.description": {
+    "value": "Sakatu Sartu eskuineko edukiontzia aktibatzeko. Neska bat, gizon bat, zakarrontzi bat eta misteriozko kutxa bat objektu-ontzi honetan daude.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679700511878,
+        "oldValue": "",
+        "newValue": "Sakatu Sartu eskuineko edukiontzia aktibatzeko. Neska bat, gizon bat, zakarrontzi bat eta misteriozko kutxa bat objektu-ontzi honetan daude."
+      }
+    ]
+  },
+  "bluePullerGroup.description": {
+    "value": "Ezkerreko tiratzaileak. Hautatu Sartu tiratzaileak sokan aukeratzeko eta jartzeko.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679748457460,
+        "oldValue": "",
+        "newValue": "Ezkerreko tiratzaileak. Hautatu Sartu tiratzaileak sokan aukeratzeko eta jartzeko."
+      }
+    ]
+  }
+}

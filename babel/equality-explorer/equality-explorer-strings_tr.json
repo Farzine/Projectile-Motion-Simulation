@@ -1,0 +1,306 @@
+{
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572633664789,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "equationOrInequality": {
+    "value": "Denklem veya Eşitsizlik",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572633664789,
+        "oldValue": "",
+        "newValue": "Denklem veya Eşitsizlik",
+        "explanation": null
+      }
+    ]
+  },
+  "leftSideFull": {
+    "value": "Hata! <br> <br> Terazinin sol tarafı dolu.",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572633664789,
+        "oldValue": "",
+        "newValue": "Hata!<br><br>Terazinin sol tarafı dolu.",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1572978289431,
+        "oldValue": "Hata!<br><br>Terazinin sol tarafı dolu.",
+        "newValue": "Hata! <br> <br> Terazinin sol tarafı dolu.",
+        "explanation": null
+      }
+    ]
+  },
+  "rightSideFull": {
+    "value": "Hata! <br> <br> Terazinin sağ tarafı dolu.",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572633664789,
+        "oldValue": "",
+        "newValue": "Hata!<br><br>Terazinin sağ tarafı dolu.",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1572978289431,
+        "oldValue": "Hata!<br><br>Terazinin sağ tarafı dolu.",
+        "newValue": "Hata! <br> <br> Terazinin sağ tarafı dolu.",
+        "explanation": null
+      }
+    ]
+  },
+  "numberTooBig": {
+    "value": "Hata! <br> <br> Oluşturduğun sayı <br> oluşturma için çok büyük. <br> <br> Başka bir işlem deneyin.",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572978057661,
+        "oldValue": "",
+        "newValue": "Hata!<br><br>Oluşturduğun sayı<br>simülasyon için çok büyük.<br><br>Başka bir işlem deneyin.",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1572978289431,
+        "oldValue": "Hata!<br><br>Oluşturduğun sayı<br>simülasyon için çok büyük.<br><br>Başka bir işlem deneyin.",
+        "newValue": "Hata! <br> <br> Oluşturduğun sayı <br> oluşturma için çok büyük. <br> <br> Başka bir işlem deneyin.",
+        "explanation": null
+      }
+    ]
+  },
+  "snapshots": {
+    "value": "Anlık",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Anlık",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "Değişken",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Değişken",
+        "explanation": null
+      }
+    ]
+  },
+  "variables": {
+    "value": "Değişkenler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Değişkenler",
+        "explanation": null
+      }
+    ]
+  },
+  "x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572633664789,
+        "oldValue": "",
+        "newValue": "x",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.basics": {
+    "value": "Temel Bilgiler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Temel Bilgiler",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.numbers": {
+    "value": "Sayılar",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Sayılar",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "İşlemler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "İşlemler",
+        "explanation": null
+      }
+    ]
+  },
+  "level1": {
+    "value": "<b>Seviye 1</b> Bir adımlı denklemler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "<b>Seviye 1</b> Bir adımlı denklemler",
+        "explanation": null
+      }
+    ]
+  },
+  "level2": {
+    "value": "<b>Seviye 2</b> İki adımlı denklemler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "<b>Seviye 2</b> İki adımlı denklemler",
+        "explanation": null
+      }
+    ]
+  },
+  "level3": {
+    "value": "<b>Seviye 3</b> Kesirli çok adımlı denklemler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "<b>Seviye 3</b> Kesirli çok adımlı denklemler",
+        "explanation": null
+      }
+    ]
+  },
+  "level4": {
+    "value": "<b>Seviye 4</b> İki tarafında değişken olan çok adımlı denklemler ",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "<b>Seviye 4</b> İki tarafında değişken olan çok adımlı denlemler ",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1572978057661,
+        "oldValue": "<b>Seviye 4</b> İki tarafında değişken olan çok adımlı denlemler ",
+        "newValue": "<b>Seviye 4</b> İki tarafında değişken olan çok adımlı denklemler ",
+        "explanation": null
+      }
+    ]
+  },
+  "levels": {
+    "value": "Seviyeler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Seviyeler",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Seviyenizi Seçin",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Seviyenizi Seçin",
+        "explanation": null
+      }
+    ]
+  },
+  "solveFor": {
+    "value": "{{variable}} ' i bulunuz ",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "{{variable}} ' i bulunuz ",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Sonraki",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Sonraki",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.solveIt": {
+    "value": "Denklem Çözün!",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Denklem Çözün!",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Değişkenler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Değişkenler",
+        "explanation": null
+      }
+    ]
+  },
+  "equality-explorer.title": {
+    "value": "Eşitlik Gezgini",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1572723990410,
+        "oldValue": "",
+        "newValue": "Eşitlik Gezgini",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808400,
+        "oldValue": "",
+        "newValue": "1 s"
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Voltagem CA",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808400,
+        "oldValue": "",
+        "newValue": "Voltagem CA"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Adicionar Lâmpadas Reais",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Adicionar Lâmpadas Reais"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Avançado",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Avançado"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Amperímetro",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Amperímetro",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Leitura do Amperímetro",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1642632231346,
+        "oldValue": "",
+        "newValue": "Leitura do Amperímetro"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Amperímetros",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Amperímetros",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Foi atingido o limite de velocidade da animação! A velocidade da simulação foi reduzida para {{percent}}% do normal.",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Foi atingido o limite de velocidade da animação! A velocidade da simulação foi reduzida para {{percent}}% do normal.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Bateria",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Bateria",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Resistência da bateria",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Resistência da bateria",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Britânico",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Britânico"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Capacitância",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Capacitância"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Capacitor",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Capacitor"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Moeda",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Moeda",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Convencional",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Convencional",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Atual",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Atual",
+        "explanation": null
+      },
+      {
+        "userId": 160498,
+        "timestamp": 1614110808400,
+        "oldValue": "Atual",
+        "newValue": "Corrente"
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1642632231346,
+        "oldValue": "Corrente",
+        "newValue": "Atual"
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Corrente (A)",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Corrente (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Gráfico Corrente",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808400,
+        "oldValue": "",
+        "newValue": "Gráfico Corrente"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Corrente Atual",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808400,
+        "oldValue": "",
+        "newValue": "Corrente Atual"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Dados fora do intervalo",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1642632231346,
+        "oldValue": "",
+        "newValue": "Dados fora do intervalo"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Cão",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Cão",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Nota de dólar",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Nota de dólar",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Eletrões",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Eletrões",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Borracha",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Borracha",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frequência",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808400,
+        "oldValue": "",
+        "newValue": "Frequência"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Fusível",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808400,
+        "oldValue": "",
+        "newValue": "Fusível"
+      }
+    ]
+  },
+  "hand": {
+    "value": "Mão",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Mão",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Indutância",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Indutância"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Indutor",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Indutor"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Rótulos",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Rótulos",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Lâmpada",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Lâmpada",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "alta",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "alta",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Magnitude",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1642632231346,
+        "oldValue": "",
+        "newValue": "Magnitude"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Clipe",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Clipe",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Lápis",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Lápis",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Mudança de fase",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Mudança de fase"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Resistência",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Resistência",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Resistor",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Resistor",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Esquema Padrão",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Esquema Padrão"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Mostra Atual",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Mostra atual",
+        "explanation": null
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1642632231347,
+        "oldValue": "Mostra atual",
+        "newValue": "Mostra Atual"
+      }
+    ]
+  },
+  "signed": {
+    "value": "Assinado",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1642632231347,
+        "oldValue": "",
+        "newValue": "Assinado"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Resistência da fonte",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Resistência da fonte"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Cronómetro",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Cronómetro"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Interruptor",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Interruptor",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Toque no elemento do circuito para editar.",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Toque no elemento do circuito para editar.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Interruptor fechado.",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Interruptor fechado.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Interruptor aberto.",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Interruptor aberto.",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Tempo",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808401,
+        "oldValue": "",
+        "newValue": "Tempo"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "baixa",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "baixa",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Valores",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Valores",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Voltagem",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Voltagem",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": " Voltagem (V)",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": " Voltagem (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Gráfico Voltímetro",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808401,
+        "oldValue": "",
+        "newValue": "Gráfico Voltímetro"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltímetro",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Voltímetro",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Fio",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Fio",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Resistividade do fio",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "Resistividade do fio",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}}Hz",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808401,
+        "oldValue": "",
+        "newValue": "{{frequency}}Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": " {{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1614110808401,
+        "oldValue": "",
+        "newValue": " {{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohms",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohms",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volts",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "{{voltage}} volts",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Lâmpada Real",
+    "history": [
+      {
+        "userId": 160498,
+        "timestamp": 1615576113397,
+        "oldValue": "",
+        "newValue": "Lâmpada Real"
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} ohms",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096027915,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohms",
+        "explanation": null
+      }
+    ]
+  }
+}

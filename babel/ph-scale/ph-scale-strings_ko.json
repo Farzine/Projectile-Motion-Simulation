@@ -1,0 +1,415 @@
+{
+  "acidic": {
+    "value": "산성",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "산성",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "염기성",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "염기성",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "축전지의 산",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "축전지의 산",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "혈액",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "혈액",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "치킨스프",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "치킨스프",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "커피",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "커피",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "사용자 지정 액체",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "사용자 지정 액체",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "하수구 세척제",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "하수구 세척제",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "비누",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "비누",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "우유",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "우유",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "오렌지 주스",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "오렌지쥬스",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1454553925919,
+        "oldValue": "오렌지쥬스",
+        "newValue": "오렌지 주스",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "소다수",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "소다수",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "침",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "침",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "구토물",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "구토물",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "물",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "물",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "농도",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "농도",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "선형",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "선형",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "대수형",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "대수형",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "분자수 세기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "분자수 세기",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "중성",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "중성",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "척도 초과",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "척도 초과",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1454553925919,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1454553925919,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH 척도",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "pH 척도",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "양",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "양",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "비",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "비",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "거시적",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "거시적",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "미시적",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "미시적",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "나의 용액",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "나의 용액",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1451305590089,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "몰",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460275663961,
+        "oldValue": "",
+        "newValue": "몰",
+        "explanation": null
+      }
+    ]
+  },
+  "particleCounts": {
+    "value": "입자 수",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701159984705,
+        "oldValue": "",
+        "newValue": "입자 수"
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701159984705,
+        "oldValue": "",
+        "newValue": "mol/L"
+      }
+    ]
+  }
+}

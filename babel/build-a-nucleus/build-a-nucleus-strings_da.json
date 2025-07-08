@@ -1,0 +1,974 @@
+{
+  "decay": {
+    "value": "Henfald",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Henfald"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Symbol",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Symbol"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "Elektronsky",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Elektronsky"
+      }
+    ]
+  },
+  "stable": {
+    "value": "Stabil",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Stabil"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "Ustabil",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Ustabil"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "neutroner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "neutroner"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "dannes ikke",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "passer ikke"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "passer ikke",
+        "newValue": "dannes ikke"
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "neutron",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "neutron"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "Klynge af {{neutronNumber}} neutroner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "Klynge af {{neutronNumber}} neutroner"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "α henfald",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "α henfald"
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "β<sup>-</sup> henfald",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "β<sup>-</sup> henfald"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "β<sup>+</sup> henfald",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "β<sup>+</sup> henfald"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "Proton-emission",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Proton-emission"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "Neutron-emission",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Neutron-emission"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "mindre stabil",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "mindre stabil "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "mindre stabil ",
+        "newValue": "mindre stabil",
+        "explanation": null
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "mere stabil",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "mere stabil"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "Mulige henfald",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Mulige henfald"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "Selvom der findes andre henfald, er de her viste de mest almindelige. I tilfælde hvor der ikke findes kendte henfald, vises ingen tilgængelige henfald.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "Mens andre henfald kan eksistere, er de viste henfald de mest almindelige. I tilfælde, hvor der ikke er noget kendt henfald, vises ingen tilgængelige henfald."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1663062314453,
+        "oldValue": "Mens andre henfald kan eksistere, er de viste henfald de mest almindelige. I tilfælde, hvor der ikke er noget kendt henfald, vises ingen tilgængelige henfald.",
+        "newValue": "De viste henfald de mest almindelige, men der kan dog eksistere andre. I tilfælde, hvor der ikke er noget kendt henfald, vises ingen tilgængelige henfald."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1664197327521,
+        "oldValue": "De viste henfald de mest almindelige, men der kan dog eksistere andre. I tilfælde, hvor der ikke er noget kendt henfald, vises ingen tilgængelige henfald.",
+        "newValue": "De viste henfald er de mest almindelige, men der kan dog eksistere andre. I de tilfælde, hvor der ikke er noget kendt henfald, vises ingen tilgængelige henfald."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679793731040,
+        "oldValue": "De viste henfald er de mest almindelige, men der kan dog eksistere andre. I de tilfælde, hvor der ikke er noget kendt henfald, vises ingen tilgængelige henfald.",
+        "newValue": "Selvom andre henfald måtte eksistere, er de viste henfald de mest almindelige. I tilfælde hvor der ikke er nogen kendte henfald, vises ingen tilgængelige henfald.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1702655292453,
+        "oldValue": "Selvom andre henfald måtte eksistere, er de viste henfald de mest almindelige. I tilfælde hvor der ikke er nogen kendte henfald, vises ingen tilgængelige henfald.",
+        "newValue": "Selvom der findes andre henfald, er de her viste de mest almindelige. I tilfælde hvor der ikke findes kendte henfald, vises ingen tilgængelige henfald.",
+        "explanation": null
+      }
+    ]
+  },
+  "protons": {
+    "value": "Protoner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Protoner"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "Neutroner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Neutroner"
+      }
+    ]
+  },
+  "proton": {
+    "value": "Proton",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Proton"
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "Neutron",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Neutron"
+      }
+    ]
+  },
+  "electron": {
+    "value": "Elektron",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Elektron"
+      }
+    ]
+  },
+  "positron": {
+    "value": "Positron",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Position "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "Position ",
+        "newValue": "Positron"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "Halveringstid:",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Halveringstid:"
+      }
+    ]
+  },
+  "unknown": {
+    "value": "Ukendt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Ukendt"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "sekunder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "sekunder"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "Halveringstid, tidsskala",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "Halveringstid tidsskala"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "Halveringstid tidsskala",
+        "newValue": "Halveringstid, tidsskala"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "Protoner:",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Protoner:"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "Neutroner:",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Neutroner:"
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "Tid for lysets passage af en kerne",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Tid for lysets passage af en kerne"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Tid for lysets passage af en kerne",
+        "newValue": " - Tid for lysets passage af en kerne"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Tid for lysets passage af en kerne",
+        "newValue": "- Tid for lysets passage af en kerne",
+        "explanation": null
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "Tid for lysets passage af et atom",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Tid for lysets passage af et atom"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Tid for lysets passage af et atom",
+        "newValue": " - Tid for lysets passage af et atom"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Tid for lysets passage af et atom",
+        "newValue": "- Tid for lysets passage af et atom",
+        "explanation": null
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "Tid for lysets passage af 1000 atomer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Tid for lysets passage af 1000 atomer"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Tid for lysets passage af 1000 atomer",
+        "newValue": " - Tid for lysets passage af 1000 atomer"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Tid for lysets passage af 1000 atomer",
+        "newValue": "- Tid for lysets passage af 1000 atomer",
+        "explanation": null
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "Tid for at lyden flytter sig 1 mm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Tid for at lyden flytter sig 1 mm"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Tid for at lyden flytter sig 1 mm",
+        "newValue": " - Tid for at lyden flytter sig 1 mm"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Tid for at lyden flytter sig 1 mm",
+        "newValue": "- Tid for at lyden flytter sig 1 mm",
+        "explanation": null
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "Et øjeblik",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Et øjeblik"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Et øjeblik",
+        "newValue": " - Et øjeblik"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Et øjeblik",
+        "newValue": "- Et øjeblik",
+        "explanation": null
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "Et minut",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Et minut"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Et minut",
+        "newValue": " - Et minut"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Et minut",
+        "newValue": "- Et minut",
+        "explanation": null
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "Et år",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Et år"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Et år",
+        "newValue": " - Et år"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Et år",
+        "newValue": "- Et år",
+        "explanation": null
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "Gennemsnits levetid for et menneske",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Gennemsnits levetid for et menneske"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Gennemsnits levetid for et menneske",
+        "newValue": " - Gennemsnits levetid for et menneske"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Gennemsnits levetid for et menneske",
+        "newValue": "- Gennemsnits levetid for et menneske",
+        "explanation": null
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "Universets alder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662788541791,
+        "oldValue": "",
+        "newValue": "- Universets alder"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Universets alder",
+        "newValue": " - Universets alder"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Universets alder",
+        "newValue": "- Universets alder",
+        "explanation": null
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "Levetid af længstlevende stjerner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "- Levetid af længstlevende stjerner"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1662793013499,
+        "oldValue": "- Levetid af længstlevende stjerner",
+        "newValue": " - Levetid af længstlevende stjerner"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": " - Levetid af længstlevende stjerner",
+        "newValue": "- Levetid af længstlevende stjerner",
+        "explanation": null
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "Byg en kerne",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1662787795626,
+        "oldValue": "",
+        "newValue": "Byg en kerne"
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>A</b></span>"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>B</b></span>"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>C</b></span>"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>D</b></span>"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>E</b></span>"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>F</b></span>"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>G</b></span>"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>H</b></span>"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>I</b></span>"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679693131977,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>J</b></span>"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "Henfald",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Henfald"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "Diagram intro",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Diagram intro"
+      }
+    ]
+  },
+  "energy": {
+    "value": "Energi",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Energi"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "Magiske tal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Magiske tal"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "Delvist isotopkort",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Delvis nukliddiagram"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1698238758143,
+        "oldValue": "Delvis nukliddiagram",
+        "newValue": "Delvist isotopkort",
+        "explanation": null
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "Et komplet interaktivt diagram over nukliderne og deres henfald er tilgængeligt fra Energy Education Project ved University of Calgary, se {{link}}.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Et komplet interaktivt diagram over nukliderne og deres henfald er tilgængeligt fra Energy Education Project ved University of Calgary, se {{link}}."
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "fuldt diagram",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "fuldt diagram"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "Fuldt isotopkort",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Fuldt nukliddiagram"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1698256717222,
+        "oldValue": "Fuldt nukliddiagram",
+        "newValue": "Fuldt isotopkort",
+        "explanation": null
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "Fuldt diagram",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Fuldt diagram"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "Nuklear skalmodel",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Nuklear skalmodel"
+      }
+    ]
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "{{name}} - {{mass}}"
+      }
+    ]
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "{{nameMass}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "{{mass}} {{particleType}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "Protonnummer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Protonnummer"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "Neutronnummer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Neutronnummer"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "ukendt{{space}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "unknown{{space}}"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1698256717222,
+        "oldValue": "unknown{{space}}",
+        "newValue": "ukendt{{space}}",
+        "explanation": null
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "Mest sandsynlige henfaldstype",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "Mest sandsynlige henfaldstype"
+      }
+    ]
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1698218415255,
+        "oldValue": "",
+        "newValue": "({{decayLikelihoodPercent}}%)"
+      }
+    ]
+  }
+}

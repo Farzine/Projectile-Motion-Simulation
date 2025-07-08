@@ -1,0 +1,744 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "środek masy",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "środek masy",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "Dane",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Dane",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Dyfuzja",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Dyfuzja",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Temperatura początkowa (K)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Temperatura początkowa (K)",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "kPa",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Masa (u)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Masa (u)",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Liczba cząsteczek",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Liczba cząsteczek",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "szybkość przepływu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "szybkość przepływu",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "ciśnienie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "ciśnienie",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Szumy ciśnienia",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684946981,
+        "oldValue": "",
+        "newValue": "Hałas ciśnienia",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "Hałas ciśnienia",
+        "newValue": "Odgłos ciśnienia",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1709585686493,
+        "oldValue": "Odgłos ciśnienia",
+        "newValue": "Szumy ciśnienia",
+        "explanation": null
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "ps",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Promień (pm)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Promień (pm)",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Usuń podział",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Usuń podział",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Resetuj podział",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Przywróć podział",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1565687765405,
+        "oldValue": "Przywróć podział",
+        "newValue": "Resetuj podział",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "skala",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "skala",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Stoper",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "stoper",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678619043658,
+        "oldValue": "stoper",
+        "newValue": "Stoper",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>śr.</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "T<sub>śr.</sub> = {{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>śr.</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "T<sub>śr.</sub> = {{value}} K",
+        "explanation": null
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565692519656,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Licznik zderzeń",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "licznik zderzeń",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678619043658,
+        "oldValue": "licznik zderzeń",
+        "newValue": "Licznik zderzeń",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Szerokość",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "szerokość",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678619043658,
+        "oldValue": "szerokość",
+        "newValue": "Szerokość",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "okres próby",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "okres próby",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "kolizje - ściany",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "kolizje ściana",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1565684946981,
+        "oldValue": "kolizje ściana",
+        "newValue": "kolizje - ściany",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "°C",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Przywróć wieczko",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684946981,
+        "oldValue": "",
+        "newValue": "Przywróć wieczko",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Ups!<br><br>Osiągnięto maksymalną temperaturę.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Osiągnięto maksymalną temperaturę.",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Zderzenia",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Zderzenia",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "ciężkie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "ciężkie",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "lekkie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "lekkie",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Cząsteczki",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Cząsteczki",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Badaj",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Badaj",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "nic",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "nic",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "ciśnienie ↕T",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "ciśnienie ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "ciśnienie ↕V",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "ciśnienie ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Stały parametr",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Stały parametr",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "temperatura (T)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "temperatura (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "objętość (V)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "objętość (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Ups!<br><br>Nie można utrzymać stałego ciśnienia,<br>gdy pojemnik jest pusty.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Nie można utrzymać stałego ciśnienia,<br>gdy pojemnik jest pusty.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Ups!<br><br>Nie można utrzymać stałego ciśnienia.<br>Objętość byłaby zbyt duża.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Nie można utrzymać stałego ciśnienia.<br>Objętość byłaby zbyt duża.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Ups!<br><br>Nie można utrzymać stałego ciśnienia.<br>Objętość byłaby zbyt mała.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Nie można utrzymać stałego ciśnienia.<br>Objętość byłaby zbyt mała.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Ups!<br><br>Nie można utrzymać stałej temperatury,<br>gdy pojemnik jest pusty.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Nie można utrzymać stałej temperatury,<br>gdy pojemnik jest pusty.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Ups!<br><br>Nie można utrzymać stałej temperatury,<br>gdy pojemnik jest otwarty.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684401652,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Nie można utrzymać stałej temperatury,<br>gdy pojemnik jest otwarty.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Doskonały",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565684946981,
+        "oldValue": "",
+        "newValue": "Doskonały",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Średnia szybkość",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Średnia szybkość",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Temperatura wtrysku",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Temperatura wtrysku",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "dopasuj pojemnik",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "dopasuj pojemnik",
+        "explanation": null
+      }
+    ]
+  },
+  "setTo": {
+    "value": "ustaw na:",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "ustaw na:",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Energia kinetyczna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Energia kinetyczna",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Szybkość",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Szybkość",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Energia",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Gazy - właściwości",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1565686753502,
+        "oldValue": "",
+        "newValue": "Gazy - właściwości",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.changeUnits": {
+    "value": "Zmień jednostki",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1722534145595,
+        "oldValue": "",
+        "newValue": "Zmień jednostki"
+      }
+    ]
+  },
+  "pressureNoiseDescription": {
+    "value": "Dodaje trochę szumu do wskaźnika ciśnienia, aby wydawał się bardziej realistyczny.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1722534145595,
+        "oldValue": "",
+        "newValue": "Dodaje trochę szumu do wskaźnika ciśnienia, aby wydawał się bardziej realistyczny."
+      }
+    ]
+  },
+  "wallVelocity": {
+    "value": "Prędkość ścianki",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1722534145595,
+        "oldValue": "",
+        "newValue": "Prędkość ścianki"
+      }
+    ]
+  }
+}

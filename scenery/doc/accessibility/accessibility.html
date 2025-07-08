@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Accessibility with Scenery</title>
+
+  <link rel="stylesheet" href="../../../sherpa/lib/bootstrap-2.2.2.css">
+  <link rel="stylesheet" href="../../../sherpa/lib/bootstrap-responsive-2.2.2.css">
+  <link rel="stylesheet" href="../../../sherpa/lib/syntaxhighlighter-3.0.83/shCore.css">
+  <link rel="stylesheet" href="../../../sherpa/lib/syntaxhighlighter-3.0.83/shThemeDefault.css">
+  <link rel="stylesheet" href="../../assets/scenery.css">
+
+  <!-- Before loading other things (that might error), create hooks to report errors/loads for continuous testing -->
+  <script src="../../../chipper/js/browser/sim-tests/pageload-connector.js"></script>
+
+  <!-- jQuery and LoDash are dependencies -->
+  <script src="../../../sherpa/lib/jquery-2.1.0.min.js"></script>
+  <script src="../../../sherpa/lib/lodash-4.17.4.min.js"></script>
+
+  <!-- For the styling -->
+  <script src="../../../sherpa/lib/bootstrap-2.2.2.js"></script>
+
+  <script src="../../../sherpa/lib/syntaxhighlighter-3.0.83/shCore.js"></script>
+  <script src="../../../sherpa/lib/syntaxhighlighter-3.0.83/shBrushJScript.js"></script>
+  <script src="../../../sherpa/lib/syntaxhighlighter-3.0.83/shBrushXml.js"></script>
+
+  <script type="text/javascript"
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <!-- Our code, in either the concatenated 'with comments' version or the minified version -->
+  <script src="../../dist/scenery.min.js"></script>
+
+  <!-- eslint-disable --> <!--TODO: fix lint https://github.com/phetsims/chipper/issues/1405-->
+
+  <script type="text/javascript">
+    phet.scenery.Utils.polyfillRequestAnimationFrame();
+
+    window.docExample = ( id, draw ) => {
+      var $container = $( '#' + id );
+      var scene = new phet.scenery.Node();
+      var display = new phet.scenery.Display( scene, {
+        width: $container.width(),
+        height: $container.height()
+      } );
+      $container[ 0 ].appendChild( display.domElement );
+      draw( scene, display );
+      display.updateDisplay();
+      var $code = $( '<pre class="brush: js"></pre>' );
+      $code.text( draw.toString().match( /\/\*START\*\/((.|\n)*)\/\*END\*\// )[ 1 ] );
+      $container.after( $code );
+
+      var pdomHTMLBlock = display.pdomRootElement.outerHTML;
+      var formattedPDOM = pdomHTMLBlock.replace( new RegExp( '<[/]?\\w*[ >]', 'g' ), '\n$&' ); // add breaks in the string
+      var $PDOMcode = $( '<pre class="brush: html"></pre>' ).text( formattedPDOM );
+
+      $code.after( $PDOMcode ).after( $( '<br/><p>And the PDOM representation</p>' ) );
+    }
+  </script>
+
+  <style type="text/css">
+
+    .exampleScene {
+      margin: 15px auto;
+      border: 1px solid black;
+      position: relative;
+      left: 0;
+      top: 0;
+    }
+
+    #sidebar {
+      background-color: #eee;
+      position: fixed;
+      z-index: 10;
+      top: 41px;
+      left: 0;
+      bottom: 0;
+      width: 200px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      -webkit-overflow-scrolling: touch;
+      padding: 15px 0 30px 30px;
+      border-right: 1px solid #bbb;
+      box-shadow: 0 0 20px #ccc;
+      -webkit-box-shadow: 0 0 20px #ccc;
+      -moz-box-shadow: 0 0 20px #ccc;
+    }
+
+    #apiList {
+      background-color: #eee;
+      position: relative;
+      border: 1px solid #bbb;
+      border-left: none;
+      padding: 10px;
+    }
+
+    .ph2 {
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .navlink {
+      font-weight: bold;
+    }
+
+    .sublink {
+      padding-left: 1em;
+    }
+
+    .args {
+      font-weight: normal;
+      font-size: 80%;
+    }
+
+    footer {
+      maring-left: 2em;
+      background-color: #191919;
+    }
+  </style>
+
+</head>
+
+<body>
+<div class="navbar navbar-inverse navbar-static-top">
+  <div class="navbar-inner">
+    <a class="brand" href="/scenery">Scenery</a>
+    <ul class="nav">
+      <li><a href="../../">Home</a></li>
+      <li class="active"><a href="../../doc">Documentation</a></li>
+      <li><a href="../../examples">Examples</a></li>
+      <li><a href="../../tests">Tests</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span3"></div>
+  <div class="span6">
+    <div class="page-header" style="text-align: center;">
+      <h1>Accessibility with Scenery</h1>
+      <div class="span3"></div>
+
+    </div>
+
+  </div>
+</div>
+<div class="row-fluid">
+  <div class="span3" id="apiList">
+    <!--<div class="ph2"><a href="#PDOM">The Parallel DOM</a></div>-->
+    <!--<div class="ph2"><a href="#overall-structure">Type Structure</a></div>-->
+
+    <div class="ph2"><a href="#pdom-api">The Accessibility API</a></div>
+    <div class="navlink"><a href="#ex-basic">A Basic Example</a></div>
+    <div class="sublink"><a href="#ex-basic">tagName</a></div>
+    <div class="sublink"><a href="#ex-basic">innerContent</a></div>
+
+    <div class="navlink"><a href="#ex-all-siblings">Multiple DOM Elements per Node</a></div>
+    <div class="sublink"><a href="#ex-all-siblings">labelTagName</a></div>
+    <div class="sublink"><a href="#ex-all-siblings">labelContent</a></div>
+    <div class="sublink"><a href="#ex-all-siblings">descriptionTagName</a></div>
+    <div class="sublink"><a href="#ex-all-siblings">descriptionContent</a></div>
+    <div class="sublink"><a href="#ex-all-siblings">containerTagName</a></div>
+    <div class="sublink"><a href="#append-siblings">appendLabel</a></div>
+    <div class="sublink"><a href="#append-siblings">appendDescription</a></div>
+
+    <div class="navlink"><a href="#pdom-structure">The Structure Of The PDOM</a></div>
+    <div class="sublink"><a href="#scene-graph">example: leveraging the scene graph</a></div>
+    <div class="sublink"><a href="#text-in-pdom">example: PDOM flexibility</a></div>
+
+    <div class="navlink"><a href="#keyboard-nav">Keyboard Navigation</a></div>
+    <div class="sublink"><a href="#input">inputType</a></div>
+    <div class="sublink"><a href="#input">inputValue</a></div>
+    <div class="sublink"><a href="#input">pdomChecked</a></div>
+    <div class="sublink"><a href="#input">addInputListener()</a></div>
+    <div class="sublink"><a href="#focus">focusable</a></div>
+    <div class="sublink"><a href="#focus">pdomVisible</a></div>
+    <div class="sublink"><a href="#focus">focus()</a></div>
+    <div class="sublink"><a href="#focus">blur()</a></div>
+    <div class="sublink"><a href="#interactive-content">Interactive Content</a></div>
+
+    <div class="navlink"><a href="#manipulating-pdom">Manipulating the PDOM</a></div>
+    <div class="sublink"><a href="#manipulating-pdom">es5 getters and setters</a></div>
+    <div class="sublink"><a href="#accessible-name">Accessible Name</a></div>
+    <div class="sublink"><a href="#accessible-name">ariaLabel</a></div>
+    <div class="sublink"><a href="#accessible-name">aria-labelledby</a></div>
+    <div class="sublink"><a href="#ordering">pdomOrder</a></div>
+    <div class="sublink"><a href="#interactive-alerts">UtteranceQueue</a></div>
+    <div class="sublink"><a href="#performance-considerations">Performance Considerations</a></div>
+
+    <div class="navlink"><a href="#pdom-resources">Next Steps for Understanding</a></div>
+  </div>
+  <div class="span6">
+
+    <h2>Scenery's Accessibility Features</h2>
+
+    <p>
+      Scenery has a variety of accessibility features available to use. This document describes how to use the
+      Parallel DOM to support screen reader accessibility. Scenery supports other accessibility-related features too:
+    </p>
+
+    <ul>
+      <li>Parallel DOM - a parallel DOM tree that renders the Scenery scene graph into HTML for ingestion by a screen
+        reader.
+      </li>
+      <li>Pan and Zoom - zooming and panning within a scenery Display, with a variety of input modalities for controling
+        it.
+      </li>
+      <li><a href="voicing.html">Voicing</a> - Speech made directly by the application using SpeechSynthesis.</li>
+    </ul>
+
+
+    <h2>Background Information</h2>
+
+    <p>
+      Prior to reading through the following documentation, please familiarize yourself with this background
+      information about accessible HTML, the accessibility tree, accessible names, and ARIA. The rest of this
+      document will assume you have knowledge of these concepts.
+    </p>
+
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML">Accessible HTML</a> &ndash; This
+        is an introduction to accessible, semantic HTML. This is important because much of Scenery's accessibility
+        support is only as good as the accessible HTML you tell it to create.
+      </li>
+      <li><a
+          href="https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree">The
+        Accessibility Tree</a> &ndash; It is good to understand how the browser interprets HTML into a rich
+        data structure called the "Accessibility Tree." Most important is the notion of an "accessible name" and "role"
+        that each element needs, at the very least, to be accessible.
+      </li>
+      <li><a id="accessible-name-link"
+             href="https://developer.paciellogroup.com/blog/2017/04/what-is-an-accessible-name/">Accessible Name</a>
+        &ndash; Identifying the multiple ways to provide an accessible name to an element is vital to web accessibility.
+        Having multiple strategies allows for flexibility in code that you write.
+      </li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA">ARIA</a> &ndash; "Accessible Rich
+        Internet Applications" is a way to supplement semantic HTML in order to provide further accessibility to
+        elements and interactions. Much of the API for the Parallel DOM uses ARIA features.
+        Remember that the first rule of ARIA is to not use ARIA!
+      </li>
+    </ul>
+
+    <h2 id="PDOM">The Parallel DOM</h2>
+
+    <p>
+      Scenery uses HTML5 technologies (svg, canvas, webgl) to draw the display. These have very little semantic
+      data as to what is inside the rendered graphic. The PDOM (Parallel DOM (document object model)) pulls semantic
+      data from the scene graph and adds it to a separate HTML structure that is available for assistive technologies
+      (AT).
+      When we say "PDOM", think "the HTML manifestation of the graphical <code>Node.js</code> content in the display."
+    </p>
+
+    <p>
+      The PDOM not visible on screen, but provides an interface to AT so that they have
+      a representation of the display. The PDOM is dynamic and its DOM tree will update with changes
+      to the scene. Any node that has accessible content specified will be represented in the PDOM.
+      HTML
+      is used so that scenery can rely on semantic HTML and accessibility conventions of the web. This way, scenery can
+      push some of
+      the accessibility work load to the browser and AT for providing keyboard navigation and auditory descriptions.
+    </p>
+
+    <p>
+      Any node in scenery can have accessible content. The accessible content will represent the node in
+      the PDOM. The PDOM only contains Nodes that specify content.
+    </p>
+
+    <h2 id="pdom-api">Scenery's Accessibility API (powered by the PDOM)</h2>
+
+    <p>
+      Everything described in this document is accessed by creating a <code>Display</code> with the <code>accessibility:true</code>
+      option passed to it.
+      Most of Scenery's accessibility features are defined and implemented in <code>ParallelDOM.js</code>.
+      <code>ParallelDOM.js</code> is a trait that is mixed in to <code>Node.js</code>. It adds getters and setters
+      for properties related to the PDOM, so all we have to do is pass in PDOM specific options like normal into the
+      super() or mutate() function calls.
+    </p>
+
+    <p>
+      The following explains how to use the accessibility functionality of Scenery. For more information and up-to-date
+      API
+      documentation, see <a
+        href="https://github.com/phetsims/scenery/blob/main/js/accessibility/pdom/ParallelDOM.js#L4">
+      the source code</a>. On the side bar, options are categorized by
+      where they are introduced and explained. In this file there is little "traditional" documentation, rather
+      example-based explanation. The source code is the best place for specifics, documentation and implementation.
+    </p>
+
+    <h3 id="ex-basic">A Basic Example</h3>
+
+    <p>The primary way that developers will implement accessibility is through options passed through to
+      <code>Node.js</code>.
+      First off, each node that wants content in the PDOM will need an HTML element in the PDOM to
+      represent it.
+      To do this, use the <code>tagName</code> option:</p>
+    <div id="example-accessibleTag" class="exampleScene" style="width: 64px; height: 64px; margin: 0 auto;"></div>
+    <script type="text/javascript">
+      window.docExample( 'example-accessibleTag', function( scene, display ) {
+        /*START*/
+        var pdomNode = new phet.scenery.Rectangle( 0, 0, 64, 64, {
+          fill: 'blue',
+
+          // pdom
+          tagName: 'p',
+          innerContent: 'I am a beautiful, blue rectangle.'
+        } );
+        scene.addChild( pdomNode );
+        display.updateOnRequestAnimationFrame();
+        /*END*/
+      } );
+    </script>
+
+    <p>Above is a simple scenery <code>Rectangle</code>, that is represented as a paragraph tag in the PDOM.
+      In addition to <code>tagName</code>, use <code>innerContent</code> to add text content inside the
+      <code>&lt;p&gt;</code>
+      element.
+
+    <h3 id="ex-all-siblings">Multiple DOM Elements per Node</h3>
+
+    <p>
+      The basic example shows one DOM element representing a node in the PDOM, but ParallelDOM.js supports a richer HTML
+      structure. Each node can have multiple DOM elements. To be represented in the PDOM, the node must have a primary
+      element specified with tagName. It can optionally also have a label element specified with labelTagName, a
+      descriptions element specified with descriptionTagName and a structural container element specified with
+      containerTagName.
+    </p>
+
+    <h4>Terminology</h4>
+
+    <p>
+      Terminology is key in understanding the specifics of creating the PDOM. From here on, when speaking
+      about "siblings," we are speaking about the relationship between HTML elements in
+      the PDOM. These Elements are not "siblings to the node," but instead only siblings to each other,
+      with an HTML Element parent called the "containerParent".
+    </p>
+
+    <p>
+      <strong>Summary:</strong> Each node has an <code>PDOMPeer</code> (or “peer”) that
+      manages the <code>HTMLElement</code>s (aka “elements”) that are related to that node
+      in the PDOM. A node has one or more associated elements, one
+      of which is the “primary element”, whose tag is specified by option <code>tagName</code>. There are two other
+      optional “supplementary elements”, whose tags are specified via options <code>labelTagName</code> and
+      <code>descriptionTagName</code>. If more than the primary element is specified, they are all referred to as
+      “sibling elements” (including the "primary sibling") and can be optionally grouped together under a
+      “container element”. The container element is given a tag name via <code>containerTagName</code>.
+    </p>
+    <h4>Example</h4>
+    <p>Here is an example of a node that uses all of its elements to provide the fullest
+      semantic picture of the sim component to the PDOM.</p>
+
+    <div id="example-all-siblings" class="exampleScene" style="width: 96px; height: 64px; margin: 0 auto;"></div>
+    <script type="text/javascript">
+      window.docExample( 'example-all-siblings', function( scene, display ) {
+        /*START*/
+        var pdomNode = new phet.scenery.Node( {
+
+          // pdom
+          tagName: 'button',
+          innerContent: 'Grab Magnet',
+          labelTagName: 'h3',
+          labelContent: 'Magnet',
+          descriptionTagName: 'p',
+          descriptionContent: 'Magnet has a grey south pole on the left and a red north pole on the right.',
+          containerTagName: 'section'
+        } );
+
+        // the visual representation of the magnet
+        var southPole = new phet.scenery.Rectangle( 0, 0, 48, 64, { fill: 'grey' } );
+        var northPole = new phet.scenery.Rectangle( 48, 0, 48, 64, { fill: 'red' } );
+        pdomNode.children = [ southPole, northPole ];
+
+        scene.addChild( pdomNode );
+        pdomNode.addChild( new phet.scenery.Text( 'North South Magnet', { stroke: 'black', center: pdomNode.center } ) );
+        display.updateOnRequestAnimationFrame();
+        /*END*/
+      } );
+    </script>
+
+    <p>
+      In this example, the rectangle's primary sibling is a button with an Accessible Name of "Grab Magnet". It has a
+      label
+      sibling with an <code>h3</code> tag with inner content "Grab Magnet", and a description sibling with a
+      <code>tagName</code> of "p" with the specified sentence.
+    </p>
+
+    <p>A few notes here:</p>
+    <ul>
+      <li>All supplemental HTML Elements (container, description and label) have default tags in the PDOM API.
+        Specifying a "*Content" option without the "*TagName" option will produce an element of the default. See
+        <code>PDOMUtils</code> for the default tag names.
+      </li>
+      <li id="append-siblings">By default the description and label tags come before the primary sibling, you can change
+        this with
+        <code>appendLabel</code> and <code>appendDescription</code> options.
+      </li>
+      <li>The <code>Text</code> node "North South Magnet" has no accessible content and so it does not appear anywhere
+        in the PDOM.
+      </li>
+    </ul>
+
+    <h3 id="pdom-structure">The Structure of the PDOM</h3>
+
+    <p>
+      By default, the PDOM hierarchy will match the hierarchy of the scene graph. This is an important feature to
+      consider. If a parent node and child node both have accessible content, then, in the
+      PDOM, the accessible HTML
+      of the child node will be added as a child of the parent's primary sibling. In scenery code, this is
+      managed by <code>PDOMPeer</code>, a type that stores and controls all HTML Elements for a given
+      node.
+    </p>
+
+    <h4 id="scene-graph">Leveraging the Scene Graph</h4>
+
+    <p>
+      Consider the following example where we have a box filled with circles and the desired PDOM representation is an
+      unordered list filled with list items.
+    </p>
+    <div id="example-accessible-graph" class="exampleScene" style="width: 64px; height: 64px; margin: 0 auto;"></div>
+    <script type="text/javascript">
+      window.docExample( 'example-accessible-graph', function( scene, display ) {
+        /*START*/
+        var dimension = 64;
+
+        // add a parent rectangle, represented as an unordered list
+        var rectangle = new phet.scenery.Rectangle( 0, 0, dimension, dimension, {
+          fill: 'lightblue',
+
+          // pdom
+          tagName: 'ul'
+        } );
+        scene.addChild( rectangle );
+
+        // add child circles, each represented as a list item
+        for ( var i = 0; i < 5; i++ ) {
+          const x = Math.floor( Math.random() * dimension );
+          const y = Math.floor( Math.random() * dimension );
+
+          rectangle.addChild( new phet.scenery.Circle( 3, {
+            fill: 'red',
+            center: new phet.dot.Vector2( x, y ),
+
+            // pdom
+            tagName: 'li',
+            innerContent: `Circle ${i} at ${x},${y}`
+          } ) );
+        }
+        display.updateOnRequestAnimationFrame();
+        /*END*/
+      } );
+    </script>
+
+    <p>
+      In this example, scenery automatically structured the PDOM such that the list items are children of the unordered
+      list to match the hierarchy of the scene graph.
+    </p>
+
+
+    <h4 id="text-in-pdom">Flexibility</h4>
+
+    <p>
+      The PDOM API can provide lots of flexibility in how to display content in the PDOM. Each sibling of the peer
+      has a name (like label or description), but at its core it is still just an HTML element, and it can be any
+      tag name specified. Below is an example of a node that is used just to add text content to the
+      PDOM. In looking at the example, remember that there are default tag names for supplementary peer
+      Elements. (Note: as of writing this, sibling tag names default to "p").
+    </p>
+    <div id="example-lots-of-text" class="exampleScene" style="width: 64px; height: 64px; margin: 0 auto;"></div>
+    <script type="text/javascript">
+      window.docExample( 'example-lots-of-text', function( scene, display ) {
+        /*START*/
+        var pdomNode = new phet.scenery.Node( {
+
+          // pdom
+          tagName: 'p',
+          innerContent: 'Don\'t forget about Chemistry too!',
+          labelContent: 'This is paragraph 1. Physics is the best, and this node is going to tell the world!',
+          descriptionContent: 'This is paragraph 2. Math is also pretty cool.'
+        } );
+        scene.addChild( pdomNode );
+        display.updateOnRequestAnimationFrame();
+        /*END*/
+      } );
+    </script>
+
+    <p>
+      In this sense, the naming of the options to control each sibling in a bit "arbitrary," because you can use
+      the API for what will work best for the situation. Every node does not necessarily require all four HTML
+      Elements of its peer in the PDOM, use your judgement.
+    </p>
+
+    <h3 id="keyboard-nav">Keyboard Navigation</h3>
+    <p>
+      The PDOM API supports keyboard navigation only on the node's primary sibling.
+      A general philosophy to follow is to have the DOM Element hold as much semantic information as possible.
+      For example, if there is a button in the sim, it is an obvious choice to use a "button" element as the
+      node's primary sibling tag. Another solution that works, although it is much worse, would be to choose
+      a div, and then add listeners manually to control that div like a button. As a "div", an AT will not be able to
+      tell the user what the element is. In general try to pick semantic HTML elements that will assist in conveying
+      as much meaning as possible to the user. Although it is possible to use the ARIA spec to improve accessible
+      experience, it should be used as little. Remember that the first rule of ARIA is to not use ARIA! Instead favor
+      semantic HTML. Addressing semantics any further goes beyond the scope of this document.
+    </p>
+
+    <h4 id="input">Input types</h4>
+    <p>If you specify a <code>tagName: 'input'</code>, then use the <code>inputType</code> option to fill in the "type"
+      attribute of the element. There are also <code>inputValue</code> and <code>pdomChecked</code> options to
+      manipulate specific and common (that we found) attributes of input tags. If you need more control of the primary
+      DOM element's attributes, see <code>Node.setPDOMAttribute()</code>.
+    </p>
+    <p></p>
+    <div id="example-input-type" class="exampleScene" style="width: 64px; height: 64px; margin: 0 auto;"></div>
+    <script type="text/javascript">
+      window.docExample( 'example-input-type', function( scene, display ) {
+        /*START*/
+        var pdomNode = new phet.scenery.Rectangle( 0, 0, 64, 64, {
+          fill: 'blue',
+
+          // pdom
+          tagName: 'input',
+          inputType: 'checkbox',
+          labelContent: 'Toggle sim state',
+          labelTagName: 'label'
+        } );
+
+        scene.addChild( pdomNode );
+        display.updateOnRequestAnimationFrame();
+        /*END*/
+      } );
+    </script>
+
+    <p>The above example is a node whose PDOM representation is that of a basic checkbox. In order to give it
+      interactive
+      functionality, use <code>Node.addInputListener()</code>. The function takes in type
+      <code>Object.&lt;string, function&gt;</code> where the key is the name of the DOM Event you want to listen to. See
+      <a href="https://github.com/phetsims/scenery/blob/main/js/input/Input.js#L4">Input.js documentation</a> for an
+      up-to-date list of supported scenery events, and the subset that come from the PDOM.
+      This event is more often than not different than the listener needed for a mouse. Don't forget to remove the
+      listener
+      when the node is disposed with <code>Node.removeInputListener()</code>.
+    </p>
+
+    <p>Note that supplying a <code>label</code> tag name for the label sibling automatically set the <code>for</code>
+      attribute, ensuring a proper Accessible Name, see <a href="#accessible-name">this section</a> for more details
+      on the PDOM and setting accessible names.</p>
+
+    <h4 id="focus">Focus</h4>
+
+    <p>All interactive elements in the PDOM receive keyboard focus, but not all objects in the display are interactive.
+      For example, using PhET Interactive Simulations, the sweater in Balloons and Static Electricity is a dynamic
+      content object because its electrons can be transferred to a balloon. Even so it is not directly interacted
+      with by the user, thus the sweater never receives focus.</p>
+    <p>
+      When an element in the PDOM is focused, a focus highlight is automatically rendered in the display to support
+      keyboard navigation. This occurs when you specify a tagName that is inherently focusable in the DOM (like <code>button</code>).
+      For more complex interactions, type <code>input</code>, or other native and focusable
+      elements, may not work. Other tag names can be focused with the <code>focusable</code> option. If a specific
+      focus highlight is desired, a
+      <code>Node</code> or <code>Shape</code> can be passed into the <code>focusHighlight</code> option.
+    </p>
+
+    <p>
+      Visibility in the PDOM and the focus order is directly effected by <code>Node.visible</code>, but can
+      also be toggled independently with the option <code>Node.pdomVisible</code>. When set to true this
+      will hide content from screen readers and remove the element from focus order.
+    </p>
+
+    <h4 id="interactive-content">Interactive Content</h4>
+
+    <p>
+      The PDOM makes available the same input ability as is granted by HTML. Thus, a knowledge of HTML interaction can
+      be quite helpful when designing an interaction in the PDOM. A precursor to any node with interactive content via
+      the PDOM is the <code>focusable</code> option. Setting that option to true will allow keyboard (or AT) input from
+      the PDOM to the node. From this point, the events that the primary sibling receives depends entirely its
+      accessible
+      name and role. See below for a dedicated section about setting the Accessible Name of a node. The ARIA attribute
+      <code>role</code> can help inform the user to the custom interaction
+      (use the <code>ariaRole</code> option). For example using the ARIA "application" role has worked well for freely
+      moving, draggable objects. This will tell screen readers to pass all input events through
+      to the DOM element in the PDOM, like "keyup" and "keydown" which aren't provided for buttons when using many AT
+      (only "click"). Focusable elements can be manually focussed and blurred using the
+      <code>Node.focus()</code> and <code>Node.blur()</code> functions.
+    </p>
+
+    <p>
+      Once the PDOM structure is as desired, and you know what events are expected from interacting with that node,
+      use <code>Node.addInputListener()</code> to add event listeners to the PDOM events. See <a
+        href="https://github.com/phetsims/scenery/blob/main/js/input/Input.js">Input.js</a>
+      and its documentation for up-to-date notes on the events that are supported from PDOM elements. Among these are
+      keydown, keyup, click, input, change, focus, and blur.
+    </p>
+
+
+    <h3 id="manipulating-pdom">Manipulating the PDOM</h3>
+    <p>Most properties of the <code>ParallelDOM.js</code> trait are mutable so that the PDOM can update
+      with the graphical scene. Here are a few examples:</p>
+    <ul>
+      <li><code>tagName</code>: set&#47;get the tag name of the primary DOM sibling of a node</li>
+      <li><code>labelTagName</code>: set&#47;get the tag name of the label DOM sibling for a node</li>
+      <li><code>descriptionTagName</code>: set&#47;get the tag name for the description DOM sibling of a node</li>
+      <li><code>innerContent</code>: set&#47;get the text content of primary sibling of a node</li>
+      <li><code>labelContent</code>: set&#47;get the text content of label sibling for a node</li>
+      <li><code>descriptionContent</code>: set&#47;get the text content of description sibling for a node</li>
+      <li><code>ariaRole</code>: set&#47;get the ARIA role for the primary DOM sibling for a node</li>
+    </ul>
+    <p>
+      Up to this point these have only been offered as options, but each of these can be dynamically set also. Setting
+      any of the <code>.*[tT]agName</code> setters to <code>null</code> will clear that element from the PDOM. If you
+      set the
+      <code>Node.tagName = null</code>, this will clear all accessible content of the node.</p>
+    <p>
+      Please see <a href="https://github.com/phetsims/scenery/blob/main/js/accessibility/pdom/ParallelDOM.js">the
+      ParallelDOM trait</a> for a complete and up-to-date list of getters/setters.
+    </p>
+
+    <h4 id="accessible-name">A note about Accessible Name</h4>
+    <p>The "Accessible Name" of an element is how AT identifies an element in the browser's
+      accessibility tree. Diving into the nuance of this idea goes beyond the scope of this document, but
+      understanding this is imperative to successfully creating an accessible PDOM. For more info see
+      <a href="#accessible-name-link">background reading</a> about the topic.
+    </p>
+    <p>Here is an overview about the various ways to set the Accessible Name via the Scenery PDOM API.
+    </p>
+    <ul>
+      <li>Element's Content: Example <code>&lt;button&gt;My Button&lt;/button&gt;</code>. To accomplish this with the
+        PDOM API use <code>innerContent</code>.
+      </li>
+      <li><code>label</code> Element: a label element can be associated with an interactive <code>input</code> type
+        that does not have inner content in order to provide the input with an
+        accessible name. A label is the preferred naming
+        method when the display's interaction has visible text-based identifying it on screen. A label element can only
+        be associated with "lable" elements like
+        <a href="https://html.spec.whatwg.org/multipage/forms.html#the-label-element">typical interactive HTML
+          elements</a>.
+        To add an Accessible Name via a <code>label</code>, set the <code>labelTagName</code> to "label" and the "for"
+        attribute will automatically be filled in to point to the primary sibling.
+      </li>
+      <li><code>aria-label</code> Attribute: an ARIA attribute that can provide an accessible name. For the pdom
+        API use the <code>ariaLabel</code> option to set the value of said attribute on the primary DOM Element.
+      </li>
+      <li>
+        <code>aria-labelledby</code> Attribute: this can be used to associate an HTML
+        element other than the label element to another element. The elements do not have to be right beside each
+        other. This can be accomplished with <code>addAriaLabelledbyAssociation()</code>. This function takes an
+        argument that looks like:
+        <pre>        <code>
+          this.addAriaLabelledbyAssociation( {
+            thisElementName: PDOMPeer.PRIMARY_SIBLING,
+            otherNode: nodeWithAccessibleName,
+            otherElementName: PDOMPeer.PRIMARY_SIBLING
+          } );
+        </code>          </pre>
+        This association object is used to specify what the other node is that is going to be this node's Accessible
+        Name.
+        It also allows you to choose which PDOM element specifically, though quite often it is the primary sibling. This
+        method is also supported for aria-describedby, see <code>addAriaDescribedbyAssociation</code>
+      </li>
+    </ul>
+
+    <h4 id="ordering">Ordering</h4>
+    To manipulate the order in the PDOM, use <code>Node.pdomOrder = []</code>. Scenery supports a fully
+    independent
+    tree of PDOMInstances to order the PDOM versus the ordering based on the nodes into the
+    <code>Instance</code> tree. Because of this, you can use <code>Node.pdomOrder</code> to largely remap the
+    scene
+    graph (for rendering into the PDOM) without affecting the visually rendered output.
+    <code>Node.pdomOrder</code>
+    takes any array of nodes, even if the they aren't children to that node. Note that a node
+    must be connected to the main scene graph (via children) in order to support being in a pdomOrder. Thus you cannot
+    only add a node to a pdomOrder and expect it to render to the PDOM.
+
+    <h4 id="interactive-alerts">Interactive Alerts</h4>
+
+    <p>
+      All interactive alerts are powered with the <a
+        href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions">aria-live attribute</a>.
+      PhET manages alerts in a custom queue, see <a
+        href="https://github.com/phetsims/utterance-queue/blob/main/js/utteranceQueue.js">utteranceQueue.js</a>
+      Each accessible display is outfitted with an UtteranceQueue that can be passed alerts to it. All
+      PhET alerts should go through utteranceQueue, <code>aria-live</code> should not be added to elements in the
+      PDOM.
+    </p>
+
+    <h4 id="performance-considerations">Performance Considerations</h4>
+
+    <p>
+      Manipulating the DOM can be performance intensice. If the DOM is modified every animation frame, performance of
+      the application can be reduced on slower devices like tablets and phones. Performance can be improved by limiting
+      the frequency of setting accessible content and attributes where possible. So in general, it is good practice
+      to set accessibility attributes as infrequently as possible. There is some work in progress for Scenery to
+      batch the updates to the DOM so that the frequency of updates is reduced per animation frame. Please see the
+      following issue for their status and potential work to be done:
+    </p>
+    <ul>
+      <li><a href="https://github.com/phetsims/scenery/issues/663">Batching PDOM changes</a></li>
+    </ul>
+
+    <h2 id="pdom-resources">Next Steps for Understanding</h2>
+    <p>Please discuss developer related questions or problems with @jessegreenberg or @zepumph, and
+      update this document accordingly to help those who follow in your footsteps. Also @terracoda is a great
+      resource on questions about ARIA and web accessibility in general.
+    </p>
+    <h4>PhET Published Resources</h4>
+    <ul>
+      <li><a href="https://drive.google.com/file/d/0B44Uycdx6JGdRFpXcDJqZl9BUk0/view">Screen Reader Support for a
+        Complex Interactive Science Simulation</a></li>
+      <li><a href="http://scholarworks.csun.edu/handle/10211.3/190214">Description Strategies to Make an Interactive
+        Science Simulation Accessible</a></li>
+    </ul>
+    <h4>Source Code</h4>
+    <p>For up-to-date documentation and the latest API for accessibility in Scenery, please visit <a
+        href="https://github.com/phetsims/scenery/blob/main/js/accessibility/pdom/ParallelDOM.js">the source code</a>.
+
+    <p>Good luck and happy coding!</p>
+  </div>
+
+</div>
+
+<footer style="background-color: #191919;">
+  <a class="brand" href="/scenery">Scenery</a>
+</footer>
+
+<script type="text/javascript">
+  window.SyntaxHighlighter.all();
+</script>
+</body>
+</html>

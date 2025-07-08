@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "くらべよう",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1664282233825,
+        "oldValue": "",
+        "newValue": "くらべよう"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} は {{greaterNumber}} より 小さい。",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1664282233825,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} は {{greaterNumber}} より 小さい。"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} は {{smallerNumber}} より 大きい。",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1664282233825,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} は {{smallerNumber}} より 大きい。"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} は {{equalNumberRight}} と おなじ。",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1664282233825,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} は {{equalNumberRight}} と おなじ。"
+      }
+    ]
+  }
+}

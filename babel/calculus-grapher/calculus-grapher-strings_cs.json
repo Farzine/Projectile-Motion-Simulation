@@ -1,0 +1,299 @@
+{
+  "screen.derivative": {
+    "value": "Derivace",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Derivace"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratoř",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Laboratoř"
+      }
+    ]
+  },
+  "screen.integral": {
+    "value": "Integrál",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Integrál"
+      }
+    ]
+  },
+  "screen.advanced": {
+    "value": "Pokročilí",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Pokročilé"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Pokročilé",
+        "newValue": "Pokročilí",
+        "explanation": null
+      }
+    ]
+  },
+  "discontinuities": {
+    "value": "Diskontinuity",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Nespojitosti"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Nespojitosti",
+        "newValue": "Diskontinuity",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Hodnoty",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Hodnoty"
+      }
+    ]
+  },
+  "valuesPreferenceDescription": {
+    "value": "Zobrazuje hodnoty na osách grafu, referenční čáru, \"Sklon tečny\" a \"Čistou plochu\".",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Zobrazit hodnoty na osách grafu, referenční čáru, \"Sklon tečny\" a \"Čistou plochu\"."
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Zobrazit hodnoty na osách grafu, referenční čáru, \"Sklon tečny\" a \"Čistou plochu\".",
+        "newValue": "Zobrazuje hodnoty na osách grafu, referenční čáru, \"Sklon tečny\" a \"Čistou plochu\".",
+        "explanation": null
+      }
+    ]
+  },
+  "notation": {
+    "value": "Zápis",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Notace"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Notace",
+        "newValue": "Zápis",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "Proměnná",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Proměnná"
+      }
+    ]
+  },
+  "predictPreference": {
+    "value": "Předpovědět",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Předpověď"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Předpověď",
+        "newValue": "Předpovědět",
+        "explanation": null
+      }
+    ]
+  },
+  "predictPreferenceDescription": {
+    "value": "Přidá režim, který umožňuje předpovídat f({{variable}}).",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Přidá režim, který umožňuje předpovídat f({{variable}})."
+      }
+    ]
+  },
+  "barometer.slopeOfTangent": {
+    "value": "Sklon<br>tečny",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Směrnice<br>tečny"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Směrnice<br>tečny",
+        "newValue": "Sklon<br>tečny",
+        "explanation": null
+      }
+    ]
+  },
+  "checkbox.tangent": {
+    "value": "Tečna",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Tečna"
+      }
+    ]
+  },
+  "barometer.netSignedArea": {
+    "value": "Čistá<br>plocha",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Čistá plocha"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Čistá plocha",
+        "newValue": "Čistá<br>plocha",
+        "explanation": null
+      }
+    ]
+  },
+  "checkbox.areaUnderCurve": {
+    "value": "Plocha pod<br>křivkou",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Plocha pod<br> křivkou"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Plocha pod<br> křivkou",
+        "newValue": "Plocha pod<br>křivkou",
+        "explanation": null
+      }
+    ]
+  },
+  "smooth": {
+    "value": "Vyhladit",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Vyhladit"
+      }
+    ]
+  },
+  "predict": {
+    "value": "Předpovědět",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Předpověď"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Předpověď",
+        "newValue": "Předpovědět",
+        "explanation": null
+      }
+    ]
+  },
+  "referenceLine": {
+    "value": "Referenční<br>čára",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Referenční<br>čára"
+      }
+    ]
+  },
+  "show": {
+    "value": "Ukázat",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Zobrazit"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Zobrazit",
+        "newValue": "Ukázat",
+        "explanation": null
+      }
+    ]
+  },
+  "calculus-grapher.title": {
+    "value": "Grafický kalkulus",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1686409338333,
+        "oldValue": "",
+        "newValue": "Infinitezimální počet graficky"
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1690826786888,
+        "oldValue": "Infinitezimální počet graficky",
+        "newValue": "Grafický kalkulus",
+        "explanation": null
+      }
+    ]
+  }
+}

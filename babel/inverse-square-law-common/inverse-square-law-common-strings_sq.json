@@ -1,0 +1,146 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586251353915,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "shënimi decimal",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586260135629,
+        "oldValue": "",
+        "newValue": "shënimi decimal",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Forca mbi {{thisObject}} nga {{otherObject}}",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586251353915,
+        "oldValue": "",
+        "newValue": "Forca mbi {{thisObject}} nga {{otherObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Forca mbi {{thisObject}} nga {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586251353915,
+        "oldValue": "",
+        "newValue": "Forca mbi {{thisObject}} nga {{otherObject}} = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Vlerat e forcës",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586251353915,
+        "oldValue": "",
+        "newValue": "Vlerat e forcës",
+        "explanation": null
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Fshehura",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586260135629,
+        "oldValue": "",
+        "newValue": "Fshehura",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "metër",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586260135629,
+        "oldValue": "",
+        "newValue": "metër",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metra",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586260135629,
+        "oldValue": "",
+        "newValue": "metra",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "Njuton",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586260135629,
+        "oldValue": "",
+        "newValue": "Njuton",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Shënim shkencor",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586260135629,
+        "oldValue": "",
+        "newValue": "Shënim shkencor",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586251353916,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 760140,
+        "timestamp": 1586251353916,
+        "oldValue": "",
+        "newValue": "pm",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "tambo",
+  "version": "1.0.0-dev.17",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/tambo.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "requirejsNamespace": "TAMBO",
+    "phetLibs": [
+      "vegas"
+    ],
+    "runnable": true,
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "simFeatures": {
+      "supportsSound": true,
+      "supportsExtraSound": true,
+      "supportsInteractiveDescription": true,
+      "supportsDynamicLocale": true
+    },
+    "supportsOutputJS": true,
+    "screenNameKeys": [
+      "TAMBO/screen.simLikeComponents",
+      "TAMBO/screen.uiComponents",
+      "TAMBO/screen.testing"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "buoyancy": {
+    "value": "Upthrust",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1728960307537,
+        "oldValue": "",
+        "newValue": "Upthrust"
+      }
+    ]
+  },
+  "gravity.name": {
+    "value": "",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1728960689199,
+        "oldValue": "",
+        "newValue": "Weight"
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1728960781165,
+        "oldValue": "Weight",
+        "newValue": ""
+      }
+    ]
+  }
+}

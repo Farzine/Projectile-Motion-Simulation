@@ -1,0 +1,133 @@
+{
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Сила върху {{thisObject}}, създадена от {{otherObject}}",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1683033550530,
+        "oldValue": "",
+        "newValue": "Сила върху {{thisObject}}, създадена от {{otherObject}}"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684408438143,
+        "oldValue": "Сила върху {{thisObject}}, създадена от {{otherObject}}",
+        "newValue": "Сила върху {{thisObject}}, създадена от {{otherObject}}, F =",
+        "explanation": null
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684419230879,
+        "oldValue": "Сила върху {{thisObject}}, създадена от {{otherObject}}, F =",
+        "newValue": "Сила върху {{thisObject}}, създадена от {{otherObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Сила върху {{thisObject}}, създадена от {{otherObject}}, F = {{value}} N",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1683033550530,
+        "oldValue": "",
+        "newValue": "Сила върху {{thisObject}}, създадена от {{otherObject}} = {{value}} N"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684408438143,
+        "oldValue": "Сила върху {{thisObject}}, създадена от {{otherObject}} = {{value}} N",
+        "newValue": "Сила върху {{thisObject}}, създадена от {{otherObject}}, F = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1683033550530,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Покажи стойности",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1683033550530,
+        "oldValue": "",
+        "newValue": "Покажи стойности"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1683033550530,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Десетична нотация",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684419964002,
+        "oldValue": "",
+        "newValue": "Десетична нотация"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Скрити",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684419964002,
+        "oldValue": "",
+        "newValue": "Скрити"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Научна нотация",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684419964002,
+        "oldValue": "",
+        "newValue": "Научна нотация"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "метри",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684419964002,
+        "oldValue": "",
+        "newValue": "метри"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "метър",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684419964002,
+        "oldValue": "",
+        "newValue": "метър"
+      }
+    ]
+  }
+}

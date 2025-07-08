@@ -1,0 +1,256 @@
+{
+  "capacitance": {
+    "value": "Kapacitivnost",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Kapacitivnost",
+        "explanation": null
+      }
+    ]
+  },
+  "storedEnergy": {
+    "value": "Shranjena energija",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "shranjena energija",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1586345416418,
+        "oldValue": "shranjena energija",
+        "newValue": "Shranjena energija",
+        "explanation": null
+      }
+    ]
+  },
+  "topPlateCharge": {
+    "value": "El. naboj zgornje plošče",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Električni naboj zgornje plošče",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1586345416418,
+        "oldValue": "Električni naboj zgornje plošče",
+        "newValue": "El. naboj zgornje plošče",
+        "explanation": null
+      }
+    ]
+  },
+  "plateArea": {
+    "value": "Ploščina plošče",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Ploščina plošče",
+        "explanation": null
+      }
+    ]
+  },
+  "separation": {
+    "value": "Oddaljenost med ploščama",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Oddaljenost med ploščama",
+        "explanation": null
+      }
+    ]
+  },
+  "barGraphs": {
+    "value": "Stolpični prikaz",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Stolpični prikaz",
+        "explanation": null
+      }
+    ]
+  },
+  "currentDirection": {
+    "value": "Smer električnega toka",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Smer električnega toka",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Električno polje",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Električno polje",
+        "explanation": null
+      }
+    ]
+  },
+  "plateCharges": {
+    "value": "Električni naboj na plošči",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Električni naboj na plošči",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Napetost",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Napetost",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.capacitance": {
+    "value": "Kondenzator",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Kondenzator",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lightBulb": {
+    "value": "Žarnica",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Žarnica",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitor-lab-basics.title": {
+    "value": "Električni naboj na ploščah kondenzatorja",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1586345161737,
+        "oldValue": "",
+        "newValue": "Virtualni laboratorij: Osnovni",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1586345416418,
+        "oldValue": "Virtualni laboratorij: Osnovni",
+        "newValue": "Električni naboj na ploščah kondenzatorja",
+        "explanation": null
+      }
+    ]
+  },
+  "picoCoulombsPattern": {
+    "value": "{{value}} pC",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726266219401,
+        "oldValue": "",
+        "newValue": "{{value}} pC"
+      }
+    ]
+  },
+  "picoFaradsPattern": {
+    "value": "{{value}} pF",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726266219401,
+        "oldValue": "",
+        "newValue": "{{value}} pF"
+      }
+    ]
+  },
+  "picoJoulesPattern": {
+    "value": "{{value}} pJ",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726266219401,
+        "oldValue": "",
+        "newValue": "{{value}} pJ"
+      }
+    ]
+  },
+  "voltsPattern": {
+    "value": "{{value}} V",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726266219401,
+        "oldValue": "",
+        "newValue": "{{value}} V"
+      }
+    ]
+  },
+  "millimetersSquaredPattern": {
+    "value": "{{value}} mm<sup>2</sup>",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726266219401,
+        "oldValue": "",
+        "newValue": "{{value}} mm<sup>2</sup>"
+      }
+    ]
+  },
+  "millimetersPattern": {
+    "value": "{{value}} mm",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726266219401,
+        "oldValue": "",
+        "newValue": "{{value}} mm"
+      }
+    ]
+  },
+  "volts.unknown": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726266219401,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  }
+}

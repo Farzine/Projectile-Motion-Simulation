@@ -1,0 +1,726 @@
+{
+  "centerOfMass": {
+    "value": "Centro de Massa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Centro de Massa",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "Dados",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Dados",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Difusão",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Difusão",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Temperatura Inicial (K)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Temperatura Inicial (K)",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Massa (u)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Massa (u.m.a.)",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1612983527460,
+        "oldValue": "Massa (u.m.a.)",
+        "newValue": "Massa (u)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Número de Partículas",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Número de Partículas",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Taxa de Fluxo de Partículas",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Taxa de Fluxo de Partículas",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "Taxa de Fluxo de Partículas",
+        "newValue": "Taxa do Fluxo de Partículas",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1572628302571,
+        "oldValue": "Taxa do Fluxo de Partículas",
+        "newValue": "Taxa de Fluxo de Partículas",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Pressão",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Pressão",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Ruído de Pressão",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Ruído de Pressão",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Raio (pm)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Raio (pm)",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Remover Divisor",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Remover Divisor",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Reiniciar Divisor",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Reiniciar Divisor",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "Escala",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Escala",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Cronômetro",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "Cronômetro",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>média</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "T<sub>média</sub> = {{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>média</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798093300,
+        "oldValue": "",
+        "newValue": "T<sub>média</sub> = {{value}} K",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Contador de Colisões",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Contador de Colisões",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Largura",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Largura",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Período de Amostra",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Período de Amostra",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Colisões na Parede",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Colisões na Parede",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Repor a Tampa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Retornar Tampa",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1722526644865,
+        "oldValue": "Retornar Tampa",
+        "newValue": "Repor a Tampa",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Ôpa! <br><br>Temperatura máxima atingida.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Ôpa! <br><br>Temperatura máxima atingida.",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Colisões",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Colisões",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Pesadas",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Pesadas",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "Leves",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Leves",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Partículas",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Partículas",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Explorar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Explorar",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Nada",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Nada",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Pressão ↕T",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Pressão ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Pressão ↕V",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Pressão ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Manter Constante",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Manter Constante",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Temperatura (T)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843457,
+        "oldValue": "",
+        "newValue": "Temperatura (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Ôpa!<br><br>A pressão não pode manter-se constante<br>quando o recipiente estiver vazio.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Ôpa!<br><br>A pressão não pode manter-se constante<br>quando o recipiente estiver vazio.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Ôpa!<br><br>A pressão não pode manter-se constante.<br>O volume seria muito grande.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Ôpa!<br><br>A pressão não pode manter-se constante.<br>O volume seria muito grande.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Ôpa!<br><br>A pressão não pode manter-se constante.<br>O volume seria muito pequeno.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Ôpa!<br><br>A pressão não pode manter-se constante.<br>O volume seria muito pequeno.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Ôpa!<br><br>A temperatura não pode manter-se constante<br>quando o recipiente estiver vazio.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Ôpa!<br><br>A temperatura não pode manter-se constante<br>quando o recipiente estiver vazio.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Ôpa!<br><br>A temperatura não pode manter-se constante<br>quando o recipiente estiver aberto.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Ôpa!<br><br>A temperatura não pode manter-se constante<br>quando o recipiente estiver aberto.",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Taxa Média",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Taxa Média",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Temperatura de Injeção",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Temperatura de Injeção",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Mesma do Recipiente",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Recipiente de Correspondência",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1722526644865,
+        "oldValue": "Recipiente de Correspondência",
+        "newValue": "Mesma do Recipiente",
+        "explanation": null
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Definir para:",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Definir para:",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Energia Cinética",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Energia Cinética",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Taxa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Taxa",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Energia",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Propriedades dos Gases",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1565798843458,
+        "oldValue": "",
+        "newValue": "Propriedades do Gás",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1572628302571,
+        "oldValue": "Propriedades do Gás",
+        "newValue": "Propriedades dos Gases",
+        "explanation": null
+      }
+    ]
+  },
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684332695030,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684332695030,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684332695030,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1684332695030,
+        "oldValue": "",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1687518300696,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1698406579761,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1698406579761,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Volume (V)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1698406579761,
+        "oldValue": "",
+        "newValue": "Volume (V)"
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Ideal",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1698406579761,
+        "oldValue": "",
+        "newValue": "Ideal"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1698406579761,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "keyboardHelpDialog.changeUnits": {
+    "value": "Trocar Unidades",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1722526644865,
+        "oldValue": "",
+        "newValue": "Trocar Unidades"
+      }
+    ]
+  },
+  "pressureNoiseDescription": {
+    "value": "Adiciona um pouco de ruído ao manômetro para torná-lo mais realista.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1722526644865,
+        "oldValue": "",
+        "newValue": "Adiciona um pouco de ruído ao manômetro para torná-lo mais realista."
+      }
+    ]
+  },
+  "wallVelocity": {
+    "value": "Velocidade da Parede",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1722526644865,
+        "oldValue": "",
+        "newValue": "Velocidade da Parede"
+      }
+    ]
+  }
+}

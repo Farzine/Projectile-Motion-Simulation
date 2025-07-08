@@ -1,0 +1,360 @@
+{
+  "neutrons": {
+    "value": "நியூட்ரான்கள்",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "நியூத்திரன்",
+        "explanation": null
+      },
+      {
+        "userId": 190960,
+        "timestamp": 1465970881008,
+        "oldValue": "நியூத்திரன்",
+        "newValue": "நியூத்திரன்கள்",
+        "explanation": null
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": "நியூத்திரன்கள்",
+        "newValue": "நியூட்ரான்கள்"
+      }
+    ]
+  },
+  "atomicMass": {
+    "value": "அணுநிறை (amu)",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "அணுத்திணிவு",
+        "explanation": null
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": "அணுத்திணிவு",
+        "newValue": "அணுநிறை (amu)"
+      }
+    ]
+  },
+  "massNumber": {
+    "value": "நிறை எண்",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "திணிவெண்",
+        "explanation": null
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": "திணிவெண்",
+        "newValue": "நிறை எண்"
+      }
+    ]
+  },
+  "myIsotope": {
+    "value": "எனது ஐசோடோப்பு",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "எனது ஓரிடமூலகம்",
+        "explanation": null
+      },
+      {
+        "userId": 191738,
+        "timestamp": 1616875231687,
+        "oldValue": "எனது ஓரிடமூலகம்",
+        "newValue": "எனது சமதானி "
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": "எனது சமதானி ",
+        "newValue": "என் ஐசோடோப்பு"
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664236398450,
+        "oldValue": "என் ஐசோடோப்பு",
+        "newValue": "எனது ஐசோடோப்பு"
+      }
+    ]
+  },
+  "otherIsotopesPattern": {
+    "value": "வேறு <br>{0}<br> ஐசோடோப்பு",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "வேறு\n{0}\nஓரிடமூலகங்கள்",
+        "explanation": null
+      },
+      {
+        "userId": 190960,
+        "timestamp": 1465970881008,
+        "oldValue": "வேறு\n{0}\nஓரிடமூலகங்கள்",
+        "newValue": "வேறு\n{0}\nஓரிட மூலகங்கள்",
+        "explanation": null
+      },
+      {
+        "userId": 191738,
+        "timestamp": 1616875231687,
+        "oldValue": "வேறு\n{0}\nஓரிட மூலகங்கள்",
+        "newValue": "வேறு\n{0}\nசமதானி "
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": "வேறு\n{0}\nசமதானி ",
+        "newValue": "வேறு<br>{0}<br> ஐசோடோப்புக்கள்"
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664236398450,
+        "oldValue": "வேறு<br>{0}<br> ஐசோடோப்புக்கள்",
+        "newValue": "வேறு <br>{0}<br> ஐசோடோப்பு"
+      }
+    ]
+  },
+  "thisIsotope": {
+    "value": "இந்த ஐசோடோப்பு",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": " இந்த ஓரிடமூலகம்",
+        "explanation": null
+      },
+      {
+        "userId": 191738,
+        "timestamp": 1616875231687,
+        "oldValue": " இந்த ஓரிடமூலகம்",
+        "newValue": " இச் சமதானி "
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": " இச் சமதானி ",
+        "newValue": "இந்த ஐசோடோப்பு"
+      }
+    ]
+  },
+  "trace": {
+    "value": "தடம்",
+    "history": [
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": "",
+        "newValue": "தடம்"
+      }
+    ]
+  },
+  "abundanceInNature": {
+    "value": "இயற்கையில் நிறைந்துள்ள அளவு",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "இயற்கையில் ஏராளமாக",
+        "explanation": null
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664236398450,
+        "oldValue": "இயற்கையில் ஏராளமாக",
+        "newValue": "இயற்கையில் நிறைந்துள்ள அளவு"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "குறியீடு",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "குறியீடு",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes": {
+    "value": "ஐசோடோப்புகள்",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "ஓரிடமூலகங்கள்",
+        "explanation": null
+      },
+      {
+        "userId": 190960,
+        "timestamp": 1465970881008,
+        "oldValue": "ஓரிடமூலகங்கள்",
+        "newValue": "ஓரிட மூலகங்கள்",
+        "explanation": null
+      },
+      {
+        "userId": 191738,
+        "timestamp": 1616875231687,
+        "oldValue": "ஓரிட மூலகங்கள்",
+        "newValue": "சமதானிகள்"
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664186918077,
+        "oldValue": "சமதானிகள்",
+        "newValue": "ஐசோடோப்புக்கள்"
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664236398450,
+        "oldValue": "ஐசோடோப்புக்கள்",
+        "newValue": "ஐசோடோப்புகள்"
+      }
+    ]
+  },
+  "averageAtomicMass": {
+    "value": "சராசரி அணுநிறை",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "சராசரி அணுத்திணிவு",
+        "explanation": null
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664236398450,
+        "oldValue": "சராசரி அணுத்திணிவு",
+        "newValue": "சராசரி அணுநிறை"
+      }
+    ]
+  },
+  "isotopeMixture": {
+    "value": "ஐசோடோப்பு கலவை",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "ஓரிடமூலக கலவை:",
+        "explanation": null
+      },
+      {
+        "userId": 191738,
+        "timestamp": 1616875231687,
+        "oldValue": "ஓரிடமூலக கலவை:",
+        "newValue": "சமதானிக் கலவை:"
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664236398450,
+        "oldValue": "சமதானிக் கலவை:",
+        "newValue": "ஐசோடோப்பு கலவை"
+      }
+    ]
+  },
+  "myMix": {
+    "value": "எனது கலவை",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "எனது கலப்பு",
+        "explanation": null
+      },
+      {
+        "userId": 190960,
+        "timestamp": 1465970881008,
+        "oldValue": "எனது கலப்பு",
+        "newValue": "எனது கலவை",
+        "explanation": null
+      }
+    ]
+  },
+  "naturesMix": {
+    "value": "இயற்கையின் கலவை",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "இயற்கையின் கலப்பு",
+        "explanation": null
+      },
+      {
+        "userId": 190960,
+        "timestamp": 1465970881008,
+        "oldValue": "இயற்கையின் கலப்பு",
+        "newValue": "இயற்கையின் கலவை",
+        "explanation": null
+      }
+    ]
+  },
+  "percentComposition": {
+    "value": "கலவை விகிதம்",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "கலவை விகிதம்",
+        "explanation": null
+      }
+    ]
+  },
+  "mixtures": {
+    "value": "கலவை",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "கலவை",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes-and-atomic-mass.title": {
+    "value": "ஐசோடோப்புக்களும் அணுநிறையும்",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1464237025127,
+        "oldValue": "",
+        "newValue": "ஓரிடமூலகங்களும் அணுத்திணிவும்",
+        "explanation": null
+      },
+      {
+        "userId": 191738,
+        "timestamp": 1616875231687,
+        "oldValue": "ஓரிடமூலகங்களும் அணுத்திணிவும்",
+        "newValue": "சமதானிகளும் அணுத்திணிவும்"
+      },
+      {
+        "userId": 1087362,
+        "timestamp": 1664236398450,
+        "oldValue": "சமதானிகளும் அணுத்திணிவும்",
+        "newValue": "ஐசோடோப்புக்களும் அணுநிறையும்"
+      }
+    ]
+  }
+}

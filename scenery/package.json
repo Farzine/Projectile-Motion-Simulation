@@ -1,0 +1,29 @@
+{
+  "name": "scenery",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/scenery.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "generatedUnitTests": true,
+    "requirejsNamespace": "SCENERY",
+    "buildStandalone": true,
+    "requiresLodash": true,
+    "requiresJQuery": true,
+    "finalizeJS": "scenery.Utils.polyfillRequestAnimationFrame();",
+    "preload": [
+      "../sherpa/lib/linebreak-1.1.0.js",
+      "../sherpa/lib/flatqueue-1.2.1.js"
+    ],
+    "supportsOutputJS": true
+  }
+}

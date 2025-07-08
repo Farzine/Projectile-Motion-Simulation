@@ -1,0 +1,817 @@
+{
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Acceleració",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Acceleració"
+      }
+    ]
+  },
+  "cm": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "body.custom": {
+    "value": "Personalitzar",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Personalització"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "Personalització",
+        "newValue": "Personalitzar"
+      }
+    ]
+  },
+  "damping": {
+    "value": "Amortiment",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Amortiment"
+      }
+    ]
+  },
+  "dampingEqualsZero": {
+    "value": "Amortiment{{equalsZero}}",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Amortiment{{equalsZero}}"
+      }
+    ]
+  },
+  "displacement": {
+    "value": "Desplaçament",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "desplaçament"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "desplaçament",
+        "newValue": "Desplaçament"
+      }
+    ]
+  },
+  "eTherm": {
+    "value": "E<sub>tèrm</sub>",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia tèrmica<sub>term</sub>"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Energia tèrmica<sub>term</sub>",
+        "newValue": "E<sub>tèrm</sub>"
+      }
+    ]
+  },
+  "eTot": {
+    "value": "E<sub>total</sub>",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Eergia mecànica<sub>total</sub>"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Eergia mecànica<sub>total</sub>",
+        "newValue": "E<sub>total</sub>"
+      }
+    ]
+  },
+  "body.earth": {
+    "value": "la Terra",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Terra"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "Terra",
+        "newValue": "la Terra"
+      }
+    ]
+  },
+  "elasticPotentialEnergy": {
+    "value": "Energia potencial elàstica",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia potencial elàstica"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "Energia potencial elàstica",
+        "newValue": "Energia Potencial Elàstica"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Energia Potencial Elàstica",
+        "newValue": "Energia potencial elàstica"
+      }
+    ]
+  },
+  "energyGraph": {
+    "value": "Gràfic d'energia",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Gràfic d'energia"
+      }
+    ]
+  },
+  "energyLegend": {
+    "value": "Llegenda d'energies",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "llegenda d'energies"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "llegenda d'energies",
+        "newValue": "Llegenda d'Energies"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Llegenda d'Energies",
+        "newValue": "Llegenda d'energies"
+      }
+    ]
+  },
+  "forces": {
+    "value": "Forces",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Forces"
+      }
+    ]
+  },
+  "gravitationalPotentialEnergy": {
+    "value": "Energia potencial gravitatòria",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia potencial gravitatòria"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "Energia potencial gravitatòria",
+        "newValue": "Energia Potencial Gravitatòria"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Energia Potencial Gravitatòria",
+        "newValue": "Energia potencial gravitatòria"
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Gravetat",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Gravetat"
+      }
+    ]
+  },
+  "heightEqualsZero": {
+    "value": "Altura = 0 m",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "alçada=0 m"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "alçada=0 m",
+        "newValue": "Alçada = 0 m"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Alçada = 0 m",
+        "newValue": "Altura = 0 m"
+      }
+    ]
+  },
+  "body.jupiter": {
+    "value": "Júpiter",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Júpiter"
+      }
+    ]
+  },
+  "ke": {
+    "value": "EC",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "EC"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Energia cinètica",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia cinètica"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "Energia cinètica",
+        "newValue": "Energia Cinètica"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Energia Cinètica",
+        "newValue": "Energia cinètica"
+      }
+    ]
+  },
+  "large": {
+    "value": "Molta",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "gran"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "gran",
+        "newValue": "Molta"
+      }
+    ]
+  },
+  "lots": {
+    "value": "Molt/a",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "molt"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "molt",
+        "newValue": "Molta"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Molta",
+        "newValue": "Molt/a"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Massa",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Massa"
+      }
+    ]
+  },
+  "massEquilibrium": {
+    "value": "Equilibri de masses",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Equilibri de masses"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "Equilibri de masses",
+        "newValue": "Equilibri de Masses"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Equilibri de Masses",
+        "newValue": "Equilibri de masses"
+      }
+    ]
+  },
+  "body.moon": {
+    "value": "la Lluna",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Lluna"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "Lluna",
+        "newValue": "la Lluna"
+      }
+    ]
+  },
+  "movableLine": {
+    "value": "Línia ajustable",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "línia ajustable"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "línia ajustable",
+        "newValue": "Línia Ajustable"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Línia Ajustable",
+        "newValue": "Línia ajustable"
+      }
+    ]
+  },
+  "naturalLength": {
+    "value": "Longitud sense estirar",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "longitud de la molla sense estirar"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "longitud de la molla sense estirar",
+        "newValue": "Longitud de la molla sense estirar"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Longitud de la molla sense estirar",
+        "newValue": "Longitud sense estirar"
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Força resultant",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Força resultant"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "Força resultant",
+        "newValue": "Força Resultant"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Força Resultant",
+        "newValue": "Força resultant"
+      }
+    ]
+  },
+  "none": {
+    "value": "Cap",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Cap"
+      }
+    ]
+  },
+  "peElas": {
+    "value": "EP<sub>elas</sub>",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia potencial elàstica<sub>elas</sub>"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Energia potencial elàstica<sub>elas</sub>",
+        "newValue": "EP<sub>elas</sub>"
+      }
+    ]
+  },
+  "peGrav": {
+    "value": "EP<sub>grav</sub>",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia potencial gravitatòria<sub>grav</sub>"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Energia potencial gravitatòria<sub>grav</sub>",
+        "newValue": "EP<sub>grav</sub>"
+      }
+    ]
+  },
+  "periodTrace": {
+    "value": "Traça del període",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Traça del període"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665375711784,
+        "oldValue": "Traça del període",
+        "newValue": "Traça del Període"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Traça del Període",
+        "newValue": "Traça del període"
+      }
+    ]
+  },
+  "body.planetX": {
+    "value": "Planeta X",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Planeta X"
+      }
+    ]
+  },
+  "small": {
+    "value": "Poca",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Petit"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "Petit",
+        "newValue": "Poca"
+      }
+    ]
+  },
+  "spring": {
+    "value": "Molla",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Molla"
+      }
+    ]
+  },
+  "springConstantPattern": {
+    "value": "Constant de la molla {{spring}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "",
+        "newValue": "Constant de la Molla {{spring}}"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Constant de la Molla {{spring}}",
+        "newValue": "Constant de la molla {{spring}}"
+      }
+    ]
+  },
+  "springStrength": {
+    "value": "Força de la molla {{spring}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "",
+        "newValue": "Força de la Molla {{spring}}"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655961507,
+        "oldValue": "Força de la Molla {{spring}}",
+        "newValue": "Força de la molla {{spring}}"
+      }
+    ]
+  },
+  "thermalEnergy": {
+    "value": "Energia tèrmica",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia tèrmica"
+      }
+    ]
+  },
+  "totalEnergy": {
+    "value": "Energia total",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia total"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Velocitat",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "velocitat"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665361249293,
+        "oldValue": "velocitat",
+        "newValue": "Velocitat"
+      }
+    ]
+  },
+  "whatIsTheValueOfGravity": {
+    "value": "Quin és el valor de la gravetat?",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Quin és el valor de la gravetat?"
+      }
+    ]
+  },
+  "gravityValue": {
+    "value": " {{gravity}}m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": " {{gravity}}m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "massValue": {
+    "value": "{{mass}} g",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "{{mass}} g"
+      }
+    ]
+  },
+  "springConstant": {
+    "value": "Constant de la molla  {{spring}}",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Constant de la molla  {{spring}}"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Energia"
+      }
+    ]
+  },
+  "thickness": {
+    "value": "gruix",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "gruix"
+      }
+    ]
+  },
+  "equilibriumPosition": {
+    "value": "posició d'equilibri",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "posició d'equilibri"
+      }
+    ]
+  },
+  "constantParameter": {
+    "value": "Constant Paràmetre",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Constant Paràmetre"
+      }
+    ]
+  },
+  "length": {
+    "value": "longitud de la molla {{spring}}",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "longitud de la molla {{spring}}"
+      }
+    ]
+  },
+  "long": {
+    "value": "llarga",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "llarga"
+      }
+    ]
+  },
+  "short": {
+    "value": "curta",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "curta"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Intro",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Intro"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratori",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Laboratori"
+      }
+    ]
+  },
+  "screen.vectors": {
+    "value": "vectors",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "vectors"
+      }
+    ]
+  },
+  "masses-and-springs.title": {
+    "value": "Masses i molles",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664461224105,
+        "oldValue": "",
+        "newValue": "Masses i molles"
+      }
+    ]
+  }
+}

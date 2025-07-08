@@ -1,0 +1,1071 @@
+{
+  "a": {
+    "value": "a",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "a",
+        "explanation": null
+      }
+    ]
+  },
+  "b": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "b",
+        "explanation": null
+      }
+    ]
+  },
+  "bestFitLine": {
+    "value": "Bedste rette linje",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Best tilpassede linje",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Best tilpassede linje",
+        "newValue": "Bedste rette linje",
+        "explanation": null
+      }
+    ]
+  },
+  "correlationCoefficient": {
+    "value": "Korrelations-\nkofficient",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Korrelations\nKoefficient",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461135819900,
+        "oldValue": "Korrelations\nKoefficient",
+        "newValue": "Korrelations-\nkoefficient",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461553292112,
+        "oldValue": "Korrelations-\nkoefficient",
+        "newValue": "Korrelations-\nkofficient",
+        "explanation": null
+      }
+    ]
+  },
+  "custom.graphTitle": {
+    "value": "Valgmuligheder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Brugerdefineret",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461290190881,
+        "oldValue": "Brugerdefineret",
+        "newValue": "Valgmuligheder",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.graphTitle": {
+    "value": "US-benzinpris vs. tid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "US-benzinpris vs. tid",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.reference": {
+    "value": "Gennemsnitlige årspris på benzin fra\nfra år 1979-2014, ikke justeret for inflation.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlige årspris på benzin from\n1979-2014, ikke justeret for inflation.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Gennemsnitlige årspris på benzin from\n1979-2014, ikke justeret for inflation.",
+        "newValue": "Gennemsnitlige årspris på benzin fra\nfra år 1979-2014, ikke justeret for inflation.",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.xAxisTitle": {
+    "value": "År fra 1976",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "År siden 1976",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "År siden 1976",
+        "newValue": "År fra 1976",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.yAxisTitle": {
+    "value": "Pris pr. gallon (USD)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Pris pr. gallon (USD)",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.graphTitle": {
+    "value": "Højde vs. skostørrelse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Højde vs. skostørrelse",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.reference": {
+    "value": "Skostørrelse brugt til højdeforudsigelse.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Skostørrelse brugt til højdeforudsigelse.",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.xAxisTitle": {
+    "value": "Skostørrelse (amerikanske numre)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Skostørrelse (US)",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Skostørrelse (US)",
+        "newValue": "Skostørrelse (amerikanske numre)",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.yAxisTitle": {
+    "value": "Højde (inches)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Højde (in)",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461290190882,
+        "oldValue": "Højde (in)",
+        "newValue": "Højde (inches)",
+        "explanation": null
+      }
+    ]
+  },
+  "least-squares-regression.title": {
+    "value": "Mindste kvadraters regression",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Mindste kvadraters regression",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.graphTitle": {
+    "value": "Forventet levealder vs. antal TV",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Levealder vs. antal TV",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461553292112,
+        "oldValue": "Levealder vs. antal TV",
+        "newValue": "Forventet levealder vs. antal TV",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.reference": {
+    "value": "Forventet levealder i 40 lande sammenlignet med\ndet gennemsnitlige antal personer pr. TV i landet.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Levetid i 40 lande sammenlignet med\ndet gennemsnitlige antal personer pr. TV i landet.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461290190882,
+        "oldValue": "Levetid i 40 lande sammenlignet med\ndet gennemsnitlige antal personer pr. TV i landet.",
+        "newValue": "Forventet levetid i 40 lande sammenlignet med\ndet gennemsnitlige antal personer pr. TV i landet.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461553292112,
+        "oldValue": "Forventet levetid i 40 lande sammenlignet med\ndet gennemsnitlige antal personer pr. TV i landet.",
+        "newValue": "Forventet levealder i 40 lande sammenlignet med\ndet gennemsnitlige antal personer pr. TV i landet.",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.xAxisTitle": {
+    "value": "Antal personer pr. TV",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Antal personer pr. TV",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.yAxisTitle": {
+    "value": "Forventet levealder (år)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Levealder (år)",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461553292112,
+        "oldValue": "Levealder (år)",
+        "newValue": "Forventet levealder (år)",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.graphTitle": {
+    "value": "Søko-dødelighed vs. tid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Manatee dødelighed vs tid",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461135819899,
+        "oldValue": "Manatee dødelighed vs tid",
+        "newValue": "Søko-dødelighed vs tid",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "Søko-dødelighed vs tid",
+        "newValue": "Søko-dødelighed vs. tid",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.reference": {
+    "value": "Totalt antal døde søkøer i Florida fra 1974-2004.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Total søko-dødelighed i Florida fra 1974-2004-",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Total søko-dødelighed i Florida fra 1974-2004-",
+        "newValue": "Totalt antal døde søkøer i Florida fra 1974-2004.",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.xAxisTitle": {
+    "value": "År fra 1974",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "År siden 1974",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "År siden 1974",
+        "newValue": "År fra 1974",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.yAxisTitle": {
+    "value": "Antal døde søkøer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Antal søko-dødelighed",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Antal søko-dødelighed",
+        "newValue": "Antal døde søkøer",
+        "explanation": null
+      }
+    ]
+  },
+  "myLine": {
+    "value": "Min linie",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Min linie",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "residuals": {
+    "value": "Afvigelser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Residualer",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461135819900,
+        "oldValue": "Residualer",
+        "newValue": "Afvigelser",
+        "explanation": null
+      }
+    ]
+  },
+  "sourcePattern": {
+    "value": "Kilde: {0}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Kilde: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.graphTitle": {
+    "value": "Omkreds-hastighed vs. afstand fra solen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Omkreds-hastighed vs afstand fra solen",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "Omkreds-hastighed vs afstand fra solen",
+        "newValue": "Omkreds-hastighed vs. afstand fra solen",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.reference": {
+    "value": "Planeters omkreds-hastighed som funktion af afstanden fra solen.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Planet omkreds-hastighed af afstanden fra solen.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Planet omkreds-hastighed af afstanden fra solen.",
+        "newValue": "Planeters omkreds-hastighed som funktion af afstanden fra solen.",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.xAxisTitle": {
+    "value": "Afstand fra solen (AU)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Afstand fra solen (AU)",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.yAxisTitle": {
+    "value": "Gennemsnitlig omkreds-hastighed (km/s)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig omkreds-hastighed (km/s)",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.graphTitle": {
+    "value": "Udgifter vs. løn",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Udgifter vs. løn",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.reference": {
+    "value": "Gennemsnitlige elevudgifter sammenlignet med\ngennemsnitlige lærerlønninger i 50 stater i USA i 1986.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnit elevudgifter sammenlignet med\ngennemsnitlige lærerlønninger i 50 stater i USA i 1986.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "Gennemsnit elevudgifter sammenlignet med\ngennemsnitlige lærerlønninger i 50 stater i USA i 1986.",
+        "newValue": "Gennemsnitlige elevudgifter sammenlignet med\ngennemsnitlige lærerlønninger i 50 stater i USA i 1986.",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.xAxisTitle": {
+    "value": "Gennemsnitlige lærerlønninger (USD) i tusind",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlige lærerlønninger (USD) i tusind",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.yAxisTitle": {
+    "value": "Gennemsnitlige skoleudgift pr. elev (USD) i tusind",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlige udgifter pr. elev (USD) i tusind",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Gennemsnitlige udgifter pr. elev (USD) i tusind",
+        "newValue": "Gennemsnitlige skoleudgift pr. elev (USD) i tusind",
+        "explanation": null
+      }
+    ]
+  },
+  "squaredResiduals": {
+    "value": "Kvadrerede afvigelser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Kvadrerede residualer",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461135819900,
+        "oldValue": "Kvadrerede residualer",
+        "newValue": "Kvadrerede afvigelser",
+        "explanation": null
+      }
+    ]
+  },
+  "sum": {
+    "value": "sum",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "sum",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.r": {
+    "value": "r",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "r",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "x",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "y",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.graphTitle": {
+    "value": "Temperatur (˚C) vs. fårekyllinge-pip",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Temperatur (˚C) vs. fårekyllinge-pip",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.reference": {
+    "value": "Antallet af fårekyllinge-pip i en 15 sekunders\nperiode i forhold til temperaturen på den samme tid.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Antallet af fårekyllinge-pip i en 15 sekunders\nperiode i forhold til temperaturen på den samme tid.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.xAxisTitle": {
+    "value": "Antal fårekyllinge-pip pr. 15 sekunder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Antal fårekyllinge-pip pr. 15 sekunder",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.yAxisTitle": {
+    "value": "Temperatur (˚C)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135252,
+        "oldValue": "",
+        "newValue": "Temperatur (˚C)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.graphTitle": {
+    "value": "Temperatur (˚C) vs. breddegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Temperatur (˚C) vs. breddegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.reference": {
+    "value": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet med deres breddegrader.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres breddegrader.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres breddegrader.",
+        "newValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet med deres breddegrader.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.xAxisTitle": {
+    "value": "Breddegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Breddegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.yAxisTitle": {
+    "value": "Gennemsnitlig januar-temperatur (˚C)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar temperatur (˚C)",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461135819899,
+        "oldValue": "Gennemsnitlig januar temperatur (˚C)",
+        "newValue": "Gennemsnitlig januar-temperatur (˚C)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.graphTitle": {
+    "value": "Temperatur (˚C) vs. længdegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Temperatur (˚C) vs. længdegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.reference": {
+    "value": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet med deres længdegrader.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres længdegrad.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres længdegrad.",
+        "newValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet med deres længdegrader.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.xAxisTitle": {
+    "value": "Længdegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Længdegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.yAxisTitle": {
+    "value": "Gennemsnitlig januar temperatur (˚C)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar temperatur (˚C)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.graphTitle": {
+    "value": "Temperatur (˚F) vs. fårekyllinge-pip",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Temperatur (˚F) vs. fårekylling-pippen",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461135819900,
+        "oldValue": "Temperatur (˚F) vs. fårekylling-pippen",
+        "newValue": "Temperatur (˚F) vs. fårekylling-pip",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "Temperatur (˚F) vs. fårekylling-pip",
+        "newValue": "Temperatur (˚F) vs. fårekyllinge-pip",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.reference": {
+    "value": "Antallet af fårekyllinge-pip i en 15 sekunders\nperiode i forhold til temperaturen på den samme tid.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Antallet af fårekyllinge-pip i en 15 sekunders\nperiode i forhold til temperaturen på den samme tid.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.xAxisTitle": {
+    "value": "Antal fårekyllinge-pip pr. 15 sekunder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Antal fårekyllinge-pip pr. 15 sekunder",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.yAxisTitle": {
+    "value": "Temperatur (˚F)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Temperatur (˚F)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.graphTitle": {
+    "value": "Temperatur (˚F) vs. breddegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Temperatur (˚F) vs. breddegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.reference": {
+    "value": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres breddegrader.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres breddegrader.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.xAxisTitle": {
+    "value": "Breddegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Breddegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.yAxisTitle": {
+    "value": "Gennemsnitlig januar temperatur (˚F)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar temperatur (˚F)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.graphTitle": {
+    "value": "Temperatur (˚F) vs. længdegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Temperatur (˚F) vs. længdegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.reference": {
+    "value": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres længdegrader.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar-temperatur i 50\nstørrre amerikanske byer sammenlignet  med deres længdegrader.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.xAxisTitle": {
+    "value": "Længdegrad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Længdegrad",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.yAxisTitle": {
+    "value": "Gennemsnitlig januar-temperatur (˚F)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Gennemsnitlig januar temperatur (˚F)",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Gennemsnitlig januar temperatur (˚F)",
+        "newValue": "Gennemsnitlig januar-temperatur (˚F)",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.graphTitle": {
+    "value": "Internetbrugere vs. tid ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Internetbrugere vs. tid ",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.reference": {
+    "value": "Totalt antal globale internetbrugere fra 1990-2010.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Totalt antal globale internetbrugere 1990-2010.",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461136977087,
+        "oldValue": "Totalt antal globale internetbrugere 1990-2010.",
+        "newValue": "Totalt antal globale internetbrugere fra 1990-2010.",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.xAxisTitle": {
+    "value": "År fra 1990",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "År siden 1990",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1461145919141,
+        "oldValue": "År siden 1990",
+        "newValue": "År fra 1990",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.yAxisTitle": {
+    "value": "Total antal internetbrugere (i milliarder)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Total antal internetbrugere (i milliarder)",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.graphTitle": {
+    "value": "Mindsteløn vs. tid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Mindsteløn vs. tid",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.reference": {
+    "value": "Værdien af mindstelønnen i USA fra \n1947-2005, renset for inflation.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Værdien af mindstelønnen i USA fra \n1947-2005, renset for inflation.",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.xAxisTitle": {
+    "value": "År siden 1947",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "År siden 1947",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.yAxisTitle": {
+    "value": "Mindsteløn (USD) renset for inflation",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1461135135251,
+        "oldValue": "",
+        "newValue": "Mindsteløn (USD) renset for inflation",
+        "explanation": null
+      }
+    ]
+  }
+}

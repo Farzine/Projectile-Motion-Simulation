@@ -1,0 +1,735 @@
+{
+  "changeMassHeading": {
+    "value": "שינוי מסה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "שינוי מסה",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassInLargerSteps": {
+    "value": "שינוי מסה בצעדים גדולים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "שינוי מסה בצעדים גדולים",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassInSmallerSteps": {
+    "value": "שינוי מסה בצעדים קטנים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "שינוי מסה בצעדים קטנים",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassLabel": {
+    "value": "שינוי מסה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "שינוי מסה",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToLeft": {
+    "value": "קפיצה לשמאל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "קפוץ שמאלה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "קפוץ שמאלה",
+        "newValue": "זוז שמאלה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "זוז שמאלה",
+        "newValue": "קפיצה לשמאל"
+      }
+    ]
+  },
+  "jumpToMaximumMass": {
+    "value": "מעבר למסה המירבית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "קפוץ למסה המירבית",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "קפוץ למסה המירבית",
+        "newValue": "עבור למסה המירבית",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "עבור למסה המירבית",
+        "newValue": "מעבר למסה המירבית"
+      }
+    ]
+  },
+  "jumpToMinimumMass": {
+    "value": "מעבר למסה המזערית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "קפוץ למסה המזערית",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "קפוץ למסה המזערית",
+        "newValue": "עבור למסה המזערית",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "עבור למסה המזערית",
+        "newValue": "מעבר למסה המזערית"
+      }
+    ]
+  },
+  "jumpToRight": {
+    "value": "תזוזה ימינה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "קפוץ ימינה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "קפוץ ימינה",
+        "newValue": "זוז ימינה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "זוז ימינה",
+        "newValue": "תזוזה ימינה"
+      }
+    ]
+  },
+  "moveInLargerSteps": {
+    "value": "תזוזה בצעדים גדולים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "זוז בצעדים גדולים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "זוז בצעדים גדולים",
+        "newValue": "תזוזה בצעדים גדולים"
+      }
+    ]
+  },
+  "moveInSmallerSteps": {
+    "value": "תזוזה בצעדים קטנים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "זוז בצעדים קטנים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "זוז בצעדים קטנים",
+        "newValue": "תזוזה בצעדים קטנים"
+      }
+    ]
+  },
+  "moveSphereLabel": {
+    "value": "הזזת גוף",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "הזז כדור",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "הזז כדור",
+        "newValue": "הזז גוף",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "הזז גוף",
+        "newValue": "הזזת גוף"
+      }
+    ]
+  },
+  "moveSpheresHeading": {
+    "value": "הזזת גופים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "הזז כדורים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "הזז כדורים",
+        "newValue": "הזז גופים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "הזז גופים",
+        "newValue": "הזזת גופים"
+      }
+    ]
+  },
+  "jumpHome": {
+    "value": "עבור ושחרר סרגל ל<br>מרכז נקודת המוצא",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "עבור ושחרר סרגל ל<br>מרכז נקודת המוצא",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpStartOfSphere": {
+    "value": "עבור והתחל סרגל ל<br>מרכז של כדור 1 מטר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "עבור והתחל סרגל ל<br>מרכז של כדור 1 מטר",
+        "explanation": null
+      }
+    ]
+  },
+  "moveGrabbedRuler": {
+    "value": "לחץ על הסרגל והזז אותו",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "לחץ על הסרגל והזז אותו",
+        "explanation": null
+      }
+    ]
+  },
+  "moveOrJumpGrabbedRuler": {
+    "value": "קפוץ או זוז לסרגל התפוס",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "קפוץ או זוז לסרגל התפוס",
+        "explanation": null
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "גודל קבוע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "גודל קבוע",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "ק\"ג",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "ק\"ג",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "ק\"ג",
+        "newValue": "ק",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643416831757,
+        "oldValue": "ק",
+        "newValue": "ק\"ג"
+      }
+    ]
+  },
+  "mass1Abbreviated": {
+    "value": "גוף 1",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "m1",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "m1",
+        "newValue": "גוף 1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2Abbreviated": {
+    "value": "גוף 2",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "m2",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "m2",
+        "newValue": "גוף 2",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1": {
+    "value": "מסה גוף 1",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מסה 1",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "מסה 1",
+        "newValue": "גוף 1",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "גוף 1",
+        "newValue": "מסה גוף 1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2": {
+    "value": "מסה גוף 2",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מסה 2",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "מסה 2",
+        "newValue": "גוף 2",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584912939566,
+        "oldValue": "גוף 2",
+        "newValue": "מסה גוף 2",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity-force-lab.title": {
+    "value": "מעבדת כוח הכבידה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מעבדת כוח הכבידה",
+        "explanation": null
+      }
+    ]
+  },
+  "body.name.earth": {
+    "value": "כדור ארץ",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "כדור ארץ",
+        "explanation": null
+      }
+    ]
+  },
+  "constantRadius": {
+    "value": "רדיוס קבוע",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "רדיוס קבוע",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "מותאם",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מותאם",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source": {
+    "value": "הכוח המופעל על {0} על ידי {1}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "הכוח המופעל על {0} על ידי {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source_value": {
+    "value": "הכוח המופעל על {0} על ידי {1} הוא {2} ניוטון",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "הכוח המופעל על {0} על ידי {1} הוא {2} ניוטון",
+        "explanation": null
+      }
+    ]
+  },
+  "mass-1": {
+    "value": "m1",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "m1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass-2": {
+    "value": "m2",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "m2",
+        "explanation": null
+      }
+    ]
+  },
+  "module.force-laws.name": {
+    "value": "חוקי כוח",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "חוקי כוח",
+        "explanation": null
+      }
+    ]
+  },
+  "module.sun-planet-system.name": {
+    "value": "מערכת שמש-פלנטה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מערכת שמש-פלנטה",
+        "explanation": null
+      }
+    ]
+  },
+  "my.solar.system": {
+    "value": "מערכת השמש שלי",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מערכת השמש שלי",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size": {
+    "value": "גודל עצם",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "גודל עצם",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size.actual-size": {
+    "value": "ריאליסטי",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "ריאליסטי",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size.cartoon": {
+    "value": "קריקטורה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "קריקטורה",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{1} {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "{1} {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "planet": {
+    "value": "פלנטה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "פלנטה",
+        "explanation": null
+      }
+    ]
+  },
+  "planet.control.title": {
+    "value": "פלנטה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "פלנטה",
+        "explanation": null
+      }
+    ]
+  },
+  "readout.pattern-bodyname": {
+    "value": "{0} מסה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "{0} מסה",
+        "explanation": null
+      }
+    ]
+  },
+  "related.sims": {
+    "value": "הדמיות קשורות",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "הדמיות קשורות",
+        "explanation": null
+      }
+    ]
+  },
+  "showValues": {
+    "value": "הצגת ערכים",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "הצגת ערכים",
+        "explanation": null
+      }
+    ]
+  },
+  "sun": {
+    "value": "שמש",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "שמש",
+        "explanation": null
+      }
+    ]
+  },
+  "sun.planet.controls": {
+    "value": "הגדרות",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "הגדרות",
+        "explanation": null
+      }
+    ]
+  },
+  "units": {
+    "value": "יחידות",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "יחידות",
+        "explanation": null
+      }
+    ]
+  },
+  "units.earth.masses": {
+    "value": "מסות כדה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מסות כדה",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kilometers": {
+    "value": "ק",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "ק",
+        "explanation": null
+      }
+    ]
+  },
+  "units.light-minutes": {
+    "value": "דקות אור",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "דקות אור",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "מ'",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148745247,
+        "oldValue": "",
+        "newValue": "מ'",
+        "explanation": null
+      }
+    ]
+  }
+}

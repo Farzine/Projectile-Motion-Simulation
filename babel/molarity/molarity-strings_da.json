@@ -1,0 +1,502 @@
+{
+  "keyboard.sliderHelpHeading": {
+    "value": "Opløst mængde & rumfang af opløsning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599233564629,
+        "oldValue": "",
+        "newValue": "Opløst mængde & rumfang af opløsning",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboard.popUpList": {
+    "value": "1. Find liste med opløsninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599233564629,
+        "oldValue": "",
+        "newValue": "1. Find liste med opløsninger",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboard.changeSolute": {
+    "value": "3. Skift opløsning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599233564629,
+        "oldValue": "",
+        "newValue": "3. Skift opløsning",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboard.moveThrough": {
+    "value": "2. Gennemse opløsninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599233564629,
+        "oldValue": "",
+        "newValue": "2. Gennemse opløsninger",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboard.closeList": {
+    "value": "4. Luk liste uden ændring",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599233564629,
+        "oldValue": "",
+        "newValue": "4. Luk liste uden ændring",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboard.changeSoluteHelpHeading": {
+    "value": "Skridt for at ændre opløsning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599233564629,
+        "oldValue": "",
+        "newValue": "Skridt for at ændre opløsning",
+        "explanation": null
+      }
+    ]
+  },
+  "drinkMix": {
+    "value": "Blanding",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Blanding",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltChloride": {
+    "value": "Kobolt(II)klorid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Koboltklorid",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1522409236995,
+        "oldValue": "Koboltklorid",
+        "newValue": "Kobolt(II)klorid",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltIINitrate": {
+    "value": "Kobolt(II)nitrat",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Kobolt(II)nitrat",
+        "explanation": null
+      }
+    ]
+  },
+  "copperSulfate": {
+    "value": "Kobber(II)sulfat",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Kobbersulfat",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1522409236995,
+        "oldValue": "Kobbersulfat",
+        "newValue": "Kobber(II)sulfat",
+        "explanation": null
+      }
+    ]
+  },
+  "goldIIIChloride": {
+    "value": "Guld(III)klorid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Guld(III)chlorid",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1522409236995,
+        "oldValue": "Guld(III)chlorid",
+        "newValue": "Guld(III)klorid",
+        "explanation": null
+      }
+    ]
+  },
+  "nickelIIChloride": {
+    "value": "Nikkel(II)klorid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Nikkel(II)chlorid",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1522409236995,
+        "oldValue": "Nikkel(II)chlorid",
+        "newValue": "Nikkel(II)klorid",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChromate": {
+    "value": "Kaliumchromat",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Kaliumchromat",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumDichromate": {
+    "value": "Kaliumdichromat",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Kaliumdichromat",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumPermanganate": {
+    "value": "Kaliumpermanganat",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Kaliumpermanganat",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "high": {
+    "value": "maksimal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "maksimal",
+        "explanation": null
+      }
+    ]
+  },
+  "molarity.label": {
+    "value": "Molaritet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Molaritet",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.parentheses.0text": {
+    "value": "({0})",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "solutionConcentration": {
+    "value": "Opløsnings-\nkoncentration",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Opløsningens\nkoncentration",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1446212649670,
+        "oldValue": "Opløsningens\nkoncentration",
+        "newValue": "Opløsning\nkoncentration",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1446402030206,
+        "oldValue": "Opløsning\nkoncentration",
+        "newValue": "Opløsnings-\nkoncentration",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molarity": {
+    "value": "M",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "M",
+        "explanation": null
+      }
+    ]
+  },
+  "zero": {
+    "value": "nul",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "nul",
+        "explanation": null
+      }
+    ]
+  },
+  "saturated": {
+    "value": "Mættet!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Mættet!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}:",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "{0}:",
+        "explanation": null
+      }
+    ]
+  },
+  "solute": {
+    "value": "Opløst",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Opløst",
+        "explanation": null
+      }
+    ]
+  },
+  "full": {
+    "value": "fuld",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "fuld",
+        "explanation": null
+      }
+    ]
+  },
+  "liters": {
+    "value": "Liter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Liter",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "mange",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "mange",
+        "explanation": null
+      }
+    ]
+  },
+  "low": {
+    "value": "lav",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "lav",
+        "explanation": null
+      }
+    ]
+  },
+  "moles": {
+    "value": "Mol",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1446402138309,
+        "oldValue": "mol",
+        "newValue": "Mol",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "ingen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "ingen",
+        "explanation": null
+      }
+    ]
+  },
+  "showValues": {
+    "value": "Vis værdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Vis værdier",
+        "explanation": null
+      }
+    ]
+  },
+  "soluteAmount": {
+    "value": "Opløst\nmængde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Opløst\nmængde",
+        "explanation": null
+      }
+    ]
+  },
+  "solutionVolume": {
+    "value": "Opløsnings-\nvolumen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Opløsnings\nvolumen",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1446402030206,
+        "oldValue": "Opløsnings\nvolumen",
+        "newValue": "Opløsnings-\nvolumen",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "molarity.title": {
+    "value": "Molaritet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1446152592583,
+        "oldValue": "",
+        "newValue": "Molaritet",
+        "explanation": null
+      }
+    ]
+  }
+}

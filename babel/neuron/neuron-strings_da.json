@@ -1,0 +1,344 @@
+{
+  "allIons": {
+    "value": "Alle ioner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Alle ioner",
+        "explanation": null
+      }
+    ]
+  },
+  "charges": {
+    "value": "Ladninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Ladninger",
+        "explanation": null
+      }
+    ]
+  },
+  "chartClear": {
+    "value": "Slet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Slet",
+        "explanation": null
+      }
+    ]
+  },
+  "chartTitle": {
+    "value": "Membranpotentiale over tid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Membranpotentiale over tid",
+        "explanation": null
+      }
+    ]
+  },
+  "chartXAxisLabel": {
+    "value": "Tid (ms)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Tid (ms)",
+        "explanation": null
+      }
+    ]
+  },
+  "chartYAxisLabel": {
+    "value": "Membranpotentiale (mV)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Membranpotentiale (mV)",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationReadoutPattern.0label.1value.2units": {
+    "value": "{0} [{1} {2}]",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "{0} [{1} {2}]",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrations": {
+    "value": "Koncentrationer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Koncentrationer",
+        "explanation": null
+      }
+    ]
+  },
+  "fastForward": {
+    "value": "Hurtigt fremad",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Hurtigt fremad",
+        "explanation": null
+      }
+    ]
+  },
+  "legend": {
+    "value": "Forklaring",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Forklaring",
+        "explanation": null
+      }
+    ]
+  },
+  "neuron.title": {
+    "value": "Neuron",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Neuron",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normaltid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1456840488228,
+        "oldValue": "Normal",
+        "newValue": "Normaltid",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChemicalSymbol": {
+    "value": "K+",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "K+",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumGatedChannel": {
+    "value": "Kaliumstyret kanal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Kalium portkanal",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1456840488227,
+        "oldValue": "Kalium portkanal",
+        "newValue": "Kaliumstyret kanal",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumIon": {
+    "value": "Kaliumion (K+)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Kaliumion (K+)",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumLeakChannel": {
+    "value": "Kalium lækage-kanal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Kalium lækagekanal",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1456840488227,
+        "oldValue": "Kalium lækagekanal",
+        "newValue": "Kalium lækage-kanal",
+        "explanation": null
+      }
+    ]
+  },
+  "potentialChart": {
+    "value": "Potentiale-kort",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Potentiel kort",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1456840488227,
+        "oldValue": "Potentiel kort",
+        "newValue": "Potentiale-kort",
+        "explanation": null
+      }
+    ]
+  },
+  "showLegend": {
+    "value": "Vis",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Vis",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Slow motion",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Slow motion",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumChemicalSymbol": {
+    "value": "Na+",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Na+",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumGatedChannel": {
+    "value": "Natriumstyret kanal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Natrium portkanal",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1456840488227,
+        "oldValue": "Natrium portkanal",
+        "newValue": "Natriumstyret kanal",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumIon": {
+    "value": "Natriumion (Na+)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Natriumion (Na+)",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumLeakChannel": {
+    "value": "Natrium lækage-kanal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Natrium lækagekanal",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1456840488227,
+        "oldValue": "Natrium lækagekanal",
+        "newValue": "Natrium lækage-kanal",
+        "explanation": null
+      }
+    ]
+  },
+  "stimulateNeuron": {
+    "value": "Stimuler\nneuron",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "Stimuler\nneuron",
+        "explanation": null
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "mM",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1456834267200,
+        "oldValue": "",
+        "newValue": "mM",
+        "explanation": null
+      }
+    ]
+  }
+}

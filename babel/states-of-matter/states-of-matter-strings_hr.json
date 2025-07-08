@@ -1,0 +1,684 @@
+{
+  "electronOverlap": {
+    "value": "(preklapanje elektrona)",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "(preklapanje elektrona)",
+        "explanation": null
+      }
+    ]
+  },
+  "vanderwaals": {
+    "value": "(van der Waalsova)",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "(van der Waalsova)",
+        "explanation": null
+      }
+    ]
+  },
+  "adjustableAttraction": {
+    "value": "Prilagođeno privlačenje",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Prilagodljivo privlačenje",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360889,
+        "oldValue": "Prilagodljivo privlačenje",
+        "newValue": "Prilagođeno privlačenje",
+        "explanation": null
+      }
+    ]
+  },
+  "argon": {
+    "value": "Argon",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Argon",
+        "explanation": null
+      }
+    ]
+  },
+  "atomDiameter": {
+    "value": "Promjer atoma (σ)",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Promjer atoma (σ)",
+        "explanation": null
+      }
+    ]
+  },
+  "Atoms": {
+    "value": "Atomi",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Atomi",
+        "explanation": null
+      }
+    ]
+  },
+  "attractive": {
+    "value": "Privlačna",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Privlačna",
+        "explanation": null
+      }
+    ]
+  },
+  "customAttraction": {
+    "value": "Prilagođeno privlačenje",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Nasumično privlačenje",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360889,
+        "oldValue": "Nasumično privlačenje",
+        "newValue": "Prilagođeno privlačenje",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenAtoms": {
+    "value": "Udaljenost između atoma",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Udaljenost među atomima",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360889,
+        "oldValue": "Udaljenost među atomima",
+        "newValue": "Udaljenost između atoma",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenMolecules": {
+    "value": "Udaljenost između molekula",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Udaljenost među molekulama",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360889,
+        "oldValue": "Udaljenost među molekulama",
+        "newValue": "Udaljenost između molekula",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Sile",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Sile",
+        "explanation": null
+      }
+    ]
+  },
+  "hideForces": {
+    "value": "Sakrij sile",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Sakrij sile",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrength": {
+    "value": "Jakost interakcije (ε)",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Jačina interakcije (ε)",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360889,
+        "oldValue": "Jačina interakcije (ε)",
+        "newValue": "Jakost interakcije (ε)",
+        "explanation": null
+      }
+    ]
+  },
+  "large": {
+    "value": "veliko",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "veliko",
+        "explanation": null
+      }
+    ]
+  },
+  "moving": {
+    "value": "Pomično",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Pomično",
+        "explanation": null
+      }
+    ]
+  },
+  "neon": {
+    "value": "Neon",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Neon",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normalno",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Normalno",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Kisik",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Kisik",
+        "explanation": null
+      }
+    ]
+  },
+  "pinned": {
+    "value": "Pričvršćeno",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Pričvršćeno",
+        "explanation": null
+      }
+    ]
+  },
+  "potentialEnergy": {
+    "value": "Potencijalna energija",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Potencijalna energija",
+        "explanation": null
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Prilagodi za projektor",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Projektor mod",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360889,
+        "oldValue": "Projektor mod",
+        "newValue": "Prilagodi za projektor",
+        "explanation": null
+      }
+    ]
+  },
+  "repulsive": {
+    "value": "Odbojna",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Odbojna",
+        "explanation": null
+      }
+    ]
+  },
+  "returnAtom": {
+    "value": "Vrati atom",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Vrati atom",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Usporeno",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Usporeno",
+        "explanation": null
+      }
+    ]
+  },
+  "small": {
+    "value": "malo",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "malo",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "jako",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "snažno",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360889,
+        "oldValue": "snažno",
+        "newValue": "jako",
+        "explanation": null
+      }
+    ]
+  },
+  "totalForce": {
+    "value": "Rezultanta sila",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488375530393,
+        "oldValue": "",
+        "newValue": "Rezultanta sila",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "slabo",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "slabo",
+        "explanation": null
+      }
+    ]
+  },
+  "AtomsAndMolecules": {
+    "value": "Atomi i molekule",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Atomi i molekule",
+        "explanation": null
+      }
+    ]
+  },
+  "Gas": {
+    "value": "Plin",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Plin",
+        "explanation": null
+      }
+    ]
+  },
+  "Liquid": {
+    "value": "Tekućina",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Tekućina",
+        "explanation": null
+      }
+    ]
+  },
+  "Solid": {
+    "value": "Čvrsto",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Čvrsto",
+        "explanation": null
+      }
+    ]
+  },
+  "criticalPoint": {
+    "value": "kritična<br>točka",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "kritična<br>točka",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518122360890,
+        "oldValue": "kritična\\ntočka",
+        "newValue": "kritična\r\ntočka",
+        "explanation": null
+      },
+      {
+        "userId": 148932,
+        "timestamp": 1518231026066,
+        "oldValue": "kritična\r\\ntočka",
+        "newValue": "kritična\r\ntočka",
+        "explanation": null
+      }
+    ]
+  },
+  "diatomicOxygen": {
+    "value": "Kisik",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Kisik",
+        "explanation": null
+      }
+    ]
+  },
+  "gas": {
+    "value": "plin",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "plin",
+        "explanation": null
+      }
+    ]
+  },
+  "interaction": {
+    "value": "Interakcija",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488376815275,
+        "oldValue": "",
+        "newValue": "Interakcija",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionPotential": {
+    "value": "Potencijal interakcije",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Potencijal interakcije",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrengthWithSymbol": {
+    "value": "Jačina interakcije (ε)",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Jačina interakcije (ε)",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvinUnits": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "liquid": {
+    "value": "tekućina",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "tekućina",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseChanges": {
+    "value": "Fazni prijelazi",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Promjena faze",
+        "explanation": null
+      },
+      {
+        "userId": 180275,
+        "timestamp": 1488375851986,
+        "oldValue": "Promjena faze",
+        "newValue": "Fazni prijelazi",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseDiagram": {
+    "value": "Fazni dijagram",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Fazni dijagram",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Tlak",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Tlak",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureOverload": {
+    "value": "PREOPTEREĆENO",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "PREOPTEREĆENO",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureUnitsInAtm": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Vrati poklopac",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Vrati poklopac",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "čvrsto",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "čvrsto",
+        "explanation": null
+      }
+    ]
+  },
+  "states": {
+    "value": "Stanja",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Stanja",
+        "explanation": null
+      }
+    ]
+  },
+  "states-of-matter.title": {
+    "value": "Agregatna stanja",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488376815275,
+        "oldValue": "",
+        "newValue": "Agregatna stanja",
+        "explanation": null
+      }
+    ]
+  },
+  "temperature": {
+    "value": "Temperatura",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Temperatura",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Voda",
+    "history": [
+      {
+        "userId": 180275,
+        "timestamp": 1488374408434,
+        "oldValue": "",
+        "newValue": "Voda",
+        "explanation": null
+      }
+    ]
+  }
+}

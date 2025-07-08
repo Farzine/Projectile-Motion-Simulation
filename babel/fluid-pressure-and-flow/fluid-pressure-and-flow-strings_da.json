@@ -1,0 +1,538 @@
+{
+  "atm": {
+    "value": "atm.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "atm.",
+        "explanation": null
+      }
+    ]
+  },
+  "atmosphere": {
+    "value": "Atmosfære",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548099906,
+        "oldValue": "",
+        "newValue": "Atmosfære",
+        "explanation": null
+      }
+    ]
+  },
+  "atmospheres": {
+    "value": "Atmosfærer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Atmosfære",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "Atmosfære",
+        "newValue": "Atmosfærer",
+        "explanation": null
+      }
+    ]
+  },
+  "densityUnitsEnglish": {
+    "value": "pund/fod<sup>3</sup>",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "lb/fod<sup>3</sup>",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463551493907,
+        "oldValue": "lb/fod<sup>3</sup>",
+        "newValue": "pund/fod<sup>3</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "densityUnitsMetric": {
+    "value": "kg/m<sup>3</sup>",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "kg/m<sup>3</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "earth": {
+    "value": "Jorden",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Jorden",
+        "explanation": null
+      }
+    ]
+  },
+  "english": {
+    "value": "Engelsk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Engelsk",
+        "explanation": null
+      }
+    ]
+  },
+  "fluidA": {
+    "value": "Væske A",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Væske A",
+        "explanation": null
+      }
+    ]
+  },
+  "fluidB": {
+    "value": "Væske B",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Væske B",
+        "explanation": null
+      }
+    ]
+  },
+  "fluidC": {
+    "value": "Væske C",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Væske C",
+        "explanation": null
+      }
+    ]
+  },
+  "fluidDensity": {
+    "value": "Væskes massefylde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Væske tæthed",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463551493907,
+        "oldValue": "Væske tæthed",
+        "newValue": "Væskers massefylde",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463551842236,
+        "oldValue": "Væskers massefylde",
+        "newValue": "Væskes massefylde",
+        "explanation": null
+      }
+    ]
+  },
+  "ft": {
+    "value": "fod",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Ft",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "Ft",
+        "newValue": "fod",
+        "explanation": null
+      }
+    ]
+  },
+  "ftPerSPerS": {
+    "value": "fod/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Ft/s<sup>2</sup>",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "Ft/s<sup>2</sup>",
+        "newValue": "fod/s<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "gasoline": {
+    "value": "benzin",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "benzin",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Tiltrækning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Tiltrækning",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "Gitter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Gitter",
+        "explanation": null
+      }
+    ]
+  },
+  "honey": {
+    "value": "honning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "honning",
+        "explanation": null
+      }
+    ]
+  },
+  "jupiter": {
+    "value": "Jupiter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Jupiter",
+        "explanation": null
+      }
+    ]
+  },
+  "kPa": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "kPa",
+        "explanation": null
+      }
+    ]
+  },
+  "m": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "mPerSPerS": {
+    "value": "m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "m/s<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "mars": {
+    "value": "Mars",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Mars",
+        "explanation": null
+      }
+    ]
+  },
+  "massLabelPattern": {
+    "value": "{0} kg",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "{0} kg",
+        "explanation": null
+      }
+    ]
+  },
+  "metric": {
+    "value": "Metrisk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Metrisk",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryFluid": {
+    "value": "Mystisk væske",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Mystisk væske",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryPlanet": {
+    "value": "Mystisk planet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Mystisk planet",
+        "explanation": null
+      }
+    ]
+  },
+  "off": {
+    "value": "Sluk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Sluk",
+        "explanation": null
+      }
+    ]
+  },
+  "on": {
+    "value": "Tænd",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "Tænd",
+        "explanation": null
+      }
+    ]
+  },
+  "planetA": {
+    "value": "Planet A",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Planet A",
+        "explanation": null
+      }
+    ]
+  },
+  "planetB": {
+    "value": "Planet B",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Planet B",
+        "explanation": null
+      }
+    ]
+  },
+  "planetC": {
+    "value": "Planet C",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Planet C",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Tryk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Tryk",
+        "explanation": null
+      }
+    ]
+  },
+  "psi": {
+    "value": "psi",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "psi",
+        "explanation": null
+      }
+    ]
+  },
+  "readoutFeet": {
+    "value": "{0} fod",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "{0} ft",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "{0} ft",
+        "newValue": "{0} fod",
+        "explanation": null
+      }
+    ]
+  },
+  "readoutMeters": {
+    "value": "{0} m",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "{0} m",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Lineal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Linial",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "Linial",
+        "newValue": "Lineal",
+        "explanation": null
+      }
+    ]
+  },
+  "underPressureScreenTitle": {
+    "value": "Under tryk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Under tryk",
+        "explanation": null
+      }
+    ]
+  },
+  "units": {
+    "value": "Enheder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "Enheder",
+        "explanation": null
+      }
+    ]
+  },
+  "valueWithUnitsPattern": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463550243449,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "vand",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1463548425519,
+        "oldValue": "",
+        "newValue": "vand",
+        "explanation": null
+      }
+    ]
+  }
+}

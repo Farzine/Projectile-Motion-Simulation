@@ -1,0 +1,617 @@
+{
+  "pattern.0label.1value": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "{0}{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "liters": {
+    "value": "ली.",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "L",
+        "newValue": "ली.",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1power": {
+    "value": "{0} x 10<sup>{1}</sup>",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "{0} x 10<sup>{1}</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "negligible": {
+    "value": "नगण्य",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "नगण्य",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "साम्यावस्था सांद्रण (मोल/ली.)",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "संतुलित सांद्रता (mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "संतुलित सांद्रता (mol/L)",
+        "newValue": "साम्यावस्सांथा सांद्रण (mol/L)"
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "साम्यावस्सांथा सांद्रण (mol/L)",
+        "newValue": "साम्यावस्था सांद्रण (मोल/ली.)",
+        "explanation": null
+      }
+    ]
+  },
+  "graph": {
+    "value": "आलेख",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "आलेख ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "आलेख ",
+        "newValue": "आलेख",
+        "explanation": null
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "छुपायें",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "छुपायें ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "छुपायें ",
+        "newValue": "छुपायें",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules": {
+    "value": "अणुओं ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "अणुओं ",
+        "explanation": null
+      }
+    ]
+  },
+  "solvent": {
+    "value": "विलायक ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "विलायक ",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "विलयन",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "विलयन ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "विलयन ",
+        "newValue": "विलयन",
+        "explanation": null
+      }
+    ]
+  },
+  "tools": {
+    "value": "साधन ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "साधन ",
+        "explanation": null
+      }
+    ]
+  },
+  "views": {
+    "value": "देखें",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "देखें ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "देखें ",
+        "newValue": "देखें",
+        "explanation": null
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "pH रंग सूचक",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "pH रंग सूचक ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "pH रंग सूचक ",
+        "newValue": "pH रंग सूचक",
+        "explanation": null
+      }
+    ]
+  },
+  "stronger": {
+    "value": "प्रबल",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "तीव्रता ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "तीव्रता ",
+        "newValue": "प्रबल "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "प्रबल ",
+        "newValue": "प्रबल",
+        "explanation": null
+      }
+    ]
+  },
+  "weaker": {
+    "value": "दुर्बल",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "सौम्यता ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "सौम्यता ",
+        "newValue": "दुर्बल "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "दुर्बल ",
+        "newValue": "दुर्बल",
+        "explanation": null
+      }
+    ]
+  },
+  "acid": {
+    "value": "अम्ल",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "अम्ल ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "अम्ल ",
+        "newValue": "अम्ल",
+        "explanation": null
+      }
+    ]
+  },
+  "base": {
+    "value": "क्षार",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "भस्म ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "भस्म ",
+        "newValue": "क्षार"
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "प्रारंभिक सांद्रता (मोल/ली.)",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "प्रारंभिक सांद्रता (mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "प्रारंभिक सांद्रता (mol/L)",
+        "newValue": "प्रारंभिक सांद्रता (मोल/ली.)",
+        "explanation": null
+      }
+    ]
+  },
+  "strength": {
+    "value": "शक्ति :",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "शक्ति :",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "प्रबल",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "तीव्र ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "तीव्र ",
+        "newValue": "प्रबल "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "प्रबल ",
+        "newValue": "प्रबल",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "दुर्बल",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "सौम्य ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "सौम्य ",
+        "newValue": "दुर्बल "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "दुर्बल ",
+        "newValue": "दुर्बल",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "मेरा विलयन",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "मेरा विलयन ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "मेरा विलयन ",
+        "newValue": "मेरा विलयन",
+        "explanation": null
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "प्रबल अम्ल",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "तीव्र अम्ल ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "तीव्र अम्ल ",
+        "newValue": "प्रबल अम्ल "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "प्रबल अम्ल ",
+        "newValue": "प्रबल अम्ल",
+        "explanation": null
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "प्रबल  क्षार",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "तीव्र भस्म ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "तीव्र भस्म ",
+        "newValue": "प्रबल  क्षार"
+      }
+    ]
+  },
+  "water": {
+    "value": "पानी",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "शुद्ध पानी ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "शुद्ध पानी ",
+        "newValue": "पानी",
+        "explanation": null
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "दुर्बल अम्ल",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "सौम्य अम्ल ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "सौम्य अम्ल ",
+        "newValue": "दुर्बल अम्ल "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "दुर्बल अम्ल ",
+        "newValue": "दुर्बल अम्ल",
+        "explanation": null
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "दुर्बल क्षार",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "सौम्य भस्म ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "सौम्य भस्म ",
+        "newValue": "दुर्बल क्षार"
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "प्रस्तावना",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "प्रस्तावना ",
+        "explanation": null
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "प्रस्तावना ",
+        "newValue": "प्रस्तावना",
+        "explanation": null
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "अम्ल -क्षार विलयन",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1503364839968,
+        "oldValue": "",
+        "newValue": "अम्ल -भस्म विलयन ",
+        "explanation": null
+      },
+      {
+        "userId": 1051826,
+        "timestamp": 1664035213045,
+        "oldValue": "अम्ल -भस्म विलयन ",
+        "newValue": "अम्ल -क्षार विलयन "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "अम्ल -क्षार विलयन ",
+        "newValue": "अम्ल -क्षार विलयन",
+        "explanation": null
+      }
+    ]
+  },
+  "showSolvent": {
+    "value": "विलायक दिखाएँ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "",
+        "newValue": "विलायक दिखाएँ"
+      }
+    ]
+  },
+  "showTheSolventMoleculesInParticlesView": {
+    "value": "कणीय रूप में विलायक अणुओं को दिखाएँ।",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "",
+        "newValue": "कणीय रूप में विलायक अणुओं को दिखाएँ।"
+      }
+    ]
+  },
+  "patternSolutionNameFormula": {
+    "value": "{{solutionName}} ({{formula}})",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "",
+        "newValue": "{{solutionName}} ({{formula}})"
+      }
+    ]
+  },
+  "particles": {
+    "value": "कण",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1701225591899,
+        "oldValue": "",
+        "newValue": "कण"
+      }
+    ]
+  }
+}

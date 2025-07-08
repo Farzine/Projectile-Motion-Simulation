@@ -1,0 +1,151 @@
+{
+  "units.centimeters": {
+    "value": "см",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1583591416161,
+        "oldValue": "",
+        "newValue": "см",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Сила на {{thisObject}} від {{otherObject}}",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1572807251910,
+        "oldValue": "",
+        "newValue": "Сила на {{thisObject}} від {{otherObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Сила на {{thisObject}} від {{otherObject}} = {{value}} Н",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1572807251910,
+        "oldValue": "",
+        "newValue": "Сила на {{thisObject}} від {{otherObject}} = {{value}} N",
+        "explanation": null
+      },
+      {
+        "userId": 919288,
+        "timestamp": 1624213737428,
+        "oldValue": "Сила на {{thisObject}} від {{otherObject}} = {{value}} N",
+        "newValue": "Сила на {{thisObject}} від {{otherObject}} = {{value}} Н"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Величини сил",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1572807251910,
+        "oldValue": "",
+        "newValue": "Величини сил",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "пм",
+    "history": [
+      {
+        "userId": 919288,
+        "timestamp": 1624213737428,
+        "oldValue": "",
+        "newValue": "пм"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1583591416161,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Десяткові позначення",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1583591416161,
+        "oldValue": "",
+        "newValue": "Десяткові позначення",
+        "explanation": null
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Приховані",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1583591416161,
+        "oldValue": "",
+        "newValue": "Приховані",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "метр",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1572807251910,
+        "oldValue": "",
+        "newValue": "метр",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "метри",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1572807251910,
+        "oldValue": "",
+        "newValue": "метри",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "Ньютони",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1572807251911,
+        "oldValue": "",
+        "newValue": "Ньютони",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Наукові позначення",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1583591416161,
+        "oldValue": "",
+        "newValue": "Наукові позначення",
+        "explanation": null
+      }
+    ]
+  }
+}

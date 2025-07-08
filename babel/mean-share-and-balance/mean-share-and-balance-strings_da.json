@@ -1,0 +1,622 @@
+{
+  "screen.intro": {
+    "value": "Intro",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Intro"
+      }
+    ]
+  },
+  "introQuestion": {
+    "value": "Hvad er den gennemsnitlige mængde vand pr. glas?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Hvad er den gennemsnitlige mængde af vand pr. glas?"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1668774385326,
+        "oldValue": "Hvad er den gennemsnitlige mængde af vand pr. glas?",
+        "newValue": "Hvad er den gennemsnitlige mængde vand pr. glas?"
+      }
+    ]
+  },
+  "predictMean": {
+    "value": "Forudsig gennemsnit",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Forudsig gennemsnit"
+      }
+    ]
+  },
+  "mean": {
+    "value": "Gennemsnit",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Gennemsnit"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Markeringer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Måleglas"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724835537493,
+        "oldValue": "Måleglas",
+        "newValue": "Markeringer",
+        "explanation": null
+      }
+    ]
+  },
+  "cupWaterLevel": {
+    "value": "Vandstand ved start",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Vandstand ved start"
+      }
+    ]
+  },
+  "numberOfCups": {
+    "value": "Antal glas",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Antal kopper"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1668766979631,
+        "oldValue": "Antal kopper",
+        "newValue": "Antal glas"
+      }
+    ]
+  },
+  "mean-share-and-balance.title": {
+    "value": "Gennemsnit: Andel og ligevægt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1668766879923,
+        "oldValue": "",
+        "newValue": "Gennemsnit: Del og ligevægt"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1668774385326,
+        "oldValue": "Gennemsnit: Del og ligevægt",
+        "newValue": "Gennemsnit: Andel og ligevægt"
+      }
+    ]
+  },
+  "screen.levelOut": {
+    "value": "Udjævn",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Udjævn"
+      }
+    ]
+  },
+  "screen.distribute": {
+    "value": "Spred",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Fordel"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724838764375,
+        "oldValue": "Fordel",
+        "newValue": "Spred",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.fairShare": {
+    "value": "Ens mængde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Ens mængde"
+      }
+    ]
+  },
+  "screen.balancePoint": {
+    "value": "Balancepunkt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Balancepunkt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.levelOutScreen.sliderControlHeading": {
+    "value": "Vandstand eller forudsigelse af gennemsnit",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Vandstand eller forudsigelse af gennemsnit"
+      }
+    ]
+  },
+  "keyboardHelpDialog.levelOutScreen.sliderControlNoun": {
+    "value": "vand eller forudsigelsesmærke",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "vand eller forudsigelsesmærke"
+      }
+    ]
+  },
+  "keyboardHelpDialog.levelOutScreen.numberSpinnerHeading": {
+    "value": "Antal kopper",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Antal kopper"
+      }
+    ]
+  },
+  "keyboardHelpDialog.numberSpinnerVerb": {
+    "value": "Skift",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Skift"
+      }
+    ]
+  },
+  "keyboardHelpDialog.numberSpinnerNoun": {
+    "value": "antal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "antal"
+      }
+    ]
+  },
+  "bar": {
+    "value": "bar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "bar"
+      }
+    ]
+  },
+  "bars": {
+    "value": "barer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "barer"
+      }
+    ]
+  },
+  "totalCandyBarsPattern": {
+    "value": "Total = {{total}} slik {{measurement}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Total = {{total}} candy {{measurement}}"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724838764375,
+        "oldValue": "Total = {{total}} candy {{measurement}}",
+        "newValue": "Total = {{total}} slik {{measurement}}",
+        "explanation": null
+      }
+    ]
+  },
+  "distributeQuestion": {
+    "value": "Hvad er det gennemsnitlige antal chokoladebarer pr. person?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Hvad er det gennemsnitlige antal chokoladebarer pr. person?"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.grabOrReleaseItemHeading": {
+    "value": "Pladechokolade",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Pladechokolade"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.grabOrReleaseItem": {
+    "value": "chokoladebar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "chokoladebar"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.moveHeading": {
+    "value": "Flyt pladechokolade",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Flyt pladechokolade"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.moveDescription": {
+    "value": "Flyr valgte chokoladebar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Flyr chokoladebar"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724835537493,
+        "oldValue": "Flyr chokoladebar",
+        "newValue": "Flyr valgte chokoladebar",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.sliderControlHeading": {
+    "value": "Forudsig gennemsnit",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Forudsig gennemsnit"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.sliderControlNoun": {
+    "value": "forudsigelsesmærke",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "forudsigelsesmærke"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.numberSpinnerHeading": {
+    "value": "Antal chokoladebarer pr. person",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Antal chokoladebarer pr. person"
+      }
+    ]
+  },
+  "apple": {
+    "value": "æble",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "æble"
+      }
+    ]
+  },
+  "apples": {
+    "value": "æbler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "æbler"
+      }
+    ]
+  },
+  "totalApplesPattern": {
+    "value": "Total = {{total}} {{measurement}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Total = {{total}} {{measurement}}"
+      }
+    ]
+  },
+  "fairShareQuestion": {
+    "value": "Hvad er det gennemsnitlige antal æbler pr. person?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Hvad er det gennemsnitlige antal æbler pr. person?"
+      }
+    ]
+  },
+  "keyboardHelpDialog.fairShareScreen.numberSpinnerHeading": {
+    "value": "Antal æbler eller personer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Antal æbler pr. person"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724835537493,
+        "oldValue": "Antal æbler pr. person",
+        "newValue": "Antal æbler eller personer",
+        "explanation": null
+      }
+    ]
+  },
+  "sync": {
+    "value": "Synkroniser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Synkroniser"
+      }
+    ]
+  },
+  "collect": {
+    "value": "Saml",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Saml"
+      }
+    ]
+  },
+  "share": {
+    "value": "Spred",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Del"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724838764375,
+        "oldValue": "Del",
+        "newValue": "Spred",
+        "explanation": null
+      }
+    ]
+  },
+  "balancePointQuestion": {
+    "value": "Hvad er den gennemsnitlige længde på sparkene?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Hvad er den gennemsnitlige længde på sparkene?"
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderControlHeading": {
+    "value": "Balancepunkt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Balancepunkt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderVerb": {
+    "value": "Flyt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Flyt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderNoun": {
+    "value": "balance-trekant",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "triangel"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724835537493,
+        "oldValue": "triangel",
+        "newValue": "balance-trekant",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.numberSpinnerHeading": {
+    "value": "Antal mennesker",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Antal mennesker"
+      }
+    ]
+  },
+  "numberOfBalls": {
+    "value": "Antal bolde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Antal bolde"
+      }
+    ]
+  },
+  "meanEqualSignPattern": {
+    "value": "Gennemsnit {{equals}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "mean {{equals}}"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724838764375,
+        "oldValue": "mean {{equals}}",
+        "newValue": "Gennemsnit {{equals}}",
+        "explanation": null
+      }
+    ]
+  },
+  "remainderPattern": {
+    "value": "{{wholeNumber}}, rest {{remainder}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "{{wholeNumber}}, remainder {{remainder}}"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1724838764375,
+        "oldValue": "{{wholeNumber}}, remainder {{remainder}}",
+        "newValue": "{{wholeNumber}}, rest {{remainder}}",
+        "explanation": null
+      }
+    ]
+  },
+  "totalDistancePattern": {
+    "value": "Total distance = {{total}} m",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Total distance = {{total}} m"
+      }
+    ]
+  },
+  "check": {
+    "value": "Tjek",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Tjek"
+      }
+    ]
+  },
+  "reset": {
+    "value": "Reset",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Reset"
+      }
+    ]
+  },
+  "total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Total"
+      }
+    ]
+  },
+  "numberOfPeople": {
+    "value": "Antal personer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1724821531433,
+        "oldValue": "",
+        "newValue": "Antal personer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "units.meters": {
+    "value": "metre",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "metre",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "kg",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "kg",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source": {
+    "value": "Sila na {0} od {1} ",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Sila {0} na {1} ",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1574508742802,
+        "oldValue": "Sila {0} na {1} ",
+        "newValue": "Sila na {0} od {1} ",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source_value": {
+    "value": "Sila na {0} od {1} = {2} N",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Sila {0} na {1} = {2} N",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1574508742802,
+        "oldValue": "Sila {0} na {1} = {2} N",
+        "newValue": "Sila na {0} od {1} = {2} N",
+        "explanation": null
+      }
+    ]
+  },
+  "constantRadius": {
+    "value": "Konštantný polomer",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Konštantný polomer",
+        "explanation": null
+      }
+    ]
+  },
+  "showValues": {
+    "value": "Zobraziť hodnoty",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Zobraziť hodnoty",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1": {
+    "value": "Hmotnosť 1",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Hmotnosť 1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2": {
+    "value": "Hmotnosť 2",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Hmotnosť 2",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1Abbreviated": {
+    "value": "m1",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "m1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2Abbreviated": {
+    "value": "m2",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "m2",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity-force-lab.title": {
+    "value": "Laboratórium gravitačnej sily",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Laboratórium gravitačnej sily",
+        "explanation": null
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "Konštantná veľkosť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1574508571440,
+        "oldValue": "",
+        "newValue": "Konštantná veľkosť",
+        "explanation": null
+      }
+    ]
+  },
+  "body.name.earth": {
+    "value": "Zem",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Zem",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "Voliteľný",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Voliteľný",
+        "explanation": null
+      }
+    ]
+  },
+  "mass-1": {
+    "value": "m1",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "m1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass-2": {
+    "value": "m2",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "m2",
+        "explanation": null
+      }
+    ]
+  },
+  "module.force-laws.name": {
+    "value": "Silové zákony",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Silové zákony",
+        "explanation": null
+      }
+    ]
+  },
+  "module.sun-planet-system.name": {
+    "value": "Slnečný systém",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Slnečný systém",
+        "explanation": null
+      }
+    ]
+  },
+  "my.solar.system": {
+    "value": "Môj solárny systém",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Môj solárny systém",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size": {
+    "value": "Veľkosť objektu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Veľkosť objektu",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size.actual-size": {
+    "value": "Čiara života",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Čiara života",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size.cartoon": {
+    "value": "Kreslené",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Kreslené",
+        "explanation": null
+      }
+    ]
+  },
+  "planet": {
+    "value": "Planéta",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Planéta",
+        "explanation": null
+      }
+    ]
+  },
+  "planet.control.title": {
+    "value": "Planéta",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Planéta",
+        "explanation": null
+      }
+    ]
+  },
+  "readout.pattern-bodyname": {
+    "value": "{0} množstvo",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "{0} množstvo",
+        "explanation": null
+      }
+    ]
+  },
+  "related.sims": {
+    "value": "Príbuzné simulácie",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Príbuzné simulácie",
+        "explanation": null
+      }
+    ]
+  },
+  "sun": {
+    "value": "Slnko",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Slnko",
+        "explanation": null
+      }
+    ]
+  },
+  "sun.planet.controls": {
+    "value": "Nastavenia",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Nastavenia",
+        "explanation": null
+      }
+    ]
+  },
+  "units": {
+    "value": "Jednotky",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Jednotky",
+        "explanation": null
+      }
+    ]
+  },
+  "units.earth.masses": {
+    "value": "Zložky Zeme",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "Zložky Zeme",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kilometers": {
+    "value": "kilometrov",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "kilometrov",
+        "explanation": null
+      }
+    ]
+  },
+  "units.light-minutes": {
+    "value": "svetelné minúty",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458766570347,
+        "oldValue": "",
+        "newValue": "svetelné minúty",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassHeading": {
+    "value": "Zmena hmotnosti telesa",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Zmena hmotnosti telesa"
+      }
+    ]
+  },
+  "changeMassInLargerSteps": {
+    "value": "Zmena hmotnosti po väčších krokoch",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Zmena hmotnosti po väčších krokoch"
+      }
+    ]
+  },
+  "changeMassInSmallerSteps": {
+    "value": "Zmena hmotnosti po menších krokoch",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Zmena hmotnosti po menších krokoch"
+      }
+    ]
+  },
+  "changeMassLabel": {
+    "value": "Zmena hmotnosti",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Zmena hmotnosti"
+      }
+    ]
+  },
+  "jumpToLeft": {
+    "value": "Posun naľavo",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Posun naľavo"
+      }
+    ]
+  },
+  "jumpToMaximumMass": {
+    "value": "Maximálna hmotnosť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Maximálna hmotnosť"
+      }
+    ]
+  },
+  "jumpToMinimumMass": {
+    "value": "Minimálna hmotnosť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Minimálna hmotnosť"
+      }
+    ]
+  },
+  "jumpToRight": {
+    "value": "Posun napravo",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Posun napravo"
+      }
+    ]
+  },
+  "moveInLargerSteps": {
+    "value": "Posun po väčších krokoch",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Posun po väčších krokoch"
+      }
+    ]
+  },
+  "moveInSmallerSteps": {
+    "value": "Posun po menších krokoch",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Posun po menších krokoch"
+      }
+    ]
+  },
+  "moveSphereLabel": {
+    "value": "Posun telesa",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Posun telesa"
+      }
+    ]
+  },
+  "moveSpheresHeading": {
+    "value": "Posun telesa",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "Posun telesa"
+      }
+    ]
+  },
+  "jumpHome": {
+    "value": "Premiestenie pravítka<br>do východiskovej polohy",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "Premiestenie pravítka<br>do východiskovej polohy"
+      }
+    ]
+  },
+  "jumpStartOfSphere": {
+    "value": "Premiestenie začiatku pravítka<br> na stred telesa m1",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "Premiestenie začiatku pravítka<br> na stred telesa m1"
+      }
+    ]
+  },
+  "moveGrabbedRuler": {
+    "value": "Posun pravítkom",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "Posun pravítkom"
+      }
+    ]
+  },
+  "moveOrJumpGrabbedRuler": {
+    "value": "Presun alebo pohyb chyteným pravítkom",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "Presun alebo pohyb chyteným pravítkom"
+      }
+    ]
+  }
+}

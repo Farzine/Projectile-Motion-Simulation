@@ -1,0 +1,504 @@
+{
+  "angle.degrees": {
+    "value": "{0}°",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "{0}°",
+        "explanation": null
+      }
+    ]
+  },
+  "angle.greaterThanDegrees": {
+    "value": "větší než {0}°",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "větší než {0}°",
+        "explanation": null
+      }
+    ]
+  },
+  "angle.lessThanDegrees": {
+    "value": "menší než {0}°",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "menší než {0}°",
+        "explanation": null
+      }
+    ]
+  },
+  "control.bonding": {
+    "value": "Typy vazeb",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Typy vazeb",
+        "explanation": null
+      }
+    ]
+  },
+  "control.electronGeometry": {
+    "value": "Elektronová geometrie",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Elektronová geometrie",
+        "explanation": null
+      }
+    ]
+  },
+  "control.geometryName": {
+    "value": "Název",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Název",
+        "explanation": null
+      }
+    ]
+  },
+  "control.lonePair": {
+    "value": "Volný elektronový pár",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Samostatná dvojice",
+        "explanation": null
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1462890240742,
+        "oldValue": "Samostatná dvojice",
+        "newValue": "Volný elektronový pár",
+        "explanation": null
+      }
+    ]
+  },
+  "control.modelView": {
+    "value": "Model",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Model",
+        "explanation": null
+      }
+    ]
+  },
+  "control.molecule": {
+    "value": "Molekula",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Molekula",
+        "explanation": null
+      }
+    ]
+  },
+  "control.moleculeGeometry": {
+    "value": "Geometrie molekuly",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Geometrie molekuly",
+        "explanation": null
+      }
+    ]
+  },
+  "control.options": {
+    "value": "Možnosti",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Možnosti",
+        "explanation": null
+      }
+    ]
+  },
+  "control.realView": {
+    "value": "Skutečnost",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Skutečnost",
+        "explanation": null
+      }
+    ]
+  },
+  "control.removeAll": {
+    "value": "Odstranit vše",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Odstranit vše",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showAllLonePairs": {
+    "value": "Zobrazit vnější samostatné dvojice",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Zobrazit vnější samostatné dvojice",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showBondAngles": {
+    "value": "Zobrazit vazebné úhly",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Zobrazit vazebné úhly",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showLonePairs": {
+    "value": "Zobrazit samostatné dvojice",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Zobrazit samostatné dvojice",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.diatomic": {
+    "value": "Lineární",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Lineární",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.linear": {
+    "value": "Lineární",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Lineární",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.octahedral": {
+    "value": "Oktahedrální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Oktahedrální",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.tetrahedral": {
+    "value": "Tetrahedrální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Tetrahedrální",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalBipyramidal": {
+    "value": "Bipyramidální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Bipyramidální",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalPlanar": {
+    "value": "Planární",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Planární",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes-basics.title": {
+    "value": "Tvary molekul: Základy",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Tvary molekul: Základy",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes.title": {
+    "value": "Tvary molekul",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Tvary molekul",
+        "explanation": null
+      }
+    ]
+  },
+  "options.projectorColors": {
+    "value": "Mód projektoru",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Mód projektoru",
+        "explanation": null
+      }
+    ]
+  },
+  "options.showOuterLonePairs": {
+    "value": "Ukázat vnější volné elektronové páry",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Ukázat vnější volné elektronové páry",
+        "explanation": null
+      }
+    ]
+  },
+  "realExamples.title": {
+    "value": "Skutečné příklady",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Skutečné příklady",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.model": {
+    "value": "Model",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Model",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.realMolecules": {
+    "value": "Skutečné molekuly",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Skutečné molekuly",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.bent": {
+    "value": "Lomená",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Lomená",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.diatomic": {
+    "value": "Lineární",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Lineární",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.linear": {
+    "value": "Lineární",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Lineární",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.octahedral": {
+    "value": "Oktahedrální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Oktahedrální",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.seesaw": {
+    "value": "Houpačka",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Houpačka",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePlanar": {
+    "value": "Čtvercově planární",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Čtvercově planární",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePyramidal": {
+    "value": "Čtvercově pyramidální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Čtvercově pyramidální",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tShaped": {
+    "value": "Tvar T",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Tvar T",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tetrahedral": {
+    "value": "Tetrahedrální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Tetrahedrální",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalBipyramidal": {
+    "value": "Bipyramidální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Bipyramidální",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPlanar": {
+    "value": "Planární",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Planární",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPyramidal": {
+    "value": "Pyramidální",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462888491077,
+        "oldValue": "",
+        "newValue": "Pyramidální",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": ""
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "patternString": {
+    "value": "{0}: {1} {2} Tue 8/15/2023",
+    "history": [
+      {
+        "userId": 136803,
+        "timestamp": 1516131204270,
+        "oldValue": "",
+        "newValue": "{0}: {1} {2} 3",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1524510264798,
+        "oldValue": "{0}: {1} {2} 3",
+        "newValue": "{0}: {1} {2} 3 4",
+        "explanation": null
+      },
+      {
+        "userId": 232337,
+        "timestamp": 1569525536247,
+        "oldValue": "{0}: {1} {2} 3 4",
+        "newValue": "{0}: {1} {2} 3 4 5",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1576613472100,
+        "oldValue": "{0}: {1} {2} 3 4 5",
+        "newValue": "{0}: {1} {2} 3 4",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1609872737135,
+        "oldValue": "{0}: {1} {2} 3 4",
+        "newValue": "{0}:) {1}:( {2}:}"
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1676500892170,
+        "oldValue": "{0}:) {1}:( {2}:}",
+        "newValue": "{0}: {1} {2}",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678213127832,
+        "oldValue": "{0}: {1} {2}",
+        "newValue": "{0}: {1} {2} 379",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221192133,
+        "oldValue": "{0}: {1} {2} 379",
+        "newValue": "{0}: {1} {2} 379.2",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221449335,
+        "oldValue": "{0}: {1} {2} 379.2",
+        "newValue": "{0}: {1} {2} 379.2.3",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221746832,
+        "oldValue": "{0}: {1} {2} 379.2.3",
+        "newValue": "{0}: {1} {2} 379.2.3.4",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1678406034281,
+        "oldValue": "{0}: {1} {2} 379.2.3.4",
+        "newValue": "{0}: {1} {2} Thursday 3/9",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1692126847779,
+        "oldValue": "{0}: {1} {2} Thursday 3/9",
+        "newValue": "{0}: {1} {2} Wed 8/15",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1692133542326,
+        "oldValue": "{0}: {1} {2} Wed 8/15",
+        "newValue": "{0}: {1} {2} Tue 8/15/2023",
+        "explanation": null
+      }
+    ]
+  },
+  "size": {
+    "value": "Biglyness",
+    "history": [
+      {
+        "userId": 136803,
+        "timestamp": 1470801357488,
+        "oldValue": "",
+        "newValue": "Bigness",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1475096695541,
+        "oldValue": "Bigness",
+        "newValue": "Bigly",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1503530148064,
+        "oldValue": "Bigly",
+        "newValue": "Bigly, really bigly",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1504822223184,
+        "oldValue": "Bigly, really bigly",
+        "newValue": "Big League",
+        "explanation": null
+      },
+      {
+        "userId": 232337,
+        "timestamp": 1509729084099,
+        "oldValue": "Big League",
+        "newValue": "Bug League",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1511216417790,
+        "oldValue": "Bug League",
+        "newValue": "Big League (Bigly)",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1515456745528,
+        "oldValue": "Big League (Bigly)",
+        "newValue": "Biglyness",
+        "explanation": null
+      },
+      {
+        "userId": 232337,
+        "timestamp": 1593147358128,
+        "oldValue": "Biglyness",
+        "newValue": "Test1",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1607620952246,
+        "oldValue": "Test1",
+        "newValue": "!!!!TEST"
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1609730999453,
+        "oldValue": "!!!!TEST",
+        "newValue": "Medium",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1647188389674,
+        "oldValue": "Medium",
+        "newValue": "Biglyness"
+      },
+      {
+        "userId": 232337,
+        "timestamp": 1651600730295,
+        "oldValue": "Biglyness",
+        "newValue": "Seize"
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1652995674361,
+        "oldValue": "Seize",
+        "newValue": "Size"
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1677880892120,
+        "oldValue": "Size",
+        "newValue": "2.0.5 test",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678213127832,
+        "oldValue": "2.0.5 test",
+        "newValue": "Size 379",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221192133,
+        "oldValue": "Size 379",
+        "newValue": "Size 379.2",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221449335,
+        "oldValue": "Size 379.2",
+        "newValue": "Size 379.2.3",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221746832,
+        "oldValue": "Size 379.2.3",
+        "newValue": "Size 379.2.3.4",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1678406034281,
+        "oldValue": "Size 379.2.3.4",
+        "newValue": "Size thursday 3/9",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1681238317137,
+        "oldValue": "Size thursday 3/9",
+        "newValue": "test for https://github.com/phetsims/rosetta/issues/386",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1692133042055,
+        "oldValue": "test for https://github.com/phetsims/rosetta/issues/386",
+        "newValue": "Switching to \"main\" is big.",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1706055120532,
+        "oldValue": "Switching to \"main\" is big.",
+        "newValue": "Biglyness",
+        "explanation": null
+      }
+    ]
+  },
+  "plainString": {
+    "value": "'Tis a challenge to be a yellow fellow",
+    "history": [
+      {
+        "userId": 136803,
+        "timestamp": 1470801357488,
+        "oldValue": "",
+        "newValue": "To be green, or not to be green",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1470802458944,
+        "oldValue": "To be green, or not to be green",
+        "newValue": "To be green, or not to be green (ish)",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1487269314593,
+        "oldValue": "To be green, or not to be green (ish)",
+        "newValue": "Mean Green Translatin' Machine",
+        "explanation": null
+      },
+      {
+        "userId": 232337,
+        "timestamp": 1509729084098,
+        "oldValue": "Mean Green Translatin' Machine",
+        "newValue": "Mean Yellow Translatin' Machine",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1524510264798,
+        "oldValue": "Mean Yellow Translatin' Machine",
+        "newValue": "Mean Green Translatin' Machine",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1607639160913,
+        "oldValue": "Mean Green Translatin' Machine",
+        "newValue": "Kermit's lament"
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1607640665026,
+        "oldValue": "Kermit's lament",
+        "newValue": "Kermit's lament - there you go."
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1609617949260,
+        "oldValue": "Kermit's lament - there you go.",
+        "newValue": "Get out of my swamp!",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1647188389674,
+        "oldValue": "Get out of my swamp!",
+        "newValue": "Greenie meanie"
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1652396301864,
+        "oldValue": "Greenie meanie",
+        "newValue": "Greenie meanie in betweenie"
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1676500892170,
+        "oldValue": "Greenie meanie in betweenie",
+        "newValue": "Hey, eat your greens!",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678213127832,
+        "oldValue": "Hey, eat your greens!",
+        "newValue": "It's not easy being green. 379",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221192133,
+        "oldValue": "It's not easy being green. 379",
+        "newValue": "It's not easy being green. 379.2",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221449335,
+        "oldValue": "It's not easy being green. 379.2",
+        "newValue": "It's not easy being green. 379.2.3",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221746832,
+        "oldValue": "It's not easy being green. 379.2.3",
+        "newValue": "It's not easy being green. 379.2.3.4",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1678406034281,
+        "oldValue": "It's not easy being green. 379.2.3.4",
+        "newValue": "It's not easy being green. thursday 3/9",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1692126847779,
+        "oldValue": "It's not easy being green. thursday 3/9",
+        "newValue": "'Tis a challenge to be chartreuse",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1706055120532,
+        "oldValue": "'Tis a challenge to be chartreuse",
+        "newValue": "'Tis a challenge to be a yellow fellow",
+        "explanation": null
+      }
+    ]
+  },
+  "multilineString": {
+    "value": "Break me off a <br>piece of that kit kat bar.",
+    "history": [
+      {
+        "userId": 136803,
+        "timestamp": 1470801357488,
+        "oldValue": "",
+        "newValue": "Couldst thou giveth\nto me a break",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1470802458945,
+        "oldValue": "Couldst thou giveth\nto me a break",
+        "newValue": "Couldst thou giveth\nunto me a break",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1503528770697,
+        "oldValue": "Couldst thou giveth\nunto me a break",
+        "newValue": "Couldst thou giveth\nunto me a break?",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1609730999453,
+        "oldValue": "Couldst thou giveth\nunto me a break?",
+        "newValue": "We're break\ning up.",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1647188389674,
+        "oldValue": "We're break\ning up.",
+        "newValue": "Having a bit of a break<b>down"
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1647188772973,
+        "oldValue": "Having a bit of a break<b>down",
+        "newValue": "Having a bit of a break<br>down"
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1676500892170,
+        "oldValue": "Having a bit of a break<br>down",
+        "newValue": "Getting close to Spring <br>Break.",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678213127832,
+        "oldValue": "Getting close to Spring <br>Break.",
+        "newValue": "Give me a<br>break. 379",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221192133,
+        "oldValue": "Give me a<br>break. 379",
+        "newValue": "Give me a<br>break. 379.2",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221449335,
+        "oldValue": "Give me a<br>break. 379.2",
+        "newValue": "Give me a<br>break. 379.2.3",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221746832,
+        "oldValue": "Give me a<br>break. 379.2.3",
+        "newValue": "Give me a<br>break. 379.2.3.4",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1678406034281,
+        "oldValue": "Give me a<br>break. 379.2.3.4",
+        "newValue": "Give me a<br>break. thursday 3/9",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1692127764326,
+        "oldValue": "Give me a<br>break. thursday 3/9",
+        "newValue": "Give me a<br>break of that kit kat bar.",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1706055120532,
+        "oldValue": "Give me a<br>break of that kit kat bar.",
+        "newValue": "Break me off a <br>piece of that kit kat bar.",
+        "explanation": null
+      }
+    ]
+  },
+  "htmlString": {
+    "value": "Turning left on <i>red</i> is a <b>bold</b> move.",
+    "history": [
+      {
+        "userId": 232337,
+        "timestamp": 1513015127499,
+        "oldValue": "",
+        "newValue": "The <b>bold</b> and the <i>beautiful</i>.",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1609730999453,
+        "oldValue": "The <b>bold</b> and the <i>beautiful</i>.",
+        "newValue": "Be <b>Boulder</b> and make buffalo-shaped pools!",
+        "explanation": null
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1676500892170,
+        "oldValue": "Be <b>Boulder</b> and make buffalo-shaped pools!",
+        "newValue": "<b>boldness</b>",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678213127832,
+        "oldValue": "<b>boldness</b>",
+        "newValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221192133,
+        "oldValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379",
+        "newValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379.2",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221449335,
+        "oldValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379.2",
+        "newValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379.2.3",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221746832,
+        "oldValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379.2.3",
+        "newValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379.2.3.4",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1678406034281,
+        "oldValue": "Turning left on <i>red</i> is a <b>bold</b> move. 379.2.3.4",
+        "newValue": "Turning left on <i>red</i> is a <b>bold</b> move. thursday 3/9",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1692133042055,
+        "oldValue": "Turning left on <i>red</i> is a <b>bold</b> move. thursday 3/9",
+        "newValue": "Turning left on <i>red</i> is a <b>bold</b> move.",
+        "explanation": null
+      }
+    ]
+  },
+  "namedPlaceholdersString": {
+    "value": "{{name}} is switching to main at {{speed}} parsecs/decade",
+    "history": [
+      {
+        "userId": 232337,
+        "timestamp": 1518554336236,
+        "oldValue": "",
+        "newValue": "{{name}} has {{speed}} apples",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1576613472100,
+        "oldValue": "{{name}} has {{speed}} apples",
+        "newValue": "{{name}} needs {{speed}} helpers",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1582842518105,
+        "oldValue": "{{name}} needs {{speed}} helpers",
+        "newValue": "{{name}} is {{speed}} years old",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1591915154412,
+        "oldValue": "{{name}} is {{speed}} years old",
+        "newValue": "{{name}} is moving at {{speed}} lightyears/yr",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1609730999453,
+        "oldValue": "{{name}} is moving at {{speed}} lightyears/yr",
+        "newValue": "{{name}} is moving at {{speed}} parsecs/AU",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1647188389674,
+        "oldValue": "{{name}} is moving at {{speed}} parsecs/AU",
+        "newValue": "{{name}} is moving at {{speed}} lightyears/eon"
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1676500892170,
+        "oldValue": "{{name}} is moving at {{speed}} lightyears/eon",
+        "newValue": "{{name}} is traveling at {{speed}} km/hr",
+        "explanation": null
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1676601834486,
+        "oldValue": "{{name}} is traveling at {{speed}} km/hr",
+        "newValue": "{{name}} is proceeding at {{speed}} parsecs/kettle run",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678213127832,
+        "oldValue": "{{name}} is proceeding at {{speed}} parsecs/kettle run",
+        "newValue": "{{name}} is traveling at {{speed}} km/hr 379",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221192133,
+        "oldValue": "{{name}} is traveling at {{speed}} km/hr 379",
+        "newValue": "{{name}} is traveling at {{speed}} km/hr 379.2",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221449335,
+        "oldValue": "{{name}} is traveling at {{speed}} km/hr 379.2",
+        "newValue": "{{name}} is traveling at {{speed}} km/hr 379.2.3",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221746832,
+        "oldValue": "{{name}} is traveling at {{speed}} km/hr 379.2.3",
+        "newValue": "{{name}} is traveling at {{speed}} km/hr 379.2.3.4",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1678406034281,
+        "oldValue": "{{name}} is traveling at {{speed}} km/hr 379.2.3.4",
+        "newValue": "{{name}} is traveling at {{speed}} km/hr thursday 3/9",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1692133542326,
+        "oldValue": "{{name}} is traveling at {{speed}} km/hr thursday 3/9",
+        "newValue": "{{name}} is switching to main at {{speed}} parsecs/decade",
+        "explanation": null
+      }
+    ]
+  },
+  "chains.title": {
+    "value": "Chains 1/24/2024",
+    "history": [
+      {
+        "userId": 136803,
+        "timestamp": 1503528770697,
+        "oldValue": "",
+        "newValue": "Chain Mail",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1503531143798,
+        "oldValue": "Chain Mail",
+        "newValue": "Chain Mail (for knights)",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1576613472100,
+        "oldValue": "Chain Mail (for knights)",
+        "newValue": "Unchained Melody",
+        "explanation": null
+      },
+      {
+        "userId": 232337,
+        "timestamp": 1593147358128,
+        "oldValue": "Unchained Melody",
+        "newValue": "Chainss",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1607620952246,
+        "oldValue": "Chainss",
+        "newValue": "OH NO IT'S CHAINS"
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1607641384637,
+        "oldValue": "OH NO IT'S CHAINS",
+        "newValue": "hello"
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1609730999453,
+        "oldValue": "hello",
+        "newValue": "Father Chains",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1647188389674,
+        "oldValue": "Father Chains",
+        "newValue": "You got the key!"
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1652995674361,
+        "oldValue": "You got the key!",
+        "newValue": ""
+      },
+      {
+        "userId": 232337,
+        "timestamp": 1662745524031,
+        "oldValue": "",
+        "newValue": "Chainzzz"
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1676500892170,
+        "oldValue": "Chainzzz",
+        "newValue": "Chain of Fools",
+        "explanation": null
+      },
+      {
+        "userId": "464468",
+        "timestamp": 1677880892120,
+        "oldValue": "Chain of Fools",
+        "newValue": "Please save me.",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678213127832,
+        "oldValue": "Please save me.",
+        "newValue": "Chains 379",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1678221192133,
+        "oldValue": "Chains 379",
+        "newValue": "Chains 379.2",
+        "explanation": null
+      },
+      {
+        "userId": 464468,
+        "timestamp": 1678406034281,
+        "oldValue": "Chains 379.2",
+        "newValue": "Chains thursday 3/9",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1694208802852,
+        "oldValue": "Chains thursday 3/9",
+        "newValue": "Chains Friday 9/8/2023",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1695655532537,
+        "oldValue": "Chains Friday 9/8/2023",
+        "newValue": "Chains 9/25/2023",
+        "explanation": null
+      },
+      {
+        "userId": 136803,
+        "timestamp": 1706134517727,
+        "oldValue": "Chains 9/25/2023",
+        "newValue": "Chains 1/24/2024",
+        "explanation": null
+      }
+    ]
+  }
+}

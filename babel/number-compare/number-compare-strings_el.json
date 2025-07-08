@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Σύγκριση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1651496744967,
+        "oldValue": "",
+        "newValue": "Σύγκριση"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} είναι μικρότερο από {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1651496744967,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} είναι μικρότερο από {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} είναι μεγαλύτερο από  {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1651496744967,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} είναι μεγαλύτερο από  {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} είναι ίσο με {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1651496744967,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} είναι ίσο με {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Σύγκριση αριθμών",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682533780441,
+        "oldValue": "",
+        "newValue": "Σύγκριση αριθμών"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Αυτόματη εκφώνηση αριθμών",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682533780441,
+        "oldValue": "",
+        "newValue": "Αυτόματη εκφώνηση αριθμών"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Ακούστε την ενημερωμένη εκφώνηση αριθμών καθώς αλληλεπιδράτε.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682533780441,
+        "oldValue": "",
+        "newValue": "Ακούστε την ενημερωμένη εκφώνηση αριθμών καθώς αλληλεπιδράτε."
+      }
+    ]
+  }
+}

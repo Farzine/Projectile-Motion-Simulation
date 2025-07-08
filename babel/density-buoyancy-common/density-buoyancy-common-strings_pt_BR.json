@@ -1,0 +1,1904 @@
+{
+  "material.air": {
+    "value": "ar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Ar"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Ar",
+        "newValue": "ar",
+        "explanation": null
+      }
+    ]
+  },
+  "material.aluminum": {
+    "value": "alumínio",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "alumínio"
+      }
+    ]
+  },
+  "material.apple": {
+    "value": "maçã",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "maçã"
+      }
+    ]
+  },
+  "average": {
+    "value": "média",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "média"
+      }
+    ]
+  },
+  "blocks": {
+    "value": "Blocos",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Blocos"
+      }
+    ]
+  },
+  "material.brick": {
+    "value": "tijolo",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "tijolo"
+      }
+    ]
+  },
+  "material.cement": {
+    "value": "cimento",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "cimento"
+      }
+    ]
+  },
+  "material.copper": {
+    "value": "cobre",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "cobre"
+      }
+    ]
+  },
+  "material.custom": {
+    "value": "personalizar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "personalizado"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1686350979683,
+        "oldValue": "personalizado",
+        "newValue": "personalizar",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity.custom": {
+    "value": "personalizada",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "personalizada"
+      }
+    ]
+  },
+  "density": {
+    "value": "Densidade",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "densidade",
+        "newValue": "Densidade",
+        "explanation": null
+      }
+    ]
+  },
+  "densityReadout": {
+    "value": "densidade (kg/L)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade (kg/L)"
+      }
+    ]
+  },
+  "densityKgL": {
+    "value": "densidade (kg/L)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade (kg/L)"
+      }
+    ]
+  },
+  "densityTable": {
+    "value": "Tabela de Densidade",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Tabela de Densidade"
+      }
+    ]
+  },
+  "material.diamond": {
+    "value": "diamante",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "diamante"
+      }
+    ]
+  },
+  "gravity.earth": {
+    "value": "Terra",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Terra"
+      }
+    ]
+  },
+  "material.gasoline": {
+    "value": "gasolina",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "gasolina"
+      }
+    ]
+  },
+  "material.glass": {
+    "value": "vidro",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "vidro"
+      }
+    ]
+  },
+  "material.gold": {
+    "value": "ouro",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "ouro"
+      }
+    ]
+  },
+  "material.honey": {
+    "value": "mel",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "mel"
+      }
+    ]
+  },
+  "material.human": {
+    "value": "humano",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "humano"
+      }
+    ]
+  },
+  "material.ice": {
+    "value": "gelo",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "gelo"
+      }
+    ]
+  },
+  "gravity.jupiter": {
+    "value": "Júpiter",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Júpiter"
+      }
+    ]
+  },
+  "material.lead": {
+    "value": "chumbo",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "chumbo"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Massa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "massa"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "massa",
+        "newValue": "Massa",
+        "explanation": null
+      }
+    ]
+  },
+  "material.name": {
+    "value": "material",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "material"
+      }
+    ]
+  },
+  "material.mercury": {
+    "value": "mercúrio",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Mercúrio"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "Mercúrio",
+        "newValue": "mercúrio",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity.moon": {
+    "value": "Lua",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Lua"
+      }
+    ]
+  },
+  "material.oil": {
+    "value": "óleo",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "óleo"
+      }
+    ]
+  },
+  "gravity.planetX": {
+    "value": "Planeta X",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "Planeta X"
+      }
+    ]
+  },
+  "material.platinum": {
+    "value": "platina",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "platina"
+      }
+    ]
+  },
+  "material.pyrite": {
+    "value": "pirita",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "pirita"
+      }
+    ]
+  },
+  "blockSet.random": {
+    "value": "aleatório",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "aleatório"
+      }
+    ]
+  },
+  "blockSet.sameDensity": {
+    "value": "densidades iguais",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidades iguais"
+      }
+    ]
+  },
+  "blockSet.sameMass": {
+    "value": "massas iguais",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "massas iguais"
+      }
+    ]
+  },
+  "blockSet.sameVolume": {
+    "value": "volumes iguais",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "volumes iguais"
+      }
+    ]
+  },
+  "material.sand": {
+    "value": "areia",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "areia"
+      }
+    ]
+  },
+  "material.seawater": {
+    "value": "água do mar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "água do mar"
+      }
+    ]
+  },
+  "blockSet.set1": {
+    "value": "conjunto 1",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "conjunto 1"
+      }
+    ]
+  },
+  "blockSet.set2": {
+    "value": "conjunto 2",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "conjunto 2"
+      }
+    ]
+  },
+  "blockSet.set3": {
+    "value": "conjunto 3",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "conjunto 3"
+      }
+    ]
+  },
+  "material.silver": {
+    "value": "prata",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "prata"
+      }
+    ]
+  },
+  "material.steel": {
+    "value": "aço",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422290,
+        "oldValue": "",
+        "newValue": "aço"
+      }
+    ]
+  },
+  "material.styrofoam": {
+    "value": "isopor",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422290,
+        "oldValue": "",
+        "newValue": "isopor"
+      }
+    ]
+  },
+  "material.tantalum": {
+    "value": "tântalo",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422290,
+        "oldValue": "",
+        "newValue": "tântalo"
+      }
+    ]
+  },
+  "material.titanium": {
+    "value": "titânio",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422290,
+        "oldValue": "",
+        "newValue": "titânio"
+      }
+    ]
+  },
+  "volume": {
+    "value": "Volume",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422290,
+        "oldValue": "",
+        "newValue": "volume"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "volume",
+        "newValue": "Volume",
+        "explanation": null
+      }
+    ]
+  },
+  "material.water": {
+    "value": "água",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422290,
+        "oldValue": "",
+        "newValue": "água"
+      }
+    ]
+  },
+  "material.wood": {
+    "value": "madeira",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422290,
+        "oldValue": "",
+        "newValue": "madeira"
+      }
+    ]
+  },
+  "kilogramsPattern": {
+    "value": "{{kilograms}} kg",
+    "history": [
+      {
+        "userId": 1006020,
+        "timestamp": 1666057882606,
+        "oldValue": "",
+        "newValue": "{{kilograms}} kg"
+      }
+    ]
+  },
+  "litersPattern": {
+    "value": "{{liters}} L",
+    "history": [
+      {
+        "userId": 1006020,
+        "timestamp": 1666057882606,
+        "oldValue": "",
+        "newValue": "{{liters}} L"
+      }
+    ]
+  },
+  "newtonsPattern": {
+    "value": "{{newtons}} N",
+    "history": [
+      {
+        "userId": 1006020,
+        "timestamp": 1666057882606,
+        "oldValue": "",
+        "newValue": "{{newtons}} N"
+      }
+    ]
+  },
+  "kilogramsPerLiterPattern": {
+    "value": "{{value}} kg/L",
+    "history": [
+      {
+        "userId": 1006020,
+        "timestamp": 1666057882606,
+        "oldValue": "",
+        "newValue": "{{value}} kg/L"
+      }
+    ]
+  },
+  "material.densityP": {
+    "value": "densidade P",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade P"
+      }
+    ]
+  },
+  "material.densityQ": {
+    "value": "densidade Q",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade Q"
+      }
+    ]
+  },
+  "material.densityR": {
+    "value": "densidade R",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade R"
+      }
+    ]
+  },
+  "material.densityS": {
+    "value": "densidade S",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade S"
+      }
+    ]
+  },
+  "material.densityX": {
+    "value": "densidade X",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade X"
+      }
+    ]
+  },
+  "material.densityY": {
+    "value": "densidade Y",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1642622422289,
+        "oldValue": "",
+        "newValue": "densidade Y"
+      }
+    ]
+  },
+  "massLabel.primary": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "massLabel.secondary": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "massLabel.1a": {
+    "value": "1A",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "1A"
+      }
+    ]
+  },
+  "massLabel.1b": {
+    "value": "1B",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "1B"
+      }
+    ]
+  },
+  "massLabel.1c": {
+    "value": "1C",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "1C"
+      }
+    ]
+  },
+  "massLabel.1d": {
+    "value": "1D",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "1D"
+      }
+    ]
+  },
+  "massLabel.1e": {
+    "value": "1E",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "1E"
+      }
+    ]
+  },
+  "massLabel.2a": {
+    "value": "2A",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "2A"
+      }
+    ]
+  },
+  "massLabel.2b": {
+    "value": "2B",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "2B"
+      }
+    ]
+  },
+  "massLabel.2c": {
+    "value": "2C",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "2C"
+      }
+    ]
+  },
+  "massLabel.2d": {
+    "value": "2D",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "2D"
+      }
+    ]
+  },
+  "massLabel.2e": {
+    "value": "2E",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "2E"
+      }
+    ]
+  },
+  "massLabel.3a": {
+    "value": "3A",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "3A"
+      }
+    ]
+  },
+  "massLabel.3b": {
+    "value": "3B",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "3B"
+      }
+    ]
+  },
+  "massLabel.3c": {
+    "value": "3C",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "3C"
+      }
+    ]
+  },
+  "massLabel.3d": {
+    "value": "3D",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "3D"
+      }
+    ]
+  },
+  "massLabel.3e": {
+    "value": "3E",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "3E"
+      }
+    ]
+  },
+  "massLabel.a": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "massLabel.b": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "massLabel.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "massLabel.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "massLabel.e": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586478261,
+        "oldValue": "",
+        "newValue": "E"
+      }
+    ]
+  },
+  "densityReadoutDecimetersCubed": {
+    "value": "Densidade (kg/dm<sup>3</sup>)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Densidade (kg/dm<sup>3</sup>)"
+      }
+    ]
+  },
+  "volumeUnits": {
+    "value": "Unidades de volume:",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Unidades de volume:"
+      }
+    ]
+  },
+  "liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "decimetersCubed": {
+    "value": "dm<sup>3</sup>",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "dm<sup>3</sup>"
+      }
+    ]
+  },
+  "decimetersCubedPattern": {
+    "value": "{{decimetersCubed}} dm<sup>3</sup>",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "{{decimetersCubed}} dm<sup>3</sup>"
+      }
+    ]
+  },
+  "kilogramsPerDecimeterCubedPattern": {
+    "value": "{{value}} kg/dm<sup>3</sup>",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "{{value}} kg/dm<sup>3</sup>"
+      }
+    ]
+  },
+  "material.densityA": {
+    "value": "Densidade A",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Densidade A"
+      }
+    ]
+  },
+  "material.densityB": {
+    "value": "Densidade B",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Densidade B"
+      }
+    ]
+  },
+  "material.densityC": {
+    "value": "Densidade C",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Densidade C"
+      }
+    ]
+  },
+  "material.densityD": {
+    "value": "Densidade D",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Densidade D"
+      }
+    ]
+  },
+  "material.densityE": {
+    "value": "Densidade E",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Densidade E"
+      }
+    ]
+  },
+  "material.densityF": {
+    "value": "Densidade F",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "Densidade F"
+      }
+    ]
+  },
+  "densityKgdm3": {
+    "value": "densidade (kg/dm<sup>3</sup>)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1686350879737,
+        "oldValue": "",
+        "newValue": "densidade (kg/dm<sup>3</sup>)"
+      }
+    ]
+  },
+  "preferences.percentSubmerged.title": {
+    "value": "Percentual Submerso",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Percentual Submerso"
+      }
+    ]
+  },
+  "preferences.percentSubmerged.description": {
+    "value": "Mostrar a porcentagem do objeto submerso no fluido.",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Mostrar a porcentagem do objeto submerso no fluido."
+      }
+    ]
+  },
+  "itemTitlecase": {
+    "value": "Item",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Item"
+      }
+    ]
+  },
+  "itemLowercase": {
+    "value": "item",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "item"
+      }
+    ]
+  },
+  "objectDensity": {
+    "value": "Densidade do Objeto",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Densidade do Objeto"
+      }
+    ]
+  },
+  "blockPattern": {
+    "value": "bloco {{tag}}",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Block {{tag}}"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Block {{tag}}",
+        "newValue": "bloco {{tag}}",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.block": {
+    "value": "Bloco",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Bloco"
+      }
+    ]
+  },
+  "N": {
+    "value": "N",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "N"
+      }
+    ]
+  },
+  "densityComparison": {
+    "value": "Comparar Densidades",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Comparação de Densidade"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Comparação de Densidade",
+        "newValue": "Comparar Densidades",
+        "explanation": null
+      }
+    ]
+  },
+  "bottle": {
+    "value": "Garrafa",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Garrafa"
+      }
+    ]
+  },
+  "boat": {
+    "value": "Barco",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Barco"
+      }
+    ]
+  },
+  "shapeTagPattern": {
+    "value": "Shape {{tag}}",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Shape {{tag}}"
+      }
+    ]
+  },
+  "material.pvc": {
+    "value": "PVC",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "PVC"
+      }
+    ]
+  },
+  "material.boatHull": {
+    "value": "casco do barco",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Casco do Barco"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Casco do Barco",
+        "newValue": "casco do barco",
+        "explanation": null
+      }
+    ]
+  },
+  "material.concrete": {
+    "value": "concreto",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Concreto"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Concreto",
+        "newValue": "concreto",
+        "explanation": null
+      }
+    ]
+  },
+  "material.fluidA": {
+    "value": "fluido A",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido A"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Fluido A",
+        "newValue": "fluido A",
+        "explanation": null
+      }
+    ]
+  },
+  "material.fluidB": {
+    "value": "fluido B",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido B"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Fluido B",
+        "newValue": "fluido B",
+        "explanation": null
+      }
+    ]
+  },
+  "material.fluidC": {
+    "value": "fluido C",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido C"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Fluido C",
+        "newValue": "fluido C",
+        "explanation": null
+      }
+    ]
+  },
+  "material.fluidD": {
+    "value": "fluido D",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido D"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Fluido D",
+        "newValue": "fluido D",
+        "explanation": null
+      }
+    ]
+  },
+  "material.fluidE": {
+    "value": "fluido E",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido E"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Fluido E",
+        "newValue": "fluido E",
+        "explanation": null
+      }
+    ]
+  },
+  "material.fluidF": {
+    "value": "fluido F",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido F"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Fluido F",
+        "newValue": "fluido F",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialR": {
+    "value": "material R",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material R"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material R",
+        "newValue": "material R",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialS": {
+    "value": "material S",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material S"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material S",
+        "newValue": "material S",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialT": {
+    "value": "material T",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material T"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material T",
+        "newValue": "material T",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialU": {
+    "value": "material U",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material U"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material U",
+        "newValue": "material U",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialV": {
+    "value": "material V",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material V"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material V",
+        "newValue": "material V",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialW": {
+    "value": "material W",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material W"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material W",
+        "newValue": "material W",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialX": {
+    "value": "material X",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material X"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material X",
+        "newValue": "material X",
+        "explanation": null
+      }
+    ]
+  },
+  "material.materialY": {
+    "value": "material Y",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material Y"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "Material Y",
+        "newValue": "material Y",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "percentSubmerged": {
+    "value": "% Submersa",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "% Submerso"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1734037280927,
+        "oldValue": "% Submerso",
+        "newValue": "% Submersa",
+        "explanation": null
+      }
+    ]
+  },
+  "valuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "whatIsTheValueOfGravity": {
+    "value": "Qual é o valor da gravidade?",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Qual é o valor da gravidade?"
+      }
+    ]
+  },
+  "gravity.name": {
+    "value": "Gravidade",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Gravidade"
+      }
+    ]
+  },
+  "metersPerSecondSquaredPattern": {
+    "value": "{{value}} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "{{value}} m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "systemA": {
+    "value": "Sistema A",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Sistema A"
+      }
+    ]
+  },
+  "fluidDisplaced": {
+    "value": "Fluido Deslocado",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido Deslocado"
+      }
+    ]
+  },
+  "fluid": {
+    "value": "Fluido",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Fluido"
+      }
+    ]
+  },
+  "boatVolume": {
+    "value": "Volume do Barco",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Volume do Barco"
+      }
+    ]
+  },
+  "materialInside": {
+    "value": "Material Interno",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Material Interno"
+      }
+    ]
+  },
+  "airVolume": {
+    "value": "Volume de Ar",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Volume de Ar"
+      }
+    ]
+  },
+  "shape.ellipsoid": {
+    "value": "Elipsoide",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Elipsoide"
+      }
+    ]
+  },
+  "shape.verticalCylinder": {
+    "value": "Cilindro Vertical",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Cilindro Vertical"
+      }
+    ]
+  },
+  "shape.horizontalCylinder": {
+    "value": "Cilindro Horizontal",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Cilindro Horizontal"
+      }
+    ]
+  },
+  "shape.cone": {
+    "value": "Cone",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Cone"
+      }
+    ]
+  },
+  "shape.invertedCone": {
+    "value": "Cone Invertido",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Cone Invertido"
+      }
+    ]
+  },
+  "shape.duck": {
+    "value": "Pato",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Pato"
+      }
+    ]
+  },
+  "shapesInfoDialog": {
+    "value": "Esta simulação é limitada a forças verticais, sem considerar torque. As rotações dos objetos e outros movimentos mais complexos não são considerados no modelo.",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Esta simulação é limitada a forças verticais, sem considerar torque. As rotações dos objetos e outros movimentos mais complexos não são considerados no modelo."
+      }
+    ]
+  },
+  "height": {
+    "value": "Altura",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Altura"
+      }
+    ]
+  },
+  "radius": {
+    "value": "Raio",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Raio"
+      }
+    ]
+  },
+  "width": {
+    "value": "Largura",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Largura"
+      }
+    ]
+  },
+  "widthAndDepth": {
+    "value": "Largura e Profundidade",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Largura e Profundidade"
+      }
+    ]
+  },
+  "forces": {
+    "value": "Forças",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Forças"
+      }
+    ]
+  },
+  "buoyancy": {
+    "value": "Flutuabilidade",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Flutuabilidade"
+      }
+    ]
+  },
+  "contact": {
+    "value": "Contato",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Contato"
+      }
+    ]
+  },
+  "vectorZoom": {
+    "value": "Zoom do Vetor",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Zoom do Vetor"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Valores de Força",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Valores de Força"
+      }
+    ]
+  },
+  "massValues": {
+    "value": "Valores de Massa",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Valores de Massa"
+      }
+    ]
+  },
+  "depthLines": {
+    "value": "Linhas de Profundidade",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Linhas de Profundidade"
+      }
+    ]
+  },
+  "nameColonPattern": {
+    "value": "{{name}}:",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "{{name}}:"
+      }
+    ]
+  },
+  "whatIsTheFluidDensity": {
+    "value": "Qual é a densidade do fluido?",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Qual é a densidade do fluido?"
+      }
+    ]
+  },
+  "fluidDensity": {
+    "value": "Densidade do Fluido",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Densidade do Fluido"
+      }
+    ]
+  },
+  "whatIsTheMaterial": {
+    "value": "Qual é este material?",
+    "history": [
+      {
+        "userId": 924856,
+        "timestamp": 1728520483264,
+        "oldValue": "",
+        "newValue": "Qual é este material?"
+      }
+    ]
+  }
+}

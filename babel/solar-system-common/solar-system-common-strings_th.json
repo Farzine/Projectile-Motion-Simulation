@@ -1,0 +1,184 @@
+{
+  "units.years": {
+    "value": "ปี",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1670285789521,
+        "oldValue": "",
+        "newValue": "ปี"
+      }
+    ]
+  },
+  "clear": {
+    "value": "ล้างข้อมูล",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1670285789521,
+        "oldValue": "",
+        "newValue": "ล้าง"
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1670291416577,
+        "oldValue": "ล้าง",
+        "newValue": "ล้างข้อมูล"
+      }
+    ]
+  },
+  "grid": {
+    "value": "กริด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1670285789521,
+        "oldValue": "",
+        "newValue": "กริด"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "แถบวัดระยะ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1670285789521,
+        "oldValue": "",
+        "newValue": "แถบวัดระยะ"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "แรงดึงดูด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1670285789521,
+        "oldValue": "",
+        "newValue": "แรงดึงดูด"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "ความเร็ว",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1670285789521,
+        "oldValue": "",
+        "newValue": "ความเร็ว"
+      }
+    ]
+  },
+  "path": {
+    "value": "เส้นทาง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1670285789521,
+        "oldValue": "",
+        "newValue": "เส้นทาง"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "เวกเตอร์ของบางแรงน้อยมากจนไม่สามารถแสดงได้",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473538122,
+        "oldValue": "",
+        "newValue": "เวกเตอร์ของบางแรงน้อยมากจนไม่สามารถแสดงได้"
+      }
+    ]
+  },
+  "speed": {
+    "value": "อัตราเร็ว (km/s)",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473538122,
+        "oldValue": "",
+        "newValue": "อัตราเร็ว (km/s)"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "ซูม:",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1696473538122,
+        "oldValue": "",
+        "newValue": "ซูม:"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1730119919050,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1730119919050,
+        "oldValue": "",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1730119919050,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1730119919050,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1730119919050,
+        "oldValue": "",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1730119919050,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

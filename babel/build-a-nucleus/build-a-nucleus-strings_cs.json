@@ -1,0 +1,563 @@
+{
+  "decay": {
+    "value": "Rozpad",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Rozpad"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "Mrak elektronů",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Mrak elektronů"
+      }
+    ]
+  },
+  "stable": {
+    "value": "Stabilní",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Stabilní"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "Nestabilní",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Nestabilní"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "α rozpad",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "α rozpad"
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "β<sup>-</sup> rozpad",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "β<sup>-</sup> rozpad"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "β<sup>+</sup> rozpad",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "β<sup>+</sup> rozpad"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "Emise protonů",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Emise protonů"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "Emise neutronů",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Emise neutronů"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "méně stabilní",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "méně stabilní"
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "více stabilní",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "více stabilní"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "Dostupné rozpady",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Dostupné rozpady"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "I když mohou existovat i jiné rozpady, uvedené dostupné rozpady jsou nejběžnější. V případech, kdy není znám žádný rozpad, nejsou uvedeny žádné dostupné rozpady.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "I když mohou existovat i jiné rozpady, uvedené dostupné rozpady jsou nejběžnější. V případech, kdy není znám žádný rozpad, nejsou uvedeny žádné dostupné rozpady."
+      }
+    ]
+  },
+  "protons": {
+    "value": "Protony",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Protony"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "Neutrony",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Neutrony"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "neutrony",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "neutrony"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "netvoří",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "netvoří"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "Shluk {{neutronNumber}} neutronů",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Shluk {{neutronNumber}} neutronů"
+      }
+    ]
+  },
+  "electron": {
+    "value": "Elektron",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Elektron"
+      }
+    ]
+  },
+  "positron": {
+    "value": "Pozitron",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Pozitron"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "Poločas",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Poločas"
+      }
+    ]
+  },
+  "unknown": {
+    "value": "Neznámý",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Neznámý"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "sekund",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "sekund"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "Časová osa poločasů",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Časová osa poločasů"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "Protony",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Protony"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "Neutrony",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Neutrony"
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "Doba, za kterou světlo proletí jádrem",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Doba, za kterou světlo proletí jádrem"
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "Doba, za kterou světlo proletí atomem",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Doba, za kterou světlo proletí atomem"
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "Doba, za kterou světlo proletí 1000 atomy",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Doba, za kterou světlo proletí 1000 atomy"
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "Doba, za kterou světlo urazí 1 m",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Doba, za kterou světlo urazí 1 m"
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "Okamžik",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Okamžik"
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "Jedna minuta",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Jedna minuta"
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "Jeden rok",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Jeden rok"
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "Průměrná délka lidského života",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Průměrná délka lidského života"
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "Stáří vesmíru",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Stáří vesmíru"
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "Doba života nejdéle existujících hvězd",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "- Doba života nejdéle existujících hvězd"
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "Vytvoření jádra",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1670706913520,
+        "oldValue": "",
+        "newValue": "Vytvoření jádra"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "Rozpad",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Rozpad"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "Úvod do diagramu",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Úvod do diagramu"
+      }
+    ]
+  },
+  "energy": {
+    "value": "Energie",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Energie"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "Magická čísla",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Magická čísla"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "Částečný nuklidový diagram",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Částečný nuklidový diagram"
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "Úplný interaktivní diagram nuklidů a jejich rozpadů je k dispozici v rámci projektu Energy Education Project na University of Calgary, viz {{link}}.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Úplný interaktivní diagram nuklidů a jejich rozpadů je k dispozici v rámci projektu Energy Education Project na University of Calgary, viz {{link}}."
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "celý diagram",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "celý diagram"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "Celý diagram nuklidů",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Celý diagram nuklidů"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "Celý diagram",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Celý diagram"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "Slupkový model jádra",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Slupkový model jádra"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "Protonové číslo",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Protonové číslo"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "Neutronové číslo",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Neutronové číslo"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "Nejpravděpodobnější typ rozpadu",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1698245592588,
+        "oldValue": "",
+        "newValue": "Nejpravděpodobnější typ rozpadu"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "neznámý{{space}}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1751866822829,
+        "oldValue": "",
+        "newValue": "neznámý{{space}}"
+      }
+    ]
+  }
+}

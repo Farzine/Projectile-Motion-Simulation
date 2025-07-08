@@ -1,0 +1,188 @@
+{
+  "apple": {
+    "value": "Æble",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Æble",
+        "explanation": null
+      }
+    ]
+  },
+  "appleCost": {
+    "value": "Pris på æble",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Pris på æble",
+        "explanation": null
+      }
+    ]
+  },
+  "apples": {
+    "value": "Æbler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Æbler",
+        "explanation": null
+      }
+    ]
+  },
+  "costPerApple": {
+    "value": "Pris pr. æble",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Pris pr. æble",
+        "explanation": null
+      }
+    ]
+  },
+  "length": {
+    "value": "Længde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Længde",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern": {
+    "value": "Mønster",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Tern",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1496336671090,
+        "oldValue": "Tern",
+        "newValue": "Mønster",
+        "explanation": null
+      }
+    ]
+  },
+  "pricePattern": {
+    "value": "{{price}} Kr.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "${{pris}}",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1496337201394,
+        "oldValue": "${{pris}}",
+        "newValue": "${{price}}",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1496473166269,
+        "oldValue": "${{price}}",
+        "newValue": "{{price}} Kr.",
+        "explanation": null
+      }
+    ]
+  },
+  "proportion-playground.title": {
+    "value": "Proportions-legeplads",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336671090,
+        "oldValue": "",
+        "newValue": "Størrelses-legeplads",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1496491781151,
+        "oldValue": "Størrelses-legeplads",
+        "newValue": "Proportions-legeplads",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Opdag",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Opdag",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.predict": {
+    "value": "Forudsig",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Forudsi",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1496336671090,
+        "oldValue": "Forudsi",
+        "newValue": "Forudsig",
+        "explanation": null
+      }
+    ]
+  },
+  "totalCost": {
+    "value": "Samlet pris",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Total pris",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1496337201394,
+        "oldValue": "Total pris",
+        "newValue": "Samlet pris",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Bredde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1496336001910,
+        "oldValue": "",
+        "newValue": "Bredde",
+        "explanation": null
+      }
+    ]
+  }
+}

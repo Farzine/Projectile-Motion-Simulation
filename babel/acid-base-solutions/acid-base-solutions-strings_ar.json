@@ -1,0 +1,395 @@
+{
+  "pattern.0label.1value": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256923,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256923,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256923,
+        "oldValue": "",
+        "newValue": "{0}{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256923,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1power": {
+    "value": "{0} x 10<sup>{1}</sup>",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256923,
+        "oldValue": "",
+        "newValue": "{0} x 10<sup>{1}</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "negligible": {
+    "value": "مهمل",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256923,
+        "oldValue": "",
+        "newValue": "مهمل",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "التركيز عند التوازن (مول/ل)",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256923,
+        "oldValue": "",
+        "newValue": "التركيز عند التوازن (mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 576246,
+        "timestamp": 1533458994617,
+        "oldValue": "التركيز عند التوازن (mol/L)",
+        "newValue": "التركيز عند التوازن (مول/ل)",
+        "explanation": null
+      }
+    ]
+  },
+  "graph": {
+    "value": "رسم بياني",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "رسم بياني",
+        "explanation": null
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "إخفاء",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "إخفاء",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules": {
+    "value": "جزيئات",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "جزيئات",
+        "explanation": null
+      }
+    ]
+  },
+  "solvent": {
+    "value": "المذيب",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "المذيب",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "المحلول",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "المحلول",
+        "explanation": null
+      }
+    ]
+  },
+  "tools": {
+    "value": "أدوات",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "أدوات",
+        "explanation": null
+      }
+    ]
+  },
+  "views": {
+    "value": "مشاهد",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "مشاهد",
+        "explanation": null
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "pH مفتاح لون",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "pH مفتاح لون",
+        "explanation": null
+      }
+    ]
+  },
+  "stronger": {
+    "value": "أقوى",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "أقوى",
+        "explanation": null
+      }
+    ]
+  },
+  "weaker": {
+    "value": "أضعف",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "أضعف",
+        "explanation": null
+      }
+    ]
+  },
+  "acid": {
+    "value": "حمض",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "حمض",
+        "explanation": null
+      }
+    ]
+  },
+  "base": {
+    "value": "قلوي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "قلوي",
+        "explanation": null
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "التركيز في البداية (مول/ل):",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "التركيز في البداية (mol/L):",
+        "explanation": null
+      },
+      {
+        "userId": 576246,
+        "timestamp": 1533458994617,
+        "oldValue": "التركيز في البداية (mol/L):",
+        "newValue": "التركيز في البداية (مول/ل):",
+        "explanation": null
+      }
+    ]
+  },
+  "strength": {
+    "value": " القوة:",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": ": القوة",
+        "explanation": null
+      },
+      {
+        "userId": 576246,
+        "timestamp": 1533459616751,
+        "oldValue": ": القوة",
+        "newValue": " القوة:",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "قوي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "قوي",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "ضعيف",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "ضعيف",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "محلولي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "محلولي",
+        "explanation": null
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "حمض قوي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "حمض قوي",
+        "explanation": null
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "قلوي قوي",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "قلوي قوي",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "ماء",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "ماء",
+        "explanation": null
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "حمض ضعيف",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "حمض ضعيف",
+        "explanation": null
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "قلوي ضعيف",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "قلوي ضعيف",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "المقدمة",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "المقدمة",
+        "explanation": null
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "محاليل حمض-قلوي ",
+    "history": [
+      {
+        "userId": 192293,
+        "timestamp": 1449944256924,
+        "oldValue": "",
+        "newValue": "محاليل حمض-قلوي ",
+        "explanation": null
+      }
+    ]
+  }
+}

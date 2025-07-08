@@ -1,0 +1,150 @@
+{
+  "equation": {
+    "value": "Equation",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Jednačina",
+        "explanation": null
+      },
+      {
+        "userId": 237975,
+        "timestamp": 1576977682092,
+        "oldValue": "Jednačina",
+        "newValue": "Equation",
+        "explanation": null
+      }
+    ]
+  },
+  "levelTitlePattern": {
+    "value": "Niveau {{number}}",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Nivo {{number}}",
+        "explanation": null
+      },
+      {
+        "userId": 237975,
+        "timestamp": 1576977682092,
+        "oldValue": "Nivo {{number}}",
+        "newValue": "Niveau {{number}}",
+        "explanation": null
+      }
+    ]
+  },
+  "representationMax": {
+    "value": "Maximum",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Maksimum",
+        "explanation": null
+      },
+      {
+        "userId": 237975,
+        "timestamp": 1576977682092,
+        "oldValue": "Maksimum",
+        "newValue": "Maximum",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumber": {
+    "value": "Nombres mélangés",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Mješoviti brojevi",
+        "explanation": null
+      },
+      {
+        "userId": 237975,
+        "timestamp": 1576977682092,
+        "oldValue": "Mješoviti brojevi",
+        "newValue": "Nombres mélangés",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Odaberi nivo!",
+    "history": [
+      {
+        "userId": 148734,
+        "timestamp": 1549394409166,
+        "oldValue": "",
+        "newValue": "Odaberi nivo!",
+        "explanation": null
+      }
+    ]
+  },
+  "myMatches": {
+    "value": "Mes équivalences",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1468266465105,
+        "oldValue": "",
+        "newValue": "Mes équivalences",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "ok": {
+    "value": "Ok",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1468266465105,
+        "oldValue": "",
+        "newValue": "Ok",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "timeNumberSec": {
+    "value": "Temps: {0} sec",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1468266465105,
+        "oldValue": "",
+        "newValue": "Temps: {0} sec",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "mixedNumbersChooseYourLevel": {
+    "value": "Nombres mixtes: choisir un niveau!",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1468266465105,
+        "oldValue": "",
+        "newValue": "Nombres mixtes: choisir un niveau!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "fractionsChooseYourLevel": {
+    "value": "Fractions: choisir un niveau!",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1468266465105,
+        "oldValue": "",
+        "newValue": "Fractions: choisir un niveau!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  }
+}

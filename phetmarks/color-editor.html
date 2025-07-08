@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<!-- Top-level HTML file for modifying sim colors -->
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1"/>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="phet-sim-level" content="production">
+
+  <title>Color Editor</title>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #888;
+    }
+
+    #color-column {
+      display: inline-block;
+    }
+
+    div {
+      display: inline-block;
+    }
+
+    #sim-iframe {
+      grid-area: sim;
+      position: fixed;
+      right: 10px;
+      top: 10px;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+<div id="main-container">
+  <div id="color-column">
+    <button id="export-button">Export changed colors (console.logged)</button>
+    <br>
+  </div>
+  <iframe id="sim-iframe"></iframe>
+</div>
+
+<script type="text/javascript">
+  const urlParams = new URLSearchParams( window.location.search );
+  const sim = urlParams.get( 'sim' );
+  const suffix = window.location.search || '?brand=phet';
+  document.getElementById( 'sim-iframe' ).setAttribute( 'src', `../${sim}/${sim}_en.html` + suffix );
+
+  const simFrame = document.getElementById( 'sim-iframe' );
+  const colorColumn = document.getElementById( 'color-column' );
+  const exportButton = document.getElementById( 'export-button' );
+  const updateIFrameDimensions = () => {
+    const width = Math.round( window.innerWidth - colorColumn.getBoundingClientRect().width - 30 );
+
+    // Maintain aspect ratio with the dimensions listed in ScreenView.js
+    const height = width / 1024 * 618;
+    simFrame.style.width = `${width}px`;
+    simFrame.style.height = `${height}px`;
+  };
+
+  window.addEventListener( 'resize', updateIFrameDimensions );
+  updateIFrameDimensions();
+
+  // Maps color keys {string} => data object that holds the HTML input and other items
+  const colorInputMap = {};
+
+  // Re-populate all color controls, sorted by color name.
+  const reorganize = () => {
+    colorColumn.innerHTML = '';
+    colorColumn.appendChild( exportButton );
+    colorColumn.appendChild( document.createElement( 'br' ) );
+    Object.keys( colorInputMap ).sort().forEach( name => {
+      colorColumn.appendChild( colorInputMap[ name ].elementDiv );
+    } );
+  };
+
+  // create a new input for a color, and store it in the colorInputMap
+  const reportForColor = ( name, value, alpha ) => {
+    let created = false;
+
+    // Lazily create color inputs, so we don't need an up-front sim-specific list
+    let colorData = colorInputMap[ name ];
+    if ( !colorData ) {
+      created = true;
+
+      const colorInput = document.createElement( 'input' );
+      colorInput.type = 'color';
+
+      const alphaSlider = document.createElement( 'input' );
+
+      const alphaSliderReadout = document.createElement( 'div' );
+      const applyColorToSim = () => {
+        alphaSliderReadout.innerText = alphaSlider.valueAsNumber.toFixed( 2 );
+        document.getElementById( 'sim-iframe' ).contentWindow.postMessage( JSON.stringify( {
+          type: 'setColor',
+          name: name,
+          value: colorInput.value,
+          alpha: alphaSlider.valueAsNumber
+        } ), '*' );
+      };
+      // Send user changes to the sim
+      colorInput.addEventListener( 'input', applyColorToSim );
+
+      // The HTML element that holds the entire control for this color
+      const element = document.createElement( 'span' );
+
+      element.appendChild( colorInput );
+
+      // DUPLICATION ALERT: Copied with code in PhetioElementView.js
+      alphaSlider.style.width = '100px';
+      alphaSlider.type = 'range';
+      alphaSlider.min = '0';
+      alphaSlider.max = '1';
+      alphaSlider.step = '0.01';
+      alphaSlider.value = alpha;
+      alphaSlider.addEventListener( 'input', applyColorToSim );
+      element.appendChild( alphaSliderReadout );
+      element.appendChild( alphaSlider );
+
+      alphaSliderReadout.innerText = alpha.toFixed( 2 );
+
+      element.appendChild( document.createTextNode( ' ' + name ) );
+      element.appendChild( document.createElement( 'br' ) );
+
+      updateIFrameDimensions();
+
+      colorData = {
+        initialColor: value,
+        initialAlpha: alpha,
+        colorInput: colorInput,
+        alphaSlider: alphaSlider,
+        elementDiv: element
+      };
+      colorInputMap[ name ] = colorData;
+    }
+
+    colorData.colorInput.value = value;
+    colorData.alphaSlider.value = alpha;
+    created && reorganize();
+  };
+
+  window.addEventListener( 'message', event => {
+    let data = null;
+    try {
+      data = JSON.parse( event.data );
+    }
+    catch( e ) {
+      // Ignore
+      return;
+    }
+    if ( data?.type === 'reportColor' ) {
+      reportForColor( data.name, data.value, data.alpha );
+    }
+  } );
+
+  exportButton.addEventListener( 'click', () => {
+
+    let report = '';
+    for ( const name in colorInputMap ) {
+      if ( colorInputMap.hasOwnProperty( name ) ) {
+        const data = colorInputMap[ name ];
+        const currentColor = data.colorInput.value;
+        const currentAlpha = data.alphaSlider.valueAsNumber;
+
+        // Don't include any colors that differ from their original color value
+        if ( data.initialColor !== currentColor || data.initialAlpha !== currentAlpha ) {
+
+          // Convert hex to rgb, copied from Color.set()
+          const hexString = currentColor.startsWith( '#' ) ? currentColor.slice( 1 ) : currentColor;
+          const hex = Number( `0x${hexString}` );
+          const red = ( hex >> 16 ) & 0xFF; // eslint-disable-line no-bitwise
+          const green = ( hex >> 8 ) & 0xFF; // eslint-disable-line no-bitwise
+          const blue = ( hex >> 0 ) & 0xFF; // eslint-disable-line no-bitwise
+
+          report += ` ${name}: (${red}, ${green}, ${blue}${currentAlpha !== 1 ? `, ${currentAlpha}` : ''})\n`;
+        }
+      }
+    }
+    console.log( 'Changed Colors:\n' + report );
+  } );
+</script>
+</body>
+</html>

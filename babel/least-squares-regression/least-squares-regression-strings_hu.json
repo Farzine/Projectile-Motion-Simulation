@@ -1,0 +1,999 @@
+{
+  "bestFitLine": {
+    "value": "Illesztőegyenes",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Legjobban illesztő egyenes",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "Legjobban illesztő egyenes",
+        "newValue": "Legjobb illesztőegyenes",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "Legjobb illesztőegyenes",
+        "newValue": "Legjobb illesztés",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633291,
+        "oldValue": "Legjobb illesztés",
+        "newValue": "Illesztőegyenes",
+        "explanation": null
+      }
+    ]
+  },
+  "correlationCoefficient": {
+    "value": "Korrelációs\negyüttható",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Korrelációs\nkoefficiens",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "Korrelációs\nkoefficiens",
+        "newValue": "Korrelációs\negyüttható",
+        "explanation": null
+      }
+    ]
+  },
+  "custom.graphTitle": {
+    "value": "Az én adatpontjaim",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842476,
+        "oldValue": "",
+        "newValue": "Egyéni",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Egyéni",
+        "newValue": "Az én pontjaim",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633290,
+        "oldValue": "Az én pontjaim",
+        "newValue": "Az én adatpontjaim",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.graphTitle": {
+    "value": "Benzinár az USA-ban — idő",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": " Benzinár az USA-ban — idő",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633290,
+        "oldValue": " Benzinár az USA-ban — idő",
+        "newValue": "Benzinár az USA-ban — idő",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.reference": {
+    "value": "Átlagos benzinár alakulása 1979-2014\nközött, infláció figyelembevétele nélkül.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Átlagos benzinár alakulása 1979-2014\nközött, infláció figyelembevétele nélkül.",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.xAxisTitle": {
+    "value": "1979 óta eltelt évek száma",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "1979 óta eltelt évek száma",
+        "explanation": null
+      }
+    ]
+  },
+  "gasolineYear.yAxisTitle": {
+    "value": "Egy gallon ára (USD)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Egy gallon ára (USD)",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.graphTitle": {
+    "value": "Magasság — cipőméret",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Magasság — cipőméret",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.reference": {
+    "value": "A magasság becslése a cipőméret alapján.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "A magasság becslése a cipőméret alapján.",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.xAxisTitle": {
+    "value": "Cipőméret (US)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Cipőméret (US)",
+        "explanation": null
+      }
+    ]
+  },
+  "heightShoe.yAxisTitle": {
+    "value": "Magasság (hüvelyk)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Magasság (hüvelyk)",
+        "explanation": null
+      }
+    ]
+  },
+  "least-squares-regression.title": {
+    "value": "Legkisebb négyzetek módszere",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Legkisebb négyzetek módszere",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.graphTitle": {
+    "value": "Várható élettartam — TV",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Várható élettartam — TV",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.reference": {
+    "value": "Várható élettartam 40 országban az egy TV-re jutó lakosok száma szerint.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Várható élettartam 40 országban az egy TV-re jutó lakosok száma szerint.",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.xAxisTitle": {
+    "value": "Átlagos lakosszám per TV",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Átlagos lakosszám per TV",
+        "explanation": null
+      }
+    ]
+  },
+  "lifeTV.yAxisTitle": {
+    "value": "Várható élettartam (év)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Várható élettartam (év)",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.graphTitle": {
+    "value": "Manátuszmortalitás — idő",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Manátuszmortalitás — idő",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.reference": {
+    "value": "Manátuszmortalitás Floridában 1974-2004 között",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Manátuszmortalitás Floridában 1974-2004 között",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.xAxisTitle": {
+    "value": "1974 óta eltelt évek száma",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "1974 óta eltelt évek száma",
+        "explanation": null
+      }
+    ]
+  },
+  "mortalityYear.yAxisTitle": {
+    "value": "Elpusztult manátuszok éves száma",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Elpusztult manátuszok éves száma",
+        "explanation": null
+      }
+    ]
+  },
+  "myLine": {
+    "value": "Az én egyenesem",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Az én illesztő egyenesem",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "Az én illesztő egyenesem",
+        "newValue": "Az én egyenesem",
+        "explanation": null
+      }
+    ]
+  },
+  "residuals": {
+    "value": "Eltérések",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Eltérések",
+        "explanation": null
+      }
+    ]
+  },
+  "sourcePattern": {
+    "value": "Forrás: {0}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Forrás: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.graphTitle": {
+    "value": "Keringési sebesség — Naptól mért távolság",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Keringési sebesség — Naptól mért távolság",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.reference": {
+    "value": "Bolygók keringési sebessége a Naptól vett távolság szerint",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "",
+        "newValue": "Bolygók pályasebessége a Naptól vett távolság szerint",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "Bolygók pályasebessége a Naptól vett távolság szerint",
+        "newValue": "Bolygók keringési sebessége a Naptól vett távolság szerint",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.xAxisTitle": {
+    "value": "Naptól mért távolság (CsE)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "",
+        "newValue": "Naptól mért távolság (CsE)",
+        "explanation": null
+      }
+    ]
+  },
+  "speedDistance.yAxisTitle": {
+    "value": "Közepes keringési sebesség (km/h)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Közepes keringési sebesség (km/h)",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.graphTitle": {
+    "value": "Fejkvóta — bérek",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Pénzköltés — kereset",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475172016458,
+        "oldValue": "Pénzköltés — kereset",
+        "newValue": "Fejkvóta — bérek",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.reference": {
+    "value": "Átlagtámogatás diákonként a tanári átlagkeresettel\nösszevetve az 50 USA államában, 1986-ban.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagköltés per diák a tanári átlagkeresettel\nösszevetve 50 USA államban 1986-ban.",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475172016458,
+        "oldValue": "Átlagköltés per diák a tanári átlagkeresettel\nösszevetve 50 USA államban 1986-ban.",
+        "newValue": "Átlagtámogatás diákonként a tanári átlagkeresettel\nösszevetve az 50 USA államában, 1986-ban.",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475172102108,
+        "oldValue": "Átlagtámogatás diákonként a tanári átlagkeresettel\nösszevetve az 50 USA államában, 1986-ban.",
+        "newValue": "Átlagtámogatás diákonként a tanári átlagkeresettel\nösszevetve az USA 50 államában, 1986-ban.",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.xAxisTitle": {
+    "value": "Tanári átlagkereset (1000 USD)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Tanári átlagkereset 1000 USD-ben",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475172016458,
+        "oldValue": "Tanári átlagkereset 1000 USD-ben",
+        "newValue": "Tanári átlagkereset (1000 USD)",
+        "explanation": null
+      }
+    ]
+  },
+  "spendingSalary.yAxisTitle": {
+    "value": "Állami támogatás diákonként (1000 USD)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagköltés per diák 1000 USD-ben",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475172016458,
+        "oldValue": "Átlagköltés per diák 1000 USD-ben",
+        "newValue": "Állami támogatás diákonként (1000 USD)",
+        "explanation": null
+      }
+    ]
+  },
+  "squaredResiduals": {
+    "value": "Négyzeteltérések",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Négyzeteltérések",
+        "explanation": null
+      }
+    ]
+  },
+  "sum": {
+    "value": "összeg",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "összeg",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.graphTitle": {
+    "value": "Hőmérséklet (˚C) — tücsökciripelés",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": " Hőmérséklet (˚C) — tücsökciripelés",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633291,
+        "oldValue": " Hőmérséklet (˚C) — tücsökciripelés",
+        "newValue": "Hőmérséklet (˚C) — tücsökciripelés",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.reference": {
+    "value": "15 s alatti tücsökciripelések száma\nösszevetve a hőmérséklettel ",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Tücsökciripelések száma 15 s alatt a hőmérséklettel összevetve",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "Tücsökciripelések száma 15 s alatt a hőmérséklettel összevetve",
+        "newValue": "15 s alatti tücsökciripelések száma\nösszevetve a hőmérséklettel ",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.xAxisTitle": {
+    "value": "Tücsökciripelések száma 15 s alatt",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Tücsökciripelések száma 15 s alatt",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusChirp.yAxisTitle": {
+    "value": "Hőmérséklet (˚C)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": " Hőmérséklet (˚C)",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633291,
+        "oldValue": " Hőmérséklet (˚C)",
+        "newValue": "Hőmérséklet (˚C)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.graphTitle": {
+    "value": "Hőmérséklet (˚C) — földrajzi szélesség",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842476,
+        "oldValue": "",
+        "newValue": "Hőmérséklet (˚C) — földrajzi szélesség",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.reference": {
+    "value": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842476,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "newValue": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.xAxisTitle": {
+    "value": "Szélességi fok",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842476,
+        "oldValue": "",
+        "newValue": "Szélességi fok",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLatitude.yAxisTitle": {
+    "value": "Januári átlaghőmérséklet (˚C)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842476,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet (˚C)",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet (˚C)",
+        "newValue": "Januári átlaghőmérséklet (˚C)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.graphTitle": {
+    "value": "Hőmérséklet (˚C) — földrajzi hosszúság",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Hőmérséklet (˚C) — földrajzi hosszúság",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.reference": {
+    "value": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+        "newValue": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633290,
+        "oldValue": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "newValue": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.xAxisTitle": {
+    "value": "Hosszúsági fok",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Hosszúsági fok",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureCelsiusLongitude.yAxisTitle": {
+    "value": "Januári átlaghőmérséklet (˚C)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet (˚C)",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet (˚C)",
+        "newValue": "Januári átlaghőmérséklet (˚C)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.graphTitle": {
+    "value": "Hőmérséklet (˚F) — tücsökciripelés",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "",
+        "newValue": " Hőmérséklet (˚F) — tücsökciripelés",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633291,
+        "oldValue": " Hőmérséklet (˚F) — tücsökciripelés",
+        "newValue": "Hőmérséklet (˚F) — tücsökciripelés",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.reference": {
+    "value": "15 s alatti tücsökciripelések száma\nösszevetve a hőmérséklettel",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "",
+        "newValue": "15 s alatti tücsökciripelések száma\nösszevetve a hőmérséklettel",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.xAxisTitle": {
+    "value": "Tücsökciripelések száma 15 s alatt",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "",
+        "newValue": "Tücsökciripelések száma 15 s alatt",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitChirp.yAxisTitle": {
+    "value": "Hőmérséklet (˚F)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "",
+        "newValue": " Hőmérséklet (˚F)",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633291,
+        "oldValue": " Hőmérséklet (˚F)",
+        "newValue": "Hőmérséklet (˚F)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.graphTitle": {
+    "value": "Hőmérséklet (˚F) — földrajzi szélesség",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Hőmérséklet (˚F) — földrajzi hosszúság",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633290,
+        "oldValue": "Hőmérséklet (˚F) — földrajzi hosszúság",
+        "newValue": "Hőmérséklet (˚F) — földrajzi szélesség",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.reference": {
+    "value": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "newValue": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi szélesség függvényében.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.xAxisTitle": {
+    "value": "Szélességi fok",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Szélességi fok",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLatitude.yAxisTitle": {
+    "value": "Januári átlaghőmérséklet (˚F)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet (˚F)",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet (˚F)",
+        "newValue": "Januári átlaghőmérséklet (˚F)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.graphTitle": {
+    "value": "Hőmérséklet (˚F) — földrajzi hosszúság",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Hőmérséklet (˚F) — földrajzi hosszúság",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.reference": {
+    "value": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+        "newValue": "Januári átlaghőmérséklet 50 amerikai\nvárosban, a földrajzi hosszúság függvényében.",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.xAxisTitle": {
+    "value": "Hosszúsági fok",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Hosszúsági fok",
+        "explanation": null
+      }
+    ]
+  },
+  "temperatureFahrenheitLongitude.yAxisTitle": {
+    "value": "Januári átlaghőmérséklet (˚F)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Átlagos januári hőmérséklet (˚F)",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341038,
+        "oldValue": "Átlagos januári hőmérséklet (˚F)",
+        "newValue": "Januári átlaghőmérséklet (˚F)",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.graphTitle": {
+    "value": "Internethasználók — idő",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Internethasználók — idő",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.reference": {
+    "value": "Internethasználat világszerte 1990-2010 között",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Internethasználat világszerte 1990-2010 között",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.xAxisTitle": {
+    "value": "1990 óta eltelt évek száma",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "1990 óta eltelt évek száma",
+        "explanation": null
+      }
+    ]
+  },
+  "userYear.yAxisTitle": {
+    "value": "Internethasználók száma (milliárd fő)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475168287914,
+        "oldValue": "",
+        "newValue": "Internethasználók száma (milliárd fő)",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.graphTitle": {
+    "value": "Minimálbér — idő",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Minimálbér — idő",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.reference": {
+    "value": "Inflációval korrigált minimálbér\naz USA-ban 1947-2005 között.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "",
+        "newValue": "Inflációval korrigált minimálbér\naz USA-ban 1947-2005 között.",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.xAxisTitle": {
+    "value": "1947 óta eltelt évek száma",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "1947 óta eltelt évek",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475165341039,
+        "oldValue": "1947 óta eltelt évek",
+        "newValue": "1947 óta eltelt évek száma",
+        "explanation": null
+      }
+    ]
+  },
+  "wageYear.yAxisTitle": {
+    "value": "Inflációval korrigált minimálbér (USD)",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1475132842477,
+        "oldValue": "",
+        "newValue": "Inflációhoz igazított minimálbér (USD)",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1475169633290,
+        "oldValue": "Inflációhoz igazított minimálbér (USD)",
+        "newValue": "Inflációval korrigált minimálbér (USD)",
+        "explanation": null
+      }
+    ]
+  }
+}

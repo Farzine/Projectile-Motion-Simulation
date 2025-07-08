@@ -1,0 +1,677 @@
+{
+  "symbol.intercept": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550471237905,
+        "oldValue": "",
+        "newValue": "b",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.slope": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501565866359,
+        "oldValue": "",
+        "newValue": "k",
+        "explanation": null
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1550471237905,
+        "oldValue": "k",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550471237905,
+        "oldValue": "",
+        "newValue": "x",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550471237905,
+        "oldValue": "",
+        "newValue": "y",
+        "explanation": null
+      }
+    ]
+  },
+  "aCorrectEquation": {
+    "value": "Верное уравнение прямой:",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Верное уравнение:",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1500982835506,
+        "oldValue": "Верное уравнение:",
+        "newValue": "Верное уравнение прямой:",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Выберите уровень",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Выберите уровень",
+        "explanation": null
+      }
+    ]
+  },
+  "eraseLines": {
+    "value": "Стереть прямые",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Стереть график прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Стереть график прямой",
+        "newValue": "Стереть прямую ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Стереть прямую ",
+        "newValue": "Стереть график прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502342847475,
+        "oldValue": "Стереть график прямой",
+        "newValue": "Стереть прямые",
+        "explanation": null
+      }
+    ]
+  },
+  "graphTheLine": {
+    "value": "Построить прямую",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Построй прямую",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501565866359,
+        "oldValue": "Построй прямую",
+        "newValue": "Постройте график линейной функции",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Постройте график линейной функции",
+        "newValue": "Построить прямую",
+        "explanation": null
+      }
+    ]
+  },
+  "graphing-lines.title": {
+    "value": "Уравнение прямой ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Построение графика функции прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501234898320,
+        "oldValue": "Построение графика функции прямой",
+        "newValue": "Уравнение прямой ",
+        "explanation": null
+      }
+    ]
+  },
+  "hideGrid": {
+    "value": "Скрыть сетку",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Скрыть сетку",
+        "explanation": null
+      }
+    ]
+  },
+  "hideLines": {
+    "value": "Скрыть прямые",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Скрыть прямую",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Скрыть прямую",
+        "newValue": "Скрыть прямые",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Скрыть прямые",
+        "newValue": "Скрыть прямую",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502342847475,
+        "oldValue": "Скрыть прямую",
+        "newValue": "Скрыть прямые",
+        "explanation": null
+      }
+    ]
+  },
+  "lineToGraph": {
+    "value": "Постройте график прямой линии:",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Уравнение прямой:",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Уравнение прямой:",
+        "newValue": "Постройте график прямой линии:",
+        "explanation": null
+      }
+    ]
+  },
+  "makeTheEquation": {
+    "value": "Решите уравнение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Составьте уравнение",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1500982835506,
+        "oldValue": "Составьте уравнение",
+        "newValue": "Составьте уравнение прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Составьте уравнение прямой",
+        "newValue": "Решите уравненение",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Решите уравненение",
+        "newValue": "Составьте уравнение прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502342847475,
+        "oldValue": "Составьте уравнение прямой",
+        "newValue": "Решите уравнение",
+        "explanation": null
+      }
+    ]
+  },
+  "notALine": {
+    "value": "Неверное расположение точек",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Неверное расположение точек",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_Level_0": {
+    "value": "Уровень {0}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Уровень {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "putPointsOnLine": {
+    "value": "Постройте график прямой по двум точкам",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Постройте график прямой по точкам",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501234858576,
+        "oldValue": "Постройте график прямой по точкам",
+        "newValue": "Постройте график прямой по двум точкам",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Постройте график прямой по двум точкам",
+        "newValue": "Расположите точки в прямую линию",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Расположите точки в прямую линию",
+        "newValue": "Постройте график прямой по двум точкам",
+        "explanation": null
+      }
+    ]
+  },
+  "saveLine": {
+    "value": "Сохранить прямую",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Сохранить график прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Сохранить график прямой",
+        "newValue": "Сохранить прямую",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Сохранить прямую",
+        "newValue": "Сохранить график прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502342847475,
+        "oldValue": "Сохранить график прямой",
+        "newValue": "Сохранить прямую",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lineGame": {
+    "value": "Игра ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Игра \"Уравнение прямой\"",
+        "explanation": null
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1550471237905,
+        "oldValue": "Игра \"Уравнение прямой\"",
+        "newValue": "Игра ",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.pointSlope": {
+    "value": "Уравнение прямой, проходящей через две заданные точки",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Уравнение прямой проходящей через заданную точку, с данным угловым коэффициентом",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501234858576,
+        "oldValue": "Уравнение прямой проходящей через заданную точку, с данным угловым коэффициентом",
+        "newValue": "Уравнение прямой с заданным угловым коэффициентом, которая проходит через заданную точку",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501565866360,
+        "oldValue": "Уравнение прямой с заданным угловым коэффициентом, которая проходит через заданную точку",
+        "newValue": "Уравнение прямой с заданным угловым коэффициентом, проходящей через заданную точку",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Уравнение прямой с заданным угловым коэффициентом, проходящей через заданную точку",
+        "newValue": "Уравнение прямой, проходящей через две заданные точки",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slope": {
+    "value": "Угловой коэффициент прямой",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Угловой коэффициент",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Угловой коэффициент",
+        "newValue": "Угловой коэффициент прямой",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slopeIntercept": {
+    "value": "Уравнение прямой с угловым коэффициентом",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Уравнение прямой с угловым коэффициентом",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198732,
+        "oldValue": "Уравнение прямой с угловым коэффициентом",
+        "newValue": "Угловой коэффициент",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Угловой коэффициент",
+        "newValue": "Уравнение прямой с угловым коэффициентом",
+        "explanation": null
+      }
+    ]
+  },
+  "setThePoint": {
+    "value": "Составьте уравнение прямой",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Составьте уравнение прямой",
+        "explanation": null
+      }
+    ]
+  },
+  "setTheSlope": {
+    "value": "Найдите угловой коэффициент прямой",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Найдите угловой коэффициент",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501234858576,
+        "oldValue": "Найдите угловой коэффициент",
+        "newValue": "Найдите угловой коэффициент прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Найдите угловой коэффициент прямой",
+        "newValue": "Определите угловой коэффициент ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Определите угловой коэффициент ",
+        "newValue": "Найдите угловой коэффициент прямой",
+        "explanation": null
+      }
+    ]
+  },
+  "setTheYIntercept": {
+    "value": "Найдите точки пересечения с осью Оy",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Найдите Y",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501234858576,
+        "oldValue": "Найдите Y",
+        "newValue": "Найдите точку пересения с осью Оy",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501565866359,
+        "oldValue": "Найдите точку пересения с осью Оy",
+        "newValue": "Найдите точки пересечения с осью Оy",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198731,
+        "oldValue": "Найдите точки пересечения с осью Оy",
+        "newValue": "Определите Y ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Определите Y ",
+        "newValue": "Найдите точки пересечения с осью Оy",
+        "explanation": null
+      }
+    ]
+  },
+  "slope": {
+    "value": "Угловой коэффициент прямой",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Угловой коэффициент",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501234858576,
+        "oldValue": "Угловой коэффициент",
+        "newValue": "Угловой коэффициент прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501562652901,
+        "oldValue": "Угловой коэффициент прямой",
+        "newValue": "Угловой\nкоэффициент прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198732,
+        "oldValue": "Угловой\nкоэффициент прямой",
+        "newValue": "Угловой коэффициент",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Угловой коэффициент",
+        "newValue": "Угловой коэффициент прямой",
+        "explanation": null
+      }
+    ]
+  },
+  "slopeIs": {
+    "value": "k = ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "m = ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501565866360,
+        "oldValue": "m = ",
+        "newValue": "k = ",
+        "explanation": null
+      }
+    ]
+  },
+  "slopeUndefined": {
+    "value": "{0} = {1} (угловой коэффициент равен бесконечности)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "{0} = {1} (угловой коэффициент не задан)",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501234858576,
+        "oldValue": "{0} = {1} (угловой коэффициент не задан)",
+        "newValue": "{0} = {1} (угловой коэффициент равен бесконечности)",
+        "explanation": null
+      }
+    ]
+  },
+  "undefined": {
+    "value": "не определено",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "не определено",
+        "explanation": null
+      }
+    ]
+  },
+  "yourEquation": {
+    "value": "Уравнение прямой",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Уравнение прямой:",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198732,
+        "oldValue": "Уравнение прямой:",
+        "newValue": "Уравнение прямой",
+        "explanation": null
+      }
+    ]
+  },
+  "yourLine": {
+    "value": "Уравнение прямой:",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500971060054,
+        "oldValue": "",
+        "newValue": "Уравнение вашей прямой:",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501667198732,
+        "oldValue": "Уравнение вашей прямой:",
+        "newValue": "Ваше уравнение прямой",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502169965058,
+        "oldValue": "Ваше уравнение прямой",
+        "newValue": "Уравнение прямой:",
+        "explanation": null
+      }
+    ]
+  }
+}

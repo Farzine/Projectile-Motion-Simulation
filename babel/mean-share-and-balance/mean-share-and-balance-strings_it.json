@@ -1,0 +1,575 @@
+{
+  "screen.intro": {
+    "value": "Introduzione",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Introduzione"
+      }
+    ]
+  },
+  "introQuestion": {
+    "value": "Qual è la quantità media di acqua per recipiente?",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Qual è la quantità media di acqua per recipiente?"
+      }
+    ]
+  },
+  "predictMean": {
+    "value": "Predici la media",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Predici la media"
+      }
+    ]
+  },
+  "mean": {
+    "value": "Media",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Media"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Tacche",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Tacche"
+      }
+    ]
+  },
+  "cupWaterLevel": {
+    "value": "Livello dell'acqua nel recipiente",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Livello dell'acqua nel recipiente"
+      }
+    ]
+  },
+  "numberOfCups": {
+    "value": "Numero di recipienti",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Numero di recipienti"
+      }
+    ]
+  },
+  "mean-share-and-balance.title": {
+    "value": "Media: Distribuzione e Bilanciamento",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1669036276882,
+        "oldValue": "",
+        "newValue": "Media: condividi e Bilancia"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1669036405676,
+        "oldValue": "Media: condividi e Bilancia",
+        "newValue": "Media: Distribuzione e Bilanciamento"
+      }
+    ]
+  },
+  "screen.levelOut": {
+    "value": "Allinea i livelli",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Allinea i livelli"
+      }
+    ]
+  },
+  "screen.distribute": {
+    "value": "Distribuisci",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Distribuisci"
+      }
+    ]
+  },
+  "screen.fairShare": {
+    "value": "Ripartizione",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Ripartizione"
+      }
+    ]
+  },
+  "screen.balancePoint": {
+    "value": "Punto di equilibrio",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Punto di equilibrio"
+      }
+    ]
+  },
+  "bar": {
+    "value": "barra",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "barra"
+      }
+    ]
+  },
+  "bars": {
+    "value": "barre",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "barre"
+      }
+    ]
+  },
+  "totalCandyBarsPattern": {
+    "value": "Totale = {{total}} {{measurement}} di barrette",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Totale = {{total}} {{measurement}} di cioccolata"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "Totale = {{total}} {{measurement}} di cioccolata",
+        "newValue": "Totale = {{total}} {{measurement}} di barrette",
+        "explanation": null
+      }
+    ]
+  },
+  "distributeQuestion": {
+    "value": "Qual è il numero medio di barrette per persona?",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Qual è il numero medio di barre di cioccolata per persona?"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "Qual è il numero medio di barre di cioccolata per persona?",
+        "newValue": "Qual è il numero medio di barrette per persona?",
+        "explanation": null
+      }
+    ]
+  },
+  "apple": {
+    "value": "mela",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "mela"
+      }
+    ]
+  },
+  "apples": {
+    "value": "mele",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "mele"
+      }
+    ]
+  },
+  "totalApplesPattern": {
+    "value": "Totale = {{total}} {{measurement}}",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Totale = {{total}} {{measurement}}"
+      }
+    ]
+  },
+  "fairShareQuestion": {
+    "value": "Qual è il numero medio di mele per persona?",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Qual è il numero medio di mele per persona?"
+      }
+    ]
+  },
+  "keyboardHelpDialog.fairShareScreen.numberSpinnerHeading": {
+    "value": "Numero di mele o persone",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Numero di melel o persone"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "Numero di melel o persone",
+        "newValue": "Numero di mele o persone",
+        "explanation": null
+      }
+    ]
+  },
+  "sync": {
+    "value": "Situazione iniziale",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Situazione iniziale"
+      }
+    ]
+  },
+  "collect": {
+    "value": "Raggruppa",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Raggruppa"
+      }
+    ]
+  },
+  "share": {
+    "value": "Distribuisci",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Dividi"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "Dividi",
+        "newValue": "Distribuisci",
+        "explanation": null
+      }
+    ]
+  },
+  "balancePointQuestion": {
+    "value": "Qual è la distanza media dei calci?",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Qual è la distanza media dei calci?"
+      }
+    ]
+  },
+  "numberOfBalls": {
+    "value": "Numero di palloni",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Numero di palloni"
+      }
+    ]
+  },
+  "meanEqualSignPattern": {
+    "value": "media {{equals}}",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "media {{equals}}"
+      }
+    ]
+  },
+  "remainderPattern": {
+    "value": "{{wholeNumber}}, resto {{remainder}}",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "{{wholeNumber}}, resto {{remainder}}"
+      }
+    ]
+  },
+  "totalDistancePattern": {
+    "value": "Distanza totale = {{total}} m",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Distanza totale = {{total}} m"
+      }
+    ]
+  },
+  "check": {
+    "value": "Controlla",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Controlla"
+      }
+    ]
+  },
+  "reset": {
+    "value": "Resetta",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Resetta"
+      }
+    ]
+  },
+  "total": {
+    "value": "Totale",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Totale"
+      }
+    ]
+  },
+  "numberOfPeople": {
+    "value": "Numero di persone",
+    "history": [
+      {
+        "userId": 921001,
+        "timestamp": 1724948957232,
+        "oldValue": "",
+        "newValue": "Numero di persone"
+      }
+    ]
+  },
+  "keyboardHelpDialog.levelOutScreen.sliderControlHeading": {
+    "value": "Livello dell'acqua o predizione della media",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Livello dell'acqua o predizione della media"
+      }
+    ]
+  },
+  "keyboardHelpDialog.levelOutScreen.sliderControlNoun": {
+    "value": "acqua o tacca di predizione",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "acqua o tacca di predizione"
+      }
+    ]
+  },
+  "keyboardHelpDialog.levelOutScreen.numberSpinnerHeading": {
+    "value": "Numero di cilindri",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Numero di cilindri"
+      }
+    ]
+  },
+  "keyboardHelpDialog.numberSpinnerVerb": {
+    "value": "Cambia",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Cambia"
+      }
+    ]
+  },
+  "keyboardHelpDialog.numberSpinnerNoun": {
+    "value": "numero",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "numero"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.grabOrReleaseItem": {
+    "value": "barretta",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "barretta"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.moveDescription": {
+    "value": "Sposta la barretta afferrata",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Sposta la barretta afferrata"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.sliderControlHeading": {
+    "value": "Predici la media",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Predici la media"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.sliderControlNoun": {
+    "value": "segno di predizione",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "segno di predizione"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.numberSpinnerHeading": {
+    "value": "Numero di barrette o persone",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Numero di barrette o persone"
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderControlHeading": {
+    "value": "Baricentro del fulcro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Baricentro del fulcro"
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderVerb": {
+    "value": "Sposta",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Sposta"
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.sliderNoun": {
+    "value": "fulcro del triangolo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "fulcro del triangolo"
+      }
+    ]
+  },
+  "keyboardHelpDialog.balancePointScreen.numberSpinnerHeading": {
+    "value": "Numero di persone",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1725273658596,
+        "oldValue": "",
+        "newValue": "Numero di persone"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.grabOrReleaseItemHeading": {
+    "value": "Taccuino a forma di barretta",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1732131558139,
+        "oldValue": "",
+        "newValue": "Taccuino a forma di barretta"
+      }
+    ]
+  },
+  "keyboardHelpDialog.distributeScreen.moveHeading": {
+    "value": "Muovi il taccuino a forma di barretta",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1732131558139,
+        "oldValue": "",
+        "newValue": "Muovi il taccuino a forma di barretta"
+      }
+    ]
+  }
+}

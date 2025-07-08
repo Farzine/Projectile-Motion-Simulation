@@ -1,0 +1,499 @@
+{
+  "changeMassHeading": {
+    "value": "Изменение значение массы",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Изменять значение массы",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Изменять значение массы",
+        "newValue": "Изменение значение массы",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassInLargerSteps": {
+    "value": "Изменение массы<br><b>большими</b> интервалами",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Изменять массу большими интервалами",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Изменять массу большими интервалами",
+        "newValue": "Изменение массы<br><b>большими</b> интервалами",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassInSmallerSteps": {
+    "value": "Изменение массы<br><b>малыми</b> интервалами",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Изменять массу маленькими интервалами",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Изменять массу маленькими интервалами",
+        "newValue": "Изменение массы<br><b>малыми</b> интервалами",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassLabel": {
+    "value": "Изменение значение массы",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Изменить массу",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Изменить массу",
+        "newValue": "Изменение значение массы",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToLeft": {
+    "value": "В левый край",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "В левый край",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToMaximumMass": {
+    "value": "Задать максимальную массу",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Максимальная масса",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Максимальная масса",
+        "newValue": "Задать максимальную массу",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToMinimumMass": {
+    "value": "Задать минимальную массу",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Минимальная масса\r\n\r\n",
+        "explanation": null
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1574648333944,
+        "oldValue": "Минимальная масса\r\\n\r\\n",
+        "newValue": "Минимальная масса\\n\\n",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Минимальная масса\\n\\n",
+        "newValue": "Задать минимальную массу",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToRight": {
+    "value": "В правый край",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "В правый край",
+        "explanation": null
+      }
+    ]
+  },
+  "moveInLargerSteps": {
+    "value": "Переместить<br><b>большими</b> интервалами",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Передвигать большими интервалами",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Передвигать большими интервалами",
+        "newValue": "Переместить<br><b>большими</b> интервалами",
+        "explanation": null
+      }
+    ]
+  },
+  "moveInSmallerSteps": {
+    "value": "Передвигать<br><b>малыми</b> интервалами",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Передвигать маленькими интервалами",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Передвигать маленькими интервалами",
+        "newValue": "Передвигать<br><b>малыми</b> интервалами",
+        "explanation": null
+      }
+    ]
+  },
+  "moveSphereLabel": {
+    "value": "Перемещение сферы",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Двигать сферу",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Двигать сферу",
+        "newValue": "Перемещение сферы",
+        "explanation": null
+      }
+    ]
+  },
+  "moveSpheresHeading": {
+    "value": "Задание положения сфер",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Положение сфер",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Положение сфер",
+        "newValue": "Задание положения сфер",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpHome": {
+    "value": "Перемещение линейки<br>в начальную позицию",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Начальная позиция",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Начальная позиция",
+        "newValue": "Перемещение линейки<br>в начальную позицию",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpStartOfSphere": {
+    "value": "Перемещение начала отсчёта<br> линейки в центр сферы m1",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Перенести указатель<br>к центру сферы m1",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Перенести указатель<br>к центру сферы m1",
+        "newValue": "Перемещение начала отсчёта<br> линейки в центр сферы m1",
+        "explanation": null
+      }
+    ]
+  },
+  "moveGrabbedRuler": {
+    "value": "Перемещение линейки",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Передвигать выбранный указатель",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Передвигать выбранный указатель",
+        "newValue": "Перемещение линейки",
+        "explanation": null
+      }
+    ]
+  },
+  "moveOrJumpGrabbedRuler": {
+    "value": "Перемещение линейки",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Передвигать указатель",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Передвигать указатель",
+        "newValue": "Перемещение линейки",
+        "explanation": null
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "Фиксированный радиус",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Постоянный радиус",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Постоянный радиус",
+        "newValue": "Фиксированный радиус",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "кг",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "кг",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1Abbreviated": {
+    "value": "m1",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "В правый край",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "В правый край",
+        "newValue": "m1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2Abbreviated": {
+    "value": "m2",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "m2",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1": {
+    "value": "Масса 1",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "Масса 1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2": {
+    "value": "Масса 2",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "Масса 2",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity-force-lab.title": {
+    "value": "Сила тяготения",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "Лаборатория силы тяготения",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502173585913,
+        "oldValue": "Лаборатория силы тяготения",
+        "newValue": "Сила тяготения",
+        "explanation": null
+      }
+    ]
+  },
+  "constantRadius": {
+    "value": "Постоянный радиус",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "Неизменяемый радиус",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501496774548,
+        "oldValue": "Неизменяемый радиус",
+        "newValue": "Постоянный радиус",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source": {
+    "value": "Сила, действующая со стороны {1} на {0}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "Сила действующая от {1} на {0}",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501496774548,
+        "oldValue": "Сила действующая от {1} на {0}",
+        "newValue": "Сила действующая со {1} на {0}",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502173585913,
+        "oldValue": "Сила действующая со {1} на {0}",
+        "newValue": "Сила, действующая со стороны {1} на {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source_value": {
+    "value": "Сила, действующая со стороны {1} на {0} = {2} Н",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "Сила действующая от {1} на {0} = {2} Н",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501496774548,
+        "oldValue": "Сила действующая от {1} на {0} = {2} Н",
+        "newValue": "Сила действующая со {1} на {0} = {2} Н",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502173585913,
+        "oldValue": "Сила действующая со {1} на {0} = {2} Н",
+        "newValue": "Сила, действующая со стороны {1} на {0} = {2} Н",
+        "explanation": null
+      }
+    ]
+  },
+  "showValues": {
+    "value": "Показать значения",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501057013395,
+        "oldValue": "",
+        "newValue": "Показать значения",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "метры",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501068401141,
+        "oldValue": "",
+        "newValue": "метры",
+        "explanation": null
+      }
+    ]
+  }
+}

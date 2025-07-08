@@ -1,0 +1,751 @@
+{
+  "atmospheres": {
+    "value": "Angahewa",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "atm"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "atm",
+        "newValue": "Angahewa"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Kanieneo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Shinikizo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "Shinikizo",
+        "newValue": "Kanieneo"
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816284,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816284,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}} K"
+      }
+    ]
+  },
+  "data": {
+    "value": "data",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "data"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Kitovu cha Tungamo/masi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Kitovu cha molekuli"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "Kitovu cha molekuli",
+        "newValue": "Kitovu cha Tungamo/masi"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Jotoridi la Awali (K)",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Joto la Awali (K)"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "Joto la Awali (K)",
+        "newValue": "Jotoridi la Awali (K)"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Tungamo/masi (AMU)",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Molekuli (AMU)"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "Molekuli (AMU)",
+        "newValue": "Tungamo/masi (AMU)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Idadi ya Chembe",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Idadi ya Chembe"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Rediasi/Nusu kipenyo (pm)",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Radius (pm)"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "Radius (pm)",
+        "newValue": "Rediasi/Nusu kipenyo (pm)"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Ondoa kigawio",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Ondoa Gawio"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "Ondoa Gawio",
+        "newValue": "Ondoa kigawio"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Rudisha kigawio",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816284,
+        "oldValue": "",
+        "newValue": "Weka upya Gawio"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "Weka upya Gawio",
+        "newValue": "Rudisha kigawio"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Kima cha mtiririko wa chembe",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Kiwango cha mtiririko wa Chembe"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "Kiwango cha mtiririko wa Chembe",
+        "newValue": "Kima cha mtiririko wa chembe"
+      }
+    ]
+  },
+  "scale": {
+    "value": "Kipimo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816284,
+        "oldValue": "",
+        "newValue": "Kipimo"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Saa",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816284,
+        "oldValue": "",
+        "newValue": "Saa"
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816284,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Ueneaji",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "Utengano"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "Utengano",
+        "newValue": "Ueneaji"
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Kihesabio cha mgongano",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "mgongano wa mgongano"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "mgongano wa mgongano",
+        "newValue": "Kihesabio cha mgongano"
+      }
+    ]
+  },
+  "width": {
+    "value": "upana",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "upana"
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "kipindi cha sampuli",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "kipindi cha sampuli"
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "migongano ya kuta",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "migongano ya ukuta"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "migongano ya ukuta",
+        "newValue": "migongano ya kuta"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "rudisha kifuniko",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "rudisha kifuniko"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Lo!<br><br>Kiwango cha juu cha halijoto kimefikiwa.",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Kiwango cha juu cha halijoto kimefikiwa."
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Mgongano",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "mgongano"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "mgongano",
+        "newValue": "Mgongano"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "nzito",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "nzito"
+      }
+    ]
+  },
+  "light": {
+    "value": "Nyepesi",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "Nyepesi"
+      }
+    ]
+  },
+  "particles": {
+    "value": "chembe",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "chembe"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Chunguza",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Chunguza"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Kelele za kanieneo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651492816283,
+        "oldValue": "",
+        "newValue": "kelele ya shinikizo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665480705404,
+        "oldValue": "kelele ya shinikizo",
+        "newValue": "Kelele za kanieneo"
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "hakuna ",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "hakuna "
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Kanieneo ↕T",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "shinikizo ↕T"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "shinikizo ↕T",
+        "newValue": "Kanieneo ↕T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Kanieneo ↕V",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "shinikizo ↕V"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "shinikizo ↕V",
+        "newValue": "Kanieneo ↕V"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "shikilia mara kwa mara",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "shikilia mara kwa mara"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "jotoridi (T)",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "joto (T)"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "joto (T)",
+        "newValue": "jotoridi (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": " Ujazo (V)",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": " Ukubwa (V)"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": " Ukubwa (V)",
+        "newValue": " Ujazo (V)"
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Lo!<br><br>Kanieneo haiwezi kutobadilika<br>wakati chombo hakina kitu.",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Shinikizo haliwezi kudhibitiwa<br>wakati chombo kiko tupu."
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "Lo!<br><br>Shinikizo haliwezi kudhibitiwa<br>wakati chombo kiko tupu.",
+        "newValue": "Lo!<br><br>Kanieneo haiwezi kutobadilika<br>wakati chombo hakina kitu."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Lo!<br><br>Kanieneo haiwezi kutobadilika<br>Ujazo ungekuwa mkubwa sana",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Shinikizo haliwezi kudhibitiwa.<br>Sauti ya sauti itakuwa kubwa sana."
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "Lo!<br><br>Shinikizo haliwezi kudhibitiwa.<br>Sauti ya sauti itakuwa kubwa sana.",
+        "newValue": "Lo!<br><br>Kanieneo haiwezi kutobadilika<br>Ujazo ungekuwa mkubwa sana"
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Lo!<br><br>Kanieneo hiwezi kutobadilika<br>Ujazo ungekuwa mdogo sana",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Shinikizo haliwezi kuddibitiwa.<br>Sauti ya sauti itakuwa ndogo sana."
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "Lo!<br><br>Shinikizo haliwezi kuddibitiwa.<br>Sauti ya sauti itakuwa ndogo sana.",
+        "newValue": "Lo!<br><br>Kanieneo hiwezi kutobadilika<br>Ujazo ungekuwa mdogo sana"
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Lo!<br><br>Jotoridi haiezi kutobadilika<br>wakati chombo kiko tupu.",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Hali ya joto haiwezi kudhibitiwa<br>wakati chombo kiko tupu."
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "Lo!<br><br>Hali ya joto haiwezi kudhibitiwa<br>wakati chombo kiko tupu.",
+        "newValue": "Lo!<br><br>Jotoridi haiezi kutobadilika<br>wakati chombo kiko tupu."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Lo!<br><br>Jotoridi haiwekutobadilika<br>ikiwa chombo kitakuwa wazi",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Hali ya joto haiwezi kudhibitiwa<br>wakati chombo kimefunguliwa."
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "Lo!<br><br>Hali ya joto haiwezi kudhibitiwa<br>wakati chombo kimefunguliwa.",
+        "newValue": "Lo!<br><br>Jotoridi haiwekutobadilika<br>ikiwa chombo kitakuwa wazi"
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Timilifu",
+    "history": [
+      {
+        "userId": 953754,
+        "timestamp": 1651550502581,
+        "oldValue": "",
+        "newValue": "bora"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "bora",
+        "newValue": "Timilifu"
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Wastani wa mwendokasi",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Wastani wa mwendokasi"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Jotoridi Iliyoingizwa",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Jotoridi Iliyoingizwa"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Oanisha Chombo",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Oanisha Chombo"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Panga kwa",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Panga kwa"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Nishati Mwendo",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Nishati Mwendo"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Mwendokasi",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Mwendokasi"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Nishati",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Nishati"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Tabia za Gesi",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1665557455276,
+        "oldValue": "",
+        "newValue": "Tabia za Gesi"
+      }
+    ]
+  }
+}

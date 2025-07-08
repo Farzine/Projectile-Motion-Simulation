@@ -1,0 +1,816 @@
+{
+  "adjustableAttraction": {
+    "value": "säädettävä vetovoima",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Säädettävä vetovoima",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Säädettävä vetovoima",
+        "newValue": "säädettävä vetovoima",
+        "explanation": null
+      }
+    ]
+  },
+  "argon": {
+    "value": "argon",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Argon",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Argon",
+        "newValue": "argon",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureUnitsInAtm": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "AtomsAndMolecules": {
+    "value": "Atomit & molekyylit",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Atomit & molekyylit",
+        "explanation": null
+      }
+    ]
+  },
+  "criticalPoint": {
+    "value": "kriittinen<br>piste",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "kriittinen<br>piste",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenAtoms": {
+    "value": "atomien välinen etäisyys",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Atomien välinen etäisyys",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Atomien välinen etäisyys",
+        "newValue": "atomien välinen etäisyys",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenMolecules": {
+    "value": "molekyylien välinen etäisyys",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Molekyylien välinen etäisyys",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Molekyylien välinen etäisyys",
+        "newValue": "molekyylien välinen etäisyys",
+        "explanation": null
+      }
+    ]
+  },
+  "gas": {
+    "value": "kaasu",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "kaasu",
+        "explanation": null
+      }
+    ]
+  },
+  "Gas": {
+    "value": "kaasu",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "kaasu",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionPotential": {
+    "value": "Vuorovaikutuspotentiaali",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Vuorovaikutuspotentiaali",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrengthWithSymbol": {
+    "value": "vuorovaikutuksen voimakkuus",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "vuorovaikutuksen voimakkuus",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvinUnits": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "Liquid": {
+    "value": "neste",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "neste",
+        "explanation": null
+      }
+    ]
+  },
+  "liquid": {
+    "value": "neste",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "neste",
+        "explanation": null
+      }
+    ]
+  },
+  "neon": {
+    "value": "neon",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Neon",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Neon",
+        "newValue": "neon",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureOverload": {
+    "value": "YLIKUORMITUS!",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "YLIKUORMITUS!",
+        "explanation": null
+      }
+    ]
+  },
+  "diatomicOxygen": {
+    "value": "happi",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "happi",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseChanges": {
+    "value": "Olomuodonmuutokset",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Olomuodonmuutokset",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseDiagram": {
+    "value": "Faasidiagrammi",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Faasidiagrammi",
+        "explanation": null
+      }
+    ]
+  },
+  "potentialEnergy": {
+    "value": "potentiaalienergia",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Potentiaalienergia",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Potentiaalienergia",
+        "newValue": "potentiaalienergia",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "paine",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "paine",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Palauta kansi",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "palauta kansi",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584451017749,
+        "oldValue": "palauta kansi",
+        "newValue": "Palauta kansi",
+        "explanation": null
+      }
+    ]
+  },
+  "Solid": {
+    "value": "kiinteä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "kiinteä",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "kiinteä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "kiinteä",
+        "explanation": null
+      }
+    ]
+  },
+  "states": {
+    "value": "Olomuodot",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Olomuodot",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "voimakas",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "voimakas",
+        "explanation": null
+      }
+    ]
+  },
+  "temperature": {
+    "value": "lämpötila",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "lämpötila",
+        "explanation": null
+      }
+    ]
+  },
+  "triplePoint": {
+    "value": "kolmoispiste",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "kolmoispiste",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "vesi",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "vesi",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "heikko",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "heikko",
+        "explanation": null
+      }
+    ]
+  },
+  "epsilon": {
+    "value": "ε",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "ε",
+        "explanation": null
+      }
+    ]
+  },
+  "sigma": {
+    "value": "σ",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "σ",
+        "explanation": null
+      }
+    ]
+  },
+  "celsiusUnits": {
+    "value": "℃",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "℃",
+        "explanation": null
+      }
+    ]
+  },
+  "atomDiameter": {
+    "value": "atomin halkaisija (σ)",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Atomin halkaisija (σ)",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Atomin halkaisija (σ)",
+        "newValue": "atomin halkaisija (σ)",
+        "explanation": null
+      }
+    ]
+  },
+  "Atoms": {
+    "value": "atomit",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Atomit",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Atomit",
+        "newValue": "atomit",
+        "explanation": null
+      }
+    ]
+  },
+  "customAttraction": {
+    "value": "säädettävä vetovoima",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Säädettävä vetovoima",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Säädettävä vetovoima",
+        "newValue": "säädettävä vetovoima",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrength": {
+    "value": "vuorovaikutuksen voimakkuus (ε)",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Vuorovaikutuksen voimakkuus (ε)",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Vuorovaikutuksen voimakkuus (ε)",
+        "newValue": "vuorovaikutuksen voimakkuus (ε)",
+        "explanation": null
+      }
+    ]
+  },
+  "large": {
+    "value": "suuri",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "suuri",
+        "explanation": null
+      }
+    ]
+  },
+  "moving": {
+    "value": "liikkuva",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Liikkuva",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Liikkuva",
+        "newValue": "liikkuva",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "happi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Happi",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Happi",
+        "newValue": "happi",
+        "explanation": null
+      }
+    ]
+  },
+  "pinned": {
+    "value": "kiinnitetty",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Kiinnitetty",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Kiinnitetty",
+        "newValue": "kiinnitetty",
+        "explanation": null
+      }
+    ]
+  },
+  "small": {
+    "value": "pieni",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "pieni",
+        "explanation": null
+      }
+    ]
+  },
+  "attractive": {
+    "value": "vetovoima",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Puoleensa vetävä",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Puoleensa vetävä",
+        "newValue": "vetovoima",
+        "explanation": null
+      }
+    ]
+  },
+  "electronOverlap": {
+    "value": "(elektronit limittyvät)",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "(elektronit limittyvät)",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "voimat",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Voimat",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Voimat",
+        "newValue": "voimat",
+        "explanation": null
+      }
+    ]
+  },
+  "hideForces": {
+    "value": "piilota voimat",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Piilota voimat",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Piilota voimat",
+        "newValue": "piilota voimat",
+        "explanation": null
+      }
+    ]
+  },
+  "repulsive": {
+    "value": "hylkimisvoima",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Hylkivä",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Hylkivä",
+        "newValue": "hylkimisvoima",
+        "explanation": null
+      }
+    ]
+  },
+  "totalForce": {
+    "value": "kokonaisvoima",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Kokonaisvoima",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Kokonaisvoima",
+        "newValue": "kokonaisvoima",
+        "explanation": null
+      }
+    ]
+  },
+  "vanderwaals": {
+    "value": "(van der Waals)",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "(van der Waals)",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "normaali",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Normaali",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Normaali",
+        "newValue": "normaali",
+        "explanation": null
+      }
+    ]
+  },
+  "returnAtom": {
+    "value": "palauta atomi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Palauta atomi",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Palauta atomi",
+        "newValue": "palauta atomi",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "hidastettu",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Hidastettu",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "Hidastettu",
+        "newValue": "hidastettu",
+        "explanation": null
+      }
+    ]
+  },
+  "interaction": {
+    "value": "Vuorovaikutukset",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Vuorovaikutukset",
+        "explanation": null
+      }
+    ]
+  },
+  "states-of-matter.title": {
+    "value": "Aineen olomuodot",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Aineen olomuodot",
+        "explanation": null
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Projektoritila",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528047225938,
+        "oldValue": "",
+        "newValue": "Projektoritila",
+        "explanation": null
+      }
+    ]
+  }
+}

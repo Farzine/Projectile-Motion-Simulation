@@ -1,0 +1,952 @@
+{
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574648333944,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Захватить или отпустить {{thing}}",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Передвигать {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Передвигать {{thing}}",
+        "newValue": "Захватить и отпустить {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "Захватить и отпустить {{thing}}",
+        "newValue": "Захватить или отпустить {{thing}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Захватить или отпустить {{thing}}",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Передвигать {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Передвигать {{thing}}",
+        "newValue": "Захватить и отпустить {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "Захватить и отпустить {{thing}}",
+        "newValue": "Захватить или отпустить {{thing}}"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Стандартная скорость",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542605532751,
+        "oldValue": "",
+        "newValue": "Обычная",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774212930,
+        "oldValue": "Обычная",
+        "newValue": "Обычно",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "Обычно",
+        "newValue": "Стандартная скорость"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "или",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "или",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Pg Dn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Медленно",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542605532751,
+        "oldValue": "",
+        "newValue": "Медленная",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774212930,
+        "oldValue": "Медленная",
+        "newValue": "Медленно",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Пробел",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1554262693620,
+        "oldValue": "",
+        "newValue": "Space",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Space",
+        "newValue": "Пробел",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1554262693620,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550471050962,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ом",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550471050962,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583776257358,
+        "oldValue": "Ω",
+        "newValue": "Ом",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Регулировать",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Регулировать"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Базовые действия",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Базовые действия",
+        "explanation": null
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "End",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Выход",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Выход",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Выйти из диалогового окна",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Выйти из диалогового окна",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "быстрый",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "быстрый"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Home",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Перейти к {{maximum}}у",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Jump to {{maximum}}у"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1650922779118,
+        "oldValue": "Jump to {{maximum}}у",
+        "newValue": "Перейти к {{maximum}}у"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Перейти к {{minimum}}у",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Перейти к {{minimum}}у"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "максимум",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "максимум"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "минимум",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "минимум"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Переход между пунктами в группе",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Переходить между пунктами в группе",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Переходить между пунктами в группе",
+        "newValue": "Переход между пунктами в группе",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Перейти к следующему<br>пункту или группе",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к следующему пункту или группе",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Перейти к следующему пункту или группе",
+        "newValue": "Перейти к следующему<br>пункту или группе",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Перейти к предыдущему<br>пункту или группе",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к предыдущему пункту или группе",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Перейти к предыдущему пункту или группе",
+        "newValue": "Перейти к предыдущему<br>пункту или группе",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Нажать графическую кнопку",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Отметить пункт",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Отметить пункт",
+        "newValue": "Нажать графическую кнопку",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "Ползунок",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Ползунок"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Ползунок управления",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Ползунок управления"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Установить/снять галочку",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Выбрать/убрать галочку",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Выбрать/убрать галочку",
+        "newValue": "Установить/снять галочку",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} большими шагами",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "{{verb}} большими шагами"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} малыми шагами",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "{{verb}} малыми шагами"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650916847693,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. Всплывающий список {{thingPlural}}",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "1. Всплывающий список {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. Переместить через {{thingPlural}}",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "2. Переместить через {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Выберите новый {{thingSingular}}",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "3. Выберите новый {{thingSingular}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "4. Закрыть список без изменений",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "4. Закрыть список без изменений"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "Настройка (опция)",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Настройка (опция)"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "настройки",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "настройки"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Всплывающее контекстное меню",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "Всплывающее контекстное меню"
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1650660224634,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.generalNavigation": {
+    "value": "Базовые действия",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583780808835,
+        "oldValue": "",
+        "newValue": "Базовые действия",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Перейти к следующему пункту",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к следующему пункту",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Перейти к предыдущему пункту",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550547079264,
+        "oldValue": "",
+        "newValue": "Перейти к предыдущему пункту",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Регулировка крупными шагами",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583777818780,
+        "oldValue": "",
+        "newValue": "Регулировка крупными шагами",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Регулировка мелкими шагами",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583777818780,
+        "oldValue": "",
+        "newValue": "Регулировка мелкими шагами",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Регулировка ползунка",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583777818780,
+        "oldValue": "",
+        "newValue": "Регулировка ползунка",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Установить максимальное значение",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583777818780,
+        "oldValue": "",
+        "newValue": "Установить максимальное значение",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Установить минимальное значение",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583777818780,
+        "oldValue": "",
+        "newValue": "Установить минимальное значение",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "нм",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501148223276,
+        "oldValue": "",
+        "newValue": "нм",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583775422176,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "линейку",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Курсор",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Курсор",
+        "newValue": "линейку",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "линейку",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1574647939938,
+        "oldValue": "",
+        "newValue": "Курсор",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "Курсор",
+        "newValue": "линейку",
+        "explanation": null
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "чтобы <b>захватить</b> или <b>отпустить</b>",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583770938374,
+        "oldValue": "",
+        "newValue": "чтобы <b>захватить</b> или <b>отпустить</b>",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Длина волны",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1572853387435,
+        "oldValue": "",
+        "newValue": "Длина волны",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelengthNMValuePattern": {
+    "value": "{0} нм",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1572853387435,
+        "oldValue": "",
+        "newValue": "{0} нм",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyUnitsPattern": {
+    "value": "{{frequency}} THz",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550554439462,
+        "oldValue": "",
+        "newValue": "{{frequency}} THz",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Охлаждение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501580545910,
+        "oldValue": "",
+        "newValue": "Охлаждение",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Нагрев",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501580241680,
+        "oldValue": "",
+        "newValue": "Нагрев",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Короткое замыкание!",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502272940150,
+        "oldValue": "",
+        "newValue": "Короткое замыкание!",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL не активирован или не установлен. Нажмите здесь чтобы узнать больше. ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501732218960,
+        "oldValue": "",
+        "newValue": "WebGL не активирован или не установлен. Нажмите здесь чтобы узнать больше. ",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Извините, произошла ошибка",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Извините, произошла ошибка",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Перезагрузить",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Перезагрузить",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Для обновления браузера установите рекомендуемые обновления Windows.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501732218960,
+        "oldValue": "",
+        "newValue": "Для обновления браузера установите рекомендуемые обновления Windows.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Режим низкого качества графики",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501732218960,
+        "oldValue": "",
+        "newValue": "Режим низкого качества графики",
+        "explanation": null
+      }
+    ]
+  }
+}

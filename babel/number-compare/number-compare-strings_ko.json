@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "비교하기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675333967475,
+        "oldValue": "",
+        "newValue": "비교하기"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} 는 {{greaterNumber}} 보다 작다.",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675333967475,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} 는 {{greaterNumber}} 보다 작다."
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} 는 {{smallerNumber}} 보다 크다.",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675333967475,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} 는 {{smallerNumber}} 보다 크다."
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}}는 {{equalNumberRight}}와 크기가 같다.",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675333967475,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}}는 {{equalNumberRight}}와 크기가 같다."
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "수 비교",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701158478071,
+        "oldValue": "",
+        "newValue": "수 비교"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "수문장을 자동적으로 들음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701158478071,
+        "oldValue": "",
+        "newValue": "수문장을 자동적으로 들음"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "상호작용 중에 업데이트된 수 문장을 자동적으로 들음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701158478071,
+        "oldValue": "",
+        "newValue": "상호작용 중에 업데이트된 수 문장을 자동적으로 들음"
+      }
+    ]
+  }
+}

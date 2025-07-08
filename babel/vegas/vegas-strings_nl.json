@@ -1,0 +1,743 @@
+{
+  "pattern.0yourBest": {
+    "value": "(Je beste: {0})",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787734,
+        "oldValue": "",
+        "newValue": "(Je beste: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Je nieuwste beste!)",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "(Je nieuwste beste!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Uitdaging {0} van {1}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Uitdaging {0} van {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Controleer",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179994903,
+        "oldValue": "",
+        "newValue": "Controleer",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Kies je niveau!",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1577010603093,
+        "oldValue": "",
+        "newValue": "Kies je niveau!",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Doe voort",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Doe voort",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Uitstekend!",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Uitstekend!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Goed!",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Goed!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Geweldig!",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Geweldig!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Probeer nog eens",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Probeer nogeens",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1460145488125,
+        "oldValue": "Probeer nogeens",
+        "newValue": "Probeer nog eens",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Niveau: {0}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Niveau: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Volgende",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179994903,
+        "oldValue": "",
+        "newValue": "Volgende",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "Score:",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1525957692877,
+        "oldValue": "",
+        "newValue": "Score:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Score: {0} van {1}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Score: {0} van {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Score: {{score}}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1525957692877,
+        "oldValue": "",
+        "newValue": "Score: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Toon antwoord",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179994903,
+        "oldValue": "",
+        "newValue": "Toon antwoord",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Start opnieuw",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Start opnieuw",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Tijd: {0}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Tijd: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Probeer opnieuw",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179994903,
+        "oldValue": "",
+        "newValue": "Probeer opnieuw",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Score: {0}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Score: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Klaar",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1548858141102,
+        "oldValue": "",
+        "newValue": "Klaar",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Je bent klaar op alle niveau's",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1548858141102,
+        "oldValue": "",
+        "newValue": "Je bent klaar op alle niveau's",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Doe zo voort",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1532854677081,
+        "oldValue": "",
+        "newValue": "Doe zo voort",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Nieuw niveau",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1532854677081,
+        "oldValue": "",
+        "newValue": "Nieuw niveau",
+        "explanation": null
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "Opnieuw",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Opnieuw",
+        "explanation": null
+      }
+    ]
+  },
+  "button.start": {
+    "value": "Start!",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Start!",
+        "explanation": null
+      }
+    ]
+  },
+  "format.time.best": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "label.best": {
+    "value": "Beste: {0}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Beste: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "Niveau:",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Niveau:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "JE BENT DE BESTE!",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "JE BENT DE BESTE!",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "Score: {0} van {1} (PERFECT!)",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Score: {0} van {1} (PERFECT!)",
+        "explanation": null
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457179987960,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457179994904,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457180187874,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457180429921,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457183782786,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457457528013,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457613397135,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1459163654614,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1459163803150,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1459539985372,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1460145488125,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1461353364016,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1463490367087,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1467450959462,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1467720524433,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1488486852236,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1497632150260,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1499461203223,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509529077673,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509529724609,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509530635071,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509531418105,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509532264281,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1513503785480,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1513504298896,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1513504633548,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1525957692877,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1525958023493,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1532854677083,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1533890906471,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1533890910731,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1548858141102,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1548858660654,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1548858859419,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1548923658267,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1548923932844,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1548923950396,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1550586123482,
+        "oldValue": "Je hebt deze ronde nog niet afgemaakt.\r\\nToch een nieuwe ronde starten?",
+        "newValue": "Je hebt deze ronde nog niet afgemaakt.\r\nToch een nieuwe ronde starten?",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "uit",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "uit",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "aan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "aan",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Kies niveau",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1460145488125,
+        "oldValue": "",
+        "newValue": "Kies niveau",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "Einde spel",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Einde spel",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "Spelinstellingen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457174787735,
+        "oldValue": "",
+        "newValue": "Spelinstellingen",
+        "explanation": null
+      }
+    ]
+  }
+}

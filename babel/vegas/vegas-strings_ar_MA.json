@@ -1,0 +1,317 @@
+{
+  "keepGoing": {
+    "value": "استمر",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656375504450,
+        "oldValue": "",
+        "newValue": "استمر"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "مستوى جديد",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656375504450,
+        "oldValue": "",
+        "newValue": "مستوى جديد"
+      }
+    ]
+  },
+  "score": {
+    "value": "الرصيد",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "الرصيد"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "الرصيد: {{score}}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "الرصيد: {{score}}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(الأفضل بالنسبة لك: {0})",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "(الأفضل بالنسبة لك: {0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "الأفضل بالنسبة لك",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "الأفضل بال"
+      },
+      {
+        "userId": 458291,
+        "timestamp": 1656323368131,
+        "oldValue": "الأفضل بال",
+        "newValue": "الأفضل بالنسبة لك"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "السؤال {0} من {1}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "السؤال {0} من {1}"
+      }
+    ]
+  },
+  "check": {
+    "value": "تحقق",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "",
+        "newValue": "تحقق"
+      }
+    ]
+  },
+  "continue": {
+    "value": "تابع",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "تابع"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "ممتاز !",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "ممتاز"
+      },
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "ممتاز",
+        "newValue": "ممتاز !"
+      }
+    ]
+  },
+  "good": {
+    "value": "جيد !",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "جيد !"
+      }
+    ]
+  },
+  "great": {
+    "value": "جيد !",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "",
+        "newValue": "جيد !"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "استمر في المحاولة",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "",
+        "newValue": "استمر في المحاولة"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "المستوى: {0}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "المستوى: {0}"
+      }
+    ]
+  },
+  "next": {
+    "value": "التالي",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656072710935,
+        "oldValue": "",
+        "newValue": "التالي"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "الرصيد : {0}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "",
+        "newValue": "الرصيد : {0}"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "الرضيد: {0} من {1}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "الرضيد: {0} من {1}"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "اظهار الجواب ",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "",
+        "newValue": "اظهار الجواب "
+      }
+    ]
+  },
+  "startOver": {
+    "value": "ابدأ من جديد",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "ابدأ من جديد"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "الزمن : {0}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1653959400020,
+        "oldValue": "",
+        "newValue": "الوقت: {0}"
+      },
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "الوقت: {0}",
+        "newValue": "الزمن : {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "حاول مرة اخرى !",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656073633533,
+        "oldValue": "",
+        "newValue": "حاول مرة اخرى !"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "اختر المستوى",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656182508943,
+        "oldValue": "",
+        "newValue": "اختر المستوى"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "اختر مستوى اللعبة !",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656072710935,
+        "oldValue": "",
+        "newValue": "اختر مستوى اللعبة !"
+      }
+    ]
+  },
+  "done": {
+    "value": "تم",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656072710935,
+        "oldValue": "",
+        "newValue": "تم"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "لقد اجتزت بنجاح جميع المستويات !",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656072710935,
+        "oldValue": "",
+        "newValue": "لقد اجتزت بنجاح جميع المستويات !"
+      }
+    ]
+  }
+}

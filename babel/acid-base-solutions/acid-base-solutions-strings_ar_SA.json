@@ -1,0 +1,430 @@
+{
+  "pH": {
+    "value": "مقياس الأس الهيدروجيني pH",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "مقياس الاس الهيدروجيني"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "مقياس الاس الهيدروجيني",
+        "newValue": "pH"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "pH",
+        "newValue": "مقياس الأس الهيدروجيني pH"
+      }
+    ]
+  },
+  "liters": {
+    "value": "لتر",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "لتر"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "لتر",
+        "newValue": "L"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "L",
+        "newValue": "لتر"
+      }
+    ]
+  },
+  "negligible": {
+    "value": "ضئيلة",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "",
+        "newValue": "ضئيلة"
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": " التركيز عند الاتزان (mol/L)",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": " التركيز"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": " التركيز",
+        "newValue": " التركيز عند الاتزان (mol/L)"
+      }
+    ]
+  },
+  "graph": {
+    "value": "رسم بياني",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "رسم بياني"
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "اخفاء طرق العرض",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "اخفاء العروض"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "اخفاء العروض",
+        "newValue": "اخفاء طرق العرض"
+      }
+    ]
+  },
+  "molecules": {
+    "value": "جزيئات",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "جزيئات"
+      }
+    ]
+  },
+  "solvent": {
+    "value": "مذيب",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "مذيب"
+      }
+    ]
+  },
+  "solution": {
+    "value": "محلول",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "محلول"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1638730560487,
+        "oldValue": "محلول",
+        "newValue": "المحلول"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "المحلول",
+        "newValue": "محلول"
+      }
+    ]
+  },
+  "tools": {
+    "value": "الادوات",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "أدوات"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "أدوات",
+        "newValue": "الادوات"
+      }
+    ]
+  },
+  "views": {
+    "value": "طرق العرض",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "عروض"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "عروض",
+        "newValue": "طرق العرض"
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "pH مقياس الأس الهيدروجيني ( مفتاح الألوان )",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "الاس الهيدروجيني ( مفتاح الالوان )"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "الاس الهيدروجيني ( مفتاح الالوان )",
+        "newValue": "pH ( مفتاح الالوان )"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "pH ( مفتاح الالوان )",
+        "newValue": "pH مقياس الأس الهيدروجيني ( مفتاح الألوان )"
+      }
+    ]
+  },
+  "stronger": {
+    "value": "الأقوى",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "أقوى"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "أقوى",
+        "newValue": "الاقوى"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "الاقوى",
+        "newValue": "الأقوى"
+      }
+    ]
+  },
+  "weaker": {
+    "value": "الأضعف",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "أضعف"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "أضعف",
+        "newValue": "الاضعف"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "الاضعف",
+        "newValue": "الأضعف"
+      }
+    ]
+  },
+  "acid": {
+    "value": "حمض",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "حمض"
+      }
+    ]
+  },
+  "base": {
+    "value": "قاعدة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "قاعدة"
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "التركيز الابتدائي (mol/L)",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "التركيز الاولي"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "التركيز الاولي",
+        "newValue": "التركيز الابتدائي (mol/L)"
+      }
+    ]
+  },
+  "strength": {
+    "value": "الشدة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "شدة"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "شدة",
+        "newValue": "الشدة"
+      }
+    ]
+  },
+  "strong": {
+    "value": "قوي",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "قوي"
+      }
+    ]
+  },
+  "weak": {
+    "value": "ضعيف",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "ضعيف"
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "محاليل",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "محلولي"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640944920013,
+        "oldValue": "محلولي",
+        "newValue": "محاليل"
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "حمض قوي",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "حمض قوي"
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "قاعدة قوية",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "قاعدة قوية"
+      }
+    ]
+  },
+  "water": {
+    "value": "ماء",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "ماء"
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "حمض ضعيف",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "حمض ضعيف"
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "قاعدة ضعيفة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "قاعدة ضعيفة"
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "مقدمة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "مقدمة"
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "محاليل الحمض والقاعدة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616426567903,
+        "oldValue": "",
+        "newValue": "حمض - قاعدة محاليل"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637158575020,
+        "oldValue": "حمض - قاعدة محاليل",
+        "newValue": "محاليل الحمض والقاعدة"
+      }
+    ]
+  }
+}

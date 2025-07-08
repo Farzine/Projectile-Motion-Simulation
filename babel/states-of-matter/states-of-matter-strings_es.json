@@ -1,0 +1,767 @@
+{
+  "Atoms": {
+    "value": "Átomos",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Átomos",
+        "explanation": null
+      }
+    ]
+  },
+  "AtomsAndMolecules": {
+    "value": "Átomos y Moléculas",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Átomos y Moleculas",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1507585685563,
+        "oldValue": "Átomos y Moleculas",
+        "newValue": "Átomos y Moléculas",
+        "explanation": null
+      }
+    ]
+  },
+  "Gas": {
+    "value": "Gas",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Gas",
+        "explanation": null
+      }
+    ]
+  },
+  "Liquid": {
+    "value": "Líquido",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Líquido",
+        "explanation": null
+      }
+    ]
+  },
+  "Solid": {
+    "value": "Sólido",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Solido",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1507585685563,
+        "oldValue": "Solido",
+        "newValue": "Sólido",
+        "explanation": null
+      }
+    ]
+  },
+  "adjustableAttraction": {
+    "value": "Atracción ajustable",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Atracción ajustable",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480457042675,
+        "oldValue": "Atracción ajustable",
+        "newValue": "Atracción Ajustable",
+        "explanation": null
+      },
+      {
+        "userId": 190972,
+        "timestamp": 1495008399918,
+        "oldValue": "Atracción Ajustable",
+        "newValue": "Atracción ajustable",
+        "explanation": null
+      }
+    ]
+  },
+  "argon": {
+    "value": "Argón",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Argón",
+        "explanation": null
+      }
+    ]
+  },
+  "atomDiameter": {
+    "value": "Diámetro atómico (σ)",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Diámetro atómico (σ)",
+        "explanation": null
+      }
+    ]
+  },
+  "attractive": {
+    "value": "Atractiva",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Atractiva",
+        "explanation": null
+      }
+    ]
+  },
+  "celsiusUnits": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "°C",
+        "explanation": null
+      }
+    ]
+  },
+  "criticalPoint": {
+    "value": "punto<br>crítico ",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "punto<br>crítico ",
+        "explanation": null
+      }
+    ]
+  },
+  "customAttraction": {
+    "value": "Atracción personalizada",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Atracción personalizada",
+        "explanation": null
+      }
+    ]
+  },
+  "diatomicOxygen": {
+    "value": "Oxígeno",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Oxigeno",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1507585685563,
+        "oldValue": "Oxigeno",
+        "newValue": "Oxígeno",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenAtoms": {
+    "value": "Distancia entre átomos",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Distancia entre átomos",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenMolecules": {
+    "value": "Distancia entre moléculas",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Distancia entre moléculas",
+        "explanation": null
+      }
+    ]
+  },
+  "electronOverlap": {
+    "value": "(superposición de electrones)",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "(solapamiento de electrones)",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480457042675,
+        "oldValue": "(solapamiento de electrones)",
+        "newValue": "(superposición de electrones)",
+        "explanation": null
+      }
+    ]
+  },
+  "epsilon": {
+    "value": "ε",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "ε",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Fuerzas",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Fuerzas",
+        "explanation": null
+      }
+    ]
+  },
+  "gas": {
+    "value": "gas",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "gas",
+        "explanation": null
+      }
+    ]
+  },
+  "hideForces": {
+    "value": "Ocultar fuerzas",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Ocultar fuerzas",
+        "explanation": null
+      }
+    ]
+  },
+  "interaction": {
+    "value": "Interacción",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Interacción",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionPotential": {
+    "value": "Potencial de interacción",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Potencial de interacción",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrength": {
+    "value": "Fuerzas de interacción (ε)",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Fuerzas de interacción (ε)",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrengthWithSymbol": {
+    "value": "Fuerza de interacción (ε)",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Fuerza de interacción (ε)",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvinUnits": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "large": {
+    "value": "grande",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "grande",
+        "explanation": null
+      }
+    ]
+  },
+  "liquid": {
+    "value": "líquido",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "líquido",
+        "explanation": null
+      }
+    ]
+  },
+  "moving": {
+    "value": "Móvil",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "en movimiento",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480457042675,
+        "oldValue": "en movimiento",
+        "newValue": "Movible",
+        "explanation": null
+      },
+      {
+        "userId": 190972,
+        "timestamp": 1495008399918,
+        "oldValue": "Movible",
+        "newValue": "Móvil",
+        "explanation": null
+      }
+    ]
+  },
+  "neon": {
+    "value": "Neón",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Neón",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Oxígeno",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Oxígeno",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseChanges": {
+    "value": "Cambios de Fase",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Cambios de Fase",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseDiagram": {
+    "value": "Diagrama de Fase",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Diagrama de Fase",
+        "explanation": null
+      }
+    ]
+  },
+  "pinned": {
+    "value": "Fijo",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Fijo",
+        "explanation": null
+      }
+    ]
+  },
+  "potentialEnergy": {
+    "value": "Energía Potencial",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Energía potencial",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480457042675,
+        "oldValue": "Energía potencial",
+        "newValue": "Energía Potencial",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Presión ",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Presión ",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureOverload": {
+    "value": "SOBRECARGA",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "SOBRECARGA",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureUnitsInAtm": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "átomo",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1494612098247,
+        "oldValue": "átomo",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Modo de proyector",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Modo de proyector",
+        "explanation": null
+      }
+    ]
+  },
+  "repulsive": {
+    "value": "Repulsiva",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "repulsiva",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480457042675,
+        "oldValue": "repulsiva",
+        "newValue": "Repulsiva",
+        "explanation": null
+      }
+    ]
+  },
+  "returnAtom": {
+    "value": "Regresar el átomo",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Volver a átomo",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480457042675,
+        "oldValue": "Volver a átomo",
+        "newValue": "Regresar el átomo",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Regresar tapa",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Regresar tapa",
+        "explanation": null
+      }
+    ]
+  },
+  "sigma": {
+    "value": "σ",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "σ",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Movimiento lento",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Movimiento lento",
+        "explanation": null
+      }
+    ]
+  },
+  "small": {
+    "value": "pequeño",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "pequeño",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "sólido",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "solido",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1507585685563,
+        "oldValue": "solido",
+        "newValue": "sólido",
+        "explanation": null
+      }
+    ]
+  },
+  "states": {
+    "value": "Estado",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Estado",
+        "explanation": null
+      }
+    ]
+  },
+  "states-of-matter.title": {
+    "value": "Estados de la materia",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Estados de la Materia",
+        "explanation": null
+      },
+      {
+        "userId": 190972,
+        "timestamp": 1495008399918,
+        "oldValue": "Estados de la Materia",
+        "newValue": "Estados de la materia",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "fuerte",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "fuerte",
+        "explanation": null
+      }
+    ]
+  },
+  "temperature": {
+    "value": "Temperatura",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Temperatura",
+        "explanation": null
+      }
+    ]
+  },
+  "totalForce": {
+    "value": "Fuerza total",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "Fuerza total",
+        "explanation": null
+      }
+    ]
+  },
+  "triplePoint": {
+    "value": "punto<br>triple",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "punto<br>triple",
+        "explanation": null
+      }
+    ]
+  },
+  "vanderwaals": {
+    "value": "(Van der Waals)",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "(van der Waals)",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1480457042675,
+        "oldValue": "(van der Waals)",
+        "newValue": "(Van der Waals)",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Agua",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1485966253719,
+        "oldValue": "",
+        "newValue": "Agua",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "débil",
+    "history": [
+      {
+        "userId": 174240,
+        "timestamp": 1476059976217,
+        "oldValue": "",
+        "newValue": "débil",
+        "explanation": null
+      }
+    ]
+  }
+}

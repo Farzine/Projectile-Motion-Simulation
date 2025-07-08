@@ -1,0 +1,18 @@
+{
+  "extends": "../perennial-alias/tsconfig/tsconfig-browser.json",
+  "include": [
+    "phet/**/*",
+    "phet-io/**/*",
+    "test-brand/**/*",
+    "adapted-from-phet/**/*",
+    "js/**/*",
+    "images/**/*",
+    "mipmaps/**/*",
+    "sounds/**/*"
+  ],
+  "references": [
+    {
+      "path": "../perennial-alias/tsconfig/buildjson/tsconfig.json"
+    }
+  ]
+}

@@ -1,0 +1,869 @@
+{
+  "menuItem.about": {
+    "value": "سەبارەت",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "دەربارەی"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "دەربارەی",
+        "newValue": "لەبارەی"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "لەبارەی",
+        "newValue": "سەبارەت"
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "گەڕان بۆ نوێکردنەوە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664176659072,
+        "oldValue": "",
+        "newValue": "گەڕان بۆ تازەکردنەوە"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "گەڕان بۆ تازەکردنەوە",
+        "newValue": "گەڕان بۆ نوێکردنەوە"
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "دەگەڕێت بۆ نوێ کردنەوە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664176659072,
+        "oldValue": "",
+        "newValue": "گەڕان بۆ تازەکردنەوە دەکرێت"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "گەڕان بۆ تازەکردنەوە دەکرێت",
+        "newValue": "دەگەڕێت بۆ نوێ کردنەوە"
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "بەشداربووان: {0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667373367172,
+        "oldValue": "",
+        "newValue": "بەشداربووان: {0}"
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "ئەماژەکردنەکان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "",
+        "newValue": "ئەماژەکردنەکان "
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1677880892121,
+        "oldValue": "ئەماژەکردنەکان ",
+        "newValue": "ئەماژەکردنەکان",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "دەنگی زیاتر",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "دەنگی زیاتر"
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "پڕ شاشە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "شاشەی پڕ"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "شاشەی پڕ",
+        "newValue": "پڕ شاشە "
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1677880892121,
+        "oldValue": "پڕ شاشە ",
+        "newValue": "پڕ شاشە",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "نوێکردنەوە وەدەست بخە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664176659072,
+        "oldValue": "",
+        "newValue": "کۆپی نوێ بەدەست بهێنە"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "کۆپی نوێ بەدەست بهێنە",
+        "newValue": "نوێکردنەوە وەدەست بخە"
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "هونەری گرافیک {0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "",
+        "newValue": "هونەری گرافیک {0} "
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1677880892121,
+        "oldValue": "هونەری گرافیک {0} ",
+        "newValue": "هونەری گرافیک {0}",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "قەدبڕی تەختە کلیل",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676746172996,
+        "oldValue": "",
+        "newValue": "قەدبڕی تەختە کلیل"
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "داڕشتنی سەرەکی {0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "",
+        "newValue": "داڕشتنی سەرەکی {0}"
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "وەشانی نوێ بەردەستە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "",
+        "newValue": "وەشانی نوێ بەردەستە"
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "نەخێر سوپاس",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "نەخێر سوپاس"
+      }
+    ]
+  },
+  "options.title": {
+    "value": "هەڵبژاردەکان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "بژاردە"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "بژاردە",
+        "newValue": "هەڵبژاردەکان"
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "هەڵبژاردەکان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "بژاردە"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802751,
+        "oldValue": "بژاردە",
+        "newValue": "هەڵبژاردەکان"
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "ماڵپەڕی فێت",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "وێبسایتی فێت"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "وێبسایتی فێت",
+        "newValue": "پاڵپەڕی فێت"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1704950842273,
+        "oldValue": "پاڵپەڕی فێت",
+        "newValue": "ماڵپەڕی فێت",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "دڵنیایی جۆری: {0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667373367172,
+        "oldValue": "",
+        "newValue": "دڵنیایی جۆری: {0}"
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "گوزارشتکردن لە گرفت",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "ئاگادارمان بکەرەوە لە بوونی کێشە"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "ئاگادارمان بکەرەوە لە بوونی کێشە",
+        "newValue": "گوزارشتکردن لە گرفت"
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "وێنەگرتنی شاشە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "وێنەی شاشە"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "وێنەی شاشە",
+        "newValue": "وێنەگرتنی شاشە"
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "پەرەپێدانی نەرمەواڵە:{0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "",
+        "newValue": "پەرەپێدانی نەرمەواڵە:{0}"
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "دیزاینی دەنگ: {0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667373367172,
+        "oldValue": "",
+        "newValue": "دیزاینی دەنگ: {0}"
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "گروپ:{0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667110018642,
+        "oldValue": "",
+        "newValue": "گروپ:{0}"
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "مرج، تایبەتمەندی،ڕێپێدان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "مۆڵەت و مەرجی بەکارهێنان"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "مۆڵەت و مەرجی بەکارهێنان",
+        "newValue": "مرج، تایبەتمەندی،ڕێپێدان"
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "سوپاس",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "سوپاس"
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "وەشانی تازە لە ئێستادا بەردەستە:{0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "",
+        "newValue": "وەشانی تازە لە ئێستادا بەردەستە:{0}"
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "ئاماژەدان بە لایەنی سێیەم",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "",
+        "newValue": "ئاماژەدان بە لایەنی سێیەم"
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "وەشانی هاوتاسازەکە نوێیە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "ئەم تاقیکردنەوەیە تازەترین ڤێرژنە"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "ئەم تاقیکردنەوەیە تازەترین ڤێرژنە",
+        "newValue": "وەشانی هاوتاسازەکە نوێیە"
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "بۆ ئەوەی دەست پێ بکەیت",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "بۆ ئەوەی دەست پێ بکەیت"
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "وەرگێڕان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "وەرگێڕان"
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "ئاماژەدان بە وەرگێڕەکان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "",
+        "newValue": "ئاماژەدان بە وەرگێڕەکان "
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1677880892121,
+        "oldValue": "ئاماژەدان بە وەرگێڕەکان ",
+        "newValue": "ئاماژەدان بە وەرگێڕەکان",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "گەڕان بۆ وەشانی نوێ سەرکەوتوو نەبوو",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "لە ئێستادا ناتوانرێن بو ڤەرژنی نوێ بگەڕێیت"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1665985802752,
+        "oldValue": "لە ئێستادا ناتوانرێن بو ڤەرژنی نوێ بگەڕێیت",
+        "newValue": "گەڕان بۆ وەشانی نوێ سەرکەوتوو نەبوو"
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "وەشان {0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "",
+        "newValue": "وەشان {0} "
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1677880892121,
+        "oldValue": "وەشان {0} ",
+        "newValue": "وەشان {0}",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "وەشانی ئێستا بریتیە لە {0}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "",
+        "newValue": "وەشانی ئێستا بریتیە لە {0}"
+      }
+    ]
+  },
+  "simTitleWithScreenNamePattern": {
+    "value": "{{simName}} — {{screenName}}",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667373367172,
+        "oldValue": "",
+        "newValue": " {{simName}} — {{screenName}}"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1677880892121,
+        "oldValue": " {{simName}} — {{screenName}}",
+        "newValue": "{{simName}} — {{screenName}}",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "done": {
+    "value": "جێبەجێ کرا",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667063561889,
+        "oldValue": "",
+        "newValue": "جێبەجێکرا"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1667110018642,
+        "oldValue": "جێبەجێکرا",
+        "newValue": "جێبەجێکرا "
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1680068417237,
+        "oldValue": "جێبەجێکرا ",
+        "newValue": "جێبەجێ کرا",
+        "explanation": null
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "گۆڕانکاریەکان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667113339884,
+        "oldValue": "",
+        "newValue": "گۆڕانکاریەکان"
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "دەرخستنی نیشاندەر",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1676745357279,
+        "oldValue": "",
+        "newValue": "دەرخستنی نیشاندەر"
+      }
+    ]
+  },
+  "preferences.tabs.audio.title": {
+    "value": "دەنگ",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1666159805101,
+        "oldValue": "",
+        "newValue": "دەنگ"
+      }
+    ]
+  },
+  "preferences.tabs.audio.audioFeatures.title": {
+    "value": "سیفەتەکانی دەنگ",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1666159805101,
+        "oldValue": "",
+        "newValue": "سەفەتەکانی دەنگ"
+      },
+      {
+        "userId": 837035,
+        "timestamp": 1667373367172,
+        "oldValue": "سەفەتەکانی دەنگ",
+        "newValue": "سیفەتەکانی دەنگ"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.extraSounds.title": {
+    "value": "دەنگی زیاتر",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1666159805101,
+        "oldValue": "",
+        "newValue": "دەنگی زیاتر"
+      }
+    ]
+  },
+  "preferences.tabs.general.title": {
+    "value": "گشتی",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1666159805101,
+        "oldValue": "",
+        "newValue": "گشتی"
+      }
+    ]
+  },
+  "preferences.tabs.input.title": {
+    "value": "داخڵکردن",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667373367172,
+        "oldValue": "",
+        "newValue": "داخڵکردن"
+      }
+    ]
+  },
+  "ieErrorPage.platformError": {
+    "value": "هەڵەی پلاتفۆرم",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1664099197247,
+        "oldValue": "",
+        "newValue": "هەڵەی پلاتفۆرم"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.title": {
+    "value": "دەنگ",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1667373367172,
+        "oldValue": "",
+        "newValue": "دەنگ"
+      }
+    ]
+  },
+  "ieErrorPage.ieIsNotSupported": {
+    "value": "وێبگەڕەکەت نەگونجاوە بۆ ئەم پلاتفۆرمە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1677483174854,
+        "oldValue": "",
+        "newValue": "وێبگەڕەکەت نەگونجاوە بۆ ئەم پلاتفۆرمە"
+      }
+    ]
+  },
+  "ieErrorPage.useDifferentBrowser": {
+    "value": "تکایە وێبگەڕێکی دیکە بەکار بهێنە بۆ ئەم پلاتفۆرمە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1677483174854,
+        "oldValue": "",
+        "newValue": "تکایە وێبگەڕێکی دیکە بەکار بهێنە بۆ ئەم پلاتفۆرمە"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.invalidQueryParameters": {
+    "value": "داواکراوەکەت هەڵەی تێدایە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1677483174854,
+        "oldValue": "",
+        "newValue": "داواکراوەکەت هەڵەی تێدایە"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+    "value": "یەکێکلە داواکاریەکەت هەڵەی تێدایە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1677483174854,
+        "oldValue": "",
+        "newValue": "یەکێکلە داواکاریەکەت هەڵەی تێدایە"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.theSimulationWillStart": {
+    "value": "ئەم تاقیکردنەوەیە بە شیوازە سەرەتایەکەی دەست پێدەکات",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1677483174854,
+        "oldValue": "",
+        "newValue": "ئەم تاقیکردنەوەیە بە شیوازە سەرەتایەکەی دەست پێدەکات"
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "شێوازی وێنەنوێن",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1677483174854,
+        "oldValue": "",
+        "newValue": "شێوازی وێنەنوێن"
+      }
+    ]
+  },
+  "preferences.title": {
+    "value": "هەڵبژاردەکان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686205618176,
+        "oldValue": "",
+        "newValue": "هەڵبژاردەکان"
+      }
+    ]
+  },
+  "preferences.tabs.visual.title": {
+    "value": "بینەیی",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686205618176,
+        "oldValue": "",
+        "newValue": "بینەیی"
+      }
+    ]
+  },
+  "preferences.tabs.overview.title": {
+    "value": "پوختە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686207460869,
+        "oldValue": "",
+        "newValue": "پوختە"
+      }
+    ]
+  },
+  "preferences.tabs.simulation.title": {
+    "value": "لێکچوونسازی",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686207460869,
+        "oldValue": "",
+        "newValue": "لێکچوونسازی"
+      }
+    ]
+  },
+  "preferences.tabs.localization.title": {
+    "value": "ناوچیەتی",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686207460869,
+        "oldValue": "",
+        "newValue": "ناوچیەتی"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.title": {
+    "value": "ناوچە و کەلتوور",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686207460869,
+        "oldValue": "",
+        "newValue": "ناوچە و کەلتوور"
+      }
+    ]
+  },
+  "preferences.tabs.audio.voicing.titleEnglishOnly": {
+    "value": "دەنگ (تەنها ئینگلیزی)",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686207460869,
+        "oldValue": "",
+        "newValue": "دەنگ (تەنها ئینگلیزی)"
+      }
+    ]
+  },
+  "preferences.tabs.audio.voicing.description": {
+    "value": "دەنگ و هایلایت",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686207460869,
+        "oldValue": "",
+        "newValue": "دەنگ و هایلایت"
+      }
+    ]
+  },
+  "preferences.tabs.general.accessibilityIntro": {
+    "value": "هەندێک بابەت زیاد دەکەین بۆ لێکچوونسازیەکانمان \n بۆ تا زیاتر گشتگیر بێت.",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686214330936,
+        "oldValue": "",
+        "newValue": "هەندێک بابەت زیاد دەکەین بۆ لێکچوونسازیەکانمان \n بۆ تا زیاتر گشتگیر بێت."
+      }
+    ]
+  },
+  "preferences.tabs.general.moreAccessibility": {
+    "value": "بۆئەوەی لێکچوانسازیە گشتگیرەکان بدۆزیتەوە، بە شوێن Access and Inclusion دا بگەڕێ",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686214330936,
+        "oldValue": "",
+        "newValue": "بۆئەوەی لێکچوانسازیە گشتگیرەکان بدۆزیتەوە، بە شوێن Access and Inclusion دا بگەڕێ"
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlights": {
+    "value": "بەرچاوخستنی کارلێکەکان",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686214330936,
+        "oldValue": "",
+        "newValue": "بەرچاوخستنی کارلێکەکان"
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlightsDescription": {
+    "value": "بینەیی زیاد بکە بۆ ماوسەکە",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686214330936,
+        "oldValue": "",
+        "newValue": "بینەیی زیاد بکە بۆ ماوسەکە"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.description": {
+    "value": "دەنگ لێبدە کاتێک کارێک ئەنجام دەدەیت",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686214330936,
+        "oldValue": "",
+        "newValue": "دەنگ لێبدە کاتێک کارێک ئەنجام دەدەیت"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.extraSounds.description": {
+    "value": "دەنگی زیادە لێبدە کە ڕەنگە سود بە هەندێگ فێرخواز بگەیەنێت",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1686214330936,
+        "oldValue": "",
+        "newValue": "دەنگی زیادە لێبدە کە ڕەنگە سود بە هەندێگ فێرخواز بگەیەنێت"
+      }
+    ]
+  },
+  "preferences.tabs.visual.projectorModeDescription": {
+    "value": "جیاوازی ڕەنگەکان زیاد بکە بۆ باشتر بینین لە پۆلدا",
+    "history": [
+      {
+        "userId": 837035,
+        "timestamp": 1704950640730,
+        "oldValue": "",
+        "newValue": "جیاوازی ڕەنگەکان زیاد بکە بۆ باشتر بینین لە پۆلدا"
+      }
+    ]
+  }
+}

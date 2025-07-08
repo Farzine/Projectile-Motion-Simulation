@@ -1,0 +1,273 @@
+{
+  "screen.basics": {
+    "value": "Alkeet",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Perusteet"
+      },
+      {
+        "userId": 1135480,
+        "timestamp": 1686383931818,
+        "oldValue": "Perusteet",
+        "newValue": "Alkeet",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.numbers": {
+    "value": "Luvut",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Luvut"
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "Laskutoimitukset",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Laskutoimitukset"
+      }
+    ]
+  },
+  "screen.solveIt": {
+    "value": "Ratkaise!",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Ratkaise!"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Muuttujat",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Muuttujat"
+      }
+    ]
+  },
+  "x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "level1Description": {
+    "value": "<b>Taso 1</b>  Yksivaiheiset yhtälöt",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "<b>Taso 1</b>  Yksivaiheiset yhtälöt"
+      }
+    ]
+  },
+  "level2Description": {
+    "value": "<b>Taso 2</b>  Kaksivaiheiset yhtälöt negatiivisilla kertoimilla",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "<b>Taso 2</b>  Kaksivaiheiset yhtälöt negatiivisilla kertoimilla"
+      }
+    ]
+  },
+  "level3Description": {
+    "value": "<b>Taso 3</b>  Kaksivaiheiset yhtälöt",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "<b>Taso 3</b>  Kaksivaiheiset yhtälöt"
+      }
+    ]
+  },
+  "level4Description": {
+    "value": "<b>Taso 4</b>  Monivaiheiset yhtälöt murtoluvuilla",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "<b>Taso 4</b>  Monivaiheiset yhtälöt murtoluvuilla"
+      }
+    ]
+  },
+  "level5Description": {
+    "value": "<b>Taso 5</b>  Monivaiheiset yhtälöt, joissa muuttujat molemmilla puolilla",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "<b>Taso 5</b>  Monivaiheiset yhtälöt, joissa muuttujat molemmilla puolilla"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Valitse taso",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Valitse taso"
+      }
+    ]
+  },
+  "solveFor": {
+    "value": "Ratkaise {{variable}}",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Ratkaise {{variable}}"
+      }
+    ]
+  },
+  "next": {
+    "value": "Seuraava",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Seuraava"
+      }
+    ]
+  },
+  "numberTooBig": {
+    "value": "Hups!<br><br>Saatu luku on <br>liian suuri simulaatiolle.<br><br>Yritä toista laskutoimitusta!",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Hups!<br><br>Saatu luku on <br>liian suuri simulaatiolle.<br><br>Yritä toista laskutoimitusta!"
+      }
+    ]
+  },
+  "equationOrInequality": {
+    "value": "Yhtälö tai epäyhtälö",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Yhtälö tai epäyhtälö"
+      }
+    ]
+  },
+  "snapshots": {
+    "value": "Tilannekuvat",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Tilannekuvat"
+      }
+    ]
+  },
+  "levels": {
+    "value": "Tasot",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Tasot"
+      }
+    ]
+  },
+  "variables": {
+    "value": "Muuttujat",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Muuttujat"
+      }
+    ]
+  },
+  "variable": {
+    "value": "Muuttuja",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Muuttuja"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "rightSideFull": {
+    "value": "Hups!<br><br>Vaa'an oikea puoli on täynnä.",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Hups!<br><br>Vaa'an oikea puoli on täynnä."
+      }
+    ]
+  },
+  "leftSideFull": {
+    "value": "Hups!<br><br>Vaa'an vasen puoli on täynnä.",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Hups!<br><br>Vaa'an vasen puoli on täynnä."
+      }
+    ]
+  },
+  "equality-explorer.title": {
+    "value": "Yhtäsuuruuden tutkiminen",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686371808034,
+        "oldValue": "",
+        "newValue": "Yhtäsuuruuden tutkiminen"
+      }
+    ]
+  }
+}

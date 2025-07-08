@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport"
+        content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <title>Accessibility: Event Listeners</title>
+
+  <!-- Before loading other things (that might error), create hooks to report errors/loads for continuous testing -->
+  <script src="../../chipper/js/browser/sim-tests/pageload-connector.js"></script>
+
+  <!-- jQuery and lodash are dependencies -->
+  <script src="../../sherpa/lib/jquery-2.1.0.min.js"></script>
+  <script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+
+  <!--For the styling-->
+  <link rel="stylesheet" href="../assets/scenery.css">
+  <link rel="stylesheet" href="../../sherpa/lib/prism-okaidia-1.23.0.css">
+
+  <script src="../../sherpa/lib/bootstrap-2.2.2.js"></script>
+  <script src="../../sherpa/lib/prism-1.23.0.js"></script>
+
+  <script src="../dist/scenery.min.js"></script>
+
+  <style>
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .scene-and-PDOM {
+      width: 80%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container .title {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    /* formatting for the displayed PDOM code */
+    .PDOM-container {
+      width: 75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+    }
+
+    #PDOM-pre {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .input-container {
+      width: 75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #accessibility-scene {
+      width: 100%;
+      height: 300px;
+      position: relative;
+      left: 0;
+      top: 0;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  <div class="title">
+    <h2>Scenery Accessibility Examples: Listeners</h2>
+  </div>
+  <div class="scene-and-PDOM">
+    <div class="input-container">
+      <div id="accessibility-scene" class="exampleScene"></div>
+    </div>
+
+    <div class="PDOM-container">
+      <pre id="PDOM-pre"></pre>
+    </div>
+  </div>
+</div>
+<!-- eslint-disable --> <!--TODO: fix lint https://github.com/phetsims/chipper/issues/1405-->
+
+<script type="text/javascript">
+  let scene;
+
+  window.docExample = ( id, draw ) => {
+    'use strict';
+    const $container = $( '#' + id );
+    scene = new phet.scenery.Node();
+    const display = new phet.scenery.Display( scene, {
+      width: $container.width(),
+      height: $container.height(),
+      backgroundColor: '#eee'
+    } );
+    display.initializeEvents();
+    $container[ 0 ].appendChild( display.domElement );
+    draw( scene, display );
+    display.updateDisplay();
+  }
+</script>
+
+<script type="text/javascript">
+  phet.scenery.Utils.polyfillRequestAnimationFrame();
+
+  window.docExample( 'accessibility-scene', ( scene, display ) => {
+    'use strict';
+
+    const squareDimension = 3 * display.height / 4;
+    const squareCenterX = display.width / 2 - squareDimension / 2;
+    const squareCenterY = display.height / 2 - squareDimension / 2;
+    const square = new phet.scenery.Path( phet.kite.Shape.rectangle( squareCenterX, squareCenterY, squareDimension, squareDimension ), {
+      fill: 'black',
+      tagName: 'button',
+      accessibleName: 'a black square'
+    } );
+
+    const hexagon = new phet.scenery.Path( phet.kite.Shape.regularPolygon( 6, display.height / 3 ), {
+      fill: 'yellow',
+      stroke: '#000',
+      center: square.center,
+      tagName: 'p', // tag name for PDOM element
+      accessibleName: 'a yellow hexagon', // accessibility description
+    } );
+
+    const circle = new phet.scenery.Path( phet.kite.Shape.circle( 0, 0, squareDimension / 3 ), {
+      fill: 'gold',
+      stroke: 'black',
+      center: square.center,
+      tagName: 'p',
+      accessibleName: 'a yellow circle'
+    } );
+
+    square.children = [ hexagon ];
+    scene.addChild( square );
+
+    square.addInputListener( {
+      // click event listeners
+      down: () => {
+        square.children = [ circle ];
+      },
+      up: () => {
+        square.children = [ hexagon ];
+      },
+
+      // accessible click event listeners
+      keydown: ( e ) => {
+        if ( e.domEvent.code === 'Enter' ) {
+          square.children = [ circle ];
+        }
+      },
+      keyup: ( e ) => {
+        if ( e.domEvent.code === 'Enter' ) {
+          square.children = [ hexagon ];
+        }
+      },
+
+      // pointer events equivalent to the dom events "mouseenter" and "mouseleave"
+      enter: () => {
+        square.children.forEach( shape => shape.fill = 'gold' );
+      },
+      exit: () => {
+        square.children.forEach( shape => shape.fill = 'yellow' );
+      },
+
+      // accessible event listeners triggered when the virtual cursor is focused on or leaves the scene
+      focus: () => {
+        square.children.forEach( shape => shape.fill = 'gold' );
+      },
+      blur: () => {
+        square.children.forEach( shape => shape.fill = 'yellow' );
+      }
+    } );
+
+    // update displayed p-dom text
+    const updatePDOMDisplay = function updatePDOMDisplay() {
+
+      //format the p-dom code
+      var buttonRegex = new RegExp('(<button.*?>)((.|\\n)*?)(<\/button>)','gm');
+      var pRegex = new RegExp('(<p.*?>)((.|\\n)*?)(<\/p>)','gm');
+      var PDOMHTMLBlock = display.pdomRootElement.outerHTML;
+      var formattedPDOM = PDOMHTMLBlock
+        .replace( new RegExp( '<[/]?\\w*[ >]', 'g' ), '\n$&' ) // add breaks in the string
+        .replace( new RegExp( pRegex, 'g' ), '\t\t$1\n\t\t\t$2\t\t<\/p>' ) //formatting for opening paragraph tag
+        .replace( buttonRegex , '\t$1\n\t\t$2\t<\/button>' ); //formatting for buttons
+      var $PDOMcode = ( $( '<code class="language-html no-whitespace-normalization"></code>' ).text( formattedPDOM ) );
+
+      // add formatted code to the pre element
+      $( '#PDOM-pre' ).html( $PDOMcode );
+
+      // apply syntax highlighting
+      Prism.highlightAll();
+    };
+
+    // update the displayed p-dom code snippet when there's a change to the scene.
+    const observer = new MutationObserver( updatePDOMDisplay );
+    observer.observe( document.querySelector( '#accessibility-scene' ), {
+      attributes: true,
+      childList: true,
+      subtree: true
+    } );
+
+    // update the animation upon changes
+    display.updateOnRequestAnimationFrame();
+  } );
+</script>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig-core.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "esModuleInterop": true,
+    "moduleResolution": "NodeNext",
+    "typeRoots": [
+      // Hard coded so that this file can be used by other repos without needing package dependencies duplicated
+      "../node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "ES2021"
+      // no DOM
+    ]
+  }
+}

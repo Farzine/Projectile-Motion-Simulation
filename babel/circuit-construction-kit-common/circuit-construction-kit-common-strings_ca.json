@@ -1,0 +1,964 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "1 s",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Voltatge CA",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Voltatge corrent altern",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Voltatge corrent altern",
+        "newValue": "Voltatge CA"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Afegiu-hi bombetes",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Afegiu Bombetes"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1684215428398,
+        "oldValue": "Afegiu Bombetes",
+        "newValue": "Afegiu-hi bombetes",
+        "explanation": null
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Avançat",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Avançat"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Amperímetre",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Amperímetre",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Lector d'amperímetres",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Lector d'Amperímetres"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Lector d'Amperímetres",
+        "newValue": "Lector d'amperímetres"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Amperímetres",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Amperímetres",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Assolit el límit de velocitat de l'animació. La velocitat de la simulació s'ha reduït a {{percent}}% del normal",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Assolit el límit de velocitat de l'animació. La velocitat de la simulació s'ha reduït a {{percent}}% del normal",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Bateria",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Bateria",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Resistència de la bateria",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Resistència de la bateria",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Resistència de la bateria",
+        "newValue": "Resistència de la Bateria"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Resistència de la Bateria",
+        "newValue": "Resistència de la bateria"
+      }
+    ]
+  },
+  "british": {
+    "value": "Britànic",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Britànic"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Capacitància",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Capacitància"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Condensador",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Condensador"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Moneda",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Moneda",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Convencional",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Convencional",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Intensitat",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Intensitat",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Intensitat (A)",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Intensitat (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Gràfic d'intensitat",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Gràfic d'intensitat",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Gràfic d'intensitat",
+        "newValue": "Gràfic d'Intensitat"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Gràfic d'Intensitat",
+        "newValue": "Gràfic d'intensitat"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Màxim d'intensitat de corrent",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Màxim d'intensitat de corrent",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Màxim d'intensitat de corrent",
+        "newValue": "Màxim d'Intensitat de Corrent"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Màxim d'Intensitat de Corrent",
+        "newValue": "Màxim d'intensitat de corrent"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Dades fora d'interval",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Dades fora d'interval"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Gos",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Gos",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Bitllet d'un dòlar",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Bitllet d'un dòlar",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Bitllet d'un dòlar",
+        "newValue": "Bitllet d'un Dòlar"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Bitllet d'un Dòlar",
+        "newValue": "Bitllet d'un dòlar"
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Electrons",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Electrons",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Goma d'esborrar",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Goma d'esborrar",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Freqüència",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Freqüència",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Fusible",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Fusible",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Mà",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Mà",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "inductància",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "inductància"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Inductor",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Inductor"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Etiquetes",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Etiquetes",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Bombeta",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Bombeta",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "molta",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "molt",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "molt",
+        "newValue": "molta"
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Magnitud",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Magnitud"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Clip de paper",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Clip de paper",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Clip de paper",
+        "newValue": "Clip de Paper"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Clip de Paper",
+        "newValue": "Clip de paper"
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Llapis",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Llapis",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Canvi de fase",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Canvi de Fase"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Canvi de Fase",
+        "newValue": "Canvi de fase"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Resistència",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Resistència",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Resistència",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Resistència",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Estàndard d'esquema",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Estàndard d'Esquema"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Estàndard d'Esquema",
+        "newValue": "Estàndard d'esquema"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Mostra corrent",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Mostra corrent",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "Signat",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Signat"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Font de resistència",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Font de Resistència"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819634,
+        "oldValue": "Font de Resistència",
+        "newValue": "Font de resistència"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Cronòmetre",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Cronòmetre"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Interruptor",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Interruptor",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Clica sobre l'element del circuit per editar-lo",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Clica sobre l'element del circuit per editar-lo",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "L'interruptor està tancat",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "L'interruptor està tancat",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "L'interruptor està obert",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "L'interruptor està obert",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Temps",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Temps",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "poca",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "poc",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "poc",
+        "newValue": "poca"
+      }
+    ]
+  },
+  "values": {
+    "value": "Valors",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Valors",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Voltatge",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Voltatge",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Voltatge (V)",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "Voltatge (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Gràfic de voltatge",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Gràfic de voltatge",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Gràfic de voltatge",
+        "newValue": "Gràfic de Voltatge"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1684215428398,
+        "oldValue": "Gràfic de Voltatge",
+        "newValue": "Gràfic de voltatge",
+        "explanation": null
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltímetre",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Voltímetre",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Conductor",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Conductor",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Resistivitat del cable",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Resistivitat del cable",
+        "explanation": null
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "Resistivitat del cable",
+        "newValue": "Resistivitat del Cable"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669651819635,
+        "oldValue": "Resistivitat del Cable",
+        "newValue": "Resistivitat del cable"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1664991674681,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohms",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohms",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volts",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{voltage}} volts",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Bombeta real",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1684215428398,
+        "oldValue": "",
+        "newValue": "Bombeta real"
+      }
+    ]
+  }
+}

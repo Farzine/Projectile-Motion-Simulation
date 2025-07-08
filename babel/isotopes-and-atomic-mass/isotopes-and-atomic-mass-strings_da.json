@@ -1,0 +1,288 @@
+{
+  "neutrons": {
+    "value": "Neutroner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464115168358,
+        "oldValue": "",
+        "newValue": "Neutroner",
+        "explanation": null
+      }
+    ]
+  },
+  "atomicMass": {
+    "value": "Atomvægt (u)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Atomvægt (amu)",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464117182884,
+        "oldValue": "Atomvægt (amu)",
+        "newValue": "Atomvægt (U)",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464117684783,
+        "oldValue": "Atomvægt (U)",
+        "newValue": "Atomvægt (u)",
+        "explanation": null
+      }
+    ]
+  },
+  "massNumber": {
+    "value": "Massetal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Massetal",
+        "explanation": null
+      }
+    ]
+  },
+  "myIsotope": {
+    "value": "Min isotop",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Min isotop",
+        "explanation": null
+      }
+    ]
+  },
+  "otherIsotopesPattern": {
+    "value": "Andre\n{0}\nisotoper",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Andre\n{0}\nisotoper",
+        "explanation": null
+      }
+    ]
+  },
+  "thisIsotope": {
+    "value": "Denne isotop",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Denne isotop",
+        "explanation": null
+      }
+    ]
+  },
+  "trace": {
+    "value": "spor",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1556790021316,
+        "oldValue": "",
+        "newValue": "spor",
+        "explanation": null
+      }
+    ]
+  },
+  "abundanceInNature": {
+    "value": "Forekomst i naturen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Forekomst i naturen",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Symbol",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Symbol",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes": {
+    "value": "Isotoper",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Isotoper",
+        "explanation": null
+      }
+    ]
+  },
+  "amu": {
+    "value": " u",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "atomisk masseenheder",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464116230075,
+        "oldValue": "atomisk masseenheder",
+        "newValue": "atomisk masseenhed",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464116805828,
+        "oldValue": "atomisk masseenhed",
+        "newValue": "atommasseenhed",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464117182884,
+        "oldValue": "atommasseenhed",
+        "newValue": "U",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464117684783,
+        "oldValue": "U",
+        "newValue": " u",
+        "explanation": null
+      }
+    ]
+  },
+  "averageAtomicMass": {
+    "value": "Gennemsnitlig atommasse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Gennemsnitlige atommasse",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464117182884,
+        "oldValue": "Gennemsnitlige atommasse",
+        "newValue": "Gennemsnitlig atommasse",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopeMixture": {
+    "value": "Isotopfordeling:",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Isotopblanding:",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464152163118,
+        "oldValue": "Isotopblanding:",
+        "newValue": "Isotopfordeling:",
+        "explanation": null
+      }
+    ]
+  },
+  "myMix": {
+    "value": "Min blanding",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Min blanding",
+        "explanation": null
+      }
+    ]
+  },
+  "naturesMix": {
+    "value": "Naturens fordeling",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Naturens blanding",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464152163118,
+        "oldValue": "Naturens blanding",
+        "newValue": "Naturens fordeling",
+        "explanation": null
+      }
+    ]
+  },
+  "percentComposition": {
+    "value": "Procentvis sammensætning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Procentvise sammensætning",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1464152163118,
+        "oldValue": "Procentvise sammensætning",
+        "newValue": "Procentvis sammensætning",
+        "explanation": null
+      }
+    ]
+  },
+  "mixtures": {
+    "value": "Blandinger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Blandinger",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes-and-atomic-mass.title": {
+    "value": "Isotoper og atommasse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1464116079277,
+        "oldValue": "",
+        "newValue": "Isotoper og atommasse",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "joist.title": {
+    "value": "joist demo"
+  },
+  "done": {
+    "value": "Done"
+  },
+  "menuItem.options": {
+    "value": "Options\u2026"
+  },
+  "menuItem.about": {
+    "value": "About\u2026"
+  },
+  "menuItem.outputLog": {
+    "value": "Output Log"
+  },
+  "menuItem.phetWebsite": {
+    "value": "PhET Website\u2026"
+  },
+  "menuItem.reportAProblem": {
+    "value": "Report a Problem\u2026"
+  },
+  "menuItem.screenshot": {
+    "value": "Screenshot"
+  },
+  "menuItem.fullscreen": {
+    "value": "Full Screen"
+  },
+  "menuItem.getUpdate": {
+    "value": "Check for Updates\u2026"
+  },
+  "menuItem.enhancedSound": {
+    "value": "Extra Sound"
+  },
+  "menuItem.mailInputEventsLog": {
+    "value": "Mail Input Events Log",
+    "deprecated": true
+  },
+  "menuItem.outputInputEventsLog": {
+    "value": "Output Input Events Log",
+    "deprecated": true
+  },
+  "menuItem.submitInputEventsLog": {
+    "value": "Submit Input Events Log",
+    "deprecated": true
+  },
+  "menuItem.settings": {
+    "value": "Settings",
+    "deprecated": true
+  },
+  "title.settings": {
+    "value": "Settings"
+  },
+  "showPointers": {
+    "value": "Show Pointers"
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "Terms, Privacy & Licensing",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.title": {
+    "value": "Credits",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.leadDesign": {
+    "value": "Lead Design: {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.softwareDevelopment": {
+    "value": "Software Development: {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.team": {
+    "value": "Team: {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.contributors": {
+    "value": "Contributors: {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.qualityAssurance": {
+    "value": "Quality Assurance: {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.graphicArts": {
+    "value": "Graphic Arts: {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.soundDesign": {
+    "value": "Sound Design: {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.translation": {
+    "value": "Translation",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "credits.thanks": {
+    "value": "Thanks",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "options.title": {
+    "value": "Options",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "versionPattern": {
+    "value": "version {0}",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "updates.upToDate": {
+    "value": "This simulation is up to date."
+  },
+  "updates.outOfDate": {
+    "value": "New version available"
+  },
+  "updates.checking": {
+    "value": "Checking for updates\u2026"
+  },
+  "updates.offline": {
+    "value": "Unable to check for updates."
+  },
+  "updates.newVersionAvailable": {
+    "value": "There is a new version available: {0}."
+  },
+  "updates.yourCurrentVersion": {
+    "value": "Your current version is: {0}."
+  },
+  "updates.getUpdate": {
+    "value": "Get Update\u2026"
+  },
+  "updates.noThanks": {
+    "value": "No Thanks"
+  },
+  "translation.credits.link": {
+    "value": "Translation Credits",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "thirdParty.credits.link": {
+    "value": "Third-party Credits",
+    "simMetadata": {
+      "phetioReadOnly": true
+    }
+  },
+  "keyboardShortcuts.title": {
+    "value": "Keyboard Shortcuts"
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "to get started"
+  },
+  "simTitleWithScreenNamePattern": {
+    "value": "{{simName}} \u2014 {{screenName}}",
+    "simMetadata": {
+      "phetioDocumentation": "This pattern is used when a multi-screen simulation is only displaying one screen."
+    }
+  },
+  "projectorMode": {
+    "value": "Projector Mode"
+  },
+  "queryParametersWarningDialog.invalidQueryParameters": {
+    "value": "Invalid Query Parameters"
+  },
+  "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+    "value": "One or more of these query parameters have<br>invalid values:"
+  },
+  "queryParametersWarningDialog.theSimulationWillStart": {
+    "value": "The simulation will start with default values for<br>those query parameters."
+  },
+  "ieErrorPage.platformError": {
+    "value": "Platform Error"
+  },
+  "ieErrorPage.ieIsNotSupported": {
+    "value": "Internet Explorer is not supported."
+  },
+  "ieErrorPage.useDifferentBrowser": {
+    "value": "Please use a different browser to run this simulation."
+  },
+  "preferences.title": {
+    "value": "Preferences"
+  },
+  "preferences.tabs.general.title": {
+    "_comment": "Must stick around, though unused, because it is in previously published i18n-supported sims.",
+    "value": "General"
+  },
+  "preferences.tabs.overview.title": {
+    "value": "Overview"
+  },
+  "preferences.tabs.general.accessibilityIntro": {
+    "value": "We are adding features to our simulations to make them more inclusive. Some of these features support accessibility for learners with diverse needs and within diverse environments. Explore this menu to review or change the default presentation settings."
+  },
+  "preferences.tabs.general.moreAccessibility": {
+    "value": "To find other simulations with inclusive features, look for Access and Inclusion on the simulation filter page and filter by inclusive feature."
+  },
+  "preferences.tabs.simulation.title": {
+    "value": "Simulation"
+  },
+  "preferences.tabs.visual.title": {
+    "value": "Visual"
+  },
+  "preferences.tabs.visual.interactiveHighlights": {
+    "value": "Interactive Highlights"
+  },
+  "preferences.tabs.visual.interactiveHighlightsDescription": {
+    "value": "Add visual highlights for mouse and touch as you interact."
+  },
+  "preferences.tabs.visual.projectorModeDescription": {
+    "value": "Increase color contrast for better visibility in classrooms."
+  },
+  "preferences.tabs.audio.title": {
+    "value": "Audio"
+  },
+  "preferences.tabs.audio.voicing.titleEnglishOnly": {
+    "value": "Voicing (English Only)"
+  },
+  "preferences.tabs.audio.voicing.description": {
+    "value": "Voice and highlight content as you interact."
+  },
+  "preferences.tabs.audio.sounds.title": {
+    "value": "Sounds"
+  },
+  "preferences.tabs.audio.sounds.extraSounds.title": {
+    "value": "Extra Sounds"
+  },
+  "preferences.tabs.audio.audioFeatures.title": {
+    "value": "Audio Features"
+  },
+  "preferences.tabs.audio.sounds.description": {
+    "value": "Play sonifications and sound effects as you interact."
+  },
+  "preferences.tabs.audio.sounds.extraSounds.description": {
+    "value": "Play additional sound that may be helpful for some learners."
+  },
+  "preferences.tabs.input.title": {
+    "value": "Input"
+  },
+  "preferences.tabs.localization.title": {
+    "value": "Localization"
+  },
+  "preferences.tabs.localization.languageSelection.title": {
+    "value": "Languages"
+  },
+  "preferences.tabs.localization.languageSelection.description": {
+    "value": "Change language to translate on-screen text. Additional descriptions, when present, remain in English."
+  },
+  "preferences.tabs.localization.regionAndCulture.title": {
+    "value": "Region and Culture"
+  },
+  "preferences.tabs.localization.regionAndCulture.description": {
+    "value": "Select the portrayal of people, places, or objects in the sim. Images are not intended to represent the entire diversity of a region or culture."
+  },
+  "preferences.tabs.localization.regionAndCulture.africa": {
+    "value": "Africa"
+  },
+  "preferences.tabs.localization.regionAndCulture.africaModest": {
+    "value": "Africa (Modest)"
+  },
+  "preferences.tabs.localization.regionAndCulture.asia": {
+    "value": "Asia"
+  },
+  "preferences.tabs.localization.regionAndCulture.latinAmerica": {
+    "value": "Latin America"
+  },
+  "preferences.tabs.localization.regionAndCulture.oceania": {
+    "value": "Oceania"
+  },
+  "preferences.tabs.localization.regionAndCulture.random": {
+    "value": "Random"
+  },
+  "preferences.tabs.localization.regionAndCulture.unitedStatesOfAmerica": {
+    "value": "United States of America"
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.africa": {
+    "value": "Africa",
+    "deprecated": true
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.africaModest": {
+    "value": "Africa (Modest)",
+    "deprecated": true
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.asia": {
+    "value": "Asia",
+    "deprecated": true
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.latinAmerica": {
+    "value": "Latin America",
+    "deprecated": true
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.oceania": {
+    "value": "Oceania",
+    "deprecated": true
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.multicultural": {
+    "value": "Multicultural",
+    "deprecated": true
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.unitedStatesOfAmerica": {
+    "value": "United States of America",
+    "deprecated": true
+  },
+  "PhetButton.name": {
+    "value": "PhET Menu Button",
+    "deprecated": true
+  },
+  "HomeButton.name": {
+    "value": "Home",
+    "deprecated": true
+  },
+  "adaptedFrom": {
+    "value": "adapted from",
+    "deprecated": true
+  },
+  "titlePattern": {
+    "value": "{0} {1}",
+    "deprecated": true
+  },
+  "preferences.tabs.input.gestureControls.title": {
+    "value": "Gesture Control",
+    "deprecated": true
+  },
+  "preferences.tabs.input.gestureControls.description": {
+    "value": "Use touch with custom swipes and taps instead. No direct touch with gesture control enabled.",
+    "deprecated": true
+  },
+  "preferences.tabs.general.simulationSpecificSettings": {
+    "value": "Simulation-specific Settings",
+    "deprecated": true
+  },
+  "a11y": {
+    "keyboardHelp": {
+      "keyboardShortcuts": {
+        "value": "Keyboard Shortcuts"
+      },
+      "tabToGetStarted": {
+        "value": "Tab to get started."
+      }
+    },
+    "inPlayArea": {
+      "value": "In Play Area:"
+    },
+    "inControlArea": {
+      "value": "In Control Area:"
+    },
+    "simScreens": {
+      "value": "Sim Screens"
+    },
+    "simScreen": {
+      "value": "Sim Screen"
+    },
+    "screenNamePattern": {
+      "value": "{{name}} Screen"
+    },
+    "goToScreenPattern": {
+      "value": "Go to {{name}} Screen."
+    },
+    "screenSimPattern": {
+      "value": "{{screenName}}, {{simName}}"
+    },
+    "home": {
+      "value": "Home"
+    },
+    "homeScreenDescriptionPattern": {
+      "value": "Welcome to {{name}}. It has {{screens}} interactive screens that you can explore."
+    },
+    "homeScreenHint": {
+      "value": "Choose a screen to start exploring."
+    },
+    "homeScreenIntroPattern": {
+      "value": "{{description}} {{hint}}"
+    },
+    "homeScreenButtonDetailsPattern": {
+      "value": "On {{name}}, {{screenHint}}"
+    },
+    "simResources": {
+      "value": "Sim Resources"
+    },
+    "soundToggle": {
+      "alert": {
+        "simSoundOn": {
+          "value": "Audio Features on."
+        },
+        "simSoundOff": {
+          "value": "Audio Features off."
+        }
+      },
+      "label": {
+        "value": "All Audio"
+      }
+    },
+    "checkOutShortcuts": {
+      "value": "If needed, checkout keyboard shortcuts under Sim Resources."
+    },
+    "phetMenu": {
+      "value": "PhET Menu"
+    },
+    "preferences": {
+      "tabs": {
+        "labelledDescriptionPattern": {
+          "value": "{{label}}, {{description}}"
+        },
+        "tabResponsePattern": {
+          "value": "Preferences, {{title}} Tab"
+        },
+        "visual": {
+          "interactiveHighlights": {
+            "enabledAlert": {
+              "value": "Highlights on for all input."
+            },
+            "disabledAlert": {
+              "value": "Highlights off for mouse and touch."
+            }
+          }
+        },
+        "audio": {
+          "sounds": {
+            "soundsOn": {
+              "value": "Sounds on."
+            },
+            "soundsOff": {
+              "value": "Sounds off."
+            },
+            "extraSounds": {
+              "extraSoundsOn": {
+                "value": "Extra Sounds on."
+              },
+              "extraSoundsOff": {
+                "value": "Extra Sounds off."
+              }
+            }
+          },
+          "voicing": {
+            "title": {
+              "value": "Voicing"
+            },
+            "voicingOn": {
+              "value": "Voicing on."
+            },
+            "voicingOff": {
+              "value": "Voicing off."
+            },
+            "voicingOffOnlyAvailableInEnglish": {
+              "value": "Voicing off. Only available in English."
+            },
+            "voicingToolbar": {
+              "title": {
+                "value": "Toolbar"
+              },
+              "toolbarAdded": {
+                "value": "Toolbar added to sim."
+              },
+              "toolbarRemoved": {
+                "value": "Toolbar removed."
+              }
+            },
+            "simVoicingOptions": {
+              "title": {
+                "value": "Sim Voicing Options"
+              },
+              "description": {
+                "value": "Choose details you want voiced as you interact."
+              },
+              "objectDetails": {
+                "label": {
+                  "value": "Voice object details and changes"
+                },
+                "enabledAlert": {
+                  "value": "Voicing object details and changes."
+                },
+                "disabledAlert": {
+                  "value": "Object details and changes muted."
+                }
+              },
+              "contextChanges": {
+                "label": {
+                  "value": "Voice surrounding context changes"
+                },
+                "enabledAlert": {
+                  "value": "Voicing surrounding context changes."
+                },
+                "disabledAlert": {
+                  "value": "Surrounding context changes muted."
+                }
+              },
+              "helpfulHints": {
+                "label": {
+                  "value": "Voice helpful hints"
+                },
+                "enabledAlert": {
+                  "value": "Voicing extra help."
+                },
+                "disabledAlert": {
+                  "value": "Extra help muted."
+                }
+              }
+            },
+            "customizeVoice": {
+              "title": {
+                "value": "Customize Voice"
+              },
+              "expandedAlert": {
+                "value": "expanded"
+              },
+              "collapsedAlert": {
+                "value": "collapsed"
+              },
+              "variablesPattern": {
+                "value": "{{value}}x"
+              },
+              "writtenVariablesPattern": {
+                "value": "{{value}} times"
+              },
+              "voice": {
+                "title": {
+                  "value": "Voice"
+                },
+                "titlePattern": {
+                  "value": "Voice: {{value}}"
+                },
+                "noVoicesAvailable": {
+                  "value": "No voices available"
+                }
+              },
+              "rate": {
+                "title": {
+                  "value": "Rate"
+                },
+                "labelString": {
+                  "value": "Voice Rate"
+                },
+                "rangeDescriptions": {
+                  "low": {
+                    "value": "in low range"
+                  },
+                  "normal": {
+                    "value": "in normal range"
+                  },
+                  "aboveNormal": {
+                    "value": "above normal range"
+                  },
+                  "high": {
+                    "value": "in high range"
+                  },
+                  "voiceRateNormal": {
+                    "value": "normal"
+                  }
+                }
+              },
+              "pitch": {
+                "title": {
+                  "value": "Pitch"
+                }
+              }
+            }
+          }
+        },
+        "input": {
+          "gestureControl": {
+            "enabledAlert": {
+              "value": "Custom taps and swipes on."
+            },
+            "disabledAlert": {
+              "value": "Custom taps and swipes off."
+            }
+          }
+        },
+        "localization": {
+          "languageSelection": {
+            "languageChangeResponsePattern": {
+              "value": "On-screen text now in {{language}}."
+            }
+          }
+        }
+      }
+    },
+    "voicingToolbar": {
+      "title": {
+        "value": "Toolbar"
+      },
+      "openToolbar": {
+        "value": "Open Toolbar"
+      },
+      "closeToolbar": {
+        "value": "Close Toolbar"
+      },
+      "hideToolbar": {
+        "value": "Hide Toolbar"
+      },
+      "showToolbar": {
+        "value": "Show Toolbar"
+      },
+      "toolbarShown": {
+        "value": "Toolbar Shown."
+      },
+      "toolbarHidden": {
+        "value": "Toolbar hidden."
+      },
+      "voicing": {
+        "title": {
+          "value": "Sim Voicing"
+        },
+        "quickInfo": {
+          "value": "Quick Info"
+        },
+        "playOverviewLabel": {
+          "value": "Play Overview"
+        },
+        "playDetailsLabel": {
+          "value": "Play Details"
+        },
+        "playHintLabel": {
+          "value": "Play Hint"
+        },
+        "overviewLabel": {
+          "value": "Overview"
+        },
+        "detailsLabel": {
+          "value": "Details"
+        },
+        "hintLabel": {
+          "value": "Hint"
+        },
+        "simVoicingOnAlert": {
+          "value": "Sim Voicing on."
+        },
+        "simVoicingOffAlert": {
+          "value": "Sim Voicing off."
+        }
+      }
+    }
+  }
+}

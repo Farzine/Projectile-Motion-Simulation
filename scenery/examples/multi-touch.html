@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <title>Multi-touch - Scenery Example</title>
+
+  <link rel="stylesheet" href="../../sherpa/lib/bootstrap-2.2.2.css">
+
+  <!-- Before loading other things (that might error), create hooks to report errors/loads for continuous testing -->
+  <script src="../../chipper/js/browser/sim-tests/pageload-connector.js"></script>
+
+  <!-- jQuery and LoDash are dependencies -->
+  <script src="../../sherpa/lib/jquery-2.1.0.min.js"></script>
+  <script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+
+  <!-- Bootstrap not necessarily needed -->
+  <script src="../../sherpa/lib/bootstrap-2.2.2.js"></script>
+
+  <!-- Our code, in either the concatenated 'with comments' version or the minified version -->
+  <script src="../dist/scenery.min.js"></script>
+
+
+  <style type="text/css">
+    /* Let content go to the edges */
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background-color: #ff0;
+      overflow: hidden;
+    }
+
+    /* Have the #main div cover the entire viewport */
+    #main {
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #fff;
+      z-index: 0;
+      padding: none !important; /* in case we add jQuery Mobile back in */
+    }
+
+  </style>
+</head>
+
+<body>
+
+<!-- our scene graph will be in this div -->
+<div id="main">
+</div>
+
+<script>
+
+  // initialize our scene
+  const scene = new phet.scenery.Node();
+  const display = new phet.scenery.Display( scene, {
+    container: document.getElementById( 'main' )
+  } );
+  display.initializeEvents(); // sets up listeners on the document with preventDefault(), and forwards those events to our scene
+  display.resizeOnWindowResize(); // the scene gets resized to the full screen size
+
+  const container = new phet.scenery.Node();
+  scene.addChild( container );
+
+  container.addChild( new phet.scenery.Text( 'Try dragging the hexagons. On a touch-screen, dragging will pick up the first hexagon.', {
+    x: 20,
+    y: 50,
+    fill: '#000000',
+    font: '20px sans-serif'
+  } ) );
+
+  // add 100 random hexagons
+  for ( let i = 0; i < 100; i++ ) {
+    // anonymous function so the closure variables aren't shared between iterations
+    ( () => {
+      const node = new phet.scenery.Path( phet.kite.Shape.regularPolygon( 6, 22 ), {
+        fill: '#ff0000',
+        stroke: '#000000',
+        x: Math.random() * 500,
+        y: Math.random() * 500 + 100,
+        cursor: 'pointer'
+      } );
+      container.addChild( node );
+
+      // add a drag handler to each node
+      node.addInputListener( new phet.scenery.SimpleDragHandler( {
+        // allow moving a pointer (touch) across a node to pick it up
+        allowTouchSnag: true,
+
+        // called when a drag starts
+        start: function() {
+          node.setFill( '#0000ff' );
+        },
+
+        // called when a drag ends
+        end: function() {
+          node.setFill( '#ff0000' );
+        },
+
+        translate: function( data ) {
+          node.translate( data.delta );
+        }
+      } ) );
+    } )();
+  }
+
+  /*---------------------------------------------------------------------------*
+   * main loop
+   *----------------------------------------------------------------------------*/
+
+  display.updateOnRequestAnimationFrame();
+
+</script>
+
+</body>
+</html>

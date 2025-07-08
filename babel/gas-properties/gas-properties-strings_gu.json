@@ -1,0 +1,730 @@
+{
+  "atmospheres": {
+    "value": "",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "વાતાવરણ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651935331636,
+        "oldValue": "વાતાવરણ",
+        "newValue": ""
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "દળનું વિભાજન દર્શાવો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "દળનું કેન્દ્ર ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651935331636,
+        "oldValue": "દળનું કેન્દ્ર ",
+        "newValue": "દળનું વિભાજન દર્શાવો"
+      }
+    ]
+  },
+  "data": {
+    "value": "માહિતી",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "માહિતી",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "પ્રસરણ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "પ્રસાર",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651935331636,
+        "oldValue": "પ્રસાર",
+        "newValue": "પ્રસરણ"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "પ્રારંભિક તાપમાન (K)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "પ્રારંભિક તાપમાન (K)",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "કિલોપાસ્કલ્સ(kPa)",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651935331636,
+        "oldValue": "કિલોપાસ્કલ્સ(kPa)",
+        "newValue": ""
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "દળ (AMU)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "દળ (AMU)",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "નેનોમીટર(nm)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "નેનોમીટર(nm)",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "કણોની સંખ્યા",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "કણોની સંખ્યા",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "કણ પ્રવાહ દર",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "કણ પ્રવાહ દર",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "દબાણ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "દબાણ",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "દબાણનો અવાજ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "દબાણનો અવાજ",
+        "explanation": null
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "ps",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "ત્રિજ્યા (pm)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "ત્રિજ્યા (pm)",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "પડદો દૂર કરો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "વિભાજકને દૂર કરો",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651935331636,
+        "oldValue": "વિભાજકને દૂર કરો",
+        "newValue": "પડદો દૂર કરો"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "પડદો લગાવો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "વિભાજક લાવો",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651935331636,
+        "oldValue": "વિભાજક લાવો",
+        "newValue": "પડદો લગાવો"
+      }
+    ]
+  },
+  "scale": {
+    "value": "માપપટી",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "સ્કેલ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651935331636,
+        "oldValue": "સ્કેલ",
+        "newValue": "માપપટી"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "સ્ટોપવોચ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "સ્ટોપવોચ",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}} K",
+        "explanation": null
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "અથડામણ કાઉન્ટર",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અથડામણ કાઉન્ટર",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "પહોળાઈ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "પહોળાઈ",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "નમૂનારૂપ સમયગાળો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "નમૂનારૂપ સમયગાળો",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "દિવાલ અથડામણ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "દિવાલ અથડામણ",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C(સે.)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "°C(સેલ્સિયસ)",
+        "explanation": null
+      },
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "°C(સેલ્સિયસ)",
+        "newValue": "°C(સે.)",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "કેલ્વિન(K)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "કેલ્વિન(K)",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "ઢાંકણું લાવો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "ઢાંકણું લાવો",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "અરેરે !<br><br>મહત્તમ તાપમાન પહોંચી ગયું.",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અરેરે !<br><br>મહત્તમ તાપમાન પહોંચી ગયું.",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "અથડામણ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અથડામણ",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "ભારે",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "ભારે",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "હળવા",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "હળવા",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "કણો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "કણો",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "અન્વેષણ કરો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "અન્વેષણ કરો",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "કાંઈ નહીં",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "કાંઈ નહીં",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "દબાણ ↕T",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "દબાણ ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "દબાણ ↕V",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "દબાણ ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "સતત પકડી રાખો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "સતત પકડી રાખો",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "તાપમાન (T)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "તાપમાન (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "કદ (V)",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "કદ (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "અરેરે !<br><br>દબાણ સતત રાખી શકાતું નથી<br>જ્યારે કન્ટેનર ખાલી છે.",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અરેરે !<br><br>દબાણ સતત રાખી શકાતું નથી<br>જ્યારે કન્ટેનર ખાલી છે.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "અરેરે !<br><br>દબાણ સતત રાખી શકાતું નથી<br>કદ ખૂબ મોટું હશે.",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અરેરે !<br><br>દબાણ સતત રાખી શકાતું નથી<br>કદ ખૂબ મોટું હશે.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "અરેરે !<br><br>દબાણ સતત રાખી શકાતું નથી<br>કદ ખૂબ નાનું હશે.",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અરેરે !<br><br>દબાણ સતત રાખી શકાતું નથી<br>કદ ખૂબ નાનું હશે.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "અરેરે !<br><br>તાપમાન સતત રાખી શકાતું નથી<br>જ્યારે કન્ટેનર ખાલી છે.",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અરેરે !<br><br>તાપમાન સતત રાખી શકાતું નથી<br>જ્યારે કન્ટેનર ખાલી છે.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "અરેરે !<br><br>તાપમાન સતત રાખી શકાતું નથી<br>જ્યારે કન્ટેનર ખુલ્લું છે.",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "અરેરે !<br><br>તાપમાન સતત રાખી શકાતું નથી<br>જ્યારે કન્ટેનર ખુલ્લું છે.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "આદર્શ ગુણધર્મો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577175887667,
+        "oldValue": "",
+        "newValue": "આદર્શ",
+        "explanation": null
+      },
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "આદર્શ",
+        "newValue": "આદર્શ ગુણધર્મો",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "સરેરાશ ગતિ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "સરેરાશ ગતિ",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "ઇન્જેક્શન તાપમાન",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "ઇન્જેક્શન તાપમાન",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "મેચ કન્ટેનર",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "મેચ કન્ટેનર",
+        "explanation": null
+      }
+    ]
+  },
+  "setTo": {
+    "value": "સેટ કરો:",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "સેટ કરો:",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "ગતિ ઊર્જા",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "ગતિ ઊર્જા",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "ગતિ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "ગતિ",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "ઊર્જા",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "ઊર્જા",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "વાયુના ગુણધર્મો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1577266160146,
+        "oldValue": "",
+        "newValue": "વાયુના ગુણધર્મો -Pankajsid34",
+        "explanation": null
+      },
+      {
+        "userId": 654769,
+        "timestamp": 1643299166381,
+        "oldValue": "વાયુના ગુણધર્મો -Pankajsid34",
+        "newValue": "વાયુના ગુણધર્મો  નિકુંજ સવાણી "
+      },
+      {
+        "userId": 726621,
+        "timestamp": 1643805675748,
+        "oldValue": "વાયુના ગુણધર્મો  નિકુંજ સવાણી ",
+        "newValue": "વાયુના ગુણધર્મો"
+      }
+    ]
+  }
+}

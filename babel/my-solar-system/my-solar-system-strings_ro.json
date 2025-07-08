@@ -1,0 +1,471 @@
+{
+  "screen.intro": {
+    "value": "Introducere",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Introducere"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laborator",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Laborator"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Urmărește centrul de masă al sistemului",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Urmărește CM al sistemului"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "Urmărește CM al sistemului",
+        "newValue": "Urmărește centrul de masă al sistemului",
+        "explanation": null
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Corpuri",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Corpuri"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Notații unități",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Notații unități"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Mai multe date",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Mai multe date"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Soare și planetă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Soare și planetă"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Soare, planetă și Lună",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Soare, planetă și Lună"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Soare, planetă și cometă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Soare, planetă și cometă"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Asteroizi troieni",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Asteroizi troieni"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Elipse",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Elipse"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Hiperbole",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Hiperbole"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Praștie",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Praștie"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Praștie dublă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Praștie dublă"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Stele duble, planetă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Stele duble, planetă"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Balet cu patru stele",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Balet cu patru stele"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Perechi, perechi",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Perechi, perechi"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Particularizare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Particularizare"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Masă"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Centrul de masă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Centrul de masă"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "De la {{min}} la {{max}}",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "De la {{min}} la {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Sistemul meu solar",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Sistemul meu solar"
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Nota 1:</b> O unitate astronomică (ua) măsoară aproximativ 150 de milioane de kilometri. Aceasta este distanța medie dintre Soare și Pământ.",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "<b>Nota 1:</b> O unitate astronomică (ua) măsoară aproximativ 150 de milioane de kilometri. Aceasta este distanța medie dintre Soare și Pământ."
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Nota 2:</b> Valorile masei din această simulare variază de la 1 x masa lui Jupiter la 1,5 x masa Soarelui. Toate obiectele astronomice au un comportament similar într-un câmp gravitațional puternic, inclusiv planetele mai mici, cometele și asteroizii.",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "<b>Nota 2:</b> Valorile masei din această simulare variază de la 1 x masa lui Jupiter la 1,5 x masa Soarelui. Toate obiectele astronomice au un comportament similar într-un câmp gravitațional puternic, inclusiv planetele mai mici, cometele și asteroizii."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Nota 3:</b> Din cauza numărului mare de valori din simulator, vectorii forței gravitaționale pot fi uneori prea mici sau prea mari pentru a fi afișați. Vectorii forței gravitaționale pot fi redimensionați cu ajutorul controlului de zoom.",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "<b>Nota 3:</b> Din cauza numărului mare de valori din simulator, vectorii forței gravitaționale pot fi uneori prea mici sau prea mari pentru a fi afișați. Vectorii forței gravitaționale pot fi redimensionați cu ajutorul controlului de zoom."
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "Resetează poziția corpurilor",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Resetează poziția corpurilor"
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Masa"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "Pozția",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Pozția"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "Viteza",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Viteza"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "Alege un sistem orbital",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1708495881916,
+        "oldValue": "",
+        "newValue": "Alege un sistem orbital"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "sistem orbital",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1708495881916,
+        "oldValue": "",
+        "newValue": "sistem orbital"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "sisteme orbitale",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1708495881916,
+        "oldValue": "",
+        "newValue": "sisteme orbitale"
+      }
+    ]
+  },
+  "mode.orbitalSystem1": {
+    "value": "Sistemul orbital 1",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1708495881916,
+        "oldValue": "",
+        "newValue": "Sistemul orbital 1"
+      }
+    ]
+  },
+  "mode.orbitalSystem2": {
+    "value": "Sistemul orbital 2",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1708495881916,
+        "oldValue": "",
+        "newValue": "Sistemul orbital 2"
+      }
+    ]
+  },
+  "mode.orbitalSystem3": {
+    "value": "Sistemul orbital 3",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1708495881916,
+        "oldValue": "",
+        "newValue": "Sistemul orbital 3"
+      }
+    ]
+  },
+  "mode.orbitalSystem4": {
+    "value": "Sistemul orbital 4",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1708495881916,
+        "oldValue": "",
+        "newValue": "Sistemul orbital 4"
+      }
+    ]
+  }
+}

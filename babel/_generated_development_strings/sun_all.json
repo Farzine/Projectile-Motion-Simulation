@@ -1,0 +1,37 @@
+{
+  "en": {
+    "sun.title": {
+      "value": "sun demo"
+    },
+    "screen.buttons": {
+      "value": "Buttons"
+    },
+    "screen.components": {
+      "value": "Components"
+    },
+    "screen.dialogs": {
+      "value": "Dialogs"
+    },
+    "a11y": {
+      "numberSpinnerRoleDescription": {
+        "value": "number spinner"
+      },
+      "closed": {
+        "value": "Closed"
+      },
+      "titleClosePattern": {
+        "value": "{{title}}, Close."
+      },
+      "aBSwitch": {
+        "accessibleNamePattern": {
+          "value": "{{selectedValue}}, Switch to {{otherValue}}"
+        }
+      },
+      "radioButtonGroup": {
+        "combinedNameResponse": {
+          "value": "{{groupName}}}, {{buttonName}}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "oneSecond": {
+    "value": "1 วินาที",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "1 วินาที",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "ความต่างศักย์ AC",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "ความต่างศักย์ AC",
+        "explanation": null
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "เพิ่มหลอดไฟ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "เพิ่มหลอดไฟ"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "ตั้งค่าขั้นสูง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ตั้งค่าขั้นสูง"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "แอมมิเตอร์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "แอมป์มิเตอร์",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1642834379280,
+        "oldValue": "แอมป์มิเตอร์",
+        "newValue": "แอมมิเตอร์"
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "อ่านค่าจากแอมมิเตอร์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "อ่านค่าจากแอมมิเตอร์"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "แอมมิเตอร์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "แอมป์มิเตอร์",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1642834379280,
+        "oldValue": "แอมป์มิเตอร์",
+        "newValue": "แอมมิเตอร์"
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "ถึงขีดจำกัดอัตราเร็วในการจำลองแบบ! ลดอัตราเร็วของการจำลองลงเป็น {{percent}}% ของค่าปกติ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "ถึงขีดจำกัดอัตราเร็วในการจำลองแบบ! ลดอัตราเร็วของการจำลองลงเป็น {{percent}}% ของค่าปกติ",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "แบตเตอรี",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "แบตเตอรี",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "ความต้านทางของแบตเตอรี",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "ความต้านทางของแบตเตอรี",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "อังกฤษ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "อังกฤษ"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "ค่าความจุ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ค่าความจุ"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "ตัวเก็บประจุ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ตัวเก็บประจุ"
+      }
+    ]
+  },
+  "coin": {
+    "value": "เหรียญ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "เหรียญ",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "ทิศการเคลื่อนของกระแส",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "ทิศการเคลื่อนของกระแส",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "กระแส",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "กระแส",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "กระแส (A)",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "กระแส (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "แผนภาพกระแส",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "แผนภาพกระแส",
+        "explanation": null
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "อัตราของค่ากระแส",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "อัตราของค่ากระแส",
+        "explanation": null
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "ข้อมูลออกนอกช่วง",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ข้อมูลออกนอกช่วง"
+      }
+    ]
+  },
+  "dog": {
+    "value": "สุนัข",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "สุนัข",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "ธนบัตร",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ธนบัตร",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "อิเล็คตรอน",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "อิเล็คตรอน",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "ยางลบ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ยางลบ",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "ความถี่",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ความถี่",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "ฟิวส์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ฟิวส์",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "มือ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "มือ",
+        "explanation": null
+      }
+    ]
+  },
+  "inductance": {
+    "value": "ความเหนี่ยวนำ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ความเหนี่ยวนำ"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "ตัวเหนี่ยวนำ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ตัวเหนี่ยวนำ"
+      }
+    ]
+  },
+  "labels": {
+    "value": "ป้ายชื่อ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ป้ายชื่อ",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "หลอดไฟ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "หลอดไฟ",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "มาก",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "มาก",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "ขนาด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ขนาด"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "ลวดหนีบกระดาษ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ลวดหนีบกระดาษ",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "ดินสอ",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ดินสอ",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "การเลื่อนเฟส",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "การเลื่อนเฟส"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "ความต้านทาน",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ความต้านทาน",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "ตัวต้านทาน",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ตัวต้านทาน",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "แผนภาพมาตรฐาน",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "แผนภาพมาตรฐาน"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "แสดงกระแส",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "แสดงกระแส",
+        "explanation": null
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "แหล่งความต้านทาน",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "แหล่งความต้านทาน"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "นาฬิกาจับเวลา",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "นาฬิกาจับเวลา"
+      }
+    ]
+  },
+  "switch": {
+    "value": "สวิทช์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "สวิทช์",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "แตะที่ส่วนประกอบของวงจรเพื่อปรับค่า",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "แตะที่ส่วนประกอบของวงจรเพื่อแก้ไข",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "แตะที่ส่วนประกอบของวงจรเพื่อแก้ไข",
+        "newValue": "แตะที่ส่วนประกอบของวงจรเพื่อปรับค่า"
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "สวิทช์ปิด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "สวิทช์ปิด",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "สวิทช์เปิด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "สวิทช์เปิด",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "เวลา",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "เวลา",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "น้อย",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "น้อย",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "ค่า",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ค่า",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "ความต่างศักย์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ความต่างศักย์",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "ความต่างศักย์ (V)",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "",
+        "newValue": "ความต่างศักย์ (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "แผนภาพความต่างศักย์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "แผนภาพความต่างศักย์",
+        "explanation": null
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "โวลท์มิเตอร์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "โวลท์มิเตอร์",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "เส้นลวด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "เส้นลวด",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "สภาพต้านทานเส้นลวด",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378740,
+        "oldValue": "",
+        "newValue": "ความต้านทานเส้นลวด",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1642834166997,
+        "oldValue": "ความต้านทานเส้นลวด",
+        "newValue": "สภาพต้านทานเส้นลวด"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} โอห์ม",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588643160873,
+        "oldValue": "",
+        "newValue": "{{resistance}} โอห์ม",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} โวลต์",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588643160873,
+        "oldValue": "",
+        "newValue": "{{voltage}} โวลต์",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 153887,
+        "timestamp": 1588043378739,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  }
+}

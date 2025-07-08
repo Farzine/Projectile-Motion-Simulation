@@ -1,0 +1,122 @@
+{
+  "chooseYourLevel": {
+    "value": "Одабери ниво!",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548876055316,
+        "oldValue": "",
+        "newValue": "Одабери ниво!",
+        "explanation": null
+      }
+    ]
+  },
+  "fractionsChooseYourLevel": {
+    "value": "Разломци: Одабери ниво",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548880185317,
+        "oldValue": "",
+        "newValue": "Разломци: Одабери ниво",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumbersChooseYourLevel": {
+    "value": "Мешовити бројеви: Одабери ниво",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548880185317,
+        "oldValue": "",
+        "newValue": "Мешовити бројеви: Одабери ниво",
+        "explanation": null
+      }
+    ]
+  },
+  "myMatches": {
+    "value": "Моји резултати",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548880185317,
+        "oldValue": "",
+        "newValue": "Моји резултати",
+        "explanation": null
+      }
+    ]
+  },
+  "equation": {
+    "value": "Једначина",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548876055316,
+        "oldValue": "",
+        "newValue": "Једначина",
+        "explanation": null
+      }
+    ]
+  },
+  "levelTitlePattern": {
+    "value": "Ниво {{number}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548876055317,
+        "oldValue": "",
+        "newValue": "Ниво {{number}}",
+        "explanation": null
+      }
+    ]
+  },
+  "representationMax": {
+    "value": "Максимум",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548876055317,
+        "oldValue": "",
+        "newValue": "Максимум",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumber": {
+    "value": "Мешовити бројеви",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1548876055317,
+        "oldValue": "",
+        "newValue": "Мешовити бројеви",
+        "explanation": null
+      }
+    ]
+  },
+  "ok": {
+    "value": "ОК",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1501952168688,
+        "oldValue": "",
+        "newValue": "ОК",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "timeNumberSec": {
+    "value": "Време: {0} sec",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1501952168688,
+        "oldValue": "",
+        "newValue": "Време: {0} sec",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  }
+}

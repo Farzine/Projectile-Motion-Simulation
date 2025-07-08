@@ -1,0 +1,622 @@
+{
+  "air": {
+    "value": "Воздух",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Воздух",
+        "explanation": null
+      }
+    ]
+  },
+  "angles": {
+    "value": "Углы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Углы",
+        "explanation": null
+      }
+    ]
+  },
+  "bending-light.name": {
+    "value": "Преломление света",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Преломление света",
+        "explanation": null
+      }
+    ]
+  },
+  "bending-light.title": {
+    "value": "Преломление света",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Преломление света",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "Другое",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Пользовательский",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501494300989,
+        "oldValue": "Пользовательский",
+        "newValue": "Сделанный на заказ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502171444123,
+        "oldValue": "Сделанный на заказ",
+        "newValue": "Другое",
+        "explanation": null
+      }
+    ]
+  },
+  "diamond": {
+    "value": "Алмаз",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Алмаз",
+        "explanation": null
+      }
+    ]
+  },
+  "environment": {
+    "value": "Среда",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Среда",
+        "explanation": null
+      }
+    ]
+  },
+  "glass": {
+    "value": "Стекло",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Стекло",
+        "explanation": null
+      }
+    ]
+  },
+  "high": {
+    "value": "Высокий",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Высокий",
+        "explanation": null
+      }
+    ]
+  },
+  "indexOfRefraction": {
+    "value": "Индекс преломления (n)",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Индекс преломления",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502171444123,
+        "oldValue": "Индекс преломления",
+        "newValue": "Индекс преломления (n)",
+        "explanation": null
+      }
+    ]
+  },
+  "indexOfRefractionColon": {
+    "value": "Индекс преломления",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Индекс преломления",
+        "explanation": null
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Интенсивность",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Интенсивность",
+        "explanation": null
+      }
+    ]
+  },
+  "intro": {
+    "value": "Начало",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Начало",
+        "explanation": null
+      }
+    ]
+  },
+  "laserView": {
+    "value": "Лазер",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Лазер",
+        "explanation": null
+      }
+    ]
+  },
+  "low": {
+    "value": "Низкий",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Низкий",
+        "explanation": null
+      }
+    ]
+  },
+  "material": {
+    "value": "Среда",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Среда",
+        "explanation": null
+      }
+    ]
+  },
+  "miss": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "-",
+        "explanation": null
+      }
+    ]
+  },
+  "moreTools": {
+    "value": "Больше инструментов",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Предметы",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "Предметы",
+        "newValue": "Больше инструментов",
+        "explanation": null
+      }
+    ]
+  },
+  "multipleRays": {
+    "value": "Несколько лучей",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Несколько лучей",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryA": {
+    "value": "Неизвестное А",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Тайна А",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501494300989,
+        "oldValue": "Тайна А",
+        "newValue": "Неизвестное А",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryB": {
+    "value": "Неизвестное В",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Тайна В",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501494300989,
+        "oldValue": "Тайна В",
+        "newValue": "Неизвестное В",
+        "explanation": null
+      }
+    ]
+  },
+  "nUnknown": {
+    "value": "Что такое n?",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Что такое n?",
+        "explanation": null
+      }
+    ]
+  },
+  "normalLine": {
+    "value": "Нормаль",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Нормаль",
+        "explanation": null
+      }
+    ]
+  },
+  "normalSpeed": {
+    "value": "Обычный режим",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Обычный",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501494300989,
+        "oldValue": "Обычный",
+        "newValue": "Обычный режим",
+        "explanation": null
+      }
+    ]
+  },
+  "objects": {
+    "value": "Объекты",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Объекты",
+        "explanation": null
+      }
+    ]
+  },
+  "oneColor": {
+    "value": "Один цвет",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Один цвет",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.value_c": {
+    "value": "{0} c",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "{0} c",
+        "explanation": null
+      }
+    ]
+  },
+  "prismBreak": {
+    "value": "Преломление света",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Преломление света",
+        "explanation": null
+      }
+    ]
+  },
+  "prisms": {
+    "value": "Призмы",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Призмы",
+        "explanation": null
+      }
+    ]
+  },
+  "protractor": {
+    "value": "Транспортир",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Транспортир",
+        "explanation": null
+      }
+    ]
+  },
+  "ray": {
+    "value": "Луч",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Луч",
+        "explanation": null
+      }
+    ]
+  },
+  "reflections": {
+    "value": "Отражения",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Отражения",
+        "explanation": null
+      }
+    ]
+  },
+  "reset": {
+    "value": "Сброс",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Сброс",
+        "explanation": null
+      }
+    ]
+  },
+  "showNormal": {
+    "value": "Показать перпендикуляр",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Показать перпендикуляр",
+        "explanation": null
+      }
+    ]
+  },
+  "showProtractor": {
+    "value": "Показать транспортир",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Показать транспортир",
+        "explanation": null
+      }
+    ]
+  },
+  "showReflections": {
+    "value": "Показать отражение",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Показать отражение",
+        "explanation": null
+      }
+    ]
+  },
+  "singleRay": {
+    "value": "Один луч",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Один луч",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Замедленное движение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Замедленный режим",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501494300989,
+        "oldValue": "Замедленный режим",
+        "newValue": "Замедленное движение",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Скорость",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867753,
+        "oldValue": "",
+        "newValue": "Скорость",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Время",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Время",
+        "explanation": null
+      }
+    ]
+  },
+  "toolbox": {
+    "value": "Инструменты",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Инструменты",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "нм",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501042294401,
+        "oldValue": "",
+        "newValue": "нм",
+        "explanation": null
+      }
+    ]
+  },
+  "unknown": {
+    "value": "Что такое n?",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1500972867752,
+        "oldValue": "",
+        "newValue": "Что такое n?",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Вода",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Вода",
+        "explanation": null
+      }
+    ]
+  },
+  "wave": {
+    "value": "Волна",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Волна",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelengthPattern": {
+    "value": "{0} нм",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501042294401,
+        "oldValue": "",
+        "newValue": "{0} нм",
+        "explanation": null
+      }
+    ]
+  },
+  "whiteLight": {
+    "value": "Свет",
+    "history": [
+      {
+        "userId": 389539,
+        "timestamp": 1485000649811,
+        "oldValue": "",
+        "newValue": "Свет",
+        "explanation": null
+      }
+    ]
+  }
+}

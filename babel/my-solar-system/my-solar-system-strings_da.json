@@ -1,0 +1,504 @@
+{
+  "screen.intro": {
+    "value": "Intro",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Intro"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratorium",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Laboratorium"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Følg massemidtpunkt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Følg massemidtpunkt"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Objekter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Emner"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1684234158436,
+        "oldValue": "Emner",
+        "newValue": "Objekter",
+        "explanation": null
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Noter om enheder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Noter om enhed"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1670313504578,
+        "oldValue": "Noter om enhed",
+        "newValue": "Noter om enheder"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Flere data",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Flere data"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Sol, planet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Sol og planet"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "Sol og planet",
+        "newValue": "Sol, planet",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Sol, planet og måne",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Sol, planet og måne"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Sol, planet og komet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Sol, planet og komet"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Trojanske asteroider",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Trojansk asteroide"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1670313504578,
+        "oldValue": "Trojansk asteroide",
+        "newValue": "Trojanske asteroider"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Ellipser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Ellipser"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Hyperbolsk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Hyperbolsk"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Slingshot",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Slingshot"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Dobbelt slingshot",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Dobbelt slingshot"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Binær stjerne, planet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Binær stjerne, planet"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Firestjerne ballet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Firestjerne ballet"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Dobbelt, dobbelt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Dobbelt, dobbelt"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Tilfældig",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Tilfældig"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "Masse"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837925,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Massemidtpunkt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837926,
+        "oldValue": "",
+        "newValue": "Massemidtpunkt "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "Massemidtpunkt ",
+        "newValue": "Massemidtpunkt",
+        "explanation": null
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837926,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837926,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837926,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837926,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} til {{max}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837926,
+        "oldValue": "",
+        "newValue": "{{min}} til {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Mit solsystem",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1670291837926,
+        "oldValue": "",
+        "newValue": "Mit solsystem"
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Note 1:</b> En astronomisk enhed (AE) er ca. 150 millioner kilometer. Det er den gennemsnitlige afstand mellem Solen og Jorden.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "",
+        "newValue": "<b>Note 1:</b> En astronomisk enhed (AE) er ca. 150 millioner kilometer. Det er den gennemsnitlige afstand mellem Solen og Jorden."
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Note 2:</b> Masseværdierne i denne simulation varierer fra 1 Jupitermasse til 1,5 Solmasser. Alle astronomiske objekter viser en lignende bevægelse under et stærkt tiltrækkende felt, inklusiv mindre planeter, kometer og asteroider.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "",
+        "newValue": "<b>Note 2:</b> Masseværdierne i denne simulation varierer fra 1 Jupitermasse til 1,5 Solmasser. Alle astronomiske objekter viser en lignende bevægelse under et stærkt tiltrækkende felt, inklusiv mindre planeter, kometer og asteroider."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Note 3:</b> På grund af den store forskel på værdierne i simulationen, vil tiltrækningsvektorerne somme tider være for små eller for store til visning. Gravitationsvektorerne kan gen-skaleres med zoom-kontrollen.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "",
+        "newValue": "<b>Note 3:</b> På grund af den store forskel på værdierne i simulationen, vil tiltrækningsvektorerne somme tider være for små eller for store til visning. Gravitationsvektorerne kan gen-skaleres med zoom-kontrollen."
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "Returner objekter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "",
+        "newValue": "Returner emner"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1684234158436,
+        "oldValue": "Returner emner",
+        "newValue": "Returner objekter",
+        "explanation": null
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "Masse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "",
+        "newValue": "Masse"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "Position",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "",
+        "newValue": "Position"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "Hastighed",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1684203349069,
+        "oldValue": "",
+        "newValue": "Hastighed"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "Vælg et kredsløbssystem",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1706807403321,
+        "oldValue": "",
+        "newValue": "Vælg et kredsløbssystem"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "kredsløbssystem",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1706807403321,
+        "oldValue": "",
+        "newValue": "kredsløbssystem"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "kredsløbssystemer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1706807403321,
+        "oldValue": "",
+        "newValue": "kredsløbssystemer"
+      }
+    ]
+  },
+  "mode.orbitalSystem1": {
+    "value": "Kredsløbssystem 1",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1706807403321,
+        "oldValue": "",
+        "newValue": "Kredsløbssystem 1"
+      }
+    ]
+  },
+  "mode.orbitalSystem2": {
+    "value": "Kredsløbssystem 2",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1706807403321,
+        "oldValue": "",
+        "newValue": "Kredsløbssystem 2"
+      }
+    ]
+  },
+  "mode.orbitalSystem3": {
+    "value": "Kredsløbssystem 3",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1706807403321,
+        "oldValue": "",
+        "newValue": "Kredsløbssystem 3"
+      }
+    ]
+  },
+  "mode.orbitalSystem4": {
+    "value": "Kredsløbssystem 4",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1706807403321,
+        "oldValue": "",
+        "newValue": "Kredsløbssystem 4"
+      }
+    ]
+  }
+}

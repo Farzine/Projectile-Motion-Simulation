@@ -1,0 +1,312 @@
+{
+  "keepGoing": {
+    "value": "Keep Going",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663919118013,
+        "oldValue": "",
+        "newValue": "Keep Going"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "নতুন লেভেল",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663919118013,
+        "oldValue": "",
+        "newValue": "নতুন লেভেল "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661817681,
+        "oldValue": "নতুন লেভেল ",
+        "newValue": "নতুন লেভেল",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "স্কোর ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663919118013,
+        "oldValue": "",
+        "newValue": "স্কোর "
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "স্কোর: {{score}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663919118013,
+        "oldValue": "",
+        "newValue": "Score: {{score}}"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1664503572073,
+        "oldValue": "Score: {{score}}",
+        "newValue": "স্কোর: {{score}}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "তোমার লেভেল পছন্দ কর ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663991020045,
+        "oldValue": "",
+        "newValue": "তোমার লেভেল পছন্দ কর "
+      }
+    ]
+  },
+  "done": {
+    "value": "Done",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663991020045,
+        "oldValue": "",
+        "newValue": "Done"
+      }
+    ]
+  },
+  "next": {
+    "value": "এরপর (Next)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "এরপর (Next)"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "তুমি সমস্ত লেভেল অতিক্রম করেছো ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663991020045,
+        "oldValue": "",
+        "newValue": "তুমি সমস্ত লেভেল অতিক্রম করেছো "
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Your Best: {0})",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "(Your Best: {0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Your New Best!)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "(Your New Best!)"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Challenge {0} of {1}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "Challenge {0} of {1}"
+      }
+    ]
+  },
+  "check": {
+    "value": "চেক ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "চেক "
+      }
+    ]
+  },
+  "continue": {
+    "value": "চালিয়ে যাও ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "চালিয়ে যাও "
+      }
+    ]
+  },
+  "excellent": {
+    "value": "চমৎকার ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "চমৎকার "
+      }
+    ]
+  },
+  "good": {
+    "value": "ভাল ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "ভাল "
+      }
+    ]
+  },
+  "great": {
+    "value": "আসাধারন ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "আসাধারন "
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "চেষ্টা চালিয়ে যাও ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "চেষ্টা চালিয়ে যাও "
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Level: {0}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "Level: {0}"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Score: {0}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "Score: {0}"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Score: {0} out of {1}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "Score: {0} out of {1}"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Select Level",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "Select Level"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "উত্তর দেখাও",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "উত্তর দেখাও"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Start Over",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "Start Over"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Time: {0}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "Time: {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "আবার চেষ্টা কর ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663810332452,
+        "oldValue": "",
+        "newValue": "আবার চেষ্টা কর "
+      }
+    ]
+  }
+}

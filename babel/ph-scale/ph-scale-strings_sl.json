@@ -1,0 +1,577 @@
+{
+  "acidic": {
+    "value": "Kislo",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Kislo",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "Bazično",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Bazično",
+        "explanation": null
+      }
+    ]
+  },
+  "button.zoomIn": {
+    "value": "Povečaj (÷10)",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Povečaj (÷10)",
+        "explanation": null
+      }
+    ]
+  },
+  "button.zoomOut": {
+    "value": "Pomanjšaj (x10)",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Pomanjšaj (x10)",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.H3O_OH_ratio": {
+    "value": "razmerje {0}/{1}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "razmerje {0}/{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.dontAskAgain": {
+    "value": "Ne sprašuj ponovno.",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Ne sprašuj ponovno.",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "Kislina v bateriji",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Kislina v bateriji",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.beer": {
+    "value": "pivo",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "pivo",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "Kri",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Kri",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "Kokošja juha",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Kokošja juha",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "Kava",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Kava",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "Tekočina po meri",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Tekočina po meri",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "Čistilo za odtoke",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Čistilo za odtoke",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "Milo",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Milo",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "Mleko",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Mleko",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "Pomarančni sok",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Pomarančni sok",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "Gazirana pijača",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Gazirana pijača",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "Slina",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Slina",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "Bruhanje",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Bruhanje",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "Voda",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Voda",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Koncentracija",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "Koncentracija",
+        "explanation": null
+      }
+    ]
+  },
+  "label.acid": {
+    "value": "kislina",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "kislina",
+        "explanation": null
+      }
+    ]
+  },
+  "label.base": {
+    "value": "baza",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "baza",
+        "explanation": null
+      }
+    ]
+  },
+  "label.pH": {
+    "value": "pH:",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "pH:",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "Linearna lestvica",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "Linearna lestvica",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "Logaritemska lestvica",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "Logaritemska lestvica",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "Število molekul",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "Število molekul",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "Nevtralno",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Nevtralno",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "izven lestvice",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "izven lestvice",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH lestvica",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "pH lestvica",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "Množina snovi",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "Množina snovi",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.concentration": {
+    "value": "Koncentracija ({0})",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Koncentracija ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.linearScale": {
+    "value": "Linearna skala",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Linearna skala",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.logarithmicScale": {
+    "value": "Logaritemska skala",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Logaritemska skala",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.numberOfMoles": {
+    "value": "Število molov ({0})",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Število molov ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "razmerje",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "razmerje",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "Makro",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "Makro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Mikro",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "Mikro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Poljubna raztopina",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462342346079,
+        "oldValue": "",
+        "newValue": "Poljubna raztopina",
+        "explanation": null
+      }
+    ]
+  },
+  "title.waterComponents": {
+    "value": "Diagram",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Diagram",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": "Samo Jamšek (avgust 2011)",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "Samo Jamšek (avgust 2011)",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111643,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1462256111644,
+        "oldValue": "",
+        "newValue": "mol/L",
+        "explanation": null
+      }
+    ]
+  },
+  "particleCounts": {
+    "value": "Število delcev",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1701338057236,
+        "oldValue": "",
+        "newValue": "Število delcev"
+      }
+    ]
+  }
+}

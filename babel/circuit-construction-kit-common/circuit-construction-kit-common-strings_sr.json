@@ -1,0 +1,699 @@
+{
+  "acSource": {
+    "value": "АC (наизменични) напон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588096018174,
+        "oldValue": "",
+        "newValue": "АC (наизменични) напон",
+        "explanation": null
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Додај \"праву\" сијалицу",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Додај \"праву\" сијалицу"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Напредно",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Напредно"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "амперметар",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Амперметар",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "Амперметар",
+        "newValue": "амперметар",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "амперметри",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Амперметри",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "Амперметри",
+        "newValue": "амперметри",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Достигнуто ограничење брзине анимације. Брзина смањена на {{percent}}% нормалне. ",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Достигнуто ограничење брзине анимације. Брзина смањена на {{percent}}% нормалне. ",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Електрични извор",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Електрични извор",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Унутрашњи отпор извора",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Унутрашњи отпор извора",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Капацитет",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Капацитет"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Кондензатор",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Кондензатор"
+      }
+    ]
+  },
+  "coin": {
+    "value": "новчић",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Новчић",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "Новчић",
+        "newValue": "новчић",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "технички смер",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Уобичајено",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436648330,
+        "oldValue": "Уобичајено",
+        "newValue": "технички смер",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Струја",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Струја",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Струја (А)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Струја (А)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "График (јачине) струје",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "График (јачине) струје"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Подаци ван опсега",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1639604002445,
+        "oldValue": "",
+        "newValue": "Подаци ван опсега"
+      }
+    ]
+  },
+  "dog": {
+    "value": "џукац",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Џукац",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "Џукац",
+        "newValue": "џукац",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "долар",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Долар",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "Долар",
+        "newValue": "долар",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "електрони",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "електрони",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "гумица",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "гумица",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "фреквенција",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588096018174,
+        "oldValue": "",
+        "newValue": "фреквенција",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "осигурач",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588096018174,
+        "oldValue": "",
+        "newValue": "осигурач",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "рука",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "рука",
+        "explanation": null
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Индуктивност",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Индуктивност"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Завојница (соленоид)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Завојница (соленоид)"
+      }
+    ]
+  },
+  "labels": {
+    "value": "ознаке",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "ознаке",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "сијалица",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Сијалица",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "Сијалица",
+        "newValue": "сијалица",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "велика",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "више",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "више",
+        "newValue": "велика",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "опсег",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1639604002445,
+        "oldValue": "",
+        "newValue": "опсег"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "спајалица",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "спајалица",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "оловка",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "оловка",
+        "explanation": null
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Отпорност",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Отпорност",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "отпорник",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "Отпорник",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "Отпорник",
+        "newValue": "отпорник",
+        "explanation": null
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "покажи струје",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "покажи струје",
+        "explanation": null
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Отпорност извора",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Отпорност извора"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "хронометар",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1639604002445,
+        "oldValue": "",
+        "newValue": "хронометар"
+      }
+    ]
+  },
+  "switch": {
+    "value": "прекидач",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "прекидач",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "додирни елемент за уређивање",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "додирни елемент за уређивање",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "затворен прекидач",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "затворен прекидач",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "отворен прекидач",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "отворен прекидач",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "време",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1639604002445,
+        "oldValue": "",
+        "newValue": "време"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "мала",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "ситно",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "ситно",
+        "newValue": "мала",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "вредности",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "вредности",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "напон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "напон",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Напон (V)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Напон (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "график напона",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "график напона"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "волтметар",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "волтметар",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "проводник",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "жица/проводник",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1509436589137,
+        "oldValue": "жица/проводник",
+        "newValue": "проводник",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "отпорност жице",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "отпорност жице",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} oма",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "{{resistance}} oма",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} волти",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "{{voltage}} волти",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Реална сијалица",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1614451284569,
+        "oldValue": "",
+        "newValue": "Реална сијалица"
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} oма",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1509400100582,
+        "oldValue": "",
+        "newValue": "{{resistance}} oма",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "pattern.0yourBest": {
+    "value": "(Tvoje maximum: {0})",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "(Tvoje\r\nmaximum: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457001819576,
+        "oldValue": "(Tvoje\r\nmaximum: {0})",
+        "newValue": "(Tvoje\r\n\nmaximum: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457029075381,
+        "oldValue": "(Tvoje\r\n\nmaximum: {0})",
+        "newValue": "(Tvoje\r\n\n\nmaximum: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457036704089,
+        "oldValue": "(Tvoje\r\n\n\nmaximum: {0})",
+        "newValue": "(Tvoje\r\n\n\n\nmaximum: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457189424059,
+        "oldValue": "(Tvoje\r\n\n\n\nmaximum: {0})",
+        "newValue": "(Tvoje\r\n\n\n\n\nmaximum: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457193262884,
+        "oldValue": "(Tvoje\r\n\n\n\n\nmaximum: {0})",
+        "newValue": "(Tvoje maximum: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Tvoje nové maximum!)",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "(Tvoje\r\nnové maximum!)",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457001819576,
+        "oldValue": "(Tvoje\r\nnové maximum!)",
+        "newValue": "(Tvoje\r\n\nnové maximum!)",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457029075381,
+        "oldValue": "(Tvoje\r\n\nnové maximum!)",
+        "newValue": "(Tvoje\r\n\n\nnové maximum!)",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457036704089,
+        "oldValue": "(Tvoje\r\n\n\nnové maximum!)",
+        "newValue": "(Tvoje\r\n\n\n\nnové maximum!)",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457189424059,
+        "oldValue": "(Tvoje\r\n\n\n\nnové maximum!)",
+        "newValue": "(Tvoje\r\n\n\n\n\nnové maximum!)",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1457193262884,
+        "oldValue": "(Tvoje\r\n\n\n\n\nnové maximum!)",
+        "newValue": "(Tvoje nové maximum!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Výzva {0} z {1}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457001819576,
+        "oldValue": "",
+        "newValue": "Výzva {0} z {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Skontroluj",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457029075381,
+        "oldValue": "",
+        "newValue": "Skontroluj",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Vyberte si úroveň!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1676335350699,
+        "oldValue": "",
+        "newValue": "Vyberte si úroveň!"
+      }
+    ]
+  },
+  "continue": {
+    "value": "Pokračovať",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Pokračovať",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Vynikajúco!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Vynikajúco!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Dobré!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Dobré!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Skvelé!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Skvelé!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Skúšaj ďalej",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Skúšaj ďalej",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Úroveň: {0}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Úroveň: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Ďalej",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457029075381,
+        "oldValue": "",
+        "newValue": "Ďalej",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "Skóre:",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1676335350699,
+        "oldValue": "",
+        "newValue": "Skóre:"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Skóre: {0} z {1}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Skóre: {0} z {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Skóre: {{score}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1676335350699,
+        "oldValue": "",
+        "newValue": "Skóre: {{score}}"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Ukázať odpoveď",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457029075381,
+        "oldValue": "",
+        "newValue": "Ukázať odpoveď",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Začať odznova",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457001819576,
+        "oldValue": "",
+        "newValue": "Začať odznova",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Čas: {0}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732036,
+        "oldValue": "",
+        "newValue": "Čas: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Skúsiť  znovu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457029075381,
+        "oldValue": "",
+        "newValue": "Skúsiť  znovu",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1463036392930,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1463036392930,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Skóre: {0}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456778732035,
+        "oldValue": "",
+        "newValue": "Skóre: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Vyber si úroveň",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1460167676874,
+        "oldValue": "",
+        "newValue": "Vyber si úroveň",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Hotovo",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679831665774,
+        "oldValue": "",
+        "newValue": "Hotovo"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Dokončili ste všetky úrovne!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679831665774,
+        "oldValue": "",
+        "newValue": "Dokončili ste všetky úrovne!"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Nová obtiažnosť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680970920769,
+        "oldValue": "",
+        "newValue": "Nová obtiažnosť"
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Pokračuj",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680970920769,
+        "oldValue": "",
+        "newValue": "Pokračuj"
+      }
+    ]
+  }
+}

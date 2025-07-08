@@ -1,0 +1,381 @@
+{
+  "area": {
+    "value": "Аудан",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Аудан",
+        "explanation": null
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Ауданды есептеу",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Ауданды есептеу",
+        "explanation": null
+      }
+    ]
+  },
+  "calculation": {
+    "value": "Есептеу",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Есептеу",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Ондық бөлшектер",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542270075518,
+        "oldValue": "",
+        "newValue": "Ондық бөлшектер",
+        "explanation": null
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Өлшемдер",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Өлшемдер",
+        "explanation": null
+      }
+    ]
+  },
+  "factors": {
+    "value": "Бөліну компоненттері",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Бөліну компоненттері",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542271214549,
+        "oldValue": "Бөліну компоненттері",
+        "newValue": "Көбейткіштер",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796724373,
+        "oldValue": "Көбейткіштер",
+        "newValue": "Бөліну компоненттері",
+        "explanation": null
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Блоктардың ауданы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Блоктардың ауданы",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542274419560,
+        "oldValue": "Блоктардың ауданы",
+        "newValue": "Блоктар",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796724373,
+        "oldValue": "Блоктар",
+        "newValue": "Блоктардың ауданы",
+        "explanation": null
+      }
+    ]
+  },
+  "partition": {
+    "value": "Блоктарға бөлу",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Блоктарға бөлу",
+        "explanation": null
+      }
+    ]
+  },
+  "product": {
+    "value": "Шығарма",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Шығарма",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542274419560,
+        "oldValue": "Шығарма",
+        "newValue": "Блок",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796724373,
+        "oldValue": "Блок",
+        "newValue": "Шығарма",
+        "explanation": null
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Жалпы ауданы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Жалпы ауданы",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542271214549,
+        "oldValue": "Жалпы ауданы",
+        "newValue": "Толық аудан",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542274419561,
+        "oldValue": "Толық аудан",
+        "newValue": "Фигураның жалпы ауданы",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796724374,
+        "oldValue": "Фигураның жалпы ауданы",
+        "newValue": "Жалпы ауданы",
+        "explanation": null
+      }
+    ]
+  },
+  "enter": {
+    "value": "Енгізу",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Енгізу",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Зерттеу",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Зерттеу",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Блоктың ауданын және қабырғаның ұзындығын табыңыз.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Блоктың ауданын және қабырғаның ұзындығын табыңыз.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Блоктың ауданын және жалпы ауданды табыңыз.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Блоктың ауданын және жалпы ауданның мәнін табыңыз.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542274419560,
+        "oldValue": "Блоктың ауданын және жалпы ауданның мәнін табыңыз.",
+        "newValue": "Блоктың ауданын және жалпы ауданды табыңыз.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Блоктың аудынын табыңыз.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Блоктың ауданын табыңыз.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542274419560,
+        "oldValue": "Блоктың ауданын табыңыз.",
+        "newValue": "Блоктың аудынын табыңыз.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Блоктардың аудандарын табыңыз.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Блоктардың аудандарының мәнін табыңыз.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542274419560,
+        "oldValue": "Блоктардың аудандарының мәнін табыңыз.",
+        "newValue": "Блоктардың аудандарын табыңыз.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Қабырғалардың ұзындығын табыңыз.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Қабырғалардың ұзындығын табыңыз.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Қабырғалардың ұзындығын табыңыз.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Қабырғаның ұзындығын табыңыз.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542274419560,
+        "oldValue": "Қабырғаның ұзындығын табыңыз.",
+        "newValue": "Қабырғалардың ұзындығын табыңыз.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Жалпы ауданды табыңыз.",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Жалпы ауданды табыңыз.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Ойын",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Ойын",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Жай сандар",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Жай сандар",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Көбейту",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542271214549,
+        "oldValue": "",
+        "newValue": "Көбейту",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Блоктарға бөлу",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542271214549,
+        "oldValue": "",
+        "newValue": "Блоктарға бөлу",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Айнымалы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Айнымалы",
+        "explanation": null
+      }
+    ]
+  }
+}

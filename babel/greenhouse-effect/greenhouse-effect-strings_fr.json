@@ -1,0 +1,583 @@
+{
+  "screen.layerModel": {
+    "value": "Modèle en couches",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Modèle en couches"
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Photons",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Photons"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Ondes",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Ondes"
+      }
+    ]
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "Réglage et contrôles du fluxmètre",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Réglage et contrôles du fluxmètre"
+      }
+    ]
+  },
+  "morePhotons": {
+    "value": "Plus de photons",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Plus de photons"
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Infrarouge",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Infrarouge"
+      }
+    ]
+  },
+  "absorbingLayers": {
+    "value": "Couches absorbantes",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Couches absorbantes"
+      }
+    ]
+  },
+  "infraredAbsorbance": {
+    "value": "Absorbance dans l'infrarouge",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Absorbance dans l'infrarouge"
+      }
+    ]
+  },
+  "sunlight": {
+    "value": "Lumière",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Lumière "
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1714904336553,
+        "oldValue": "Lumière ",
+        "newValue": "Lumière",
+        "explanation": null
+      }
+    ]
+  },
+  "solarIntensity": {
+    "value": "Intensité du Soleil",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Intensité du Soleil"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "Notre Soleil",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Notre Soleil"
+      }
+    ]
+  },
+  "surfaceAlbedo": {
+    "value": "Albédo de surface",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Albédo de surface"
+      }
+    ]
+  },
+  "temperatureUnits": {
+    "value": "Unités de température",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "",
+        "newValue": "Unités de température"
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "Élevée",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Lot"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "Lot",
+        "newValue": "Élevée"
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "Nulle",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Aucun"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "Aucun",
+        "newValue": "Nulle"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "Concentration en gaz à effet de serre",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Concentration de gaz à effet de serre"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "Concentration de gaz à effet de serre",
+        "newValue": "Concentration en gaz à effet de serre"
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Période glaciaire",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "L'âge de glace"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "L'âge de glace",
+        "newValue": "Période glaciaire"
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Thermomètre de surface",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Thermomètre de surface"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Nuage",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Nuage"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "L'énergie",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "L'énergie"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Visualiser la température de surface",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Afficher la température de surface"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "Afficher la température de surface",
+        "newValue": "Matérialiser la température de surface"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "Matérialiser la température de surface",
+        "newValue": "Visualiser la température de surface"
+      }
+    ]
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Éclairer avec la lumière du Soleil",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Lancer les rayons du soleil"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "Lancer les rayons du soleil",
+        "newValue": "Afficher la lumière du Soleil"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": "Afficher la lumière du Soleil",
+        "newValue": "Éclairer avec la lumière du Soleil"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Bilan énergétique",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Bilan énergétique"
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Niveau supérieur de l'atmosphère",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Niveau supérieur de l'atmosphère"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "Entrée",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "à l'intérieur"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "à l'intérieur",
+        "newValue": "Entrée"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "Sortie",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "à l'extérieur"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "à l'extérieur",
+        "newValue": "Sortie"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "Global",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Net"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1664979385121,
+        "oldValue": "Net",
+        "newValue": "Global"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Flux d'énergie",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Flux d'énergie"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Bilan énergétique",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Bilan énergétique"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Fluxmètre",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": " fluxmètre"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1675299508947,
+        "oldValue": " fluxmètre",
+        "newValue": "fluxmètre"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1714904336553,
+        "oldValue": "fluxmètre",
+        "newValue": "Fluxmètre",
+        "explanation": null
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Effet de serre",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Effet de serre"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% D'humidité relative",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% D'humidité relative"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Rayons du soleil",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Rayons du soleil"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Infrarouge",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Infrarouge"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Rayons du soleil",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Rayons du soleil"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "Infrarouge",
+    "history": [
+      {
+        "userId": 1086112,
+        "timestamp": 1664901565084,
+        "oldValue": "",
+        "newValue": "Infrarouge"
+      }
+    ]
+  },
+  "defaultTemperatureUnits": {
+    "value": "Unité de température par défaut",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714904336553,
+        "oldValue": "",
+        "newValue": "Unité de température par défaut"
+      }
+    ]
+  },
+  "valuePercentPattern": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714904336553,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  }
+}

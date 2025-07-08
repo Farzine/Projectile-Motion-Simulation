@@ -1,0 +1,616 @@
+{
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Ajustar",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Ajustar"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Acciones Básicas",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460549844,
+        "oldValue": "",
+        "newValue": "Acciones Básicas",
+        "explanation": null
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Bloquear Mayús",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Bloquear Mayús"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Fin",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460549844,
+        "oldValue": "",
+        "newValue": "Fin",
+        "explanation": null
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581599167,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Salir",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Salir",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Rápido",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Rápido"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Agarrar o soltar {{thing}}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581599167,
+        "oldValue": "",
+        "newValue": "Agarrar o soltar {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Agarrar o Soltar {{thing}}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581599167,
+        "oldValue": "",
+        "newValue": "Agarrar o Soltar {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Inicio",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460549845,
+        "oldValue": "",
+        "newValue": "Inicio",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Ir a {{maximum}}",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Ir a {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Ir a {{minimum}}",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Ir a {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "máximo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "máximo"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "mínimo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "mínimo"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Moverse entre los elementos de un grupo",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Moverse entre los elementos de un grupo",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Moverse al siguiente elemento o grupo",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Moverse al siguiente elemento o grupo",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Moverse al elemento o grupo anterior",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Moverse al elemento o grupo anterior",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Normal"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "o",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "o",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Av Pág",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581599167,
+        "oldValue": "",
+        "newValue": "Pg Abajo",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1546460549845,
+        "oldValue": "Pg Abajo",
+        "newValue": "Av Pág",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Re Pág",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581599167,
+        "oldValue": "",
+        "newValue": "Pg Arriba",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1546460549845,
+        "oldValue": "Pg Arriba",
+        "newValue": "Re Pág",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Presionar el botón",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1546460549845,
+        "oldValue": "",
+        "newValue": "Presionar el botón",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "deslizador",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "deslizador"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Controles del Deslizador ",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Controles del Deslizador "
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Lento",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1537473238392,
+        "oldValue": "",
+        "newValue": "Lento",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Espacio",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1544581599167,
+        "oldValue": "",
+        "newValue": "Espacio",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Activar/Desactivar casillas",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1574448199221,
+        "oldValue": "",
+        "newValue": "Activar las casillas",
+        "explanation": null
+      },
+      {
+        "userId": 282036,
+        "timestamp": 1574448289183,
+        "oldValue": "Activar las casillas",
+        "newValue": "Activar/Desactivar casillas",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": " {{verb}} en pasos grandes",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": " {{verb}} en pasos grandes"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": " {{verb}} en pasos pequeños",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": " {{verb}} en pasos pequeños"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "ρ"
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1634582429674,
+        "oldValue": "",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Moverse al siguiente elemento",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Moverse al siguiente elemento",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Moverse al elemento anterior",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Moverse al elemento anterior",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "Regla",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1574448199221,
+        "oldValue": "",
+        "newValue": "Regla",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Regla",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1574448199221,
+        "oldValue": "",
+        "newValue": "Regla",
+        "explanation": null
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "para <b>Agarrar</b> o <b>Soltar</b>",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1583601500642,
+        "oldValue": "",
+        "newValue": "para <b>Agarrar</b> o <b>Soltar</b>",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Longitud de Onda",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1569516193647,
+        "oldValue": "",
+        "newValue": "Longitud de Onda",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.generalNavigation": {
+    "value": "Navegación general",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1516648541730,
+        "oldValue": "",
+        "newValue": "Navegación general",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1492110379359,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Frío",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1494642404923,
+        "oldValue": "",
+        "newValue": "Frío",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Caliente",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1494642404923,
+        "oldValue": "",
+        "newValue": "Caliente",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Corto circuito!",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1492107895024,
+        "oldValue": "",
+        "newValue": "Corto circuito!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1480449707550,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "ResetAllButton.name": {
+    "value": "Reiniciar todo",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1745882883394,
+        "oldValue": "",
+        "newValue": "Reiniciar todo"
+      }
+    ]
+  }
+}

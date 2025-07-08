@@ -1,0 +1,497 @@
+{
+  "screen.layerModel": {
+    "value": "Modelul de strat",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Modelul de strat"
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Fotoni",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Fotoni"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Unde",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Unde"
+      }
+    ]
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "Comenzile cursorului și ale fluxmetrului",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Comenzile cursorului și ale fluxmetrului"
+      }
+    ]
+  },
+  "morePhotons": {
+    "value": "Mai mulți fotoni",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Mai mulți fotoni"
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Infraroșu",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Infraroșu"
+      }
+    ]
+  },
+  "absorbingLayers": {
+    "value": "Straturi absorbante",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Straturi absorbante"
+      }
+    ]
+  },
+  "infraredAbsorbance": {
+    "value": "Absorbanța în infraroșu",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Absorbanța în infraroșu"
+      }
+    ]
+  },
+  "valuePercentPattern": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "sunlight": {
+    "value": "Lumina solară",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Lumina solară"
+      }
+    ]
+  },
+  "solarIntensity": {
+    "value": "Intensitatea solară",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Intensitatea solară"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "Soarele",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Soarele"
+      }
+    ]
+  },
+  "surfaceAlbedo": {
+    "value": "Albedoul suprafeței",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Albedoul suprafeței"
+      }
+    ]
+  },
+  "temperatureUnits": {
+    "value": "Unitați de măsură pentru temperatură",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Unitați de măsură pentru temperatură"
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "mare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "mare"
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "zero",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "zero"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "Concentrație gaze cu efect de seră",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Concentrație gaze cu efect de seră"
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Era glaciară",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Era glaciară"
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Termometru la suprafață",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Termometru la suprafață"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Nori",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Nori"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "Energie",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Energie"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Prezintă temperatura la suprafață",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Prezintă temperatura la suprafață"
+      }
+    ]
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Pornește lumina solară",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Pornește lumina solară"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Bilanț energetic",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Bilanț energetic"
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Limita superioară a atmosferei",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Limita superioară a atmosferei"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "Primită",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Primită"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "Cedată",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Cedată"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Total"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Flux energetic",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Flux energetic"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Bilanț energetic",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Bilanț energetic"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Fluxmetru",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Fluxmetru"
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Efectul de seră",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Efectul de seră"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% umiditate relativă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% umiditate relativă"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Lumina solară",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Lumina solară"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Infraroșu",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Infraroșu"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Lumina solară",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Lumina solară"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "Infraroșu",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649676513380,
+        "oldValue": "",
+        "newValue": "Infraroșu"
+      }
+    ]
+  },
+  "defaultTemperatureUnits": {
+    "value": "Unități de temperatură implicite",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1700566937068,
+        "oldValue": "",
+        "newValue": "Unități de temperatură implicite"
+      }
+    ]
+  }
+}

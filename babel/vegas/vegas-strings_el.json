@@ -1,0 +1,609 @@
+{
+  "pattern.0yourBest": {
+    "value": "(Η καλύτερη βαθμολογία σας: {0})",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "(Η καλύτερη βαθμολογία σας: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Η καλύτερη νέα βαθμολογία σας!)",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "(Η καλύτερη νέα βαθμολογία σας!!)",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1526382939120,
+        "oldValue": "(Η καλύτερη νέα βαθμολογία σας!!)",
+        "newValue": "(Η καλύτερη νέα βαθμολογία σας!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Βήμα {0} από {1}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862980977,
+        "oldValue": "",
+        "newValue": "Βήμα {0} από {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Έλεγχος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862980977,
+        "oldValue": "",
+        "newValue": "Έλεγχος",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Συνέχεια",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Συνέχεια",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Εξαιρετικά!",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Εξαιρετικά!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Πολύ καλά!",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Πολύ καλά!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Περίφημα!",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Περίφημα!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Προσπάθησε πάλι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Προσπάθησε πάλι",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Επίπεδο: {0}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Επίπεδο: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Επόμενο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862980978,
+        "oldValue": "",
+        "newValue": "Επόμενο",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Βαθμολογία: {0}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Βαθμολογία: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Βαθμολογία: {0} από {1}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Βαθμολογία: {0} από {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Εμφάνιση απάντησης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862980978,
+        "oldValue": "",
+        "newValue": "Εμφάνιση απάντησης",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Επανεκκίνηση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862980978,
+        "oldValue": "",
+        "newValue": "Επανεκκίνηση",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Χρόνος: {0}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Χρόνος: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Προσπάθησε πάλι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862980978,
+        "oldValue": "",
+        "newValue": "Προσπάθησε πάλι",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "Βαθμολογία:",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1526382939120,
+        "oldValue": "",
+        "newValue": "Βαθμολογία:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Βαθμολογία: {{score}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1526382939120,
+        "oldValue": "",
+        "newValue": "Βαθμολογία: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Ολοκληρώθηκε",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1548854102882,
+        "oldValue": "",
+        "newValue": "Ολοκληρώθηκε",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Ολοκλήρωσες όλα τα επίπεδα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1548854102882,
+        "oldValue": "",
+        "newValue": "Ολοκλήρωσες όλα τα επίπεδα",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Συνέχισε",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1532104307590,
+        "oldValue": "",
+        "newValue": "Συνέχισε",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Νέο επίπεδο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1532104307590,
+        "oldValue": "",
+        "newValue": "Νέο επίπεδο",
+        "explanation": null
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "Νέο παιχνίδι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Νέο παιχνίδι",
+        "explanation": null
+      }
+    ]
+  },
+  "button.start": {
+    "value": "Έναρξη!",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Έναρξη!",
+        "explanation": null
+      }
+    ]
+  },
+  "format.time.best": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "label.best": {
+    "value": "Καλύτερο: {0}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Καλύτερο: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "Επίπεδο:",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Επίπεδο:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "ΝΕΟ ΚΑΛΥΤΕΡΟ:",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "ΝΕΟ ΚΑΛΥΤΕΡΟ:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "Βαθμολογία: {0} από {1} (ΕΞΑΙΡΕΤΙΚΗ!)",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Βαθμολογία: {0} από {1} (ΕΞΑΙΡΕΤΙΚΗ!)",
+        "explanation": null
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1461862980978,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1461863320987,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1461864493100,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1461865711976,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1461868165404,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1461912733234,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1465630905426,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1488463778740,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1488800615496,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1526382939121,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1532104307591,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1548854102883,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1549000772697,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1549000988329,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1549017481886,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1554993798294,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1554994625043,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1555422265024,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1570812473988,
+        "oldValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "newValue": "Δεν έχετε τελειώσει αυτό το παιχνίδι.\r\nΕίστε σίγουρος ότι θέλετε να ξεκινήσετε ένα νέο παιχνίδι;",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "ανοιχτό",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "ανοιχτό",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "κλειστό",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "κλειστό",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Επιλέξτε επίπεδο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862980978,
+        "oldValue": "",
+        "newValue": "Επιλέξτε επίπεδο",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "Τέλος παιχνιδιού",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Τέλος παιχνιδιού",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "Ρυθμίσεις παιχνιδιού",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461862366569,
+        "oldValue": "",
+        "newValue": "Ρυθμίσεις παιχνιδιού",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Επίλεξε το επίπεδό σου!",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1679663951711,
+        "oldValue": "",
+        "newValue": "Επίλεξε το επίπεδό σου!"
+      }
+    ]
+  }
+}

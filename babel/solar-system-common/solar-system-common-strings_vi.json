@@ -1,0 +1,185 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "năm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "năm"
+      }
+    ]
+  },
+  "clear": {
+    "value": "Xoá",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Xoá"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "|v| = {{value}} {{units}}"
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "|v| = {{value}} {{units}}",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "Lưới",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Lưới"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Thước đo",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Thước đo"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Lực hấp dẫn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Lực hấp dẫn"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Vận tốc",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Vận tốc"
+      }
+    ]
+  },
+  "path": {
+    "value": "Quỹ đạo",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Quỹ đạo"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Lực quá lớn nên không thể hiển thị",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "Lực quá lớn nên không thể hiển thị"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Zoom:",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "Zoom:"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Tốc độ (km/s)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "Tốc độ (km/s)"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1696477072293,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

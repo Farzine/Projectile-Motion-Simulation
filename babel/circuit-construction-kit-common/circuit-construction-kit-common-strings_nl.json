@@ -1,0 +1,885 @@
+{
+  "acSource": {
+    "value": "Wisselspanning",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "",
+        "newValue": "Wisselspanning",
+        "explanation": null
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Voeg echte lampen toe",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Voeg echte lampen toe"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Gevorderd",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Gevorderd"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Ampéremeter",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Ampéremeter",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Uitlezing Ampéremeter ",
+    "history": [
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "",
+        "newValue": "Uitlezing Ampéremeter "
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Ampéremeters",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Ampéremeters",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Snelheidslimiet van animatie bereikt! Snelheid van animatie beperkt tot {{percent}}% normaal .",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Snelheid van animatie bereikt! Snelheid van animatie beperkt tot {{percent}}% normaal.",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509528496419,
+        "oldValue": "Snelheid van animatie bereikt! Snelheid van animatie beperkt tot {{percent}}% normaal.",
+        "newValue": "Snelheidslimiet van animatie bereikt! Snelheid van animatie beperkt tot {{percent}}% normaal.",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "Snelheidslimiet van animatie bereikt! Snelheid van animatie beperkt tot {{percent}}% normaal.",
+        "newValue": "Snelheidslimiet van animatie bereikt! Snelheid van animatie beperkt tot normaal {{percent}}% .",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Snelheidslimiet van animatie bereikt! Snelheid van animatie beperkt tot normaal {{percent}}% .",
+        "newValue": "Snelheidslimiet van animatie bereikt! Snelheid van animatie beperkt tot {{percent}}% normaal ."
+      }
+    ]
+  },
+  "battery": {
+    "value": "Batterij",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1490202847191,
+        "oldValue": "",
+        "newValue": "batterij",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "batterij",
+        "newValue": "Batterij",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Weerstand batterij",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Weerstand Batterij",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509528496419,
+        "oldValue": "Weerstand Batterij",
+        "newValue": "Weerstand batterij",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Engels",
+    "history": [
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "",
+        "newValue": "Engels"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Capaciteit",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Capaciteit"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Condensator",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Condensator"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Munt",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Munt",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Conventioneel",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Conventioneel",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Stroom",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Huidig",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509528496420,
+        "oldValue": "Huidig",
+        "newValue": "Stroom",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Stroomsterkte (A)",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Stroomsterkte (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Stroom",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "",
+        "newValue": "Kaart van stroom",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Kaart van stroom",
+        "newValue": "Stroom"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Grootte van de stroom",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "",
+        "newValue": "Grootte.van stroom",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1578144947586,
+        "oldValue": "Grootte.van stroom",
+        "newValue": "Grootte van stroom",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Grootte van stroom",
+        "newValue": "Grootte van de stroom"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Data buiten het bereik",
+    "history": [
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "",
+        "newValue": "Data buiten het bereik"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Hond",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Hond",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Biljet",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Dollar Rekening",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509452932150,
+        "oldValue": "Dollar Rekening",
+        "newValue": "Dollarbiljet",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509723919460,
+        "oldValue": "Dollarbiljet",
+        "newValue": "Biljet",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektronen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Elektronen",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Gum",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Gom",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Gom",
+        "newValue": "Gum"
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frequentie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "",
+        "newValue": "Frequentie",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Smeltveiligheid",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "",
+        "newValue": "Smeltveiligheid",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Hand",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Hand",
+        "explanation": null
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Impedantie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Inductie"
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Inductie",
+        "newValue": "Impedantie"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Spoel",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Spoel"
+      }
+    ]
+  },
+  "labels": {
+    "value": "",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Labels",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Labels",
+        "newValue": ""
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Gloeilamp",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1490202847191,
+        "oldValue": "",
+        "newValue": "gloeilamp",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "gloeilamp",
+        "newValue": "Gloeiilamp",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509723919460,
+        "oldValue": "Gloeiilamp",
+        "newValue": "Gloeilamp",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "veel",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "veel",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Orde van grootte",
+    "history": [
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "",
+        "newValue": "Orde van grootte"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Paperclip",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Paper Clip",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509528496420,
+        "oldValue": "Paper Clip",
+        "newValue": "Paperclip",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Potlood",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Potlood",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Faseverschuiving",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Faseverschuiving"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Weerstand",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Weerstand",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Weerstand",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1490202847191,
+        "oldValue": "",
+        "newValue": "weerstand",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "weerstand",
+        "newValue": "Weerstand",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Standaard Schema",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Standaard Schema"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Toon stroom",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Toon Stroom",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509528496420,
+        "oldValue": "Toon Stroom",
+        "newValue": "Toon stroom",
+        "explanation": null
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Weerstand Bron",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Weerstand Bron"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Chronometer"
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Chronometer",
+        "newValue": ""
+      }
+    ]
+  },
+  "switch": {
+    "value": "Schakelaar",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1490202847192,
+        "oldValue": "",
+        "newValue": "schakelaar",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "schakelaar",
+        "newValue": "Schakelaar",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Klik op component van circuit om deze te wijzigen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Klik op circuitelement om dit wijzigen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "Klik op circuitelement om dit wijzigen",
+        "newValue": "Klik op component van circuit om dit te wijzigen",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664457706308,
+        "oldValue": "Klik op component van circuit om dit te wijzigen",
+        "newValue": "Klik op component van circuit om deze te wijzigen"
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "De schakelaar is dicht.",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "De schakelaar is toe.",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "De schakelaar is toe.",
+        "newValue": "De schakelaar is dicht."
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "De schakelaar is open.",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "De schakelaar is open.",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Tijd",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "",
+        "newValue": "Tijd",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "klein",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "klein",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Waarden",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Waarden",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Spanning",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Spanning",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Spanning (V)",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Spanning (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Spanning",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1578144798115,
+        "oldValue": "",
+        "newValue": "Kaart spanning",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "Kaart spanning",
+        "newValue": "Spanning"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmeter",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Voltmeter",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Draad",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1490202847192,
+        "oldValue": "",
+        "newValue": "draad",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "draad",
+        "newValue": "Draad",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Weerstand van draad",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "Weerstand van Draad",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509528496420,
+        "oldValue": "Weerstand van Draad",
+        "newValue": "Weerstand van draad",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} Ohm",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      },
+      {
+        "userId": 148415,
+        "timestamp": 1664371406071,
+        "oldValue": "{{resistance}} ohm",
+        "newValue": "{{resistance}} Ohm"
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volt",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "{{voltage}} volt",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1578144947586,
+        "oldValue": "?",
+        "newValue": "",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Echte Lamp",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1614627951944,
+        "oldValue": "",
+        "newValue": "Echte Lamp"
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} ohm",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1509452376282,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      }
+    ]
+  }
+}

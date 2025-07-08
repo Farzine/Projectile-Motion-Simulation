@@ -1,0 +1,167 @@
+{
+  "decimalNotation": {
+    "value": "notacja dziesiętna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1632588677583,
+        "oldValue": "",
+        "newValue": "notacja dziesiętna"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Siła działania: {{otherObject}} na {{thisObject}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1546007408162,
+        "oldValue": "",
+        "newValue": "Siła działania {{otherObject}} na {{thisObject}} ",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1572194539961,
+        "oldValue": "Siła działania {{otherObject}} na {{thisObject}} ",
+        "newValue": "Siła działania: {{otherObject}} na {{thisObject}} ",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678452938694,
+        "oldValue": "Siła działania: {{otherObject}} na {{thisObject}} ",
+        "newValue": "Siła działania: {{otherObject}} na {{thisObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Siła działania: {{otherObject}} na {{thisObject}}  = {{value}} N",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1546007408162,
+        "oldValue": "",
+        "newValue": "Siła działania {{otherObject}} na {{thisObject}}  = {{value}} N",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1572194539961,
+        "oldValue": "Siła działania {{otherObject}} na {{thisObject}}  = {{value}} N",
+        "newValue": "Siła działania: {{otherObject}} na {{thisObject}}  = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Wartości sił",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1546007408162,
+        "oldValue": "",
+        "newValue": "Wartości siły",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1632588677583,
+        "oldValue": "Wartości siły",
+        "newValue": "Wartości sił"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "ukryte",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1632588677583,
+        "oldValue": "",
+        "newValue": "ukryte"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "metr",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1572194539961,
+        "oldValue": "",
+        "newValue": "metr",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metry",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1572194539961,
+        "oldValue": "",
+        "newValue": "metry",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "niutony",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1572194539961,
+        "oldValue": "",
+        "newValue": "niutony",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "notacja naukowa",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1632588677583,
+        "oldValue": "",
+        "newValue": "notacja naukowa"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1678452938694,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1678452938694,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1678452938694,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  }
+}

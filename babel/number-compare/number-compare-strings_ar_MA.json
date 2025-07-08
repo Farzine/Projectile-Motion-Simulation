@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "قارن",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1654472534378,
+        "oldValue": "",
+        "newValue": "قارن"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}}أصغرمن {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1654472534378,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}}أصغرمن {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} أكبر من {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1654472534378,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} أكبر من {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} يساوي {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1654472534378,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} يساوي {{equalNumberRight}}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,982 @@
+{
+  "oneSecond": {
+    "value": "1s",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "1s"
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Voltaji AC",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Voltaji AC"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Tinye Bọlbụ Ọkụ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Tinye bọlbụ ọkụ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798957313,
+        "oldValue": "Tinye bọlbụ ọkụ",
+        "newValue": "Tinye Bọlbụ Ọkụ"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Nke Dị Elu",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Nke dị elu"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664882579011,
+        "oldValue": "Nke dị elu",
+        "newValue": "Nke Dị Elu"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Ammeter",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ammeter"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Ammeters",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ammeters"
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Eruola oke ọsọ nlegharị anya! Ọsọ ihe nlegharị anya ugbu a belatara ka ọ bụrụ nke  {{percent}}% nkịtị",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Eruola oke ọsọ nlegharị anya! Ọsọ ihe nlegharị anya ugbu a belatara ka ọ bụrụ nke  {{percent}}% nkịtị"
+      }
+    ]
+  },
+  "battery": {
+    "value": "Batrị",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Batrị"
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Nguzogide Batrị",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Nguzogide batrị"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664882579011,
+        "oldValue": "Nguzogide batrị",
+        "newValue": "Nguzogide Batrị"
+      }
+    ]
+  },
+  "british": {
+    "value": "Onye Ocha",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Onye ocha"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664882579011,
+        "oldValue": "Onye ocha",
+        "newValue": "Onye Ocha"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Ike Echekwara",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ike echekwara"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664882579011,
+        "oldValue": "Ike echekwara",
+        "newValue": "Ike Echekwara"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Ụlọ Ahịa Ike",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "ụlọ ahịa ike"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798614783,
+        "oldValue": "ụlọ ahịa ike",
+        "newValue": "Ụlọ Ahịa Ike"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Mkpụrụ Ego",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "mkpụrụ ego"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "mkpụrụ ego",
+        "newValue": "Mkpụrụ Ego"
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Omenala",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Omenala"
+      }
+    ]
+  },
+  "current": {
+    "value": "Elektri Iyi",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "elektri iyi"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "elektri iyi",
+        "newValue": "Elektri Iyi"
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Elektri Iyi (A)",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "elektri iyi (A)"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "elektri iyi (A)",
+        "newValue": "Elektri Iyi (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Eserese Eletriki Iyi",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Eserese eletriki iyi"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "Eserese eletriki iyi",
+        "newValue": "Eserese Eletriki Iyi"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Eletrịkị Ụgwọ Agụta",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "eletrịkị ụgwọ agụta"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "eletrịkị ụgwọ agụta",
+        "newValue": "Eletrịkị Ụgwọ Agụta"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Nkịta",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "nkịta"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "nkịta",
+        "newValue": "Nkịta"
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Ego Nye Ocha",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ego onye ocha"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "Ego onye ocha",
+        "newValue": "Ego Nye Ocha"
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Eletrọnị",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Eletrọnị"
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Nchicha",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Nchicha"
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Kwa Nke Abụọ Ije",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "kwa nke abụọ ije"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798614783,
+        "oldValue": "kwa nke abụọ ije",
+        "newValue": "Kwa nke abụọ ije"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664882579011,
+        "oldValue": "Kwa nke abụọ ije",
+        "newValue": "Kwa Nke Abụọ Ije"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Bee ngwá Ọrụ Dị Ugbu ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "bee ngwá ọrụ dị ugbu a"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "bee ngwá ọrụ dị ugbu a",
+        "newValue": "Bee ngwá ọrụ dị ugbu a"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798614783,
+        "oldValue": "Bee ngwá ọrụ dị ugbu a",
+        "newValue": "Bee ngwá Ọrụ Dị Ugbu "
+      }
+    ]
+  },
+  "hand": {
+    "value": "Aka",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Aka"
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Na-emegide Ọkụ Eletrik",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "na-emegide ọkụ eletrik"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "na-emegide ọkụ eletrik",
+        "newValue": "Na-emegide Ọkụ Eletrik"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Na-emegide Ọkụ Eletrik Ngwá ọrụ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "na-emegide ọkụ eletrik ngwá ọrụ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798614783,
+        "oldValue": "na-emegide ọkụ eletrik ngwá ọrụ",
+        "newValue": "Na-emegide Ọkụ Eletrik Ngwá ọrụ"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Akara Aha",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Akara aha"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664882579011,
+        "oldValue": "Akara aha",
+        "newValue": "Akara Aha"
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Ọkụ Bọlbụ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ọkụ bọlbụ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664882579011,
+        "oldValue": "Ọkụ bọlbụ",
+        "newValue": "Ọkụ Bọlbụ"
+      }
+    ]
+  },
+  "lots": {
+    "value": "Otutu",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Otutu"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Mkpa Akwụkwọ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Mkpa akwụkwọ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664884764051,
+        "oldValue": "Mkpa akwụkwọ",
+        "newValue": "Mkpa Akwụkwọ"
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Pensụl",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Pensụl"
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Mgbanwe nke usoro",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Mgbanwe nke usoro"
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Eke Bọlbụ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658752895306,
+        "oldValue": "",
+        "newValue": "Eke bọlbụ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798957313,
+        "oldValue": "Eke bọlbụ",
+        "newValue": "Eke Bọlbụ"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Eguzogide ọkụ eletrik",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "eguzogide ọkụ eletrik"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798957313,
+        "oldValue": "eguzogide ọkụ eletrik",
+        "newValue": "Eguzogide ọkụ eletrik"
+      }
+    ]
+  },
+  "resistor": {
+    "value": "ngwá ọrụ na-eguzogide",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "ngwá ọrụ na-eguzogide"
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Akara Ọkọlọtọ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "akara ọkọlọtọ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "akara ọkọlọtọ",
+        "newValue": "Akara Ọkọlọtọ"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Gosi eruba ọkụ eletrik ugbu a",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Gosi eruba ọkụ eletrik ugbu a"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Isi Nguzogide",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Isi Nguzogide"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Ngụ Oge",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ngụ oge"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "Ngụ oge",
+        "newValue": "Ngụ Oge"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Gbanyụọ Ma Gbanyụọ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Gbanyụọ ma gbanyụọ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "Gbanyụọ ma gbanyụọ",
+        "newValue": "Gbanyụọ ma Gbanyụọ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664884764051,
+        "oldValue": "Gbanyụọ ma Gbanyụọ",
+        "newValue": "Gbanyụọ Ma Gbanyụọ"
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Kpatụ ihe sekit iji dezie.",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Kpatụ ihe sekit iji dezie."
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Emechiri mgba ọkụ.",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Emechiri mgba ọkụ."
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Mgbanwe ahụ mepere emepe.",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Mgbanwe ahụ mepere emepe."
+      }
+    ]
+  },
+  "time": {
+    "value": "Oge",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Oge"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "obere",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "obere"
+      }
+    ]
+  },
+  "values": {
+    "value": "Ọnụọgụgụ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "ọnụọgụgụ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798957313,
+        "oldValue": "ọnụọgụgụ",
+        "newValue": "Ọnụọgụgụ"
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Voltaji",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "voltaji"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "voltaji",
+        "newValue": "Voltaji"
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Voltaji (V)",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "voltaji (V)"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "voltaji (V)",
+        "newValue": "Voltaji (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Ụdị Voltaji",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ụdị voltaji"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798957313,
+        "oldValue": "Ụdị voltaji",
+        "newValue": "Ụdị Voltaji"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Igwe ọkụ voltaji",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Igwe ọkụ voltaji"
+      }
+    ]
+  },
+  "wire": {
+    "value": "Waya",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "waya"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "waya",
+        "newValue": "Waya"
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Nguzogide Waya",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Nguzogide waya"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "Nguzogide waya",
+        "newValue": "Nguzogide Waya"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{current}} A"
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}}  Ω",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{resistance}}  Ω"
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω"
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{voltage}} V"
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volts",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "{{voltage}} volts"
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Ọgụgụ Ammeter",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Ọgụgụ Ammeter"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Nọmba Adịghị ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "nọmba adịghị "
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662798324469,
+        "oldValue": "nọmba adịghị ",
+        "newValue": "Nọmba Adịghị "
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Mgwucha",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Mgwucha"
+      }
+    ]
+  },
+  "signed": {
+    "value": "Bịanyere aka na ya",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1658751741982,
+        "oldValue": "",
+        "newValue": "Bịanyere aka na ya"
+      }
+    ]
+  }
+}

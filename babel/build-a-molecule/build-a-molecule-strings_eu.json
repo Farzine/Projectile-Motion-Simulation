@@ -1,0 +1,612 @@
+{
+  "build-a-molecule.title": {
+    "value": "Eraiki molekula bat",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Eraiki molekula bat",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogen": {
+    "value": "Hidrogenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Hidrogenoa",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Oxigenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Oxigenoa",
+        "explanation": null
+      }
+    ]
+  },
+  "carbon": {
+    "value": "Karbonoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Karbonoa",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "value": "Nitrogenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Nitrogenoa",
+        "explanation": null
+      }
+    ]
+  },
+  "fluorine": {
+    "value": "Fluorea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Fluorea",
+        "explanation": null
+      }
+    ]
+  },
+  "chlorine": {
+    "value": "Kloroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Kloroa",
+        "explanation": null
+      }
+    ]
+  },
+  "boron": {
+    "value": "Boroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Boroa",
+        "explanation": null
+      }
+    ]
+  },
+  "sulphur": {
+    "value": "Sufrea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Sufrea",
+        "explanation": null
+      }
+    ]
+  },
+  "silicon": {
+    "value": "Silizioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Silizioa",
+        "explanation": null
+      }
+    ]
+  },
+  "phosphorus": {
+    "value": "Fosforoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Fosforoa",
+        "explanation": null
+      }
+    ]
+  },
+  "iodine": {
+    "value": "Iodoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Iodoa",
+        "explanation": null
+      }
+    ]
+  },
+  "bromine": {
+    "value": "Bromoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Bromoa",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedYourCollection": {
+    "value": "Bilduma osatu duzu!",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Bilduma osatu duzu!",
+        "explanation": null
+      }
+    ]
+  },
+  "nextCollection": {
+    "value": "Hurrengo bilduma",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Hurrengo bilduma",
+        "explanation": null
+      }
+    ]
+  },
+  "yourMolecules": {
+    "value": "Zure molekulak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Zure molekulak",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionPattern": {
+    "value": "{{number}} bilduma",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "{{number}} bilduma",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeNamePattern": {
+    "value": "{{display}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "{{display}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityEmpty": {
+    "value": "Hau duzu: (hutsik)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Hau duzu: (hutsik)",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityPattern": {
+    "value": "Hau duzu: {{number}} {{formula}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Hau duzu: {{number}} {{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleGoalPattern": {
+    "value": "Helburua: {{number}} {{formula}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Helburua: {{number}} {{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionSinglePattern": {
+    "value": "{{general}} ({{display}})",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "{{general}} ({{display}})",
+        "explanation": null
+      }
+    ]
+  },
+  "warning": {
+    "value": "Molekularen 3D ikuspegia eraikitzeko WebGL behar du. \\ NWebGL ez dago gaituta edo ez dago erabilgarri. Egin klik gehiago jakiteko.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Molekularen 3D ikuspegia eraikitzeko WebGL behar du. \\ NWebGL ez dago gaituta edo ez dago erabilgarri. Egin klik gehiago jakiteko.",
+        "explanation": null
+      }
+    ]
+  },
+  "threeD": {
+    "value": "3D",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "3D",
+        "explanation": null
+      }
+    ]
+  },
+  "title.multiple": {
+    "value": "Anitza",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Anitza",
+        "explanation": null
+      }
+    ]
+  },
+  "title.playground": {
+    "value": "Monitorea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Monitorea",
+        "explanation": null
+      }
+    ]
+  },
+  "title.single": {
+    "value": "Bakarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1603276860580,
+        "oldValue": "",
+        "newValue": "Bakarra",
+        "explanation": null
+      }
+    ]
+  },
+  "acetylene": {
+    "value": "azetilenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "azetilenoa"
+      }
+    ]
+  },
+  "ammonia": {
+    "value": "amoniakoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "amoniakoa"
+      }
+    ]
+  },
+  "borane": {
+    "value": "boranea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "boranea"
+      }
+    ]
+  },
+  "carbonDioxide": {
+    "value": "karbono dioxidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "karbono dioxidoa"
+      }
+    ]
+  },
+  "carbonMonoxide": {
+    "value": "karbono monoxidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "karbono monoxidoa"
+      }
+    ]
+  },
+  "chloromethane": {
+    "value": "klorometanoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "klorometanoa"
+      }
+    ]
+  },
+  "ethylene": {
+    "value": "etilenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "etilenoa"
+      }
+    ]
+  },
+  "fluoromethane": {
+    "value": "fluorometanoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "fluorometanoa"
+      }
+    ]
+  },
+  "formaldehyde": {
+    "value": "formaldehidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "formaldehidoa"
+      }
+    ]
+  },
+  "hydrogenCyanide": {
+    "value": "hidrogeno zianuroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "hidrogeno zianuroa"
+      }
+    ]
+  },
+  "hydrogenPeroxide": {
+    "value": "hidrogeno peroxidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "hidrogeno peroxidoa"
+      }
+    ]
+  },
+  "hydrogenSulfide": {
+    "value": "hidrogeno sulfuroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "hidrogeno sulfuroa"
+      }
+    ]
+  },
+  "methane": {
+    "value": "metanoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "metanoa"
+      }
+    ]
+  },
+  "molecularChlorine": {
+    "value": "kloro molekularra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "kloro molekularra"
+      }
+    ]
+  },
+  "molecularFluorine": {
+    "value": "fluoro molekularra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "fluoro molekularra"
+      }
+    ]
+  },
+  "molecularHydrogen": {
+    "value": "hidrogeno molekularra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "hidrogeno molekularra"
+      }
+    ]
+  },
+  "molecularNitrogen": {
+    "value": "nitrogeno molekularra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "nitrogeno molekularra"
+      }
+    ]
+  },
+  "molecularOxygen": {
+    "value": "oxigeno molekularra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "oxigeno molekularra"
+      }
+    ]
+  },
+  "nitricOxide": {
+    "value": "oxido nitrikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "oxido nitrikoa"
+      }
+    ]
+  },
+  "nitrousOxide": {
+    "value": "oxido nitrosoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "oxido nitrosoa"
+      }
+    ]
+  },
+  "ozone": {
+    "value": "ozonoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "ozonoa"
+      }
+    ]
+  },
+  "phosphine": {
+    "value": "fosfina",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "fosfina"
+      }
+    ]
+  },
+  "silane": {
+    "value": "silanoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "silanoa"
+      }
+    ]
+  },
+  "sulfurDioxide": {
+    "value": "sufre dioxidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "sufre dioxidoa"
+      }
+    ]
+  },
+  "trifluoroborane": {
+    "value": "trifluoroboranoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "trifluoroboranoa"
+      }
+    ]
+  },
+  "water": {
+    "value": "ura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699974838,
+        "oldValue": "",
+        "newValue": "ura"
+      }
+    ]
+  }
+}

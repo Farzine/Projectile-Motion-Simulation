@@ -1,0 +1,39 @@
+{
+  "name": "sun",
+  "version": "1.0.0-dev.15",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/sun.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "requirejsNamespace": "SUN",
+    "phetLibs": [
+      "twixt"
+    ],
+    "generatedUnitTests": true,
+    "runnable": true,
+    "simFeatures": {
+      "supportsInteractiveDescription": true,
+      "supportsDynamicLocale": true,
+      "supportsSound": true
+    },
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet",
+      "phet-io"
+    ],
+    "phet-io": {
+      "validation": false
+    },
+    "supportsOutputJS": true,
+    "screenNameKeys": [
+      "SUN/screen.buttons",
+      "SUN/screen.components",
+      "SUN/screen.dialogs"
+    ]
+  }
+}

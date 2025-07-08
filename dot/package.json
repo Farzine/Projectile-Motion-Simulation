@@ -1,0 +1,25 @@
+{
+  "name": "dot",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/dot.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3",
+    "esprima": "~2.7.0",
+    "js-beautify": "~1.5.10"
+  },
+  "phet": {
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "generatedUnitTests": true,
+    "requirejsNamespace": "DOT",
+    "buildStandalone": true,
+    "requiresLodash": true,
+    "supportsOutputJS": true
+  }
+}

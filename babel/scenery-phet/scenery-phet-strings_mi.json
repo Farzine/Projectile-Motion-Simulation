@@ -1,0 +1,893 @@
+{
+  "key.alt": {
+    "value": "Pākē",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pākē"
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Pāuru",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pāuru"
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Pāputa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pāputa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Hopua, Tukua rānei te  {{thing}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Hopua, Tukua rānei te  {{thing}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Hopua, tukua rānei te {{thing}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Hopua, tukua rānei te {{thing}}"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "rānei",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "rānei"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pāheke",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pāheke"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pāhiki",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pāhiki"
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Tāmata",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tāmata"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Pāhiki",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pāhiki"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Āputa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Āputa"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Ripa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Ripa"
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "Kāore e taea te WebGL, kāore i te whakaritea rānei. Pāwhiritia ki ako anō.",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1661733373247,
+        "oldValue": "",
+        "newValue": "Kāore e taea te WebGL, kāore i te whakaritea rānei. Pāwhiritia ki ako anō."
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. Rārangi tahua o ngā {{thingPlural}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "1. Rārangi tahua o ngā {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. Neke mā ngā {{thingPlural}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "2. Neke mā ngā {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Kōwhiria he {{thingSingular}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "3. Kōwhiria he {{thingSingular}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "4. Katia te rārangi - kāore he rerekētanga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "4. Katia te rārangi - kāore he rerekētanga"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Rāwekehia",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "Rāwekehia"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "He Hohenga Māmā",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "He Hohenga Māmā"
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Pāpūmatua",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pāpūmatua"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+    "value": "Kōwhiria he {{thingTitle}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "Kōwhiria he {{thingTitle}}"
+      }
+    ]
+  },
+  "eight": {
+    "value": "waru",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "waru"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Pāmutu",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pāmutu"
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Puta atu i te pouaka kōrero",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Puta atu i te pouaka kōrero"
+      }
+    ]
+  },
+  "five": {
+    "value": "rima",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "rima"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1647309513796,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "four": {
+    "value": "whā",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "whā"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Kāinga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kāinga"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Peke ki {{maximum}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "Peke ki {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Peke ku {{minimum}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "Peke ku {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "mōrahi",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "mōrahi"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "mōkito",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "mōkito"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Neke ki tētahi atu tūemi o te rōpū",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Neke ki tētahi atu tūemi o te rōpū"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Neke ki te tūemi ki te rōpū rānei e whai ake nei",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Neke ki te tūemi ki te rōpū rānei e whai ake nei"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Neke ki te tūemi ki te rōpū rānei o mua",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Neke ki te tūemi ki te rōpū rānei o mua"
+      }
+    ]
+  },
+  "nine": {
+    "value": "iwa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "iwa"
+      }
+    ]
+  },
+  "one": {
+    "value": "tahi",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "tahi"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "kōwhiringa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "kōwhiringa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "kōwhiringa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "kōwhiringa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Pēhi pātene",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pēhi pātene"
+      }
+    ]
+  },
+  "seven": {
+    "value": "whitu",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "whitu"
+      }
+    ]
+  },
+  "six": {
+    "value": "ono",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "ono"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "Tāneke",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "Tāneke"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Pā Tāneke",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "Pā Tāneke"
+      }
+    ]
+  },
+  "ten": {
+    "value": "tekau",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "tekau"
+      }
+    ]
+  },
+  "three": {
+    "value": "toru",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "toru"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Hohoko ngā pouaka taki",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Hohoko ngā pouaka taki"
+      }
+    ]
+  },
+  "two": {
+    "value": "rua",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "rua"
+      }
+    ]
+  },
+  "zero": {
+    "value": "kore",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "kore"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} kia paku ngā neke",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "{{verb}} kia paku ngā neke"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} kia rahi ngā neke",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "{{verb}} kia rahi ngā neke"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{slider}} {{verb}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1648106911290,
+        "oldValue": "",
+        "newValue": "{{slider}} {{verb}}"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "ρ"
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Ara pokatata!",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1619604566714,
+        "oldValue": "",
+        "newValue": "Ara pokatata!"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Taunoa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Taunoa"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Pōturi",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pōturi"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Tere",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tere"
+      }
+    ]
+  },
+  "cool": {
+    "value": "Mātao",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Mātao"
+      }
+    ]
+  },
+  "heat": {
+    "value": "Wera",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Wera"
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Neke ki te tūemi e whai ake nei",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Neke ki te tūemi e whai ake nei"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Neke ki te tūemi o mua",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Neke ki te tūemi o mua"
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "Rūri",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Rūri"
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Rūri",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Rūri"
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "ki te <b>Hopu</b>, <b>Tuku</b> rānei",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "ki te <b>Hopu</b>, <b>Tuku</b> rānei"
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "Tautuhi anō te Katoa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1696415505078,
+        "oldValue": "",
+        "newValue": "Tautuhi anō te Katoa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "Tautuhi ngā uara",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1696415505078,
+        "oldValue": "",
+        "newValue": "Tautuhi ngā uara"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "Kōwhiringa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1696415505078,
+        "oldValue": "",
+        "newValue": "Kōwhiringa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Panoni Kōwhiringa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747649008590,
+        "oldValue": "",
+        "newValue": "Panoni Kōwhiringa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "Nekehia",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747649008590,
+        "oldValue": "",
+        "newValue": "Nekehia"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "Kia pōturi anō",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747649008590,
+        "oldValue": "",
+        "newValue": "Kia pōturi anō"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "Nekehia Tūemi Tō",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747649008590,
+        "oldValue": "",
+        "newValue": "Nekehia Tūemi Tō"
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Kei te rere me te ariiti noa iho",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747650194737,
+        "oldValue": "",
+        "newValue": "Kei te rere me te ariiti noa iho"
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Aroha mai, kua puta he hapa whakairoiro.",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747650194737,
+        "oldValue": "",
+        "newValue": "Aroha mai, kua puta he hapa whakairoiro."
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747650318632,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1747650318632,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  }
+}

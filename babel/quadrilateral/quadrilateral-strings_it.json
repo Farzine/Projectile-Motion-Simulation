@@ -1,0 +1,474 @@
+{
+  "preferencesDialog.shapeSoundOptions": {
+    "value": "Opzioni sonore per la figura",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Opzioni sonore per la figura"
+      }
+    ]
+  },
+  "preferencesDialog.shapeSoundOptionsDescription": {
+    "value": "Scegli la \"colonna  sonora\" da ascoltare mentre crei figure diverse.",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Scegli il progetto sonoro da ascoltare mentre crei figure diverse."
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Scegli il progetto sonoro da ascoltare mentre crei figure diverse.",
+        "newValue": "Scegli quali effetti sonori attivare mentre crei figure diverse.",
+        "explanation": null
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686601121406,
+        "oldValue": "Scegli quali effetti sonori attivare mentre crei figure diverse.",
+        "newValue": "Scegli la \"colonna  sonora\" da ascoltare mentre crei figure diverse.",
+        "explanation": null
+      }
+    ]
+  },
+  "preferencesDialog.layerSoundDesignDescription": {
+    "value": "Livelli sonori diversi per figure con caratteristiche differenti",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Strati sonori per enfatizzare le caratteristiche della figura condivisa"
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Strati sonori per enfatizzare le caratteristiche della figura condivisa",
+        "newValue": "Livelli sonori per enfatizzare le caratteristiche della figura",
+        "explanation": null
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686601121406,
+        "oldValue": "Livelli sonori per enfatizzare le caratteristiche della figura",
+        "newValue": "Livelli sonori diversi per figure con caratteristiche differenti",
+        "explanation": null
+      }
+    ]
+  },
+  "preferencesDialog.uniqueSoundDesignDescription": {
+    "value": "Un unico suono identifica tutte le forme",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Suoni univoci identificano ciascuna forma"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1686570897720,
+        "oldValue": "Suoni univoci identificano ciascuna forma",
+        "newValue": "Suoni univoci identificano ciascuna figura",
+        "explanation": null
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Suoni univoci identificano ciascuna figura",
+        "newValue": "Ogni figura è identificata da un suono diverso",
+        "explanation": null
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686601121406,
+        "oldValue": "Ogni figura è identificata da un suono diverso",
+        "newValue": "Un unico suono identifica tutte le forme",
+        "explanation": null
+      }
+    ]
+  },
+  "preferencesDialog.playShapeSoundsForever": {
+    "value": "Abilita gli effetti sonori sempre",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Ascolta i suoni della figura all'infinito"
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Ascolta i suoni della figura all'infinito",
+        "newValue": "Abilita gli effetti sonori sempre",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveCornerOrSide": {
+    "value": "Muovi un angolo o un lato",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Muovi l'angolo o il lato"
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Muovi l'angolo o il lato",
+        "newValue": "Muovi un angolo o un lato",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveInSmallerSteps": {
+    "value": "Muovi a piccoli passi",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Muovi a piccoli passi"
+      }
+    ]
+  },
+  "keyboardHelpDialog.mouse": {
+    "value": "Mouse",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Mouse"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveCornersOrSides": {
+    "value": "Muovi gli angoli o i lati",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Muovi angoli o lati"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1686570897720,
+        "oldValue": "Muovi angoli o lati",
+        "newValue": "Muovi gli angoli o i lati",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetShape": {
+    "value": "Ripristina la figura",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Azzera la figura"
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Azzera la figura",
+        "newValue": "Ripristina la figura",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.shapeShortcuts": {
+    "value": "Scorciatoie per la  figura",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Scorciatoie per la  figura"
+      }
+    ]
+  },
+  "vertexA": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "vertexB": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "vertexC": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "vertexD": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "resetShape": {
+    "value": "Ripristina",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Azzera la figura"
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Azzera la figura",
+        "newValue": "Ripristina",
+        "explanation": null
+      }
+    ]
+  },
+  "labels": {
+    "value": "Etichette",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Etichette"
+      }
+    ]
+  },
+  "markers": {
+    "value": "Strumenti di misura",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Angoli"
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "Angoli",
+        "newValue": "Strumenti di misura",
+        "explanation": null
+      }
+    ]
+  },
+  "diagonals": {
+    "value": "Diagonali",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Diagonali"
+      }
+    ]
+  },
+  "grid": {
+    "value": "Griglia",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Griglia"
+      }
+    ]
+  },
+  "shapeNames.square": {
+    "value": "Quadrato",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Quadrato"
+      }
+    ]
+  },
+  "shapeNames.rectangle": {
+    "value": "Rettangolo",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Rettangolo"
+      }
+    ]
+  },
+  "shapeNames.rhombus": {
+    "value": "Rombo",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Rombo"
+      }
+    ]
+  },
+  "shapeNames.kite": {
+    "value": "Deltoide",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Deltoide"
+      }
+    ]
+  },
+  "shapeNames.isoscelesTrapezoid": {
+    "value": "Trapezio isoscele",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Trapezio isoscele"
+      }
+    ]
+  },
+  "shapeNames.trapezoid": {
+    "value": "Trapezio",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Trapezio"
+      }
+    ]
+  },
+  "shapeNames.concaveQuadrilateral": {
+    "value": "Quadrilatero concavo",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Quadrilatero concavo"
+      }
+    ]
+  },
+  "shapeNames.convexQuadrilateral": {
+    "value": "Quadrilatero convesso",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Quadrilatero convesso"
+      }
+    ]
+  },
+  "shapeNames.parallelogram": {
+    "value": "Parallelogramma",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Parallelogramma"
+      }
+    ]
+  },
+  "shapeNames.dart": {
+    "value": "Freccia",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "freccia"
+      },
+      {
+        "userId": 1008323,
+        "timestamp": 1686575701742,
+        "oldValue": "freccia",
+        "newValue": "Freccia",
+        "explanation": null
+      }
+    ]
+  },
+  "shapeNames.triangle": {
+    "value": "Triangolo?",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Triangolo?"
+      }
+    ]
+  },
+  "shapeNameHidden": {
+    "value": "Nome della figura nascosto",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Nome della figura nascosto"
+      }
+    ]
+  },
+  "smallSteps": {
+    "value": "A piccoli passi",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "A piccoli passi"
+      }
+    ]
+  },
+  "quadrilateral.title": {
+    "value": "Quadrilateri",
+    "history": [
+      {
+        "userId": 1008323,
+        "timestamp": 1686570633888,
+        "oldValue": "",
+        "newValue": "Quadrilateri"
+      }
+    ]
+  }
+}

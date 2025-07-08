@@ -1,0 +1,64 @@
+{
+  "screen.compare": {
+    "value": "پرتله (مقایسه)",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1702549734215,
+        "oldValue": "",
+        "newValue": "پرتله"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705298037620,
+        "oldValue": "پرتله",
+        "newValue": "پرتله (مقایسه)",
+        "explanation": null
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} کوچنی دی له {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1702549734215,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} کوچنی دی له {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} لوی دی له  {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1702549734215,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} لوی دی له  {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} مساوي دی له {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1702549734215,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} مساوي دی له {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "د عددونو پرتله کول",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1702549734215,
+        "oldValue": "",
+        "newValue": "د عددونو پرتله کول"
+      }
+    ]
+  }
+}

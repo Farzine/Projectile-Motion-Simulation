@@ -1,0 +1,635 @@
+{
+  "biomoleculeToolbox": {
+    "value": "\"алати\" за биомолекуле",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "\"алати\" за биомолекуле",
+        "explanation": null
+      }
+    ]
+  },
+  "mRnaDestroyer": {
+    "value": "протеин који врши деградацију iRNK (",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514590526866,
+        "oldValue": "",
+        "newValue": "разграђивач \"иРНК\"",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "разграђивач \"иРНК\"",
+        "newValue": "протеин који врши деградацију iRNK (",
+        "explanation": null
+      }
+    ]
+  },
+  "negativeTranscriptionFactorHtml": {
+    "value": "Транскрипциони репресор",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588104995927,
+        "oldValue": "",
+        "newValue": "Негативна транскрипција <бр> фактор",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "Негативна транскрипција <бр> фактор",
+        "newValue": "Транскрипциони репресор",
+        "explanation": null
+      }
+    ]
+  },
+  "positiveTranscriptionFactorHtml": {
+    "value": "Транскрипциони активатор",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588104995927,
+        "oldValue": "",
+        "newValue": "Позитивна транскрипција <бр> фактор",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "Позитивна транскрипција <бр> фактор",
+        "newValue": "Транскрипциони активатор",
+        "explanation": null
+      }
+    ]
+  },
+  "ribosome": {
+    "value": "Рибозом",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Рибозом",
+        "explanation": null
+      }
+    ]
+  },
+  "rnaPolymerase": {
+    "value": "РНК полимераза",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "РНК полимераза",
+        "explanation": null
+      }
+    ]
+  },
+  "regulatoryRegion": {
+    "value": "Регулаторни регион",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588104995927,
+        "oldValue": "",
+        "newValue": "Регулација<br>регион",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "Регулација<br>регион",
+        "newValue": "Регулаторни регион",
+        "explanation": null
+      }
+    ]
+  },
+  "transcribedRegion": {
+    "value": "Кодирајући регион",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588104995927,
+        "oldValue": "",
+        "newValue": "Преписивање<br>регион",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "Преписивање<br>регион",
+        "newValue": "Кодирајући регион",
+        "explanation": null
+      }
+    ]
+  },
+  "gene": {
+    "value": "Ген {{geneID}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Ген {{geneID}}",
+        "explanation": null
+      }
+    ]
+  },
+  "quotedMRna": {
+    "value": "\"иРНК\"",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514590526866,
+        "oldValue": "",
+        "newValue": "\"иРНК\"",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionComplete": {
+    "value": "Збирка је комплетна!",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "\"Збирка је комплетна!\"",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692379929672,
+        "oldValue": "\"Збирка је комплетна!\"",
+        "newValue": "Збирка је комплетна!",
+        "explanation": null
+      }
+    ]
+  },
+  "proteinCountCaptionPart1": {
+    "value": "Имате:",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Имате:",
+        "explanation": null
+      }
+    ]
+  },
+  "proteinCountCaptionPart2": {
+    "value": "од 3 типа протеина",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "од 3 типа протеина",
+        "explanation": null
+      }
+    ]
+  },
+  "yourProteinCollection": {
+    "value": "Имате <br> колекције протеина",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514590526866,
+        "oldValue": "",
+        "newValue": "Имате <br> колекције протеина",
+        "explanation": null
+      }
+    ]
+  },
+  "nextGene": {
+    "value": "Следећи ген",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Следећи ген",
+        "explanation": null
+      }
+    ]
+  },
+  "previousGene": {
+    "value": "Претходни ген",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Претходни ген",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.expression": {
+    "value": "Увод",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514590526866,
+        "oldValue": "",
+        "newValue": "Увод",
+        "explanation": null
+      }
+    ]
+  },
+  "affinity": {
+    "value": "афинитет",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "афинитет",
+        "explanation": null
+      }
+    ]
+  },
+  "high": {
+    "value": "већа",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "више",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "више",
+        "newValue": "већа",
+        "explanation": null
+      }
+    ]
+  },
+  "low": {
+    "value": "мања",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "мање",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "мање",
+        "newValue": "мања",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "концентрација",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "концентрација",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "без",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "без",
+        "explanation": null
+      }
+    ]
+  },
+  "negativeTranscriptionFactor": {
+    "value": "негативни транскрипциони фактор",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "негативни транскрипциони фактор",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mRna": {
+    "value": "иРНК",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514590526866,
+        "oldValue": "",
+        "newValue": "иРНК",
+        "explanation": null
+      }
+    ]
+  },
+  "imageCaptionNote": {
+    "value": "Имајте на уму да, иако су ћелије генетски идентичне, они стварају различите количине протеина.",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Имајте на уму да, иако су ћелије генетски идентичне, они стварају различите количине протеина.",
+        "explanation": null
+      }
+    ]
+  },
+  "imageCaption": {
+    "value": "На слици су ћелије ешерихије коли (E. Coli). Запамтите да ћелије иако генетички идентичне могу имати различите количине протеина",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "На слици су ћелије Ешерихије коли (E. Coli). Запамтите да ћелије иако генетички идентичне могу имати различите количине протеина",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692379929672,
+        "oldValue": "На слици су ћелије Ешерихије коли (E. Coli). Запамтите да ћелије иако генетички идентичне могу имати различите количине протеина",
+        "newValue": "На слици су ћелије ешерихије коли (E. Coli). Запамтите да ћелије иако генетички идентичне могу имати различите количине протеина",
+        "explanation": null
+      }
+    ]
+  },
+  "averageProteinLevel": {
+    "value": "просечан ниво протеина",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "просечан ниво протеина",
+        "explanation": null
+      }
+    ]
+  },
+  "averageProteinLevelVsTime": {
+    "value": "просечан ниво протеина током времена",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "просечан ниво протеина током времена",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "мања",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "много",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "много",
+        "newValue": "мања",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "време (s)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "време (s)",
+        "explanation": null
+      }
+    ]
+  },
+  "affinities": {
+    "value": "афинитет",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "афинитети",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "афинитети",
+        "newValue": "афинитет",
+        "explanation": null
+      }
+    ]
+  },
+  "cells": {
+    "value": "Ћелије",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Ћелије",
+        "explanation": null
+      }
+    ]
+  },
+  "degradation": {
+    "value": "разградња",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "разградња",
+        "explanation": null
+      }
+    ]
+  },
+  "fast": {
+    "value": "брза",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "брзо",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "брзо",
+        "newValue": "брза",
+        "explanation": null
+      }
+    ]
+  },
+  "many": {
+    "value": "већа",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "више",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "више",
+        "newValue": "већа",
+        "explanation": null
+      }
+    ]
+  },
+  "one": {
+    "value": "једна",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "једна",
+        "explanation": null
+      }
+    ]
+  },
+  "polymerase": {
+    "value": "RNK полимераза",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Полимераза",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "Полимераза",
+        "newValue": "RNK полимераза",
+        "explanation": null
+      }
+    ]
+  },
+  "positiveTranscriptionFactor": {
+    "value": "позитивни транскрипциони фактор",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "позитивни транскрипциони фактор",
+        "explanation": null
+      }
+    ]
+  },
+  "protein": {
+    "value": "Протеин",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Протеин",
+        "explanation": null
+      }
+    ]
+  },
+  "showRealCells": {
+    "value": "Покажи праве ћелије",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Покажи праве ћелије",
+        "explanation": null
+      }
+    ]
+  },
+  "slow": {
+    "value": "спора",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "споро",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1692378619245,
+        "oldValue": "споро",
+        "newValue": "спора",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.multipleCells": {
+    "value": "Више ћелија",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Више ћелија",
+        "explanation": null
+      }
+    ]
+  },
+  "gene-expression-essentials.title": {
+    "value": "Особине гена - Основе",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Особине гена - Основе",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": "Превео (на страх) Владан Ал. Младеновић, физичар. Уз извињење биолозима за све грешке и позив за примедбе на vladan.al.m@gmail.com",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1514589746369,
+        "oldValue": "",
+        "newValue": "Превео (на страх) Владан Ал. Младеновић, физичар. Уз извињење биолозима за све грешке и позив за примедбе на vladan.al.m@gmail.com",
+        "explanation": null
+      }
+    ]
+  }
+}

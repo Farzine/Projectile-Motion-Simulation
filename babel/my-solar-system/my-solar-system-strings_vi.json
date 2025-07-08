@@ -1,0 +1,478 @@
+{
+  "screen.intro": {
+    "value": "Phần giới thiệu",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Phần giới thiệu"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Lab",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Lab"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Theo khối tâm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Theo khối tâm"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Vật thể",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Vật thể"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Ghi chú về đơn vị",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Ghi chú về đơn vị"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Thêm dữ liệu",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Thêm dữ liệu"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Mặt trời và Hành tinh",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Mặt trời và Hành tinh"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Mặt trời, Hành tinh và Mặt trăng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Mặt trời, Hành tinh và Mặt trăng"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Mặt trời, Hành tinh và Sao chổi",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Mặt trời, Hành tinh và Sao chổi"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Trojan Asteroids",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Trojan Asteroids"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Ellipse",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Ellipse"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Hyperbol",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Hyperbol"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Ná",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Ná"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Ná đôi",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Ná đôi"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Sao đôi, Hành tinh",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Sao đôi, Hành tinh"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Vũ điệu 4 ngôi sao",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Vũ điệu 4 ngôi sao"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Double Double",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Double Double"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Tuỳ chỉnh",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Tuỳ chỉnh"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Khối lượng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Khối lượng"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Khối tâm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Khối tâm"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} đến {{max}}",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": " {{min}} đến {{max}}"
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": " {{min}} đến {{max}}",
+        "newValue": "{{min}} đến {{max}}",
+        "explanation": null
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Thái dương hệ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1670337357533,
+        "oldValue": "",
+        "newValue": "Thái dương hệ của tôi"
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "Thái dương hệ của tôi",
+        "newValue": "Thái dương hệ",
+        "explanation": null
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Ghi chú 1:</b> Đơn vị thiên văn (AU) khoảng 150 triệu km. Đây là khoảng cách trung bình giữa Mặt trời và Trái đất.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "<b>Ghi chú 1:</b> Đơn vị thiên văn (AU) khoảng 150 triệu km. Đây là khoảng cách trung bình giữa Mặt trời và Trái đất."
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Ghi chú 2:</b> Phạm vi khối lượng trong mô phỏng này là từ 1 khối lượng Mộc tinh đến 1.2 khối lượng Mặt trời. Mọi vật thể thiên văn đều có cách vận động như nhau trong trường hấp dẫn mạnh, kể cả hành tinh nhỏ hơn, sao chổi hay tiểu hành tinh.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "<b>Ghi chú 2:</b> Phạm vi khối lượng trong mô phỏng này là từ 1 khối lượng Mộc tinh đến 1.2 khối lượng Mặt trời. Mọi vật thể thiên văn đều có cách vận động như nhau trong trường hấp dẫn mạnh, kể cả hành tinh nhỏ hơn, sao chổi hay tiểu hành tinh."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Ghi chú 3:</b>Do phạm vi giá trị quá rộng nên vector lực hấp dẫn có khi quá nhỏ hay quá lớn. Có thể điều chỉnh thang đo bằng zoom.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "<b>Ghi chú 3:</b>Do phạm vi giá trị quá rộng nên vector lực hấp dẫn có khi quá nhỏ hay quá lớn. Có thể điều chỉnh thang đo bằng zoom."
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "Trả lại các vật thể",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "Trả lại các vật thể"
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "Khối lượng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "Khối lượng"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "Vị trí",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "Vị trí"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "Vận tốc",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684205093908,
+        "oldValue": "",
+        "newValue": "Vận tốc"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "Chọn một hệ quỹ đạo",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1706341693833,
+        "oldValue": "",
+        "newValue": "Chọn một hệ quỹ đạo"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "Hệ quỹ đạo",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1706341693833,
+        "oldValue": "",
+        "newValue": "Hệ quỹ đạo"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "hệ quỹ đạo",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1706341693833,
+        "oldValue": "",
+        "newValue": "hệ quỹ đạo"
+      }
+    ]
+  },
+  "mode.orbitalSystem1": {
+    "value": "Hệ quỹ đạo 1",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1706341693833,
+        "oldValue": "",
+        "newValue": "Hệ quỹ đạo 1"
+      }
+    ]
+  },
+  "mode.orbitalSystem2": {
+    "value": "Hệ quỹ đạo 2",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1706341693833,
+        "oldValue": "",
+        "newValue": "Hệ quỹ đạo 2"
+      }
+    ]
+  },
+  "mode.orbitalSystem3": {
+    "value": "Hệ quỹ đạo 3",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1706341693833,
+        "oldValue": "",
+        "newValue": "Hệ quỹ đạo 3"
+      }
+    ]
+  },
+  "mode.orbitalSystem4": {
+    "value": "Hệ quỹ đạo 4",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1706341693833,
+        "oldValue": "",
+        "newValue": "Hệ quỹ đạo 4"
+      }
+    ]
+  }
+}

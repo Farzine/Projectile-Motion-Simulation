@@ -1,0 +1,134 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623551837938,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Notasyon desimal",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625430094671,
+        "oldValue": "",
+        "newValue": "Notasyon desimal"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Fòs sou {{thisObject}} pa {{otherObject}}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623551837938,
+        "oldValue": "",
+        "newValue": "Fòs sou {{thisObject}} pa {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Fòs sou {{thisObject}} pa {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623551837938,
+        "oldValue": "",
+        "newValue": "Fòs sou {{thisObject}} pa {{otherObject}} = {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Valè Fòs",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623551837938,
+        "oldValue": "",
+        "newValue": "Valè Fòs"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Kache",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625430094671,
+        "oldValue": "",
+        "newValue": "Kache"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "mèt",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625430094671,
+        "oldValue": "",
+        "newValue": "mèt"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "mèt yo",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625430094671,
+        "oldValue": "",
+        "newValue": "mèt yo"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newton",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625430094671,
+        "oldValue": "",
+        "newValue": "newton"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Notasyon Syantifik",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625430094671,
+        "oldValue": "",
+        "newValue": "Notasyon Syantifik"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623551837938,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1720131750391,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  }
+}

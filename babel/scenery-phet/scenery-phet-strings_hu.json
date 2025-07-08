@@ -1,0 +1,962 @@
+{
+  "keyboardHelpDialog.basicActions": {
+    "value": "Alaplehetőségek",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Alaplehetőségek",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "End",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Kilépés a párbeszédből",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Kilépés a párbeszédből",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Gyors",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1675449006541,
+        "oldValue": "",
+        "newValue": "Gyors"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Mozgás a csoporton belül",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Mozgás a csoporton belül",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Mozgás a következő tételre vagy csoportra",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Mozgás a következő tételre vagy csoportra",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Mozgás az előző tételre vagy csoportra",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Mozgás az előző tételre vagy csoportra",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normális",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1538205998948,
+        "oldValue": "",
+        "newValue": "Normális",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "vagy",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "vagy",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Nyomd a gombokat",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Nyomd a gombokat",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Lassú",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1538205998948,
+        "oldValue": "",
+        "newValue": "Lassú",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Szóköz",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1579590377713,
+        "oldValue": "",
+        "newValue": "Szóköz",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tabulátor",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1643646273039,
+        "oldValue": "",
+        "newValue": "Tabulátor"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Jelölőnégyzet ki/be",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1584188047423,
+        "oldValue": "",
+        "newValue": "Jelölőnégyzet ki/be",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1696774105639,
+        "oldValue": "Jelölőnégyzet ki/be",
+        "newValue": "Jelölőnégyzetek ki/be",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1700127629105,
+        "oldValue": "Jelölőnégyzetek ki/be",
+        "newValue": "Jelölőnégyzet ki/be",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Megragad / elenged: {{thing}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546076610596,
+        "oldValue": "",
+        "newValue": "Megragad / elenged: {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Megragad / elenged: {{thing}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546076610596,
+        "oldValue": "",
+        "newValue": "Megragad / elenged: {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Újratöltés",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1474625269170,
+        "oldValue": "",
+        "newValue": "Újratöltés",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Elnézést, grafikai hiba adódott",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1474625269170,
+        "oldValue": "",
+        "newValue": "Elnézést, grafikai hiba adódott",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "A WebGL nincs engedélyezve vagy nem elérhető. Bővebb részletekért kattintson ide.",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1474625269170,
+        "oldValue": "",
+        "newValue": "A WebGL nincs engedélyezve vagy nem elérhető. Bővebb részletekért kattintson ide.",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Mozgás a következő tételre",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Mozgás a következő tételre",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Mozgás az előző tételre",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1546009983414,
+        "oldValue": "",
+        "newValue": "Mozgás az előző tételre",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "Vonalzó",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1577874718608,
+        "oldValue": "",
+        "newValue": "Vonalzó",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Vonalzó",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1577874718608,
+        "oldValue": "",
+        "newValue": "Vonalzó",
+        "explanation": null
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "<b>Megragad</b> vagy <b>Elenged</b>",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1584188047423,
+        "oldValue": "",
+        "newValue": "<b>Megfog</b> vagy <b>Elenged</b>",
+        "explanation": null
+      },
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "<b>Megfog</b> vagy <b>Elenged</b>",
+        "newValue": "<b>Megragad</b> vagy <b>Elenged</b>",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Hűt",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1482328486143,
+        "oldValue": "",
+        "newValue": "Hűt",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Fűt",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1482328486143,
+        "oldValue": "",
+        "newValue": "Fűt",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Frissítse a Windows böngészőjét",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1474625269170,
+        "oldValue": "",
+        "newValue": "Frissítse a Windows böngészőjét",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Futás kis felbontású grafikával",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1474625269170,
+        "oldValue": "",
+        "newValue": "Futás kis felbontású grafikával",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "Az összes visszaállítása",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696164167368,
+        "oldValue": "",
+        "newValue": "Az összes visszaállítása"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "opció",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696346102064,
+        "oldValue": "",
+        "newValue": "opció"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "opciók",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696346102064,
+        "oldValue": "",
+        "newValue": "opciók"
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "Értékek beállítása a billentyűzeten belül",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Értékek beállítása a billentyűzeten belül"
+      }
+    ]
+  },
+  "key.a": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "key.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "key.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "key.r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "key.s": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "S"
+      }
+    ]
+  },
+  "key.w": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "key.one": {
+    "value": "1",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "1"
+      }
+    ]
+  },
+  "key.two": {
+    "value": "2",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "2"
+      }
+    ]
+  },
+  "key.three": {
+    "value": "3",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "3"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "Option",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Option"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Esc"
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Enter"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Home"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Pg Dn"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Pg Up"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "Shift"
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1696752940226,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1700127629105,
+        "oldValue": "",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1700127629105,
+        "oldValue": "",
+        "newValue": "ρ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Csúszkabeállítás",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "Csúszkabeállítás"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Beálítás",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "Beálítás"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "csúszka",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "csúszka"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "maximum",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "maximum"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "minimum",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "minimum"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Állítsd be a csúszkát",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "Állítsd be a csúszkát"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Beállítás kisebb lépésekben",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "Beállítás kisebb lépésekben"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Beállítás nagyobb lépésekben",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "Beállítás nagyobb lépésekben"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} kisebb lépésekben",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "{{verb}} kisebb lépésekben"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} nagyobb lépésekben",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "{{verb}} nagyobb lépésekben"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Ugrás a {{minimum}}ra",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "Ugrás a {{minimum}}ra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Ugrás a {{maximum}}ra",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1701186800619,
+        "oldValue": "",
+        "newValue": "Ugrás a {{maximum}}ra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Opció megváltoztatása",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1723819947407,
+        "oldValue": "",
+        "newValue": "Opció megváltoztatása"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Ugrás a maximumra",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1723819947407,
+        "oldValue": "",
+        "newValue": "Ugrás a maximumra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Ugrás a minimumra",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1723819947407,
+        "oldValue": "",
+        "newValue": "Ugrás a minimumra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "Zárd be változtatás nélkül",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1723820566334,
+        "oldValue": "",
+        "newValue": "Zárd be változtatás nélkül"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.timingControls": {
+    "value": "Időzítő szabályzása",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "Időzítő szabályzása"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+    "value": "Állj/tovább működés",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "Állj/tovább működés"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "Mozgasd",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "Mozgasd"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "Mozgasd lassabban",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "Mozgasd lassabban"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "Mozgasd a vonszolható elemeket",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "Mozgasd a vonszolható elemeket"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. Mutasd ezeket: {{thingPlural}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "1. Mutasd ezeket: {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. Lássuk ezeket: {{thingPlural}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "2. Lássuk ezeket: {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Változtasd ezt: {{thingSingular}}",
+    "history": [
+      {
+        "userId": 156058,
+        "timestamp": 1728053768251,
+        "oldValue": "",
+        "newValue": "3. Változtasd ezt: {{thingSingular}}"
+      }
+    ]
+  }
+}

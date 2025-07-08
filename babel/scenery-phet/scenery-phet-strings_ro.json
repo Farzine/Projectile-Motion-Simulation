@@ -1,0 +1,1634 @@
+{
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910293,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Reglaje",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "Reglaje"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1606229756445,
+        "oldValue": "",
+        "newValue": "Alt",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Acțiuni de bază",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Acțiuni de bază",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644157766214,
+        "oldValue": "Acțiuni de bază",
+        "newValue": "Acțiuni principale"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1686601500953,
+        "oldValue": "Acțiuni principale",
+        "newValue": "Acțiuni de bază",
+        "explanation": null
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "End",
+        "explanation": null
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1606229756445,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Ieși din fereastră",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mesaj de iesire",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1607496376995,
+        "oldValue": "Mesaj de iesire",
+        "newValue": "Mesaj de ieșire",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608151706391,
+        "oldValue": "Mesaj de ieșire",
+        "newValue": "Ieșire",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608159961419,
+        "oldValue": "Ieșire",
+        "newValue": "Mesaj de ieșire",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1632061505378,
+        "oldValue": "Mesaj de ieșire",
+        "newValue": "Ieși din fereastră"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Rapid",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1606229756445,
+        "oldValue": "",
+        "newValue": "Repede",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1714766072451,
+        "oldValue": "Repede",
+        "newValue": "Rapid",
+        "explanation": null
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Acasă",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Home",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1738131284456,
+        "oldValue": "Home",
+        "newValue": "Acasă",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Sari la {{maximum}}",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "Mergi la {{maximum}}"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1682099098941,
+        "oldValue": "Mergi la {{maximum}}",
+        "newValue": "Mergi {{maximum}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1698956812615,
+        "oldValue": "Mergi {{maximum}}",
+        "newValue": "Mergi  la {{maximum}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1725427486700,
+        "oldValue": "Mergi  la {{maximum}}",
+        "newValue": "Sari la {{maximum}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Sari la {{minimum}}",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "Mergi la {{minimum}}"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1682099098941,
+        "oldValue": "Mergi la {{minimum}}",
+        "newValue": "Mergi {{minimum}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1698956812615,
+        "oldValue": "Mergi {{minimum}}",
+        "newValue": "Mergi  la {{minimum}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1725427486700,
+        "oldValue": "Mergi  la {{minimum}}",
+        "newValue": "Sari la {{minimum}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "maxim",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "maxim"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "minim",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "minim"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Deplasare între elementele unui grup",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mutați-vă între elementele dintr-un grup",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1632061505379,
+        "oldValue": "Mutați-vă între elementele dintr-un grup",
+        "newValue": "Deplasare între elementele unui grup"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1681502296013,
+        "oldValue": "Deplasare între elementele unui grup",
+        "newValue": "Deplasare selecție între elementele unui grup",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1681502613550,
+        "oldValue": "Deplasare selecție între elementele unui grup",
+        "newValue": "Deplasare între elementele unui grup",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Mergi la următorul element sau grup",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Treceți la articolul sau grupul următor",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1632061505379,
+        "oldValue": "Treceți la articolul sau grupul următor",
+        "newValue": "Treci la următorul element sau grup"
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Treci la următorul element sau grup",
+        "newValue": "Mergi la următorul element sau grup"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Mergi la elementul sau grupul anterior",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mutați la elementul sau grupul anterior",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1632061505379,
+        "oldValue": "Mutați la elementul sau grupul anterior",
+        "newValue": "Treci la elementul sau grupul anterior"
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Treci la elementul sau grupul anterior",
+        "newValue": "Înapoi la elementul sau grupul anterior"
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Înapoi la elementul sau grupul anterior",
+        "newValue": "Mergi la elementul sau grupul anterior"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "sau",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "sau",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+    "value": "Pauză sau redare acțiune",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Pauză sau redare acțiune"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Pg Dn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Apasă butoanele",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Apasă butoanele",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "glisor",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "glisor"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Controale cursor",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607496376996,
+        "oldValue": "",
+        "newValue": "Controale cursor",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Lent",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Încet",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1607283659877,
+        "oldValue": "Încet",
+        "newValue": "Lent",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Space",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Spațiu",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Spațiu",
+        "newValue": "Space"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.timingControls": {
+    "value": "Control redare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "",
+        "newValue": "Control redare"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Comutare casete de selectare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "Selectează/Deselectează",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Selectează/Deselectează",
+        "newValue": "Casete de/selectate"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1675664816408,
+        "oldValue": "Casete de/selectate",
+        "newValue": "Comutare casete de selectare"
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608227290957,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} în pași mai mari",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "{{verb}} în pași mai mari"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} în pași mai mici",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "{{verb}} în pași mai mici"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Reglaj în pași mari",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607496376995,
+        "oldValue": "",
+        "newValue": "Reglaj în pași mari",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Reglaj în pași mici",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607496376995,
+        "oldValue": "",
+        "newValue": "Reglaj în pași mici",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Reglaj cursor",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607496376995,
+        "oldValue": "",
+        "newValue": "Reglaj cursor",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Prinde sau eliberează {{thing}}",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Apucați sau Eliberați {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "Apucați sau Eliberați {{thing}}",
+        "newValue": "Apucați sau eliberați {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "Apucați sau eliberați {{thing}}",
+        "newValue": "Ia sau lasă {{thing}}"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1681502296013,
+        "oldValue": "Ia sau lasă {{thing}}",
+        "newValue": "Prinde sau lasă {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1725427486700,
+        "oldValue": "Prinde sau lasă {{thing}}",
+        "newValue": "Prinde sau eliberează {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Prinde sau eliberează {{thing}}",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Apucați sau eliberați {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "Apucați sau eliberați {{thing}}",
+        "newValue": "Ia sau lasă {{thing}}"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1681502296013,
+        "oldValue": "Ia sau lasă {{thing}}",
+        "newValue": "Prinde sau lasă {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1725427486700,
+        "oldValue": "Prinde sau lasă {{thing}}",
+        "newValue": "Prinde sau eliberează {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Sari la maxim",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607496376996,
+        "oldValue": "",
+        "newValue": "Maxim",
+        "explanation": null
+      },
+      {
+        "userId": 782907,
+        "timestamp": 1665937135504,
+        "oldValue": "Maxim",
+        "newValue": "Sari la maxim"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Sari la minim",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607496376996,
+        "oldValue": "",
+        "newValue": "Minim",
+        "explanation": null
+      },
+      {
+        "userId": 782907,
+        "timestamp": 1665937135505,
+        "oldValue": "Minim",
+        "newValue": "Sari la minim"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Mergi la elementul următor",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Treceți la articolul următor",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1632061505379,
+        "oldValue": "Treceți la articolul următor",
+        "newValue": "Treci la elementul următor"
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Treci la elementul următor",
+        "newValue": "Mergi la elementul următor"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Mergi la elementul anterior",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Treceți la elementul anterior",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1632061505379,
+        "oldValue": "Treceți la elementul anterior",
+        "newValue": "Treci la elementul anterior"
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Treci la elementul anterior",
+        "newValue": "Mergi la elementul anterior"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. Lista pop-up cu {{thingPlural}}",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649523000461,
+        "oldValue": "",
+        "newValue": "1. Lista pop-up cu {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. Treci prin {{thingPlural}}",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649523000461,
+        "oldValue": "",
+        "newValue": "2. Treci prin {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Alege {{thingSingular}} nouă",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649523000461,
+        "oldValue": "",
+        "newValue": "3. Alege {{thingSingular}} nou/ă"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1682099098941,
+        "oldValue": "3. Alege {{thingSingular}} nou/ă",
+        "newValue": "3. Alege {{thingSingular}} nouă",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "4. Închide lista fără o modifica",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649523000461,
+        "oldValue": "",
+        "newValue": "4. Închide lista fără o modifica"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+    "value": "alege un {{thingTitle}}",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "alege un {{thingTitle}}"
+      }
+    ]
+  },
+  "eight": {
+    "value": "opt",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "opt"
+      }
+    ]
+  },
+  "five": {
+    "value": "cinci",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "cinci"
+      }
+    ]
+  },
+  "four": {
+    "value": "patru",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "patru"
+      }
+    ]
+  },
+  "nine": {
+    "value": "nouă",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "nouă"
+      }
+    ]
+  },
+  "one": {
+    "value": "unu",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "unu"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "opțiune",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649523000461,
+        "oldValue": "",
+        "newValue": "opțiune"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "opțiuni",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649523000461,
+        "oldValue": "",
+        "newValue": "opțiuni"
+      }
+    ]
+  },
+  "seven": {
+    "value": "șapte",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "șapte"
+      }
+    ]
+  },
+  "six": {
+    "value": "șase",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "șase"
+      }
+    ]
+  },
+  "ten": {
+    "value": "zece",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "zece"
+      }
+    ]
+  },
+  "three": {
+    "value": "trei",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "trei"
+      }
+    ]
+  },
+  "two": {
+    "value": "doi",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "doi"
+      }
+    ]
+  },
+  "zero": {
+    "value": "zero",
+    "history": [
+      {
+        "userId": 782907,
+        "timestamp": 1665932555041,
+        "oldValue": "",
+        "newValue": "zero"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      },
+      {
+        "userId": 726466,
+        "timestamp": 1631276296237,
+        "oldValue": "Ω",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Expandează meniul",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649523000461,
+        "oldValue": "",
+        "newValue": "Expandează meniul"
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Reîncarcă",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1613972753632,
+        "oldValue": "",
+        "newValue": "Reînoiește"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1681502613550,
+        "oldValue": "Reînoiește",
+        "newValue": "Reîncarcă",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Ne pare rău, a apărut o eroare grafică.",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1613972753632,
+        "oldValue": "",
+        "newValue": "Ne pare rău, a apărut o eroare grafică."
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL nu este activat sau nu este disponibil. Faceți clic pentru a afla mai multe.",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1613972753632,
+        "oldValue": "",
+        "newValue": "WebGL nu este activat sau nu este disponibil. Faceți clic pentru a afla mai multe."
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608227290957,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Scurtcircuit!",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1624472934066,
+        "oldValue": "",
+        "newValue": "Scurtcircuit!"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1606229756445,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1606229756445,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Răcire",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1602176223287,
+        "oldValue": "",
+        "newValue": "Misto",
+        "explanation": null
+      },
+      {
+        "userId": 726466,
+        "timestamp": 1602177040476,
+        "oldValue": "Misto",
+        "newValue": "Rece",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608299207877,
+        "oldValue": "Rece",
+        "newValue": "Răcire",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Încălzire",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1602176223287,
+        "oldValue": "",
+        "newValue": "Căldură",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608299207877,
+        "oldValue": "Căldură",
+        "newValue": "Încălzire",
+        "explanation": null
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1601317946899,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "rigla",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "rigla",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Riglă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "rigla",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1738135388045,
+        "oldValue": "rigla",
+        "newValue": "Riglă",
+        "explanation": null
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "<b>Prinde</b> sau <b>eliberează</b>",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "to <b>Prinde</b> or <b>Eliberează</b>",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1725427486700,
+        "oldValue": "to <b>Prinde</b> or <b>Eliberează</b>",
+        "newValue": "<b>Prinde</b> sau <b>eliberează</b>",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Lungime de undă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607730025001,
+        "oldValue": "",
+        "newValue": "Lungime de undă",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelengthNMValuePattern": {
+    "value": "{0} nm",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1607730025001,
+        "oldValue": "",
+        "newValue": "{0} nm",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1474531716074,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1454718396042,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "Resetare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681488551296,
+        "oldValue": "",
+        "newValue": "Resetare"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "Opțiuni",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681488551296,
+        "oldValue": "",
+        "newValue": "Opțiuni"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "Setați valorile din tastatură",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "Setați valorile din tastatură"
+      }
+    ]
+  },
+  "key.a": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "key.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "key.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "key.r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "key.s": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "S"
+      }
+    ]
+  },
+  "key.w": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "key.one": {
+    "value": "1",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "1"
+      }
+    ]
+  },
+  "key.two": {
+    "value": "2",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "2"
+      }
+    ]
+  },
+  "key.three": {
+    "value": "3",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "3"
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Rulează cu o calitate grafică redusă",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1681502613550,
+        "oldValue": "",
+        "newValue": "Rulează cu o calitate grafică redusă"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "Mută",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Mută"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "Mută mai lent",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Mută mai lent"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "Mută elementele mobile",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Mută elementele mobile"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.faucetControls": {
+    "value": "Comenzi robinete",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1722406426824,
+        "oldValue": "",
+        "newValue": "Comenzi robinete"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+    "value": "Ajustează curgerea robinetului",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1722406426824,
+        "oldValue": "",
+        "newValue": "Ajustează curgerea robinetului"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+    "value": "Ajustează în pași mici",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1722406426824,
+        "oldValue": "",
+        "newValue": "Ajustează în pași mici"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+    "value": "Ajustează în pași mari",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1722406426824,
+        "oldValue": "",
+        "newValue": "Ajustează în pași mari"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.closeFaucet": {
+    "value": "Închide robinetul",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1722406426824,
+        "oldValue": "",
+        "newValue": "Închide robinetul"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetFully": {
+    "value": "Deschide complet robinetul",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1722406426824,
+        "oldValue": "",
+        "newValue": "Deschide complet robinetul"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+    "value": "Deschide scurt robinetul",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1722406426824,
+        "oldValue": "",
+        "newValue": "Deschide scurt robinetul"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinnerControls": {
+    "value": "Controale săgeți",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1725422854090,
+        "oldValue": "",
+        "newValue": "Controale săgeți"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinner": {
+    "value": "Săgeți",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1725422854090,
+        "oldValue": "",
+        "newValue": "Săgeți"
+      }
+    ]
+  },
+  "keyboardHelpDialog.heatCoolOff": {
+    "value": "Oprit",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1725423679652,
+        "oldValue": "",
+        "newValue": "Oprit"
+      }
+    ]
+  },
+  "keyboardHelpDialog.heatCoolControls": {
+    "value": "Control încălzire-răcire",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1725423679652,
+        "oldValue": "",
+        "newValue": "Control încălzire-răcire"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumHeat": {
+    "value": "Maxim încălzire",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1725423679652,
+        "oldValue": "",
+        "newValue": "Maxim încălzire"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumCool": {
+    "value": "Maxim răcire",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1725423679652,
+        "oldValue": "",
+        "newValue": "Maxim răcire"
+      }
+    ]
+  },
+  "ResetAllButton.name": {
+    "value": "Resetați tot",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1738130432211,
+        "oldValue": "",
+        "newValue": "Resetați tot"
+      }
+    ]
+  },
+  "SoundToggleButton.name": {
+    "value": "Comutare sunet",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1738131139759,
+        "oldValue": "",
+        "newValue": "Comutare sunet"
+      }
+    ]
+  },
+  "offScaleIndicator.pointsOffScale": {
+    "value": "Puncte<br>în afara scalei!",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1744779728569,
+        "oldValue": "",
+        "newValue": "Puncte<br>în afara scalei!"
+      }
+    ]
+  }
+}

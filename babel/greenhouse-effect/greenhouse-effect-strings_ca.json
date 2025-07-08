@@ -1,0 +1,571 @@
+{
+  "screen.layerModel": {
+    "value": "Model de capes",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Model de Capes"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "Model de Capes",
+        "newValue": "Model de capes",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Fotons",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Fotons"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Ones",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Ones"
+      }
+    ]
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "Controls del selector lliscant i del flux",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Controls del selector lliscant i del flux"
+      }
+    ]
+  },
+  "morePhotons": {
+    "value": "Més fotons",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Més Fotons"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "Més Fotons",
+        "newValue": "Més fotons",
+        "explanation": null
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Infraroig",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Infraroig"
+      }
+    ]
+  },
+  "absorbingLayers": {
+    "value": "Capes d'absorció",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Capes d'Absorció"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "Capes d'Absorció",
+        "newValue": "Capes d'absorció",
+        "explanation": null
+      }
+    ]
+  },
+  "infraredAbsorbance": {
+    "value": "Absorbància Infraroja",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Absorbància Infraroja"
+      }
+    ]
+  },
+  "valuePercentPattern": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "sunlight": {
+    "value": "Llum solar",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Llum Solar"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "Llum Solar",
+        "newValue": "Llum solar",
+        "explanation": null
+      }
+    ]
+  },
+  "solarIntensity": {
+    "value": "Intensitat solar",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Intensitat Solar"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "Intensitat Solar",
+        "newValue": "Intensitat solar",
+        "explanation": null
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "El nostre sol",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "El nostre Sol"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "El nostre Sol",
+        "newValue": "El nostre sol",
+        "explanation": null
+      }
+    ]
+  },
+  "surfaceAlbedo": {
+    "value": "Superfície d'Albedo",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Superfície d'Albedo"
+      }
+    ]
+  },
+  "temperatureUnits": {
+    "value": "Unitats de temperatura",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "",
+        "newValue": "Unitats de Temperatura"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "Unitats de Temperatura",
+        "newValue": "Unitats de temperatura",
+        "explanation": null
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "Molts",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Molts"
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "Cap",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Cap"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "Concentració de gasos d'efecte hivernacle",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Concentració de gasos d'efecte hivernacle"
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Període glacial",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Període glacial."
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "Període glacial.",
+        "newValue": "Període glacial",
+        "explanation": null
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Termòmetre de la superfície",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Termòmetre de la superfície"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Núvol",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Núvol"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Energia"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Mostra la temperatura de la superfície",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Mostra la temperatura de la superfície"
+      }
+    ]
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Inicia la llum solar",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Inicia la llum solar"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Balanç d'energia",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Balanç d'energia"
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Part superior de l'atmosfera",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Part superior de l'atmosfera"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "Interior",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Interior"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "Exterior",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Exterior"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "Xarxa",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "xarxa"
+      },
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "xarxa",
+        "newValue": "Xarxa"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Flux d'energia",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Balanç d'energia"
+      },
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "Balanç d'energia",
+        "newValue": "Flux d'energia"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Balanç d'energia",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Balan d'energia"
+      },
+      {
+        "userId": 505044,
+        "timestamp": 1675356713861,
+        "oldValue": "Balan d'energia",
+        "newValue": "Balanç d'energia"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Mesurador de flux",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Mesurador de flux"
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Efecte hivernacle",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Efecte hivernacle"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% Humitat relativa",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% Humitat relativa"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Llum solar",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Llum solar"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Infraroig",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Infraroig"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Llum solar",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "Llum solar"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "radiació Infraroja",
+    "history": [
+      {
+        "userId": 1018435,
+        "timestamp": 1664096330062,
+        "oldValue": "",
+        "newValue": "radiació Infraroja"
+      }
+    ]
+  },
+  "defaultTemperatureUnits": {
+    "value": "Unitats de temperatura per defecte",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1695797384110,
+        "oldValue": "",
+        "newValue": "Unitats de temperatura per defecte"
+      }
+    ]
+  }
+}

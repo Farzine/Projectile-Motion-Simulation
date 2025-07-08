@@ -1,0 +1,768 @@
+{
+  "circleDiameter": {
+    "value": "Diàmetre del cercle",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Diàmetre del cercle"
+      }
+    ]
+  },
+  "mmValue": {
+    "value": "{{value}} mm",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "{{value}} mm"
+      }
+    ]
+  },
+  "squareWidth": {
+    "value": "Amplada del quadrat",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Amplada del quadrat"
+      }
+    ]
+  },
+  "disorder": {
+    "value": "Desordre",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Desordre"
+      }
+    ]
+  },
+  "latticeSpacing": {
+    "value": "Separació entre els cercles",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Separació entre els cercles"
+      }
+    ]
+  },
+  "lots": {
+    "value": "molt",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "molt"
+      }
+    ]
+  },
+  "none": {
+    "value": "gens",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "gens"
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Diàmetre",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Diàmetre"
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "Excentricitat",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Excentricitat"
+      }
+    ]
+  },
+  "height": {
+    "value": "Altura",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Altura"
+      }
+    ]
+  },
+  "width": {
+    "value": "Amplada",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Amplada"
+      }
+    ]
+  },
+  "degreesValue": {
+    "value": "{{value}}˚",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "{{value}}˚"
+      }
+    ]
+  },
+  "rotation": {
+    "value": "Rotació",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Rotació"
+      }
+    ]
+  },
+  "screen.diffraction": {
+    "value": "Difracció",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "Difracció"
+      }
+    ]
+  },
+  "distanceUnits": {
+    "value": " {{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": " {{distance}} {{units}}"
+      }
+    ]
+  },
+  "timeUnits": {
+    "value": "{{time}} {{units}}",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301592,
+        "oldValue": "",
+        "newValue": "{{time}} {{units}}"
+      }
+    ]
+  },
+  "centimetersUnits": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "electricFieldAtCenter": {
+    "value": "Camp elèctric al centre",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Camp Elèctric al centre",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "Camp Elèctric al centre",
+        "newValue": "Camp elèctric al centre"
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Camp elèctric",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Camp Elèctric",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "Camp Elèctric",
+        "newValue": "Camp elèctric"
+      }
+    ]
+  },
+  "femtosecondConversion": {
+    "value": "1 fs = 10<sup>-15</sup> s",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "1 fs = 10<sup>-15</sup> s"
+      }
+    ]
+  },
+  "femtosecondsUnits": {
+    "value": "fs",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "fs"
+      }
+    ]
+  },
+  "lightGenerator": {
+    "value": "Generador de llum",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Generador de llum",
+        "explanation": null
+      }
+    ]
+  },
+  "millisecondConversion": {
+    "value": "1 ms = 10<sup>-3</sup> s",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "1 ms = 10<sup>-3</sup> s"
+      }
+    ]
+  },
+  "millisecondsUnits": {
+    "value": "ms",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "ms"
+      }
+    ]
+  },
+  "nanometersUnits": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "positionCM": {
+    "value": "posició (cm)",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Posició (cm)",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "Posició (cm)",
+        "newValue": "posició (cm)"
+      }
+    ]
+  },
+  "positionNM": {
+    "value": "posició (mm)",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Posició (mm)",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "Posició (mm)",
+        "newValue": "posició (mm)"
+      }
+    ]
+  },
+  "pressureAtCenter": {
+    "value": "Pressió al centre",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Pressió al centre",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Pressió",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Pressió",
+        "explanation": null
+      }
+    ]
+  },
+  "secondsUnits": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "soundGenerator": {
+    "value": "Generador de sons",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Generador de sons",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevelAtCenter": {
+    "value": "Nivell d'aigua al centre",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Nivell d'aigua al centre",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevel": {
+    "value": "Nivell d'aigua",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Nivell d'aigua",
+        "explanation": null
+      }
+    ]
+  },
+  "waterWaveGenerator": {
+    "value": "Generador d'ones d'aigua",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Generador d'ones d'aigua",
+        "explanation": null
+      }
+    ]
+  },
+  "cmValue": {
+    "value": "{{value}} cm",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "{{value}} cm"
+      }
+    ]
+  },
+  "nmValue": {
+    "value": "{{value}} nm",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "{{value}} nm"
+      }
+    ]
+  },
+  "separation": {
+    "value": "Separació",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Separació"
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Intensitat",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Intensitat",
+        "explanation": null
+      }
+    ]
+  },
+  "top": {
+    "value": "Part de dalt",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Dalt",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619848069017,
+        "oldValue": "Dalt",
+        "newValue": "Part de dalt"
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Normal"
+      }
+    ]
+  },
+  "slow": {
+    "value": "Lent",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Lent",
+        "explanation": null
+      }
+    ]
+  },
+  "sideView": {
+    "value": "Visió lateral",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Visió lateral",
+        "explanation": null
+      }
+    ]
+  },
+  "topView": {
+    "value": "Visió zenital",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Visió zenital",
+        "explanation": null
+      }
+    ]
+  },
+  "max": {
+    "value": "màx.",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "màx."
+      }
+    ]
+  },
+  "min": {
+    "value": "mín.",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "",
+        "newValue": "mín."
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "Amplitud",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Amplitud",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Freqüència",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Freqüència",
+        "explanation": null
+      }
+    ]
+  },
+  "both": {
+    "value": "Totes dues",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Totes dues",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Partícules",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Partícules",
+        "explanation": null
+      }
+    ]
+  },
+  "waves": {
+    "value": "Ones",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Ones",
+        "explanation": null
+      }
+    ]
+  },
+  "graph": {
+    "value": "Gràfica",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Gràfica",
+        "explanation": null
+      }
+    ]
+  },
+  "playTone": {
+    "value": "Reprodueix el to",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Reproduir to",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619809353546,
+        "oldValue": "Reproduir to",
+        "newValue": "Reprodueix el to"
+      }
+    ]
+  },
+  "screenLabel": {
+    "value": "Pantalla",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Pantalla",
+        "explanation": null
+      }
+    ]
+  },
+  "soundEffect": {
+    "value": "Efecte sonor",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Efecte sonor",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Temps",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1588846239846,
+        "oldValue": "",
+        "newValue": "Temps",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.interference": {
+    "value": "Interferència",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Interferència"
+      }
+    ]
+  },
+  "noBarrier": {
+    "value": "Sense cap barrera",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Sense cap barrera"
+      }
+    ]
+  },
+  "oneSlit": {
+    "value": "Un solc",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Un solc"
+      }
+    ]
+  },
+  "slitSeparation": {
+    "value": "Separació dels solcs",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Separació dels solcs"
+      }
+    ]
+  },
+  "slitWidth": {
+    "value": "Amplada del solc",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Amplada del solc"
+      }
+    ]
+  },
+  "twoSlits": {
+    "value": "Dos solcs",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Dos solcs"
+      }
+    ]
+  },
+  "screen.slits": {
+    "value": "Solcs",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Solcs"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Ones",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Ones"
+      }
+    ]
+  },
+  "wave-interference.title": {
+    "value": "Interferència d'ones",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1622046301593,
+        "oldValue": "",
+        "newValue": "Interferència d'ones"
+      }
+    ]
+  }
+}

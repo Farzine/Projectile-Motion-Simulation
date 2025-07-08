@@ -1,0 +1,160 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1546274172683,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Ký hiệu thập phân",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1583556087223,
+        "oldValue": "",
+        "newValue": "Ký hiệu thập phân",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Lực do {{otherObject}} tác dụng lên {{thisObject}}",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1546274172683,
+        "oldValue": "",
+        "newValue": "Lực do {{otherObject}} tác dụng lên {{thisObject}} ",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1740745131414,
+        "oldValue": "Lực do {{otherObject}} tác dụng lên {{thisObject}} ",
+        "newValue": "Lực do {{otherObject}} tác dụng lên {{thisObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Lực do {{otherObject}} tác dụng lên {{thisObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1546274172683,
+        "oldValue": "",
+        "newValue": "Lực do {{otherObject}} tác dụng lên {{thisObject}} = {{value}} N  ",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1740745131414,
+        "oldValue": "Lực do {{otherObject}} tác dụng lên {{thisObject}} = {{value}} N  ",
+        "newValue": "Lực do {{otherObject}} tác dụng lên {{thisObject}} = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Cường độ lực",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1546274172683,
+        "oldValue": "",
+        "newValue": "Cường độ lực",
+        "explanation": null
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Ẩn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1583556087223,
+        "oldValue": "",
+        "newValue": "Ẩn",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "mét",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1573023036881,
+        "oldValue": "",
+        "newValue": "mét",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "mét",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1573023036881,
+        "oldValue": "",
+        "newValue": "mét",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newton",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1573023036881,
+        "oldValue": "",
+        "newValue": "newton",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Ký hiệu khoa học",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1583556087223,
+        "oldValue": "",
+        "newValue": "Ký hiệu khoa học",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1546274172683,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1546274172683,
+        "oldValue": "",
+        "newValue": "pm",
+        "explanation": null
+      }
+    ]
+  }
+}

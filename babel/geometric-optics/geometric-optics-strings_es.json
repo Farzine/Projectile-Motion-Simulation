@@ -1,0 +1,652 @@
+{
+  "screen.lens": {
+    "value": "Lente",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Lente"
+      }
+    ]
+  },
+  "screen.mirror": {
+    "value": "Espejo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Espejo"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnObject": {
+    "value": "Elige un Objeto",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Elige un Objeto"
+      }
+    ]
+  },
+  "keyboardHelpDialog.object": {
+    "value": "Objeto",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Objeto"
+      }
+    ]
+  },
+  "keyboardHelpDialog.objects": {
+    "value": "Objetos",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Objetos"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "Mover",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Mover"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "Mover más lento",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Mover más lento"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "Mover Elementos Arrastrables",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Mover Elementos Arrastrables"
+      }
+    ]
+  },
+  "keyboardHelpDialog.rulerAndMarkerControls": {
+    "value": "Controles de Regla y Marcador",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Controles de Regla y Marcador"
+      }
+    ]
+  },
+  "keyboardHelpDialog.removeFromToolbox": {
+    "value": "Eliminar de la caja de herramientas",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Eliminar de la caja de herramientas"
+      }
+    ]
+  },
+  "keyboardHelpDialog.returnToToolbox": {
+    "value": "Regresar a la caja de herramientas",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Regresar a la caja de herramientas"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToPoint": {
+    "value": "Saltar a un punto,<br>ciclos de izquierda a derecha<br>a través de puntos interesantes",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Saltar a un punto,<br>ciclos de izquierda a derecha<br>a través de puntos interesantes"
+      }
+    ]
+  },
+  "focalLengthControl": {
+    "value": "Control de Distancia Focal:",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Control de Distancia Focal:"
+      }
+    ]
+  },
+  "checkbox.add2FPointsCheckbox": {
+    "value": "Agregar opción de \"Puntos 2F\" a paneles de controles",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Agregar la casilla de verificación \"Puntos 2F\" a los paneles de control"
+      },
+      {
+        "userId": 964963,
+        "timestamp": 1651600697765,
+        "oldValue": "Agregar la casilla de verificación \"Puntos 2F\" a los paneles de control",
+        "newValue": "Agregar opción de \"Puntos 2F\" a paneles de controles"
+      }
+    ]
+  },
+  "radioButton.direct": {
+    "value": "directo (usando el control deslizante de Distancia Focal)",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "directo (usando el control deslizante de Distancia Focal)"
+      }
+    ]
+  },
+  "radioButton.indirect": {
+    "value": "indirecto (calculado a partir de otros parámetros ópticos)",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "indirecto (calculado a partir de otros parámetros ópticos)"
+      }
+    ]
+  },
+  "arrow": {
+    "value": "Flecha",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Flecha"
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Lápiz",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Lápiz"
+      }
+    ]
+  },
+  "penguin": {
+    "value": "Pingüino",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Pingüino"
+      }
+    ]
+  },
+  "star": {
+    "value": "Estrella",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Estrella"
+      }
+    ]
+  },
+  "light": {
+    "value": "Luz",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Luz"
+      }
+    ]
+  },
+  "centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "label.projectionScreen": {
+    "value": "Pantalla",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Pantalla"
+      }
+    ]
+  },
+  "checkbox.focalPoints": {
+    "value": "Puntos Focales",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Puntos Focales"
+      }
+    ]
+  },
+  "checkbox.twoFPoints": {
+    "value": "Puntos 2F",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Puntos 2F"
+      }
+    ]
+  },
+  "checkbox.virtualImage": {
+    "value": "Imagen Virtual",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Imagen Virtual"
+      }
+    ]
+  },
+  "checkbox.labels": {
+    "value": "Etiquetas",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Etiquetas"
+      }
+    ]
+  },
+  "checkbox.secondPoint": {
+    "value": "Segundo Punto",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Segundo Punto"
+      }
+    ]
+  },
+  "checkbox.guides": {
+    "value": "Guías",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Guías"
+      }
+    ]
+  },
+  "rays": {
+    "value": "Rayos",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Rayos"
+      }
+    ]
+  },
+  "label.opticalAxis": {
+    "value": "Eje Óptico",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Eje Óptico"
+      }
+    ]
+  },
+  "label.F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "F"
+      }
+    ]
+  },
+  "label.twoF": {
+    "value": "2F",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "2F"
+      }
+    ]
+  },
+  "label.object": {
+    "value": "Objeto",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Objeto"
+      }
+    ]
+  },
+  "label.objectN": {
+    "value": "Objeto {{objectNumber}}",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Objeto {{objectNumber}}"
+      }
+    ]
+  },
+  "label.realImageN": {
+    "value": "Imagen<br>Real {{imageNumber}}",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Imagen<br>Real {{imageNumber}}"
+      }
+    ]
+  },
+  "label.virtualImageN": {
+    "value": "Imagen<br>Virtual {{imageNumber}}",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Imagen<br>Virtual {{imageNumber}}"
+      }
+    ]
+  },
+  "label.realImage": {
+    "value": "Imagen<br>Real",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Imagen Real"
+      },
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "Imagen Real",
+        "newValue": "Imagen<br>Real"
+      }
+    ]
+  },
+  "label.virtualImage": {
+    "value": "Imagen<br>Virtual",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Imagen<br>Virtual"
+      }
+    ]
+  },
+  "radioButton.marginal": {
+    "value": "Marginales",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Marginales"
+      }
+    ]
+  },
+  "radioButton.principal": {
+    "value": "Principales",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Principales"
+      }
+    ]
+  },
+  "radioButton.many": {
+    "value": "Varios",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Varios"
+      }
+    ]
+  },
+  "radioButton.none": {
+    "value": "Ninguno",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Ninguno"
+      }
+    ]
+  },
+  "focalLengthPositive": {
+    "value": "Distancia Focal",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Distancia Focal"
+      }
+    ]
+  },
+  "focalLengthNegative": {
+    "value": "Distancia Focal (−)",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Distancia Focal (−)"
+      }
+    ]
+  },
+  "valueCentimetersPattern": {
+    "value": "{{value}} cm",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "{{value}} cm"
+      }
+    ]
+  },
+  "radiusOfCurvaturePositive": {
+    "value": "Radio de Curvatura",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Radio de Curvatura"
+      }
+    ]
+  },
+  "radiusOfCurvatureNegative": {
+    "value": "Radio de Curvatura (−)",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Radio de Curvatura (−)"
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Diámetro",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Diámetro"
+      }
+    ]
+  },
+  "indexOfRefraction": {
+    "value": "Índice de Refracción",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Índice de Refracción"
+      }
+    ]
+  },
+  "label.convexLens": {
+    "value": "Lente Convexa",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Lente Convexa"
+      }
+    ]
+  },
+  "label.concaveLens": {
+    "value": "Lente Cóncava",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Lente Cóncava"
+      }
+    ]
+  },
+  "label.convexMirror": {
+    "value": "Espejo Convexo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Espejo Convexo"
+      }
+    ]
+  },
+  "label.concaveMirror": {
+    "value": "Espejo Cóncavo",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Espejo Cóncavo"
+      }
+    ]
+  },
+  "label.flatMirror": {
+    "value": "Espejo<br>Plano",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1649426695516,
+        "oldValue": "",
+        "newValue": "Espejo<br>Plano"
+      }
+    ]
+  },
+  "geometric-optics.title": {
+    "value": "Óptica Geométrica",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Óptica Geométrica"
+      }
+    ]
+  },
+  "planet": {
+    "value": "Planeta",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Planeta"
+      }
+    ]
+  },
+  "focalPoint": {
+    "value": "Punto Focal",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1647533389909,
+        "oldValue": "",
+        "newValue": "Punto Focal"
+      }
+    ]
+  }
+}

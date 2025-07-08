@@ -1,0 +1,739 @@
+{
+  "atmospheres": {
+    "value": "атм",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "атм",
+        "explanation": null
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Центр масс",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Центр масс",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "Данные",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Данные",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Диффузия",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Диффузия",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Начальная температура, К",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Начальная температура (К)",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774212930,
+        "oldValue": "Начальная температура (К)",
+        "newValue": "Начальная температура, К",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "кПа",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "кПа",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Масса, а.е.м.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Масса (а.е.м.)",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774212930,
+        "oldValue": "Масса (а.е.м.)",
+        "newValue": "Масса, а.е.м.",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "нм",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "нм",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Количество частиц",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Количество частиц",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Скорость потока частиц",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Поток частиц",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774212930,
+        "oldValue": "Поток частиц",
+        "newValue": "Потоки частиц",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "Потоки частиц",
+        "newValue": "Скорость потока частиц"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Давление",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Давление",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Флуктуация давления",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Давление шума",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "Давление шума",
+        "newValue": "Флуктуация давления"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "пс",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "мс",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "мс",
+        "newValue": "пс"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Радиус, пм",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Радиус (пм)",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774212930,
+        "oldValue": "Радиус (пм)",
+        "newValue": "Радиус, пм",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Убрать перегородку",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Убрать разделитель",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "Убрать разделитель",
+        "newValue": "Убрать перегородку"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Вернуть перегородку",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Вернуть разделитель",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774212930,
+        "oldValue": "Вернуть разделитель",
+        "newValue": "Сбросить и разделить",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "Сбросить и разделить",
+        "newValue": "Вернуть перегородку"
+      }
+    ]
+  },
+  "scale": {
+    "value": "Шкала",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Шкала",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Секундомер",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "Секундомер",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>средняя</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "T<sub>сред</sub> = {{value}}",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "T<sub>сред</sub> = {{value}}",
+        "newValue": "T<sub>средняя</sub> = {{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>средняя</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "T<sub>сред</sub> = {{value}} K",
+        "explanation": null
+      },
+      {
+        "userId": 733901,
+        "timestamp": 1665936336144,
+        "oldValue": "T<sub>сред</sub> = {{value}} K",
+        "newValue": "T<sub>средняя</sub> = {{value}} K"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106196853,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Счетчик столкновений",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Счетчик столкновений",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Ширина",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Ширина",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Период отсчета",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Период отсчета",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Столкновения о стенки",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Столкновения о стенки",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "°C",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Вернуть крышку",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Вернуть крышку",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Упс!<br><br>Достигнута максимальная температура.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Упс!<br><br>Достигнута максимальная температура.",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Столкновения",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Столкновения",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Тяжелые",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Тяжелые",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "Легкие",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Легкие",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Частицы",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Частицы",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Изучение",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Изучение",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Ничего",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Ничего",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Давление ↕T",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Давление ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Давление ↕V",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Давление ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Удерживать",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Удерживать",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Температура (Т)",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Температура (Т)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Объем (V)",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Объем (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Упс!<br><br>Невозможно поддерживать уровень давления,<br>если контейнер пуст.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Упс!<br><br>Невозможно поддерживать уровень давления,<br>если контейнер пуст.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Упс!<br><br>Невозможно поддерживать уровень давления.<br>Объем будет слишком большим.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Упс!<br><br>Невозможно поддерживать уровень давления.<br>Объем будет слишком большим.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Упс!<br><br>Невозможно поддерживать уровень давления.<br>Объем будет слишком маленьким.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Упс!<br><br>Невозможно поддерживать уровень давления.<br>Объем будет слишком маленьким.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Упс!<br><br>Невозможно поддерживать уровень температуры,<br>если контейнер пустой.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Упс!<br><br>Невозможно поддерживать уровень температуры,<br>если контейнер пустой.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Упс!<br><br>Невозможно поддерживать уровень температуры<br>, пока контейнер открыт.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Упс!<br><br>Невозможно поддерживать уровень температуры<br>, пока контейнер открыт.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Идеальный газ",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106569868,
+        "oldValue": "",
+        "newValue": "Идеальный газ",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Средняя скорость",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Средняя скорость",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "м/с",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "м/с",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Температура впрыска",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Температура впрыска",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Равная контейнеру",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Равная контейнеру",
+        "explanation": null
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Выставить значение:",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Выставить значение:",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Кинетическая энергия",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Кинетическая энергия",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Скорость",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Скорость",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Энергия",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Энергия",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Свойства газа",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1568106926858,
+        "oldValue": "",
+        "newValue": "Свойства газа",
+        "explanation": null
+      }
+    ]
+  }
+}

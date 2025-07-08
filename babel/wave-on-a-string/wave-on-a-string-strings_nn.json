@@ -1,0 +1,391 @@
+{
+  "rulers": {
+    "value": "Linjalar",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Linjalar",
+        "explanation": null
+      }
+    ]
+  },
+  "timer": {
+    "value": "Tidtaking",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Tidtaker",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1529356904232,
+        "oldValue": "Tidtaker",
+        "newValue": "Tidtaking",
+        "explanation": null
+      }
+    ]
+  },
+  "referenceLine": {
+    "value": "Likevektslinje",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Likevektline",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1529356904232,
+        "oldValue": "Likevektline",
+        "newValue": "Likevektslinje",
+        "explanation": null
+      }
+    ]
+  },
+  "tension": {
+    "value": "Spenning (tiltrekning)",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Spenning (tiltrekning)",
+        "explanation": null
+      }
+    ]
+  },
+  "damping": {
+    "value": "Demping",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Demping",
+        "explanation": null
+      }
+    ]
+  },
+  "low": {
+    "value": "låg",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "lav",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1529426082223,
+        "oldValue": "lav",
+        "newValue": "låg",
+        "explanation": null
+      }
+    ]
+  },
+  "high": {
+    "value": "høg",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "høy",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1529426082223,
+        "oldValue": "høy",
+        "newValue": "høg",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "inga",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Ingen",
+        "explanation": null
+      },
+      {
+        "userId": 339406,
+        "timestamp": 1727254416020,
+        "oldValue": "Ingen",
+        "newValue": "inga",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "mykje",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Mange",
+        "explanation": null
+      },
+      {
+        "userId": 339406,
+        "timestamp": 1727254416020,
+        "oldValue": "Mange",
+        "newValue": "mykje",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frekvens",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Frekvens",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitHz": {
+    "value": "{0} Hz",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "{0} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "pulseWidth": {
+    "value": "Pulslengde",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Pulslengde",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitS": {
+    "value": "{0} s",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "{0} s",
+        "explanation": null
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "Amplitude (svingeutslag)",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Amplitude (svingeutslag)",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitCm": {
+    "value": "{0} cm",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "{0} cm",
+        "explanation": null
+      }
+    ]
+  },
+  "restart": {
+    "value": "Start på nytt",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Start på nytt",
+        "explanation": null
+      }
+    ]
+  },
+  "speedSlow": {
+    "value": "Sakte rørsle",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Sakte bevegelse",
+        "explanation": null
+      },
+      {
+        "userId": 339406,
+        "timestamp": 1727254686095,
+        "oldValue": "Sakte bevegelse",
+        "newValue": "Sakte rørsle",
+        "explanation": null
+      }
+    ]
+  },
+  "speedNormal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "manual": {
+    "value": "Manuell",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Manuell",
+        "explanation": null
+      }
+    ]
+  },
+  "oscillate": {
+    "value": "Oscillator (pendel)",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Oscillator (pendel)",
+        "explanation": null
+      }
+    ]
+  },
+  "pulse": {
+    "value": "Puls",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Puls",
+        "explanation": null
+      }
+    ]
+  },
+  "fixedEnd": {
+    "value": "Fast ende",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Fast ende",
+        "explanation": null
+      }
+    ]
+  },
+  "looseEnd": {
+    "value": "Laus ende",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Laus ende",
+        "explanation": null
+      }
+    ]
+  },
+  "noEnd": {
+    "value": "Inga ende",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Ingen ende",
+        "explanation": null
+      },
+      {
+        "userId": 339406,
+        "timestamp": 1727254416020,
+        "oldValue": "Ingen ende",
+        "newValue": "Inga ende",
+        "explanation": null
+      }
+    ]
+  },
+  "unitCm": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "wave-on-a-string.title": {
+    "value": "Bølge på ein tråd",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1529356575027,
+        "oldValue": "",
+        "newValue": "Bølgje på\r\nein tråd",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1529356904232,
+        "oldValue": "Bølgje på\r\\nein tråd",
+        "newValue": "Bølgje på\\nein tråd",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1529426082223,
+        "oldValue": "Bølgje på\\nein tråd",
+        "newValue": "Bølgje på ein tråd",
+        "explanation": null
+      },
+      {
+        "userId": 339406,
+        "timestamp": 1727254416020,
+        "oldValue": "Bølgje på ein tråd",
+        "newValue": "Bølge på ein tråd",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "chooseYourLevel": {
+    "value": "選擇你想挑戰的關卡",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "選擇你的等級"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430294577,
+        "oldValue": "選擇你的等級",
+        "newValue": "選擇你想挑戰的關卡"
+      }
+    ]
+  },
+  "pattern.level.0levelNumber": {
+    "value": "第 {0} 關",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "等級{0}"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430294577,
+        "oldValue": "等級{0}",
+        "newValue": "第 {0} 關"
+      }
+    ]
+  },
+  "check": {
+    "value": "核對",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "檢查"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430294577,
+        "oldValue": "檢查",
+        "newValue": "核對"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "重新嘗試",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "重新嘗試"
+      }
+    ]
+  },
+  "unknownValueIndicator": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "divide": {
+    "value": "除",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "除以"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1663847812234,
+        "oldValue": "除以",
+        "newValue": "除法"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430294577,
+        "oldValue": "除法",
+        "newValue": "除數"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430870232,
+        "oldValue": "除數",
+        "newValue": "除"
+      }
+    ]
+  },
+  "factor": {
+    "value": "因數",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "分數"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1663847812234,
+        "oldValue": "分數",
+        "newValue": "因數"
+      }
+    ]
+  },
+  "multiply": {
+    "value": "乘",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "乘以"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1663847812234,
+        "oldValue": "乘以",
+        "newValue": "乘法"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430294577,
+        "oldValue": "乘法",
+        "newValue": "乘數"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430870232,
+        "oldValue": "乘數",
+        "newValue": "乘"
+      }
+    ]
+  },
+  "arithmetic.title": {
+    "value": "算術",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663829234659,
+        "oldValue": "",
+        "newValue": "加法"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1663847812234,
+        "oldValue": "加法",
+        "newValue": "算術"
+      }
+    ]
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "pattern.0label.1value": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "{0}: {1}"
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "pH"
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "{0}{1}"
+      }
+    ]
+  },
+  "liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "pattern.0value.1power": {
+    "value": "{0} x 10<sup>{1}</sup>",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "{0} x 10<sup>{1}</sup>"
+      }
+    ]
+  },
+  "negligible": {
+    "value": "Koṣe pataki",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "koṣe pataki"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": "koṣe pataki",
+        "newValue": "Koṣe pataki"
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "Òdíwọ̀n Kọnsẹtresàn (mol/L)",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": " Òdíwọ̀n ìpọkànpọ̀ (mol/L)"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": " Òdíwọ̀n ìpọkànpọ̀ (mol/L)",
+        "newValue": " Òdíwọ̀n Concentration (mol/L)"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": " Òdíwọ̀n Concentration (mol/L)",
+        "newValue": "Òdíwọ̀n Kọnsẹtresàn (mol/L)"
+      }
+    ]
+  },
+  "graph": {
+    "value": "Atẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "àtẹ ìsọfúnni,"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630422000493,
+        "oldValue": "àtẹ ìsọfúnni,",
+        "newValue": "àtẹ ìsọfúnni"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "àtẹ ìsọfúnni",
+        "newValue": "Atẹ ìsọfúnni"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630435484158,
+        "oldValue": "Atẹ ìsọfúnni",
+        "newValue": "Graph"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637261879522,
+        "oldValue": "Graph",
+        "newValue": "Atẹ"
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "Tọju àtẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Tọju Awọn iwo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "Tọju Awọn iwo",
+        "newValue": "Tọju àtẹ ìsọfúnni"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630435484158,
+        "oldValue": "Tọju àtẹ ìsọfúnni",
+        "newValue": "Tọju Graph"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637261879522,
+        "oldValue": "Tọju Graph",
+        "newValue": "Tọju àtẹ"
+      }
+    ]
+  },
+  "molecules": {
+    "value": "Awọn Moleku",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Awọn Molecule"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630422000493,
+        "oldValue": "Awọn Molecule",
+        "newValue": "Awọn Moleku"
+      }
+    ]
+  },
+  "solvent": {
+    "value": "Sọfẹnti",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Solvent"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": "Solvent",
+        "newValue": "Sọfẹnti"
+      }
+    ]
+  },
+  "solution": {
+    "value": "Solusán",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Solution"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630422000493,
+        "oldValue": "Solution",
+        "newValue": "Solusán"
+      }
+    ]
+  },
+  "tools": {
+    "value": "Irinṣẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Awọn irinṣẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": "Awọn irinṣẹ",
+        "newValue": "Irinṣẹ"
+      }
+    ]
+  },
+  "views": {
+    "value": "Iwo",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Awọn iwo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": "Awọn iwo",
+        "newValue": "Iwo"
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "Kó̩kó̩ró̩ àwọ̀ pH",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "kó̩kó̩ró̩  àwọ̀"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "kó̩kó̩ró̩  àwọ̀",
+        "newValue": "kó̩kó̩ró̩  pH"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": "kó̩kó̩ró̩  pH",
+        "newValue": "Kó̩kó̩ró̩ àwọ̀ pH"
+      }
+    ]
+  },
+  "stronger": {
+    "value": "Lágbára ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "lágbára jù"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "lágbára jù",
+        "newValue": "Lágbára "
+      }
+    ]
+  },
+  "weaker": {
+    "value": "Aláìlágbára",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": " aláìlágbára"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": " aláìlágbára",
+        "newValue": "Aláìlágbára"
+      }
+    ]
+  },
+  "acid": {
+    "value": "Asíìdì",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "ásíìdì"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "ásíìdì",
+        "newValue": "Asíìdì"
+      }
+    ]
+  },
+  "base": {
+    "value": "Béésí ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Base"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637261879522,
+        "oldValue": "Base",
+        "newValue": "Béésí "
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "Ipopọ̀ ákọ̀ọ́kọ́  (mol/L):",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Concentration ákọ̀ọ́kọ́  (mol/L):"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637261879522,
+        "oldValue": "Concentration ákọ̀ọ́kọ́  (mol/L):",
+        "newValue": "ipopọ̀ ákọ̀ọ́kọ́  (mol/L):"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": "ipopọ̀ ákọ̀ọ́kọ́  (mol/L):",
+        "newValue": "Ipopọ̀ ákọ̀ọ́kọ́  (mol/L):"
+      }
+    ]
+  },
+  "strength": {
+    "value": "Agbára:",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "agbára:"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "agbára:",
+        "newValue": "Agbára:"
+      }
+    ]
+  },
+  "strong": {
+    "value": "Líle",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "líle"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637687036898,
+        "oldValue": "líle",
+        "newValue": "Líle"
+      }
+    ]
+  },
+  "weak": {
+    "value": "Aláìle",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "aláìlera"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "aláìlera",
+        "newValue": "Aláìle"
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Solusán mi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Solution mi"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630422000493,
+        "oldValue": "Solution mi",
+        "newValue": "Solusán mi"
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "Asíìdì líle",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "ásíìdì líle"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "ásíìdì líle",
+        "newValue": "Asíìdì líle"
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "Béésí líle",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Base  líle"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "Base  líle",
+        "newValue": "Base líle"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637261879522,
+        "oldValue": "Base líle",
+        "newValue": "Béésí líle"
+      }
+    ]
+  },
+  "water": {
+    "value": "Omí",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Omi"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "Omi",
+        "newValue": "Omí"
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "Asíìdì aláìle",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "ásíìdì aláìlera"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "ásíìdì aláìlera",
+        "newValue": "Asíìdì aláìle"
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "Baasí  aláìle",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Base aláìlera"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "Base aláìlera",
+        "newValue": "Base aláìle"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637261879522,
+        "oldValue": "Base aláìle",
+        "newValue": "Béésí  aláìle"
+      },
+      {
+        "userId": 973833,
+        "timestamp": 1649079962804,
+        "oldValue": "Béésí  aláìle",
+        "newValue": "Baasí  aláìle"
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "káàbọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Oro Isaaju"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630422000493,
+        "oldValue": "Oro Isaaju",
+        "newValue": "ọrọ Isááju"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "ọrọ Isááju",
+        "newValue": "káàbọ̀"
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "Solusán ti Asíìdì-Béésí ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629143047263,
+        "oldValue": "",
+        "newValue": "Solution ti ásíìdì si Base"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630422000493,
+        "oldValue": "Solution ti ásíìdì si Base",
+        "newValue": "Solusán ti ásíìdì si Base"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630434034439,
+        "oldValue": "Solusán ti ásíìdì si Base",
+        "newValue": "Solusán ti Asíìdì si Base"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1635357890976,
+        "oldValue": "Solusán ti Asíìdì si Base",
+        "newValue": "Solusán ti Asíìdì-Base"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637261879522,
+        "oldValue": "Solusán ti Asíìdì-Base",
+        "newValue": "Solusán ti Asíìdì-Béésí "
+      }
+    ]
+  }
+}

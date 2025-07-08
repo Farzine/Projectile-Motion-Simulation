@@ -1,0 +1,777 @@
+{
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 936529,
+        "timestamp": 1663727316742,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619717,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619718,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "بنیادی اقدام",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "بنیادی اقدام",
+        "explanation": null
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "کیاپس لوک",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619718,
+        "oldValue": "",
+        "newValue": "کیپس لوک"
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1659185745280,
+        "oldValue": "کیپس لوک",
+        "newValue": "کیاپس لوک"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "ختم شد",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "ختم شد",
+        "explanation": null
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "داخل ہوں",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "داخل",
+        "explanation": null
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1678764883677,
+        "oldValue": "داخل",
+        "newValue": "داخل ہوں",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "باہر",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "باہر",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "اخراج کریں",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "اخراج کریں",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "تیز",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619718,
+        "oldValue": "",
+        "newValue": "جلدی"
+      },
+      {
+        "userId": 936529,
+        "timestamp": 1663725878323,
+        "oldValue": "جلدی",
+        "newValue": "تیز"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619718,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "پکڑیں یا چھوڑیں {{thing}}",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1592849283917,
+        "oldValue": "",
+        "newValue": "پکڑئیے یا چھوڑئیے {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 746935,
+        "timestamp": 1680612911462,
+        "oldValue": "پکڑئیے یا چھوڑئیے {{thing}}",
+        "newValue": "پکڑیں یا چھوڑیں {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "پکڑیں یا چھوڑیں  {{thing}}",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1592849283917,
+        "oldValue": "",
+        "newValue": "پکڑئیے یا چھوڑئیے {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 746935,
+        "timestamp": 1680612911462,
+        "oldValue": "پکڑئیے یا چھوڑئیے {{thing}}",
+        "newValue": "پکڑیں یا چھوڑیں  {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "ہوم",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1604252479921,
+        "oldValue": "",
+        "newValue": "ہوم",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "گروپ کے اندرون مختلف اشیا کے درمیان جائیں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1627752311238,
+        "oldValue": "",
+        "newValue": "گروپ کے اندرون مختلف اشیا کے درمیان جائیں"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "اگلی شئے یا گروپ پر جائیں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1604252479921,
+        "oldValue": "",
+        "newValue": "اگلی شئے یا گروپ پر جائیں",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "پچھلی شئے یا گروپ پر جائیں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1604252479921,
+        "oldValue": "",
+        "newValue": "پچھلی شئے یا گروپ پر جائیں",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "حسب معمول ",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1610556446807,
+        "oldValue": "",
+        "newValue": "معمولی",
+        "explanation": null
+      },
+      {
+        "userId": 936529,
+        "timestamp": 1663725878323,
+        "oldValue": "معمولی",
+        "newValue": "حسب معمول "
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "یا",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1572173678295,
+        "oldValue": "",
+        "newValue": "یا",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "نچلا پیج",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1572173678295,
+        "oldValue": "",
+        "newValue": "پیج کے نیچے جانے لے لئے ",
+        "explanation": null
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1678764883677,
+        "oldValue": "پیج کے نیچے جانے لے لئے ",
+        "newValue": "پیج کے نیچے جانے کے لئے",
+        "explanation": null
+      },
+      {
+        "userId": 746935,
+        "timestamp": 1680612911462,
+        "oldValue": "پیج کے نیچے جانے کے لئے",
+        "newValue": "نچلا پیج",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "اوپری پیج",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1572173678295,
+        "oldValue": "",
+        "newValue": "پیج کے اوپر جانے لے لئے",
+        "explanation": null
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1678764883677,
+        "oldValue": "پیج کے اوپر جانے لے لئے",
+        "newValue": "پیج کے اوپر جانے کے لئے",
+        "explanation": null
+      },
+      {
+        "userId": 746935,
+        "timestamp": 1680612911462,
+        "oldValue": "پیج کے اوپر جانے کے لئے",
+        "newValue": "اوپری پیج",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "بٹن دبانا",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619718,
+        "oldValue": "",
+        "newValue": "بٹن دبانا"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "شِفٹ بٹن",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1572173678295,
+        "oldValue": "",
+        "newValue": "شِفٹ کی",
+        "explanation": null
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1678764883677,
+        "oldValue": "شِفٹ کی",
+        "newValue": "شِفٹ بٹن",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "آہستہ",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1610556446807,
+        "oldValue": "",
+        "newValue": "دھیما",
+        "explanation": null
+      },
+      {
+        "userId": 936529,
+        "timestamp": 1663725878323,
+        "oldValue": "دھیما",
+        "newValue": "آہستہ"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "جگہ (اسپیس)",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1592849283917,
+        "oldValue": "",
+        "newValue": "جگہ (سپیس)",
+        "explanation": null
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1678764883677,
+        "oldValue": "جگہ (سپیس)",
+        "newValue": "جگہ (اسپیس)",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "ٹیاب",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1572173678295,
+        "oldValue": "",
+        "newValue": "ٹیاب",
+        "explanation": null
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1646158227126,
+        "oldValue": "ٹیاب",
+        "newValue": "ٹیب"
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1678764883677,
+        "oldValue": "ٹیب",
+        "newValue": "ٹیاب",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "کنٹرول باکس ٹوگل کرنا",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619718,
+        "oldValue": "",
+        "newValue": "کنٹرول باکس ٹوگل کرنا"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 945541,
+        "timestamp": 1634577619718,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951875,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951875,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "دوبارہ شروع کریں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1646158227126,
+        "oldValue": "",
+        "newValue": "دوبارہ شروع کریں"
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "معزرت، گرافکس خراب ہو گئی ہے",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1646158227126,
+        "oldValue": "",
+        "newValue": "معزرت، گرافکس خراب ہو گئی ہے"
+      }
+    ]
+  },
+  "cool": {
+    "value": "ٹھنڈا",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1572173678295,
+        "oldValue": "",
+        "newValue": "ٹھنڈا",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "گرم",
+    "history": [
+      {
+        "userId": 703170,
+        "timestamp": 1572173678295,
+        "oldValue": "",
+        "newValue": "حرارت",
+        "explanation": null
+      },
+      {
+        "userId": 813007,
+        "timestamp": 1610556446807,
+        "oldValue": "حرارت",
+        "newValue": "گرم",
+        "explanation": null
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1610556446807,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "بڑے اقدامات ایڈجسٹ کریں",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "بڑے اقدامات ایڈجسٹ کریں",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "چھوٹے اقدامات ایڈجسٹ کریں",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "چھوٹے اقدامات ایڈجسٹ کریں",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "ایڈجسٹ سلائڈر",
+    "history": [
+      {
+        "userId": 746935,
+        "timestamp": 1584276951874,
+        "oldValue": "",
+        "newValue": "ایڈجسٹ سلائڈر",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "آخری حد تک جائیں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1604252479921,
+        "oldValue": "",
+        "newValue": "آخری حد تک جائیں",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "کم سے کم تک جائیں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1604252479921,
+        "oldValue": "",
+        "newValue": "کم سے کم تک جائیں",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "اگلی شئے پر جائیں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1604252479921,
+        "oldValue": "",
+        "newValue": "اگلی شئے پر جائیں",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "پچھلی شئے پر جائیں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1604252479921,
+        "oldValue": "",
+        "newValue": "پچھلی شئے پر جائیں",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "سب کو ریسیٹ کرئیے",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "سب کو ریسیٹ کرئیے"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "کی پیاڈ میں قدروں کو سبٹ کریں",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "کی پیاڈ میں قدروں کو سبٹ کریں"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "اختیار",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "اختیار"
+      }
+    ]
+  },
+  "key.a": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "key.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "key.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "key.r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "key.s": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "S"
+      }
+    ]
+  },
+  "key.w": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "key.one": {
+    "value": "1",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "1"
+      }
+    ]
+  },
+  "key.two": {
+    "value": "2",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "2"
+      }
+    ]
+  },
+  "key.three": {
+    "value": "3",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "3"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1683260004799,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 813007,
+        "timestamp": 1718417577016,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  }
+}

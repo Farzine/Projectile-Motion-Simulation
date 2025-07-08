@@ -1,0 +1,849 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "1 s",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Tegangan AC",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Tegangan AC",
+        "explanation": null
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Tambahkan Bohlam",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Tambahkan Bohlam"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Tingkat Lanjut",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "Tingkat Lanjut"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Amperemeter",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Ampere Meter",
+        "explanation": null
+      },
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "Ampere Meter",
+        "newValue": "Amperemeter"
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Pengukuran Amperemeter",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "Pengukuran Amperemeter"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Amperemeter",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Ampere Meter",
+        "explanation": null
+      },
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "Ampere Meter",
+        "newValue": "Amperemeter"
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Batas kecepatan animasi terlampaui! Kecepatan simulasi akan dikurang menjadi {{percent}} % dari kecepatan normal",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Batas kecepatan animasi terlampaui! Kecepatan simulasi akan dikurang menjadi {{percent}} % dari kecepatan normal",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Baterai",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Baterai",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Hambatan Baterai",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Hambatan Baterai",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Inggris",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "Inggris"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Kapasitansi",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Kapasitansi"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Kapasitor",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Kapasitor"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Koin",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Koin",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Konvensional",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Konvensional",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Arus",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Arus",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Arus (A)",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Arus (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Tabel Arus",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Tabel Arus",
+        "explanation": null
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Tingkat Arus",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Tingkat Arus",
+        "explanation": null
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Data berlebih",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Data berlebih"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Anjing",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Anjing",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Uang Dollar",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Uang Dollar",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektron",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Elektron",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Penghapus",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Penghapus",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frekuensi",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Frekuensi",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Sikring",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Fuse",
+        "explanation": null
+      },
+      {
+        "userId": 11331044,
+        "timestamp": 1733468045142,
+        "oldValue": "Fuse",
+        "newValue": "Sikring",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Tangan",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Tangan",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Induktansi",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Induktansi"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Induktor",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Induktor"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Label",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Label",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Bola Lampu",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Bola Lampu",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Banyaknya",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Banyaknya",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Nilai",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Nilai"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Penjepit kertas",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Penjepit kertas",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "pencil",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "pencil",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Perpindahan Fase",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Perpindahan Fase"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Hambatan",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Hambatan",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Resistor",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Resistor",
+        "explanation": null
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Tampilkan arus",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Tampilkan arus",
+        "explanation": null
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Hambatan Sumber",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "Hambatan Sumber"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Stopwatch",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Stopwatch"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Saklar",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Saklar",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Tap bagian sirkuit untuk mengeditnya",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "Tap bagian sirkuit untuk mengeditnya",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Saklar ditutup",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Saklar ditutup",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Saklar dibuka",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Saklar dibuka",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Waktu",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Waktu",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "Sedikit",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Sedikit",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Nilai",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Nilai",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Tegangan",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Tegangan",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Tegangan (V)",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1663764938804,
+        "oldValue": "",
+        "newValue": "Tegangan (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Tabel Tegangan",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Tabel Tegangan",
+        "explanation": null
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmeter",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Voltmeter",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Kabel",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Kabel",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Hambatan dalam kabel",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "Hambatan dalam kabel",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 1091906,
+        "timestamp": 1664154322226,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohms",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohms",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volts",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981570,
+        "oldValue": "",
+        "newValue": "{{voltage}} volts",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 177550,
+        "timestamp": 1586365981569,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "Tanda Positif / Negatif",
+    "history": [
+      {
+        "userId": 11331044,
+        "timestamp": 1733468045142,
+        "oldValue": "",
+        "newValue": "Tanda Positif / Negatif"
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Standar Rangkaian Skematik",
+    "history": [
+      {
+        "userId": 11331044,
+        "timestamp": 1733468045142,
+        "oldValue": "",
+        "newValue": "Standar Rangkaian Skematik"
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Bohlam Asli",
+    "history": [
+      {
+        "userId": 11331044,
+        "timestamp": 1733468045142,
+        "oldValue": "",
+        "newValue": "Bohlam Asli"
+      }
+    ]
+  }
+}

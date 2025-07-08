@@ -1,0 +1,626 @@
+{
+  "screen.macro": {
+    "value": "Makro",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Makro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Mikro",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "Mikro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Çözeltim",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "Çözeltim",
+        "explanation": null
+      }
+    ]
+  },
+  "acidic": {
+    "value": "Asidik",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Asidik",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "Bazik",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Bazik",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "Nötr",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Nötr",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "Akü Asidi",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Akü asidi",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "Akü asidi",
+        "newValue": "Akü Asidi"
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "Kan",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Kan",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "Tavuk Çorbası",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Tavuk Çorbası",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "Kahve",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Kahve",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "Lavabo Açıcı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Lavabo açıcı",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "Lavabo açıcı",
+        "newValue": "Lavabo Açıcı"
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "El Sabunu",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "El sabunu",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "El sabunu",
+        "newValue": "El Sabunu"
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "Süt",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Süt",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "Portakal Suyu",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Portakal Suyu",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "Gazoz",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Gazoz",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "Tükürük",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Tükrük",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "Tükrük",
+        "newValue": "Tükürük"
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "Kusmuk",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Kusmuk",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "Su",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Su",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Lt",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "Lt",
+        "newValue": "L"
+      }
+    ]
+  },
+  "ratio": {
+    "value": "Oran",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "oran",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "oran",
+        "newValue": "Oran"
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "Molekül Sayısı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "Molekül sayısı",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "Molekül sayısı",
+        "newValue": "Molekül Sayısı"
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "Logaritmik",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "Logaritmik",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "Doğrusal",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "Doğrusal",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "ölçek dışı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "ölçü dışı",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "ölçü dışı",
+        "newValue": "ölçek dışı"
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Derişim",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "Derişim",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "mol/lt",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "mol/lt",
+        "newValue": "mol/L"
+      }
+    ]
+  },
+  "quantity": {
+    "value": "Miktar ",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483676855568,
+        "oldValue": "",
+        "newValue": "Kemmiyet",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670684254628,
+        "oldValue": "Kemmiyet",
+        "newValue": "Miktar "
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH Ölçeği",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "pH Ölçeği",
+        "explanation": null
+      }
+    ]
+  },
+  "button.zoomIn": {
+    "value": "Yaklaştır (÷10)",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Yaklaştır (÷10)",
+        "explanation": null
+      }
+    ]
+  },
+  "button.zoomOut": {
+    "value": "Uzaklaştır (x10)",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Uzaklaştır (x10)",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.H3O_OH_ratio": {
+    "value": "{0}/{1} oranı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "{0}/{1} oranı",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.dontAskAgain": {
+    "value": "Bana bir daha sorma",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Bana bir daha sorma",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.moleculeCount": {
+    "value": "Molekül sayısı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Molekül sayısı",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.beer": {
+    "value": "Bira",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Bira",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "Özel sıvı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Özel sıvı",
+        "explanation": null
+      }
+    ]
+  },
+  "label.acid": {
+    "value": "Asit",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Asit",
+        "explanation": null
+      }
+    ]
+  },
+  "label.base": {
+    "value": "Baz",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Baz",
+        "explanation": null
+      }
+    ]
+  },
+  "label.pH": {
+    "value": "pH:",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "pH:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.concentration": {
+    "value": "Yoğunluk (Konsantrasyon) ({0})",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Yoğunluk (Konsantrasyon) ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.linearScale": {
+    "value": "Doğrusal ölçek",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Doğrusal ölçek",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.logarithmicScale": {
+    "value": "Logaritmik ölçek",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Logaritmik ölçek",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.numberOfMoles": {
+    "value": "Mol sayısı ({0})",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Mol sayısı ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "title.waterComponents": {
+    "value": "Su Bileşenleri",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1483584163438,
+        "oldValue": "",
+        "newValue": "Su Bileşenleri",
+        "explanation": null
+      }
+    ]
+  }
+}

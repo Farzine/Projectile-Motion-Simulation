@@ -1,0 +1,398 @@
+{
+  "pattern.0label.1value": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "{0}{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "liters": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646515920423,
+        "oldValue": "L",
+        "newValue": "l"
+      }
+    ]
+  },
+  "pattern.0value.1power": {
+    "value": "{0} x 10<sup>{1}</sup>",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "{0} x 10<sup>{1}</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "negligible": {
+    "value": "merkityksetön",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "merkityksetön",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "Tasapainokonsentraatio (mol/l)",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Tasapainokonsentraatio (mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646515920423,
+        "oldValue": "Tasapainokonsentraatio (mol/L)",
+        "newValue": "Tasapainokonsentraatio (mol/l)"
+      }
+    ]
+  },
+  "graph": {
+    "value": "Kuvaaja",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Kuvaaja",
+        "explanation": null
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "Piilota näkymät",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Piilota näkymät",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules": {
+    "value": "Molekyylit",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Molekyylit",
+        "explanation": null
+      }
+    ]
+  },
+  "solvent": {
+    "value": "Liuotin",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Liuotin",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "Liuos",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Liuos",
+        "explanation": null
+      }
+    ]
+  },
+  "tools": {
+    "value": "Työkalut",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Työkalut",
+        "explanation": null
+      }
+    ]
+  },
+  "views": {
+    "value": "Näkymät",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Näkymät",
+        "explanation": null
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "pH-väriasteikko",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "pH-väriasteikko",
+        "explanation": null
+      }
+    ]
+  },
+  "stronger": {
+    "value": "vahvempi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "vahvempi",
+        "explanation": null
+      }
+    ]
+  },
+  "weaker": {
+    "value": "heikompi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "heikompi",
+        "explanation": null
+      }
+    ]
+  },
+  "acid": {
+    "value": "Happo",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Happo",
+        "explanation": null
+      }
+    ]
+  },
+  "base": {
+    "value": "Emäs",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Emäs",
+        "explanation": null
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "Alkukonsentraatio (mol/l):",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Alkukonsentraatio (mol/L):",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646515920423,
+        "oldValue": "Alkukonsentraatio (mol/L):",
+        "newValue": "Alkukonsentraatio (mol/l):"
+      }
+    ]
+  },
+  "strength": {
+    "value": "Vahvuus:",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Vahvuus:",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "vahva",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "vahva",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "heikko",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "heikko",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Oma liuos",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Oma liuos",
+        "explanation": null
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "Vahva happo",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Vahva happo",
+        "explanation": null
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "Vahva emäs",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Vahva emäs",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Vesi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231639,
+        "oldValue": "",
+        "newValue": "Vesi",
+        "explanation": null
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "Heikko happo",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231640,
+        "oldValue": "",
+        "newValue": "Heikko happo",
+        "explanation": null
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "Heikko emäs",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231640,
+        "oldValue": "",
+        "newValue": "Heikko emäs",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "Johdanto",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231640,
+        "oldValue": "",
+        "newValue": "Johdanto",
+        "explanation": null
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "Happo-emäs -liuokset",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454018231640,
+        "oldValue": "",
+        "newValue": "Happo-emäs-liuokset",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646515920423,
+        "oldValue": "Happo-emäs-liuokset",
+        "newValue": "Happo-emäs -liuokset"
+      }
+    ]
+  }
+}

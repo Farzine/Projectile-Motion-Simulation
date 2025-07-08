@@ -1,0 +1,1410 @@
+{
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. 보이기 {{thingPlural}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675331020724,
+        "oldValue": "",
+        "newValue": "튀어나오는 {{thingPlural}} 목록"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728650328827,
+        "oldValue": "튀어나오는 {{thingPlural}} 목록",
+        "newValue": "1. 보이기 {{thingPlural}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "{{thingPlural}}를 통해 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675331020724,
+        "oldValue": "",
+        "newValue": "{{thingPlural}}를 통해 이동"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. 변화 {{thingSingular}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675331020724,
+        "oldValue": "",
+        "newValue": "새로운 {{thingSingular}} 선택"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728650328827,
+        "oldValue": "새로운 {{thingSingular}} 선택",
+        "newValue": "3. 변화 {{thingSingular}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "목록을변경없이 닫기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675331020724,
+        "oldValue": "",
+        "newValue": "목록을변경없이 닫기 "
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1701084934573,
+        "oldValue": "목록을변경없이 닫기 ",
+        "newValue": "목록을변경없이 닫기",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "조절"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728674211720,
+        "oldValue": "조절",
+        "newValue": "조정",
+        "explanation": null
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt 키",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1599740660301,
+        "oldValue": "",
+        "newValue": "Alt 키",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "기본 동작",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "기본 동작",
+        "explanation": null
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "캡 잠그기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "캪 잠그기"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728674030895,
+        "oldValue": "캪 잠그기",
+        "newValue": "캡 잠그기",
+        "explanation": null
+      }
+    ]
+  },
+  "eight": {
+    "value": "8",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "8"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "끝",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "끝",
+        "explanation": null
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "입력",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "입력",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc 키",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "Esc 키",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "대화 종료",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "대화 종료",
+        "explanation": null
+      }
+    ]
+  },
+  "five": {
+    "value": "5",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "5"
+      }
+    ]
+  },
+  "four": {
+    "value": "4",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "4"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "홈",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "홈",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "{{maximum}}으로 점프",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "{{maximum}}으로 점프"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "{{minimum}}으로 점프",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "{{minimum}}으로 점프"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "최대",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "최대"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "최소",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "최소"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "그룹내 항목간 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "그룹내 항목간 이동",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "다음 항목이나 그룹으로 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "다음 항목이나 그룹으로 이동",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "이전 항목이나 그룹으로 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "이전 항목이나 그룹으로 이동",
+        "explanation": null
+      }
+    ]
+  },
+  "nine": {
+    "value": "9",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "9"
+      }
+    ]
+  },
+  "one": {
+    "value": "1",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "1"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "옵션",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675331020725,
+        "oldValue": "",
+        "newValue": "옵션"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "옵션",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675331020725,
+        "oldValue": "",
+        "newValue": "옵션"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "또는",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "또는",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "다음 페이지로",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "다음 페이지로",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "앞 페이지로",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "앞 페이지로",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "튀어나오는 메뉴",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675331020725,
+        "oldValue": "",
+        "newValue": "튀어나오는 메뉴"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "버튼 누름",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "버튼 누름",
+        "explanation": null
+      }
+    ]
+  },
+  "seven": {
+    "value": "7",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "7"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "시프트 키",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "시프트 키",
+        "explanation": null
+      }
+    ]
+  },
+  "six": {
+    "value": "6",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "6"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "슬라이더",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236334,
+        "oldValue": "",
+        "newValue": "슬라이더"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "슬라이더 조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236334,
+        "oldValue": "",
+        "newValue": "슬라이더 조정"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "스페이스 키",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "스페이스 키",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "탭 키",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "탭 키",
+        "explanation": null
+      }
+    ]
+  },
+  "ten": {
+    "value": "10",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "10"
+      }
+    ]
+  },
+  "three": {
+    "value": "3",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "3"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "토글 체크상자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573824851698,
+        "oldValue": "",
+        "newValue": "토글 체크상자",
+        "explanation": null
+      }
+    ]
+  },
+  "two": {
+    "value": "2",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "2"
+      }
+    ]
+  },
+  "zero": {
+    "value": "0",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675344231458,
+        "oldValue": "",
+        "newValue": "0"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} 더 큰 단계로",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675336030463,
+        "oldValue": "",
+        "newValue": "{{verb}} 큰 단계로"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728671685606,
+        "oldValue": "{{verb}} 큰 단계로",
+        "newValue": "{{verb}} 더 큰 단계로",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} 더 적은 단계로",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675336030463,
+        "oldValue": "",
+        "newValue": "{{verb}} 작은 단계로"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728671685606,
+        "oldValue": "{{verb}} 작은 단계로",
+        "newValue": "{{verb}} 더 적은 단계로",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "{{thing}}을 잡거나 놓으시오.",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": " {{thing}}을 잡거나 놓으시오.",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1700915543052,
+        "oldValue": " {{thing}}을 잡거나 놓으시오.",
+        "newValue": "{{thing}}을 잡거나 놓으시오.",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "{{thing}}을 잡거나 놓으시오.",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "{{thing}}을 잡거나 놓으시오.",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549001246828,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "고속",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "빠름"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728671883459,
+        "oldValue": "빠름",
+        "newValue": "고속",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "정규 속도",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549006919797,
+        "oldValue": "",
+        "newValue": "정규 속도",
+        "explanation": null
+      }
+    ]
+  },
+  "key.option": {
+    "value": "선택적",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "선택적"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+    "value": "정지 또는 시작 활동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236333,
+        "oldValue": "",
+        "newValue": "정지 또는 시작 활동"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "저속",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549006919797,
+        "oldValue": "",
+        "newValue": "저속",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.timingControls": {
+    "value": "시간 조절",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675327236334,
+        "oldValue": "",
+        "newValue": "시간 조절"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1599740660301,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1599740660301,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "다음 항목으로 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "다음 항목으로 이동",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "이전 항목으로 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1549003193637,
+        "oldValue": "",
+        "newValue": "이전 항목으로 이동",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573824851698,
+        "oldValue": "",
+        "newValue": "자",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573824851698,
+        "oldValue": "",
+        "newValue": "자",
+        "explanation": null
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "<b> 잡기</b> 또는 <b> 놓기로 </b>",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1583640603995,
+        "oldValue": "",
+        "newValue": "<b> 잡기</b> 또는 <b> 놓기로 </b>",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "냉",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1482630616048,
+        "oldValue": "",
+        "newValue": "시원한",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728673886849,
+        "oldValue": "시원한",
+        "newValue": "냉",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "열",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1482630616048,
+        "oldValue": "",
+        "newValue": "열",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "쇼트 서킷!",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460254565395,
+        "oldValue": "",
+        "newValue": "단락(쇼트)!",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "단락(쇼트)!",
+        "newValue": "쇼트 서킷!",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL을 사용할 수 없습니다. 더 자세한 내용을 보시려면 클릭하세요",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460273701619,
+        "oldValue": "",
+        "newValue": "WebGL을 사용할 수 없습니다. 더 자세한 내용을 보시려면 클릭하세요 ",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1700917461402,
+        "oldValue": "WebGL을 사용할 수 없습니다. 더 자세한 내용을 보시려면 클릭하세요 ",
+        "newValue": "WebGL을 사용할 수 없습니다. 더 자세한 내용을 보시려면 클릭하세요",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "미안합니다. 그래프 오류가 발생했습니다.",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460273701619,
+        "oldValue": "",
+        "newValue": "미안합니다. 그래프 오류가 발생했습니다.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "다시 로드",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460273701619,
+        "oldValue": "",
+        "newValue": "다시 로드",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "인터넷 익스플로러를 업데이트 하세요",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460273701619,
+        "oldValue": "",
+        "newValue": "인터넷 익스플로러를 업데이트 하세요",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "저해상도 그래프로 실행",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1460273701619,
+        "oldValue": "",
+        "newValue": "저해상도 그래프로 실행",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "모두 재설정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "모두 재설정"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "키패드로 값 설정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "키패드로 값 설정"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "이동"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "서서히 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "서서히 이동"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "드래그 아이템 이동",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "드래그 아이템 이동"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "key.a": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "key.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "key.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "key.r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "key.s": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "S"
+      }
+    ]
+  },
+  "key.w": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "key.one": {
+    "value": "1",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "1"
+      }
+    ]
+  },
+  "key.two": {
+    "value": "2",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "2"
+      }
+    ]
+  },
+  "key.three": {
+    "value": "3",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "3"
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700915002477,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "파장",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700917073552,
+        "oldValue": "",
+        "newValue": "파장"
+      }
+    ]
+  },
+  "wavelengthNMValuePattern": {
+    "value": "{0} nm",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700917073552,
+        "oldValue": "",
+        "newValue": "{0} nm"
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700917152298,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700917152298,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701084934573,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "슬라이더를 조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701088140695,
+        "oldValue": "",
+        "newValue": "슬라이더를 조절"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728674211720,
+        "oldValue": "슬라이더를 조절",
+        "newValue": "슬라이더를 조정",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "더 적은 단계로 조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701088140695,
+        "oldValue": "",
+        "newValue": "작은 단계로 조절"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728671883459,
+        "oldValue": "작은 단계로 조절",
+        "newValue": "더 적은 단계로 조절",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728674211720,
+        "oldValue": "더 적은 단계로 조절",
+        "newValue": "더 적은 단계로 조정",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "더 큰 단계로 조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701088140695,
+        "oldValue": "",
+        "newValue": "큰 단게로 조절"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728650561213,
+        "oldValue": "큰 단게로 조절",
+        "newValue": "큰 단계로 조절",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728671883459,
+        "oldValue": "큰 단계로 조절",
+        "newValue": "더 큰 단계로 조절",
+        "explanation": null
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1728674211720,
+        "oldValue": "더 큰 단계로 조절",
+        "newValue": "더 큰 단계로 조정",
+        "explanation": null
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133802291,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "최대로 점프",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701156767944,
+        "oldValue": "",
+        "newValue": "최대로 점프"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "최소로 점프",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701156767944,
+        "oldValue": "",
+        "newValue": "최소로 점프"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.faucetControls": {
+    "value": "수도꼭지 제어",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728651544870,
+        "oldValue": "",
+        "newValue": "수도꼭지 제어"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+    "value": "수도꼭지 흐름을 조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728651544870,
+        "oldValue": "",
+        "newValue": "수도꼭지 흐름을 조정"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+    "value": "소량 단위로 조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728651544870,
+        "oldValue": "",
+        "newValue": "소량 단위로 조정"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+    "value": "다량 단위로 조정",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728651544870,
+        "oldValue": "",
+        "newValue": "다량 단위로 조정"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.closeFaucet": {
+    "value": "수도꼭지 닫음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728651544870,
+        "oldValue": "",
+        "newValue": "수도꼭지 닫음"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetFully": {
+    "value": "수도꼭지를 다 열어주세요",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728651544870,
+        "oldValue": "",
+        "newValue": "수도꼭지를 다 열어주세요"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+    "value": "수도꼭지를 잠깐 열어주세요",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728651544870,
+        "oldValue": "",
+        "newValue": "수도꼭지를 잠깐 열어주세요"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinnerControls": {
+    "value": "스핀 조절",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728673648672,
+        "oldValue": "",
+        "newValue": "스핀 조절"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinner": {
+    "value": "스피너",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728673648672,
+        "oldValue": "",
+        "newValue": "스피너"
+      }
+    ]
+  },
+  "keyboardHelpDialog.heatCoolOff": {
+    "value": "끄기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728673886849,
+        "oldValue": "",
+        "newValue": "끄기"
+      }
+    ]
+  },
+  "keyboardHelpDialog.heatCoolControls": {
+    "value": "냉/열 조절",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728673886849,
+        "oldValue": "",
+        "newValue": "냉/열 조절"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumHeat": {
+    "value": "최대 열",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728673886849,
+        "oldValue": "",
+        "newValue": "최대 열"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumCool": {
+    "value": "최대 냉",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1728673886849,
+        "oldValue": "",
+        "newValue": "최대 냉"
+      }
+    ]
+  }
+}

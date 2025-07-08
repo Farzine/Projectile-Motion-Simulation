@@ -1,0 +1,511 @@
+{
+  "screen.layerModel": {
+    "value": "Lagdelt model",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Lagdelt model"
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Fotoner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Fotoner"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Bølger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Bølger"
+      }
+    ]
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "Skyder og Fluxmeter-kontroller",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Skyder og Fluxmeter-kontroller"
+      }
+    ]
+  },
+  "morePhotons": {
+    "value": "Flere fotoner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Flere fotoner"
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Infrarødt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Infrarødt"
+      }
+    ]
+  },
+  "absorbingLayers": {
+    "value": "Absorberende lag",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Absorberende lag"
+      }
+    ]
+  },
+  "infraredAbsorbance": {
+    "value": "Infrarød absorbering",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Infrarød absorbering"
+      }
+    ]
+  },
+  "valuePercentPattern": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "sunlight": {
+    "value": "Sollys",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Sollys"
+      }
+    ]
+  },
+  "solarIntensity": {
+    "value": "Sollys-intensitet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Sollys-intensitet"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "Vores sol",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Vores sol"
+      }
+    ]
+  },
+  "surfaceAlbedo": {
+    "value": "Overflade, Albedo",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Overflade, Albedo"
+      }
+    ]
+  },
+  "temperatureUnits": {
+    "value": "Temperaturenheder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1675320585684,
+        "oldValue": "",
+        "newValue": "Temperaturenheder"
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "˚C",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "˚C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "˚F",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "˚F"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "Høj",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Høj"
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "Ingen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Ingen"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "Drivhusgas koncentration",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Drivhusgas koncentration"
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Istid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Istid"
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Overfladetermometer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Overflade termometer"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696610340856,
+        "oldValue": "Overflade termometer",
+        "newValue": "Overfladetermometer",
+        "explanation": null
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Sky",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Sky"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "Energi",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Energi"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Vis overfladetemperatur",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Vis overfladetemperatur"
+      }
+    ]
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Tænd sollys",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Tænd sollys"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Energibalance",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Energibalance "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1696610340856,
+        "oldValue": "Energibalance ",
+        "newValue": "Energibalance",
+        "explanation": null
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Toppen af atmosfæren",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Toppen af atmosfæren"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "Ind",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Ind"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "Ud",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Ud"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "Netto",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Netto"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Energiflux",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Energiflux"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Energibalance",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Energibalance"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Fluxmeter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Fluxmeter"
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Drivhuseffekt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Drivhuseffekt"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% relativ fugtighed",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% relativ fugtighed"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Sollys",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Sollys"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Infrarød",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Infrarød"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Sollys",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Sollys"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "Infrarød",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647319696304,
+        "oldValue": "",
+        "newValue": "Infrarød"
+      }
+    ]
+  },
+  "defaultTemperatureUnits": {
+    "value": "Standard temperaturenheder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1696610340856,
+        "oldValue": "",
+        "newValue": "Standard temperaturenheder"
+      }
+    ]
+  }
+}

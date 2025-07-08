@@ -1,0 +1,322 @@
+{
+  "calculation": {
+    "value": "محاسبه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "محاسبه"
+      }
+    ]
+  },
+  "area": {
+    "value": "مساحت",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "مساحت"
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "د الجبري مساحت محاسبه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "د الجبري مساحت محاسبه"
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "بعدونه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "بعدونه"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1703863857880,
+        "oldValue": "بعدونه",
+        "newValue": "اړخونه",
+        "explanation": null
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705292283969,
+        "oldValue": "اړخونه",
+        "newValue": "اړخونه (بعدونه)",
+        "explanation": null
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705292492079,
+        "oldValue": "اړخونه (بعدونه)",
+        "newValue": "بعدونه",
+        "explanation": null
+      }
+    ]
+  },
+  "factors": {
+    "value": "عوامل",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "عوامل"
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "جزئې حاصل ضربونه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "جزئې حاصل ضربونه"
+      }
+    ]
+  },
+  "product": {
+    "value": "محصول",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "محصول"
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "د موډل کلي مساحت",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "د موډل کلي مساحت"
+      }
+    ]
+  },
+  "partition": {
+    "value": "طبقه بندي",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "طبقه بندي"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "لټون",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "Explore"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705292283969,
+        "oldValue": "Explore",
+        "newValue": "لټون",
+        "explanation": null
+      }
+    ]
+  },
+  "enter": {
+    "value": "واردي کړه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "واردي کړه"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "عمومي",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "عمومي"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "جزئې حاصل ضرب او د اضلاعو اوږدوالی پیدا کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "جزئې حاصل ضرب او د اضلاعو اوږدوالي پیدا کړئ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705292909388,
+        "oldValue": "جزئې حاصل ضرب او د اضلاعو اوږدوالي پیدا کړئ",
+        "newValue": "جزئې حاصل ضرب او د اضلاعو اوږدوالی پیدا کړئ",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "جزئي حاصل ضرب پیدا کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "جزئي حاصل ضرب پیدا کړئ"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "جزئې حاصل ضرب او کلي مساحت پیدا کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "جزئې حاصل ضرب او کلي مساحت پیدا کړئ"
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "د ضلعوو اوږدوالی پیدا کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "د ضلعوو اوږدوالي پیدا کړئ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705292283969,
+        "oldValue": "د ضلعوو اوږدوالي پیدا کړئ",
+        "newValue": "د ضلعوو اوږدوالی پیدا کړئ",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "کلي مساحت پیدا کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "کلي مساحت پیدا کړئ"
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "د ضلعوو اوږدوالی پیدا کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "د ضلعوو اوږدوالي پیدا کړئ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705292283969,
+        "oldValue": "د ضلعوو اوږدوالي پیدا کړئ",
+        "newValue": "د ضلعوو اوږدوالی پیدا کړئ",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "جزئي حاصل ضربونه پیدا کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "جزئي حاصل ضربونه پیدا کړئ"
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "لوبه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "لوبه"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "متحولونه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703826402556,
+        "oldValue": "",
+        "newValue": "متعیرونه"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705292283969,
+        "oldValue": "متعیرونه",
+        "newValue": "متحولونه",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "ضرب",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703827268760,
+        "oldValue": "",
+        "newValue": "ضرب"
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "تقسیم",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703827268760,
+        "oldValue": "",
+        "newValue": "تقسیم"
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "اعشارې",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1705292492079,
+        "oldValue": "",
+        "newValue": "اعشارې"
+      }
+    ]
+  }
+}

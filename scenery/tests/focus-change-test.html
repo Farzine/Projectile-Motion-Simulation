@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <title>Text Tests</title>
+
+  <!-- jQuery and LoDash are dependencies -->
+  <script src="../../sherpa/lib/jquery-2.1.0.min.js"></script>
+  <script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+
+  <!-- Canvg for SVG to Canvas -->
+  <script src="../../sherpa/lib/canvg-rgbcolor-1.3.js"></script>
+  <script src="../../sherpa/lib/canvg-1.3.js"></script>
+
+  <!-- Our code, in either the concatenated 'with comments' version or the minified version -->
+  <script src="../dist/scenery.min.js"></script>
+
+
+  <style type="text/css">
+    /* Let content go to the edges */
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .scene {
+      position: relative;
+    }
+
+  </style>
+</head>
+
+<body>
+
+<div id="main" style="width: 800px; height: 512px;" class="scene"></div>
+<script>
+
+  const scene = new phet.scenery.Scene( $( '#main' ) );
+
+  scene.initializeEvents();
+  scene.updateOnRequestAnimationFrame();
+
+  const redRect = new phet.scenery.Rectangle( 50, 50, 200, 100, { fill: 'red' } );
+  redRect.addInputListener( {
+    enter: function( evt ) { console.log( 'red enter' ); },
+    exit: function( evt ) { console.log( 'red exit' ); },
+    up: function( evt ) {
+      console.log( 'red up' );
+      blueRect.visible = true;
+    },
+    down: function( evt ) { console.log( 'red down' ); }
+  } );
+  scene.addChild( redRect );
+
+  const blueRect = new phet.scenery.Rectangle( 50, 50, 200, 100, { fill: 'blue' } );
+  blueRect.addInputListener( {
+    enter: function( evt ) { console.log( 'blue enter' ); },
+    exit: function( evt ) { console.log( 'blue exit' ); },
+    up: function( evt ) {
+      console.log( 'blue up' );
+      blueRect.visible = false;
+    },
+    down: function( evt ) { console.log( 'blue down' ); }
+  } );
+  scene.addChild( blueRect );
+  blueRect.visible = false;
+
+</script>
+
+</body>
+</html>

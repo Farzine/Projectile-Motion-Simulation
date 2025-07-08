@@ -1,0 +1,916 @@
+{
+  "oneSecond": {
+    "value": "1 שנייה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "1 s",
+        "explanation": null
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "1 s",
+        "newValue": "1 שנייה"
+      }
+    ]
+  },
+  "acSource": {
+    "value": "ספק מתח חילופין (AC)",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מתח חילופין (AC)",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906819,
+        "oldValue": "מתח חילופין (AC)",
+        "newValue": "ספק מתח חילופין (AC)"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "הוספת נורה אמיתית",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "הוספת נורה אמיתית"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "מתקדם",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "מתקדם"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "מד זרם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מד זרם",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "קריאת מד זרם",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "קריאת מד זרם"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "מדי זרם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מדי זרם",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "הגבלת המהירות של ההדמיה הושגה! מהירות ההדמיה הורדה ל %{{percent}} רגיל.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "הגבלת המהירות של ההדמיה הושגה! מהירות ההדמיה הורדה ל %{{percent}} רגיל.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "סוללה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "סוללה",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "התנגדות הסוללה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "התנגדות סוללה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "התנגדות סוללה",
+        "newValue": "התנגדות הסוללה"
+      }
+    ]
+  },
+  "british": {
+    "value": "בריטי",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "בריטי"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "קיבול",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "קיבול"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "קבל",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "קבל"
+      }
+    ]
+  },
+  "coin": {
+    "value": "מטבע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מטבע",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "כיוון הזרם המוסכם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "כיוון הזרם המוסכם",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "זרם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "זרם",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "זרם (A)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "זרם (אמפר)"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "זרם (אמפר)",
+        "newValue": "זרם (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "גרף זרם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "טבלת זרמים",
+        "explanation": null
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "טבלת זרמים",
+        "newValue": "גרף של זרם "
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "גרף של זרם ",
+        "newValue": "גרף זרם"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "דירוג זרם חשמלי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584818464516,
+        "oldValue": "",
+        "newValue": "דירוג זרם חשמלי",
+        "explanation": null
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "נתונים מחוץ לטווח",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "נתונים מחוץ לטווח"
+      }
+    ]
+  },
+  "dog": {
+    "value": "כלב",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "כלב",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "שטר של דולר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "שטר של דולר",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "אלקטרונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "אלקטרונים",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "מחק",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מחק",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "תדירות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "תדירות",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "נתיך",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "נתיך",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "יד",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "יד",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "הַשׁרָאוּת",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "הַשׁרָאוּת"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "משרן",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "מַשׁרָן"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686394146150,
+        "oldValue": "מַשׁרָן",
+        "newValue": "משרן",
+        "explanation": null
+      }
+    ]
+  },
+  "labels": {
+    "value": "תוויות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "תוויות",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "נורה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "נורה",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "גדולה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "גדול",
+        "explanation": null
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "גדול",
+        "newValue": "גדולה"
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "עוצמה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "עוצמה"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "אטב נייר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "אטב נייר",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "עיפרון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "עיפרון",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "הסטת פאזה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "הסטת פאזה"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "התנגדות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "התנגדות",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "נגד",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "נגד",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "תקן סכמתי",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "תקן סכמטי"
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1643314889689,
+        "oldValue": "תקן סכמטי",
+        "newValue": "תקן סכמתי"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "הצגת זרם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "הצגת זרם",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "מסומן",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "מסומן"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "התנגדות פנימית של מקור",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "התנגדות פנימית של מקור"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "שעון עצר",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "שעון עצר"
+      }
+    ]
+  },
+  "switch": {
+    "value": "מפסק",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מפסק",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "לחצו על רכיבי המעגל לעריכה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "לחצו על רכיבי המעגל לעריכה",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "המפסק סגור.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "המפסק סגור",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643414371493,
+        "oldValue": "המפסק סגור",
+        "newValue": "המפסק סגור."
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "המפסק פתוח.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "המפסק פתוח",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643414371493,
+        "oldValue": "המפסק פתוח",
+        "newValue": "המפסק פתוח."
+      }
+    ]
+  },
+  "time": {
+    "value": "זמן",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "זמן",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "מזערית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "נמוך",
+        "explanation": null
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "נמוך",
+        "newValue": "מזערית"
+      }
+    ]
+  },
+  "values": {
+    "value": "ערכים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "ערכים",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "מתח",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מתח",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "מתח (V)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "מתח (וולט)"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "מתח (וולט)",
+        "newValue": "מתח (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "גרף מתח",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "טבלת מתחים",
+        "explanation": null
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "טבלת מתחים",
+        "newValue": "גרף של מתח "
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "גרף של מתח ",
+        "newValue": "גרף מתח"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "מד מתח",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "מד מתח",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "תיל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "תיל",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "התנגדות התיל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "התנגדות התיל",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{current}} A"
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} אוהם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "{{resistance}} אוהם",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω"
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1643314541423,
+        "oldValue": "",
+        "newValue": "{{voltage}} V"
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} וולטים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "{{voltage}} וולטים",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "נורה אמיתית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346030886,
+        "oldValue": "",
+        "newValue": "נורה אמיתית"
+      }
+    ]
+  }
+}

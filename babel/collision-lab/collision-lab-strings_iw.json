@@ -1,0 +1,541 @@
+{
+  "collision-lab.title": {
+    "value": "מעבדת התנגשויות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "מעבדת התנגשויות"
+      }
+    ]
+  },
+  "mass": {
+    "value": "מסה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "מסה"
+      }
+    ]
+  },
+  "momentum": {
+    "value": "תנע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "תנע"
+      }
+    ]
+  },
+  "position": {
+    "value": "מיקום",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "מיקום"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "מהירות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "מהירות"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "מרכז המסה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "מרכז המסה"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "אנרגיה קינטית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "אנרגיה קינטית"
+      }
+    ]
+  },
+  "values": {
+    "value": "ערכים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "ערכים"
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "גודל קבוע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "גודל קבוע"
+      }
+    ]
+  },
+  "reflectingBorder": {
+    "value": "גבול השתקפות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "גבול השתקפות"
+      }
+    ]
+  },
+  "path": {
+    "value": "מסלול",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "מסלול"
+      }
+    ]
+  },
+  "custom": {
+    "value": "סידור חופשי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "סידור חופשי"
+      }
+    ]
+  },
+  "inelastic": {
+    "value": "לא אלסטי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "לא אלסטי"
+      }
+    ]
+  },
+  "elastic": {
+    "value": "אלסטי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "אלסטי"
+      }
+    ]
+  },
+  "elasticity": {
+    "value": "אלסטיות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "אלסטיות"
+      }
+    ]
+  },
+  "enter": {
+    "value": "כניסה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "כניסה"
+      }
+    ]
+  },
+  "momentaDiagram": {
+    "value": "תרשים תנע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "תרשים תנע"
+      }
+    ]
+  },
+  "total": {
+    "value": "סך הכל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "סך הכל"
+      }
+    ]
+  },
+  "moreData": {
+    "value": "עוד נתונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "עוד נתונים"
+      }
+    ]
+  },
+  "balls": {
+    "value": "כדורים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "כדורים"
+      }
+    ]
+  },
+  "returnBalls": {
+    "value": "כדורים חוזרים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "כדורים חוזרים"
+      }
+    ]
+  },
+  "screen.explore1D": {
+    "value": "חקירה של מימד אחד",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "חקירה של מימד אחד"
+      }
+    ]
+  },
+  "screen.explore2D": {
+    "value": "חקירה בשני מימדים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "חקירה בשני מימדים"
+      }
+    ]
+  },
+  "screen.inelastic": {
+    "value": "לא אלסטי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "לא אלסטי"
+      }
+    ]
+  },
+  "inelasticCollision": {
+    "value": "התנגשויות לא אלסטיות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "התנגשויות לא אלסטיות"
+      }
+    ]
+  },
+  "stick": {
+    "value": "היצמדות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "היצמדות"
+      }
+    ]
+  },
+  "slip": {
+    "value": "החלקה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "החלקה"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "מבוא",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "מבוא"
+      }
+    ]
+  },
+  "changeInMomentum": {
+    "value": "שינוי תנע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627766377161,
+        "oldValue": "",
+        "newValue": "שינוי תנע"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueUnits": {
+    "value": "{{label}} = {{value}}{{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "{{label}} = {{value}}{{units}}"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "%",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "%"
+      }
+    ]
+  },
+  "pattern.vectorSymbolEqualsValueSpaceUnits": {
+    "value": "|{{symbol}}| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "|{{symbol}}| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "symbol.velocity": {
+    "value": "v",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "v"
+      }
+    ]
+  },
+  "units.metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "symbol.momentum": {
+    "value": "p",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "p"
+      }
+    ]
+  },
+  "units.kilogramMetersPerSecond": {
+    "value": "kg m/s",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "kg m/s"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "units.kilograms": {
+    "value": "kg",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "kg"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "pattern.valueSpaceUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.seconds": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} to {{max}} {{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "{{min}} to {{max}} {{units}}"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueSpaceUnits": {
+    "value": "{{label}} = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "{{label}} = {{value}} {{units}}"
+      }
+    ]
+  },
+  "units.joules": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "J"
+      }
+    ]
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}}{{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "{{value}}{{units}}"
+      }
+    ]
+  },
+  "approximatePattern": {
+    "value": "~{{value}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "~{{value}}"
+      }
+    ]
+  },
+  "pattern.symbolSubSymbol": {
+    "value": "{{symbol1}}<sub>{{symbol2}}</sub>",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "{{symbol1}}<sub>{{symbol2}}</sub>"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686346488984,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "acidic": {
+    "value": "Kislotali",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Kislotali"
+      }
+    ]
+  },
+  "basic": {
+    "value": "Asosli",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Asosli"
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "Sulfat kislota",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Akkumulyator kislotasi"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617803731333,
+        "oldValue": "Akkumulyator kislotasi",
+        "newValue": "\r\n  Sulfat\r\n  kislota"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617881443536,
+        "oldValue": "\r\n  Sulfat\r\n  kislota",
+        "newValue": "Sulfat kislota"
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "Qon",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Qon"
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "Tovuq sho‘rva",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Tovuq sho'rva"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617718397769,
+        "oldValue": "Tovuq sho'rva",
+        "newValue": "Tovuq sho‘rva"
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "Kofe",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Kofe"
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "Quvurlarni tozaluvchu vosita",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Quvurlarni tozaluvchu vosita"
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "Qo‘l sovun",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Qo'l sovun"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617718397769,
+        "oldValue": "Qo'l sovun",
+        "newValue": "Qo‘l sovun"
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "l"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617881443536,
+        "oldValue": "l",
+        "newValue": "L"
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "Makro",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Makro"
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "Sut",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Sut"
+      }
+    ]
+  },
+  "neutral": {
+    "value": "Neytral",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Neytral"
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "Apelsin sharbati",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Apelsin sharbati"
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "pH"
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "Gazlangan ichimlik",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Gazlangan ichimlik"
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "So‘lak",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "So'lak"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617718397769,
+        "oldValue": "So'lak",
+        "newValue": "So‘lak"
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "Qusuq massasi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Qusuq massasi"
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "Suv",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Suv"
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "Istak bo'yicha tartiblash",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Istak bo'yicha tartiblash"
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "Molekulalar hisobi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Molekulalar hisobi"
+      }
+    ]
+  },
+  "ratio": {
+    "value": "Nisbat\n  nisbati",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Nisbat"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617803731333,
+        "oldValue": "Nisbat",
+        "newValue": "\r\n  nisbati"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694795906218,
+        "oldValue": "\r\n  nisbati",
+        "newValue": "Nisbat\n  nisbati",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "shkaladan tashqarida",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "shkaladan tashqarida"
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Konsentratsiya",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Konsentratsiya"
+      }
+    ]
+  },
+  "linear": {
+    "value": "Chiziqli",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Chiziqli"
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "Logarifmik",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Logarifmik"
+      }
+    ]
+  },
+  "quantity": {
+    "value": "Miqdor",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Miqdor"
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/l",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "mol/l"
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "mol"
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Mikro",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Mikro"
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Mening eritmam",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "Mening eritmam"
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH shkalasi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615275199777,
+        "oldValue": "",
+        "newValue": "pH shkalasi"
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694784237426,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "particleCounts": {
+    "value": "Zarrachalar Soni",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694795906218,
+        "oldValue": "",
+        "newValue": "Zarrachalar Soni"
+      }
+    ]
+  }
+}

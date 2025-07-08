@@ -1,0 +1,542 @@
+{
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "{{thingPlural}}のリストを表示させる",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "{{thingPlural}}のリストを表示させる"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "{{thingPlural}}の間を移動する",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "{{thingPlural}}の間を移動する"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "新しい{{thingSingular}}を選ぶ",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "新しい{{thingSingular}}を選ぶ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "変更を加えずにリストを閉じる",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "変更を加えずにリストを閉じる"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "調節する",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "調節する"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "基本操作",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "基本操作"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "終了",
+        "explanation": null
+      },
+      {
+        "userId": 450702,
+        "timestamp": 1576517109913,
+        "oldValue": "終了",
+        "newValue": "",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "ダイアログを終了",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "ダイアログを終了",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "{{thing}}を掴むか離す",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1576733087679,
+        "oldValue": "",
+        "newValue": "{{thing}}を掴むか離す",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "{{thing}}を掴むか離す",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1576733087679,
+        "oldValue": "",
+        "newValue": "{{thing}}を掴むか離す",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "{{maximum}}へジャンプ",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663945652462,
+        "oldValue": "",
+        "newValue": "{{maximum}}へジャンプ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "{{minimum}}へジャンプ",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663945652462,
+        "oldValue": "",
+        "newValue": "{{minimum}}へジャンプ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "最大値",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663945652462,
+        "oldValue": "",
+        "newValue": "最大値"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "最小値",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663945652462,
+        "oldValue": "",
+        "newValue": "最小値"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "グループ内で選択",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "グループ内で選択",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "次のアイテム（グループ）",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "次のアイテム（グループ）",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "前のアイテム（グループ）",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "前のアイテム（グループ）",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "オプション",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1664584329421,
+        "oldValue": "",
+        "newValue": "オプション"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "オプション",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1664584329421,
+        "oldValue": "",
+        "newValue": "オプション"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "か",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "か"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "ボタンを押す",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "ボタンを押す"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "スライダー",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "スライダー"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "スライダーのコントロール",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "スライダーのコントロール"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "チェックボックスを切り替える",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "チェックボックスを切り替える"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "より大まかに{{verb}}",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "より大まかに{{verb}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "より細かく{{verb}}",
+    "history": [
+      {
+        "userId": 1067897,
+        "timestamp": 1663975611771,
+        "oldValue": "",
+        "newValue": "より細かく{{verb}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "次のアイテム",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "次のアイテム",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "前のアイテム",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "前のアイテム",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "定規",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1572439378610,
+        "oldValue": "",
+        "newValue": "定規",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "定規",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1572439378610,
+        "oldValue": "",
+        "newValue": "定規",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "波長",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1571115612374,
+        "oldValue": "",
+        "newValue": "波長",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "再生",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1541049386664,
+        "oldValue": "",
+        "newValue": "再生",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "スロー再生",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1541049386664,
+        "oldValue": "",
+        "newValue": "スロー再生",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "冷",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1527829251455,
+        "oldValue": "",
+        "newValue": "冷",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "熱",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1527829251455,
+        "oldValue": "",
+        "newValue": "熱",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "大きく動かす",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "大きく動かす",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "少しずつ動かす",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "少しずつ動かす",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "つまみを動かす",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "つまみを動かす",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.generalNavigation": {
+    "value": "一般的な操作",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "一般的な操作",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "最大値",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "最大値",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "最小値",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526534045794,
+        "oldValue": "",
+        "newValue": "最小値",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "再読込みする",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526532854162,
+        "oldValue": "",
+        "newValue": "再読込みする",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "低画質で操作する",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526532854162,
+        "oldValue": "",
+        "newValue": "低画質で操作する",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "図表に問題が起きました。",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526532854163,
+        "oldValue": "",
+        "newValue": "図表に問題が起きました。",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "推奨されているWindows Update patchesでInternet Explorerをアップデートします。",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526532854163,
+        "oldValue": "",
+        "newValue": "推奨されているWindows Update patchesでInternet Explorerをアップデートします。",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGLは利用できません。詳細はこちら。",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1526532854163,
+        "oldValue": "",
+        "newValue": "WebGLは利用できません。詳細はこちら。",
+        "explanation": null
+      }
+    ]
+  }
+}

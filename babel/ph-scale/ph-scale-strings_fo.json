@@ -1,0 +1,362 @@
+{
+  "acidic": {
+    "value": "Sýra",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Súrt",
+        "explanation": null
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644339616408,
+        "oldValue": "Súrt",
+        "newValue": "Sýra"
+      }
+    ]
+  },
+  "basic": {
+    "value": "Basa",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Beiskt",
+        "explanation": null
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644272206280,
+        "oldValue": "Beiskt",
+        "newValue": "Basiskt"
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644339616408,
+        "oldValue": "Basiskt",
+        "newValue": "Basa"
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "Magasýra",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Magasýra",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "Blóð",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Blóð",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "Høsnasuppa",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Høsnasuppa",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "Kaffi",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Kaffi",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "Frárenslreins (afløbsrens)",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Avløbsreins",
+        "explanation": null
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644272206280,
+        "oldValue": "Avløbsreins",
+        "newValue": "Frárenslreins (afløbsrens)"
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "Hondsápa",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Hándsápa",
+        "explanation": null
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644272206280,
+        "oldValue": "Hándsápa",
+        "newValue": "Hondsápa"
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "Makro",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Makro",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "Mjólk",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Mjólk",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "Nevtralt",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Nevtralt",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "Appilsindjús",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Appelsindjús",
+        "explanation": null
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644272206280,
+        "oldValue": "Appelsindjús",
+        "newValue": "Appilsindjús"
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "Sodavatn",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Sodavatn",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "Slev",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Slev",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "Spýggja",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Spíggj",
+        "explanation": null
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644272206280,
+        "oldValue": "Spíggj",
+        "newValue": "Spýggj"
+      },
+      {
+        "userId": 874126,
+        "timestamp": 1644339616408,
+        "oldValue": "Spýggj",
+        "newValue": "Spýggja"
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "Vatn",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890323605,
+        "oldValue": "",
+        "newValue": "Vatn",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "Tal á mýlum",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Tal á mýlum",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "Blanding",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Blanding",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "av skalanum",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "av skalanum",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Styrki",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Styrki",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "Linjurætt",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Linjurætt",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "Logaritmist",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Logaritmist",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "Nøgd",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Nøgd",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Mikro",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Mikro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Mín Loysing",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "Mín Loysing",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH stigin",
+    "history": [
+      {
+        "userId": 861708,
+        "timestamp": 1605890699413,
+        "oldValue": "",
+        "newValue": "pH stigin",
+        "explanation": null
+      }
+    ]
+  }
+}

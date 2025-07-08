@@ -1,0 +1,635 @@
+{
+  "build-a-molecule.title": {
+    "value": "Budujemy cząsteczkę",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Budujemy cząsteczkę",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogen": {
+    "value": "Wodór",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Wodór",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Tlen",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Tlen",
+        "explanation": null
+      }
+    ]
+  },
+  "carbon": {
+    "value": "Węgiel",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Węgiel",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "value": "Azot",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Azot",
+        "explanation": null
+      }
+    ]
+  },
+  "fluorine": {
+    "value": "Fluor",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Fluor",
+        "explanation": null
+      }
+    ]
+  },
+  "chlorine": {
+    "value": "Chlor",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Chlor",
+        "explanation": null
+      }
+    ]
+  },
+  "boron": {
+    "value": "Bor",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Bor",
+        "explanation": null
+      }
+    ]
+  },
+  "sulphur": {
+    "value": "Siarka",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Siarka",
+        "explanation": null
+      }
+    ]
+  },
+  "silicon": {
+    "value": "Krzem",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Krzem",
+        "explanation": null
+      }
+    ]
+  },
+  "phosphorus": {
+    "value": "Fosfor",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Fosfor",
+        "explanation": null
+      }
+    ]
+  },
+  "iodine": {
+    "value": "Jod",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Jod",
+        "explanation": null
+      }
+    ]
+  },
+  "bromine": {
+    "value": "Brom",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Brom",
+        "explanation": null
+      }
+    ]
+  },
+  "acetylene": {
+    "value": "acetylen",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "acetylen",
+        "explanation": null
+      }
+    ]
+  },
+  "ammonia": {
+    "value": "amoniak",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "amoniak",
+        "explanation": null
+      }
+    ]
+  },
+  "borane": {
+    "value": "boran",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "boran",
+        "explanation": null
+      }
+    ]
+  },
+  "carbonDioxide": {
+    "value": "dwutlenek węgla",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "dwutlenek węgla",
+        "explanation": null
+      }
+    ]
+  },
+  "carbonMonoxide": {
+    "value": "tlenek węgla",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "tlenek węgla",
+        "explanation": null
+      }
+    ]
+  },
+  "chloromethane": {
+    "value": "chlorometan",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "chlorometan",
+        "explanation": null
+      }
+    ]
+  },
+  "ethylene": {
+    "value": "etylen",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "etylen",
+        "explanation": null
+      }
+    ]
+  },
+  "fluoromethane": {
+    "value": "fluorek metylu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "fluorek metylu",
+        "explanation": null
+      }
+    ]
+  },
+  "formaldehyde": {
+    "value": "formaldehyd",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "formaldehyd",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenCyanide": {
+    "value": "cyjanowodór",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "cyjanowodór",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenPeroxide": {
+    "value": "nadtlenek wodoru",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "nadtlenek wodoru",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenSulfide": {
+    "value": "siarkowodór",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "siarkowodór",
+        "explanation": null
+      }
+    ]
+  },
+  "methane": {
+    "value": "metan",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "metan",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularChlorine": {
+    "value": "chlor cząsteczkowy",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "chlor cząsteczkowy",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularFluorine": {
+    "value": "fluor cząsteczkowy",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "fluor cząsteczkowy",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularHydrogen": {
+    "value": "wodór cząsteczkowy",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "wodór cząsteczkowy",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularNitrogen": {
+    "value": "azot cząsteczkowy",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "azot cząsteczkowy",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularOxygen": {
+    "value": "tlen cząsteczkowy",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "tlen cząsteczkowy",
+        "explanation": null
+      }
+    ]
+  },
+  "nitricOxide": {
+    "value": "tlenek azotu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "tlenek azotu",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrousOxide": {
+    "value": "podtlenek azotu",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "podtlenek azotu",
+        "explanation": null
+      }
+    ]
+  },
+  "ozone": {
+    "value": "ozon",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "ozon",
+        "explanation": null
+      }
+    ]
+  },
+  "phosphine": {
+    "value": "fosfina",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "fosfina",
+        "explanation": null
+      }
+    ]
+  },
+  "silane": {
+    "value": "silan",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "silan",
+        "explanation": null
+      }
+    ]
+  },
+  "sulfurDioxide": {
+    "value": "dwutlenek siarki",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829430,
+        "oldValue": "",
+        "newValue": "dwutlenek siarki",
+        "explanation": null
+      }
+    ]
+  },
+  "trifluoroborane": {
+    "value": "trifluoroboran",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829431,
+        "oldValue": "",
+        "newValue": "trifluoroboran",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "woda",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1605204829431,
+        "oldValue": "",
+        "newValue": "woda",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedYourCollection": {
+    "value": "Twoja kolekcja została skompletowana!",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Twoja kolekcja została skompletowana!",
+        "explanation": null
+      }
+    ]
+  },
+  "nextCollection": {
+    "value": "Następna kolekcja",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Następna kolekcja",
+        "explanation": null
+      }
+    ]
+  },
+  "yourMolecules": {
+    "value": "Twoje cząsteczki",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Twoje cząsteczki",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionPattern": {
+    "value": "Kolekcja {{number}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Kolekcja {{number}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityEmpty": {
+    "value": "Masz: (pusty)",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Masz: (pusty)",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityPattern": {
+    "value": "Masz: {{number}}{{formula}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Masz: {{number}}{{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleGoalPattern": {
+    "value": "Cel: {{number}}{{formula}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Cel: {{number}}{{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "warning": {
+    "value": "Renderowanie 3D cząsteczki wymaga WebGL.\\ nWebGL jest wyłączone lub niedostępne. Kliknij, aby dowiedzieć się więcej.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Renderowanie 3D cząsteczki wymaga WebGL.\\ nWebGL jest wyłączone lub niedostępne. Kliknij, aby dowiedzieć się więcej.",
+        "explanation": null
+      }
+    ]
+  },
+  "title.multiple": {
+    "value": "Kilka",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Kilka",
+        "explanation": null
+      }
+    ]
+  },
+  "title.playground": {
+    "value": "Pobaw się",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Pobaw się",
+        "explanation": null
+      }
+    ]
+  },
+  "title.single": {
+    "value": "Jedna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1602694959984,
+        "oldValue": "",
+        "newValue": "Jedna",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeNamePattern": {
+    "value": "{{display}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1678435393268,
+        "oldValue": "",
+        "newValue": "{{display}}"
+      }
+    ]
+  },
+  "threeD": {
+    "value": "3D",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1678435393268,
+        "oldValue": "",
+        "newValue": "3D"
+      }
+    ]
+  },
+  "collectionSinglePattern": {
+    "value": "{{general}} ({{display}})",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1678435393268,
+        "oldValue": "",
+        "newValue": "{{general}} ({{display}})"
+      }
+    ]
+  }
+}

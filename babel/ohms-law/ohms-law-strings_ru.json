@@ -1,0 +1,136 @@
+{
+  "resistance": {
+    "value": "сопротивление",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501068759599,
+        "oldValue": "",
+        "newValue": "сопротивление",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceSymbol": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583776257358,
+        "oldValue": "",
+        "newValue": "R",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "напряжение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501068759599,
+        "oldValue": "",
+        "newValue": "напряжение",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageSymbol": {
+    "value": "U",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583776257358,
+        "oldValue": "",
+        "newValue": "U",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "В",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583776257358,
+        "oldValue": "",
+        "newValue": "В",
+        "explanation": null
+      }
+    ]
+  },
+  "currentSymbol": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 728618,
+        "timestamp": 1583776257358,
+        "oldValue": "",
+        "newValue": "I",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "сила тока",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501068759599,
+        "oldValue": "",
+        "newValue": "ток",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501560515405,
+        "oldValue": "ток",
+        "newValue": "сила тока",
+        "explanation": null
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "мА",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501068759599,
+        "oldValue": "",
+        "newValue": "мА",
+        "explanation": null
+      }
+    ]
+  },
+  "ohms-law.title": {
+    "value": "Закон Ома для участка цепи",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501068759599,
+        "oldValue": "",
+        "newValue": "Закон Ома ",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583776257358,
+        "oldValue": "Закон Ома ",
+        "newValue": "Закон Ома для участка цепи",
+        "explanation": null
+      }
+    ]
+  },
+  "sound": {
+    "value": "Звук ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501068759599,
+        "oldValue": "",
+        "newValue": "Звук ",
+        "explanation": null
+      }
+    ]
+  }
+}

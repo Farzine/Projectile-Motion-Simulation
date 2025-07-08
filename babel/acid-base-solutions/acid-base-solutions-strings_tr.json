@@ -1,0 +1,611 @@
+{
+  "pattern.0label.1value": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "",
+        "newValue": "{0}: {1}"
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "",
+        "newValue": "{0}{1}"
+      }
+    ]
+  },
+  "liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Litre",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Litre",
+        "newValue": "L"
+      }
+    ]
+  },
+  "pattern.0value.1power": {
+    "value": "{0} x 10<sup>{1}</sup>",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "",
+        "newValue": "{0} x 10<sup>{1}</sup>"
+      }
+    ]
+  },
+  "negligible": {
+    "value": "göz ardı edilebilir",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Önemsiz",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Önemsiz",
+        "newValue": "göz ardı edilebilir"
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "Denge Derişimi (mol/L)",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Çözelti Konsantrasyonu (mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Çözelti Konsantrasyonu (mol/L)",
+        "newValue": "Denge Derişimi (mol/L)"
+      }
+    ]
+  },
+  "graph": {
+    "value": "Grafik",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Grafik",
+        "explanation": null
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "Görünümü Gizle",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Gizle",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Gizle",
+        "newValue": "Görünümü Gizle"
+      }
+    ]
+  },
+  "molecules": {
+    "value": "Moleküller",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Moleküller",
+        "explanation": null
+      }
+    ]
+  },
+  "solvent": {
+    "value": "Çözücü",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Çözücü",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "Çözelti",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Çözelti",
+        "explanation": null
+      }
+    ]
+  },
+  "tools": {
+    "value": "Araçlar",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Araçlar",
+        "explanation": null
+      }
+    ]
+  },
+  "views": {
+    "value": "Görünüm",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Gör",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Gör",
+        "newValue": "Görünüm"
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "pH Renk Anahtarı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "pH Renk Anahtarı",
+        "explanation": null
+      }
+    ]
+  },
+  "stronger": {
+    "value": "daha güçlü",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Kuvvetli",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Kuvvetli",
+        "newValue": "daha güçlü"
+      }
+    ]
+  },
+  "weaker": {
+    "value": "daha zayıf",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Zayıf",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Zayıf",
+        "newValue": "daha zayıf"
+      }
+    ]
+  },
+  "acid": {
+    "value": "Asit",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Asit",
+        "explanation": null
+      }
+    ]
+  },
+  "base": {
+    "value": "Baz",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Baz",
+        "explanation": null
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "Başlangıç Derişimi (mol/L)",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "İlk\nKonsantrasyon:",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "İlk\nKonsantrasyon:",
+        "newValue": "Başlangıç Derişimi (mol/L)"
+      }
+    ]
+  },
+  "strength": {
+    "value": "Sağlamlık: ",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Güç Durumu",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Güç Durumu",
+        "newValue": "Sağlamlık: "
+      }
+    ]
+  },
+  "strong": {
+    "value": "güçlü",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Kuvvetli",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Kuvvetli",
+        "newValue": "güçlü"
+      }
+    ]
+  },
+  "weak": {
+    "value": "zayıf",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Zayıf",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Zayıf",
+        "newValue": "zayıf"
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Çözeltim",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Çözeltim",
+        "explanation": null
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "Güçlü Asit",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Kuvvetli Asit",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Kuvvetli Asit",
+        "newValue": "Güçlü Asit"
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "Güçlü Baz",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Kuvvetli Baz",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Kuvvetli Baz",
+        "newValue": "Güçlü Baz"
+      }
+    ]
+  },
+  "water": {
+    "value": "Su",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Su",
+        "explanation": null
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "Zayıf Asit",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Zayıf Asit",
+        "explanation": null
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "Zayıf Baz",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Zayıf Baz",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "Giriş",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Giriş",
+        "explanation": null
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "Asit-Baz Çözeltileri",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386280,
+        "oldValue": "",
+        "newValue": "Asit-Baz Çözeltisi",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670756420315,
+        "oldValue": "Asit-Baz Çözeltisi",
+        "newValue": "Asit-Baz Çözeltileri"
+      }
+    ]
+  },
+  "conductivity": {
+    "value": "İletkenlik",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "İletkenlik",
+        "explanation": null
+      }
+    ]
+  },
+  "customSolution": {
+    "value": "Çözelti Oluştur",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Çözelti Oluştur",
+        "explanation": null
+      }
+    ]
+  },
+  "equilibriumConcentration": {
+    "value": "Çözelti\r\nKonsantrasyonu",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Çözelti\r\nKonsantrasyonu",
+        "explanation": null
+      }
+    ]
+  },
+  "liquid": {
+    "value": "Sıvı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Sıvı",
+        "explanation": null
+      }
+    ]
+  },
+  "magnifying-glass-prototype.name": {
+    "value": "Prototip Cam Büyütücü",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Prototip Cam Büyütücü",
+        "explanation": null
+      }
+    ]
+  },
+  "molesPerLiter": {
+    "value": "Mol Sayısı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Mol Sayısı",
+        "explanation": null
+      }
+    ]
+  },
+  "pHMeter": {
+    "value": "pH Metre",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "pH Metre",
+        "explanation": null
+      }
+    ]
+  },
+  "pHPaper": {
+    "value": "pH Kağıdı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "pH Kağıdı",
+        "explanation": null
+      }
+    ]
+  },
+  "showWater": {
+    "value": "Suyu ( Çözücü ) Göster",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Suyu ( Çözücü ) Göster",
+        "explanation": null
+      }
+    ]
+  },
+  "solutions": {
+    "value": "Çözeltiler",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Çözeltiler",
+        "explanation": null
+      }
+    ]
+  },
+  "testSolution": {
+    "value": "Test Çözeltisi",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Test Çözeltisi",
+        "explanation": null
+      }
+    ]
+  },
+  "tests": {
+    "value": "Testler",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Testler",
+        "explanation": null
+      }
+    ]
+  },
+  "viewParticles": {
+    "value": "Molekülleri Gör",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1481895386281,
+        "oldValue": "",
+        "newValue": "Molekülleri Gör",
+        "explanation": null
+      }
+    ]
+  }
+}

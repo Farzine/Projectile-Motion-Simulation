@@ -1,0 +1,174 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "ár",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "ár"
+      }
+    ]
+  },
+  "clear": {
+    "value": "Hreinsa",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Hreinsa"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "grid": {
+    "value": "Rúður",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Möskvar"
+      },
+      {
+        "userId": 773195,
+        "timestamp": 1699548206083,
+        "oldValue": "Möskvar",
+        "newValue": "Rúður",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Málband",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Málband"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Þyngdarkraftur",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Þyngdarkraftur"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Hraði",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Hraði"
+      }
+    ]
+  },
+  "path": {
+    "value": "Slóð",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Slóð"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Sumir vigrar eru of litlir til að sýna.",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Sumir vigrar eru of litlir til að sýna."
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Aðdráttur:",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Aðdráttur:"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Ferð (km/s)",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Ferð (km/s)"
+      }
+    ]
+  }
+}

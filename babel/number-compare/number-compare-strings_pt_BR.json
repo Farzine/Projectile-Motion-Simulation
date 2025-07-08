@@ -1,0 +1,86 @@
+{
+  "screen.compare": {
+    "value": "Comparar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1651530326380,
+        "oldValue": "",
+        "newValue": "Comparar"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} é menor que {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1651530326381,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} é menor que {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} é maior que {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1651530326381,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} é maior que {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} é igual a {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1651530326381,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} é igual a {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Comparar Números",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1682633824807,
+        "oldValue": "",
+        "newValue": "Comparar Números"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Ouvir Sentença Numérica Automaticamente",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1682633824807,
+        "oldValue": "",
+        "newValue": "Ouvir Frase Numérica Automaticamente"
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1698406417041,
+        "oldValue": "Ouvir Frase Numérica Automaticamente",
+        "newValue": "Ouvir Sentença Numérica Automaticamente",
+        "explanation": null
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Ouça a atualização da sentença numérica automaticamente conforme você interage.",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1682633824807,
+        "oldValue": "",
+        "newValue": "Ouça a atualização da sentença numérica automaticamente conforme você interage."
+      }
+    ]
+  }
+}

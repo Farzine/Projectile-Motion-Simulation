@@ -1,0 +1,324 @@
+{
+  "ShowCharges": {
+    "value": "Kargak ikusi"
+  },
+  "Legend.potassiumGatedChannel": {
+    "value": "Potasioren Kanala Itxita"
+  },
+  "PotassiumChemicalSymbol": {
+    "value": "K+"
+  },
+  "Legend.title": {
+    "value": "Sinboloak"
+  },
+  "ConcentrationReadoutPattern.0label.1value.2units": {
+    "value": "{0} [{1} {2}] "
+  },
+  "Chart.title": {
+    "value": "Mintz-Potentziala vs. Denbora"
+  },
+  "neuron.title": {
+    "value": "Neurona"
+  },
+  "units.mM": {
+    "value": "mM"
+  },
+  "Legend.sodiumGatedChannel": {
+    "value": "Sodioaren Kanala Itxita"
+  },
+  "ModuleTitle.AxonCrossSection": {
+    "value": "Akzio-Potentziala"
+  },
+  "Chart.xAxisLabel": {
+    "value": "Denbora (ms)"
+  },
+  "ShowConcentrations": {
+    "value": "Kontzentrazioak ikusi"
+  },
+  "Legend.sodiumIon": {
+    "value": "Sodio Ioia (Na+)"
+  },
+  "ShowAllIons": {
+    "value": "Ioi guztiak ikusi"
+  },
+  "ShowPotentialChart": {
+    "value": "Potentzial-Mapa"
+  },
+  "Control.title": {
+    "value": "Kontrola"
+  },
+  "int.minControlPanelWidth": {
+    "value": "215"
+  },
+  "Chart.yAxisLabel": {
+    "value": "Mintz-Potentziala (mV)"
+  },
+  "Chart.clear": {
+    "value": "Grafikoa ezabatu"
+  },
+  "Legend.sodiumLeakChannel": {
+    "value": "Sodioaren Ihes-Kanala"
+  },
+  "Legend.potassiumLeakChannel": {
+    "value": "Potasioaren Ihes-Kanala"
+  },
+  "Legend.potassiumIon": {
+    "value": "Potasio Ioia (K+)"
+  },
+  "SodiumChemicalSymbol": {
+    "value": "Na+"
+  },
+  "concentrationReadoutPattern.0label.1value.2units": {
+    "value": "{0} [{1} {2}]",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "{0} [{1} {2}]"
+      }
+    ]
+  },
+  "potassiumChemicalSymbol": {
+    "value": "K+",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "K+"
+      }
+    ]
+  },
+  "sodiumChemicalSymbol": {
+    "value": "Na+",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Na+"
+      }
+    ]
+  },
+  "chartTitle": {
+    "value": "Mintzaren potentziala vs Denbora",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Mintzaren potentziala vs Denbora"
+      }
+    ]
+  },
+  "chartClear": {
+    "value": "Garbitu",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Garbitu"
+      }
+    ]
+  },
+  "chartXAxisLabel": {
+    "value": "Denbora (ms)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Denbora (ms)"
+      }
+    ]
+  },
+  "chartYAxisLabel": {
+    "value": "Mintzaren potentziala (mV)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Mintzaren potentziala (mV)"
+      }
+    ]
+  },
+  "legend": {
+    "value": "Legenda",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Legenda"
+      }
+    ]
+  },
+  "sodiumIon": {
+    "value": "Sodio ioia (Na+)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Sodio ioia (Na+)"
+      }
+    ]
+  },
+  "potassiumIon": {
+    "value": "Potasio ioia (K+)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Potasio ioia (K+)"
+      }
+    ]
+  },
+  "sodiumGatedChannel": {
+    "value": "Sodioko kanal itxia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Sodioko kanal itxia"
+      }
+    ]
+  },
+  "potassiumGatedChannel": {
+    "value": "Potasioko kanal itxia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Potasioko kanal itxia"
+      }
+    ]
+  },
+  "sodiumLeakChannel": {
+    "value": "Sodioaren ihes-kanala",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Sodioaren ihes-kanala"
+      }
+    ]
+  },
+  "potassiumLeakChannel": {
+    "value": "Potasioaren ihes-kanala",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Potasioaren ihes-kanala"
+      }
+    ]
+  },
+  "showLegend": {
+    "value": "Erakutsi",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Erakutsi"
+      }
+    ]
+  },
+  "allIons": {
+    "value": "Ioi guztiak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Ioi guztiak"
+      }
+    ]
+  },
+  "potentialChart": {
+    "value": "Potentzial taula",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Potentzial taula"
+      }
+    ]
+  },
+  "charges": {
+    "value": "Kargak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Kargak"
+      }
+    ]
+  },
+  "concentrations": {
+    "value": "Kontzentrazioak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Kontzentrazioak"
+      }
+    ]
+  },
+  "fastForward": {
+    "value": "Aurrera azkar",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Aurrera azkar"
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normala",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Normala"
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Mugimendu motela",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Mugimendu motela"
+      }
+    ]
+  },
+  "stimulateNeuron": {
+    "value": "Neurona estimulatzea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679871540379,
+        "oldValue": "",
+        "newValue": "Neurona estimulatzea"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "{{thisObject}} iedarbojas uz {{otherObject}}",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Spēks uz {{thisObject}} no {{otherObject}}",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616229636095,
+        "oldValue": "Spēks uz {{thisObject}} no {{otherObject}}",
+        "newValue": "{{thisObject}} iedarbojas uz {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "{{thisObject}} iedarbojas uz {{otherObject}} ar spēku F = {{value}} N",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Spēks uz {{thisObject}} no {{otherObject}} = {{value}} N",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616229636095,
+        "oldValue": "Spēks uz {{thisObject}} no {{otherObject}} = {{value}} N",
+        "newValue": "{{thisObject}} iedarbojas uz {{otherObject}} ar spēku F = {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Spēku lielumi",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "Spēku lielumi",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "metrs",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1583577217507,
+        "oldValue": "",
+        "newValue": "metrs",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metri",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1583577217507,
+        "oldValue": "",
+        "newValue": "metri",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "ņūtoni",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1583577217507,
+        "oldValue": "",
+        "newValue": "ņūtoni",
+        "explanation": null
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Decimāls skaitlis",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1583577217507,
+        "oldValue": "",
+        "newValue": "Decimālā notācija",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616226678213,
+        "oldValue": "Decimālā notācija",
+        "newValue": "Decimāls skaitlis"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Slēpti",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1583577217507,
+        "oldValue": "",
+        "newValue": "Slēpti",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Skaitļa normālforma",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1583577217507,
+        "oldValue": "",
+        "newValue": "Zinātniskā notācija",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616226678214,
+        "oldValue": "Zinātniskā notācija",
+        "newValue": "Skaitļa normālforma"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548972288604,
+        "oldValue": "",
+        "newValue": "pm",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "comparisonStatement": {
+    "value": "Confronto di situazione",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Confronto di situazione",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Esplora",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Esplora",
+        "explanation": null
+      }
+    ]
+  },
+  "thermometerALabel": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "thermometerBLabel": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "thermometerCLabel": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "currencyUnits": {
+    "value": "€",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "€",
+        "explanation": null
+      }
+    ]
+  },
+  "balanceAmount": {
+    "value": "credito di €{{value}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "credito di €{{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "debtAmount": {
+    "value": "debito di €{{value}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "debito di €{{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "moneyAmount": {
+    "value": "{{currencyUnit}}{{value}}",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "{{currencyUnit}}{{value}}"
+      }
+    ]
+  },
+  "balance": {
+    "value": "Saldo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Saldo",
+        "explanation": null
+      }
+    ]
+  },
+  "amountAboveSeaLevel": {
+    "value": "{{value}} m sul livello del mare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "{{value}} m sul livello del mare",
+        "explanation": null
+      }
+    ]
+  },
+  "amountBelowSeaLevel": {
+    "value": "{{value}} m sotto il livello del mare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": " {{value}} m sotto il livello del mare",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1710009502135,
+        "oldValue": " {{value}} m sotto il livello del mare",
+        "newValue": "{{value}} m sotto il livello del mare",
+        "explanation": null
+      }
+    ]
+  },
+  "seaLevel": {
+    "value": "livello del mare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "livello del mare",
+        "explanation": null
+      }
+    ]
+  },
+  "elevationAmount": {
+    "value": "{{value}} m",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "{{value}} m"
+      }
+    ]
+  },
+  "elevation": {
+    "value": "Altezza",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Altezza",
+        "explanation": null
+      }
+    ]
+  },
+  "january": {
+    "value": "Gennaio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Gennaio",
+        "explanation": null
+      }
+    ]
+  },
+  "february": {
+    "value": "Febbraio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Febbraio",
+        "explanation": null
+      }
+    ]
+  },
+  "march": {
+    "value": "Marzo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Marzo",
+        "explanation": null
+      }
+    ]
+  },
+  "april": {
+    "value": "Aprile",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Aprile",
+        "explanation": null
+      }
+    ]
+  },
+  "may": {
+    "value": "Maggio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Maggio",
+        "explanation": null
+      }
+    ]
+  },
+  "june": {
+    "value": "Giugno",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Giugno",
+        "explanation": null
+      }
+    ]
+  },
+  "july": {
+    "value": "Luglio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Luglio",
+        "explanation": null
+      }
+    ]
+  },
+  "august": {
+    "value": "Agosto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Agosto",
+        "explanation": null
+      }
+    ]
+  },
+  "september": {
+    "value": "Settembre",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Settembre",
+        "explanation": null
+      }
+    ]
+  },
+  "october": {
+    "value": "Ottobre",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Ottobre",
+        "explanation": null
+      }
+    ]
+  },
+  "november": {
+    "value": "Novemebre",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Novemebre",
+        "explanation": null
+      }
+    ]
+  },
+  "december": {
+    "value": "Dicembre",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Dicembre",
+        "explanation": null
+      }
+    ]
+  },
+  "absoluteValue": {
+    "value": "Valore assoluto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Valore assoluto",
+        "explanation": null
+      }
+    ]
+  },
+  "labels": {
+    "value": "Etichette",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Etichette",
+        "explanation": null
+      }
+    ]
+  },
+  "numberLine": {
+    "value": "Retta orientata",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Retta dei numeri",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1580383528413,
+        "oldValue": "Retta dei numeri",
+        "newValue": "Retta orientata",
+        "explanation": null
+      }
+    ]
+  },
+  "negativeTemperatureAmount": {
+    "value": "{{value}}° sotto 0",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "{{value}}° sotto 0",
+        "explanation": null
+      }
+    ]
+  },
+  "positiveTemperatureAmount": {
+    "value": "{{value}}° sopra 0",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "{{value}}° sopra 0",
+        "explanation": null
+      }
+    ]
+  },
+  "zeroTemperatureAmount": {
+    "value": "{{value}}°",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "{{value}}°"
+      }
+    ]
+  },
+  "temperatureAmountCelsius": {
+    "value": "{{value}}° C",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "{{value}}° C"
+      }
+    ]
+  },
+  "temperatureAmountFahrenheit": {
+    "value": "{{value}}° F",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "{{value}}° F"
+      }
+    ]
+  },
+  "temperatureLabelCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperatureLabelFahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 526485,
+        "timestamp": 1664984273868,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "temperatureMapCaption": {
+    "value": "Temperatura media mensile all'altezza di 2 metri nel 2018 <br> Generata utilizzando le informazioni del Servizio di Cambiamento Climatico Copernicus (2019)",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Temperatura media mensile all'altezza di 2 metri nel 2018 <br> Generata utilizzando le informazioni del Servizio di Cambiamento Climatico Copernicus (2019)",
+        "explanation": null
+      }
+    ]
+  },
+  "temperature": {
+    "value": "Temperatura",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Temperatura",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Generico",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Generico",
+        "explanation": null
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Tacche",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Tacche",
+        "explanation": null
+      }
+    ]
+  },
+  "opposite": {
+    "value": "Opposto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Opposto",
+        "explanation": null
+      }
+    ]
+  },
+  "number-line-integers.title": {
+    "value": "Retta orientata: numeri interi",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1580381337481,
+        "oldValue": "",
+        "newValue": "Retta dei numeri: numeri interi",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1580383528413,
+        "oldValue": "Retta dei numeri: numeri interi",
+        "newValue": "Retta orientata: numeri interi",
+        "explanation": null
+      }
+    ]
+  }
+}

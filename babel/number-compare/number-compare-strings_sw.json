@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Linganisha",
+    "history": [
+      {
+        "userId": 1085729,
+        "timestamp": 1664247352572,
+        "oldValue": "",
+        "newValue": "Linganisha"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} ni ndogo kuliko {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 1085729,
+        "timestamp": 1664247352572,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} ni ndogo kuliko {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} ni kubwa kuliko {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 1085729,
+        "timestamp": 1664247352572,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} ni kubwa kuliko {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} inalingana na {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 1085729,
+        "timestamp": 1664247352572,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} inalingana na {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Nambari Linganisha",
+    "history": [
+      {
+        "userId": 1129128,
+        "timestamp": 1687413388522,
+        "oldValue": "",
+        "newValue": "Nambari Linganisha"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Sikia Sentensi ya Namba kiotomatiki",
+    "history": [
+      {
+        "userId": 1129128,
+        "timestamp": 1687413388522,
+        "oldValue": "",
+        "newValue": "Sikia Sentensi ya Namba kiotomatiki"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Sikia sasisho la sentensi ya nambari kiotomatiki unapowasiliana.",
+    "history": [
+      {
+        "userId": 1129128,
+        "timestamp": 1687413388522,
+        "oldValue": "",
+        "newValue": "Sikia sasisho la sentensi ya nambari kiotomatiki unapowasiliana."
+      }
+    ]
+  }
+}

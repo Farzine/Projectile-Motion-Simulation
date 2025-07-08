@@ -1,0 +1,379 @@
+{
+  "point.unknown": {
+    "value": "",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703616280009,
+        "oldValue": "",
+        "newValue": "( ?, ? )"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297818405,
+        "oldValue": "( ?, ? )",
+        "newValue": ""
+      }
+    ]
+  },
+  "symbol.intercept": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "b"
+      }
+    ]
+  },
+  "symbol.slope": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "putPointsOnLine": {
+    "value": "ټکي په خط کې ځای پر ځای کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "ټکي په خط کې ځای پر ځای کړئ"
+      }
+    ]
+  },
+  "setThePoint": {
+    "value": "نقطه وټاکئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "نقطه وټاکئ"
+      }
+    ]
+  },
+  "setTheSlope": {
+    "value": "میل وټاکئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "سلپ وټاکئ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "سلپ وټاکئ",
+        "newValue": "میل وټاکئ",
+        "explanation": null
+      }
+    ]
+  },
+  "setTheYIntercept": {
+    "value": "د y له محور سره د تقاطع ټکي وټاکئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "د مبدأ څخه عرض وټاکئ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "د مبدأ څخه عرض وټاکئ",
+        "newValue": "د y له محور سره د تقاطع ټکي وټاکئ",
+        "explanation": null
+      }
+    ]
+  },
+  "lineToGraph": {
+    "value": "کرښه رسم کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "کرښه رسم کړئ"
+      }
+    ]
+  },
+  "notALine": {
+    "value": "...کرښه نه ده.",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "... کرښه نه ده."
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "... کرښه نه ده.",
+        "newValue": "...کرښه نه ده.",
+        "explanation": null
+      }
+    ]
+  },
+  "yourLine": {
+    "value": "ستاسو کرښه:",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "ستاسو کرښه"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "ستاسو کرښه",
+        "newValue": "ستاسو کرښه:",
+        "explanation": null
+      }
+    ]
+  },
+  "graphTheLine": {
+    "value": "کرښه رسم کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "کرښه رسم کړئ"
+      }
+    ]
+  },
+  "aCorrectEquation": {
+    "value": "یو سمه معادله:",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "یو سمه معادله:"
+      }
+    ]
+  },
+  "yourEquation": {
+    "value": "ستاسو معادله:",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "ستاسو معادله:"
+      }
+    ]
+  },
+  "makeTheEquation": {
+    "value": "معادله جوړه کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "معادله جوړه کړئ"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "خپله کجه مو وټاکئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "خپله کجه مو وټاکئ"
+      }
+    ]
+  },
+  "pattern_Level_0": {
+    "value": "کچه{0}",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "کچه{0}"
+      }
+    ]
+  },
+  "screen.lineGame": {
+    "value": "د کرښی لوبه",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "د کرښی لوبه"
+      }
+    ]
+  },
+  "eraseLines": {
+    "value": "کرښي پاکې کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "کرښي پاکې کړئ"
+      }
+    ]
+  },
+  "saveLine": {
+    "value": "کرښي ذخیره کړئ",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "کرښي ذخیره کړئ"
+      }
+    ]
+  },
+  "slope": {
+    "value": "میل",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "سلپ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "سلپ",
+        "newValue": "میل",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slopeIntercept": {
+    "value": "میل- تقاطع",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703830683754,
+        "oldValue": "",
+        "newValue": "سلپ- تقاطع"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "سلپ- تقاطع",
+        "newValue": "میل- تقاطع",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.pointSlope": {
+    "value": "نقطه- میل",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703862769898,
+        "oldValue": "",
+        "newValue": "نقطه- سلپ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "نقطه- سلپ",
+        "newValue": "نقطه- میل",
+        "explanation": null
+      }
+    ]
+  },
+  "slopeIs": {
+    "value": "میل",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703862769898,
+        "oldValue": "",
+        "newValue": "{0}=سلپ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "{0}=سلپ",
+        "newValue": "میل",
+        "explanation": null
+      }
+    ]
+  },
+  "undefined": {
+    "value": "نا تعریف شوي",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703862769898,
+        "oldValue": "",
+        "newValue": "نا تعریف شوي"
+      }
+    ]
+  },
+  "screen.slope": {
+    "value": "میل",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703862769898,
+        "oldValue": "",
+        "newValue": "سلپ"
+      },
+      {
+        "userId": 11192317,
+        "timestamp": 1705297610098,
+        "oldValue": "سلپ",
+        "newValue": "میل",
+        "explanation": null
+      }
+    ]
+  },
+  "graphing-lines.title": {
+    "value": "د کرښو رسمول",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1703862769898,
+        "oldValue": "",
+        "newValue": "د کرښو رسمول"
+      }
+    ]
+  }
+}

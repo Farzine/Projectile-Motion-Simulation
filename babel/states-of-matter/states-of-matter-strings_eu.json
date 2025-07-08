@@ -1,0 +1,821 @@
+{
+  "adjustableAttraction": {
+    "value": "Erakarpen doigarria",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Erakarpen egokigarria",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Erakarpen egokigarria",
+        "newValue": "Erakarpen doigarria",
+        "explanation": null
+      }
+    ]
+  },
+  "argon": {
+    "value": "Argona",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Argona",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureUnitsInAtm": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "AtomsAndMolecules": {
+    "value": "Atomoak eta molekulak",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Atomoak eta molekulak",
+        "explanation": null
+      }
+    ]
+  },
+  "criticalPoint": {
+    "value": "puntu<br>kritikoa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "puntu<br>kritikoa",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenAtoms": {
+    "value": "Atomo arteko distantzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Atomoen arteko distantzia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Atomoen arteko distantzia",
+        "newValue": "Atomo arteko distantzia",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceBetweenMolecules": {
+    "value": "Molekula arteko distantzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Molekulen arteko distantzia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Molekulen arteko distantzia",
+        "newValue": "Molekula arteko distantzia",
+        "explanation": null
+      }
+    ]
+  },
+  "gas": {
+    "value": "gasa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "gasa",
+        "explanation": null
+      }
+    ]
+  },
+  "Gas": {
+    "value": "Gasa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Gasa",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionPotential": {
+    "value": "Elkarrekintza",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Elkarrekintza",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrengthWithSymbol": {
+    "value": "Elkarrekintza-indarra (ε)",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Elkarrekintza-indarra (ε)",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvinUnits": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "Liquid": {
+    "value": "Likidoa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Likidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "liquid": {
+    "value": "likidoa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "likidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "neon": {
+    "value": "Neona",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Neona",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureOverload": {
+    "value": "GAINKARGA",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "GAINKARGA",
+        "explanation": null
+      }
+    ]
+  },
+  "diatomicOxygen": {
+    "value": "Oxigenoa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Oxigenoa",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseChanges": {
+    "value": "Fase-aldaketak",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Fase-aldaketak",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseDiagram": {
+    "value": "Fase-diagrama",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Fase-diagrama",
+        "explanation": null
+      }
+    ]
+  },
+  "potentialEnergy": {
+    "value": "Energia potentziala",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Energia potentziala",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Presioa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Presioa",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Itzuli tapa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Itzuli tapa",
+        "explanation": null
+      }
+    ]
+  },
+  "Solid": {
+    "value": "Solidoa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Solidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "solidoa",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "solidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "states": {
+    "value": "Egoerak",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Egoerak",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "sendoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Sendoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Sendoa",
+        "newValue": "sendoa",
+        "explanation": null
+      }
+    ]
+  },
+  "temperature": {
+    "value": "Tenperatura",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Tenperatura",
+        "explanation": null
+      }
+    ]
+  },
+  "triplePoint": {
+    "value": "puntu<br>hirukoitza",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "puntu<br>hirukoitza",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Ura",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "Ura",
+        "explanation": null
+      }
+    ]
+  },
+  "weak": {
+    "value": "ahula",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Ahula",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Ahula",
+        "newValue": "ahula",
+        "explanation": null
+      }
+    ]
+  },
+  "epsilon": {
+    "value": "ε",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "ε",
+        "explanation": null
+      }
+    ]
+  },
+  "sigma": {
+    "value": "σ",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "σ",
+        "explanation": null
+      }
+    ]
+  },
+  "celsiusUnits": {
+    "value": "℃",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278779299,
+        "oldValue": "",
+        "newValue": "℃",
+        "explanation": null
+      }
+    ]
+  },
+  "electronOverlap": {
+    "value": "(elektroi-gainezarpena)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "(elektroia gainjarria)",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "(elektroia gainjarria)",
+        "newValue": "(elektroi-gainezarpena)",
+        "explanation": null
+      }
+    ]
+  },
+  "vanderwaals": {
+    "value": "(Van der Waals)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "(van der Waals)",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "(van der Waals)",
+        "newValue": "(Van der Waals)",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1679747834509,
+        "oldValue": "(Van der Waals)",
+        "newValue": "(van der Waals)",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1679749473117,
+        "oldValue": "(van der Waals)",
+        "newValue": "(Van der Waals)",
+        "explanation": null
+      }
+    ]
+  },
+  "atomDiameter": {
+    "value": "Atomo-diametroa (σ)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Diametro atomikoa (σ)",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Diametro atomikoa (σ)",
+        "newValue": "Atomo-diametroa (σ)",
+        "explanation": null
+      }
+    ]
+  },
+  "Atoms": {
+    "value": "Atomoak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Atomoak",
+        "explanation": null
+      }
+    ]
+  },
+  "attractive": {
+    "value": "Erakarlea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Erakargarria",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Erakargarria",
+        "newValue": "Erakarlea",
+        "explanation": null
+      }
+    ]
+  },
+  "customAttraction": {
+    "value": "Aukeratu erakarpena",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Ekarpen pertsonalizatua",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Ekarpen pertsonalizatua",
+        "newValue": "Aukeratu erakarpena",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Indarrak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Indarrak",
+        "explanation": null
+      }
+    ]
+  },
+  "hideForces": {
+    "value": "Ezkutatu indarrak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Indar izkutuak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Indar izkutuak",
+        "newValue": "Ezkutatu indarrak",
+        "explanation": null
+      }
+    ]
+  },
+  "interactionStrength": {
+    "value": "Elkarrekintza-indarra (ε)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Elkarrekintzako indarra (ε)",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Elkarrekintzako indarra (ε)",
+        "newValue": "Elkarrekintza-indarra (ε)",
+        "explanation": null
+      }
+    ]
+  },
+  "large": {
+    "value": "handia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Handia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Handia",
+        "newValue": "handia",
+        "explanation": null
+      }
+    ]
+  },
+  "moving": {
+    "value": "Higikorra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Mugituz",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Mugituz",
+        "newValue": "Higikorra",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Normala",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Normala",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Oxigenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Oxigenoa",
+        "explanation": null
+      }
+    ]
+  },
+  "pinned": {
+    "value": "Finkoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Lotuta",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Lotuta",
+        "newValue": "Finkoa",
+        "explanation": null
+      }
+    ]
+  },
+  "repulsive": {
+    "value": "Aldaratzailea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Aldarapena",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Aldarapena",
+        "newValue": "Aldaratzailea",
+        "explanation": null
+      }
+    ]
+  },
+  "returnAtom": {
+    "value": "Itzuli atomoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Itzulerako atomoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Itzulerako atomoa",
+        "newValue": "Itzuli atomoa",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Kamera geldia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Kamera geldoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Kamera geldoa",
+        "newValue": "Kamera geldia",
+        "explanation": null
+      }
+    ]
+  },
+  "small": {
+    "value": "txikia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Txikia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Txikia",
+        "newValue": "txikia",
+        "explanation": null
+      }
+    ]
+  },
+  "totalForce": {
+    "value": "Indar totala",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Indar osoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273638511,
+        "oldValue": "Indar osoa",
+        "newValue": "Indar totala",
+        "explanation": null
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Proiektore-modua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490130049458,
+        "oldValue": "",
+        "newValue": "Proiektore-modua",
+        "explanation": null
+      }
+    ]
+  },
+  "interaction": {
+    "value": "Elkarreragina",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679749473117,
+        "oldValue": "",
+        "newValue": "Elkarreragina"
+      }
+    ]
+  },
+  "states-of-matter.title": {
+    "value": "Materiaren egoerak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679749473117,
+        "oldValue": "",
+        "newValue": "Materiaren egoerak"
+      }
+    ]
+  }
+}

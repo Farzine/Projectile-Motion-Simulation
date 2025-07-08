@@ -1,0 +1,351 @@
+{
+  "charge1": {
+    "value": "Sarcina 1",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Sarcina 1",
+        "explanation": null
+      }
+    ]
+  },
+  "charge2": {
+    "value": "Sarcina 2",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Sarcina 2",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Notarea științifică",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Notarea științifică",
+        "explanation": null
+      }
+    ]
+  },
+  "charge1Abbreviated": {
+    "value": "q<sub>1</sub>",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "q<sub>1</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "charge2Abbreviated": {
+    "value": "q<sub>2</sub>",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "q<sub>2</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "pmScale": {
+    "value": "1 picometru (pm) = 1 &times; 10<sup>-12</sup> m",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "1 picometru (pm) = 1 &times; 10<sup>-12</sup> m",
+        "explanation": null
+      }
+    ]
+  },
+  "units.atomicLegendScale": {
+    "value": "10 pm",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "10 pm",
+        "explanation": null
+      }
+    ]
+  },
+  "units.atomicUnits": {
+    "value": "e",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "e",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.atomicScale": {
+    "value": "Scară atomică",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Scară atomică",
+        "explanation": null
+      }
+    ]
+  },
+  "adjustAmountLabel": {
+    "value": "Ajustați suma",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Ajustați suma",
+        "explanation": null
+      }
+    ]
+  },
+  "adjustInLargerStepsLabel": {
+    "value": "Ajustați în pași mai mari",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Ajustați în pași mai mari",
+        "explanation": null
+      }
+    ]
+  },
+  "chargeAmountHeading": {
+    "value": "Suma sarcinilor",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Suma sarcinilor",
+        "explanation": null
+      }
+    ]
+  },
+  "chargePositionsHeading": {
+    "value": "Pozițiile sarcinilor",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Poziția sarcinii",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Poziția sarcinii",
+        "newValue": "Pozițiile sarcinilor"
+      }
+    ]
+  },
+  "jumpLeftLabel": {
+    "value": "Salt la stânga",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Salt la stânga",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpRightLabel": {
+    "value": "Salt la dreapta",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Salt la dreapta",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToMaximumLabel": {
+    "value": "Salt la maximum",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Treci la maximum",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Treci la maximum",
+        "newValue": "Salt la maximum"
+      }
+    ]
+  },
+  "jumpToMinimumLabel": {
+    "value": "Salt la minimum",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Treci la minimum",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Treci la minimum",
+        "newValue": "Salt la minimum"
+      }
+    ]
+  },
+  "moveChargesLabel": {
+    "value": "Mișcă sarcinile",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mișcă sarcinile",
+        "explanation": null
+      }
+    ]
+  },
+  "moveInLargerStepsLabel": {
+    "value": "Mișcă în pași mai mari",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mișcă în pași mari",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Mișcă în pași mari",
+        "newValue": "Mișcă în pași mai mari"
+      }
+    ]
+  },
+  "moveInSmallerStepsLabel": {
+    "value": "Mișcă în pași mai mici",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mișcă în pași mici",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Mișcă în pași mici",
+        "newValue": "Mișcă în pași mai mici"
+      }
+    ]
+  },
+  "moveRulerHeading": {
+    "value": "Mișcă Rigla",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mișcă Rigla",
+        "explanation": null
+      }
+    ]
+  },
+  "moveRulerLabel": {
+    "value": "Mișcă rigla",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Mișcă rigla",
+        "explanation": null
+      }
+    ]
+  },
+  "units.macroLegendScale": {
+    "value": "1 cm",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "1 cm",
+        "explanation": null
+      }
+    ]
+  },
+  "units.microcoulombs": {
+    "value": "μC",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "μC",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macroScale": {
+    "value": "Scară macro",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Scala macro",
+        "explanation": null
+      },
+      {
+        "userId": 726466,
+        "timestamp": 1607363850425,
+        "oldValue": "Scala macro",
+        "newValue": "Scară macro",
+        "explanation": null
+      }
+    ]
+  },
+  "coulombs-law.title": {
+    "value": "Legea lui Coulomb",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Legea lui Coulomb",
+        "explanation": null
+      }
+    ]
+  }
+}

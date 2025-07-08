@@ -1,0 +1,146 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Sila na {{thisObject}} od {{otherObject}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Sila na {{thisObject}} od {{otherObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Sila na {{thisObject}} od {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Sila na {{thisObject}} od {{otherObject}} = {{value}} N  ",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "Sila na {{thisObject}} od {{otherObject}} = {{value}} N  ",
+        "newValue": "Sila na {{thisObject}} od {{otherObject}} = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Veľkosť sily",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Veľkosť sily",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "pm",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "meter",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1679952375799,
+        "oldValue": "",
+        "newValue": "meter"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680966722437,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Desatinný zápis",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "Desatinný zápis"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Skryť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "Skryť"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Exponenciálny zápis",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "Exponenciálny zápis"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newton",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680969748894,
+        "oldValue": "",
+        "newValue": "newton"
+      }
+    ]
+  }
+}

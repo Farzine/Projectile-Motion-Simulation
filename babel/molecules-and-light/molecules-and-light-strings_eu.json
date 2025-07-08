@@ -1,0 +1,625 @@
+{
+  "KeyboardHelpDialog.lightSourceSlider": {
+    "value": "Argi-iturriaren erreguladorea",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "",
+        "newValue": "Argi-iturriaren erreguladorea",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Infrared": {
+    "value": "Argi infragorria",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Infragorria",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Infragorria",
+        "newValue": "Argi infragorria",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Microwave": {
+    "value": "Mikrouhina",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Mikrouhina",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Ultraviolet": {
+    "value": "Argi ultramorea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Ultramorea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Ultramorea",
+        "newValue": "Argi ultramorea",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Visible": {
+    "value": "Argi ikusgaia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Ikuskorra",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Ikuskorra",
+        "newValue": "Argi ikusgaia",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonDioxide": {
+    "value": "Karbono dioxidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Karbono Dioxidoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Karbono Dioxidoa",
+        "newValue": "Karbono dioxidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonMonoxide": {
+    "value": "Karbono monoxidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Karbono Monoxidoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Karbono Monoxidoa",
+        "newValue": "Karbono monoxidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.NitrogenDioxide": {
+    "value": "Nitrogeno dioxidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Nitrogeno Dioxidoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Nitrogeno Dioxidoa",
+        "newValue": "Nitrogeno dioxidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Nitrogen": {
+    "value": "Nitrogenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Nitrogenoa",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Oxygen": {
+    "value": "Oxigenoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Oxigenoa",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Ozone": {
+    "value": "Ozonoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Ozonoa",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Water": {
+    "value": "Ura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Ura",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularNamePattern": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "ButtonNode.ReturnMolecule": {
+    "value": "Itzuli molekula",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Molekula Itzuli",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Molekula Itzuli",
+        "newValue": "Itzuli molekula",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.HigherEnergy": {
+    "value": "Energia handiagoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Energia Handiagoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197966,
+        "oldValue": "Energia Handiagoa",
+        "newValue": "Energia handiagoa",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.cyclesPerSecondUnits": {
+    "value": "Hz",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.frequencyArrowLabel": {
+    "value": "Energia eta maiztasun handiagoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Energia eta maiztasun handiagoa",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.gammaRayBandLabel": {
+    "value": "Gamma izpiak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Gamma\nizpia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "Gamma\\nizpia",
+        "newValue": "Gamma izpiak",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.infraredBandLabel": {
+    "value": "Infragorria",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Infragorria",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.metersUnits": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.microwaveBandLabel": {
+    "value": "Mikrouhinak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Mikrouhina",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "Mikrouhina",
+        "newValue": "Mikrouhinak",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.radioBandLabel": {
+    "value": "Irrati-uhinak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Irratia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "Irratia",
+        "newValue": "Irrati-uhinak",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.title": {
+    "value": "Espektro elektromagnetikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Espektro elektromagnetikoa",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.ultravioletBandLabel": {
+    "value": "Ultramorea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Ultra-\nbioleta",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "Ultra-\\nbioleta",
+        "newValue": "Ultramorea",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.visibleBandLabel": {
+    "value": "Argi ikusgaia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Ikuskorra",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "Ikuskorra",
+        "newValue": "Argi ikusgaia",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.wavelengthArrowLabel": {
+    "value": "Uhin-luzera handiagoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Uhin-luzera handiagoa",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.xrayBandLabel": {
+    "value": "X izpiak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "X-izpiak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "X-izpiak",
+        "newValue": "X izpiak",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.close": {
+    "value": "Itxi",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Itxi",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.buttonCaption": {
+    "value": "Ikusi espektro elektromagnetikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Espektro elektromagnetikoa ikusi",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "Espektro elektromagnetikoa ikusi",
+        "newValue": "Ikusi espektro elektromagnetikoa",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules-and-light.title": {
+    "value": "Molekulak eta argia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246189,
+        "oldValue": "",
+        "newValue": "Molekulak eta Argia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561278197967,
+        "oldValue": "Molekulak eta Argia",
+        "newValue": "Molekulak eta argia",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.AtmosphericGasesTitle": {
+    "value": "Atmosferako Gasak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "Atmosferako Gasak",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Methane": {
+    "value": "Metanoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "Metanoa",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Molecule": {
+    "value": "Molekula",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "Molekula",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Molecules": {
+    "value": "Molekulak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "Molekulak",
+        "explanation": null
+      }
+    ]
+  },
+  "ModuleTitle.MoleculesAndLightModule": {
+    "value": "Molekulak eta Argia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "Molekulak eta Argia",
+        "explanation": null
+      }
+    ]
+  },
+  "OptionsMenu.whiteBackground": {
+    "value": "Hondoa Txuria",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "Hondoa Txuria",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.PhotonEnergy": {
+    "value": "Fotoiaren Energia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "Fotoiaren Energia",
+        "explanation": null
+      }
+    ]
+  },
+  "int.minControlPanelWidth": {
+    "value": "215",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490140246190,
+        "oldValue": "",
+        "newValue": "215",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.observationWindow": {
+    "value": "Behaketa leihoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679748978521,
+        "oldValue": "",
+        "newValue": "Behaketa leihoa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.turnLightSourceOnOrOff": {
+    "value": "Piztu edo itzali argi iturria",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679748978521,
+        "oldValue": "",
+        "newValue": "Piztu edo itzali argi iturria"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pauseOrPlayShortcut": {
+    "value": "Eten edo erreproduzitu ekintza behaketa-leihoan",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679748978521,
+        "oldValue": "",
+        "newValue": "Eten edo erreproduzitu ekintza behaketa-leihoan"
+      }
+    ]
+  },
+  "keyboardHelpDialog.stepForwardShortcut": {
+    "value": "Ekintza pausatuta dagoenean urrats handiagoetan aurrera egin",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679748978521,
+        "oldValue": "",
+        "newValue": "Ekintza pausatuta dagoenean urrats handiagoetan aurrera egin"
+      }
+    ]
+  },
+  "openSciEd.energySource": {
+    "value": "Lurraren gainazaleko energia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679748978521,
+        "oldValue": "",
+        "newValue": "Lurraren gainazaleko energia"
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "speed": {
+    "value": "Hastighed",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Hastighed",
+        "explanation": null
+      }
+    ]
+  },
+  "go": {
+    "value": "Go!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Go!",
+        "explanation": null
+      }
+    ]
+  },
+  "pause": {
+    "value": "Pause",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Pause",
+        "explanation": null
+      }
+    ]
+  },
+  "return": {
+    "value": "Tilbage",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Tilbage",
+        "explanation": null
+      }
+    ]
+  },
+  "blueWins": {
+    "value": "Blå vinder!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Blå vinder!",
+        "explanation": null
+      }
+    ]
+  },
+  "redWins": {
+    "value": "Rød vinder!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Rød vinder",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1462634989417,
+        "oldValue": "Rød vinder",
+        "newValue": "Rød vinder!",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForces": {
+    "value": "Resulterende kraft",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Resulterende kraft",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Værdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Værdier",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsN": {
+    "value": "{0}N",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "{0}N",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForcesEqualsZero": {
+    "value": "Resulterende kraft = 0",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Resulterende kraft = 0",
+        "explanation": null
+      }
+    ]
+  },
+  "leftForce": {
+    "value": "Venstre kraft",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Venstre kraft",
+        "explanation": null
+      }
+    ]
+  },
+  "rightForce": {
+    "value": "Højre kraft",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Højre kraft",
+        "explanation": null
+      }
+    ]
+  },
+  "left": {
+    "value": "venstre",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1515593545813,
+        "oldValue": "",
+        "newValue": "venstre",
+        "explanation": null
+      }
+    ]
+  },
+  "right": {
+    "value": "højre",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1515593545813,
+        "oldValue": "",
+        "newValue": "højre",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0massUnitsKilograms": {
+    "value": "{0} kg",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "{0} kg",
+        "explanation": null
+      }
+    ]
+  },
+  "appliedForce": {
+    "value": "Anvendt kraft",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Anvendt kraft",
+        "explanation": null
+      }
+    ]
+  },
+  "frictionForce": {
+    "value": "Friktionskraft",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Friktionskraften",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1604257854384,
+        "oldValue": "Friktionskraften",
+        "newValue": "Friktionskraft",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsVelocity": {
+    "value": "{0} m/s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "{0} m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Acceleration",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Acceleration",
+        "explanation": null
+      }
+    ]
+  },
+  "force": {
+    "value": "Kraft",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Kraft",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Kræfter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Kræfter",
+        "explanation": null
+      }
+    ]
+  },
+  "masses": {
+    "value": "Masser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Vægte",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1462634989417,
+        "oldValue": "Vægte",
+        "newValue": "Masser",
+        "explanation": null
+      }
+    ]
+  },
+  "friction": {
+    "value": "Friktion",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Friktion",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Høj",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Høj",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Ingen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Ingen",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsAcceleration": {
+    "value": "{0}: {1} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "{0}: {1} m/s<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsNewtons": {
+    "value": "{0} Newton",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "{0} Newton",
+        "explanation": null
+      }
+    ]
+  },
+  "forces-and-motion-basics.title": {
+    "value": "Kræfter og bevægelse: Basis",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Kræfter og bevægelse: Basis",
+        "explanation": null
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Resulterende kraft",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Tovtrækning",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1462634989417,
+        "oldValue": "Tovtrækning",
+        "newValue": "Resulterende kraft",
+        "explanation": null
+      }
+    ]
+  },
+  "motion": {
+    "value": "Bevægelse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1462589466752,
+        "oldValue": "",
+        "newValue": "Bevægelse",
+        "explanation": null
+      }
+    ]
+  },
+  "goButton.description": {
+    "value": "Vælg for at starte trækkere.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Vælg for at starte trækkere."
+      }
+    ]
+  },
+  "pauseButton.description": {
+    "value": "Vælg for at pause trækkere.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Vælg for at pause trækkere."
+      }
+    ]
+  },
+  "leftSideWins.description": {
+    "value": "Venstre side vinder.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Venstre side vinder."
+      }
+    ]
+  },
+  "rightSideWins.description": {
+    "value": "Højre side vinder.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Højre side vinder."
+      }
+    ]
+  },
+  "netForce.description": {
+    "value": "Grundlæggende kræfter og bevægelse. Der holder en tungt læsset vogn på hjul på en bane. Fastgjort til venstre side af vognen er et tykt reb med 4 knob fordelt ligeligt langs rebet. I nærheden af ​​dette knyttede reb står en gruppe på 4 trækkere. På den modsatte side af vognen er et tilsvarende reb med 4 knob fastgjort til højre side af vognen. Der er en anden gruppe på 4 trækkere, der står i nærheden af ​​dette reb. Vognens midterposition er markeret på jorden.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Grundlæggende kræfter og bevægelse. Der holder en tungt læsset vogn på hjul på en bane. Fastgjort til venstre side af vognen er et tykt reb med 4 knob fordelt ligeligt langs rebet. I nærheden af ​​dette knyttede reb står en gruppe på 4 trækkere. På den modsatte side af vognen er et tilsvarende reb med 4 knob fastgjort til højre side af vognen. Der er en anden gruppe på 4 trækkere, der står i nærheden af ​​dette reb. Vognens midterposition er markeret på jorden."
+      }
+    ]
+  },
+  "bluePullerGroup.description": {
+    "value": "Venstre trækkere. Vælg Enter for at vælge og placere trækkere på rebet.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Venstre trækkere. Vælg Enter for at vælge og placere trækkere på rebet."
+      }
+    ]
+  },
+  "redPullerGroup.description": {
+    "value": "Højre trækkere. Vælg Enter for at vælge og placere trækkere på rebet.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Højre trækkere. Vælg Enter for at vælge og placere trækkere på rebet."
+      }
+    ]
+  },
+  "group": {
+    "value": "Gruppe",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Gruppe"
+      }
+    ]
+  },
+  "puller": {
+    "value": "trækker",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "trækker"
+      }
+    ]
+  },
+  "motion.leftItemGroup.description": {
+    "value": "Tryk på enter for at aktivere venstre objektbeholder. Et køleskab og en trækasse er i denne genstandsbeholder.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Tryk på enter for at aktivere venstre objektbeholder. Et køleskab og en trækasse er i denne genstandsbeholder."
+      }
+    ]
+  },
+  "motion.rightItemGroup.description": {
+    "value": "Tryk på enter for at aktivere højre objektbeholder. En pige, en mand, en skraldespand og en mysterieboks er i denne genstandsspand.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1679945618847,
+        "oldValue": "",
+        "newValue": "Tryk på enter for at aktivere højre objektbeholder. En pige, en mand, en skraldespand og en mysterieboks er i denne genstandsspand."
+      }
+    ]
+  },
+  "netForcePullerColors": {
+    "value": "Nettokraft farver",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1737053449630,
+        "oldValue": "",
+        "newValue": "Nettokraft farver"
+      }
+    ]
+  },
+  "blueAndRed": {
+    "value": "Blå og rød",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1737053449630,
+        "oldValue": "",
+        "newValue": "Blå og rød"
+      }
+    ]
+  },
+  "purpleAndOrange": {
+    "value": "Lilla og orange",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1737053449630,
+        "oldValue": "",
+        "newValue": "Lilla og orange"
+      }
+    ]
+  },
+  "purpleWins": {
+    "value": "Lilla vinder!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1737053449630,
+        "oldValue": "",
+        "newValue": "Lilla vinder!"
+      }
+    ]
+  },
+  "orangeWins": {
+    "value": "Orange vinder!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1737053449630,
+        "oldValue": "",
+        "newValue": "Orange vinder!"
+      }
+    ]
+  },
+  "unknownValueIndicator": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1737053449630,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Stopur",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1737053449630,
+        "oldValue": "",
+        "newValue": "Stopur"
+      }
+    ]
+  }
+}

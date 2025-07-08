@@ -1,0 +1,135 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664221282417,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "दशमलव अंकन",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664221282417,
+        "oldValue": "",
+        "newValue": "दशमलव अंकन"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "इस {{thisObject}} पर उस {{otherObject}} द्वारा लगाया गया बल",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664220053015,
+        "oldValue": "",
+        "newValue": "इस {{thisObject}} पर बल उस {{otherObject}} द्वारा बल"
+      },
+      {
+        "userId": 1085438,
+        "timestamp": 1664220898454,
+        "oldValue": "इस {{thisObject}} पर बल उस {{otherObject}} द्वारा बल",
+        "newValue": "इस {{thisObject}} पर उस {{otherObject}} द्वारा लगाया गया बल"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "इस {{thisObject}} पर उस {{otherObject}} द्वारा लगाया गया बल = {{value}} N",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664220053015,
+        "oldValue": "",
+        "newValue": "इस {{thisObject}} पर बल उस {{otherObject}} द्वारा बल = {{value}} N"
+      },
+      {
+        "userId": 1085438,
+        "timestamp": 1664220898454,
+        "oldValue": "इस {{thisObject}} पर बल उस {{otherObject}} द्वारा बल = {{value}} N",
+        "newValue": "इस {{thisObject}} पर उस {{otherObject}} द्वारा लगाया गया बल = {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "बल मान",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664220053015,
+        "oldValue": "",
+        "newValue": "बल मान"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "छिपा हुआ",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664221282417,
+        "oldValue": "",
+        "newValue": "छिपा हुआ"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "मीटर",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664220053015,
+        "oldValue": "",
+        "newValue": "मीटर"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "मीटर",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664220053015,
+        "oldValue": "",
+        "newValue": "मीटर"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "न्यूटन",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664220053015,
+        "oldValue": "",
+        "newValue": "न्यूटन"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "वैज्ञानिक संकेतन",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664221282417,
+        "oldValue": "",
+        "newValue": "वैज्ञानिक संकेतन"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1085438,
+        "timestamp": 1664221282417,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  }
+}

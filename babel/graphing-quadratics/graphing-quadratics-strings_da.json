@@ -1,0 +1,360 @@
+{
+  "a": {
+    "value": "a",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "a",
+        "explanation": null
+      }
+    ]
+  },
+  "b": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "b",
+        "explanation": null
+      }
+    ]
+  },
+  "c": {
+    "value": "c",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "c",
+        "explanation": null
+      }
+    ]
+  },
+  "h": {
+    "value": "h",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "h",
+        "explanation": null
+      }
+    ]
+  },
+  "k": {
+    "value": "k",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "k",
+        "explanation": null
+      }
+    ]
+  },
+  "p": {
+    "value": "p",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "p",
+        "explanation": null
+      }
+    ]
+  },
+  "x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "x",
+        "explanation": null
+      }
+    ]
+  },
+  "y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "y",
+        "explanation": null
+      }
+    ]
+  },
+  "coordinateUnknown": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "equations": {
+    "value": "Ligninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Ligninger",
+        "explanation": null
+      }
+    ]
+  },
+  "quadraticTerms": {
+    "value": "Ligningens komponenter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544338437588,
+        "oldValue": "",
+        "newValue": "Kaadratiske vilkår",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544338722203,
+        "oldValue": "Kaadratiske vilkår",
+        "newValue": "Kvadratiske vilkår",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544339763120,
+        "oldValue": "Kvadratiske vilkår",
+        "newValue": "Ligningens komponenter",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Opdag",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Opdag",
+        "explanation": null
+      }
+    ]
+  },
+  "coordinates": {
+    "value": "Koordinater",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Koordinater",
+        "explanation": null
+      }
+    ]
+  },
+  "directrix": {
+    "value": "Ledelinie",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544338437588,
+        "oldValue": "",
+        "newValue": "Basislinie",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544586862378,
+        "oldValue": "Basislinie",
+        "newValue": "Ledelinie",
+        "explanation": null
+      }
+    ]
+  },
+  "focus": {
+    "value": "Fokus",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Fokus",
+        "explanation": null
+      }
+    ]
+  },
+  "pointOnParabola": {
+    "value": "Punkt på parabel-kurven",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Toppunkt ",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544338437588,
+        "oldValue": "Toppunkt ",
+        "newValue": "Punkt på parabol-kurven",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544340445311,
+        "oldValue": "Punkt på parabol-kurven",
+        "newValue": "Punkt på parabel-kurven",
+        "explanation": null
+      }
+    ]
+  },
+  "vertex": {
+    "value": "Toppunkt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544338437588,
+        "oldValue": "",
+        "newValue": "Toppunkt",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.focusAndDirectrix": {
+    "value": "Fokus og ledelinie",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544338437588,
+        "oldValue": "",
+        "newValue": "Fokus og basislinje ",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544586862379,
+        "oldValue": "Fokus og basislinje ",
+        "newValue": "Fokus og ledelinie",
+        "explanation": null
+      }
+    ]
+  },
+  "axisOfSymmetry": {
+    "value": "Symmetriakse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Symmetriakser",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544340445311,
+        "oldValue": "Symmetriakser",
+        "newValue": "Symmetriakse",
+        "explanation": null
+      }
+    ]
+  },
+  "roots": {
+    "value": "Rødder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Rødder",
+        "explanation": null
+      }
+    ]
+  },
+  "noRealRoots": {
+    "value": "INGEN REELLE RØDDER",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "INGEN REELLE RØDDER",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.standardForm": {
+    "value": "Standart udseende",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Standart udseende",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.vertexForm": {
+    "value": "Toppunksnotation",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Vertexform",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544339763121,
+        "oldValue": "Vertexform",
+        "newValue": "Toppunksnotation",
+        "explanation": null
+      }
+    ]
+  },
+  "graphing-quadratics.title": {
+    "value": "Tegning af andengrads-ligninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1544253198285,
+        "oldValue": "",
+        "newValue": "Tegning af ligninger",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544338437588,
+        "oldValue": "Tegning af ligninger",
+        "newValue": "Tegning af anden-gradsligninger",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1544338722203,
+        "oldValue": "Tegning af anden-gradsligninger",
+        "newValue": "Tegning af andengrads-ligninger",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "keyboardHelpDialog.observationWindow": {
+    "value": "Novērošanas logs",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "",
+        "newValue": "Novērošanas logs"
+      }
+    ]
+  },
+  "keyboardHelpDialog.turnLightSourceOnOrOff": {
+    "value": "Ieslēgt vai izslēgt gaismas avotu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "",
+        "newValue": "Ieslēgt vai izslēgt gaismas avotu"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pauseOrPlayShortcut": {
+    "value": "Pārtraukt vai atsākt procesu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "",
+        "newValue": "Pārtraukt vai atsākt procesu"
+      }
+    ]
+  },
+  "keyboardHelpDialog.stepForwardShortcut": {
+    "value": "Kad process ir pārtraukts, ļauj pārvietoties uz nākamo procesa izpildes soli",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "",
+        "newValue": "Kad process ir pārtraukts, ļauj pārvietoties uz nākamo procesa izpildes soli"
+      }
+    ]
+  },
+  "molecules-and-light.title": {
+    "value": "Molekulas un gaisma",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Molekulas un gaisma",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularNamePattern": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.buttonCaption": {
+    "value": "Rādīt gaismas spektru",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Rādīt gaismas spektru",
+        "explanation": null
+      }
+    ]
+  },
+  "ButtonNode.ReturnMolecule": {
+    "value": "Atjaunot molekulu",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Atjaunot molekulu",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.HigherEnergy": {
+    "value": "Lielāka enerģija",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Lielāka enerģija",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Infrared": {
+    "value": "Infrasarkanā",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Infrasarkanā",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Microwave": {
+    "value": "Mikroviļņi",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Mikroviļņi",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Ultraviolet": {
+    "value": "Ultravioletā",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Ultravioletā",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Visible": {
+    "value": "Redzamā",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Redzamā",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.cyclesPerSecondUnits": {
+    "value": "Hz",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.frequencyArrowLabel": {
+    "value": "Pieaug frekvence un enerģija",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Pieaug frekvence un enerģija",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.gammaRayBandLabel": {
+    "value": "Gamma stari",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Gamma\nstari",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "Gamma\nstari",
+        "newValue": "Gamma stari"
+      }
+    ]
+  },
+  "SpectrumWindow.infraredBandLabel": {
+    "value": "Infrasarkanais starojums",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Infrasarkanā\ngaisma",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1456250940237,
+        "oldValue": "Infrasarkanā\ngaisma",
+        "newValue": "Infrasarkanais\nstarojums",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "Infrasarkanais\nstarojums",
+        "newValue": "Infrasarkanais starojums"
+      }
+    ]
+  },
+  "SpectrumWindow.metersUnits": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.microwaveBandLabel": {
+    "value": "Mikroviļņi",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Mikroviļņi",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.radioBandLabel": {
+    "value": "Radioviļņi",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Radioviļņi",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.title": {
+    "value": "Gaismas spektrs",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Gaismas spektrs",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.ultravioletBandLabel": {
+    "value": "UV\nstarojums",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Ultra-\nvioletā\ngaisma",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1456250940237,
+        "oldValue": "Ultra-\nvioletā\ngaisma",
+        "newValue": "UV\nstarojums",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.visibleBandLabel": {
+    "value": "Redzamā",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Redzamā",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.wavelengthArrowLabel": {
+    "value": "Pieaug viļņa garums",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Pieaug viļņa garumu",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1456251355864,
+        "oldValue": "Pieaug viļņa garumu",
+        "newValue": "Pieaug viļņa garums",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.xrayBandLabel": {
+    "value": "Rentgenstari",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Rentgenstari",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonDioxide": {
+    "value": "Oglekļa dioksīds",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Oglekļa dioksīds",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonMonoxide": {
+    "value": "Oglekļa monoksīds",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Oglekļa monoksīds",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Methane": {
+    "value": "Metāns",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "",
+        "newValue": "Metāns"
+      }
+    ]
+  },
+  "ControlPanel.NitrogenDioxide": {
+    "value": "Slāpekļa dioksīds",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Slāpekļa dioksīds",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Nitrogen": {
+    "value": "Slāpeklis",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Slāpeklis",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Oxygen": {
+    "value": "Skābeklis",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Skābeklis",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Ozone": {
+    "value": "Ozons",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Ozons",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Water": {
+    "value": "Ūdens",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Ūdens",
+        "explanation": null
+      }
+    ]
+  },
+  "openSciEd.energySource": {
+    "value": "Enerģija no Zemes virsmas",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1616232514015,
+        "oldValue": "",
+        "newValue": "Enerģija no Zemes virsmas"
+      }
+    ]
+  },
+  "SpectrumWindow.close": {
+    "value": "Aizvērt",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1451345178055,
+        "oldValue": "",
+        "newValue": "Aizvērt",
+        "explanation": null
+      }
+    ]
+  }
+}

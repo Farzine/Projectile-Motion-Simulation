@@ -1,0 +1,134 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669749202359,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Decimal Notation",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669755125171,
+        "oldValue": "",
+        "newValue": "Decimal Notation"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Amanyi ku {{thisObject}} ne {{otherObject}}",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669753831962,
+        "oldValue": "",
+        "newValue": "Amanyi ku {{thisObject}} ne {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Amanyi ku  {{thisObject}} ne {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669753831962,
+        "oldValue": "",
+        "newValue": "Amanyi ku  {{thisObject}} ne {{otherObject}} = {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Obungi bwamanyi",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669749202359,
+        "oldValue": "",
+        "newValue": "Obungi bwamanyi"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Kikwekedwa",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669755125171,
+        "oldValue": "",
+        "newValue": "Kikwekedwa"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "mita",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669755125171,
+        "oldValue": "",
+        "newValue": "mita"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "Mitas",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669755125171,
+        "oldValue": "",
+        "newValue": "Mitas"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newtons",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669755125171,
+        "oldValue": "",
+        "newValue": "newtons"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Okuwandiika kwekinasayansi",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669755125171,
+        "oldValue": "",
+        "newValue": "Okuwandiika kwekinasayansi"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669749202359,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "Pm",
+    "history": [
+      {
+        "userId": 972981,
+        "timestamp": 1669749202359,
+        "oldValue": "",
+        "newValue": "Pm"
+      }
+    ]
+  }
+}

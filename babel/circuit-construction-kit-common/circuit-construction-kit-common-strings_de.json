@@ -1,0 +1,1014 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "1 s"
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Wechselspannung",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Wechselstrom Spannung"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Wechselstrom Spannung",
+        "newValue": "Wechselspannung"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Reale Lampen hinzufügen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "mit echten Lampen"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "mit echten Lampen",
+        "newValue": "Reale Lampen hinzufügen"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Fortgeschritten",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "für Fortgeschrittene"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "für Fortgeschrittene",
+        "newValue": "Fortgeschritten"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Amperemeter",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Ampere Meter",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614698440602,
+        "oldValue": "Ampere Meter",
+        "newValue": "Amperemeter"
+      },
+      {
+        "userId": 920037,
+        "timestamp": 1640510399112,
+        "oldValue": "Amperemeter",
+        "newValue": ""
+      },
+      {
+        "userId": 920037,
+        "timestamp": 1640510472168,
+        "oldValue": "",
+        "newValue": "Amperemeter"
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Amperemeter-Anzeige",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1640510399112,
+        "oldValue": "",
+        "newValue": "Amperemeter-Anzeige"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Amperemeter",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Ampere Meter",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614698440602,
+        "oldValue": "Ampere Meter",
+        "newValue": "Amperemeter"
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Maximale Animationsgeschwindigkeit erreicht! Geschwindigkeit reduziert auf {{percent}}%.",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Animation kann nicht schneller - Geschwindigkeit reduziert auf {{percent}}%.",
+        "explanation": null
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Animation kann nicht schneller - Geschwindigkeit reduziert auf {{percent}}%.",
+        "newValue": "Maximale Animationsgeschwindigkeit erreicht! Geschwindigkeit reduziert auf {{percent}}%."
+      }
+    ]
+  },
+  "battery": {
+    "value": "Batterie",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Batterie",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Batterie-Innenwiderstand",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Batterie Innenwiderstand",
+        "explanation": null
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Batterie Innenwiderstand",
+        "newValue": "Batterie-Innenwiderstand"
+      }
+    ]
+  },
+  "british": {
+    "value": "britisch",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1640510399112,
+        "oldValue": "",
+        "newValue": "britisch"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Kapazität",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Kapazität"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Kondensator",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Kapazität"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Kapazität",
+        "newValue": "Kondensator"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Münze",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Münze",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "konventionell",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "konventionell",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Stromstärke",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Strom",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "Strom",
+        "newValue": "Stromstärke"
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Stromstärke [A]",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Stromstärke [A]"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Stromstärke-Diagramm",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Stromstärke Diagramm"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Stromstärke Diagramm",
+        "newValue": "Stromstärke-Diagramm"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Nennstrom",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Nennstrom"
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614698590725,
+        "oldValue": "Nennstrom",
+        "newValue": "max. Stromstärke"
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614755634766,
+        "oldValue": "max. Stromstärke",
+        "newValue": "Nennstrom"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Außerhalb des Bereichs",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1640510399112,
+        "oldValue": "",
+        "newValue": "Außerhalb des Bereichs"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Hund",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Hund",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Geldschein",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Geldschein",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektronen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Elektronen",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Radierer",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Radierer",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frequenz",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Frequenz"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Sicherung",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Sicherung"
+      }
+    ]
+  },
+  "hand": {
+    "value": "Hand",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Hand",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Induktivität",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Induktivität"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Induktor",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Induktivität"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Induktivität",
+        "newValue": "Induktor"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Beschriftungen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Beschriftungen",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Glühlampe",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Licht",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "Licht",
+        "newValue": "Lampe"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Lampe",
+        "newValue": "Glühlampe"
+      }
+    ]
+  },
+  "lots": {
+    "value": "viel",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "viel",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Betrag",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1640510399112,
+        "oldValue": "",
+        "newValue": "Betrag"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Büroklammer",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Büroklammer",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Stift",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Stift",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Phasenverschiebung",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Phasenverschiebung"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Widerstand",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Widerstand",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Widerstand",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Widerstand",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Schaltsymbole gemäss ...",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Standarad Schema"
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614698440602,
+        "oldValue": "Standarad Schema",
+        "newValue": "Schaltsymbole gemäss ..."
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Strom anzeigen",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Strom anzeigen",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "Mit Vorzeichen",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1640510399113,
+        "oldValue": "",
+        "newValue": "Mit Vorzeichen"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Quellenwiderstand",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Widerstand"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Widerstand",
+        "newValue": "Quellenwiderstand"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Stoppuhr",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Stopppuhr"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Stopppuhr",
+        "newValue": "Stoppuhr"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Schalter",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Schalter",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Schaltelement zum Ändern antippen.",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "antippen zum ändern",
+        "explanation": null
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "antippen zum ändern",
+        "newValue": "Schaltelement zum Ändern antippen."
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Der Schalter ist geschlossen.",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Schalter geschlossen",
+        "explanation": null
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Schalter geschlossen",
+        "newValue": "Der Schalter ist geschlossen."
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Der Schalter ist offen.",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Schalter offen",
+        "explanation": null
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Schalter offen",
+        "newValue": "Der Schalter ist offen."
+      }
+    ]
+  },
+  "time": {
+    "value": "Zeit",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Zeit"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "winzig",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "winzig",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Werte",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Werte",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Spannung",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Spannung",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Spannung [V]",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Spannung [V]"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Spannungsdiagramm",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Spannung Diagramm"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659529,
+        "oldValue": "Spannung Diagramm",
+        "newValue": "Spannungsdiagramm"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmeter",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Voltmeter",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Draht",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Draht",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Drahtwiderstand",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "Draht Widerstand",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1614698440602,
+        "oldValue": "Draht Widerstand",
+        "newValue": "Drahtwiderstand"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": " {{frequency}} Hz"
+      },
+      {
+        "userId": 920037,
+        "timestamp": 1696572933034,
+        "oldValue": " {{frequency}} Hz",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": " {{resistance}} H"
+      },
+      {
+        "userId": 920037,
+        "timestamp": 1696572933034,
+        "oldValue": " {{resistance}} H",
+        "newValue": "{{resistance}} H",
+        "explanation": null
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} Ohm",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659529,
+        "oldValue": "{{resistance}} ohm",
+        "newValue": "{{resistance}} Ohm"
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} Volt",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "{{voltage}} volt",
+        "explanation": null
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659529,
+        "oldValue": "{{voltage}} volt",
+        "newValue": "{{voltage}} Volt"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Reale Lampe",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1614521182574,
+        "oldValue": "",
+        "newValue": "Echte Lampe"
+      },
+      {
+        "userId": 446279,
+        "timestamp": 1614712659528,
+        "oldValue": "Echte Lampe",
+        "newValue": "Reale Lampe"
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} ohm",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1510270438022,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      }
+    ]
+  }
+}

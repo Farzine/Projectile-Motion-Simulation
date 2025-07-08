@@ -1,0 +1,6378 @@
+{
+  "af": {
+    "calculation": {
+      "value": "Berekening"
+    },
+    "area": {
+      "value": "Oppervlak"
+    },
+    "areaModelCalculation": {
+      "value": "Oppervlakmodel Berekening"
+    },
+    "dimensions": {
+      "value": "Dimensies"
+    },
+    "factors": {
+      "value": "Faktore"
+    },
+    "partialProducts": {
+      "value": "Gedeeltelike Produk"
+    },
+    "product": {
+      "value": "Produk"
+    },
+    "totalAreaOfModel": {
+      "value": "Totale oppervlak van Model"
+    },
+    "partition": {
+      "value": "Verdeling"
+    },
+    "screen.explore": {
+      "value": "Ontdek"
+    },
+    "enter": {
+      "value": "Bereken"
+    },
+    "screen.generic": {
+      "value": "Generies"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Bereken die gedeeltelike produk en sylengte."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Bereken die gedeeltelike produk."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Bereken die gedeeltelike produk en somtotaal van die oppervlak."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Bereken die sylengtes."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Bereken die totale oppervlak."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Bereken die sylengtes."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Bereken die gedeeltelike produkte."
+    },
+    "screen.game": {
+      "value": "Speletjie"
+    },
+    "screen.variables": {
+      "value": "Veranderlikes"
+    },
+    "screen.decimals": {
+      "value": "Desimale"
+    },
+    "screen.multiply": {
+      "value": "Vermenigvuldig"
+    },
+    "screen.partition": {
+      "value": "Partisie"
+    }
+  },
+  "am": {
+    "area": {
+      "value": "ስፋት"
+    },
+    "areaModelCalculation": {
+      "value": "የስፋት ሞዴል ስሌት "
+    },
+    "calculation": {
+      "value": "ስሌት"
+    },
+    "dimensions": {
+      "value": "ልኬቶች "
+    },
+    "factors": {
+      "value": "አብዢዎች "
+    },
+    "screen.multiply": {
+      "value": "አባዛ"
+    },
+    "partialProducts": {
+      "value": "ከፊል ብዜቶች "
+    },
+    "partition": {
+      "value": "ክፍልፍል"
+    },
+    "screen.partition": {
+      "value": "ክፍልፍል"
+    },
+    "product": {
+      "value": "ብዜት "
+    },
+    "totalAreaOfModel": {
+      "value": "የስፋት ሞዴል ጠቅላላ ስፋት "
+    },
+    "enter": {
+      "value": "አስገባ/ቢ"
+    },
+    "screen.explore": {
+      "value": "መርምር/ሪ"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "ከፊል ብዜቱን እና የጎን ርዝመቱን ፈልግ/ጊ"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "ከፊል ብዜቱን እና ጠቅላላ ስፋቱ ፈልግ/ጊ"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "ከፊል ብዜቱን ፈልግ/ጊ"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "ከፊል ብዜቶቹን ፈልግ/ጊ"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "የጎን ርዝመቱን ፈልግ/ጊ"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "የጎን ርዝመቱን ፈልግ/ጊ"
+    },
+    "levelPrompt.totalArea": {
+      "value": "ጠቅላላ ስፋቱን ፈልግ/ጊ"
+    },
+    "screen.game": {
+      "value": "ጨዋታ"
+    },
+    "screen.generic": {
+      "value": "አጠቃላይ"
+    },
+    "screen.variables": {
+      "value": "ተለዋዋጭ"
+    },
+    "screen.decimals": {
+      "value": "አስርዮሻዊ "
+    }
+  },
+  "ar": {
+    "area": {
+      "value": "المساحة"
+    },
+    "areaModelCalculation": {
+      "value": "حساب مساحة النموذج"
+    },
+    "calculation": {
+      "value": "حساب"
+    },
+    "dimensions": {
+      "value": "الأبعاد"
+    },
+    "enter": {
+      "value": "أدخل"
+    },
+    "screen.explore": {
+      "value": "ابحث"
+    },
+    "factors": {
+      "value": "العوامل"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "أوجد الناتج الجزئي و طول الجانب"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "أوجد الناتج الجزئي و المساحة الكلية"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "أوجد الناتج الجزئي "
+    },
+    "levelPrompt.twoProducts": {
+      "value": "أوجد النواتج الجزئية"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "أوجد أطوال الجانب"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "أوجد أطوال الجانب"
+    },
+    "levelPrompt.totalArea": {
+      "value": "أوجد المساحة الكلية"
+    },
+    "screen.game": {
+      "value": "لعبة"
+    },
+    "screen.generic": {
+      "value": "عام"
+    },
+    "partialProducts": {
+      "value": "نواتج جزئية"
+    },
+    "partition": {
+      "value": "القسمة"
+    },
+    "product": {
+      "value": "ناتج"
+    },
+    "totalAreaOfModel": {
+      "value": "المساحة الكلية لنموذج"
+    },
+    "screen.variables": {
+      "value": "المتغيرات"
+    },
+    "screen.decimals": {
+      "value": "الكسور العشرية"
+    },
+    "screen.multiply": {
+      "value": "الضرب"
+    },
+    "screen.partition": {
+      "value": "القسمة"
+    }
+  },
+  "ar_LY": {
+    "screen.explore": {
+      "value": "استكشاف"
+    },
+    "screen.generic": {
+      "value": "عامة"
+    },
+    "screen.variables": {
+      "value": "المتغيرات"
+    },
+    "screen.game": {
+      "value": "لعبة"
+    },
+    "partition": {
+      "value": "تقسيم"
+    },
+    "dimensions": {
+      "value": "أبعاد"
+    },
+    "totalAreaOfModel": {
+      "value": "المساحة الكلية للنموذج"
+    },
+    "partialProducts": {
+      "value": "المنتجات الجزئية"
+    },
+    "areaModelCalculation": {
+      "value": "حساب نموذج المساحة"
+    },
+    "factors": {
+      "value": "عوامل"
+    },
+    "product": {
+      "value": "منتج"
+    },
+    "levelPrompt.totalArea": {
+      "value": "أوجد المساحة الإجمالية."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "العثور على المنتج الجزئي."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "البحث عن المنتجات الجزئية."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "إيجاد حاصل الضرب الجزئي والمساحة الكلية."
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "إيجاد حاصل الضرب الجزئي وطول الضلع."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "إيجاد أطوال الأضلاع."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "إيجاد أطوال الأضلاع."
+    },
+    "enter": {
+      "value": "يدخل"
+    },
+    "calculation": {
+      "value": "حساب"
+    },
+    "area": {
+      "value": "منطقة"
+    },
+    "screen.decimals": {
+      "value": "الأعداد العشرية"
+    },
+    "screen.multiply": {
+      "value": "ضرب"
+    },
+    "screen.partition": {
+      "value": "تقسيم"
+    }
+  },
+  "ar_MA": {
+    "area": {
+      "value": "المساحة"
+    },
+    "areaModelCalculation": {
+      "value": "حساب المساحة"
+    },
+    "calculation": {
+      "value": "الحساب"
+    },
+    "dimensions": {
+      "value": "الأبعاد"
+    },
+    "enter": {
+      "value": "تأكيد"
+    },
+    "screen.explore": {
+      "value": "لنكتشف"
+    },
+    "factors": {
+      "value": "معاملات"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "أوجد حاصل الضرب الجزئي وطول الضلع."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "أوجد حاصل الضرب الجزئي والمساحة الكلية."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "أوجد حاصل الضرب الجزئي."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "أوجد حاصلات الضرب الجزئية."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "أوجد طول الأضلاع."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "أوجد طول الأضلاع."
+    },
+    "levelPrompt.totalArea": {
+      "value": "أوجد المساحة الاجمالية"
+    },
+    "screen.game": {
+      "value": "لعبة حساب مساحة"
+    },
+    "screen.generic": {
+      "value": "تطبيقات شاملة"
+    },
+    "partialProducts": {
+      "value": "حاصل الضرب الجزئي"
+    },
+    "partition": {
+      "value": "القسمة"
+    },
+    "product": {
+      "value": "تقسيم"
+    },
+    "totalAreaOfModel": {
+      "value": "المساحة الاجمالية"
+    },
+    "screen.multiply": {
+      "value": "الجداء"
+    },
+    "screen.partition": {
+      "value": "القسمة"
+    },
+    "screen.variables": {
+      "value": "المتغيرات"
+    },
+    "screen.decimals": {
+      "value": "الجزء العشري"
+    }
+  },
+  "ay": {
+    "area": {
+      "value": "Sahə"
+    },
+    "areaModelCalculation": {
+      "value": "Sahə modeli ilə hesablama"
+    },
+    "calculation": {
+      "value": "Hesablama"
+    },
+    "dimensions": {
+      "value": "Ölçülər"
+    },
+    "factors": {
+      "value": "Faktorlar"
+    },
+    "screen.multiply": {
+      "value": "ədədləri çoxaltmaq (vurmaq)"
+    },
+    "partialProducts": {
+      "value": "Qismən vurmalar"
+    },
+    "partition": {
+      "value": "Bölmə"
+    },
+    "screen.partition": {
+      "value": "Bölmə"
+    },
+    "product": {
+      "value": "Məhsul"
+    },
+    "totalAreaOfModel": {
+      "value": "Modelin ümumi sahəsi"
+    }
+  },
+  "az": {
+    "area": {
+      "value": "Sahə"
+    },
+    "areaModelCalculation": {
+      "value": "Sahə modeli ilə hesablama"
+    },
+    "calculation": {
+      "value": "Hesablama"
+    },
+    "dimensions": {
+      "value": "Ölçülər"
+    },
+    "factors": {
+      "value": "Faktorlar"
+    },
+    "screen.multiply": {
+      "value": "çarpın"
+    },
+    "partialProducts": {
+      "value": "Qismən vurmalar"
+    },
+    "partition": {
+      "value": "Bölmə"
+    },
+    "screen.partition": {
+      "value": "Bölmə"
+    },
+    "product": {
+      "value": "Məhsul"
+    },
+    "totalAreaOfModel": {
+      "value": "Modelin ümumi sahəsi"
+    },
+    "enter": {
+      "value": "Daxil edin"
+    },
+    "screen.explore": {
+      "value": "Araşdır"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Qismən vurmaları və yan uzunluqları tapın."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Qismən vurmaları və ümumi sahəni tapın."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Qismən vurmaları tapın."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Qismən vurmaları tapın."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Yan uzunluqları tapın."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Yan uzunluqları tapın."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Ümumi sahəni\r\n\r\n  tapın."
+    },
+    "screen.game": {
+      "value": "Oyun"
+    },
+    "screen.generic": {
+      "value": "ümumi"
+    },
+    "screen.decimals": {
+      "value": "onluq ədədlər"
+    },
+    "screen.variables": {
+      "value": "Dəyişənlər"
+    }
+  },
+  "bg": {
+    "calculation": {
+      "value": "Изчисление"
+    },
+    "area": {
+      "value": "Площ"
+    },
+    "areaModelCalculation": {
+      "value": "Изчисление на площ"
+    },
+    "dimensions": {
+      "value": "Размери"
+    },
+    "factors": {
+      "value": "Коефициенти"
+    },
+    "partialProducts": {
+      "value": "Отделни части"
+    },
+    "totalAreaOfModel": {
+      "value": "Обща площ на модела"
+    },
+    "partition": {
+      "value": "Деление"
+    },
+    "screen.explore": {
+      "value": "Изследване"
+    },
+    "enter": {
+      "value": "Въведи"
+    },
+    "screen.generic": {
+      "value": "Общи положения"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Намерете частичното произведение и дължината на страната."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Намерете отделните части."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Намерете площта на отделните части."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Намерете дължината на страните."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Намере общата площ."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Намерете дължината на страните."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Намерете отделните части."
+    },
+    "screen.game": {
+      "value": "Игра"
+    },
+    "screen.variables": {
+      "value": "Променливи"
+    },
+    "screen.decimals": {
+      "value": "Десетични знаци"
+    },
+    "screen.multiply": {
+      "value": "Умножение"
+    },
+    "screen.partition": {
+      "value": "Пропорции"
+    }
+  },
+  "bn": {
+    "area": {
+      "value": "ক্ষেত্রফল "
+    },
+    "areaModelCalculation": {
+      "value": "এরিয়া মডেল হিসাব "
+    },
+    "calculation": {
+      "value": "হিসাব "
+    },
+    "dimensions": {
+      "value": "মাত্রা "
+    },
+    "enter": {
+      "value": "প্রবেশ "
+    },
+    "screen.explore": {
+      "value": "অন্বেষণ কর "
+    },
+    "factors": {
+      "value": "উৎপাদক "
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "আংশিক গুনন এবংবাহুর দৈর্ঘ্য  বের কর "
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "আংশিক গুনন এবং মোট ক্ষেত্রফল বের কর "
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "আংশিক গুনন বের কর "
+    },
+    "levelPrompt.twoProducts": {
+      "value": "আংশিক গুনন বের কর "
+    },
+    "levelPrompt.threeLengths": {
+      "value": "বাহুর দৈর্ঘ্য বের কর "
+    },
+    "levelPrompt.twoLengths": {
+      "value": "বাহুর দৈর্ঘ্য বের কর "
+    },
+    "levelPrompt.totalArea": {
+      "value": "মোট ক্ষেত্রফল বের কর "
+    },
+    "screen.game": {
+      "value": "গেম "
+    },
+    "screen.generic": {
+      "value": "শ্রেণী "
+    },
+    "partialProducts": {
+      "value": "আংশিক  প্রোডাক্ট "
+    },
+    "partition": {
+      "value": "পৃথক "
+    },
+    "product": {
+      "value": "প্রোডাক্ট "
+    },
+    "totalAreaOfModel": {
+      "value": "মডেলের  মোট ক্ষেত্রফল "
+    },
+    "screen.multiply": {
+      "value": "গুনন "
+    },
+    "screen.partition": {
+      "value": "পৃথক "
+    }
+  },
+  "bs": {
+    "area": {
+      "value": "Površina"
+    },
+    "areaModelCalculation": {
+      "value": "Izračunavanje površine"
+    },
+    "calculation": {
+      "value": "Izračunavanje"
+    },
+    "dimensions": {
+      "value": "Dimenzije"
+    },
+    "factors": {
+      "value": "Činioci"
+    },
+    "screen.multiply": {
+      "value": "Množenje"
+    },
+    "partialProducts": {
+      "value": "Djelimični proizvod"
+    },
+    "screen.partition": {
+      "value": "Podjela"
+    },
+    "partition": {
+      "value": "Podjela"
+    },
+    "product": {
+      "value": "Proizvod"
+    },
+    "totalAreaOfModel": {
+      "value": "Ukupna površina"
+    },
+    "screen.decimals": {
+      "value": "Decimalni brojevi"
+    },
+    "enter": {
+      "value": "Unesi"
+    },
+    "screen.explore": {
+      "value": "Istraži"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Izračunaj djelimični proizvod i dužinu stranice"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Izračunaj djelimični proizvod i ukupnu površinu"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Izračunaj djelimični proizvod"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Izračunaj djelimične proizvode"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Izračunaj dužinu stranice"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Izračunaj dužine stranica"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Izračunaj ukupnu površinu"
+    },
+    "screen.game": {
+      "value": "Igra"
+    },
+    "screen.generic": {
+      "value": "Opšte"
+    },
+    "screen.variables": {
+      "value": "Promjenljive"
+    }
+  },
+  "ca": {
+    "area": {
+      "value": "Àrea"
+    },
+    "areaModelCalculation": {
+      "value": "Càlcul del model d'àrea"
+    },
+    "calculation": {
+      "value": "Càlcul"
+    },
+    "screen.decimals": {
+      "value": "Decimals"
+    },
+    "dimensions": {
+      "value": "Dimensions"
+    },
+    "factors": {
+      "value": "Factors"
+    },
+    "partialProducts": {
+      "value": "Productes parcials"
+    },
+    "partition": {
+      "value": "Partició"
+    },
+    "product": {
+      "value": "Producte"
+    },
+    "totalAreaOfModel": {
+      "value": "Àrea total del model"
+    },
+    "enter": {
+      "value": "Introdueix"
+    },
+    "screen.explore": {
+      "value": "Explora"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Troba el producte parcial i la longitud del costat."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Troba el producte parcial i l'àrea total."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Troba el producte parcial."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Troba els productes parcials."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Troba les longituds dels costats."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Troba les longituds dels costats."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Troba l'àrea total."
+    },
+    "screen.game": {
+      "value": "Joc"
+    },
+    "screen.generic": {
+      "value": "Genèric"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    },
+    "screen.multiply": {
+      "value": "Multiplica"
+    },
+    "screen.partition": {
+      "value": "Partició"
+    }
+  },
+  "cs": {
+    "area": {
+      "value": "Plocha"
+    },
+    "areaModelCalculation": {
+      "value": "Modelové výpočty plochy"
+    },
+    "calculation": {
+      "value": "Výpočet"
+    },
+    "screen.decimals": {
+      "value": "Desetinná čísla"
+    },
+    "dimensions": {
+      "value": "Rozměry"
+    },
+    "factors": {
+      "value": "Faktory"
+    },
+    "partialProducts": {
+      "value": "Dílčí součiny"
+    },
+    "partition": {
+      "value": "Rozklad"
+    },
+    "product": {
+      "value": "Součin"
+    },
+    "totalAreaOfModel": {
+      "value": "Celková plocha modelu"
+    },
+    "screen.explore": {
+      "value": "Prozkoumat"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Najdi dílčí součin a délku strany."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Najdi dílčí součin a celkovou plochu."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Najdi dílčí součin."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Najdi dílčí součiny."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Najdi délky stran."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Najdi délky stran."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Najdi celkovou plochu."
+    },
+    "screen.game": {
+      "value": "Hra"
+    },
+    "screen.generic": {
+      "value": "Obecně"
+    },
+    "screen.variables": {
+      "value": "Proměnné"
+    },
+    "screen.multiply": {
+      "value": "Násobení"
+    },
+    "screen.partition": {
+      "value": "Rozklad"
+    }
+  },
+  "da": {
+    "area": {
+      "value": "Areal"
+    },
+    "areaModelCalculation": {
+      "value": "Areal modelberegning"
+    },
+    "calculation": {
+      "value": "Beregning"
+    },
+    "dimensions": {
+      "value": "Dimensioner"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Opdag"
+    },
+    "factors": {
+      "value": "Faktorer"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Find delprodukt og sidelængde."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Find delprodukt og totalt areal."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Find delproduktet."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Find delprodukterne."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Find sidelængderne."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Find sidelængderne."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Find det totale areal."
+    },
+    "screen.game": {
+      "value": "Spil"
+    },
+    "screen.generic": {
+      "value": "Generelt"
+    },
+    "partialProducts": {
+      "value": "Partielle produkter"
+    },
+    "partition": {
+      "value": "Skillevæg"
+    },
+    "product": {
+      "value": "Produkt"
+    },
+    "totalAreaOfModel": {
+      "value": "Totalt areal af model"
+    },
+    "screen.multiply": {
+      "value": "Gange"
+    },
+    "screen.partition": {
+      "value": "Opdeling"
+    },
+    "screen.variables": {
+      "value": "Variabler"
+    },
+    "screen.decimals": {
+      "value": "Decimaler"
+    }
+  },
+  "de": {
+    "area": {
+      "value": "Fläche"
+    },
+    "areaModelCalculation": {
+      "value": "Fläche Modell Berechnung"
+    },
+    "calculation": {
+      "value": "Berechnung"
+    },
+    "dimensions": {
+      "value": "Dimensionen"
+    },
+    "enter": {
+      "value": "Eingabe"
+    },
+    "screen.explore": {
+      "value": "so funktioniert's"
+    },
+    "factors": {
+      "value": "Faktoren"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Teilprodukt und Seitenlänge ermitteln"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Teilprodukt und Gesamtfläche ermittlen"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Teilprodukt ermitteln"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Teilprodukte ermitteln"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Seitenlängen ermittlen"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Seitnenlängen ermitteln"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Gesamtfläche ermittlen"
+    },
+    "screen.game": {
+      "value": "Spiel"
+    },
+    "screen.generic": {
+      "value": "zum Auffüllen"
+    },
+    "partialProducts": {
+      "value": "Teilprodukte"
+    },
+    "partition": {
+      "value": "Unterteilung"
+    },
+    "product": {
+      "value": "Produkt"
+    },
+    "totalAreaOfModel": {
+      "value": "Gesamtfläche des Modells"
+    },
+    "screen.variables": {
+      "value": "mit Variablen"
+    },
+    "screen.multiply": {
+      "value": "Multiplikation"
+    },
+    "screen.partition": {
+      "value": "Unterteilung"
+    },
+    "screen.decimals": {
+      "value": "Dezimalen"
+    }
+  },
+  "el": {
+    "area": {
+      "value": "Εμβαδόν"
+    },
+    "areaModelCalculation": {
+      "value": "Υπολογισμός εμβαδού του σχήματος"
+    },
+    "calculation": {
+      "value": "Υπολογισμός"
+    },
+    "dimensions": {
+      "value": "Διαστάσεις"
+    },
+    "enter": {
+      "value": "Καταχώρηση"
+    },
+    "screen.explore": {
+      "value": "Εξερεύνηση"
+    },
+    "factors": {
+      "value": "Παράγοντες"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Βρείτε το μερικό γινόμενο και το μήκος της πλευράς."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Βρείτε το μερικό γινόμενο και το συνολικό εμβαδόν."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Βρείτε το μερικό γινόμενο."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Βρείτε το μερικό γινόμενο."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Βρείτε τα μήκη των πλευρών."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Βρείτε τα μήκη των πλευρών."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Βρείτε το συνολικό εμβαδόν."
+    },
+    "screen.game": {
+      "value": "Παιχνίδι"
+    },
+    "screen.generic": {
+      "value": "Γενικά"
+    },
+    "partialProducts": {
+      "value": "Μερικά γινόμενα"
+    },
+    "partition": {
+      "value": "Διαχωρίζω"
+    },
+    "product": {
+      "value": "Εμβαδόν"
+    },
+    "totalAreaOfModel": {
+      "value": "Συνολικό εμβαδόν σχήματος"
+    },
+    "screen.variables": {
+      "value": "Μεταβλητές"
+    },
+    "screen.multiply": {
+      "value": "Πολλαπλασιάζω"
+    },
+    "screen.partition": {
+      "value": "Διαχωρίζω"
+    },
+    "screen.decimals": {
+      "value": "Δεκαδικοί"
+    }
+  },
+  "es": {
+    "area": {
+      "value": "Área"
+    },
+    "areaModelCalculation": {
+      "value": "Cálculos del Modelo de Áreas"
+    },
+    "calculation": {
+      "value": "Cálculos"
+    },
+    "dimensions": {
+      "value": "Dimensiones"
+    },
+    "factors": {
+      "value": "Factores"
+    },
+    "screen.multiply": {
+      "value": "Multiplicación "
+    },
+    "partialProducts": {
+      "value": "Productos parciales"
+    },
+    "screen.partition": {
+      "value": "Partición"
+    },
+    "partition": {
+      "value": "Partición"
+    },
+    "product": {
+      "value": "Producto"
+    },
+    "totalAreaOfModel": {
+      "value": "Área total"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Explorar"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Encuentra el producto parcial y la longitud del lado."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Encuentra el producto parcial y el área total. "
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Encuentra el producto parcial."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Encuentra los productos parciales."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Encuentra la longitud de los lados."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Encuentra la longitud de los lados."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Encuentra el área total."
+    },
+    "screen.game": {
+      "value": "Juego"
+    },
+    "screen.generic": {
+      "value": "Genérico"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    },
+    "screen.decimals": {
+      "value": "Decimales"
+    }
+  },
+  "es_MX": {
+    "area": {
+      "value": "Área"
+    },
+    "areaModelCalculation": {
+      "value": "Cálculos del Modelo de Áreas"
+    },
+    "calculation": {
+      "value": "Cálculos "
+    },
+    "dimensions": {
+      "value": "Dimensiones "
+    },
+    "factors": {
+      "value": "Factores"
+    },
+    "screen.multiply": {
+      "value": "Multiplicación"
+    },
+    "partialProducts": {
+      "value": "Productos parciales "
+    },
+    "screen.partition": {
+      "value": "Partición "
+    },
+    "partition": {
+      "value": "Partición"
+    },
+    "product": {
+      "value": "Producto "
+    },
+    "totalAreaOfModel": {
+      "value": "Área total"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Explorar"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Encuentra el producto parcial y la longitud del lado."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Encuentra el producto parcial y el área total."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Encuentra el producto parcial."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Encuentra los productor parciales."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Encuentra la longitud de los lados."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Encuentra la longitud de los lados."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Encuentra el área total"
+    },
+    "screen.game": {
+      "value": "Juego"
+    },
+    "screen.generic": {
+      "value": "Genérico"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    }
+  },
+  "es_PE": {
+    "area": {
+      "value": "Área"
+    },
+    "areaModelCalculation": {
+      "value": "Cálculo del modelo de Área"
+    },
+    "calculation": {
+      "value": "Cálculo"
+    },
+    "screen.decimals": {
+      "value": "Decimales"
+    },
+    "dimensions": {
+      "value": "Dimensiones"
+    },
+    "factors": {
+      "value": "Factores"
+    },
+    "partialProducts": {
+      "value": "Productos parciales"
+    },
+    "partition": {
+      "value": "Partición"
+    },
+    "product": {
+      "value": "Producto"
+    },
+    "totalAreaOfModel": {
+      "value": "Área total del modelo"
+    },
+    "enter": {
+      "value": "Ingresa"
+    },
+    "screen.explore": {
+      "value": "Explora"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Encuentra el producto parcial y la longitud del lado."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Encuentra el producto parcial y el área total."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Encuentra los productos parciales."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Encuentra los productos parciales."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Encuentra las longitudes de los lados."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Encuentra las longitudes de los lados."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Encuentra el área total."
+    },
+    "screen.game": {
+      "value": "Juego"
+    },
+    "screen.generic": {
+      "value": "Genérico"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    },
+    "screen.multiply": {
+      "value": "Multiplicar"
+    },
+    "screen.partition": {
+      "value": "Partición"
+    }
+  },
+  "eu": {
+    "area": {
+      "value": "Azalera"
+    },
+    "areaModelCalculation": {
+      "value": "Modeluaren azalera kalkulatu"
+    },
+    "calculation": {
+      "value": "Kalkulatu"
+    },
+    "dimensions": {
+      "value": "Dimentsioak"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Esploratu"
+    },
+    "factors": {
+      "value": "Biderkagaiak"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Aurkitu biderkadura partziala eta aldeen luzera"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Aurkitu biderkadura partziala eta azalera guztia"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Aurkitu biderkadura partziala"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Aurkitu biderkadura partzialak"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Aurkitu aldeen luzerak"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Aurkitu aldeen luzera"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Aurkitu azalera guztia"
+    },
+    "screen.game": {
+      "value": "Jolasa"
+    },
+    "screen.generic": {
+      "value": "Generikoa"
+    },
+    "partialProducts": {
+      "value": "Zatien biderkadurak"
+    },
+    "partition": {
+      "value": "Zatiketa"
+    },
+    "product": {
+      "value": "Biderkadura"
+    },
+    "totalAreaOfModel": {
+      "value": "Modeloaren azalera guztia"
+    },
+    "screen.variables": {
+      "value": "Aldagaiak"
+    },
+    "screen.decimals": {
+      "value": "Hamartarrak"
+    },
+    "screen.multiply": {
+      "value": "Biderketa"
+    },
+    "screen.partition": {
+      "value": "Zatiketa"
+    }
+  },
+  "fa": {
+    "area": {
+      "value": "مساحت"
+    },
+    "areaModelCalculation": {
+      "value": "محاسبۀ مدل مساحت"
+    },
+    "calculation": {
+      "value": "محاسبه"
+    },
+    "screen.decimals": {
+      "value": "اعشار"
+    },
+    "dimensions": {
+      "value": "ابعاد"
+    },
+    "factors": {
+      "value": "فاکتورها"
+    },
+    "partialProducts": {
+      "value": "حاصل ضربهای جزئی"
+    },
+    "partition": {
+      "value": "بخش بندی"
+    },
+    "product": {
+      "value": "محصول"
+    },
+    "totalAreaOfModel": {
+      "value": "مساحت کل مدل"
+    },
+    "enter": {
+      "value": "وارد کن"
+    },
+    "screen.explore": {
+      "value": "کاوش"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "حاصل ضرب جزئی و طول جانبی را پیدا کن."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "حاصل ضرب جزئی و مساحت کل را پیدا کن."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "حاصل ضرب جزئی را پیدا کن."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "حاصل ضرب های جزئی را پیدا کن."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "طول های جانبی را پیدا کن."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "طول های جانبی را پیدا کن."
+    },
+    "levelPrompt.totalArea": {
+      "value": "مساحت کل را پیدا کن."
+    },
+    "screen.game": {
+      "value": "بازی"
+    },
+    "screen.generic": {
+      "value": "عمومی"
+    },
+    "screen.variables": {
+      "value": "متغیرها"
+    },
+    "screen.multiply": {
+      "value": "ضرب"
+    },
+    "screen.partition": {
+      "value": "بخش بندی"
+    }
+  },
+  "fa_DA": {
+    "screen.explore": {
+      "value": "تحقیق"
+    },
+    "screen.generic": {
+      "value": "عمومی"
+    },
+    "screen.variables": {
+      "value": "متحولین"
+    },
+    "screen.game": {
+      "value": "بازی"
+    },
+    "partition": {
+      "value": "بخش بندی"
+    },
+    "dimensions": {
+      "value": "ابعاد"
+    },
+    "totalAreaOfModel": {
+      "value": "مساحت کلی مدل"
+    },
+    "partialProducts": {
+      "value": "حاصل ضرب‌های قسمی"
+    },
+    "areaModelCalculation": {
+      "value": "محاسبه مساحت مدل الجبری"
+    },
+    "factors": {
+      "value": "فاکتورها"
+    },
+    "product": {
+      "value": "حاصل ضرب"
+    },
+    "levelPrompt.totalArea": {
+      "value": "مساحت کلی را پیدا کنید."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "حاصل ضرب قسمی را پیدا کنید."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "حاصل ضرب های قسمی را پیدا کنید."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "حاصل ضرب قسمی و طول جانبی را پیدا کنید."
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "طول های جانبی را پیدا کنید."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "طول های جانبی را پیدا کنید."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "طول های جانبی را پیدا کنید."
+    },
+    "enter": {
+      "value": "وارد کنید"
+    },
+    "calculation": {
+      "value": "محاسبه کنید!"
+    },
+    "area": {
+      "value": "مساحت"
+    },
+    "screen.decimals": {
+      "value": "اعشار"
+    },
+    "screen.multiply": {
+      "value": "ضرب"
+    },
+    "screen.partition": {
+      "value": "بخش بندی"
+    }
+  },
+  "fi": {
+    "area": {
+      "value": "Pinta-ala"
+    },
+    "areaModelCalculation": {
+      "value": "Pinta-alamallilla laskeminen"
+    },
+    "calculation": {
+      "value": "Laskeminen"
+    },
+    "dimensions": {
+      "value": "Mitat"
+    },
+    "factors": {
+      "value": "Tekijät"
+    },
+    "screen.multiply": {
+      "value": "Kertominen"
+    },
+    "partialProducts": {
+      "value": "Osatulot"
+    },
+    "screen.partition": {
+      "value": "Osittelu"
+    },
+    "partition": {
+      "value": "Osittelu"
+    },
+    "product": {
+      "value": "Tulo"
+    },
+    "totalAreaOfModel": {
+      "value": "Mallin kokonaispinta-ala"
+    },
+    "enter": {
+      "value": "Syötä"
+    },
+    "screen.explore": {
+      "value": "Tutki"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Määritä osatulo ja sivun pituus."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Määritä osatulo ja kokonaispinta-ala."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Määritä osatulo."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Määritä osatulot."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Määritä sivujen pituudet."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Määritä sivujen pituudet."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Määritä kokonaispinta-ala."
+    },
+    "screen.game": {
+      "value": "Peli"
+    },
+    "screen.generic": {
+      "value": "Yleinen"
+    },
+    "screen.variables": {
+      "value": "Muuttujat"
+    }
+  },
+  "fo": {
+    "area": {
+      "value": "Vídd"
+    },
+    "areaModelCalculation": {
+      "value": "Rokniháttur á víddini"
+    },
+    "calculation": {
+      "value": "Útrokning"
+    },
+    "screen.decimals": {
+      "value": "Desimalir"
+    },
+    "dimensions": {
+      "value": "Mát"
+    },
+    "partialProducts": {
+      "value": "Faldið á skapunum"
+    },
+    "product": {
+      "value": "Fald"
+    },
+    "totalAreaOfModel": {
+      "value": "Víddin á skapinum"
+    },
+    "enter": {
+      "value": "Skriva inn"
+    },
+    "screen.explore": {
+      "value": "Kanna"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Finn manglandi faldið og síðulongdirnar"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Finn manglandi faldið og víddina"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Finn manglandi faldið"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Finn manglandi faldini"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Finn síðulongdirnar"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Finn síðulongdirnar"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Finn víddina"
+    },
+    "screen.game": {
+      "value": "Spæl"
+    },
+    "screen.generic": {
+      "value": "Føst mát"
+    },
+    "screen.variables": {
+      "value": "Skiftandi mát"
+    }
+  },
+  "fr": {
+    "area": {
+      "value": "Aire"
+    },
+    "areaModelCalculation": {
+      "value": "Calcul de l'aire du modèle"
+    },
+    "calculation": {
+      "value": "Calcul"
+    },
+    "screen.decimals": {
+      "value": "Décimales"
+    },
+    "dimensions": {
+      "value": "Dimensions"
+    },
+    "factors": {
+      "value": "Facteurs"
+    },
+    "partialProducts": {
+      "value": "Produits partiels"
+    },
+    "partition": {
+      "value": "Partition"
+    },
+    "product": {
+      "value": "Produit"
+    },
+    "totalAreaOfModel": {
+      "value": "Aire totale du modèle"
+    },
+    "screen.multiply": {
+      "value": "Multiplier"
+    },
+    "screen.partition": {
+      "value": "Partition"
+    },
+    "enter": {
+      "value": "Entrée"
+    },
+    "screen.explore": {
+      "value": "Explorer"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Trouvez le produit partiel et la longueur du côté"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Trouvez le produit partiel et l'aire totale"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Trouvez le produit partiel"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Trouvez les produits partiels"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Trouvez les longueurs de côté"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Trouvez les longueurs de côté"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Trouvez l'aire totale"
+    },
+    "screen.game": {
+      "value": "Jeu"
+    },
+    "screen.generic": {
+      "value": "Générique"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    }
+  },
+  "gl": {
+    "calculation": {
+      "value": "Cálculo"
+    },
+    "area": {
+      "value": "Área"
+    },
+    "areaModelCalculation": {
+      "value": "Cálculo numérico"
+    },
+    "dimensions": {
+      "value": "Dimensións"
+    },
+    "factors": {
+      "value": "Factores"
+    },
+    "partialProducts": {
+      "value": "Produtos parciais"
+    },
+    "product": {
+      "value": "Produto"
+    },
+    "totalAreaOfModel": {
+      "value": "Área total"
+    },
+    "partition": {
+      "value": "Partición"
+    },
+    "screen.explore": {
+      "value": "Explorar"
+    },
+    "enter": {
+      "value": "Aceptar"
+    },
+    "screen.generic": {
+      "value": "Xenérico"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Atopa o produto parcial e a lonxitude do lado."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Atopa o produto parcial."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Atopa o produto parcial e a área total."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Atopa a lonxitude dos lados"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Atopa a área total"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Atopa a lonxitude dos lados."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Atopa os produtos parciais."
+    },
+    "screen.game": {
+      "value": "Xogo"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    },
+    "screen.decimals": {
+      "value": "Decimais"
+    },
+    "screen.multiply": {
+      "value": "Multiplicación"
+    },
+    "screen.partition": {
+      "value": "División"
+    }
+  },
+  "gu": {
+    "area": {
+      "value": "ક્ષેત્રફળ"
+    },
+    "areaModelCalculation": {
+      "value": "ક્ષેત્રફળ ગણતરી"
+    },
+    "calculation": {
+      "value": "ગણતરી"
+    },
+    "dimensions": {
+      "value": "પરિમાણો"
+    },
+    "factors": {
+      "value": "લંબાઈ X પહોળાઈ"
+    },
+    "screen.multiply": {
+      "value": "ગુણાકારની રીત"
+    },
+    "partialProducts": {
+      "value": "આંશિક ક્ષેત્રફળ"
+    },
+    "partition": {
+      "value": "ભાગ"
+    },
+    "product": {
+      "value": "વિસ્તાર"
+    },
+    "totalAreaOfModel": {
+      "value": "નમૂનાનું કુલ ક્ષેત્રફળ"
+    },
+    "screen.decimals": {
+      "value": "દશાંશ"
+    },
+    "enter": {
+      "value": "દાખલ કરો "
+    },
+    "screen.explore": {
+      "value": "જુઓ "
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "આંશિક પરિણામ અને બાજુની લંબાઈ શોધો."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "આંશિક પરિણામ અને બાજુનું ક્ષેત્રફળ શોધો."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "આંશિક પરિણામ શોધો."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "આંશિક પરિણામ શોધો."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "બાજુઓની લંબાઈ શોધો."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "બાજુઓની લંબાઈ શોધો."
+    },
+    "levelPrompt.totalArea": {
+      "value": "કુલ ક્ષેત્રફળ શોધો."
+    },
+    "screen.game": {
+      "value": "રમત "
+    },
+    "screen.generic": {
+      "value": "સામાન્ય"
+    },
+    "screen.variables": {
+      "value": "ચલો"
+    },
+    "screen.partition": {
+      "value": "વિસ્તરણની રીત"
+    }
+  },
+  "ha": {
+    "area": {
+      "value": "banare/fanni"
+    },
+    "calculation": {
+      "value": "lissafi"
+    },
+    "dimensions": {
+      "value": "yanayin tsayi ko fadi"
+    },
+    "enter": {
+      "value": "shiga"
+    },
+    "screen.explore": {
+      "value": "binciko"
+    },
+    "factors": {
+      "value": "musabbabi"
+    },
+    "screen.game": {
+      "value": "wasa"
+    },
+    "screen.generic": {
+      "value": "na gamayya"
+    },
+    "partialProducts": {
+      "value": "rabbin abubuwan da aka hado"
+    },
+    "partition": {
+      "value": "mararraba"
+    },
+    "product": {
+      "value": "ababanda aka hado"
+    }
+  },
+  "hi": {
+    "area": {
+      "value": "क्षेत्रफल "
+    },
+    "areaModelCalculation": {
+      "value": "नमूने के  क्षेत्रफल की गणना "
+    },
+    "calculation": {
+      "value": "गणना "
+    },
+    "dimensions": {
+      "value": "मितियाँ "
+    },
+    "factors": {
+      "value": "गुणक "
+    },
+    "screen.multiply": {
+      "value": "गुणा करें "
+    },
+    "partialProducts": {
+      "value": "आंशिक गुणनफल "
+    },
+    "screen.partition": {
+      "value": "विभाजन "
+    },
+    "partition": {
+      "value": "विभाजन "
+    },
+    "product": {
+      "value": "गुणनफल "
+    },
+    "totalAreaOfModel": {
+      "value": "नमूने का सम्पूर्ण क्षेत्रफल "
+    },
+    "screen.decimals": {
+      "value": "दशमलव "
+    },
+    "enter": {
+      "value": "दर्ज कीजिये "
+    },
+    "screen.explore": {
+      "value": "पता लगाइए "
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "आंशिक गुणनफल तथा सम्पूर्ण क्षेत्रफल ज्ञात कीजिये I "
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "आंशिक गुणनफल तथा सम्पूर्ण क्षेत्रफल ज्ञात कीजिये I "
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "आंशिक गुणनफल ज्ञात कीजिये I "
+    },
+    "levelPrompt.twoProducts": {
+      "value": "आंशिक गुणनफल ज्ञात कीजिये I "
+    },
+    "levelPrompt.twoLengths": {
+      "value": "भुजाओं की लम्बाइयां ज्ञात कीजिये I "
+    },
+    "levelPrompt.threeLengths": {
+      "value": "भुजाओं की लम्बाइयां ज्ञात कीजिये I "
+    },
+    "levelPrompt.totalArea": {
+      "value": "सम्पूर्ण क्षेत्रफल ज्ञात कीजिये I "
+    },
+    "screen.game": {
+      "value": "खेल "
+    },
+    "screen.generic": {
+      "value": "सामान्य "
+    },
+    "screen.variables": {
+      "value": "चरांक "
+    }
+  },
+  "hr": {
+    "area": {
+      "value": "Površina"
+    },
+    "areaModelCalculation": {
+      "value": " Izračun površine"
+    },
+    "calculation": {
+      "value": "Izračun"
+    },
+    "dimensions": {
+      "value": "Dimenzije"
+    },
+    "factors": {
+      "value": "Faktori"
+    },
+    "screen.multiply": {
+      "value": "Pomnoži"
+    },
+    "partialProducts": {
+      "value": "Djelomični umnožak"
+    },
+    "partition": {
+      "value": "Dio"
+    },
+    "screen.partition": {
+      "value": "DIo"
+    },
+    "product": {
+      "value": "Umnožak"
+    },
+    "totalAreaOfModel": {
+      "value": "Model ukupne površine"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Istraži"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Izračunaj djelomični umnožak i duljinu stranice"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Izračunaj djelomični umnožak i ukupnu površinu."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Izračunaj djelomični umnožak."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Izračunaj djelomični umnožak."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Izračunaj duljine stranica."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Izračunaj  duljine stranica."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Izračunaj ukupnu površinu."
+    },
+    "screen.game": {
+      "value": "Igra"
+    },
+    "screen.generic": {
+      "value": "generiraj"
+    },
+    "screen.variables": {
+      "value": "Varijable"
+    }
+  },
+  "ht": {
+    "area": {
+      "value": "Sifas"
+    },
+    "areaModelCalculation": {
+      "value": "Kalkil modèl sifas"
+    },
+    "calculation": {
+      "value": "Kalkil"
+    },
+    "dimensions": {
+      "value": "Dimansyon"
+    },
+    "factors": {
+      "value": "Faktè yo"
+    },
+    "screen.multiply": {
+      "value": "Miltipliye"
+    },
+    "partialProducts": {
+      "value": "Pwodwi pasyèl"
+    },
+    "partition": {
+      "value": "Patisyon"
+    },
+    "screen.partition": {
+      "value": "Patisyon"
+    },
+    "product": {
+      "value": "Pwodwi"
+    },
+    "totalAreaOfModel": {
+      "value": "Sifas total modèl la"
+    },
+    "screen.decimals": {
+      "value": "Desimal"
+    },
+    "enter": {
+      "value": "Antre"
+    },
+    "screen.explore": {
+      "value": "Eksplore"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Jwenn pwodwi pasyèl la epi longè kote a."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Jwenn pwodwi pasyèl la epi sifas total la."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Jwenn pwodwi pasyèl la."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Jwenn pwodwi pasyèl yo."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Jwenn longè kote yo."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Jwenn longè kote yo."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Jwenn sifas total la"
+    },
+    "screen.game": {
+      "value": "Jwèt"
+    },
+    "screen.generic": {
+      "value": "Jenerik"
+    },
+    "screen.variables": {
+      "value": "Varyab yo"
+    }
+  },
+  "hu": {
+    "area": {
+      "value": "Terület (A)"
+    },
+    "areaModelCalculation": {
+      "value": "Területmodell-számítások"
+    },
+    "calculation": {
+      "value": "Számítás"
+    },
+    "dimensions": {
+      "value": "Méretek"
+    },
+    "enter": {
+      "value": "Bevitel"
+    },
+    "screen.explore": {
+      "value": "Csúszkával"
+    },
+    "factors": {
+      "value": "Tényezők (a, b)"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "A részszorzat és a teljes terület?"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "A részszorzat és a teljes terület?"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "A részszorzat?"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "A részszorzatok?"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Az oldalhosszak?"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Az oldalhosszak?"
+    },
+    "levelPrompt.totalArea": {
+      "value": "A teljes terület?"
+    },
+    "screen.game": {
+      "value": "Játék"
+    },
+    "screen.generic": {
+      "value": "Számokkal"
+    },
+    "partialProducts": {
+      "value": "Részszorzatok"
+    },
+    "partition": {
+      "value": "Felbontás"
+    },
+    "product": {
+      "value": "Szorzat"
+    },
+    "totalAreaOfModel": {
+      "value": "A modell egész területe"
+    },
+    "screen.variables": {
+      "value": "Változókkal"
+    },
+    "screen.decimals": {
+      "value": "Tizedesjegyek"
+    },
+    "screen.multiply": {
+      "value": "Szorzás"
+    },
+    "screen.partition": {
+      "value": "Felbontás"
+    }
+  },
+  "hy": {
+    "area": {
+      "value": "Մակերես"
+    },
+    "areaModelCalculation": {
+      "value": "Մակերեսի հաշվում"
+    },
+    "calculation": {
+      "value": "Հաշվում"
+    },
+    "screen.decimals": {
+      "value": "Տասնորդական կոտորակներ"
+    },
+    "dimensions": {
+      "value": "Չափսերը"
+    },
+    "factors": {
+      "value": "Գործոններ"
+    },
+    "partialProducts": {
+      "value": "Արտադրյալ"
+    },
+    "partition": {
+      "value": "Բաժին"
+    },
+    "product": {
+      "value": "Արտադրյալ"
+    },
+    "totalAreaOfModel": {
+      "value": "Ընդհանուր մակերեսը մոդելի"
+    }
+  },
+  "ig": {
+    "area": {
+      "value": "Mpaghara"
+    },
+    "areaModelCalculation": {
+      "value": "Ụdị mpaghara na mgbako"
+    },
+    "calculation": {
+      "value": "Mgbako"
+    },
+    "dimensions": {
+      "value": "Uzo"
+    },
+    "enter": {
+      "value": "Imetụ Aka"
+    },
+    "screen.explore": {
+      "value": "Njem Ichoputa"
+    },
+    "factors": {
+      "value": "Akụkụ"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Chọta akụkụ ngwaahịa na ogologo akụkụ."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Chọta akụkụ ngwaahịa na mkpokọta mpaghara"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Chọta ngwaahịa ndị ahụ."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Chọta ngwaahịa ndị ahụ."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Chọta ogologo akụkụ."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Chọta ogologo akụkụ."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Chọta mkpokọta mpaghara"
+    },
+    "screen.game": {
+      "value": "Gwuo egwu"
+    },
+    "screen.generic": {
+      "value": "Na-agbakọta niile"
+    },
+    "partialProducts": {
+      "value": "Ngwaahịa akụkụ"
+    },
+    "partition": {
+      "value": "Nkebi"
+    },
+    "product": {
+      "value": "Mụbaa"
+    },
+    "totalAreaOfModel": {
+      "value": "Mkpokọta mpaghara ihe nlereanya"
+    },
+    "screen.multiply": {
+      "value": "Mụbaa"
+    },
+    "screen.partition": {
+      "value": "Nkebi"
+    },
+    "screen.decimals": {
+      "value": "Nọmba Ntakiri"
+    },
+    "screen.variables": {
+      "value": "Mgbanwe"
+    }
+  },
+  "is": {
+    "screen.decimals": {
+      "value": "Tugabrot"
+    },
+    "partition": {
+      "value": "Skipting"
+    },
+    "partialProducts": {
+      "value": "hlutmargfeldi, margfeldisstúfur"
+    },
+    "areaModelCalculation": {
+      "value": "Flatarmálsútreikningur"
+    },
+    "factors": {
+      "value": "Þættir"
+    },
+    "dimensions": {
+      "value": "Víddir"
+    },
+    "product": {
+      "value": "Margfeldi"
+    },
+    "totalAreaOfModel": {
+      "value": "Heildarflatarmál"
+    },
+    "calculation": {
+      "value": "Útreikningur"
+    },
+    "area": {
+      "value": "Flatarmál"
+    }
+  },
+  "it": {
+    "area": {
+      "value": "Area"
+    },
+    "areaModelCalculation": {
+      "value": "Calcolo Area del modello"
+    },
+    "calculation": {
+      "value": "Calcolo"
+    },
+    "dimensions": {
+      "value": "Dimensioni"
+    },
+    "enter": {
+      "value": "Inserisci"
+    },
+    "screen.explore": {
+      "value": "Esplora"
+    },
+    "factors": {
+      "value": "Fattori"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Trova il prodotto parziale e la lunghezza del lato."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Trova il prodotto parziale e l'area totale."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Trova il prodotto parziale."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Trova i prodotti parziali."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Trova la lunghezza dei lati."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Trova la lunghezza dei lati."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Trova l'area totale."
+    },
+    "screen.game": {
+      "value": "Gioco"
+    },
+    "screen.generic": {
+      "value": "Generale"
+    },
+    "partialProducts": {
+      "value": "Prodotto parziale"
+    },
+    "partition": {
+      "value": "Scomposizione"
+    },
+    "product": {
+      "value": "Prodotto"
+    },
+    "totalAreaOfModel": {
+      "value": "Area totale del modello"
+    },
+    "screen.variables": {
+      "value": "Variabili"
+    },
+    "screen.decimals": {
+      "value": "Decimali"
+    },
+    "screen.multiply": {
+      "value": "Moltiplicazione"
+    },
+    "screen.partition": {
+      "value": "Scomposizione"
+    }
+  },
+  "iw": {
+    "area": {
+      "value": "שטח"
+    },
+    "areaModelCalculation": {
+      "value": "חישוב השטח בדגם"
+    },
+    "calculation": {
+      "value": "חישוב"
+    },
+    "dimensions": {
+      "value": "ממדים"
+    },
+    "enter": {
+      "value": "קבע"
+    },
+    "screen.explore": {
+      "value": "חקירה"
+    },
+    "factors": {
+      "value": "גורמים"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "מצא את תוצאת הכפל ואת אורך הצלע"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "מצא את תוצאת הכפל ואת השטח הכולל"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "מצא את תוצאת הכפל"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "מצא את תוצאות הכפל"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "מצא את אורכי הצלעות"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "מצא את אורכי הצלעות"
+    },
+    "levelPrompt.totalArea": {
+      "value": "מצא את השטח הכולל"
+    },
+    "screen.game": {
+      "value": "משחק"
+    },
+    "screen.generic": {
+      "value": "כללי"
+    },
+    "partialProducts": {
+      "value": "תוצאות המכפלה"
+    },
+    "partition": {
+      "value": "חלוקה"
+    },
+    "product": {
+      "value": "תוצר"
+    },
+    "totalAreaOfModel": {
+      "value": "השטח הכולל"
+    },
+    "screen.multiply": {
+      "value": "מכפלה"
+    },
+    "screen.partition": {
+      "value": "חלוקה"
+    },
+    "screen.variables": {
+      "value": "משתנים"
+    },
+    "screen.decimals": {
+      "value": "עשרוניות"
+    }
+  },
+  "ja": {
+    "area": {
+      "value": "面積"
+    },
+    "areaModelCalculation": {
+      "value": "総面積の計算"
+    },
+    "calculation": {
+      "value": "計算"
+    },
+    "dimensions": {
+      "value": "縦と横の長さ"
+    },
+    "factors": {
+      "value": "縦と横の長さ"
+    },
+    "screen.multiply": {
+      "value": "面積"
+    },
+    "partialProducts": {
+      "value": "各領域の面積"
+    },
+    "screen.partition": {
+      "value": "領域と総面積"
+    },
+    "partition": {
+      "value": "分割"
+    },
+    "product": {
+      "value": "総面積"
+    },
+    "totalAreaOfModel": {
+      "value": "総面積"
+    },
+    "screen.decimals": {
+      "value": "少数"
+    },
+    "enter": {
+      "value": "決定"
+    },
+    "screen.explore": {
+      "value": "調べてみよう"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "空欄を埋めましょう"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "空欄を埋めましょう"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "空欄を埋めましょう"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "空欄を埋めましょう"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "空欄を埋めましょう"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "空欄を埋めましょう"
+    },
+    "levelPrompt.totalArea": {
+      "value": "総面積は？"
+    },
+    "screen.game": {
+      "value": "ゲーム"
+    },
+    "screen.generic": {
+      "value": "作ってみよう"
+    },
+    "screen.variables": {
+      "value": "式の展開"
+    }
+  },
+  "ki": {
+    "calculation": {
+      "value": "Gutara"
+    },
+    "area": {
+      "value": "Kiwaja"
+    },
+    "areaModelCalculation": {
+      "value": "Mahananio wa Gutara Kiwaja"
+    },
+    "dimensions": {
+      "value": "Ithimo"
+    },
+    "factors": {
+      "value": "Itumi"
+    },
+    "partialProducts": {
+      "value": "rumo Rwa maita"
+    },
+    "product": {
+      "value": "Kedu"
+    },
+    "totalAreaOfModel": {
+      "value": "Muhananao Ugana Atia"
+    },
+    "partition": {
+      "value": "Kugaya"
+    },
+    "screen.explore": {
+      "value": "Gucharia"
+    },
+    "enter": {
+      "value": "Kana"
+    },
+    "screen.generic": {
+      "value": "Muhianano"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Shari maita na uraihu wa mwena"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Charia Maita"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Sharia Maina na Kiwaja Geothe"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Sharia Miena"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Shari Kuharo Geothe"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Sharia Urauhu wa Miena"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Sharia rumo Rwa maita"
+    },
+    "screen.game": {
+      "value": "Muthako"
+    },
+    "screen.variables": {
+      "value": "Ithimi cia mwanya"
+    },
+    "screen.decimals": {
+      "value": "Iturumo"
+    }
+  },
+  "kk": {
+    "area": {
+      "value": "Аудан"
+    },
+    "areaModelCalculation": {
+      "value": "Ауданды есептеу"
+    },
+    "calculation": {
+      "value": "Есептеу"
+    },
+    "screen.decimals": {
+      "value": "Ондық бөлшектер"
+    },
+    "dimensions": {
+      "value": "Өлшемдер"
+    },
+    "factors": {
+      "value": "Бөліну компоненттері"
+    },
+    "partialProducts": {
+      "value": "Блоктардың ауданы"
+    },
+    "partition": {
+      "value": "Блоктарға бөлу"
+    },
+    "product": {
+      "value": "Шығарма"
+    },
+    "totalAreaOfModel": {
+      "value": "Жалпы ауданы"
+    },
+    "enter": {
+      "value": "Енгізу"
+    },
+    "screen.explore": {
+      "value": "Зерттеу"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Блоктың ауданын және қабырғаның ұзындығын табыңыз."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Блоктың ауданын және жалпы ауданды табыңыз."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Блоктың аудынын табыңыз."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Блоктардың аудандарын табыңыз."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Қабырғалардың ұзындығын табыңыз."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Қабырғалардың ұзындығын табыңыз."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Жалпы ауданды табыңыз."
+    },
+    "screen.game": {
+      "value": "Ойын"
+    },
+    "screen.generic": {
+      "value": "Жай сандар"
+    },
+    "screen.multiply": {
+      "value": "Көбейту"
+    },
+    "screen.partition": {
+      "value": "Блоктарға бөлу"
+    },
+    "screen.variables": {
+      "value": "Айнымалы"
+    }
+  },
+  "kn": {
+    "area": {
+      "value": "ವಿಸ್ತೀರ್ಣ"
+    },
+    "areaModelCalculation": {
+      "value": "ಮಾದರಿ ವಿಸ್ತೀರ್ಣದ ಅಳತೆ"
+    },
+    "calculation": {
+      "value": "ಅಳತೆ"
+    },
+    "screen.decimals": {
+      "value": "ದಶಮಾಂಶಗಳು"
+    },
+    "dimensions": {
+      "value": "ಆಯಾಮಗಳು"
+    },
+    "factors": {
+      "value": "ಪೂರಕಾಂಶಗಳು"
+    },
+    "partialProducts": {
+      "value": "ಭಾಗಶಃ ಉತ್ಪನ್ನಗಳು"
+    },
+    "partition": {
+      "value": "ಭಾಗ"
+    },
+    "product": {
+      "value": "ಉತ್ಪನ್ನ"
+    },
+    "totalAreaOfModel": {
+      "value": "ಮಾದರಿಯ ಪೂರ್ಣ ವಿಸ್ತೀರ್ಣ"
+    },
+    "enter": {
+      "value": "ಪ್ರವೇಶಿಸು"
+    },
+    "screen.explore": {
+      "value": "ಅನ್ವೇಷಿಸು"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "ಭಾಗಶಃ ಉತ್ಪನ್ನ ಮತ್ತು ಬದಿಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "ಭಾಗಶಃ ಉತ್ಪನ್ನ ಮತ್ತು ಪೂರ್ಣ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "ಭಾಗಶಃ ಉತ್ಪನ್ನವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "ಭಾಗಶಃ ಉತ್ಪನ್ನಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "ಬದಿಯ ಉದ್ದವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "ಬದಿಯ ಉದ್ದಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    "levelPrompt.totalArea": {
+      "value": "ಪೂರ್ಣ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ."
+    },
+    "screen.game": {
+      "value": "ಆಟ"
+    },
+    "screen.generic": {
+      "value": "ಜೆನೆರಿಕ್"
+    },
+    "screen.multiply": {
+      "value": "ಗುಣಿಸು"
+    },
+    "screen.partition": {
+      "value": "ಭಾಗ"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    }
+  },
+  "ko": {
+    "area": {
+      "value": "면적"
+    },
+    "areaModelCalculation": {
+      "value": "면적 모의 계산"
+    },
+    "calculation": {
+      "value": "계산"
+    },
+    "dimensions": {
+      "value": "차원"
+    },
+    "factors": {
+      "value": "인자"
+    },
+    "screen.multiply": {
+      "value": "곱하기"
+    },
+    "partialProducts": {
+      "value": "부분 곱"
+    },
+    "screen.partition": {
+      "value": "분할"
+    },
+    "partition": {
+      "value": "분할"
+    },
+    "product": {
+      "value": "곱"
+    },
+    "totalAreaOfModel": {
+      "value": "전체 면적 모형"
+    },
+    "enter": {
+      "value": "입장"
+    },
+    "screen.explore": {
+      "value": "탐색"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "부분 곱과 변의 길이 를 구하라"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "부분 곱과 전체 면적을 구하라"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "부분 곱을 구하라"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "부분 곱들을 구하라"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "변의 길이를 구하라"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "변들의 길이를 구하라"
+    },
+    "levelPrompt.totalArea": {
+      "value": "전체 면적을 구하라"
+    },
+    "screen.game": {
+      "value": "게임"
+    },
+    "screen.generic": {
+      "value": "일반 틀"
+    },
+    "screen.variables": {
+      "value": "변수"
+    }
+  },
+  "ku": {
+    "area": {
+      "value": "ڕووبەر"
+    },
+    "areaModelCalculation": {
+      "value": "هەژمار کردنی ڕووبەر"
+    },
+    "calculation": {
+      "value": "هەژمار کردن"
+    },
+    "dimensions": {
+      "value": "ڕەهەندەکان"
+    },
+    "factors": {
+      "value": "فاکتەرەکان"
+    },
+    "screen.multiply": {
+      "value": "چەندجارە"
+    },
+    "partialProducts": {
+      "value": "لێکدانی بەشەکان"
+    },
+    "partition": {
+      "value": "جیاکەرەوە"
+    },
+    "screen.partition": {
+      "value": "جیاکەرەوە"
+    },
+    "product": {
+      "value": "لێکدان"
+    },
+    "totalAreaOfModel": {
+      "value": "کۆی ڕووبەری مۆدێلەکە"
+    },
+    "enter": {
+      "value": "داخڵی بکە"
+    },
+    "screen.explore": {
+      "value": "بگەڕێ"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "لێکدانی بەشەکان بدۆزەوە لەگەڵ درێژی لایەکە"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "لێکدانی بەشەکان بدۆزەوە لەگەڵ ڕووبەریگگشتی "
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "لێکدانی بەشەکان بدۆزەوە  "
+    },
+    "levelPrompt.twoProducts": {
+      "value": "لێکدانی بەشەکان بدۆزەوە  "
+    },
+    "levelPrompt.threeLengths": {
+      "value": "درێژی لایەکە بدۆزەوە "
+    },
+    "levelPrompt.twoLengths": {
+      "value": "درێژی لایەکە بدۆزەوە "
+    },
+    "levelPrompt.totalArea": {
+      "value": "ڕووبەری گشتی بدۆزەوە "
+    },
+    "screen.game": {
+      "value": "یاری"
+    },
+    "screen.generic": {
+      "value": "گشتی"
+    },
+    "screen.variables": {
+      "value": "گۆڕاوەکان"
+    },
+    "screen.decimals": {
+      "value": "فاریزە"
+    }
+  },
+  "lg": {
+    "area": {
+      "value": "Obunene bye' kifo"
+    },
+    "areaModelCalculation": {
+      "value": "Okubalirira O' bunene bwekifo"
+    },
+    "calculation": {
+      "value": "Okubalirira"
+    },
+    "dimensions": {
+      "value": "Ebipimo"
+    },
+    "enter": {
+      "value": "Epeesa lya Enter"
+    },
+    "screen.explore": {
+      "value": "Okulambuula"
+    },
+    "factors": {
+      "value": "Byokubisamu"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Funa byokubisamu n’obuwanvu bw’oludda."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Funa byokubisamu no’ bunene bwekitundu kyonna."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Funa ekyo' kukubisamu"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Funa ebyo' kukubisamu"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Funa obuwanvu bw’ebbali."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Funa obuwanvu bw’ebbali."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Funa obunene bwe' kitundu kyonna awamu."
+    },
+    "screen.game": {
+      "value": "Omuzanyo "
+    },
+    "screen.generic": {
+      "value": "Tekamu nambazo wegezese"
+    },
+    "partialProducts": {
+      "value": "Ebyokukubisamu"
+    },
+    "partition": {
+      "value": "Okugabanyaamu"
+    },
+    "product": {
+      "value": "Ekivaaamu"
+    },
+    "totalAreaOfModel": {
+      "value": "Obunene bwe' kifo kyona"
+    },
+    "screen.multiply": {
+      "value": "Kubisamu"
+    },
+    "screen.partition": {
+      "value": "Okugabanyaamu"
+    },
+    "screen.decimals": {
+      "value": "Desimolozi"
+    },
+    "screen.variables": {
+      "value": "Enkyukakyuka"
+    }
+  },
+  "lv": {
+    "area": {
+      "value": "Laukums"
+    },
+    "areaModelCalculation": {
+      "value": "Laukuma modeļa aprēķins"
+    },
+    "calculation": {
+      "value": "Aprēķins"
+    },
+    "screen.decimals": {
+      "value": "Decimāldaļskaitļi"
+    },
+    "dimensions": {
+      "value": "Izmēri"
+    },
+    "factors": {
+      "value": "Reizinātāji"
+    },
+    "partialProducts": {
+      "value": "Daļu laukumi"
+    },
+    "partition": {
+      "value": "Daļa"
+    },
+    "product": {
+      "value": "Laukums"
+    },
+    "totalAreaOfModel": {
+      "value": "Modeļa kopējais laukums"
+    },
+    "screen.multiply": {
+      "value": "Reizināt"
+    },
+    "screen.partition": {
+      "value": "Dalīt"
+    },
+    "enter": {
+      "value": "Ievadīt"
+    },
+    "screen.explore": {
+      "value": "Izpētīt"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Aprēķini daļas laukumu un malas garumu."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Aprēķini daļas laukumu un kopējo laukumu."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Aprēķini daļas laukumu."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Aprēķini daļu laukumu."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Aprēķini malu garumus."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Aprēķini malu garumus."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Aprēķini kopējo laukumu."
+    },
+    "screen.game": {
+      "value": "Spēle"
+    },
+    "screen.generic": {
+      "value": "Vispārīgi"
+    },
+    "screen.variables": {
+      "value": "Mainīgie"
+    }
+  },
+  "mg": {
+    "calculation": {
+      "value": "Kajy"
+    },
+    "area": {
+      "value": "Faritra"
+    },
+    "areaModelCalculation": {
+      "value": "Kajy modely faritra"
+    },
+    "dimensions": {
+      "value": "lafiny"
+    },
+    "factors": {
+      "value": "Anton-javatra"
+    },
+    "partialProducts": {
+      "value": "Vokatra ampahany"
+    },
+    "product": {
+      "value": "vokatra"
+    },
+    "totalAreaOfModel": {
+      "value": "Totaly velaran'ny modely"
+    },
+    "partition": {
+      "value": "fisarahana"
+    },
+    "screen.decimals": {
+      "value": "Desimaly"
+    },
+    "screen.multiply": {
+      "value": "Mampitombo"
+    },
+    "screen.partition": {
+      "value": "Fanokoana"
+    },
+    "screen.explore": {
+      "value": "Hijery"
+    },
+    "enter": {
+      "value": "Ampidiro"
+    },
+    "screen.generic": {
+      "value": "levitra"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Tadiavo ny vokatra ampahany sy ny halavan'ny lafiny."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Tadiavo ny vokatra ampahany."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Tadiavo ny vokatra ampahany sy ny faritra manontolo."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Tadiavo ny halavan'ny sisiny."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Tadiavo ny faritra manontolo."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Tadiavo ny halavan'ny sisiny."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Tadiavo ny vokatra ampahany."
+    },
+    "screen.game": {
+      "value": "Lalao"
+    },
+    "screen.variables": {
+      "value": "hiovaova"
+    }
+  },
+  "mi": {
+    "area": {
+      "value": "Horahanga"
+    },
+    "areaModelCalculation": {
+      "value": "Tātai tauira horahanga"
+    },
+    "calculation": {
+      "value": "Tātai"
+    },
+    "dimensions": {
+      "value": "Ngā Rahinga"
+    },
+    "enter": {
+      "value": "Pāura"
+    },
+    "screen.explore": {
+      "value": "Tūhura"
+    },
+    "factors": {
+      "value": "Tauwehe"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Kimihia te wāhanga o te otinga me te roanga o te tapa."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Kimihia te wāhanga o te otinga me te tapeke horahanga."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Kimihia te wāhanga o te otinga."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Kimihia ngā wāhanga o te otinga."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Kimihia te roa o ngā tapa."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Kimihia te roa o ngā tapa."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Kimihia te tapeke horahanga."
+    },
+    "screen.game": {
+      "value": "Kēmu"
+    },
+    "screen.generic": {
+      "value": "Noa"
+    },
+    "partialProducts": {
+      "value": "Otinga pahara"
+    },
+    "partition": {
+      "value": "Wāwāhi"
+    },
+    "product": {
+      "value": "Otinga"
+    },
+    "totalAreaOfModel": {
+      "value": "Te horahanga katoa o te tauira"
+    },
+    "screen.multiply": {
+      "value": "Whakarea"
+    },
+    "screen.partition": {
+      "value": "Wāwāhi"
+    }
+  },
+  "mn": {
+    "area": {
+      "value": "Талбай"
+    },
+    "areaModelCalculation": {
+      "value": "Талбайг тооцоолох загварууд"
+    },
+    "calculation": {
+      "value": "Тооцоолох"
+    },
+    "screen.decimals": {
+      "value": "Аравтын бутархай"
+    },
+    "dimensions": {
+      "value": "Хэмжээс"
+    },
+    "factors": {
+      "value": "Хүчин зүйлс"
+    },
+    "partialProducts": {
+      "value": "Хэсгийн үржвэр"
+    },
+    "partition": {
+      "value": "Хуваалт"
+    },
+    "product": {
+      "value": "Үржвэр"
+    },
+    "totalAreaOfModel": {
+      "value": "Загварын нийт талбай"
+    },
+    "screen.multiply": {
+      "value": "Үржүүлэх"
+    },
+    "screen.partition": {
+      "value": "Хуваалт"
+    },
+    "screen.explore": {
+      "value": "Судлах"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Талуудын урт ба үржвэрийг олох."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Хэсгийн үржвэр ба нийт талбайг олох."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Хэсгийн үржвэрийг олох."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Хэсгийн үржвэрийг олох."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Талын уртыг олох."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Талын уртыг олох."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Нийт талбайг олох."
+    },
+    "screen.game": {
+      "value": "Тоглоом"
+    },
+    "screen.generic": {
+      "value": "Ерөнхий"
+    },
+    "screen.variables": {
+      "value": "Хувьсагчид"
+    }
+  },
+  "mr": {
+    "area": {
+      "value": "क्षेत्रफ़ळ"
+    },
+    "areaModelCalculation": {
+      "value": "क्षेत्रफ़ळ गणना"
+    },
+    "calculation": {
+      "value": "उत्तर"
+    },
+    "dimensions": {
+      "value": "आकारमान"
+    },
+    "factors": {
+      "value": "घटक"
+    },
+    "screen.multiply": {
+      "value": "गुणाकार"
+    },
+    "partialProducts": {
+      "value": "भागाचे  गणन"
+    },
+    "partition": {
+      "value": "भाग"
+    },
+    "screen.partition": {
+      "value": "भाग "
+    },
+    "product": {
+      "value": "उत्तर"
+    },
+    "totalAreaOfModel": {
+      "value": "निवडलेल्या आकाराचे क्षेत्रफ़ळ"
+    },
+    "enter": {
+      "value": "महिती भरा"
+    },
+    "screen.explore": {
+      "value": "शोधा"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "हिश्याचे क्षेत्रफळ आणि बाजूची लांबी शोधा."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "हिश्याचे क्षेत्रफळ आणि एकूण क्षेत्रफळ शोधा."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "हिश्याचे क्षेत्रफळ शोधा."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "हिश्यांचे क्षेत्रफळ आणि बाजूची लांबी शोधा."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "बाजूंची लांबी शोधा."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "बाजूंची लांबी शोधा."
+    },
+    "levelPrompt.totalArea": {
+      "value": "एकूण क्षेत्रफळ शोधा."
+    },
+    "screen.game": {
+      "value": "खेळ"
+    },
+    "screen.generic": {
+      "value": "जेनेरिक"
+    },
+    "screen.variables": {
+      "value": "बदलणारे घटक (चल)"
+    }
+  },
+  "ms": {
+    "area": {
+      "value": "Luas"
+    },
+    "areaModelCalculation": {
+      "value": "Pengiraan luas model"
+    },
+    "calculation": {
+      "value": "Pengiraan"
+    },
+    "dimensions": {
+      "value": "Dimensi"
+    },
+    "screen.explore": {
+      "value": "Teroka"
+    },
+    "factors": {
+      "value": "Faktor"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Cari luas bahagian dan panjang sisi."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Cari luas bahagian dan jumlah luas."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Cari luas bahagian."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Cari luas bahagian."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Cari panjang sisi."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Cari panjang sisi."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Cari jumlah luas."
+    },
+    "screen.game": {
+      "value": "Rekreasi"
+    },
+    "screen.generic": {
+      "value": "Fahamkan"
+    },
+    "partialProducts": {
+      "value": "Hasil pemisahan"
+    },
+    "partition": {
+      "value": "Pemisah"
+    },
+    "product": {
+      "value": "Hasilnya"
+    },
+    "totalAreaOfModel": {
+      "value": "Jumlah keluasan model"
+    },
+    "screen.decimals": {
+      "value": "Perpuluhan"
+    },
+    "screen.multiply": {
+      "value": "Pendaraban"
+    },
+    "screen.partition": {
+      "value": "Pemisahan"
+    },
+    "screen.variables": {
+      "value": "Pemboleh ubah"
+    },
+    "enter": {
+      "value": "Enter"
+    }
+  },
+  "mt": {
+    "calculation": {
+      "value": "Kalkulazzjoni"
+    },
+    "area": {
+      "value": "'Area'"
+    },
+    "areaModelCalculation": {
+      "value": "Kalkulazzjoni tal-'area' mudell"
+    },
+    "dimensions": {
+      "value": "Dimensjonijiet"
+    },
+    "factors": {
+      "value": "Fatturi"
+    },
+    "partialProducts": {
+      "value": "Multiplikazzjoni parzjali"
+    },
+    "product": {
+      "value": "Multiplikazzjoni"
+    },
+    "totalAreaOfModel": {
+      "value": "L-'area' totali tal-mudell"
+    },
+    "partition": {
+      "value": "Aqsam fi Tnejn"
+    },
+    "screen.explore": {
+      "value": "Esplora"
+    },
+    "enter": {
+      "value": "Dahhal"
+    },
+    "screen.generic": {
+      "value": "In generali"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Sib il-multiplikazzjoni parzjali u t-tul tal-gemb"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Sib il-multiplikazzjoni parzjali"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Sib il-multiplikazzjoni parzjali u l-'area' totali"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Sib it-tul tal-gnub."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Sib l-'area' totali."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Sib it-tul tal-gnub."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Sib il-multiplikazzjoni parzjali."
+    },
+    "screen.game": {
+      "value": "Loghba"
+    },
+    "screen.variables": {
+      "value": "Xi jvarja"
+    },
+    "screen.decimals": {
+      "value": "Decimali"
+    },
+    "screen.multiply": {
+      "value": "Immultiplika"
+    },
+    "screen.partition": {
+      "value": "'Partition'"
+    }
+  },
+  "nl": {
+    "area": {
+      "value": "Oppervlakte"
+    },
+    "areaModelCalculation": {
+      "value": "Berekening van oppervlakte"
+    },
+    "calculation": {
+      "value": "Berekening"
+    },
+    "dimensions": {
+      "value": "Dimensies"
+    },
+    "enter": {
+      "value": "Begin"
+    },
+    "screen.explore": {
+      "value": "Verken"
+    },
+    "factors": {
+      "value": "Factoren"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Zoek het partieel product en de lengte van de zijde."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Zoek het partieel product en de totale oppervlakte."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Zoek het partieel product."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Zoek de partiële producten."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Zoek de lengten van de zijden."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Zoek de lengten van de zijden."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Zoek de totale oppervlakte."
+    },
+    "screen.game": {
+      "value": "Spel"
+    },
+    "screen.generic": {
+      "value": "Generiek"
+    },
+    "partialProducts": {
+      "value": "Partiële producten"
+    },
+    "partition": {
+      "value": "Deling"
+    },
+    "product": {
+      "value": "Product"
+    },
+    "totalAreaOfModel": {
+      "value": "Totale oppervlakte van model"
+    },
+    "screen.variables": {
+      "value": "Variabelen"
+    },
+    "screen.multiply": {
+      "value": "Vermenigvuldig"
+    },
+    "screen.partition": {
+      "value": "Deling"
+    }
+  },
+  "ny": {
+    "area": {
+      "value": "Dera"
+    },
+    "areaModelCalculation": {
+      "value": "Kuwerengera chitsanzo cha dera"
+    },
+    "calculation": {
+      "value": "Kuwerengera"
+    },
+    "dimensions": {
+      "value": "Miyeso ya mbali"
+    },
+    "factors": {
+      "value": "Manambala ochulukitsira"
+    },
+    "screen.multiply": {
+      "value": "Chulukitsa"
+    },
+    "partialProducts": {
+      "value": "Zotsatira zocheperapo"
+    },
+    "partition": {
+      "value": "Gawa"
+    },
+    "screen.partition": {
+      "value": "Gawa"
+    },
+    "product": {
+      "value": "Chulukitsa"
+    },
+    "totalAreaOfModel": {
+      "value": "Chitsanzo cha dera lonse"
+    },
+    "enter": {
+      "value": "Lowetsa"
+    },
+    "screen.explore": {
+      "value": "Fufuza"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Pezani kuchuluka kochepa ndi kutalika kwa m'bali."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Pezani kuchuluka kochepa ndi dera lonse."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Pezani kuchuluka kochepa."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Pezani kuchuluka kochepa."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Pezani kutalika kwa m'bali."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Pezani kutalika kwa m'bali."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Pezani dera lonse."
+    },
+    "screen.game": {
+      "value": "Sewero"
+    },
+    "screen.generic": {
+      "value": "Generic"
+    },
+    "screen.decimals": {
+      "value": "Decimals"
+    }
+  },
+  "om": {
+    "area": {
+      "value": "Bal'na"
+    },
+    "areaModelCalculation": {
+      "value": "Shallaggii moodeela Bal'inaa"
+    },
+    "calculation": {
+      "value": "Shallaggii"
+    },
+    "dimensions": {
+      "value": "Daayimeenshinii"
+    },
+    "enter": {
+      "value": "Seeni"
+    },
+    "screen.explore": {
+      "value": "Qoradhu"
+    },
+    "factors": {
+      "value": "Faakteeroota"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Bu’aa gartokkee fi dheerina cinaa barbaadi."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Bu’aa gartokkee fi bal’ina waliigalaa barbaadi."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Bu’aa gartokkee barbaadi."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Bu’aawwan gartokkee barbaadi."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Dheerinni cinaachaa barbaadi."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Dheerinniwwan cinaachaa barbaadi."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Bal'ina waliigalaa barbaadi."
+    },
+    "screen.game": {
+      "value": "Tapha"
+    },
+    "screen.generic": {
+      "value": "Jeneeriika"
+    },
+    "partialProducts": {
+      "value": "Bu’aawwan gartokkee"
+    },
+    "partition": {
+      "value": "Qoqqoodinsa"
+    },
+    "product": {
+      "value": "Bu'aa"
+    },
+    "totalAreaOfModel": {
+      "value": "Bal’ina waliigalaa moodeela"
+    },
+    "screen.variables": {
+      "value": "Jijjiiramoota"
+    },
+    "screen.decimals": {
+      "value": "Kurnyeewwan"
+    }
+  },
+  "pl": {
+    "area": {
+      "value": "Pole powierzchni"
+    },
+    "areaModelCalculation": {
+      "value": "Obliczenia z modelem pola"
+    },
+    "calculation": {
+      "value": "Obliczenia"
+    },
+    "dimensions": {
+      "value": "Wymiary"
+    },
+    "enter": {
+      "value": "Wprowadź"
+    },
+    "screen.explore": {
+      "value": "Badaj"
+    },
+    "factors": {
+      "value": "Czynniki"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Znajdź iloczyny częściowe i długości boków."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Znajdź iloczyny częściowe i całkowite pole."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Znajdź iloczyny częściowe."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Znajdź iloczyny częściowe."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Znajdź długości boków."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Znajdź długości boków."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Znajdź całkowite pole powierzchni."
+    },
+    "screen.game": {
+      "value": "Gra"
+    },
+    "screen.generic": {
+      "value": "Ogólnie"
+    },
+    "partialProducts": {
+      "value": "Iloczyny cząstkowe"
+    },
+    "partition": {
+      "value": "Podział"
+    },
+    "product": {
+      "value": "Iloczyn"
+    },
+    "totalAreaOfModel": {
+      "value": "Całkowite pole powierzchni"
+    },
+    "screen.variables": {
+      "value": "Zmienne"
+    },
+    "screen.decimals": {
+      "value": "Ułamki dziesiętne"
+    },
+    "screen.multiply": {
+      "value": "Mnożenie"
+    },
+    "screen.partition": {
+      "value": "Podział"
+    }
+  },
+  "ps": {
+    "calculation": {
+      "value": "محاسبه"
+    },
+    "area": {
+      "value": "مساحت"
+    },
+    "areaModelCalculation": {
+      "value": "د الجبري مساحت محاسبه"
+    },
+    "dimensions": {
+      "value": "بعدونه"
+    },
+    "factors": {
+      "value": "عوامل"
+    },
+    "partialProducts": {
+      "value": "جزئې حاصل ضربونه"
+    },
+    "product": {
+      "value": "محصول"
+    },
+    "totalAreaOfModel": {
+      "value": "د موډل کلي مساحت"
+    },
+    "partition": {
+      "value": "طبقه بندي"
+    },
+    "screen.explore": {
+      "value": "لټون"
+    },
+    "enter": {
+      "value": "واردي کړه"
+    },
+    "screen.generic": {
+      "value": "عمومي"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "جزئې حاصل ضرب او د اضلاعو اوږدوالی پیدا کړئ"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "جزئي حاصل ضرب پیدا کړئ"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "جزئې حاصل ضرب او کلي مساحت پیدا کړئ"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "د ضلعوو اوږدوالی پیدا کړئ"
+    },
+    "levelPrompt.totalArea": {
+      "value": "کلي مساحت پیدا کړئ"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "د ضلعوو اوږدوالی پیدا کړئ"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "جزئي حاصل ضربونه پیدا کړئ"
+    },
+    "screen.game": {
+      "value": "لوبه"
+    },
+    "screen.variables": {
+      "value": "متحولونه"
+    },
+    "screen.multiply": {
+      "value": "ضرب"
+    },
+    "screen.partition": {
+      "value": "تقسیم"
+    },
+    "screen.decimals": {
+      "value": "اعشارې"
+    }
+  },
+  "pt": {
+    "area": {
+      "value": "Área"
+    },
+    "areaModelCalculation": {
+      "value": "Cálculo da área do modelo"
+    },
+    "calculation": {
+      "value": "Cálculo"
+    },
+    "screen.decimals": {
+      "value": "Decimais"
+    },
+    "dimensions": {
+      "value": "Dimensões"
+    },
+    "factors": {
+      "value": "Fatores"
+    },
+    "partialProducts": {
+      "value": "Produtos parciais"
+    },
+    "partition": {
+      "value": "Partição"
+    },
+    "product": {
+      "value": "Produto"
+    },
+    "totalAreaOfModel": {
+      "value": "Área total do modelo"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Explorar"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Descobrir o produto parcial e o comprimento do lado."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Encontrar o produto parcial e a área total."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Encontrar o produto parcial."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Encontrar os produtos parciais."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Encontrar as dimensões do lado."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Encontrar as dimensões do lado."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Encontrar a área total."
+    },
+    "screen.game": {
+      "value": "Jogo"
+    },
+    "screen.generic": {
+      "value": "Genérico"
+    },
+    "screen.variables": {
+      "value": "Variáveis"
+    },
+    "screen.multiply": {
+      "value": "Multiplicar"
+    },
+    "screen.partition": {
+      "value": "Partição"
+    }
+  },
+  "pt_BR": {
+    "area": {
+      "value": "Área"
+    },
+    "areaModelCalculation": {
+      "value": "Cálculo do modelo de área"
+    },
+    "calculation": {
+      "value": "Cálculo"
+    },
+    "dimensions": {
+      "value": "Dimensões"
+    },
+    "factors": {
+      "value": "Fatores"
+    },
+    "screen.multiply": {
+      "value": "Multiplicar"
+    },
+    "partialProducts": {
+      "value": "Produtos parciais"
+    },
+    "screen.partition": {
+      "value": "Partição"
+    },
+    "partition": {
+      "value": "Partição"
+    },
+    "product": {
+      "value": "Produto"
+    },
+    "totalAreaOfModel": {
+      "value": "Área total do modelo"
+    },
+    "enter": {
+      "value": "Entre"
+    },
+    "screen.explore": {
+      "value": "Explore"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Encontre o produto parcial e o comprimento laterais."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Encontre o produto parcial e a área total."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Encontre o produto parcial."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Encontre os produtos parciais."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Encontre os comprimentos laterais."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Encontre os comprimentos laterais."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Encontre a área total."
+    },
+    "screen.game": {
+      "value": "Jogo"
+    },
+    "screen.generic": {
+      "value": "Genérico"
+    },
+    "screen.variables": {
+      "value": "Variáveis"
+    },
+    "screen.decimals": {
+      "value": "Decimais"
+    }
+  },
+  "qu": {
+    "calculation": {
+      "value": "Chaninchay"
+    },
+    "area": {
+      "value": "Kancha"
+    },
+    "areaModelCalculation": {
+      "value": "Kancha chaninchay"
+    },
+    "dimensions": {
+      "value": "Sayaynin"
+    },
+    "factors": {
+      "value": "Qawarichikuqkuna"
+    },
+    "partialProducts": {
+      "value": "Wakin rurun"
+    },
+    "product": {
+      "value": "Rurun"
+    },
+    "totalAreaOfModel": {
+      "value": "Llapan rurun"
+    },
+    "partition": {
+      "value": "Rakina"
+    },
+    "screen.explore": {
+      "value": "Qawarina"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Tariy wakin rurunta chaynataq sayayninta"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Tariy wakin rurunta"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Tariy wakin rurunta chaynataq llapan rurunta"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Tariy llapan sayayninta"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Tariy llapan rurunta"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Tariy llapan sayayninta"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Tariy wakin rurunta"
+    },
+    "enter": {
+      "value": "Yaykuy"
+    },
+    "screen.game": {
+      "value": "Pukllay"
+    },
+    "screen.generic": {
+      "value": "Generic"
+    },
+    "screen.decimals": {
+      "value": "Decimales nisqan"
+    }
+  },
+  "ro": {
+    "area": {
+      "value": "Aria"
+    },
+    "areaModelCalculation": {
+      "value": "Calculul ariei din exemplu"
+    },
+    "calculation": {
+      "value": "Calcul"
+    },
+    "screen.decimals": {
+      "value": "Zecimale"
+    },
+    "dimensions": {
+      "value": "Dimensiuni"
+    },
+    "factors": {
+      "value": "Factori"
+    },
+    "partialProducts": {
+      "value": "Produse parțiale"
+    },
+    "partition": {
+      "value": "Partiție"
+    },
+    "product": {
+      "value": "Produs"
+    },
+    "totalAreaOfModel": {
+      "value": "Aria totală a exemplului"
+    },
+    "screen.multiply": {
+      "value": "Înmulțire"
+    },
+    "screen.partition": {
+      "value": "Partiție"
+    },
+    "enter": {
+      "value": "Introdu"
+    },
+    "screen.explore": {
+      "value": "Explorează"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Găsește produsul parțial și lungimea laturii."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Găsește produsul parțial și aria totală."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Găsește produsul parțial."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Găsește produsele parțiale."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Găsește lungimile laturilor."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Găsește lungimile laturilor."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Găsește aria totală."
+    },
+    "screen.game": {
+      "value": "Joc"
+    },
+    "screen.generic": {
+      "value": "Dimensiuni numerice"
+    },
+    "screen.variables": {
+      "value": "Dimensiuni cu variabile"
+    }
+  },
+  "ru": {
+    "area": {
+      "value": "Площадь"
+    },
+    "areaModelCalculation": {
+      "value": "Вычисление площади"
+    },
+    "calculation": {
+      "value": "Вычисления"
+    },
+    "dimensions": {
+      "value": "Размеры"
+    },
+    "enter": {
+      "value": "Ввести"
+    },
+    "screen.explore": {
+      "value": "Изучение"
+    },
+    "factors": {
+      "value": "Компоненты деления"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Найдите площадь блока и длину стороны"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Найдите площадь блока и значение общей площади"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Найдите площадь блока"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Найдите площади блоков"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Найдите длины сторон"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Найдите длины сторон"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Найдите общую площадь"
+    },
+    "screen.game": {
+      "value": "Игра"
+    },
+    "screen.generic": {
+      "value": "Простые числа"
+    },
+    "partialProducts": {
+      "value": "Площадь блоков"
+    },
+    "partition": {
+      "value": "Деление на блоки"
+    },
+    "product": {
+      "value": "Произведение"
+    },
+    "totalAreaOfModel": {
+      "value": "Общая площадь"
+    },
+    "screen.variables": {
+      "value": "Переменные"
+    },
+    "screen.multiply": {
+      "value": "Умножение"
+    },
+    "screen.partition": {
+      "value": "Деление на блоки"
+    },
+    "screen.decimals": {
+      "value": "Десятичные дроби/доли"
+    }
+  },
+  "rw": {
+    "area": {
+      "value": "Ubuso"
+    },
+    "areaModelCalculation": {
+      "value": "Uburyo bwo gushaka ubuso"
+    },
+    "calculation": {
+      "value": "Imibare"
+    },
+    "dimensions": {
+      "value": "Ingero"
+    },
+    "enter": {
+      "value": "Injiza"
+    },
+    "screen.explore": {
+      "value": "Shakisha"
+    },
+    "factors": {
+      "value": "Ibikubwa"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Shaka igikubo ndetse n'uburebure bw'impande"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Shaka igikubo ndetse n'ubuso bwose."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Shaka ibikubo."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Shaka ibikubo."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Shaka uburebure bw'impande."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Shaka uburebure bw'impande."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Shaka ubuso bwose."
+    },
+    "screen.game": {
+      "value": "Umukino"
+    },
+    "screen.generic": {
+      "value": "Rusange"
+    },
+    "partialProducts": {
+      "value": "Ibikubo na buri mubarwa w'igikubwa"
+    },
+    "partition": {
+      "value": "Gusesengura umubare"
+    },
+    "product": {
+      "value": "Igikubo"
+    },
+    "totalAreaOfModel": {
+      "value": "Ubuso bwose"
+    },
+    "screen.variables": {
+      "value": "Gihinduka"
+    },
+    "screen.decimals": {
+      "value": "Imibare y'ibice"
+    },
+    "screen.multiply": {
+      "value": "Gukuba"
+    },
+    "screen.partition": {
+      "value": "Gusesengura umubare"
+    }
+  },
+  "si": {
+    "area": {
+      "value": "වර්ගඵලය"
+    },
+    "areaModelCalculation": {
+      "value": "වර්ගඵල ආකෘති ගණනය කිරීම"
+    },
+    "calculation": {
+      "value": "ගණනය කිරීම"
+    },
+    "dimensions": {
+      "value": "මාන"
+    },
+    "factors": {
+      "value": "සාධක"
+    },
+    "screen.multiply": {
+      "value": "වැඩි කරනවා"
+    },
+    "partialProducts": {
+      "value": "අර්ධ නිෂ්පාදන"
+    },
+    "partition": {
+      "value": "කොටස"
+    },
+    "screen.partition": {
+      "value": "කොටස"
+    },
+    "product": {
+      "value": "නිෂ්පාදන"
+    },
+    "totalAreaOfModel": {
+      "value": "ආකෘතියේ මුළු වර්ගඵලය"
+    },
+    "screen.decimals": {
+      "value": "දශම"
+    },
+    "enter": {
+      "value": "ඇතුලත් කරන්න"
+    },
+    "screen.explore": {
+      "value": "ගවේෂණය කරන්න"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "කොටස් වශයෙන් ගුණ කිරීම් සහ පැත්තේ දිග සොයා ගන්න."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "කොටස් වශයෙන් ගුණ කිරීම් හා මුළු වර්ගඵලය සොයන්න"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "කොටස් වශයෙන් ගුණ කිරීම සොයන්න."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "කොටස් වශයෙන් ගුණ කිරීම් සොයන්න."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "පැති දිග සොයන්න."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "පැති දිග සොයන්න."
+    },
+    "levelPrompt.totalArea": {
+      "value": "මුළු වර්ගඵලය සොයන්න."
+    },
+    "screen.game": {
+      "value": "ක්‍රීඩාව"
+    },
+    "screen.generic": {
+      "value": "සාමාන්‍ය"
+    },
+    "screen.variables": {
+      "value": "විචල්‍යයන්"
+    }
+  },
+  "sk": {
+    "area": {
+      "value": "Plocha"
+    },
+    "areaModelCalculation": {
+      "value": "Výpočet plochy"
+    },
+    "calculation": {
+      "value": "Výpočet"
+    },
+    "dimensions": {
+      "value": "Rozmery"
+    },
+    "factors": {
+      "value": "Činitele"
+    },
+    "screen.multiply": {
+      "value": "Násobenie"
+    },
+    "partialProducts": {
+      "value": "Časť plochy"
+    },
+    "partition": {
+      "value": "Rozdelenie"
+    },
+    "screen.partition": {
+      "value": "Rozklad"
+    },
+    "product": {
+      "value": "Výsledok"
+    },
+    "totalAreaOfModel": {
+      "value": "Celková plocha"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Skúmanie"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Určte časť plochy a dĺžku strany."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Určte časť plochy a celkovú plochu."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Určte časť plochy."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Určte časti plôch."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Určte dĺžky strán."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Určte dĺžky strán."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Určte celkovú plochu"
+    },
+    "screen.game": {
+      "value": "Hra"
+    },
+    "screen.generic": {
+      "value": "Všeobecne"
+    },
+    "screen.variables": {
+      "value": "Premenné"
+    },
+    "screen.decimals": {
+      "value": "Desatinné čísla"
+    }
+  },
+  "sl": {
+    "calculation": {
+      "value": "Kalkulacija"
+    },
+    "area": {
+      "value": "Ploščina"
+    },
+    "areaModelCalculation": {
+      "value": "Izračun ploščine lika"
+    },
+    "dimensions": {
+      "value": "Dimenzije"
+    },
+    "factors": {
+      "value": "Faktorji"
+    },
+    "partialProducts": {
+      "value": "Delni produkt"
+    },
+    "product": {
+      "value": "Produkt"
+    },
+    "totalAreaOfModel": {
+      "value": "Celotna ploščina modela"
+    },
+    "partition": {
+      "value": "Del"
+    },
+    "screen.explore": {
+      "value": "Razišči"
+    },
+    "enter": {
+      "value": "Vnos"
+    },
+    "screen.generic": {
+      "value": "Splošno"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Poišči delni produkt in dolžino stranice."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Poišči delni produkt."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Poišči delni produkt in celotno ploščino."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Poišči dolžine stranic."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Poišči celotno površino."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Poišči dolžine stranic."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Poišči delni produkt."
+    },
+    "screen.game": {
+      "value": "Igra"
+    },
+    "screen.variables": {
+      "value": "Spremenljivke"
+    },
+    "screen.decimals": {
+      "value": "decimalke"
+    },
+    "screen.multiply": {
+      "value": "Množenje"
+    },
+    "screen.partition": {
+      "value": "Deljenje"
+    }
+  },
+  "sp": {
+    "screen.decimals": {
+      "value": "Ditesimale"
+    },
+    "partition": {
+      "value": "Karoganyo"
+    },
+    "partialProducts": {
+      "value": "Ditšweletšwa tše di sa felego"
+    },
+    "areaModelCalculation": {
+      "value": "Area mohlala go balwa"
+    },
+    "factors": {
+      "value": "Mabaka"
+    },
+    "dimensions": {
+      "value": "Ditekanyo"
+    },
+    "product": {
+      "value": "Setšweletšwa"
+    },
+    "totalAreaOfModel": {
+      "value": "Palo yohle ya sebaka sa mohlala"
+    },
+    "calculation": {
+      "value": "Go bala"
+    },
+    "area": {
+      "value": "Tikologo"
+    },
+    "screen.multiply": {
+      "value": "Atiša"
+    },
+    "screen.partition": {
+      "value": "Karoganyo"
+    },
+    "screen.explore": {
+      "value": "Utolla"
+    },
+    "screen.generic": {
+      "value": "Generic"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    },
+    "screen.game": {
+      "value": "Papadi"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Hwetša palomoka ya lefelo."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Hwetša setšweletšwa sa karolo."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Hwetša ditšweletšwa tša karolo."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Hwetša setšweletšwa sa karolo le palomoka ya lefelo."
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Hwetša setšweletšwa sa karolo le botelele bja lehlakore."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Hwetša botelele bja lehlakore."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Hwetša botelele bja lehlakore."
+    },
+    "enter": {
+      "value": "Tsena"
+    }
+  },
+  "sq": {
+    "area": {
+      "value": "Syprina"
+    },
+    "areaModelCalculation": {
+      "value": "Modelet për njehsimin e syprinës"
+    },
+    "calculation": {
+      "value": "Njehsimi"
+    },
+    "dimensions": {
+      "value": "Përmasat"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Hulumto"
+    },
+    "factors": {
+      "value": "Faktorët"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Gjej produktin e pjesshëm dhe gjatësinë anësore."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Gjej produktin e pjesshëm dhe syprinën e plotë."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Gjej produktin e pjesshëm."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Gjej produktet e pjesëshme."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Gjej gjatësitë anësore."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Gjej gjatësitë anësore."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Gjej syprinën e plotë."
+    },
+    "screen.game": {
+      "value": "Loja"
+    },
+    "screen.generic": {
+      "value": "i përgjithësuar"
+    },
+    "partialProducts": {
+      "value": "Prodhimet e pjesshme"
+    },
+    "partition": {
+      "value": "Ndarja në pjesë"
+    },
+    "product": {
+      "value": "Prodhimi"
+    },
+    "totalAreaOfModel": {
+      "value": "Sipërfaqja e plotë e modelit "
+    },
+    "screen.variables": {
+      "value": "Ndryshoret"
+    },
+    "screen.multiply": {
+      "value": "Shumëzo"
+    },
+    "screen.partition": {
+      "value": "Ndarja në pjesë"
+    },
+    "screen.decimals": {
+      "value": "Decimalët"
+    }
+  },
+  "sr": {
+    "area": {
+      "value": "Површина"
+    },
+    "areaModelCalculation": {
+      "value": "Израчунавање површине"
+    },
+    "calculation": {
+      "value": "Израчунавање"
+    },
+    "screen.decimals": {
+      "value": "Децимални бројеви"
+    },
+    "dimensions": {
+      "value": "Димензије"
+    },
+    "factors": {
+      "value": "Чиниоци"
+    },
+    "partialProducts": {
+      "value": "Делимични производ"
+    },
+    "partition": {
+      "value": "Подела"
+    },
+    "product": {
+      "value": "Производ"
+    },
+    "totalAreaOfModel": {
+      "value": "Укупна површина"
+    },
+    "enter": {
+      "value": "Унеси"
+    },
+    "screen.explore": {
+      "value": "Истражи"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Израчунај делимични производ и дужину странице"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Израчунај делимични производ и укупну површину"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Израчунај делимични производ"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Израчунај делимичне производе"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Израчунај дужину странице"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Израчунај дужине страница"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Израчунај укупну површину"
+    },
+    "screen.game": {
+      "value": "Игра"
+    },
+    "screen.generic": {
+      "value": "Опште"
+    },
+    "screen.variables": {
+      "value": "Променљиве"
+    },
+    "screen.multiply": {
+      "value": "Множење"
+    },
+    "screen.partition": {
+      "value": "Подела"
+    }
+  },
+  "st": {
+    "area": {
+      "value": "kakaretso ea sebaka"
+    },
+    "areaModelCalculation": {
+      "value": "Palo ea mohlala oa kakaretso ea sebake"
+    },
+    "calculation": {
+      "value": "Palo tse kopanngoang kapa tlosoa kapa eketsoa"
+    },
+    "dimensions": {
+      "value": "Litekanyo"
+    },
+    "enter": {
+      "value": "Kenya"
+    },
+    "screen.explore": {
+      "value": "Hlahloba"
+    },
+    "factors": {
+      "value": "Lintlha"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Fumana sehlahisoa se sa fellang le bolelele ba lehlakore "
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Fumana sehlahisoa se sa fellang le sebaka se felletseng. "
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Fumana sehlahisoa se sa fellang. "
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Fumana lihlahisoa tse sa fellang. "
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Fumana bolelele ba mahlakore. "
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Fumana bolelele ba mahlakore. "
+    },
+    "levelPrompt.totalArea": {
+      "value": "Fumana Area Kaofela"
+    },
+    "screen.game": {
+      "value": "Papali"
+    },
+    "screen.generic": {
+      "value": "Kakaretso "
+    },
+    "partialProducts": {
+      "value": "Sepetho Sa Likarolo"
+    },
+    "partition": {
+      "value": "Arola"
+    },
+    "product": {
+      "value": "Sehlahisoa"
+    },
+    "totalAreaOfModel": {
+      "value": "Kakaretso ea sebaka sa mohlala "
+    },
+    "screen.variables": {
+      "value": "mefuta e fapaneng"
+    },
+    "screen.multiply": {
+      "value": "eketsa ha ngata"
+    },
+    "screen.partition": {
+      "value": "Arola"
+    },
+    "screen.decimals": {
+      "value": "Li-decimal"
+    }
+  },
+  "sv": {
+    "areaModelCalculation": {
+      "value": "Beräkning av area"
+    },
+    "calculation": {
+      "value": "Beräkning"
+    },
+    "dimensions": {
+      "value": "Mått"
+    },
+    "screen.explore": {
+      "value": "Utforska"
+    },
+    "factors": {
+      "value": "Faktorer"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Beräkna delarea och sidlängd."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Beräkna delarea och den totala arean."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Beräkna delarean."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Beräkna delareorna."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Beräkna sidlängderna."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Beräkna sidlängderna."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Beräkna den totala arean."
+    },
+    "screen.game": {
+      "value": "Spel"
+    },
+    "screen.generic": {
+      "value": "Allmänt"
+    },
+    "partialProducts": {
+      "value": "Delareor"
+    },
+    "partition": {
+      "value": "Dela upp"
+    },
+    "product": {
+      "value": "Produkt"
+    },
+    "totalAreaOfModel": {
+      "value": "Modellens totala area"
+    },
+    "screen.variables": {
+      "value": "Variabler"
+    }
+  },
+  "sw": {
+    "area": {
+      "value": "Eneo"
+    },
+    "areaModelCalculation": {
+      "value": "Modeli ya Ukokotozi wa Eneo"
+    },
+    "calculation": {
+      "value": "Ukokotozi"
+    },
+    "dimensions": {
+      "value": "Vipimo"
+    },
+    "enter": {
+      "value": "Ingiza"
+    },
+    "screen.explore": {
+      "value": "Chunguza"
+    },
+    "factors": {
+      "value": "Vigawo"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Tafuta zao hafifu na urefu wa upande mmoja"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Tafuta zao hafifu na eneo lote"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Tafuta zao hafifu"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Tafuta zao hafifu"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Tafuta urefu wa pande."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Tafuta urefu wa pande."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Tafuta eneo lote"
+    },
+    "screen.game": {
+      "value": "Mchezo"
+    },
+    "screen.generic": {
+      "value": "Kawaida"
+    },
+    "partialProducts": {
+      "value": "Zidisho za Sehemu"
+    },
+    "partition": {
+      "value": "Sehemu"
+    },
+    "product": {
+      "value": "Zidisho"
+    },
+    "totalAreaOfModel": {
+      "value": "Eneo lote la modeli"
+    },
+    "screen.decimals": {
+      "value": "Desimali"
+    },
+    "screen.variables": {
+      "value": "Vigeu"
+    },
+    "screen.multiply": {
+      "value": "Zidisha"
+    },
+    "screen.partition": {
+      "value": "Sehemu"
+    }
+  },
+  "ta": {
+    "area": {
+      "value": "பரப்பளவு"
+    },
+    "areaModelCalculation": {
+      "value": "மாதிரி உருவின் கணக்கீடு"
+    },
+    "calculation": {
+      "value": "கணிப்பு"
+    },
+    "screen.decimals": {
+      "value": "தசமங்கள்"
+    },
+    "dimensions": {
+      "value": "பரிமாணங்கள்"
+    },
+    "factors": {
+      "value": "காரணிகள்"
+    },
+    "partialProducts": {
+      "value": "பகுதியில் பெருக்கல்"
+    },
+    "partition": {
+      "value": "பிரி"
+    },
+    "product": {
+      "value": "பெருக்கல்"
+    },
+    "totalAreaOfModel": {
+      "value": "மாதிரியின் மொத்தப் பரப்பு"
+    },
+    "enter": {
+      "value": "உள்நுழைய"
+    },
+    "screen.explore": {
+      "value": "ஆராய"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "பகுதியின் பரப்பளவும் சுற்றளவும்"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "பகுதியின் பரப்பளவும்மொத்தப் பரப்பளவும்"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "பகுதியின் பரப்பளவு"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "பகுதிப் பரப்பளவுகள்"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "மொத்தச் சுற்றளவைக் காண"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "மொத்தச் சுற்றளவைக் காண"
+    },
+    "levelPrompt.totalArea": {
+      "value": "மொத்தப் பரப்பளவைக் காண"
+    },
+    "screen.game": {
+      "value": "விளையாட்டு"
+    },
+    "screen.generic": {
+      "value": "வழமையான"
+    },
+    "screen.variables": {
+      "value": "மாறிகள்"
+    }
+  },
+  "te": {
+    "area": {
+      "value": "వైశాల్యం"
+    },
+    "areaModelCalculation": {
+      "value": "నమూనా వైశాల్య  గణన"
+    },
+    "calculation": {
+      "value": "గణన"
+    },
+    "dimensions": {
+      "value": "కొలతలు"
+    },
+    "factors": {
+      "value": "కారకాలు"
+    },
+    "screen.multiply": {
+      "value": "గుణించు"
+    },
+    "partialProducts": {
+      "value": "పాక్షిక లబ్ధాలు"
+    },
+    "partition": {
+      "value": "విభాగం"
+    },
+    "screen.partition": {
+      "value": "విభాగం"
+    },
+    "product": {
+      "value": "లబ్ధం"
+    },
+    "totalAreaOfModel": {
+      "value": "నమూనా మొత్తం వైశాల్యం"
+    },
+    "screen.decimals": {
+      "value": "దశాంశాలు ప"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "అన్వేషించు"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "పాక్షిక లబ్దం మరియు భుజాల పొడవు లను కనుక్కోండి."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "పాక్షిక లబ్దం మరియు మొత్తం వైశాల్యం లను కనుక్కోండి."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "పాక్షిక లబ్ధాన్ని కనుక్కోండి."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "పాక్షిక లబ్ధాలను కనుక్కోండి."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "భుజాల పొడవులను కనుక్కోండి."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "భుజాల పొడవులను కనుక్కోండి."
+    },
+    "levelPrompt.totalArea": {
+      "value": "మొత్తం వైశాల్యాన్ని కనుక్కోండి."
+    },
+    "screen.game": {
+      "value": "ఆట"
+    },
+    "screen.generic": {
+      "value": "సార్వత్రీకరించు"
+    },
+    "screen.variables": {
+      "value": "చర రాశులు"
+    }
+  },
+  "tg": {
+    "area": {
+      "value": "Майдон"
+    },
+    "areaModelCalculation": {
+      "value": "Ҳисобкунии модели минтақа"
+    },
+    "calculation": {
+      "value": "Ҳисобкунӣ"
+    },
+    "dimensions": {
+      "value": "Андозаҳо"
+    },
+    "factors": {
+      "value": "Омилҳо"
+    },
+    "screen.multiply": {
+      "value": "Зарб кунед"
+    },
+    "partialProducts": {
+      "value": "Маҳсулоти қисман"
+    },
+    "screen.partition": {
+      "value": "Тақсим"
+    },
+    "partition": {
+      "value": "Боб"
+    },
+    "product": {
+      "value": "Маҳсулот"
+    },
+    "totalAreaOfModel": {
+      "value": "Масоҳати умумии модел"
+    },
+    "screen.decimals": {
+      "value": "Ададҳои даҳӣ"
+    },
+    "enter": {
+      "value": "Ворид"
+    },
+    "screen.explore": {
+      "value": "Тафтишот гузаронед"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Маҳсулоти нопурра ва дарозии паҳлӯро ёбед."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Маҳсулоти қисман ва майдони умумии онро пайдо кунед."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Маҳсулоти қисман ёбед."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Маҳсулоти қисман ёбед."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Дарозии тарафҳоро ёбед."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Дарозии тарафҳоро ёбед."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Найдите общую площадь."
+    },
+    "screen.game": {
+      "value": "Машқ"
+    },
+    "screen.generic": {
+      "value": "Универсалӣ"
+    },
+    "screen.variables": {
+      "value": "Тағйирёбандаҳо"
+    }
+  },
+  "th": {
+    "calculation": {
+      "value": "การคำนวณ"
+    },
+    "area": {
+      "value": "พื้นที่"
+    },
+    "areaModelCalculation": {
+      "value": "การคำนวณแบบจำลองเชิงพื้นที่"
+    },
+    "dimensions": {
+      "value": "มิติ"
+    },
+    "factors": {
+      "value": "องค์ประกอบ"
+    },
+    "partialProducts": {
+      "value": "ผลคูณย่อย"
+    },
+    "product": {
+      "value": "ผลคูณ"
+    },
+    "totalAreaOfModel": {
+      "value": "พื้นที่รวมของแบบจำลอง"
+    },
+    "partition": {
+      "value": "การแบ่ง"
+    },
+    "screen.explore": {
+      "value": "สำรวจ"
+    },
+    "enter": {
+      "value": "เข้าใช้งาน"
+    },
+    "screen.generic": {
+      "value": "ทั่วไป"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "หาผลคูณย่อยและความยาวด้านข้าง"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "หาผลคูณย่อย"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "หาผลคูณย่อยและพื้นที่รวม"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "หาความยาวด้านข้าง"
+    },
+    "levelPrompt.totalArea": {
+      "value": "หาพื้นที่รวม"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "หาความยาวด้านข้าง"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "หาผลคูณย่อย"
+    },
+    "screen.game": {
+      "value": "เกม"
+    },
+    "screen.variables": {
+      "value": "ตัวแปร"
+    }
+  },
+  "tk": {
+    "area": {
+      "value": "Meýdan"
+    },
+    "areaModelCalculation": {
+      "value": "Modeliň meýdanyny hasaplamak"
+    },
+    "calculation": {
+      "value": "Hasaplama"
+    },
+    "dimensions": {
+      "value": "Ölçegler"
+    },
+    "enter": {
+      "value": "Giriz"
+    },
+    "screen.explore": {
+      "value": "Gör"
+    },
+    "factors": {
+      "value": "Faktorlar"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Bölekleýin önümi we tarap uzynlygyny tap."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Bölekleýin önümi we jemi meýdany tap."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Bölekleýin önümi tap."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Bölekleýin önümleri tap."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Tarap uzynlyklaryny tap."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Tarap uzynlyklaryny tap."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Jemi meýdany tap."
+    },
+    "screen.game": {
+      "value": "Oýun"
+    },
+    "screen.generic": {
+      "value": "Umumy"
+    },
+    "partialProducts": {
+      "value": "Bölekleýin önümler"
+    },
+    "partition": {
+      "value": "Bölme"
+    },
+    "product": {
+      "value": "Önüm"
+    },
+    "totalAreaOfModel": {
+      "value": "Modeliň jemi meýdany"
+    },
+    "screen.variables": {
+      "value": "Üýtgeýän ululyklar"
+    }
+  },
+  "tn": {
+    "area": {
+      "value": "Bophara"
+    },
+    "areaModelCalculation": {
+      "value": "Palello Setshwantsho sa bophara"
+    },
+    "calculation": {
+      "value": "Palello"
+    },
+    "dimensions": {
+      "value": "Ditekanyetso"
+    },
+    "factors": {
+      "value": "Mabaka"
+    },
+    "screen.multiply": {
+      "value": "Ntsifatsa"
+    },
+    "partialProducts": {
+      "value": "Dikarolo tsa karabo"
+    },
+    "partition": {
+      "value": "Kgaogano"
+    },
+    "screen.partition": {
+      "value": "Kgaoganya"
+    },
+    "product": {
+      "value": "Karabo"
+    },
+    "totalAreaOfModel": {
+      "value": "Setshwantsho sa Bophara jotlhe"
+    },
+    "enter": {
+      "value": "Tsenya"
+    },
+    "screen.explore": {
+      "value": "Lekeletsa"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Batla bontlha jwa karabo le boleele"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Batla bontlha jwa karabo le bophara ka kakaretso"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Batla bontlha jwa karabo"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Batla ditlha tsa karabo"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Batla boleele"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Batla boleele"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Batla bophara ka kakaretso"
+    },
+    "screen.game": {
+      "value": "Matshameko"
+    },
+    "screen.generic": {
+      "value": "Tse di ipoeletsang"
+    },
+    "screen.variables": {
+      "value": "Tse di fetogang"
+    }
+  },
+  "tr": {
+    "area": {
+      "value": "Alan"
+    },
+    "areaModelCalculation": {
+      "value": "Alan Modeli Hesaplaması"
+    },
+    "calculation": {
+      "value": "Hesapla"
+    },
+    "dimensions": {
+      "value": "Modelin Kenar Uzunlukları"
+    },
+    "factors": {
+      "value": "Çarpan"
+    },
+    "screen.multiply": {
+      "value": "Çarpma"
+    },
+    "partialProducts": {
+      "value": "İpuçları"
+    },
+    "partition": {
+      "value": "Parçalama Yönü"
+    },
+    "screen.partition": {
+      "value": "Parçalı Çarpma"
+    },
+    "product": {
+      "value": "Ürün"
+    },
+    "totalAreaOfModel": {
+      "value": "Modelin toplam alanı"
+    },
+    "screen.decimals": {
+      "value": "Ondalıklar"
+    },
+    "enter": {
+      "value": "Tamam"
+    },
+    "screen.explore": {
+      "value": "Keşfet"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Verilmeyen alanı ve kenar uzunluğunu bulun."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Verilmeyen alanı ve toplam alanı bulun."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Verilmeyen alanı bulun."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Verilmeyen alanları bulun."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Verilmeyen kenar uzunluklarını bulun."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Verilmeyen kenar uzunluklarını bulun."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Toplam Alanı Bulun."
+    },
+    "screen.game": {
+      "value": "Oyun"
+    },
+    "screen.generic": {
+      "value": "Sayılarda Alan"
+    },
+    "screen.variables": {
+      "value": "Değişkenler"
+    }
+  },
+  "tw": {
+    "area": {
+      "value": "Eeria"
+    },
+    "areaModelCalculation": {
+      "value": "Eria nwono akontabuo"
+    },
+    "calculation": {
+      "value": "Akontabuo"
+    },
+    "dimensions": {
+      "value": "Emu go, ɔterɛ"
+    },
+    "enter": {
+      "value": "Wuramu"
+    },
+    "screen.explore": {
+      "value": "Hwehwɛ"
+    },
+    "factors": {
+      "value": "Aboadeɛ"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Hwehwɛ pahyiaa prodat no ne nkyɛn tenten"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Hwehwɛ pahyiaa prodat no ne eeria no nyinaa"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Hwehwɛ pahyiaa prodat no"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Hwehwɛ pahyiaa prodat no"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Hwehwɛ ne tenten"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Hwehwɛ ne tenten"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Hwehwɛ eeria no nyinaa"
+    },
+    "screen.game": {
+      "value": "Agorɔ"
+    },
+    "screen.generic": {
+      "value": "Gɛnɛric"
+    },
+    "partialProducts": {
+      "value": "Aboade fa anaa sɛ nyiyimu"
+    },
+    "partition": {
+      "value": "Nkyekyɛmu"
+    },
+    "product": {
+      "value": "Aboadeɛ"
+    },
+    "totalAreaOfModel": {
+      "value": "Eria no nyinaa nwono"
+    },
+    "screen.variables": {
+      "value": "Deɛ ɛtumi sesa"
+    },
+    "screen.decimals": {
+      "value": "mmubui"
+    },
+    "screen.multiply": {
+      "value": "Mmɔho"
+    },
+    "screen.partition": {
+      "value": "Ntete mu"
+    }
+  },
+  "uk": {
+    "area": {
+      "value": "Площа"
+    },
+    "areaModelCalculation": {
+      "value": "Розрахунок площі моделі"
+    },
+    "calculation": {
+      "value": "Розрахунок"
+    },
+    "dimensions": {
+      "value": "Розміри"
+    },
+    "enter": {
+      "value": "Ввести"
+    },
+    "screen.explore": {
+      "value": "Дослідити"
+    },
+    "factors": {
+      "value": "Фактори"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Знайдіть частини результату та довжину сторони."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Знайдіть частини результату та повну площу."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Знайдіть частину."
+    },
+    "levelPrompt.twoProducts": {
+      "value": " Знайдіть частини."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Знайдіть довжину сторін."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Знайдіть довжину сторін."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Знайдіть повну площу."
+    },
+    "screen.game": {
+      "value": "Гра"
+    },
+    "screen.generic": {
+      "value": "Створити"
+    },
+    "partialProducts": {
+      "value": "Часткові продукти"
+    },
+    "partition": {
+      "value": "Розподіл"
+    },
+    "product": {
+      "value": "Продукт"
+    },
+    "totalAreaOfModel": {
+      "value": "Загальна площа моделі"
+    },
+    "screen.variables": {
+      "value": "Змінні"
+    },
+    "screen.multiply": {
+      "value": "Множення"
+    },
+    "screen.partition": {
+      "value": "З розділенням"
+    },
+    "screen.decimals": {
+      "value": "Десяткові дроби"
+    }
+  },
+  "uz": {
+    "area": {
+      "value": "Yuza"
+    },
+    "areaModelCalculation": {
+      "value": "Yuza modeli hisob-kitobi"
+    },
+    "calculation": {
+      "value": "Hisoblash"
+    },
+    "dimensions": {
+      "value": "O‘lchamlar"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "O‘rganish"
+    },
+    "factors": {
+      "value": "Ko‘paytuvchilar"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Qismiy ko‘paytuvchi va tomon uzunligini toping"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Qismiy ko‘paytuvchi va umumiy yuzani toping"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Qismiy ko‘paytuvchini toping"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Qismiy ko‘paytuvchilarni toping"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Tomonlar uzunliklarini toping"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Tomonlar uzunliklarini toping"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Tomonlar uzunliklarini toping"
+    },
+    "screen.game": {
+      "value": "O‘yin"
+    },
+    "screen.generic": {
+      "value": "Umumiy"
+    },
+    "partialProducts": {
+      "value": "Qismlarga ajratib ko‘paytirish (panjarali ko‘paytirish)"
+    },
+    "partition": {
+      "value": "Qism"
+    },
+    "product": {
+      "value": "Ko‘paytma"
+    },
+    "totalAreaOfModel": {
+      "value": "Modelning umumiy maydoni"
+    },
+    "screen.variables": {
+      "value": "O‘zgaruvchilar"
+    },
+    "screen.multiply": {
+      "value": "Ko'paytirish"
+    },
+    "screen.partition": {
+      "value": "Qism"
+    },
+    "screen.decimals": {
+      "value": "O'nlik kasrlar"
+    }
+  },
+  "vi": {
+    "area": {
+      "value": "Diện tích"
+    },
+    "areaModelCalculation": {
+      "value": "Tính toán mô hình diện tích"
+    },
+    "calculation": {
+      "value": "Tính toán"
+    },
+    "dimensions": {
+      "value": "Kích thước"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Tìm hiểu"
+    },
+    "factors": {
+      "value": "Thừa số"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Tìm tích từng phần và chiều dài cạnh."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Tìm tích từng phần và diện tích tổng cộng"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Tìm tích từng phần."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Tìm tích từng phần."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Tìm chiều dài cạnh."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Tìm chiều dài cạnh."
+    },
+    "levelPrompt.totalArea": {
+      "value": "Tìm diện tích tổng cộng."
+    },
+    "screen.game": {
+      "value": "Game"
+    },
+    "screen.generic": {
+      "value": "Sáng tạo"
+    },
+    "partialProducts": {
+      "value": "Tích từng phần"
+    },
+    "partition": {
+      "value": "Phân hoạch"
+    },
+    "product": {
+      "value": "Tích"
+    },
+    "totalAreaOfModel": {
+      "value": "Diện tích tổng cộng của mô hình"
+    },
+    "screen.variables": {
+      "value": "Biến số"
+    },
+    "screen.decimals": {
+      "value": "Số thập phân"
+    },
+    "screen.multiply": {
+      "value": "Nhân"
+    },
+    "screen.partition": {
+      "value": "Phân hoạch"
+    }
+  },
+  "wo": {
+    "area": {
+      "value": "Dénd"
+    },
+    "areaModelCalculation": {
+      "value": "Xaymay Móolu Dénd gi"
+    },
+    "calculation": {
+      "value": "Xayma bi"
+    },
+    "dimensions": {
+      "value": "Toluwayi"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "screen.explore": {
+      "value": "Saytu"
+    },
+    "factors": {
+      "value": "Ay Ful"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Xaymal Yenë Ful Yi Ak Yatu Waayu Wet Gi"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Xaymal Yenë Ful Yi Ak Dénd Bi "
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Xaymal Yenë Ful Yi"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Xaymal Yenë Ful Yi"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Xaymal Yaatu Wayu Wet Gi"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Xaymal Yaatu wayu Wet Gi"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Xaymal Dénd Bi Yëp"
+    },
+    "screen.game": {
+      "value": "Po"
+    },
+    "screen.generic": {
+      "value": "Generic"
+    },
+    "partialProducts": {
+      "value": "Yenë Ful Yi"
+    },
+    "partition": {
+      "value": "Ap Sedële"
+    },
+    "product": {
+      "value": "Ful"
+    },
+    "totalAreaOfModel": {
+      "value": "Dénd Bi Yep"
+    },
+    "screen.variables": {
+      "value": "Yuy Sopeku"
+    }
+  },
+  "yo": {
+    "area": {
+      "value": "Agbègbè"
+    },
+    "areaModelCalculation": {
+      "value": "Iṣiro awosè agbègbè"
+    },
+    "calculation": {
+      "value": "Iṣiro"
+    },
+    "dimensions": {
+      "value": "Iwọ̀n"
+    },
+    "enter": {
+      "value": "Sàtẹ̀wọlé"
+    },
+    "screen.explore": {
+      "value": "Kààbọ"
+    },
+    "factors": {
+      "value": "Okùnfà "
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Wà apá kan ọjà  ati gígùn ẹ̀gbẹ́ "
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Wà apá kan ọjà ati apapọ agbègbè"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Wà apá kan ọjà  "
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Wà apá kan ọjà  "
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Wà gígùn ẹ̀gbẹ́ "
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Wà gígùn ẹ̀gbẹ́ "
+    },
+    "levelPrompt.totalArea": {
+      "value": "Wà apapọ agbègbè"
+    },
+    "screen.game": {
+      "value": "Idàràyà"
+    },
+    "screen.generic": {
+      "value": "Gbogbogbo"
+    },
+    "partialProducts": {
+      "value": "Apá kan ọjà"
+    },
+    "partition": {
+      "value": "Ipín"
+    },
+    "product": {
+      "value": "Ọ̀jà"
+    },
+    "totalAreaOfModel": {
+      "value": "Apapọ awosè agbègbè"
+    },
+    "screen.multiply": {
+      "value": "Sọdipúpọ̀ "
+    },
+    "screen.partition": {
+      "value": "Ipín"
+    },
+    "screen.variables": {
+      "value": "Oniyipádà"
+    }
+  },
+  "zh_CN": {
+    "area": {
+      "value": "面积"
+    },
+    "areaModelCalculation": {
+      "value": "面积计算模型"
+    },
+    "calculation": {
+      "value": "计算"
+    },
+    "dimensions": {
+      "value": "大小"
+    },
+    "factors": {
+      "value": "因数"
+    },
+    "screen.multiply": {
+      "value": "乘"
+    },
+    "partialProducts": {
+      "value": "部分乘积"
+    },
+    "screen.partition": {
+      "value": "分割"
+    },
+    "partition": {
+      "value": "分割"
+    },
+    "product": {
+      "value": "乘积"
+    },
+    "totalAreaOfModel": {
+      "value": "区域总面积"
+    },
+    "enter": {
+      "value": "输入"
+    },
+    "screen.explore": {
+      "value": "入门"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "算出部分乘积和边长"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "算出部分乘积和总面积"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "算出部分乘积"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "算出部分乘积"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "算出边长"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "算出边长"
+    },
+    "levelPrompt.totalArea": {
+      "value": "算出总面积"
+    },
+    "screen.game": {
+      "value": "游戏"
+    },
+    "screen.generic": {
+      "value": "通用"
+    },
+    "screen.variables": {
+      "value": "变量"
+    }
+  },
+  "zh_HK": {
+    "area": {
+      "value": "面積"
+    },
+    "areaModelCalculation": {
+      "value": "面積模型"
+    },
+    "calculation": {
+      "value": "計算"
+    },
+    "dimensions": {
+      "value": "長闊"
+    },
+    "factors": {
+      "value": "因數"
+    },
+    "screen.multiply": {
+      "value": "乘"
+    },
+    "partialProducts": {
+      "value": "部份積"
+    },
+    "partition": {
+      "value": "分割部份"
+    },
+    "screen.partition": {
+      "value": "分割部份"
+    },
+    "product": {
+      "value": "積"
+    },
+    "totalAreaOfModel": {
+      "value": "模型的總面積"
+    },
+    "enter": {
+      "value": "輸入"
+    },
+    "screen.explore": {
+      "value": "探究"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "求部份積及邊長"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "求部份積及總面積"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "求部份積"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "求部份積"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "求邊長"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "求邊長"
+    },
+    "levelPrompt.totalArea": {
+      "value": "求總面積"
+    },
+    "screen.game": {
+      "value": "遊戲"
+    },
+    "screen.generic": {
+      "value": "一般模型"
+    },
+    "screen.variables": {
+      "value": "變量"
+    }
+  },
+  "zh_TW": {
+    "area": {
+      "value": "面積"
+    },
+    "areaModelCalculation": {
+      "value": "面積模型計算"
+    },
+    "calculation": {
+      "value": "計算"
+    },
+    "screen.decimals": {
+      "value": "小數"
+    },
+    "dimensions": {
+      "value": "大小"
+    },
+    "factors": {
+      "value": "因數"
+    },
+    "partialProducts": {
+      "value": "部份乘積"
+    },
+    "partition": {
+      "value": "分割區域"
+    },
+    "product": {
+      "value": "乘積"
+    },
+    "totalAreaOfModel": {
+      "value": "模型的總面積"
+    },
+    "screen.multiply": {
+      "value": "乘"
+    },
+    "screen.partition": {
+      "value": "分割區域"
+    },
+    "enter": {
+      "value": "輸入"
+    },
+    "screen.explore": {
+      "value": "探索"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "算出部份乘積與邊長"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "算出部份乘積與總面積"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "算出部份乘積"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "算出部份乘積"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "算出邊長"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "算出邊長"
+    },
+    "levelPrompt.totalArea": {
+      "value": "算出總面積"
+    },
+    "screen.game": {
+      "value": "遊戲"
+    },
+    "screen.generic": {
+      "value": "基本觀念"
+    },
+    "screen.variables": {
+      "value": "變數"
+    }
+  },
+  "zu": {
+    "calculation": {
+      "value": "ukubala"
+    },
+    "area": {
+      "value": "indawo"
+    },
+    "areaModelCalculation": {
+      "value": "indawo yokubala imodeli"
+    },
+    "dimensions": {
+      "value": "izilinganiso"
+    },
+    "factors": {
+      "value": "izici"
+    },
+    "partialProducts": {
+      "value": "imikhiqizo ingxenye"
+    },
+    "product": {
+      "value": "imkhiuqizo"
+    },
+    "totalAreaOfModel": {
+      "value": "indawo ephelele yemodeli"
+    },
+    "partition": {
+      "value": "ukwahlukanisa"
+    },
+    "screen.explore": {
+      "value": "hlola"
+    },
+    "enter": {
+      "value": "ngena"
+    },
+    "screen.generic": {
+      "value": "generic"
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "thola umkhiqizo oyingxenye kanye obuhlangothini"
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "thola ingxenye yomkhiqizo"
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "thola ingxenye yomkhiqizo nendawo ephelele"
+    },
+    "levelPrompt.threeLengths": {
+      "value": "thola ubude obusemaceleni"
+    },
+    "levelPrompt.totalArea": {
+      "value": "thola endawo ephelele"
+    },
+    "levelPrompt.twoLengths": {
+      "value": "thola ubude obusemaceleni"
+    },
+    "levelPrompt.twoProducts": {
+      "value": "thola inngxene yomkhiqizo"
+    },
+    "screen.game": {
+      "value": "umdlalo"
+    },
+    "screen.variables": {
+      "value": "eziguquguquka yo"
+    },
+    "screen.multiply": {
+      "value": "phindaphinda"
+    },
+    "screen.partition": {
+      "value": "ukwahlukanisa"
+    },
+    "screen.decimals": {
+      "value": "amadesimali"
+    }
+  },
+  "en": {
+    "screen.explore": {
+      "value": "Explore"
+    },
+    "screen.generic": {
+      "value": "Generic"
+    },
+    "screen.variables": {
+      "value": "Variables"
+    },
+    "screen.multiply": {
+      "value": "Multiply"
+    },
+    "screen.partition": {
+      "value": "Partition"
+    },
+    "screen.decimals": {
+      "value": "Decimals"
+    },
+    "screen.game": {
+      "value": "Game"
+    },
+    "dimensions": {
+      "value": "Dimensions"
+    },
+    "factors": {
+      "value": "Factors"
+    },
+    "totalAreaOfModel": {
+      "value": "Total area of model"
+    },
+    "product": {
+      "value": "Product"
+    },
+    "partition": {
+      "value": "Partition"
+    },
+    "areaModelCalculation": {
+      "value": "Area model calculation"
+    },
+    "calculation": {
+      "value": "Calculation"
+    },
+    "partialProducts": {
+      "value": "Partial products"
+    },
+    "enter": {
+      "value": "Enter"
+    },
+    "area": {
+      "value": "Area"
+    },
+    "scorePrefix": {
+      "value": "Score:"
+    },
+    "levelPrompt.totalArea": {
+      "value": "Find the total area."
+    },
+    "levelPrompt.oneProduct.text": {
+      "value": "Find the partial product."
+    },
+    "levelPrompt.twoProducts": {
+      "value": "Find the partial products."
+    },
+    "levelPrompt.oneProduct.totalArea": {
+      "value": "Find the partial product and total area."
+    },
+    "levelPrompt.oneProduct.oneLength": {
+      "value": "Find the partial product and side length."
+    },
+    "levelPrompt.twoLengths": {
+      "value": "Find the side lengths."
+    },
+    "levelPrompt.threeLengths": {
+      "value": "Find the side lengths."
+    },
+    "a11y": {
+      "areaEqualsPattern": {
+        "value": "Area equals {{area}}"
+      },
+      "areaGrid": {
+        "value": "Area Grid"
+      },
+      "areaGridRectanglePattern": {
+        "value": "{{height}} by {{width}} rectangle."
+      },
+      "areaGridSize": {
+        "value": "Area Grid Size"
+      },
+      "base10AreaTiles": {
+        "value": "Base 10 area tiles"
+      },
+      "betweenCalculationLines": {
+        "value": "is equivalent to "
+      },
+      "calculationBoxTitle": {
+        "value": "Calculation"
+      },
+      "calculationBoxDescription": {
+        "value": "Show or hide the calculation."
+      },
+      "countingNumbersDescription": {
+        "value": "Count each unit of area"
+      },
+      "countingNumbersLabel": {
+        "value": "Counting Numbers"
+      },
+      "countingNumbersPattern": {
+        "value": "Area units count to {{count}}."
+      },
+      "dragHandle": {
+        "value": "Drag handle"
+      },
+      "dragHandleDescriptionPattern": {
+        "value": "Drag the handle to build a rectangle up to {{height}} by {{width}}."
+      },
+      "erase": {
+        "value": "Erase"
+      },
+      "eraseDescription": {
+        "value": "Clear the rectangle and build a new one."
+      },
+      "factorsBox": {
+        "value": "Factors"
+      },
+      "factorsBoxDescription": {
+        "value": "Show or hide the factors."
+      },
+      "factorsTimesPattern": {
+        "value": "{{height}} times {{width}}"
+      },
+      "gridLinesLabel": {
+        "value": "Grid lines"
+      },
+      "hidePartialProducts": {
+        "value": "Hide partial products"
+      },
+      "horizontalDimensionCapitalized": {
+        "value": "Width"
+      },
+      "horizontalPartition": {
+        "value": "Horizontal partition"
+      },
+      "horizontalPartitionHandle": {
+        "value": "Horizontal partition handle"
+      },
+      "horizontalPartitionHandleDescription": {
+        "value": "Partition rectangle into two smaller areas by splitting the height."
+      },
+      "horizontalPicker": {
+        "value": "Width"
+      },
+      "horizontalPickerDescription": {
+        "value": "Change the dimensions of the rectangle."
+      },
+      "multiplyScreenButtonsHelpText": {
+        "value": "Play with multiplication by interacting with an area model."
+      },
+      "onePartialProductFactorPattern": {
+        "value": "No partition set. Product factors are {{first}}."
+      },
+      "onePartialProductPattern": {
+        "value": "No partition set. Product is {{first}}."
+      },
+      "partitionScreenButtonsHelpText": {
+        "value": "Partition your area model and explore the distributive property."
+      },
+      "partitionSelectionDescription": {
+        "value": "Switch between vertical and horizontal partition lines."
+      },
+      "placeholder": {
+        "value": "empty"
+      },
+      "productBox": {
+        "value": "Product"
+      },
+      "productBoxDescription": {
+        "value": "Show or hide the product."
+      },
+      "productTimesPattern": {
+        "value": "{{left}} times {{right}}"
+      },
+      "quantityPattern": {
+        "value": "left parenthesis {{content}} right parenthesis"
+      },
+      "questionMark": {
+        "value": "undefined"
+      },
+      "sceneSelectionPattern": {
+        "value": "{{height}} by {{width}}"
+      },
+      "showPartialProductFactors": {
+        "value": "Show partial product factors"
+      },
+      "showPartialProducts": {
+        "value": "Show partial products"
+      },
+      "sumMinus": {
+        "value": "minus"
+      },
+      "sumPlus": {
+        "value": "plus"
+      },
+      "threePartitionsSplitPattern": {
+        "value": "{{partition}} of {{size}} split into {{size1}}, {{size2}} and {{size3}}."
+      },
+      "twoPartialProductFactorsPattern": {
+        "value": "There are two partitions. Partial product factors are {{first}} and {{second}}."
+      },
+      "twoPartialProductsPattern": {
+        "value": "There are two partitions. Partial products are {{first}} and {{second}}."
+      },
+      "twoPartitionsSplitPattern": {
+        "value": "{{partition}} of {{size}} split into {{size1}} and {{size2}}."
+      },
+      "verticalDimensionCapitalized": {
+        "value": "Height"
+      },
+      "verticalPartition": {
+        "value": "Vertical partition"
+      },
+      "verticalPartitionHandle": {
+        "value": "Vertical partition handle"
+      },
+      "verticalPartitionHandleDescription": {
+        "value": "Partition rectangle into two smaller areas by splitting the width."
+      },
+      "verticalPicker": {
+        "value": "Height"
+      },
+      "verticalPickerDescription": {
+        "value": "Change the dimensions of the rectangle."
+      }
+    }
+  }
+}

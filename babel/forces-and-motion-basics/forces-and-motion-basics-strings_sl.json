@@ -1,0 +1,432 @@
+{
+  "speed": {
+    "value": "Hitrost",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Hitrost",
+        "explanation": null
+      }
+    ]
+  },
+  "go": {
+    "value": "Začni",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Začni",
+        "explanation": null
+      }
+    ]
+  },
+  "pause": {
+    "value": "Končaj",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Končaj",
+        "explanation": null
+      }
+    ]
+  },
+  "return": {
+    "value": "Na začetek",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Na začetek",
+        "explanation": null
+      }
+    ]
+  },
+  "blueWins": {
+    "value": "Zmaga modrega!",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Modri je zmagal",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "Modri je zmagal",
+        "newValue": "Zmaga modrega!",
+        "explanation": null
+      }
+    ]
+  },
+  "redWins": {
+    "value": "Zmaga rdečega!",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Rdeči je zmagal",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "Rdeči je zmagal",
+        "newValue": "Zmaga rdečega!",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForces": {
+    "value": "Rezultanta sil",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Rezultanta sil",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Vrednosti",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Vrednosti",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForcesEqualsZero": {
+    "value": "Vsota vseh sil je",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Vsota vseh sil je",
+        "explanation": null
+      }
+    ]
+  },
+  "leftForce": {
+    "value": "Sila v levo",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Sila v levo",
+        "explanation": null
+      }
+    ]
+  },
+  "rightForce": {
+    "value": "Sila v desno",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Sila v desno",
+        "explanation": null
+      }
+    ]
+  },
+  "appliedForce": {
+    "value": "Določi silo",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Določi silo",
+        "explanation": null
+      }
+    ]
+  },
+  "frictionForce": {
+    "value": "Sila trenja",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Sila trenja",
+        "explanation": null
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Pospešek",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Pospešek",
+        "explanation": null
+      }
+    ]
+  },
+  "force": {
+    "value": "Rezultanta sil",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Rezultanta sil",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Sile",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Sile",
+        "explanation": null
+      }
+    ]
+  },
+  "masses": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Masa",
+        "explanation": null
+      }
+    ]
+  },
+  "friction": {
+    "value": "S trenjem",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "S tenjem",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1554933061548,
+        "oldValue": "S tenjem",
+        "newValue": "S trenjem",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Veliko",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Veliko",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "nič",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "nič",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsNewtons": {
+    "value": "{0} N",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "{0} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forces-and-motion-basics.title": {
+    "value": "Vzporedne sile",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Vzporedne sile",
+        "explanation": null
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Sile",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Sile",
+        "explanation": null
+      }
+    ]
+  },
+  "motion": {
+    "value": "Brez trenja",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1471599838732,
+        "oldValue": "",
+        "newValue": "Brez trenja",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsN": {
+    "value": "{0}N",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1715934485275,
+        "oldValue": "",
+        "newValue": "{0}N"
+      }
+    ]
+  },
+  "pattern.0massUnitsKilograms": {
+    "value": "{0} kg",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1715934485275,
+        "oldValue": "",
+        "newValue": "{0} kg"
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsVelocity": {
+    "value": "{0} m/s",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1715934485275,
+        "oldValue": "",
+        "newValue": "{0} m/s"
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsAcceleration": {
+    "value": "{0}: {1} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1715934485275,
+        "oldValue": "",
+        "newValue": "{0}: {1} m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "netForcePullerColors": {
+    "value": "Barva rezultante vleke",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "",
+        "newValue": "Barva rezultante vleke"
+      }
+    ]
+  },
+  "blueAndRed": {
+    "value": "Modra in rdeča",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "",
+        "newValue": "Modra in rdeča"
+      }
+    ]
+  },
+  "purpleAndOrange": {
+    "value": "Vijolična in oranžna",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "",
+        "newValue": "Vijolična in oranžna"
+      }
+    ]
+  },
+  "purpleWins": {
+    "value": "Zmaga vijoličnega!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "",
+        "newValue": "Zmaga vijoličnega!"
+      }
+    ]
+  },
+  "orangeWins": {
+    "value": "Zmaga oranžnega!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "",
+        "newValue": "Zmaga oranžnega!"
+      }
+    ]
+  },
+  "unknownValueIndicator": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Štoparica",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1744743272219,
+        "oldValue": "",
+        "newValue": "Štoparica"
+      }
+    ]
+  }
+}

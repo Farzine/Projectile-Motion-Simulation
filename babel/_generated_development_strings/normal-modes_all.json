@@ -1,0 +1,2657 @@
+{
+  "am": {
+    "screen.oneDimension": {
+      "value": "አንድ ልኬት"
+    },
+    "screen.twoDimensions": {
+      "value": "ሁለት ልኬቶች "
+    },
+    "initialPositions": {
+      "value": "የመጀመሪያ ቦታዎች"
+    },
+    "zeroPositions": {
+      "value": "ዜሮ ቦታዎች"
+    },
+    "showSprings": {
+      "value": "ስፕሪንጎችን አሳይ "
+    },
+    "showPhases": {
+      "value": "ደረጃዎችን አሳይ"
+    },
+    "normal-modes.title": {
+      "value": "መደበኛ ሁኔታዎች"
+    },
+    "amplitude": {
+      "value": "አምፕሊቲዪድ "
+    },
+    "frequency": {
+      "value": "ድግግሞሽ"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "መደበኛ ሁነታ ስፔክትረም"
+    },
+    "normalMode": {
+      "value": "መደበኛ ሁኔታ"
+    },
+    "phase": {
+      "value": "ደረጃ "
+    },
+    "normalModeAmplitudes": {
+      "value": "መደበኛ ሁነታ አምፕሊቲዪድ "
+    },
+    "numberOfMasses": {
+      "value": "የጅምላ ብዛት"
+    }
+  },
+  "ar": {
+    "screen.oneDimension": {
+      "value": "احادي الابعاد"
+    },
+    "screen.twoDimensions": {
+      "value": "ثنائي الابعاد"
+    },
+    "initialPositions": {
+      "value": "المواقع  البدائية"
+    },
+    "zeroPositions": {
+      "value": "المواقع الصفرية"
+    },
+    "showSprings": {
+      "value": "اظهر النوابض"
+    },
+    "showPhases": {
+      "value": "اظهر الاطوار"
+    },
+    "normal-modes.title": {
+      "value": "الترددات الطبيعية (الاوضاع الترددية الطبيعية/normal modes)"
+    },
+    "amplitude": {
+      "value": "السعة"
+    },
+    "frequency": {
+      "value": "التردد"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "مجال الترددات الطبيعية"
+    },
+    "normalMode": {
+      "value": "التردد الطبيعي"
+    },
+    "phase": {
+      "value": "الطور"
+    },
+    "normalModeAmplitudes": {
+      "value": "سعة التردد الطبيعي"
+    },
+    "numberOfMasses": {
+      "value": "عدد الكتل"
+    }
+  },
+  "ar_MA": {
+    "screen.oneDimension": {
+      "value": "بعد واحد"
+    },
+    "screen.twoDimensions": {
+      "value": "بعدين اثنين"
+    },
+    "initialPositions": {
+      "value": "مواضع بدئية"
+    },
+    "zeroPositions": {
+      "value": "المواضع الصفر"
+    },
+    "showSprings": {
+      "value": "اظهار النوابض"
+    },
+    "showPhases": {
+      "value": "اظهار الأطوار"
+    },
+    "normal-modes.title": {
+      "value": "الأوضاع الاعتيادية"
+    },
+    "amplitude": {
+      "value": "الوسع"
+    },
+    "frequency": {
+      "value": "التردد"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "وضع الطيف العادي"
+    },
+    "normalMode": {
+      "value": "الوضع العادي:"
+    },
+    "phase": {
+      "value": "الطور:"
+    },
+    "normalModeAmplitudes": {
+      "value": "الوسع في الوضع العادي"
+    },
+    "numberOfMasses": {
+      "value": "عدد الكتل:"
+    }
+  },
+  "az": {
+    "screen.oneDimension": {
+      "value": "Birölçülü"
+    },
+    "screen.twoDimensions": {
+      "value": "İkiölçülü"
+    },
+    "initialPositions": {
+      "value": "Başlanğıc mövqe"
+    },
+    "zeroPositions": {
+      "value": "Sıfır nöqtəsi"
+    },
+    "showSprings": {
+      "value": "Yayları göstərin"
+    },
+    "showPhases": {
+      "value": "Fazaları göstərin"
+    },
+    "normal-modes.title": {
+      "value": "Normal rejim"
+    },
+    "amplitude": {
+      "value": "Amplitud:"
+    },
+    "frequency": {
+      "value": "Tezlik:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Normal rejim spektri"
+    },
+    "normalMode": {
+      "value": "Normal rejim:"
+    },
+    "phase": {
+      "value": "Faza:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Normal rejim amplitudları"
+    },
+    "numberOfMasses": {
+      "value": "Nöqtələrin sayı:"
+    }
+  },
+  "bg": {
+    "screen.oneDimension": {
+      "value": "Едно измерение"
+    },
+    "screen.twoDimensions": {
+      "value": "Две измерения"
+    },
+    "initialPositions": {
+      "value": "Първоначални позиции"
+    },
+    "zeroPositions": {
+      "value": "Нулеви позиции"
+    },
+    "showSprings": {
+      "value": "Покажи пружините"
+    },
+    "showPhases": {
+      "value": "Покажи фазите"
+    },
+    "normal-modes.title": {
+      "value": "Трептения"
+    },
+    "amplitude": {
+      "value": "Амлитуда:"
+    },
+    "frequency": {
+      "value": "Честота:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Спектър на нормален режим"
+    },
+    "normalMode": {
+      "value": "Нормален режим:"
+    },
+    "phase": {
+      "value": "Фаза:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Амлитуди в нормален режим"
+    },
+    "numberOfMasses": {
+      "value": "Брой маси:"
+    }
+  },
+  "bn": {
+    "screen.oneDimension": {
+      "value": "এক মাত্রিক "
+    },
+    "screen.twoDimensions": {
+      "value": "দ্বি মাত্রিক "
+    },
+    "initialPositions": {
+      "value": "অদি অবস্থান "
+    },
+    "zeroPositions": {
+      "value": "জিরো পজিশন"
+    },
+    "showSprings": {
+      "value": "স্পিংকে দেখাও "
+    },
+    "showPhases": {
+      "value": "দশাকে(Phase) দেখাও "
+    },
+    "normal-modes.title": {
+      "value": "বস্তুর কম্পনের সাধারন  মোডসমুহ "
+    },
+    "amplitude": {
+      "value": "বিস্তার "
+    },
+    "frequency": {
+      "value": "কম্পাঙ্ক "
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "সাধারণ মোড স্পেকট্রাম"
+    },
+    "normalMode": {
+      "value": "সাধারণ মোড"
+    },
+    "phase": {
+      "value": "দশা "
+    },
+    "normalModeAmplitudes": {
+      "value": "সাধারণ মোডে বিস্তার "
+    },
+    "numberOfMasses": {
+      "value": "ভরসমূহের সংখ্যা "
+    }
+  },
+  "bs": {
+    "screen.oneDimension": {
+      "value": "jedna dimenzija"
+    },
+    "screen.twoDimensions": {
+      "value": "dvije dimenzije"
+    },
+    "initialPositions": {
+      "value": "početni položaj"
+    },
+    "zeroPositions": {
+      "value": "nulti položaj"
+    },
+    "showSprings": {
+      "value": "pokaži opruge"
+    },
+    "showPhases": {
+      "value": "pokaži faze"
+    },
+    "normal-modes.title": {
+      "value": "Normalni modovi"
+    },
+    "amplitude": {
+      "value": "amplituda:"
+    },
+    "frequency": {
+      "value": "frekvencija:"
+    },
+    "normalModeSpectrum": {
+      "value": "normalni mod - spektar"
+    },
+    "normalMode": {
+      "value": "normalni mod:"
+    },
+    "phase": {
+      "value": "faza:"
+    },
+    "normalModeAmplitudes": {
+      "value": "amplituda normalnog moda"
+    },
+    "numberOfMasses": {
+      "value": "broj masa:"
+    }
+  },
+  "ca": {
+    "screen.oneDimension": {
+      "value": "Una dimensió"
+    },
+    "screen.twoDimensions": {
+      "value": "Dues dimensions"
+    },
+    "initialPositions": {
+      "value": "Posicions inicials"
+    },
+    "zeroPositions": {
+      "value": "Posicionar a zero"
+    },
+    "showSprings": {
+      "value": "Mostrar ressorts"
+    },
+    "showPhases": {
+      "value": "Mostrar fases"
+    },
+    "normal-modes.title": {
+      "value": "Modes normals"
+    },
+    "amplitude": {
+      "value": "Amplitud:"
+    },
+    "frequency": {
+      "value": "Freqüència:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Espectre del mode normal"
+    },
+    "normalMode": {
+      "value": "Mode normal:"
+    },
+    "phase": {
+      "value": "Fase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplituds del mode normal"
+    },
+    "numberOfMasses": {
+      "value": "Nombre de masses:"
+    }
+  },
+  "cs": {
+    "screen.oneDimension": {
+      "value": "Jednorozměrné"
+    },
+    "screen.twoDimensions": {
+      "value": "Dvourozměrné"
+    },
+    "initialPositions": {
+      "value": "Nstavit jako výchozí polohu"
+    },
+    "zeroPositions": {
+      "value": "Rovnovážná poloha"
+    },
+    "showSprings": {
+      "value": "Zobrazit propojení"
+    },
+    "showPhases": {
+      "value": "Ukázat fáze"
+    },
+    "normal-modes.title": {
+      "value": "Normální mody"
+    },
+    "amplitude": {
+      "value": "Amplituda"
+    },
+    "frequency": {
+      "value": "Frekvence"
+    },
+    "normalModeSpectrum": {
+      "value": "Spektrum normálních modů"
+    },
+    "normalMode": {
+      "value": "Normální mod:"
+    },
+    "phase": {
+      "value": "Fáze:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudy normálních modů"
+    },
+    "numberOfMasses": {
+      "value": "Počet hmotných bodů:"
+    }
+  },
+  "da": {
+    "screen.oneDimension": {
+      "value": "En dimension "
+    },
+    "screen.twoDimensions": {
+      "value": "To dimensioner"
+    },
+    "initialPositions": {
+      "value": "Udgangspositioner"
+    },
+    "zeroPositions": {
+      "value": "Nulstil positioner"
+    },
+    "showSprings": {
+      "value": "Vis fjedre"
+    },
+    "showPhases": {
+      "value": "Vis faser"
+    },
+    "normal-modes.title": {
+      "value": "Normalsvingninger"
+    },
+    "amplitude": {
+      "value": "Amplitude:"
+    },
+    "frequency": {
+      "value": "Frekvens:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Normalsvingninger spektrum"
+    },
+    "normalMode": {
+      "value": "Normalsvingninger:"
+    },
+    "phase": {
+      "value": "Fase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Normalsvingninger amplituder"
+    },
+    "numberOfMasses": {
+      "value": "Antal vægte:"
+    }
+  },
+  "de": {
+    "screen.oneDimension": {
+      "value": "Eine Dimension "
+    },
+    "screen.twoDimensions": {
+      "value": "Zwei Dimensionen"
+    },
+    "initialPositions": {
+      "value": "Startpositionen"
+    },
+    "zeroPositions": {
+      "value": "Gleichgewichtslagen"
+    },
+    "showSprings": {
+      "value": "Federn anzeigen"
+    },
+    "showPhases": {
+      "value": "Phasen anzeigen"
+    },
+    "normal-modes.title": {
+      "value": "Normalmoden"
+    },
+    "amplitude": {
+      "value": "Amplitude:"
+    },
+    "frequency": {
+      "value": "Frequenz:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Normalmoden-Spektrum"
+    },
+    "normalMode": {
+      "value": "Normalmode:"
+    },
+    "phase": {
+      "value": "Phase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitude der Normalmoden"
+    },
+    "numberOfMasses": {
+      "value": "Anzahl der Massen"
+    }
+  },
+  "el": {
+    "screen.oneDimension": {
+      "value": "Μία διάσταση"
+    },
+    "screen.twoDimensions": {
+      "value": "Δύο διαστάσεις"
+    },
+    "initialPositions": {
+      "value": "Αρχικές θέσεις"
+    },
+    "zeroPositions": {
+      "value": "Μηδενικές θέσεις"
+    },
+    "showSprings": {
+      "value": "Εμφάνιση ελατηρίων"
+    },
+    "showPhases": {
+      "value": "Εμφάνιση φάσεων"
+    },
+    "normal-modes.title": {
+      "value": "Κανονικοί τρόποι ταλάντωσης"
+    },
+    "amplitude": {
+      "value": "Εύρος:"
+    },
+    "frequency": {
+      "value": "Συχνότητα:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Φάσμα κανονικών τρόπων"
+    },
+    "normalMode": {
+      "value": "Κανονικός τρόπος:"
+    },
+    "phase": {
+      "value": "Φάση:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Εύρος κανονικών τρόπων"
+    },
+    "numberOfMasses": {
+      "value": "Αριθμός μαζών:"
+    }
+  },
+  "es": {
+    "screen.oneDimension": {
+      "value": "Una Dimensión"
+    },
+    "screen.twoDimensions": {
+      "value": "Dos Dimensiones"
+    },
+    "initialPositions": {
+      "value": "Posiciones Iniciales"
+    },
+    "zeroPositions": {
+      "value": "Posiciones Cero"
+    },
+    "showSprings": {
+      "value": "Mostrar Resortes"
+    },
+    "showPhases": {
+      "value": "Mostrar Fases"
+    },
+    "normal-modes.title": {
+      "value": "Modos Normales"
+    },
+    "amplitude": {
+      "value": "Amplitud"
+    },
+    "frequency": {
+      "value": "Frecuencia"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Espectro de Modo Normal"
+    },
+    "normalMode": {
+      "value": "Modo Normal"
+    },
+    "phase": {
+      "value": "Fase"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudes de Modo Normal"
+    },
+    "numberOfMasses": {
+      "value": "Número de Masas"
+    }
+  },
+  "es_PE": {
+    "screen.oneDimension": {
+      "value": "Una dimensión"
+    },
+    "screen.twoDimensions": {
+      "value": "Dos dimensiones"
+    },
+    "initialPositions": {
+      "value": "Posiciones iniciales"
+    },
+    "zeroPositions": {
+      "value": "Posiciones cero"
+    },
+    "showSprings": {
+      "value": "Mostrar resortes"
+    },
+    "showPhases": {
+      "value": "Mostrar fases"
+    },
+    "normal-modes.title": {
+      "value": "Modos normales"
+    },
+    "amplitude": {
+      "value": "Amplitud"
+    },
+    "frequency": {
+      "value": "Frecuencia"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Espectro de modo normal"
+    },
+    "normalMode": {
+      "value": "Modo normal"
+    },
+    "phase": {
+      "value": "Fase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudes de modo normal"
+    },
+    "numberOfMasses": {
+      "value": "Número de Masas:"
+    }
+  },
+  "eu": {
+    "screen.oneDimension": {
+      "value": "Dimentsio bakarra"
+    },
+    "screen.twoDimensions": {
+      "value": "Bi dimentsio"
+    },
+    "initialPositions": {
+      "value": "Hasierako postuak"
+    },
+    "zeroPositions": {
+      "value": "Zero posizioak"
+    },
+    "showSprings": {
+      "value": "Erakutsi iturburuak"
+    },
+    "showPhases": {
+      "value": "Erakutsi faseak"
+    },
+    "normal-modes.title": {
+      "value": "Modu arruntak"
+    },
+    "amplitude": {
+      "value": "Anplitudea:"
+    },
+    "frequency": {
+      "value": "Maiztasuna:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Modu normalaren espektroa"
+    },
+    "normalMode": {
+      "value": "Modu normala:"
+    },
+    "phase": {
+      "value": "Fasea:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Modu normalaren anplitudeak"
+    },
+    "numberOfMasses": {
+      "value": "Masa-kopurua"
+    }
+  },
+  "fa": {
+    "screen.oneDimension": {
+      "value": "یک بعدی"
+    },
+    "screen.twoDimensions": {
+      "value": "دوبعدی"
+    },
+    "initialPositions": {
+      "value": "موقعیت اولیه"
+    },
+    "zeroPositions": {
+      "value": "صفر کردن موقعیت"
+    },
+    "showSprings": {
+      "value": "نمایش فنرها"
+    },
+    "showPhases": {
+      "value": "نمایش فازها"
+    },
+    "normal-modes.title": {
+      "value": "مودهای نرمال"
+    },
+    "amplitude": {
+      "value": "دامنه"
+    },
+    "frequency": {
+      "value": "بسامد"
+    },
+    "normalModeSpectrum": {
+      "value": "طیف مود نرمال"
+    },
+    "normalMode": {
+      "value": "مود نرمال"
+    },
+    "phase": {
+      "value": "فاز"
+    },
+    "normalModeAmplitudes": {
+      "value": "دامنه مود نرمال"
+    },
+    "numberOfMasses": {
+      "value": "تعداد اجرام"
+    }
+  },
+  "fr": {
+    "screen.oneDimension": {
+      "value": "Une dimension"
+    },
+    "screen.twoDimensions": {
+      "value": "Deux dimensions"
+    },
+    "initialPositions": {
+      "value": "Positions initiales"
+    },
+    "zeroPositions": {
+      "value": "Positions nulles"
+    },
+    "showSprings": {
+      "value": "Montrer les ressorts"
+    },
+    "showPhases": {
+      "value": "Montrer les phases"
+    },
+    "normal-modes.title": {
+      "value": "Modes normaux"
+    },
+    "amplitude": {
+      "value": "Amplitude"
+    },
+    "frequency": {
+      "value": "Fréquence"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spectre en mode normal"
+    },
+    "normalMode": {
+      "value": "Mode normal:"
+    },
+    "phase": {
+      "value": "Phase"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudes en mode normal"
+    },
+    "numberOfMasses": {
+      "value": "Nombre de masses"
+    }
+  },
+  "gu": {
+    "screen.oneDimension": {
+      "value": "એક પરિમાણ"
+    },
+    "screen.twoDimensions": {
+      "value": "બે પરિમાણો"
+    },
+    "initialPositions": {
+      "value": "શરૂઆતી સ્થિતિ"
+    },
+    "zeroPositions": {
+      "value": "શૂન્ય સ્થિતિ"
+    },
+    "showSprings": {
+      "value": "સ્પ્રિંગ દર્શાવો"
+    },
+    "showPhases": {
+      "value": "ફેઝ દર્શાવો"
+    },
+    "normal-modes.title": {
+      "value": "નોર્મલ મોડસ"
+    },
+    "amplitude": {
+      "value": "એમ્પલિટયૂડ:"
+    },
+    "frequency": {
+      "value": "આવૃતિ:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "નોર્મલ મોડ સ્પેક્ટ્રમ"
+    },
+    "normalMode": {
+      "value": "નોર્મલ મોડ:"
+    },
+    "phase": {
+      "value": "ફેઝ:"
+    },
+    "normalModeAmplitudes": {
+      "value": "નોર્મલ મોડ એમ્પલિટયૂડ્ઝ"
+    },
+    "numberOfMasses": {
+      "value": "દળોની સંખ્યા"
+    }
+  },
+  "ha": {
+    "screen.oneDimension": {
+      "value": "Yanayin fadi ko tsayi Mai Guda daya"
+    },
+    "screen.twoDimensions": {
+      "value": "Yanayin fadi ko tsayi Mai guda biyu"
+    },
+    "initialPositions": {
+      "value": "Matsayi Na farko"
+    },
+    "zeroPositions": {
+      "value": "Zero position "
+    },
+    "showSprings": {
+      "value": "Nuna sifirin-sifirin"
+    },
+    "showPhases": {
+      "value": "Show phase"
+    },
+    "normal-modes.title": {
+      "value": "Normal Modes"
+    },
+    "amplitude": {
+      "value": "Tsawon taguwa"
+    },
+    "frequency": {
+      "value": "Yawan fruwa"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}"
+    },
+    "normalModeSpectrum": {
+      "value": "Normal Mode Spectrum "
+    },
+    "normalMode": {
+      "value": "Normal Mode"
+    },
+    "phase": {
+      "value": "Phase "
+    },
+    "normalModeAmplitudes": {
+      "value": "Normal Mode Amplitude "
+    },
+    "numberOfMasses": {
+      "value": "Yawn nauyukka"
+    }
+  },
+  "hi": {
+    "screen.oneDimension": {
+      "value": "एकल आयाम"
+    },
+    "screen.twoDimensions": {
+      "value": "द्वि आयाम"
+    },
+    "initialPositions": {
+      "value": "प्रारंभिक स्थिति"
+    },
+    "zeroPositions": {
+      "value": "शून्य स्थिति"
+    },
+    "showSprings": {
+      "value": "स्प्रिंग्स दिखाएँ"
+    },
+    "showPhases": {
+      "value": "अवस्थाएँ दिखाएँ"
+    },
+    "normal-modes.title": {
+      "value": "सामान्य अवस्थाएँ"
+    },
+    "amplitude": {
+      "value": "आयाम"
+    },
+    "frequency": {
+      "value": "आवृत्ति"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "सामान्य अवस्था में स्पेक्ट्रम"
+    },
+    "normalMode": {
+      "value": "सामान्य अवस्था"
+    },
+    "phase": {
+      "value": "अवस्था"
+    },
+    "normalModeAmplitudes": {
+      "value": "सामान्य अवस्था में आयाम"
+    },
+    "numberOfMasses": {
+      "value": "पुंज संख्या"
+    }
+  },
+  "hr": {
+    "screen.oneDimension": {
+      "value": "Jedna dimenzija "
+    },
+    "screen.twoDimensions": {
+      "value": "Dvije dimenzije "
+    },
+    "initialPositions": {
+      "value": "Početni položaj "
+    },
+    "zeroPositions": {
+      "value": "Nulti položaj "
+    },
+    "showSprings": {
+      "value": "Pokaži opruge "
+    },
+    "showPhases": {
+      "value": "Pokaži faze"
+    },
+    "normal-modes.title": {
+      "value": "Normalni mod"
+    },
+    "amplitude": {
+      "value": "Amplituda "
+    },
+    "frequency": {
+      "value": "Frekvencija "
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spektar normalnog moda"
+    },
+    "normalMode": {
+      "value": "Normalni mod"
+    },
+    "phase": {
+      "value": "Faze "
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplituda normalnog moda"
+    },
+    "numberOfMasses": {
+      "value": "Broj masa"
+    }
+  },
+  "ig": {
+    "screen.oneDimension": {
+      "value": "Otu akụkụ"
+    },
+    "screen.twoDimensions": {
+      "value": "Akụkụ abụọ"
+    },
+    "initialPositions": {
+      "value": "Ọnọdụ mbụ"
+    },
+    "zeroPositions": {
+      "value": "Ọnọdụ efu"
+    },
+    "showSprings": {
+      "value": "Gosi spring"
+    },
+    "showPhases": {
+      "value": "Gosi usoro"
+    },
+    "normal-modes.title": {
+      "value": "Ụdị nkịtị"
+    },
+    "amplitude": {
+      "value": "njupụta"
+    },
+    "frequency": {
+      "value": "Mgbe na mgbe:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Ụdị nkịtị ìgwè nke agba"
+    },
+    "normalMode": {
+      "value": "Ụdị nkịtị"
+    },
+    "phase": {
+      "value": "Usoro:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Ụdị nkịtị njupụta"
+    },
+    "numberOfMasses": {
+      "value": "Ọnụọgụ nke ukwuego"
+    }
+  },
+  "it": {
+    "screen.oneDimension": {
+      "value": "Una dimensione"
+    },
+    "screen.twoDimensions": {
+      "value": "Due dimensioni"
+    },
+    "initialPositions": {
+      "value": "Posizioni iniziali"
+    },
+    "zeroPositions": {
+      "value": "Posizione zero"
+    },
+    "showSprings": {
+      "value": "Mostra le molle"
+    },
+    "showPhases": {
+      "value": "Mostra le fasi"
+    },
+    "normal-modes.title": {
+      "value": "Modi normali di vibrazione"
+    },
+    "amplitude": {
+      "value": "Ampiezza"
+    },
+    "frequency": {
+      "value": "Frequenza"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spettro di modo normale"
+    },
+    "normalMode": {
+      "value": "Modo normale:"
+    },
+    "phase": {
+      "value": "Fase"
+    },
+    "normalModeAmplitudes": {
+      "value": "Ampiezza del modo normale"
+    },
+    "numberOfMasses": {
+      "value": "Numero delle masse"
+    }
+  },
+  "iw": {
+    "screen.oneDimension": {
+      "value": "ממד אחד"
+    },
+    "screen.twoDimensions": {
+      "value": "שני ממדים"
+    },
+    "initialPositions": {
+      "value": "מיקום ראשוני"
+    },
+    "zeroPositions": {
+      "value": "מיקום אפס"
+    },
+    "showSprings": {
+      "value": "הצג קפיצים"
+    },
+    "showPhases": {
+      "value": "הצג פאזות"
+    },
+    "normal-modes.title": {
+      "value": "אופני תנודה עצמיים"
+    },
+    "amplitude": {
+      "value": "משרעת:"
+    },
+    "frequency": {
+      "value": "תדירות:"
+    },
+    "normalModeSpectrum": {
+      "value": "ספקטרום אופן תנודה"
+    },
+    "normalMode": {
+      "value": "אופן תנודה:"
+    },
+    "phase": {
+      "value": "מופע (פאזה):"
+    },
+    "normalModeAmplitudes": {
+      "value": "משרעות אופן תנודה עצמי"
+    },
+    "numberOfMasses": {
+      "value": "מספר מסות"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    }
+  },
+  "ki": {
+    "screen.oneDimension": {
+      "value": "Dimension  imwe"
+    },
+    "screen.twoDimensions": {
+      "value": "Dimension igiri"
+    },
+    "initialPositions": {
+      "value": "Maũndũ ma Kĩambĩrĩria"
+    },
+    "zeroPositions": {
+      "value": "cĩikaro ni ĩero"
+    },
+    "showSprings": {
+      "value": "onania ithima"
+    },
+    "showPhases": {
+      "value": "onania mahinda"
+    },
+    "normal-modes.title": {
+      "value": "Njĩra cia Kaingĩ"
+    },
+    "amplitude": {
+      "value": "Amplitude:"
+    },
+    "frequency": {
+      "value": "Kaingĩ:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Njĩra ya Kaingĩ Spectrum"
+    },
+    "normalMode": {
+      "value": "Njĩra ya Kaingĩ :"
+    },
+    "phase": {
+      "value": "Ikinya:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Njĩra ya Kaingĩ Amplitudes"
+    },
+    "numberOfMasses": {
+      "value": "Namba ya ũingĩ"
+    }
+  },
+  "ko": {
+    "screen.oneDimension": {
+      "value": "1차원"
+    },
+    "screen.twoDimensions": {
+      "value": "2차원"
+    },
+    "initialPositions": {
+      "value": "초기위치"
+    },
+    "zeroPositions": {
+      "value": "영 위치"
+    },
+    "showSprings": {
+      "value": "스프링 보이기"
+    },
+    "showPhases": {
+      "value": "상 보이기"
+    },
+    "normal-modes.title": {
+      "value": "기준 모드"
+    },
+    "amplitude": {
+      "value": "진폭"
+    },
+    "frequency": {
+      "value": "진동수"
+    },
+    "normalModeSpectrum": {
+      "value": "기준 모드 스펙트럼"
+    },
+    "normalMode": {
+      "value": "기준 모드"
+    },
+    "phase": {
+      "value": "상:"
+    },
+    "normalModeAmplitudes": {
+      "value": "기준 모드 진폭"
+    },
+    "numberOfMasses": {
+      "value": "질량의 갯수"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    }
+  },
+  "lg": {
+    "screen.oneDimension": {
+      "value": "Oludda lumu"
+    },
+    "screen.twoDimensions": {
+      "value": "Enjuyi bbiri"
+    },
+    "initialPositions": {
+      "value": "Ebifo awatandikibwa"
+    },
+    "zeroPositions": {
+      "value": "Ebifo awatandikilwa okubala"
+    },
+    "showSprings": {
+      "value": "Laga sepulingi"
+    },
+    "showPhases": {
+      "value": "Laga emitendela"
+    },
+    "normal-modes.title": {
+      "value": "Okwewuuba kwobutonde"
+    },
+    "amplitude": {
+      "value": "Ejengo gyelikoma"
+    },
+    "frequency": {
+      "value": "Obungi bwamayengo"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Ebika byonna ebyokwewuuba kwobutonde"
+    },
+    "normalMode": {
+      "value": "Okwewuuba kwobutonde"
+    },
+    "phase": {
+      "value": "Omutendela ogumu bwegwawuka kumulala"
+    },
+    "normalModeAmplitudes": {
+      "value": "Okwewuuba kwobutonde gyekukoma"
+    },
+    "numberOfMasses": {
+      "value": "Obungi bwa mayinja gobuzito"
+    }
+  },
+  "mn": {
+    "screen.oneDimension": {
+      "value": "Нэг хэмжээст"
+    },
+    "screen.twoDimensions": {
+      "value": "Хоёр хэмжээст"
+    },
+    "initialPositions": {
+      "value": "Анхны Байрлал"
+    },
+    "zeroPositions": {
+      "value": "Тэг Байрлал"
+    },
+    "showSprings": {
+      "value": "Чавхдас Харах"
+    },
+    "showPhases": {
+      "value": "Фаз Харах"
+    },
+    "normal-modes.title": {
+      "value": "Хэлбэлзэх горим"
+    },
+    "amplitude": {
+      "value": "Далайц:"
+    },
+    "frequency": {
+      "value": "Давтамж:"
+    },
+    "normalModeSpectrum": {
+      "value": "Хэлбэлзлийн Спектор"
+    },
+    "normalMode": {
+      "value": "Хэлбэлзэх Горим:"
+    },
+    "phase": {
+      "value": "Фаз:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Хэлбэлзэх Далайц"
+    },
+    "numberOfMasses": {
+      "value": "Массын Тоо"
+    }
+  },
+  "ms": {
+    "screen.oneDimension": {
+      "value": "Satu Dimensi"
+    },
+    "screen.twoDimensions": {
+      "value": "Dua Dimensi"
+    },
+    "initialPositions": {
+      "value": "Kedudukan Awal"
+    },
+    "zeroPositions": {
+      "value": "Kedudukan Sifar"
+    },
+    "showSprings": {
+      "value": "Papar Spring"
+    },
+    "showPhases": {
+      "value": "Papar Fasa"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitud Mod Normal"
+    },
+    "normal-modes.title": {
+      "value": "Mod Normal"
+    },
+    "amplitude": {
+      "value": "Amplitud:"
+    },
+    "frequency": {
+      "value": "Frekuensi:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spektrum Mod Normal"
+    },
+    "normalMode": {
+      "value": "Mod Normal:"
+    },
+    "phase": {
+      "value": "Fasa:"
+    },
+    "numberOfMasses": {
+      "value": "Bilangan Jisim:"
+    }
+  },
+  "mt": {
+    "screen.oneDimension": {
+      "value": "One Dimension"
+    },
+    "screen.twoDimensions": {
+      "value": "Two Dimensions"
+    },
+    "initialPositions": {
+      "value": "Pożizzjonijiet Inizjali"
+    },
+    "zeroPositions": {
+      "value": "Zero Positions"
+    },
+    "showSprings": {
+      "value": "Uri l-Molol"
+    },
+    "showPhases": {
+      "value": "Uri Phases"
+    },
+    "normal-modes.title": {
+      "value": "Modes Normali"
+    },
+    "amplitude": {
+      "value": "Amplitude:"
+    },
+    "frequency": {
+      "value": "Frekwenza:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Normal Mode Spectrum"
+    },
+    "normalMode": {
+      "value": "Normal Mode:"
+    },
+    "phase": {
+      "value": "Phase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Normal Mode Amplitudes"
+    },
+    "numberOfMasses": {
+      "value": "Numru ta' Masses:"
+    }
+  },
+  "nl": {
+    "screen.oneDimension": {
+      "value": "Eén dimensie"
+    },
+    "screen.twoDimensions": {
+      "value": "Twee dimensies"
+    },
+    "initialPositions": {
+      "value": "Initiële positie"
+    },
+    "zeroPositions": {
+      "value": "Nul positie"
+    },
+    "showSprings": {
+      "value": "Toon veren"
+    },
+    "showPhases": {
+      "value": "Toon fases"
+    },
+    "normal-modes.title": {
+      "value": "Normale modes"
+    },
+    "frequency": {
+      "value": "Frequentie"
+    },
+    "normalModeSpectrum": {
+      "value": "Normale mode spectrum"
+    },
+    "normalMode": {
+      "value": "Normale mode:"
+    },
+    "phase": {
+      "value": "Fase"
+    },
+    "normalModeAmplitudes": {
+      "value": "Normale mode amplitudes"
+    },
+    "numberOfMasses": {
+      "value": "Aantal massa's"
+    }
+  },
+  "ny": {
+    "screen.oneDimension": {
+      "value": "Dimension imodzi"
+    },
+    "screen.twoDimensions": {
+      "value": "ma dimesion  awiri"
+    },
+    "initialPositions": {
+      "value": "Malo Oyamba"
+    },
+    "zeroPositions": {
+      "value": "palibe malo"
+    },
+    "showSprings": {
+      "value": "Onetsani ma Spring"
+    },
+    "showPhases": {
+      "value": "Onetsani Magawo"
+    },
+    "normal-modes.title": {
+      "value": "Normal Modes"
+    },
+    "amplitude": {
+      "value": "Matalikidwe:"
+    },
+    "frequency": {
+      "value": "Frequency:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Normal Mode Spectrum"
+    },
+    "normalMode": {
+      "value": "Normal Mode:"
+    },
+    "phase": {
+      "value": "Gawo:"
+    },
+    "normalModeAmplitudes": {
+      "value": "matalikidwe mu normal mode "
+    },
+    "numberOfMasses": {
+      "value": "nambala ya ma masi"
+    }
+  },
+  "om": {
+    "screen.oneDimension": {
+      "value": "Kal-tokkee"
+    },
+    "screen.twoDimensions": {
+      "value": "Kal-lamee"
+    },
+    "initialPositions": {
+      "value": "Bakka Jalqabaa"
+    },
+    "zeroPositions": {
+      "value": "Iddoowwan Zeeroo"
+    },
+    "showSprings": {
+      "value": "Cedhedha Agarsiisi"
+    },
+    "showPhases": {
+      "value": "Marsaa Agarsiisi"
+    },
+    "normal-modes.title": {
+      "value": "Haala Idilee"
+    },
+    "amplitude": {
+      "value": "Ampiliituudii:"
+    },
+    "frequency": {
+      "value": "Irradeddeebii:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Ispeektarmii Haala Idilee"
+    },
+    "normalMode": {
+      "value": "Haala Idilee:"
+    },
+    "phase": {
+      "value": "Marsaa:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Ampiliituudii Haala Idilee"
+    },
+    "numberOfMasses": {
+      "value": "Baay’ina Hangaa:"
+    }
+  },
+  "pl": {
+    "screen.oneDimension": {
+      "value": "Jeden wymiar"
+    },
+    "screen.twoDimensions": {
+      "value": "Dwa wymiary"
+    },
+    "initialPositions": {
+      "value": "Wychylenia początkowe"
+    },
+    "zeroPositions": {
+      "value": "Wychylenia zerowe"
+    },
+    "showSprings": {
+      "value": "Pokaż sprężyny"
+    },
+    "showPhases": {
+      "value": "Pokaż fazy"
+    },
+    "normal-modes.title": {
+      "value": "Mody normalne"
+    },
+    "amplitude": {
+      "value": "Amplituda:"
+    },
+    "frequency": {
+      "value": "Częstotliwość"
+    },
+    "normalModeSpectrum": {
+      "value": "Widmo modu normalnego"
+    },
+    "normalMode": {
+      "value": "Mod normalny:"
+    },
+    "phase": {
+      "value": "Faza:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudy modu normalnego"
+    },
+    "numberOfMasses": {
+      "value": "Liczba mas:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    }
+  },
+  "pt": {
+    "screen.oneDimension": {
+      "value": "Uma Dimensão"
+    },
+    "screen.twoDimensions": {
+      "value": "Duas Dimensões"
+    },
+    "initialPositions": {
+      "value": "Posições Iniciais"
+    },
+    "zeroPositions": {
+      "value": "Posições Zero"
+    },
+    "showSprings": {
+      "value": "Mostrar Molas"
+    },
+    "showPhases": {
+      "value": "Mostrar Fases"
+    },
+    "normal-modes.title": {
+      "value": "Modos Normais"
+    },
+    "amplitude": {
+      "value": "Amplitude:"
+    },
+    "frequency": {
+      "value": "Frequência:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Espectro do Modo Normal"
+    },
+    "normalMode": {
+      "value": "Modo Normal:"
+    },
+    "phase": {
+      "value": "Fase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudes do Modo Normal"
+    },
+    "numberOfMasses": {
+      "value": "Número de Massas:"
+    }
+  },
+  "pt_BR": {
+    "screen.oneDimension": {
+      "value": "Uma Dimensão"
+    },
+    "screen.twoDimensions": {
+      "value": "Duas Dimensões"
+    },
+    "initialPositions": {
+      "value": "Posições Iniciais"
+    },
+    "zeroPositions": {
+      "value": "Posições Zero"
+    },
+    "showSprings": {
+      "value": "Ver Cordas"
+    },
+    "showPhases": {
+      "value": "Ver Fases"
+    },
+    "normal-modes.title": {
+      "value": "Modos Normais"
+    },
+    "frequency": {
+      "value": "Frequência:"
+    },
+    "normalModeSpectrum": {
+      "value": "Espectro do Modo Normal"
+    },
+    "normalMode": {
+      "value": "Modo Normal:"
+    },
+    "phase": {
+      "value": "Fase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudes do Modo Normal"
+    },
+    "numberOfMasses": {
+      "value": "Número de Massas:"
+    },
+    "amplitude": {
+      "value": "Amplitude:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    }
+  },
+  "ro": {
+    "screen.oneDimension": {
+      "value": "O dimensiune"
+    },
+    "screen.twoDimensions": {
+      "value": "Două dimensiuni"
+    },
+    "initialPositions": {
+      "value": "Pozițiile inițiale"
+    },
+    "zeroPositions": {
+      "value": "Pozițiile de echilibru"
+    },
+    "showSprings": {
+      "value": "Arată resorturile"
+    },
+    "showPhases": {
+      "value": "Arată fazele"
+    },
+    "normal-modes.title": {
+      "value": "Modurile normale"
+    },
+    "amplitude": {
+      "value": "Amplitudine"
+    },
+    "frequency": {
+      "value": "Frecvență"
+    },
+    "normalModeSpectrum": {
+      "value": "Spectrul modurilor normale"
+    },
+    "normalMode": {
+      "value": "Moduri normale"
+    },
+    "phase": {
+      "value": "Faza"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudinea modurilor normale"
+    },
+    "numberOfMasses": {
+      "value": "Numărul de mase"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    }
+  },
+  "ru": {
+    "screen.oneDimension": {
+      "value": "Одномерный случай"
+    },
+    "screen.twoDimensions": {
+      "value": "Двумерный случай"
+    },
+    "initialPositions": {
+      "value": "Начальные положения"
+    },
+    "zeroPositions": {
+      "value": "Нулевые положения"
+    },
+    "showSprings": {
+      "value": "Показать пружины"
+    },
+    "showPhases": {
+      "value": "Показать фазы"
+    },
+    "normal-modes.title": {
+      "value": "Нормальные моды"
+    },
+    "amplitude": {
+      "value": "Амплитуда"
+    },
+    "frequency": {
+      "value": "Частота"
+    },
+    "normalModeSpectrum": {
+      "value": "Спектр нормальных мод"
+    },
+    "normalMode": {
+      "value": "Нормальная мода"
+    },
+    "phase": {
+      "value": "Фаза"
+    },
+    "normalModeAmplitudes": {
+      "value": "Амплитуды нормальных мод"
+    },
+    "numberOfMasses": {
+      "value": "Количество точек сосредоточения массы"
+    }
+  },
+  "rw": {
+    "screen.oneDimension": {
+      "value": "Umurongo ugororotse"
+    },
+    "screen.twoDimensions": {
+      "value": "Ikidandure"
+    },
+    "initialPositions": {
+      "value": "Intera z'ibanze"
+    },
+    "zeroPositions": {
+      "value": "Intera zingana na zero"
+    },
+    "showSprings": {
+      "value": "Kwerekana rasoro"
+    },
+    "showPhases": {
+      "value": "Kwerekana faze"
+    },
+    "normal-modes.title": {
+      "value": "Urwunge rw'inzicundo"
+    },
+    "amplitude": {
+      "value": "Ampulitide"
+    },
+    "frequency": {
+      "value": "Ubwisubire"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Amabara yerekana urwunge rw'ibintu binganya ubwisubire"
+    },
+    "normalMode": {
+      "value": "Urwunge rw'ibintu binganya ubwisubire"
+    },
+    "phase": {
+      "value": "Inguni yerekana ikintu ku gihe runaka"
+    },
+    "normalModeAmplitudes": {
+      "value": "Ampulitide z'urwicundo"
+    },
+    "numberOfMasses": {
+      "value": "Umubare w'ibintu bifite uburemere"
+    }
+  },
+  "sk": {
+    "screen.oneDimension": {
+      "value": "Jednorozmerný"
+    },
+    "screen.twoDimensions": {
+      "value": "Dvojrozmerný"
+    },
+    "initialPositions": {
+      "value": "Počiatočná poloha"
+    },
+    "zeroPositions": {
+      "value": "Nulové polohy"
+    },
+    "showSprings": {
+      "value": "Zobraziť prepojenie"
+    },
+    "showPhases": {
+      "value": "Zobraziť fázu"
+    },
+    "normal-modes.title": {
+      "value": "Normálny vibračný mód"
+    },
+    "amplitude": {
+      "value": "Amplitúda:"
+    },
+    "frequency": {
+      "value": "Frekvencia:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spektrum normálnych modov"
+    },
+    "normalMode": {
+      "value": "Normálny mód:"
+    },
+    "phase": {
+      "value": "Fáza:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitúdy normálnych modov"
+    },
+    "numberOfMasses": {
+      "value": "Počet hmotných bodov:"
+    }
+  },
+  "sl": {
+    "screen.oneDimension": {
+      "value": "Ena dimenzija"
+    },
+    "screen.twoDimensions": {
+      "value": "Dve dimenziji"
+    },
+    "initialPositions": {
+      "value": "Začetni položaj"
+    },
+    "zeroPositions": {
+      "value": "Ničelni položaj"
+    },
+    "showSprings": {
+      "value": "Pokaži vzmeti"
+    },
+    "showPhases": {
+      "value": "Pokaži faze"
+    },
+    "normal-modes.title": {
+      "value": "Normalni načini"
+    },
+    "amplitude": {
+      "value": "Amplituda:"
+    },
+    "frequency": {
+      "value": "Frekvenca:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spekter normalnega načina"
+    },
+    "normalMode": {
+      "value": "Normalni način:"
+    },
+    "phase": {
+      "value": "Faza:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitude normalnega načina"
+    },
+    "numberOfMasses": {
+      "value": "Število mas:"
+    }
+  },
+  "sq": {
+    "screen.oneDimension": {
+      "value": "Një Përmasë"
+    },
+    "screen.twoDimensions": {
+      "value": "Dy Përmasa"
+    },
+    "initialPositions": {
+      "value": "Pozicionet Fillestare"
+    },
+    "zeroPositions": {
+      "value": "Asnjë Pozicion"
+    },
+    "showSprings": {
+      "value": "Trego Burimet"
+    },
+    "showPhases": {
+      "value": "Trego Fazat"
+    },
+    "normal-modes.title": {
+      "value": "Modat Normale"
+    },
+    "amplitude": {
+      "value": "Amplituda"
+    },
+    "frequency": {
+      "value": "Frekuenca"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spektri i Modave Normale"
+    },
+    "normalMode": {
+      "value": "Modë Normale"
+    },
+    "phase": {
+      "value": "Faza"
+    },
+    "normalModeAmplitudes": {
+      "value": "Amplitudat e Modave Normale"
+    },
+    "numberOfMasses": {
+      "value": "Numri i Masave"
+    }
+  },
+  "sr": {
+    "screen.oneDimension": {
+      "value": "једна димензија"
+    },
+    "screen.twoDimensions": {
+      "value": "две димензије"
+    },
+    "initialPositions": {
+      "value": "почетни положај"
+    },
+    "zeroPositions": {
+      "value": "нулти положај"
+    },
+    "showSprings": {
+      "value": "покажи опруге"
+    },
+    "showPhases": {
+      "value": "покажи фазе"
+    },
+    "normal-modes.title": {
+      "value": "Нормални модови"
+    },
+    "amplitude": {
+      "value": "амплитуда:"
+    },
+    "frequency": {
+      "value": "фреквенција:"
+    },
+    "normalModeSpectrum": {
+      "value": "нормални мод -спектар"
+    },
+    "normalMode": {
+      "value": "нормални мод:"
+    },
+    "phase": {
+      "value": "фаза:"
+    },
+    "normalModeAmplitudes": {
+      "value": "амплитуда нормалног мода"
+    },
+    "numberOfMasses": {
+      "value": "број маса:"
+    }
+  },
+  "st": {
+    "screen.oneDimension": {
+      "value": "tekoeanyo e le 'ng"
+    },
+    "screen.twoDimensions": {
+      "value": "litekanyo tse peli"
+    },
+    "initialPositions": {
+      "value": "boemo ba pele"
+    },
+    "zeroPositions": {
+      "value": "boemo ba noto"
+    },
+    "showSprings": {
+      "value": "bont'sa springs"
+    },
+    "showPhases": {
+      "value": "bont'sa mehato"
+    },
+    "normal-modes.title": {
+      "value": "mode o tloaehilelng"
+    },
+    "amplitude": {
+      "value": "Amplichut"
+    },
+    "frequency": {
+      "value": "makhetlo a mangata"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "mode oa spectrum se tloaelehing"
+    },
+    "normalMode": {
+      "value": "mode o tloaelehileng"
+    },
+    "phase": {
+      "value": "mohato"
+    },
+    "normalModeAmplitudes": {
+      "value": "Boemo bo tloaelehileng ba amplichut"
+    },
+    "numberOfMasses": {
+      "value": "Boima ba nomoro"
+    }
+  },
+  "sv": {
+    "screen.oneDimension": {
+      "value": "En dimension"
+    },
+    "screen.twoDimensions": {
+      "value": "Två dimensioner"
+    },
+    "initialPositions": {
+      "value": "Utgångsposition"
+    },
+    "zeroPositions": {
+      "value": "Nollposition"
+    },
+    "showSprings": {
+      "value": "Visa fjädrar"
+    },
+    "showPhases": {
+      "value": "Visa faser"
+    },
+    "normal-modes.title": {
+      "value": "Resonans"
+    },
+    "amplitude": {
+      "value": "Amplitud:"
+    },
+    "frequency": {
+      "value": "Frekvens:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Resonansspektrum"
+    },
+    "normalMode": {
+      "value": "Resonans:"
+    },
+    "phase": {
+      "value": "Fas:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Resonansamplituder:"
+    },
+    "numberOfMasses": {
+      "value": "Antal massor"
+    }
+  },
+  "sw": {
+    "screen.oneDimension": {
+      "value": "Mhimili Mmoja"
+    },
+    "screen.twoDimensions": {
+      "value": "Mihimiri Miwili"
+    },
+    "initialPositions": {
+      "value": "Mwanzo"
+    },
+    "zeroPositions": {
+      "value": "Mwisho"
+    },
+    "showSprings": {
+      "value": "Onesha Springi"
+    },
+    "showPhases": {
+      "value": "Onesha Awamu"
+    },
+    "normal-modes.title": {
+      "value": "Modi za Kawaida"
+    },
+    "amplitude": {
+      "value": "Tambo"
+    },
+    "frequency": {
+      "value": "Kasimawimbi"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Spectra ya modi ya Kawaida"
+    },
+    "normalMode": {
+      "value": "Modi ya Kawaida"
+    },
+    "phase": {
+      "value": "Awamu"
+    },
+    "normalModeAmplitudes": {
+      "value": "Tambo ya modi ya Kawaida"
+    },
+    "numberOfMasses": {
+      "value": "Idadi ya Masi"
+    }
+  },
+  "te": {
+    "screen.oneDimension": {
+      "value": "ఏక మితీయ"
+    },
+    "screen.twoDimensions": {
+      "value": "ద్విమితీయ"
+    },
+    "initialPositions": {
+      "value": "తొలి స్థానాలు"
+    },
+    "zeroPositions": {
+      "value": "శూన్య  స్థానాలు"
+    },
+    "showSprings": {
+      "value": "స్ప్రింగులను చూపించు"
+    },
+    "showPhases": {
+      "value": "దశ లను చూపించు"
+    },
+    "normal-modes.title": {
+      "value": "సహజ కంపన రీతులు "
+    },
+    "amplitude": {
+      "value": "కంపన పరిమితి:"
+    },
+    "frequency": {
+      "value": "పౌనఃపున్యం:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "సహజ కంపన రీతి విస్తృతి పటం"
+    },
+    "normalMode": {
+      "value": "సహజ కంపన రీతి:"
+    },
+    "phase": {
+      "value": "దశ:"
+    },
+    "normalModeAmplitudes": {
+      "value": "సహజ రీతి కంపన పరిమితులు"
+    },
+    "numberOfMasses": {
+      "value": "ద్రవ్యరాశుల సంఖ్య:"
+    }
+  },
+  "tk": {
+    "screen.oneDimension": {
+      "value": "Bir ölçeg"
+    },
+    "screen.twoDimensions": {
+      "value": "Iki ölçegli"
+    },
+    "initialPositions": {
+      "value": "Deslapky ýerler"
+    },
+    "zeroPositions": {
+      "value": "Nol ýagdaýdaky ýerler"
+    },
+    "showSprings": {
+      "value": "Puržinleri görkez"
+    },
+    "showPhases": {
+      "value": "Fazalary görkez"
+    },
+    "normal-modes.title": {
+      "value": "Kadaly modlar"
+    },
+    "amplitude": {
+      "value": "Amplituda:"
+    },
+    "frequency": {
+      "value": "Ýygylyk:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Kadaly mod spektri"
+    },
+    "normalMode": {
+      "value": "Kadaly mod:"
+    },
+    "phase": {
+      "value": "Faza:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Kadaly mod amplitudalary"
+    },
+    "numberOfMasses": {
+      "value": "Massalaryň sany:"
+    }
+  },
+  "tr": {
+    "screen.oneDimension": {
+      "value": "Bir Boyut"
+    },
+    "screen.twoDimensions": {
+      "value": "İki Boyut"
+    },
+    "initialPositions": {
+      "value": "Başlangıç Konumları"
+    },
+    "zeroPositions": {
+      "value": "Sıfır Konumu"
+    },
+    "showSprings": {
+      "value": "Yayları Göster"
+    },
+    "showPhases": {
+      "value": "Aşamaları Göster"
+    },
+    "normal-modes.title": {
+      "value": "Normal Modlar"
+    },
+    "amplitude": {
+      "value": "Genlik"
+    },
+    "frequency": {
+      "value": "Frekans"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Normal Mod Spektrumu"
+    },
+    "normalMode": {
+      "value": "Normal "
+    },
+    "phase": {
+      "value": "Normal Mod"
+    },
+    "normalModeAmplitudes": {
+      "value": "Normal Mod Genliği"
+    },
+    "numberOfMasses": {
+      "value": "Kütlelerin Sayısı"
+    }
+  },
+  "tw": {
+    "screen.oneDimension": {
+      "value": "daimɛnshin baako"
+    },
+    "screen.twoDimensions": {
+      "value": "daimɛnshin mmienu"
+    },
+    "initialPositions": {
+      "value": "gyinaeɛ dada"
+    },
+    "zeroPositions": {
+      "value": "wo nni gyinaeɛ biara / hwee"
+    },
+    "showSprings": {
+      "value": "keyrɛ spiring"
+    },
+    "showPhases": {
+      "value": "kyerɛ feesis"
+    },
+    "normal-modes.title": {
+      "value": "Su a ɛyɛ"
+    },
+    "amplitude": {
+      "value": "mfitiaseɛ"
+    },
+    "frequency": {
+      "value": "mprɛ dodoɔ a biridi si"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "su a ɛyɛ ho ahosu"
+    },
+    "normalMode": {
+      "value": "su a ɛyɛ"
+    },
+    "phase": {
+      "value": "fees"
+    },
+    "normalModeAmplitudes": {
+      "value": "su a ɛyɛ mfitiaseɛ"
+    },
+    "numberOfMasses": {
+      "value": "namba maasis"
+    }
+  },
+  "uk": {
+    "screen.oneDimension": {
+      "value": "Одновимірні"
+    },
+    "screen.twoDimensions": {
+      "value": "Двовимірні"
+    },
+    "initialPositions": {
+      "value": "Початкове положення"
+    },
+    "zeroPositions": {
+      "value": "Нульове положення"
+    },
+    "showSprings": {
+      "value": "Показати пружину"
+    },
+    "showPhases": {
+      "value": "Показати фази"
+    },
+    "normal-modes.title": {
+      "value": "Нормальні моди"
+    },
+    "amplitude": {
+      "value": "Амплітуда"
+    },
+    "frequency": {
+      "value": "Частота"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Спектр нормальних мод"
+    },
+    "normalMode": {
+      "value": "Нормальна мода"
+    },
+    "phase": {
+      "value": "Фаза"
+    },
+    "normalModeAmplitudes": {
+      "value": "Амплітуди нормальних мод"
+    },
+    "numberOfMasses": {
+      "value": "Кількість мас"
+    }
+  },
+  "uz": {
+    "screen.oneDimension": {
+      "value": "Bir o‘lchamli"
+    },
+    "screen.twoDimensions": {
+      "value": "Ikki o‘lchamli"
+    },
+    "initialPositions": {
+      "value": "Dastlabki holat"
+    },
+    "zeroPositions": {
+      "value": "Haqiqiy holat"
+    },
+    "showSprings": {
+      "value": "Prujinalarnini ko‘rsatish"
+    },
+    "showPhases": {
+      "value": "Fazalarni ko‘rsatish"
+    },
+    "normal-modes.title": {
+      "value": "Odatiy Modalar"
+    },
+    "amplitude": {
+      "value": "Amplituda:"
+    },
+    "frequency": {
+      "value": "Chastotasi:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Odatiy Moda Spektri"
+    },
+    "normalMode": {
+      "value": "Odatiy Moda:"
+    },
+    "phase": {
+      "value": "Faza:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Odatiy Moda Amplitudalari"
+    },
+    "numberOfMasses": {
+      "value": "Massalar Soni:"
+    }
+  },
+  "vi": {
+    "screen.oneDimension": {
+      "value": "Một chiều"
+    },
+    "screen.twoDimensions": {
+      "value": "Hai chiều"
+    },
+    "initialPositions": {
+      "value": "Vị trí ban đầu"
+    },
+    "zeroPositions": {
+      "value": "Vị trí Zero"
+    },
+    "showSprings": {
+      "value": "Hiển thị lò xo"
+    },
+    "showPhases": {
+      "value": "Hiển thị phase"
+    },
+    "normal-modes.title": {
+      "value": "Kiểu chuẩn tắc"
+    },
+    "amplitude": {
+      "value": "Biên độ:"
+    },
+    "frequency": {
+      "value": "Tần số:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Phổ của kiểu chuẩn tắc"
+    },
+    "normalMode": {
+      "value": "Kiểu chuẩn tắc:"
+    },
+    "phase": {
+      "value": "Phase:"
+    },
+    "normalModeAmplitudes": {
+      "value": "Biên độ của kiểu chuẩn tắc"
+    },
+    "numberOfMasses": {
+      "value": "Số vật:"
+    }
+  },
+  "yo": {
+    "screen.oneDimension": {
+      "value": " Wiwọn ni iwọn kan"
+    },
+    "screen.twoDimensions": {
+      "value": "Wiwọn ni iwọn meji"
+    },
+    "initialPositions": {
+      "value": "Ipo akọkọ"
+    },
+    "zeroPositions": {
+      "value": "Ipo Odo"
+    },
+    "showSprings": {
+      "value": "Filine won"
+    },
+    "showPhases": {
+      "value": "Ṣe afihan Awọn ipele"
+    },
+    "normal-modes.title": {
+      "value": "Ipo deede"
+    },
+    "amplitude": {
+      "value": "Titobi"
+    },
+    "frequency": {
+      "value": "Wiwon deede:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "Ipo deede Spectrum"
+    },
+    "normalMode": {
+      "value": "Spectrum:"
+    },
+    "phase": {
+      "value": "Ipele"
+    },
+    "normalModeAmplitudes": {
+      "value": "Ipo deede"
+    },
+    "numberOfMasses": {
+      "value": "Nọmba ti Mass:"
+    }
+  },
+  "zh_TW": {
+    "screen.oneDimension": {
+      "value": "一維"
+    },
+    "screen.twoDimensions": {
+      "value": "二維"
+    },
+    "initialPositions": {
+      "value": "回到起始點"
+    },
+    "zeroPositions": {
+      "value": "回到原點"
+    },
+    "showSprings": {
+      "value": "顯示彈簧"
+    },
+    "showPhases": {
+      "value": "顯示相位"
+    },
+    "normal-modes.title": {
+      "value": "Normal Modes_簡正模"
+    },
+    "amplitude": {
+      "value": "振幅："
+    },
+    "frequency": {
+      "value": "頻率："
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "簡正模頻譜"
+    },
+    "normalMode": {
+      "value": "簡正模："
+    },
+    "phase": {
+      "value": "相位："
+    },
+    "normalModeAmplitudes": {
+      "value": "簡正模振幅"
+    },
+    "numberOfMasses": {
+      "value": "彈簧數量："
+    }
+  },
+  "zu": {
+    "screen.oneDimension": {
+      "value": "isici esisodwa"
+    },
+    "screen.twoDimensions": {
+      "value": "izilinganiso ezimbili"
+    },
+    "initialPositions": {
+      "value": "izikhundla zokuqala"
+    },
+    "zeroPositions": {
+      "value": "izikhundla zero"
+    },
+    "showSprings": {
+      "value": "khombisa iziphethu"
+    },
+    "showPhases": {
+      "value": "khombisa izigaba"
+    },
+    "normal-modes.title": {
+      "value": "izindlela ezijwayelekile"
+    },
+    "amplitude": {
+      "value": "ubukhulu:"
+    },
+    "frequency": {
+      "value": "imvamisa:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeSpectrum": {
+      "value": "i-spectrum yemodi evamile"
+    },
+    "normalMode": {
+      "value": "emodi evamile:"
+    },
+    "phase": {
+      "value": "isigaba:"
+    },
+    "normalModeAmplitudes": {
+      "value": "ama-amplitudes emodi evamile"
+    },
+    "numberOfMasses": {
+      "value": "inani lezixukuku:"
+    }
+  },
+  "en": {
+    "normal-modes.title": {
+      "value": "Normal Modes"
+    },
+    "screen.oneDimension": {
+      "value": "One Dimension"
+    },
+    "screen.twoDimensions": {
+      "value": "Two Dimensions"
+    },
+    "initialPositions": {
+      "value": "Initial Positions"
+    },
+    "zeroPositions": {
+      "value": "Zero Positions"
+    },
+    "numberOfMasses": {
+      "value": "Number of Masses:"
+    },
+    "showSprings": {
+      "value": "Show Springs"
+    },
+    "showPhases": {
+      "value": "Show Phases"
+    },
+    "normalMode": {
+      "value": "Normal Mode:"
+    },
+    "amplitude": {
+      "value": "Amplitude:"
+    },
+    "normalModeSpectrum": {
+      "value": "Normal Mode Spectrum"
+    },
+    "phase": {
+      "value": "Phase:"
+    },
+    "frequency": {
+      "value": "Frequency:"
+    },
+    "frequencyRatioOmegaPattern": {
+      "value": "{{frequencyRatio}}ω₀"
+    },
+    "normalModeAmplitudes": {
+      "value": "Normal Mode Amplitudes"
+    }
+  }
+}

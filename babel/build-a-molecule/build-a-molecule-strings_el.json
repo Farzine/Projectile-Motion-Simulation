@@ -1,0 +1,625 @@
+{
+  "build-a-molecule.title": {
+    "value": "Φτιάξε μόρια",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Φτιάξε ένα μόριο",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1603475967980,
+        "oldValue": "Φτιάξε ένα μόριο",
+        "newValue": "Φτιάξε μόρια",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogen": {
+    "value": "Υδρογόνο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Υδρογόνο",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Οξυγόνο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Οξυγόνο",
+        "explanation": null
+      }
+    ]
+  },
+  "carbon": {
+    "value": "Άνθρακας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Άνθρακας",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "value": "Άζωτο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Άζωτο",
+        "explanation": null
+      }
+    ]
+  },
+  "fluorine": {
+    "value": "Φθόριο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Φθόριο",
+        "explanation": null
+      }
+    ]
+  },
+  "chlorine": {
+    "value": "Χλώριο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Χλώριο",
+        "explanation": null
+      }
+    ]
+  },
+  "boron": {
+    "value": "Βόριο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Βόριο",
+        "explanation": null
+      }
+    ]
+  },
+  "sulphur": {
+    "value": "Θειάφι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Θειάφι",
+        "explanation": null
+      }
+    ]
+  },
+  "silicon": {
+    "value": "Πυρίτιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Πυρίτιο",
+        "explanation": null
+      }
+    ]
+  },
+  "phosphorus": {
+    "value": "Φώσφορος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Φώσφορος",
+        "explanation": null
+      }
+    ]
+  },
+  "iodine": {
+    "value": "Ιώδιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Ιώδιο",
+        "explanation": null
+      }
+    ]
+  },
+  "bromine": {
+    "value": "Βρώμιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Βρώμιο",
+        "explanation": null
+      }
+    ]
+  },
+  "acetylene": {
+    "value": "ακετυλένιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "ακετυλένιο"
+      }
+    ]
+  },
+  "ammonia": {
+    "value": "αμμωνία",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "αμμωνία"
+      }
+    ]
+  },
+  "borane": {
+    "value": "βοράνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "βοράνιο"
+      }
+    ]
+  },
+  "carbonDioxide": {
+    "value": "διοξείδιο του άνθρακα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "διοξείδιο του άνθρακα"
+      }
+    ]
+  },
+  "carbonMonoxide": {
+    "value": "μονοξείδιο του άνθρακα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "μονοξείδιο του άνθρακα"
+      }
+    ]
+  },
+  "chloromethane": {
+    "value": "χλωρομεθάνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "χλωρομεθάνιο"
+      }
+    ]
+  },
+  "ethylene": {
+    "value": "αιθυλένιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "αιθυλένιο"
+      }
+    ]
+  },
+  "fluoromethane": {
+    "value": "φθορομεθάνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "φθορομεθάνιο"
+      }
+    ]
+  },
+  "formaldehyde": {
+    "value": "φορμαλδεΰδη",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "φορμαλδεΰδη"
+      }
+    ]
+  },
+  "hydrogenCyanide": {
+    "value": "υδροκυάνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "υδροκυάνιο"
+      }
+    ]
+  },
+  "hydrogenPeroxide": {
+    "value": "υπεροξείδιο του υδρογόνου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "υπεροξείδιο του υδρογόνου"
+      }
+    ]
+  },
+  "hydrogenSulfide": {
+    "value": "υδρόθειο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "υδρόθειο"
+      }
+    ]
+  },
+  "methane": {
+    "value": "μεθάνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "μεθάνιο"
+      }
+    ]
+  },
+  "molecularChlorine": {
+    "value": "μόριο χλωρίου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "μόριο χλωρίου"
+      }
+    ]
+  },
+  "molecularFluorine": {
+    "value": "μόριο φθορίου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "μόριο φθορίου"
+      }
+    ]
+  },
+  "molecularHydrogen": {
+    "value": "μόριο υδρογόνου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "μόριο υδρογόνου"
+      }
+    ]
+  },
+  "molecularNitrogen": {
+    "value": "μόριο αζώτου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "μόριο αζώτου"
+      }
+    ]
+  },
+  "molecularOxygen": {
+    "value": "μόριο οξυγόνου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "μόριου οξυγόνου"
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1613594027935,
+        "oldValue": "μόριου οξυγόνου",
+        "newValue": "μόριο οξυγόνου"
+      }
+    ]
+  },
+  "nitricOxide": {
+    "value": "νιτρικό οξύ",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "νιτρικό οξύ"
+      }
+    ]
+  },
+  "nitrousOxide": {
+    "value": "νιτρώδες οξείδιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "νιτρώδες οξείδιο"
+      }
+    ]
+  },
+  "ozone": {
+    "value": "όζον",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "όζον"
+      }
+    ]
+  },
+  "phosphine": {
+    "value": "φωσφίνη",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "φωσφίνη"
+      }
+    ]
+  },
+  "silane": {
+    "value": "σιλάνιο (πυριτάνιο)",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "σιλάνιο (πυριτάνιο)"
+      }
+    ]
+  },
+  "sulfurDioxide": {
+    "value": "διοξείδιο του θείου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "διοξείδιο του θείου"
+      }
+    ]
+  },
+  "trifluoroborane": {
+    "value": "τριφθοροβοράνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "τριφθοροβοράνιο"
+      }
+    ]
+  },
+  "water": {
+    "value": "νερό",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1613593382277,
+        "oldValue": "",
+        "newValue": "νερό"
+      }
+    ]
+  },
+  "youCompletedYourCollection": {
+    "value": "Συμπλήρωσες τη συλλογή σου!",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Συμπλήρωσες τη συλλογή σου!",
+        "explanation": null
+      }
+    ]
+  },
+  "nextCollection": {
+    "value": "Επόμενη συλλογή",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Επόμενη συλλογή",
+        "explanation": null
+      }
+    ]
+  },
+  "yourMolecules": {
+    "value": "Τα μόριά σου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Τα μόριά σου",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionPattern": {
+    "value": "Συλλογή {{number}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Συλλογή {{number}}",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeNamePattern": {
+    "value": "{{display}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "{{display}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityEmpty": {
+    "value": "Έχεις: (κενό)",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Έχεις: (κενό)",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleQuantityPattern": {
+    "value": "Έχεις: {{number}}{{formula}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Έχεις: {{number}}{{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionMultipleGoalPattern": {
+    "value": "Στόχος: {{number}}{{formula}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "Στόχος: {{number}}{{formula}}",
+        "explanation": null
+      }
+    ]
+  },
+  "collectionSinglePattern": {
+    "value": "{{general}} ({{display}})",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790833,
+        "oldValue": "",
+        "newValue": "{{general}} ({{display}})",
+        "explanation": null
+      }
+    ]
+  },
+  "warning": {
+    "value": "Η 3D απόδοση του μορίου απαιτεί το WebGL,\nτο οποίο είτε δεν είναι ενεργοποιημένο είτε δεν είναι διαθέσιμο. Πίεσε για να μάθεις περισσότερα.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790834,
+        "oldValue": "",
+        "newValue": "Η 3D απόδοση του μορίου απαιτεί το WebGL,\nτο οποίο είτε δεν είναι ενεργοποιημένο είτε δεν είναι διαθέσιμο. Πίεσε για να μάθεις περισσότερα.",
+        "explanation": null
+      }
+    ]
+  },
+  "threeD": {
+    "value": "3D",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790834,
+        "oldValue": "",
+        "newValue": "3D",
+        "explanation": null
+      }
+    ]
+  },
+  "title.multiple": {
+    "value": "Πολλά",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790834,
+        "oldValue": "",
+        "newValue": "Πολλά",
+        "explanation": null
+      }
+    ]
+  },
+  "title.playground": {
+    "value": "Παιχνίδι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790834,
+        "oldValue": "",
+        "newValue": "Παιχνίδι",
+        "explanation": null
+      }
+    ]
+  },
+  "title.single": {
+    "value": "Ένα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1603429790834,
+        "oldValue": "",
+        "newValue": "Ένα",
+        "explanation": null
+      }
+    ]
+  }
+}

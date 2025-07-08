@@ -1,0 +1,266 @@
+{
+  "neutrons": {
+    "value": "Nötronlar",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Nötronlar",
+        "explanation": null
+      }
+    ]
+  },
+  "atomicMass": {
+    "value": "Atomik Kütle (akb)",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Atomik Kütle (aka)",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "Atomik Kütle (aka)",
+        "newValue": "Atomik Kütle (akb)"
+      }
+    ]
+  },
+  "massNumber": {
+    "value": "Kütle Numarası",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Kütle Numarası",
+        "explanation": null
+      }
+    ]
+  },
+  "myIsotope": {
+    "value": "Benim İzotopum",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "İzotopum",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "İzotopum",
+        "newValue": "Benim İzotopum"
+      }
+    ]
+  },
+  "otherIsotopesPattern": {
+    "value": "Diğer<br>{0}<br>izotoplar",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Diğer<br>{0}<br>izotoplar",
+        "explanation": null
+      }
+    ]
+  },
+  "thisIsotope": {
+    "value": "Bu İzotop",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Bu izotop",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "Bu izotop",
+        "newValue": "Bu İzotop"
+      }
+    ]
+  },
+  "trace": {
+    "value": "iz",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "iz",
+        "explanation": null
+      }
+    ]
+  },
+  "abundanceInNature": {
+    "value": "Doğadaki Bulunma Miktarı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Doğadaki Çokluğu",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "Doğadaki Çokluğu",
+        "newValue": "Doğadaki Bulunma Miktarı"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Sembol",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Sembol",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes": {
+    "value": "İzotoplar",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "İzotoplar",
+        "explanation": null
+      }
+    ]
+  },
+  "amu": {
+    "value": "akb",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "aka",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "aka",
+        "newValue": "akb"
+      }
+    ]
+  },
+  "averageAtomicMass": {
+    "value": "Ortalama Atomik Kütle",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Ortalama Atomik Kütle",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopeMixture": {
+    "value": "İzotop Karışımı:",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "İzotop Karışımı",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "İzotop Karışımı",
+        "newValue": "İzotop Karışımı:"
+      }
+    ]
+  },
+  "myMix": {
+    "value": "Benim Karışımım",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Benim Karışımım",
+        "explanation": null
+      }
+    ]
+  },
+  "naturesMix": {
+    "value": "Doğadaki Karışım",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Doğadaki Karışımı",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "Doğadaki Karışımı",
+        "newValue": "Doğadaki Karışım"
+      }
+    ]
+  },
+  "percentComposition": {
+    "value": "Yüzdelik Bileşim",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Birleşim Yüzdelikleri",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670682750188,
+        "oldValue": "Birleşim Yüzdelikleri",
+        "newValue": "Yüzdelik Bileşim"
+      }
+    ]
+  },
+  "mixtures": {
+    "value": "Karışımlar",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "Karışımlar",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes-and-atomic-mass.title": {
+    "value": "İzotoplar ve Atomik Kütle",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1606209779655,
+        "oldValue": "",
+        "newValue": "İzotoplar ve Atomik Kütle",
+        "explanation": null
+      }
+    ]
+  }
+}

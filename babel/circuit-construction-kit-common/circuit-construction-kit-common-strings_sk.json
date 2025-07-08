@@ -1,0 +1,893 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1574520876809,
+        "oldValue": "",
+        "newValue": "1 s",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Striedavé napätie",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Striedavé napätie"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Pokročilé",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Pokročilé"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Ampérmeter",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Ampérmeter",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Výstup ampérmetra",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Výstup ampérmetra"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Ampérmetere",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Ampérmetere",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Obmedzenie rýchlosti animácie! Rýchlosť bola znížená na {{percent}}% normálnej.",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Obmedzenie rýchlosti animácie! Rýchlosť bola znížená na {{percent}}% normálnej.  ",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": "Obmedzenie rýchlosti animácie! Rýchlosť bola znížená na {{percent}}% normálnej.  ",
+        "newValue": "Obmedzenie rýchlosti animácie! Rýchlosť bola znížená na {{percent}}% normálnej.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Batéria",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Batéria",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Vnútorný odpor batérie",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Vnútorný odpor batérie",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Britské",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Britské"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Kapacita",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Kapacita"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Kondenzátor",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Kondenzátor"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Minca",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Minca",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Smer el. prúdu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Smer el. prúdu",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Elektrický prúd",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Elektrický prúd",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Elektrický prúd (A)",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Elektrický prúd (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Priebeh prúdu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Priebeh prúdu"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Nominálny prúd",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1574520876810,
+        "oldValue": "",
+        "newValue": "Nominálny prúd",
+        "explanation": null
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Údaje sú mimo rozsahu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Údaje sú mimo rozsahu "
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": "Údaje sú mimo rozsahu ",
+        "newValue": "Údaje sú mimo rozsahu",
+        "explanation": null
+      }
+    ]
+  },
+  "dog": {
+    "value": "Pes",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Pes",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Bankovka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Bankovka",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektróny",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Elektróny",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Guma",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Guma",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frekvencia",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1574520876810,
+        "oldValue": "",
+        "newValue": "Frekvencia",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Poistka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1574520876810,
+        "oldValue": "",
+        "newValue": "Poistka",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Ruka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Ruka",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Indukčnosť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Indukčnosť"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Cievka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Cievka"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Označenia",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Označenia",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Žiarovka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Žiarovka",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "veľký",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "veľký",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Veľkosť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Veľkosť"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Kancelárska spinka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Kancelárska spinka",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Ceruzka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Ceruzka",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Fázový posun",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Fázový posun"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Elektrický odpor",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Elektrický odpor",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Rezistor",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Rezistor",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Elektrotechnické značky",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Elektrotechnické značky"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Zobraziť el. prúd",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Zobraziť el. prúd",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "So znamienkom",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "So znamienkom"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Odpor zdroja",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Odpor zdroja "
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": "Odpor zdroja ",
+        "newValue": "Odpor zdroja",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Stopky",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Stopky"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Vypínač",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Vypínač",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Kliknite na prvok obvodu, ktorý chcete upraviť.",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Kliknite na prvok obvodu, ktorý chcete upraviť.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Zapnutý vypínač",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Zapnutý vypínač",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Vypnutý vypínač",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "Vypnutý vypínač",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Čas",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Čas"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "zanedbateľný",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "malý",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "malý",
+        "newValue": "zanedbateľný"
+      }
+    ]
+  },
+  "values": {
+    "value": "Hodnoty",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "Hodnoty",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Napätie",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "Napätie",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Napätie (V)",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Napätie (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Priebeh napätia",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "Priebeh napätia"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmeter",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "Voltmeter",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Vodič",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "Vodič",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Odpor vodičov",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "Odpor vodičov",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": " {{current}} A",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": " {{current}} A",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1574520876810,
+        "oldValue": "",
+        "newValue": " {{frequency}} Hz",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": " {{frequency}} Hz",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": " {{inductance}} H"
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": " {{inductance}} H",
+        "newValue": "{{inductance}} H",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1642972669431,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1574520876810,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohmov",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohmov",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": " {{voltage}} V",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": " {{voltage}} V",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} voltov",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": "{{voltage}} voltov",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539115,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": " {{resistance}} ohmov",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1509523539116,
+        "oldValue": "",
+        "newValue": " {{resistance}} ohmov",
+        "explanation": null
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Pridať skutočné žiarovky",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680605392559,
+        "oldValue": "",
+        "newValue": "Pridať skutočné žiarovky"
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Skutočná žiarovka",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680965385175,
+        "oldValue": "",
+        "newValue": "Skutočná žiarovka"
+      }
+    ]
+  }
+}

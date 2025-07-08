@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "比較",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1651498554353,
+        "oldValue": "",
+        "newValue": "比較"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} 小於 {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1651498554353,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} 小於 {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} 大於 {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1651498554353,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} 大於 {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} 等於 {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1651498554353,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} 等於 {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Number Compare_比較數字",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1687316832851,
+        "oldValue": "",
+        "newValue": "Number Compare_比較數字"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "自動聽到數字的句子",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1687316832851,
+        "oldValue": "",
+        "newValue": "自動聽到數字的句子"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "互動時自動聽到更新後的數字的句子",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1687316832851,
+        "oldValue": "",
+        "newValue": "互動時自動聽到更新後的數字的句子"
+      }
+    ]
+  }
+}

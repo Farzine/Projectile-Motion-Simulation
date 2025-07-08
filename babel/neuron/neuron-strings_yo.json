@@ -1,0 +1,391 @@
+{
+  "concentrationReadoutPattern.0label.1value.2units": {
+    "value": "{0} [{1} {2}]",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "{0} [{1} {2}]"
+      }
+    ]
+  },
+  "potassiumChemicalSymbol": {
+    "value": "K+",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "K+"
+      }
+    ]
+  },
+  "sodiumChemicalSymbol": {
+    "value": "Na+",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Na+"
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "mM",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "mM"
+      }
+    ]
+  },
+  "chartTitle": {
+    "value": "Ẹ̀yà ara Potensia vs wákàtí",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "potensia Membrane vs Akoko"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "potensia Membrane vs Akoko",
+        "newValue": "Potensia Membrane vs Time"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637330052336,
+        "oldValue": "Potensia Membrane vs Time",
+        "newValue": "Potensia Membrane vs wákàtí"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271939688,
+        "oldValue": "Potensia Membrane vs wákàtí",
+        "newValue": "Ẹ̀yà ara Potensia vs wákàtí"
+      }
+    ]
+  },
+  "chartClear": {
+    "value": "Mú kúrò",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "mú kúrò"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "mú kúrò",
+        "newValue": "Mú kúrò"
+      }
+    ]
+  },
+  "chartXAxisLabel": {
+    "value": "Aago (ms)",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Aago (ms)"
+      }
+    ]
+  },
+  "chartYAxisLabel": {
+    "value": "Ẹ̀yà ara",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "potensia Membrane "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "potensia Membrane ",
+        "newValue": "Potensia Membrane "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271939688,
+        "oldValue": "Potensia Membrane ",
+        "newValue": "Ẹ̀yà ara"
+      }
+    ]
+  },
+  "legend": {
+    "value": "Lẹ́jẹ̀ndì",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Lẹ́jẹ̀ndì"
+      }
+    ]
+  },
+  "sodiumIon": {
+    "value": "Sodiomu Ion (Na+)",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Sodiomu Ion (Na+)"
+      }
+    ]
+  },
+  "potassiumIon": {
+    "value": "Potassiumu Ion (K+)",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Potassiumu Ion (K+)"
+      }
+    ]
+  },
+  "sodiumGatedChannel": {
+    "value": "Gated Channel Sodiumu ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "ìlẹ̀kùn ikanni Sodiumu "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "ìlẹ̀kùn ikanni Sodiumu ",
+        "newValue": "Gated Channel Sodiumu "
+      }
+    ]
+  },
+  "potassiumGatedChannel": {
+    "value": "Gated Channel Potassiumu",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "ìlẹ̀kùn ikanni Potassiumu"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "ìlẹ̀kùn ikanni Potassiumu",
+        "newValue": "Gated Channel Potassiumu"
+      }
+    ]
+  },
+  "sodiumLeakChannel": {
+    "value": "Sodium Leak Channel",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "ikanni sodiumu"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "ikanni sodiumu",
+        "newValue": "Sodium Leak Channel"
+      }
+    ]
+  },
+  "potassiumLeakChannel": {
+    "value": "Potassium Leak Channel",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "ikanni potasiumu"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "ikanni potasiumu",
+        "newValue": "Potassium Leak Channel"
+      }
+    ]
+  },
+  "showLegend": {
+    "value": "Safihan",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Safihan"
+      }
+    ]
+  },
+  "allIons": {
+    "value": "Gbogbo Ions",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Gbogbo Ions"
+      }
+    ]
+  },
+  "potentialChart": {
+    "value": "Potensiá Atẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Potẹnsia àtẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "Potẹnsia àtẹ",
+        "newValue": "Potential Chart"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637330052336,
+        "oldValue": "Potential Chart",
+        "newValue": "Potential Atẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271939688,
+        "oldValue": "Potential Atẹ",
+        "newValue": "Potensiá Atẹ"
+      }
+    ]
+  },
+  "charges": {
+    "value": "Agbárá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Awon ìdíyeléìnákúnàá"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258821225,
+        "oldValue": "Awon ìdíyeléìnákúnàá",
+        "newValue": "Awon charges"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637330052336,
+        "oldValue": "Awon charges",
+        "newValue": "Agbara"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271939688,
+        "oldValue": "Agbara",
+        "newValue": "Agbárá"
+      }
+    ]
+  },
+  "concentrations": {
+    "value": "Konsentresan",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Awon konsentresan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637330052336,
+        "oldValue": "Awon konsentresan",
+        "newValue": "Konsentresan"
+      }
+    ]
+  },
+  "fastForward": {
+    "value": "Sáré síwájú",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Sun si waju"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637330052336,
+        "oldValue": "Sun si waju",
+        "newValue": "Sáré síwájú"
+      }
+    ]
+  },
+  "normal": {
+    "value": "Deede",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Deede"
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Lọra šipopada",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Lọra šipopada"
+      }
+    ]
+  },
+  "stimulateNeuron": {
+    "value": "Ṣe iwuri\nNùrọ̀ni",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Stimulate\nNùrọ̀ni"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637330052336,
+        "oldValue": "Stimulate\nNùrọ̀ni",
+        "newValue": "Ṣe iwuri\nNùrọ̀ni"
+      }
+    ]
+  },
+  "neuron.title": {
+    "value": "Nùrọ̀ni",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629825773330,
+        "oldValue": "",
+        "newValue": "Nùrọ̀ni"
+      }
+    ]
+  }
+}

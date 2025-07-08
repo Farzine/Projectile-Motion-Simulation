@@ -1,0 +1,716 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "kPa",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Áp suất",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Áp suất",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub> = {{value}}K",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}K",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "Dữ liệu",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Dữ liệu",
+        "explanation": null
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Khối tâm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Khối tâm",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Nhiệt độ ban đầu (K)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Nhiệt độ ban đầu (K)",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Khối lượng (AMU)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Khối lượng (AMU)",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Số hạt",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Số hạt",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Bán kính (pm)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Bán kính (pm)",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Bỏ vách ngăn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Bỏ vách ngăn",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Đặt lại vách ngăn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Đặt lại vách ngăn",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Tốc độ dòng hạt",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Tốc độ dòng hạt",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "Thang đo",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Thang đo",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Đồng hồ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Đồng hồ",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "ps",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Sự Khuếch tán",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Sự khuếch tán",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1722677995075,
+        "oldValue": "Sự khuếch tán",
+        "newValue": "Sự Khuếch tán",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Máy đếm số va chạm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Máy đếm số va chạm",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Bề rộng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Bề rộng",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Chu kỳ lấy mẫu",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Chu kỳ lấy mẫu",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Số va chạm với tường",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Số va chạm với tường",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "°C",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Trả nắp lại",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Trả nắp lại",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Oops!<br><br>Đã đến nhiệt độ cao nhất",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Đã đến nhiệt độ cao nhất",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Số va chạm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Số va chạm",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Nặng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Nặng",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "Nhẹ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Nhẹ",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Hạt",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Hạt",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Tìm hiểu",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Tìm hiểu",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Tiếng ồn áp suất",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565875173135,
+        "oldValue": "",
+        "newValue": "Tiếng ồn áp suất",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Không",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Không",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Áp suất ↕T",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Áp suất ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Áp suất ↕V",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Áp suất ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Đại lượng không đổi",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Đại lượng không đổi",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Nhiệt độ (T)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Nhiệt độ (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Thể tích (V)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Thể tích (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Oops!<br><br>Không thể giữ nguyên áp suất<br>khi bình chứa rỗng.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Không thể giữ nguyên áp suất<br>khi bình chứa rỗng.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Oops!<br><br>Không thể giữ nguyên áp suất.<br>Thể tích quá lớn.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Không thể giữ nguyên áp suất.<br>Thể tích quá lớn.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Oops!<br><br>Không thể giữ nguyên áp suất.<br>Thể tích quá nhỏ.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Không thể giữ nguyên áp suất.<br>Thể tích quá nhỏ.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Oops!<br><br>Không thể giữ nguyên nhiệt độ<br>khi bình chứa rỗng.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Không thể giữ nguyên nhiệt độ<br>khi bình chứa rỗng.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Oops!<br><br>Không thể giữ nguyên áp suất<br>khi bình chứa hở.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Không thể giữ nguyên áp suất<br>khi bình chứa hở.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Khí lý tưởng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565880097471,
+        "oldValue": "",
+        "newValue": "Lý tưởng",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1565887058153,
+        "oldValue": "Lý tưởng",
+        "newValue": "Khí lý tưởng",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Tốc độ trung bình",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Tốc độ trung bình",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Nhiệt độ khí được bơm vào",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Nhiệt độ phun",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1565887058153,
+        "oldValue": "Nhiệt độ phun",
+        "newValue": "Nhiệt độ khí được bơm vào",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Giống bình chứa",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Giống bình chứa",
+        "explanation": null
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Điều chỉnh thành:",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Điều chỉnh thành:",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Động năng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Động năng",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Tốc độ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Tốc độ",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Năng lượng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Năng lượng",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Tính chất của chất khí",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1565881376712,
+        "oldValue": "",
+        "newValue": "Tính chất của chất khí",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.changeUnits": {
+    "value": "Đổi đơn vị",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1722677158969,
+        "oldValue": "",
+        "newValue": "Đổi đơn vị"
+      }
+    ]
+  },
+  "pressureNoiseDescription": {
+    "value": "Thêm một chút tiếng ồn vào thang đo áp suất để làm cho nó thực hơn.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1722677158969,
+        "oldValue": "",
+        "newValue": "Thêm một chút tiếng ồn vào thang đo áp suất để làm cho nó thực hơn."
+      }
+    ]
+  },
+  "wallVelocity": {
+    "value": "Vận tốc của tường",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1722677158969,
+        "oldValue": "",
+        "newValue": "Vận tốc của tường"
+      }
+    ]
+  }
+}

@@ -1,0 +1,642 @@
+{
+  "centerOfMass": {
+    "value": "Kütlə mərkəzi",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630127,
+        "oldValue": "",
+        "newValue": "Kütlə mərkəzi"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Diffuziya",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783814,
+        "oldValue": "",
+        "newValue": "Diffuziya"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Başlanğıc temperatur (K)",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783814,
+        "oldValue": "",
+        "newValue": "Başlanğıc temperatur (K)"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Kütlə (a.k.v)",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783815,
+        "oldValue": "",
+        "newValue": "Kütlə (a.k.v)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Zərrəciklərin sayı",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783815,
+        "oldValue": "",
+        "newValue": "Zərrəciklərin sayı "
+      },
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "Zərrəciklərin sayı ",
+        "newValue": "Zərrəciklərin sayı",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Zərrəcik axın sürəti",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783815,
+        "oldValue": "",
+        "newValue": "Zərrəcik axın sürəti "
+      },
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "Zərrəcik axın sürəti ",
+        "newValue": "Zərrəcik axın sürəti",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Təzyiq",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630098,
+        "oldValue": "",
+        "newValue": "Təzyiq"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "psan",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783816,
+        "oldValue": "",
+        "newValue": "psan"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Radius (pm)",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783817,
+        "oldValue": "",
+        "newValue": "Radius(pm)"
+      },
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "Radius(pm)",
+        "newValue": "Radius (pm)",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "Miqyas",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783817,
+        "oldValue": "",
+        "newValue": "Miqyas"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Saniyəölçən",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1649203783818,
+        "oldValue": "",
+        "newValue": "Saniyəölçən "
+      },
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "Saniyəölçən ",
+        "newValue": "Saniyəölçən",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Təzyiq ↕T",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630128,
+        "oldValue": "",
+        "newValue": "Təzyiq ↕T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Təzyiq ↕V",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630129,
+        "oldValue": "",
+        "newValue": "Təzyiq ↕V"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Temperatur (T)",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630130,
+        "oldValue": "",
+        "newValue": "Temperatur (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Həcm (V)",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630130,
+        "oldValue": "",
+        "newValue": "Həcm (V)"
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "İdeal",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630131,
+        "oldValue": "",
+        "newValue": "İdeal"
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Orta sürət",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630131,
+        "oldValue": "",
+        "newValue": "Orta sürəti"
+      },
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "Orta sürəti",
+        "newValue": "Orta sürət",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Kinetik enerji",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630132,
+        "oldValue": "",
+        "newValue": "Kinetik enerji"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Sürət",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630132,
+        "oldValue": "",
+        "newValue": "Sürət"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Enerji",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630133,
+        "oldValue": "",
+        "newValue": "Enerji"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Qazların xassələri",
+    "history": [
+      {
+        "userId": 843631,
+        "timestamp": 1602507630133,
+        "oldValue": "",
+        "newValue": "Qazların xassələri"
+      }
+    ]
+  },
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}} K"
+      }
+    ]
+  },
+  "data": {
+    "value": "Data",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "Data"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Arakəsməni çıxarın",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "Arakəsməni çıxarın"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Arakəsməni yeniləyin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "Arakəsməni yeniləyin"
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Təzyiq səsi",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680939085458,
+        "oldValue": "",
+        "newValue": "Təzyiq səsi"
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Toqquşma sayğacı",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Toqquşma sayğacı"
+      }
+    ]
+  },
+  "width": {
+    "value": "Genişlik",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Genişlik"
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Nümunə zaman",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Nümunə zaman"
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Divar toqquşması",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Divar toqquşması"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Qapağı geri döndürün",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Qapağı geri döndürün"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Oops!<br><br> maksimum temperatura çatıldı.",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Oops!<br><br> maksimum temperatura çatıldı."
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Toqquşma",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Toqquşma"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Ağır",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Ağır"
+      }
+    ]
+  },
+  "light": {
+    "value": "Yüngül",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Yüngül"
+      }
+    ]
+  },
+  "particles": {
+    "value": "Zərrəciklər",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Zərrəciklər"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Tədqiq edin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Tədqiq edin"
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Heç nə",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Heç nə"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Sabit tutun",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Sabit tutun"
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Oops!<br><br>Konteyner boş olduqda<br>təzyiq sabit saxlanıla bilməz.",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Konteyner boş olduqda<br>təzyiq sabit saxlanıla bilməz."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Oops!<br><br>Təzyiq sabit saxlanıla bilməz<br>Həcmi çox böyükdür.",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Təzyiq sabit saxlanıla bilməz<br>Həcmi çox böyükdür."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Oops!<br><br>Təzyiq sabit saxlanıla bilməz<br>Həcmi çox kiçikdir.",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Təzyiq sabit saxlanıla bilməz<br>Həcmi çox kiçikdir."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Oops!<br><br>Konteyner boş olduqda<br>temperatur sabit saxlanıla bilməz.",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Konteyner boş olduqda<br>temperatur sabit saxlanıla bilməz."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Oops!<br><br>Konteyner açıq olduqda<br>temperatur sabit saxlanıla bilməz.",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Konteyner açıq olduqda<br>temperatur sabit saxlanıla bilməz."
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Əlavəetmə temperaturu",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Əlavəetmə temperaturu"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Konteynerə uyğunlaşsın",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Konteynerə uyğunlaşsın"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Ayarlayın:",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1680941220041,
+        "oldValue": "",
+        "newValue": "Ayarlayın:"
+      }
+    ]
+  }
+}

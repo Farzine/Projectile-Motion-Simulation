@@ -1,0 +1,902 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "1 s",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Tensiune c. a.",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Tensiune c. a.",
+        "explanation": null
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Adaugă becuri reale",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910293,
+        "oldValue": "",
+        "newValue": "Adaugă becuri reale"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Avansat",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910293,
+        "oldValue": "",
+        "newValue": "Avansat"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Ampermetru",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Ampermetru",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Afișaj ampermetru",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649699027978,
+        "oldValue": "",
+        "newValue": "Afișaj ampermetru"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Ampermetre",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Ampermetre",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Ați atins viteza maximă de redare a animației! Viteza curentă a animației redusă la {{percent}}% din cea normală.",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Viteza maximă de redare a animației! Viteza de redare este redusă la {{percent}}% din cea normală.",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Viteza maximă de redare a animației! Viteza de redare este redusă la {{percent}}% din cea normală.",
+        "newValue": "Ați atins viteza maximă de redare a animației! Viteza curentă a animației redusă la {{percent}}% din cea normală."
+      }
+    ]
+  },
+  "battery": {
+    "value": "Baterie",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Baterie",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Rezistența bateriei",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Rezistența bateriei",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Britanic",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Britanic"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Capacitate",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Capacitate"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Condensator",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Condensator"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Monedă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Monedă",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Sens convențional",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Sens convențional",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Intensitate",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Intensitate",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Intensitate (A)",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Intensitate (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Grafic intensitate",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Grafic intensitate"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Intensitate nominală",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Clasificare intensitate"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1649699027978,
+        "oldValue": "Clasificare intensitate",
+        "newValue": "Intensitate nominală"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Cățel",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Cățel",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Bancnotă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Bancnotă",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Electroni",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Electroni",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Radieră",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Radieră",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frecvență",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Frecvență",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Siguranță fuzibilă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Siguranță fuzibilă",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Mână",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Mână",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Inductanță",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Inductanță"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Bobină",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Inductor"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1642142046355,
+        "oldValue": "Inductor",
+        "newValue": "Bobină"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Etichete",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Etichete",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Bec",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Bec",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "mare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Mare",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Mare",
+        "newValue": "mare"
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "în modul",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649699027979,
+        "oldValue": "",
+        "newValue": "în modul"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Agrafă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Agrafă",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Creion",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Creion",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Schimbarea fazei",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Schimbarea fazei"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Rezistență",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Rezistență",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Rezistor",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Rezistor",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Standard de proiectare",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Standard de proiectare"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Arată curentul",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Arată curentul",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "cu semn",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1649699027979,
+        "oldValue": "",
+        "newValue": "cu semn "
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681490297458,
+        "oldValue": "cu semn ",
+        "newValue": "cu semn",
+        "explanation": null
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Rezistența bateriei",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Rezistența sursei"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1649699027979,
+        "oldValue": "Rezistența sursei",
+        "newValue": "Rezistența bateriei"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Cronometru",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Cronometru"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Comutator",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Comutator",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Pentru editare: clic pe elementul de circuit",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Pentru editare: clic pe elementul de circuit ",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681490297458,
+        "oldValue": "Pentru editare: clic pe elementul de circuit ",
+        "newValue": "Pentru editare: clic pe elementul de circuit",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Comutatorul este închis",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Comutator închis",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Comutator închis",
+        "newValue": "Comutatorul este închis"
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Comutatorul este deschis",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Comutator deschis",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Comutator deschis",
+        "newValue": "Comutatorul este deschis"
+      }
+    ]
+  },
+  "time": {
+    "value": "Timp",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Timp",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "mică",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Zero",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "Zero",
+        "newValue": "mic/ă"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1682099324862,
+        "oldValue": "mic/ă",
+        "newValue": "mică",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Valori",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Valori",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Tensiune",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Tensiune",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Tensiunea (V)",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Tensiunea (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Grafic tensiune",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Grafiv tensiune"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1642142046355,
+        "oldValue": "Grafiv tensiune",
+        "newValue": "Grafic tensiune"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmetru",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Voltmetru",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Fir conductor",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Fir conductor",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Rezistivitate fir conductor",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "Rezistivitate fir conductor",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}}F",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "{{capacitance}}F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohmi",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohmi",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volți",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "{{voltage}} volți",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Bec real",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1638117910294,
+        "oldValue": "",
+        "newValue": "Bec real"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608033490227,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Date în afara domeniului",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681490297458,
+        "oldValue": "",
+        "newValue": "Date în afara domeniului"
+      }
+    ]
+  }
+}

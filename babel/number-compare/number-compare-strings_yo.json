@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "Fiwera",
+    "history": [
+      {
+        "userId": 1044540,
+        "timestamp": 1666013517011,
+        "oldValue": "",
+        "newValue": "Fiwera"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} jẹ kere ju {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 1044540,
+        "timestamp": 1666013517011,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} jẹ kere ju {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} o tobi ju {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 1044540,
+        "timestamp": 1666013517011,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} o tobi ju {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} jẹ dogba si {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 1044540,
+        "timestamp": 1666013517011,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} jẹ dogba si {{equalNumberRight}}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "keepGoing": {
+    "value": "המשיכו הלאה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1633796996726,
+        "oldValue": "",
+        "newValue": "המשיכו הלאה"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "השלב הבא",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1633796996726,
+        "oldValue": "",
+        "newValue": "השלב הבא"
+      }
+    ]
+  },
+  "score": {
+    "value": "ציון:",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630174359530,
+        "oldValue": "",
+        "newValue": "זכייה:"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633792335028,
+        "oldValue": "זכייה:",
+        "newValue": "ציון:"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "ציון: {{score}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1633791901487,
+        "oldValue": "",
+        "newValue": "ציון: {{score}}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "בחרו את הרמה!",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630174359530,
+        "oldValue": "",
+        "newValue": "בחר את הרמה "
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633791901486,
+        "oldValue": "בחר את הרמה ",
+        "newValue": "בחרו את הרמה!"
+      }
+    ]
+  },
+  "done": {
+    "value": "סיום",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1633792335028,
+        "oldValue": "",
+        "newValue": "סיום"
+      }
+    ]
+  },
+  "next": {
+    "value": "הבא",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "הבא",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "השלמת את כל הרמות!",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1633792335028,
+        "oldValue": "",
+        "newValue": "השלמת את כל הרמות!"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(השיא שלך: {0})",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "(השיא שלך: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(השיא החדש שלך!)",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "(השיא החדש שלך!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "אתגר {0} מ {1}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465144056596,
+        "oldValue": "",
+        "newValue": "אתגר {0} מ {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "בדיקה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "בדוק",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465144056596,
+        "oldValue": "בדוק",
+        "newValue": "בדיקה",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "המשך",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "המשך",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "מצוין!",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "מצוין!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "טוב מאוד!",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "טוב מאוד!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "מעולה!",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "מעולה!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "המשיכו לנסות",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "נסה שוב",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "נסה שוב",
+        "newValue": "נסו שוב",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465144056596,
+        "oldValue": "נסו שוב",
+        "newValue": "המשיכו לנסות",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "רמה: {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "רמה: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "ניקוד: {0} מתוך {1}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "ניקוד: {0} מתוך {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "הצגת תשובה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465144056596,
+        "oldValue": "",
+        "newValue": "הצגת תשובה",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "התחלה מחדש",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465144056596,
+        "oldValue": "",
+        "newValue": "התחלה מחדש",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "זמן: {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "זמן: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "נסו שוב",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "נסה שוב",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465144056596,
+        "oldValue": "נסה שוב",
+        "newValue": "נסו שוב",
+        "explanation": null
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "משחק חדש",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "משחק חדש",
+        "explanation": null
+      }
+    ]
+  },
+  "button.start": {
+    "value": "התחל!",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "התחל!",
+        "explanation": null
+      }
+    ]
+  },
+  "format.time.best": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "label.best": {
+    "value": "שיא: {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "שיא: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "רמה:",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "רמה:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "שיא חדש!",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "שיא חדש!",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "ניקוד: {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "ניקוד: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "ניקוד: {0} מתוך {1} (מושלם!)",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "ניקוד: {0} מתוך {1} (מושלם!)",
+        "explanation": null
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953212,
+        "oldValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465144056597,
+        "oldValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465144449873,
+        "oldValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465146567572,
+        "oldValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465148130529,
+        "oldValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465742762440,
+        "oldValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "newValue": "לא סיימת את המשחק.\r\nאתה בטוח שאתה רוצה להתחיל משחק חדש?",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "כבוי",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "כבוי",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "דולק",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "דולק",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "בחירת שלב",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465144056596,
+        "oldValue": "",
+        "newValue": "בחירת שלב",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "המשחק נגמר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "המשחק נגמר",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "הגדרות המשחק",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "הגדרות המשחק",
+        "explanation": null
+      }
+    ]
+  }
+}

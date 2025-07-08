@@ -1,0 +1,676 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Pressjoni",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Pressjoni"
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub>={{value}}",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub>={{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub>={{value}}K",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub>={{value}}K"
+      }
+    ]
+  },
+  "data": {
+    "value": "Data",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Data"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "'Centre of mass'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Centre of mass"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Centre of mass",
+        "newValue": "'Centre of mass'",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Temperatura fil-Bidu (K)",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Temperatura fil-Bidu (K)"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Piz (AMU)",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Piz (AMU)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Numru ta' 'Particles'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Numru ta' Particles"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Numru ta' Particles",
+        "newValue": "Numru ta' 'Particles'",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "'Radius'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Radius"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Radius",
+        "newValue": "'Radius'",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Neħħi d-'Divider'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Nehhi d-Divider"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Nehhi d-Divider",
+        "newValue": "Neħħi d-'Divider'",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Irrisettja d-'Divider'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Irrisettja d-Divider"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Irrisettja d-Divider",
+        "newValue": "Irrisettja d-'Divider'",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Ir-Rata li biha għaddejjin il-'Particles'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Ir-rata li biha dehlin il-particles"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Ir-rata li biha dehlin il-particles",
+        "newValue": "Ir-Rata li biha għaddejjin il-'Particles'",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "Skala",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Skala"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "'Stopwatch'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Stopwatch"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Stopwatch",
+        "newValue": "'Stopwatch'",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "'Diffusion'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Diffusion"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Diffusion",
+        "newValue": "'Diffusion'",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Collision Counter",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Collision Counter"
+      }
+    ]
+  },
+  "width": {
+    "value": "Wisgha",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Wisgha"
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Hin Kampjun ",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Hin Kampjun "
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Bumbardamenti mal-Hajt",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Bumbardamenti mal-Hajt"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Erga' Ghatti",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Erga' Ghatti"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Oj!<br><br>Milhuqa l-oghla temperatura",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Oj!<br><br>Milhuqa l-oghla temperatura"
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Bumbardamenti",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Bumbardamenti"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Tqil",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Tqil"
+      }
+    ]
+  },
+  "light": {
+    "value": "Hafif",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Hafif"
+      }
+    ]
+  },
+  "particles": {
+    "value": "Particles",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Particles"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Esplora",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Esplora"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "'Pressure Noise'",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Pressure Noise"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1695913605094,
+        "oldValue": "Pressure Noise",
+        "newValue": "'Pressure Noise'",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Xejn",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Xejn"
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Pressjoni ↕T",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Pressjoni ↕T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Pressjoni ↕V",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Pressjoni ↕V"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Zomm kostanti",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Zomm kostanti"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Temperatura (T)",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Temperatura (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Volum (V)",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Volum (V)"
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Oj! <br><br>Pressjoni ma tistax tinzamm l-istess<br>meta l-container hu vojt.",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Oj! <br><br>Pressjoni ma tistax tinzamm l-istess<br>meta l-container hu vojt."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Oj! <br><br>Pressjoni ma tistax tinzamm l-istess<br>Il-volum se jkun kbir wisq.",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Oj! <br><br>Pressjoni ma tistax tinzamm l-istess<br>Il-volum se jkun kbir wisq."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Oj! <br><br>Pressjoni ma tistax tinzamm l-istess<br>Il-volum se jkun zghir wisq.",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994612,
+        "oldValue": "",
+        "newValue": "Oj! <br><br>Pressjoni ma tistax tinzamm l-istess<br>Il-volum se jkun zghir wisq."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Oj! <br><br>It-temperatura ma tistax tinzamm l-istess<br>meta l-container hu vojt.",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Oj! <br><br>It-temperatura ma tistax tinzamm l-istess<br>meta l-container hu vojt."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Oj! <br><br>It-temperatura ma tistax tinzamm l-istess<br>meta l-container hu miftuh.",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Oj! <br><br>It-temperatura ma tistax tinzamm l-istess<br>meta l-container hu miftuh."
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Ideali",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Ideali"
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Average Speed",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Average Speed"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Temperature tal-Bidu",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Temperature tal-Bidu"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Qabbel il-container",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Qabbel il-container"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Issettja ghal:",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Issettja ghal:"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Kinetic Energy",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Kinetic Energy"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Speed",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Speed"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Energija",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Energija"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Il-Proprjetajiet ta' Gass",
+    "history": [
+      {
+        "userId": 390144,
+        "timestamp": 1664024994613,
+        "oldValue": "",
+        "newValue": "Kif jahdem Gass"
+      },
+      {
+        "userId": 390144,
+        "timestamp": 1664026191612,
+        "oldValue": "Kif jahdem Gass",
+        "newValue": "Il-Proprjetajiet ta' Gass"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "Krahasoni",
+    "history": [
+      {
+        "userId": 767935,
+        "timestamp": 1664448786012,
+        "oldValue": "",
+        "newValue": "Krahasoni"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} është më pak se {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 767935,
+        "timestamp": 1664448786012,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} është më pak se {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} është me e madhe se {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 767935,
+        "timestamp": 1664448786012,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} është me e madhe se {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} është e barabartë me {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 767935,
+        "timestamp": 1664448786012,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} është e barabartë me {{equalNumberRight}}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6077 @@
+{
+  "am": {
+    "moveHandsIndividually": {
+      "value": "እጆቻችሁን በየተራ አንቀሳቅሱ "
+    },
+    "move": {
+      "value": "ተንቀሳቀስ/ሽ"
+    },
+    "leftOrRightHand": {
+      "value": "ግራ ወይም ቀኝ እጅ"
+    },
+    "top": {
+      "value": "ላይ"
+    },
+    "bottom": {
+      "value": "ታች"
+    },
+    "moveLeftHand": {
+      "value": "ግራ እጅን አንቀሳቅስ/ሽ"
+    },
+    "moveRightHand": {
+      "value": "ቀኝ እጅን አንቀሳቅስ/ሽ"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "እጆችን በትንንሽ ደረጃዎች አንቀሳቅስ/ሽ ፣ ደምር/ሪ"
+    },
+    "jumpBothHands": {
+      "value": "ሁለቱንም እጆች ወደ ተመሳሳይ ምልክቱ አዘልል/ይ"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "ሁለቱንም እጆች በአንድ ላይ አንቀሳቅስ/ሽ"
+    },
+    "screen.create": {
+      "value": "ፍጠር/ሪ"
+    },
+    "setHandRatioValue": {
+      "value": "የግራ ወይም የቀኝ ዋጋ አስቀምጥ"
+    },
+    "jumpToMinimum": {
+      "value": "ወደ ዝቅተኛው ዝለል"
+    },
+    "jumpToMaximum": {
+      "value": "ወደ ከፍተኛው ዝለል"
+    },
+    "setMyRatioChallenge": {
+      "value": "ለክፍልፋዬ ውድድር ዋጋዎች አስቀምጥ"
+    },
+    "lockRatio": {
+      "value": "ክፍልፋይን ቆልፍ/ፊ"
+    },
+    "myChallenge": {
+      "value": "የኔ ውድድር"
+    },
+    "zeroToTen": {
+      "value": "ከ0 እስከ 10"
+    },
+    "zeroToTwenty": {
+      "value": "ከ0 እስከ 20"
+    },
+    "zeroToThirty": {
+      "value": "ከ0 እስከ 30"
+    },
+    "range": {
+      "value": "ርቀት፡"
+    },
+    "screen.discover": {
+      "value": "አግኝ/ኚ"
+    },
+    "challenge1": {
+      "value": "ውድድር 1"
+    },
+    "challenge2": {
+      "value": "ውድድር 2"
+    },
+    "challenge3": {
+      "value": "ውድድር 3"
+    },
+    "challengeRatio": {
+      "value": "ክፍልፋይ ውድድር"
+    },
+    "ratio-and-proportion.title": {
+      "value": "ክፍልፋይና እና ተመጣጣኝነት"
+    }
+  },
+  "ar": {
+    "moveHandsIndividually": {
+      "value": "حرك اليدين بشكل فردي"
+    },
+    "move": {
+      "value": "حرك"
+    },
+    "leftOrRightHand": {
+      "value": "اليد اليسرى أو اليمنى"
+    },
+    "top": {
+      "value": "أعلى"
+    },
+    "bottom": {
+      "value": "أسفل"
+    },
+    "moveLeftHand": {
+      "value": "حرك اليد اليسرى"
+    },
+    "moveRightHand": {
+      "value": "حرك اليد اليمنى"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "حرك اليدين بخطوات أصغر ، أضف"
+    },
+    "jumpBothHands": {
+      "value": "اقفز بكلتا يديك إلى نفس علامة التجزئة"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "حرك كلا اليدين في نفس الوقت"
+    },
+    "screen.create": {
+      "value": "إنشاء"
+    },
+    "setHandRatioValue": {
+      "value": "تعيين قيمة اليسار أو اليمين"
+    },
+    "jumpToMinimum": {
+      "value": "اقفز إلى الحد الأدنى"
+    },
+    "jumpToMaximum": {
+      "value": "اقفز إلى الحد الأقصى"
+    },
+    "setMyRatioChallenge": {
+      "value": "قم بتعيين قيم نسبة التحدي الخاصة بي"
+    },
+    "lockRatio": {
+      "value": "قفل النسبة "
+    },
+    "myChallenge": {
+      "value": "التحدي الخاص بي"
+    },
+    "zeroToTen": {
+      "value": " 0 إلى 10"
+    },
+    "zeroToTwenty": {
+      "value": " 0 إلى 20"
+    },
+    "zeroToThirty": {
+      "value": " 0 إلى 30"
+    },
+    "range": {
+      "value": "مجال:"
+    },
+    "screen.discover": {
+      "value": "إكتشف"
+    },
+    "challenge1": {
+      "value": "التحدي 1"
+    },
+    "challenge2": {
+      "value": "التحدي 2"
+    },
+    "challenge3": {
+      "value": "التحدي 3"
+    },
+    "challengeRatio": {
+      "value": "نسبة التحدي"
+    },
+    "ratio-and-proportion.title": {
+      "value": "النسبة و التناسب"
+    }
+  },
+  "ar_MA": {
+    "moveHandsIndividually": {
+      "value": "حرك كل يد على حدة"
+    },
+    "move": {
+      "value": "حرك"
+    },
+    "leftOrRightHand": {
+      "value": "يد يمنى أو يسرى"
+    },
+    "top": {
+      "value": "القمة"
+    },
+    "bottom": {
+      "value": "الأسفل"
+    },
+    "moveLeftHand": {
+      "value": "حرك اليد اليسرى"
+    },
+    "moveRightHand": {
+      "value": "حرك اليد اليسرى"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "حرك اليدين بخطوات صغيرة، أضف"
+    },
+    "jumpBothHands": {
+      "value": "حرك اليدين معا نحو نفس العلامة"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "حرك اليدين معا في نفس الوقت"
+    },
+    "screen.create": {
+      "value": "أنشئ"
+    },
+    "setHandRatioValue": {
+      "value": "حدد القيمة اليمنى أو اليسرى"
+    },
+    "jumpToMinimum": {
+      "value": "اقفز الى الحد الأدنى"
+    },
+    "jumpToMaximum": {
+      "value": "اقفز الى الحد الأقصى"
+    },
+    "setMyRatioChallenge": {
+      "value": "قم بتعيين قيم نسبة التحدي الخاصة بي"
+    },
+    "lockRatio": {
+      "value": "معدل الاغلاق"
+    },
+    "myChallenge": {
+      "value": "التحدي الخاص بي"
+    },
+    "zeroToTen": {
+      "value": "من 0 الى 10"
+    },
+    "zeroToTwenty": {
+      "value": "من 0 الى 20"
+    },
+    "zeroToThirty": {
+      "value": "من 0 الى 30"
+    },
+    "range": {
+      "value": "المجال"
+    },
+    "screen.discover": {
+      "value": "اكتشف"
+    },
+    "challenge1": {
+      "value": "التحدي 1"
+    },
+    "challenge2": {
+      "value": "التحدي 2"
+    },
+    "challenge3": {
+      "value": "التحدي 3"
+    },
+    "challengeRatio": {
+      "value": "نسبة النجاح في التحدي"
+    },
+    "ratio-and-proportion.title": {
+      "value": "النسبة و مقدار الانجاز"
+    }
+  },
+  "az": {
+    "screen.create": {
+      "value": "Yarat"
+    },
+    "screen.discover": {
+      "value": "Kəşf et"
+    },
+    "setHandRatioValue": {
+      "value": "Sol və ya sağ qiyməti təyin edin"
+    },
+    "jumpToMinimum": {
+      "value": "minimum səviyyəsinə keçin"
+    },
+    "jumpToMaximum": {
+      "value": "maksimum səviyyəsinə keçin"
+    },
+    "setMyRatioChallenge": {
+      "value": "Mənim tənasüb yarışım üçün qiymətlər təyin et"
+    },
+    "lockRatio": {
+      "value": "Tənasüb kilidi"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Tənasüb yarışı seç"
+    },
+    "moveHandsIndividually": {
+      "value": "Əlləri fərdi olaraq hərəkət etdir"
+    },
+    "move": {
+      "value": "Hərəkət edin"
+    },
+    "leftOrRightHand": {
+      "value": "Sol və ya sağ əl"
+    },
+    "top": {
+      "value": "üst"
+    },
+    "bottom": {
+      "value": "alt"
+    },
+    "moveLeftHand": {
+      "value": "Sol əli hərəkət etdirin"
+    },
+    "moveRightHand": {
+      "value": "Sağ əli hərəkət etdirin"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "\"Əlləri kiçik addımlarla hərəkət etdirin"
+    },
+    "jumpBothHands": {
+      "value": "Hər iki əlinizlə eyni işarəyə tullanın"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Hər iki əlinizi eyni anda hərəkət etdirin"
+    },
+    "myChallenge": {
+      "value": "Mənim yarışım"
+    },
+    "zeroToTen": {
+      "value": "0dan 10a"
+    },
+    "zeroToTwenty": {
+      "value": "0dan 20ye"
+    },
+    "zeroToThirty": {
+      "value": "0dan 30a"
+    },
+    "range": {
+      "value": "Uzaqlıq"
+    },
+    "challenge1": {
+      "value": "Yarış 1"
+    },
+    "challenge2": {
+      "value": "Yarış 2"
+    },
+    "challenge3": {
+      "value": "Yarış 3"
+    },
+    "challengeRatio": {
+      "value": "Tənasüb yarışı"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Tənasüb və nisbət"
+    }
+  },
+  "bg": {
+    "screen.create": {
+      "value": "Създаване"
+    },
+    "screen.discover": {
+      "value": "Откриване"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Изберете Предизвикателство за съотношения"
+    },
+    "setHandRatioValue": {
+      "value": "Задайте лява или дясна стойност"
+    },
+    "jumpToMinimum": {
+      "value": "Скочи до минимум"
+    },
+    "jumpToMaximum": {
+      "value": "Скочи до максимум"
+    },
+    "setMyRatioChallenge": {
+      "value": "Задайте стойности за моето съотношение на предизвикателствата"
+    },
+    "lockRatio": {
+      "value": "Заключване на съотношението"
+    },
+    "moveHandsIndividually": {
+      "value": "Движете ръцете поотделно"
+    },
+    "move": {
+      "value": "Движете"
+    },
+    "leftOrRightHand": {
+      "value": "лява или дясна ръка"
+    },
+    "top": {
+      "value": "горна част"
+    },
+    "bottom": {
+      "value": "долна част"
+    },
+    "moveLeftHand": {
+      "value": "Преместете лявата ръка"
+    },
+    "moveRightHand": {
+      "value": "Преместете дясната ръка"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Движете ръцете на по-малки стъпки, добавяне"
+    },
+    "jumpBothHands": {
+      "value": "Скочете с двете ръце до една и съща отметка"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Движете двете ръце едновременно"
+    },
+    "challenge1": {
+      "value": "Предизвикателство 1"
+    },
+    "challenge2": {
+      "value": "Предизвикателство 2"
+    },
+    "challenge3": {
+      "value": "Предизвикателство 3"
+    },
+    "challengeRatio": {
+      "value": "Предизвикателство със Съотношения"
+    },
+    "myChallenge": {
+      "value": "Моето Предизвикателство"
+    },
+    "zeroToTen": {
+      "value": "0 до 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 до 20"
+    },
+    "zeroToThirty": {
+      "value": "0 до 30"
+    },
+    "range": {
+      "value": "Обхват:"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Съотношение и пропорция"
+    }
+  },
+  "bn": {
+    "moveHandsIndividually": {
+      "value": "আলাদা আলাদাভাবে হাত সরাও "
+    },
+    "move": {
+      "value": "মুভ "
+    },
+    "leftOrRightHand": {
+      "value": "বাম অথবা ডান "
+    },
+    "top": {
+      "value": "উপরে "
+    },
+    "bottom": {
+      "value": "নিচে"
+    },
+    "moveLeftHand": {
+      "value": "বাম হাত সরাও "
+    },
+    "moveRightHand": {
+      "value": "ডান হাত সরাও "
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Move hands in smaller steps, add"
+    },
+    "jumpBothHands": {
+      "value": "Jump both hands to same tick mark"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "যুগপৎভাবে দুই হাত সরাও "
+    },
+    "screen.create": {
+      "value": "Create"
+    },
+    "setHandRatioValue": {
+      "value": "বাম  অথবা ডানের মান বসাও "
+    },
+    "jumpToMinimum": {
+      "value": "Jump to minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Jump to maximum"
+    },
+    "setMyRatioChallenge": {
+      "value": "আমার চ্যালেঞ্জ অনুপাতের জন্য  মান সেট করো "
+    },
+    "lockRatio": {
+      "value": "লক অনুপাত"
+    },
+    "myChallenge": {
+      "value": "আমার চ্যালেঞ্জ"
+    },
+    "zeroToTen": {
+      "value": "0 to 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 to 20"
+    },
+    "zeroToThirty": {
+      "value": "0 to 30"
+    },
+    "range": {
+      "value": "পাল্লা "
+    },
+    "screen.discover": {
+      "value": "অনুসন্ধান করো "
+    },
+    "challenge1": {
+      "value": "চ্যালেঞ্জ-১"
+    },
+    "challenge2": {
+      "value": "চ্যালেঞ্জ-২"
+    },
+    "challenge3": {
+      "value": "চ্যালেঞ্জ-৩"
+    },
+    "challengeRatio": {
+      "value": "চ্যালেঞ্জ  অনুপাত "
+    },
+    "ratio-and-proportion.title": {
+      "value": "অনুপাত এবং সমানুপাত"
+    }
+  },
+  "bs": {
+    "moveHandsIndividually": {
+      "value": "Pomjerite ruke pojedinačno"
+    },
+    "move": {
+      "value": "Pomjeri"
+    },
+    "leftOrRightHand": {
+      "value": "lijeva ili desna ruka"
+    },
+    "top": {
+      "value": "gore"
+    },
+    "bottom": {
+      "value": "dolje"
+    },
+    "moveLeftHand": {
+      "value": "Pomjeri lijevu ruku"
+    },
+    "moveRightHand": {
+      "value": "Pomjeri desnu ruku"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Pomjerajte ruke u manjim \"koracima\""
+    },
+    "jumpBothHands": {
+      "value": "Pomjerite obje ruke do iste oznake"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Pomjerite obje ruke istovremeno"
+    },
+    "screen.create": {
+      "value": "Kreiraj"
+    },
+    "setHandRatioValue": {
+      "value": "Podesite lijevu ili desnu vrijednost"
+    },
+    "jumpToMinimum": {
+      "value": "Skoči na minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Skoči na maksimum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Postavi vrijednosti za Moj izazov - razmjere"
+    },
+    "lockRatio": {
+      "value": "Zaključaj razmjeru"
+    },
+    "myChallenge": {
+      "value": "Moj izazov"
+    },
+    "zeroToTen": {
+      "value": "0 do 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 do 20"
+    },
+    "zeroToThirty": {
+      "value": "0 do 30"
+    },
+    "range": {
+      "value": "Raspon: "
+    },
+    "screen.discover": {
+      "value": "Otkrijte"
+    },
+    "challenge1": {
+      "value": "Izazov 1"
+    },
+    "challenge2": {
+      "value": "Izazov 2"
+    },
+    "challenge3": {
+      "value": "Izazov 3"
+    },
+    "challengeRatio": {
+      "value": "Izazov - Razmjera"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Odnos i razmjera"
+    }
+  },
+  "ca": {
+    "moveHandsIndividually": {
+      "value": "Moure les mans individualment"
+    },
+    "move": {
+      "value": "Moure"
+    },
+    "leftOrRightHand": {
+      "value": "mà esquerra o dreta"
+    },
+    "top": {
+      "value": "dalt"
+    },
+    "bottom": {
+      "value": "sota"
+    },
+    "moveLeftHand": {
+      "value": "Moure la mà esquerra"
+    },
+    "moveRightHand": {
+      "value": "Moure la mà dreta"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Moure les mans en desplaçaments més petits"
+    },
+    "jumpBothHands": {
+      "value": "Saltar ambdues mans a la mateixa marca"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Moure ambdues mans simultàniament"
+    },
+    "screen.create": {
+      "value": "Crea"
+    },
+    "setHandRatioValue": {
+      "value": "Assigna un valor a la mà esquerra o dreta"
+    },
+    "jumpToMinimum": {
+      "value": "Salta al mínim"
+    },
+    "jumpToMaximum": {
+      "value": "Salta al màxim"
+    },
+    "setMyRatioChallenge": {
+      "value": "Assigna valors per al meu repte de raó"
+    },
+    "lockRatio": {
+      "value": "Bloca la raó"
+    },
+    "myChallenge": {
+      "value": "El meu repte"
+    },
+    "zeroToTen": {
+      "value": "de 0 a 10"
+    },
+    "zeroToTwenty": {
+      "value": "de 0 a 20"
+    },
+    "zeroToThirty": {
+      "value": "de 0 a 30"
+    },
+    "range": {
+      "value": "Rang:"
+    },
+    "screen.discover": {
+      "value": "Descobreix"
+    },
+    "challenge1": {
+      "value": "Repte 1"
+    },
+    "challenge2": {
+      "value": "Repte 2"
+    },
+    "challenge3": {
+      "value": "Repte 3"
+    },
+    "challengeRatio": {
+      "value": "Repte de raó"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Raó i proporció"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Tria un repte de raó"
+    }
+  },
+  "cs": {
+    "screen.create": {
+      "value": "Vytvořit"
+    },
+    "screen.discover": {
+      "value": "Objevit"
+    },
+    "setHandRatioValue": {
+      "value": "Nastavit levou nebo pravou hodnotu"
+    },
+    "jumpToMinimum": {
+      "value": "Přejít na minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Přejít na maximum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Nastavit hodnoty pro moji výzvu"
+    },
+    "lockRatio": {
+      "value": "Uzamčení poměru"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Vybrat výzvu poměry"
+    },
+    "moveHandsIndividually": {
+      "value": "Přesunout ruce jednotlivě"
+    },
+    "move": {
+      "value": "Přesunout"
+    },
+    "leftOrRightHand": {
+      "value": "levou nebo pravou ruku"
+    },
+    "top": {
+      "value": "nahoře"
+    },
+    "bottom": {
+      "value": "dole"
+    },
+    "moveLeftHand": {
+      "value": "Přesun levé ruky"
+    },
+    "moveRightHand": {
+      "value": "Přesun pravé ruky"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Přesunovat ruce po menších krocích, přidat"
+    },
+    "jumpBothHands": {
+      "value": "Přesunout obě ruce na stejnou značku"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Pohybovat oběma rukama najednou"
+    },
+    "myChallenge": {
+      "value": "Moje výzva"
+    },
+    "zeroToTen": {
+      "value": "0 až 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 až 20"
+    },
+    "zeroToThirty": {
+      "value": "0 až 30"
+    },
+    "range": {
+      "value": "Rozmezí:"
+    },
+    "challenge1": {
+      "value": "Výzva 1"
+    },
+    "challenge2": {
+      "value": "Výzva 2"
+    },
+    "challenge3": {
+      "value": "Výzva 3"
+    },
+    "challengeRatio": {
+      "value": "Výzva poměry"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Poměr a úměrnost"
+    }
+  },
+  "da": {
+    "moveHandsIndividually": {
+      "value": "Flyt hænder enkeltvis"
+    },
+    "move": {
+      "value": "Flyt"
+    },
+    "leftOrRightHand": {
+      "value": "venstre eller højre hånd"
+    },
+    "top": {
+      "value": "top"
+    },
+    "bottom": {
+      "value": "bund"
+    },
+    "moveLeftHand": {
+      "value": "Flyt venstre hånd"
+    },
+    "moveRightHand": {
+      "value": "Flyt højre hånd"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Flyt hænder i mindre trin, tilføj"
+    },
+    "jumpBothHands": {
+      "value": "Hop med begge hænder til samme tal-værdi"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Flyt begge hænder samtidigt"
+    },
+    "screen.create": {
+      "value": "Skab"
+    },
+    "setHandRatioValue": {
+      "value": "Sæt venstre- eller højre-værdi"
+    },
+    "jumpToMinimum": {
+      "value": "Hop til minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Hop til maksimum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Sæt tal-værdier for Min udfordring"
+    },
+    "lockRatio": {
+      "value": "Lås størrelsesforhold"
+    },
+    "myChallenge": {
+      "value": "Min udfordring"
+    },
+    "zeroToTen": {
+      "value": "0 til 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 til 20"
+    },
+    "zeroToThirty": {
+      "value": "0 til 30"
+    },
+    "range": {
+      "value": "Skala:"
+    },
+    "screen.discover": {
+      "value": "Opdag"
+    },
+    "challenge1": {
+      "value": "Opgave 1"
+    },
+    "challenge2": {
+      "value": "Opgave 2"
+    },
+    "challenge3": {
+      "value": "Opgave 3"
+    },
+    "challengeRatio": {
+      "value": "Opgavens størrelsesforhold"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Størrelsesforhold og proportion"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Vælg et udfordringsforhold"
+    }
+  },
+  "de": {
+    "moveHandsIndividually": {
+      "value": "Bewege die Hände einzeln"
+    },
+    "move": {
+      "value": "Bewege"
+    },
+    "leftOrRightHand": {
+      "value": "linke oder rechte Hand"
+    },
+    "top": {
+      "value": "oben"
+    },
+    "bottom": {
+      "value": "unten"
+    },
+    "moveLeftHand": {
+      "value": "Bewege die linke Hand"
+    },
+    "moveRightHand": {
+      "value": "Bewege die rechte Hand"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Bewege die Hände in kleineren Schritten"
+    },
+    "jumpBothHands": {
+      "value": "Springe mit beiden Händen zur selben Markierung"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Bewege beide Hände gleichzeitig"
+    },
+    "screen.create": {
+      "value": "Erzeugen"
+    },
+    "setHandRatioValue": {
+      "value": "Setze linken oder rechten Wert"
+    },
+    "jumpToMinimum": {
+      "value": "Springe zum kleinsten Wert"
+    },
+    "jumpToMaximum": {
+      "value": "Springe zum größten Wert"
+    },
+    "setMyRatioChallenge": {
+      "value": "Stelle Verhältnis für die eigene Herausforderung ein"
+    },
+    "lockRatio": {
+      "value": "Fixiere das Verhältnis"
+    },
+    "myChallenge": {
+      "value": "Meine Herausforderung"
+    },
+    "zeroToTen": {
+      "value": "0 bis 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 bis 20"
+    },
+    "zeroToThirty": {
+      "value": "0 bis 30"
+    },
+    "range": {
+      "value": "Bereich"
+    },
+    "screen.discover": {
+      "value": "Entdecken"
+    },
+    "challenge1": {
+      "value": "Herausforderung 1"
+    },
+    "challenge2": {
+      "value": "Herausforderung 2"
+    },
+    "challenge3": {
+      "value": "Herausforderung 3"
+    },
+    "challengeRatio": {
+      "value": "Verhältnis der Herausforderung"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Verhältnis und Proportion"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Wähle ein Verhältnis für die Herausforderung"
+    }
+  },
+  "el": {
+    "moveHandsIndividually": {
+      "value": "Μετακίνηση χεριών ξεχωριστά"
+    },
+    "move": {
+      "value": "Μετακίνηση"
+    },
+    "leftOrRightHand": {
+      "value": "αριστερό ή δεξί χέρι"
+    },
+    "top": {
+      "value": "επάνω"
+    },
+    "bottom": {
+      "value": "κάτω"
+    },
+    "moveLeftHand": {
+      "value": "Μετακίνηση αριστερού χεριού"
+    },
+    "moveRightHand": {
+      "value": "Μετακίνηση δεξιού χεριού"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Μετακίνηση χεριών με μικρότερα βήμα, προσθήκη"
+    },
+    "jumpBothHands": {
+      "value": "Μετακίνηση χεριών στο ίδιο σημείο επιλογής"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Μετακίνηση χεριών ταυτόχρονα"
+    },
+    "screen.create": {
+      "value": "Δημιουργία"
+    },
+    "setHandRatioValue": {
+      "value": "Ορισμός αριστερής ή δεξιάς τιμής"
+    },
+    "jumpToMinimum": {
+      "value": "Μετακίνηση στο ελάχιστο"
+    },
+    "jumpToMaximum": {
+      "value": "Μετακίνηση στο μέγιστο"
+    },
+    "setMyRatioChallenge": {
+      "value": "Ορισμός τιμών για την αναλογία των δοκιμασιών"
+    },
+    "lockRatio": {
+      "value": "Κλείδωμα αναλογίας"
+    },
+    "myChallenge": {
+      "value": "Η δοκιμασία μου"
+    },
+    "zeroToTen": {
+      "value": "0 ως 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 ως 20"
+    },
+    "zeroToThirty": {
+      "value": "0 ως 30"
+    },
+    "range": {
+      "value": "Εύρος:"
+    },
+    "screen.discover": {
+      "value": "Ανακάλυψη"
+    },
+    "challenge1": {
+      "value": "Δοκιμασία 1"
+    },
+    "challenge2": {
+      "value": "Δοκιμασία 2"
+    },
+    "challenge3": {
+      "value": "Δοκιμασία 3"
+    },
+    "challengeRatio": {
+      "value": "Αναλογία δοκιμασίας"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Λόγοι και αναλογίες"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Επιλέξτε μια αναλογία πρόκλησης"
+    }
+  },
+  "es": {
+    "moveHandsIndividually": {
+      "value": "Mover las manos individualmente"
+    },
+    "move": {
+      "value": "Mover"
+    },
+    "leftOrRightHand": {
+      "value": "mano izquierda o derecha"
+    },
+    "top": {
+      "value": "arriba"
+    },
+    "bottom": {
+      "value": "abajo"
+    },
+    "moveLeftHand": {
+      "value": "Mover mano izquierda"
+    },
+    "moveRightHand": {
+      "value": "Mover mano derecha"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Mover las manos en pequeños pasos"
+    },
+    "jumpBothHands": {
+      "value": "Poner ambas manos en la misma marca"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Mover ambas manos simultáneamente"
+    },
+    "screen.create": {
+      "value": "Crear"
+    },
+    "setHandRatioValue": {
+      "value": "Establecer valor izquierdo o derecho"
+    },
+    "jumpToMinimum": {
+      "value": "Saltar al mínimo"
+    },
+    "jumpToMaximum": {
+      "value": "Saltar al máximo"
+    },
+    "setMyRatioChallenge": {
+      "value": "Establecer los valores para Mi Razón de Desafío"
+    },
+    "lockRatio": {
+      "value": "Bloquear Razón"
+    },
+    "myChallenge": {
+      "value": "Mi Desafío"
+    },
+    "zeroToTen": {
+      "value": "0 a 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 a 20"
+    },
+    "zeroToThirty": {
+      "value": "0 a 30"
+    },
+    "range": {
+      "value": "Rango:"
+    },
+    "screen.discover": {
+      "value": "Descubrir"
+    },
+    "challenge1": {
+      "value": "Desafío 1"
+    },
+    "challenge2": {
+      "value": "Desafío 2"
+    },
+    "challenge3": {
+      "value": "Desafío 3"
+    },
+    "challengeRatio": {
+      "value": "Razón de Desafío"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Razón y Proporción"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Escoger una Razón de Desafío"
+    }
+  },
+  "es_PE": {
+    "moveHandsIndividually": {
+      "value": "Mueve las manos individualmente"
+    },
+    "move": {
+      "value": "Mueve"
+    },
+    "leftOrRightHand": {
+      "value": "mano izquierda o derecha"
+    },
+    "top": {
+      "value": "arriba"
+    },
+    "bottom": {
+      "value": "abajo"
+    },
+    "moveLeftHand": {
+      "value": "Mueve la mano izquierda"
+    },
+    "moveRightHand": {
+      "value": "Mueve la mano derecha"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Mueva las manos en pasos más pequeños, agregue."
+    },
+    "jumpBothHands": {
+      "value": "Salta con ambas manos a la misma marca de verificación"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Mueva ambas manos simultáneamente"
+    },
+    "screen.create": {
+      "value": "Crea"
+    },
+    "setHandRatioValue": {
+      "value": "Establece un valor a la izquierda o a la derecha"
+    },
+    "jumpToMinimum": {
+      "value": "Salta al mínimo"
+    },
+    "jumpToMaximum": {
+      "value": "Salta al máximo"
+    },
+    "setMyRatioChallenge": {
+      "value": "Establece valores para la razón de mi desafío"
+    },
+    "lockRatio": {
+      "value": "Bloquea la razón"
+    },
+    "myChallenge": {
+      "value": "Mi desafío"
+    },
+    "zeroToTen": {
+      "value": "0 hasta 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 hasta 20"
+    },
+    "zeroToThirty": {
+      "value": "0 hasta 30"
+    },
+    "range": {
+      "value": "Rango"
+    },
+    "screen.discover": {
+      "value": "Descubre"
+    },
+    "challenge1": {
+      "value": "Desafío 1"
+    },
+    "challenge2": {
+      "value": "Desafío 2"
+    },
+    "challenge3": {
+      "value": "Desafío 3"
+    },
+    "challengeRatio": {
+      "value": "Razón de desafío"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Razón y Proporción"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Elija una proporción de desafío"
+    }
+  },
+  "eu": {
+    "moveHandsIndividually": {
+      "value": "Eskuak banazbana mugitu"
+    },
+    "move": {
+      "value": "Mugitu"
+    },
+    "leftOrRightHand": {
+      "value": "ezker edo eskubiko eskua"
+    },
+    "top": {
+      "value": "goiko aldean"
+    },
+    "bottom": {
+      "value": "beheko aldean"
+    },
+    "moveLeftHand": {
+      "value": "Mugitu ezkerreko eskua"
+    },
+    "moveRightHand": {
+      "value": "Mugitu eskubiko eskua"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Mugitu eskuak pauso txikiagoetan, gehitu"
+    },
+    "jumpBothHands": {
+      "value": "Bi eskuak marka berdinera eraman"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Mugitu bi eskuak aldi berean"
+    },
+    "screen.create": {
+      "value": "Sortu"
+    },
+    "setHandRatioValue": {
+      "value": "Ezarri ezkerreko edo eskubiko balioa"
+    },
+    "jumpToMinimum": {
+      "value": "Salto egin gutxienera"
+    },
+    "jumpToMaximum": {
+      "value": "Salto egin gehienera"
+    },
+    "setMyRatioChallenge": {
+      "value": "Ezarri balioak nire erronka-arrazoian"
+    },
+    "lockRatio": {
+      "value": "Arrazoia blokeatu"
+    },
+    "myChallenge": {
+      "value": "Nire erronka"
+    },
+    "zeroToTen": {
+      "value": "0tik 10era"
+    },
+    "zeroToTwenty": {
+      "value": "0tik 20era"
+    },
+    "zeroToThirty": {
+      "value": "0tik 30era"
+    },
+    "range": {
+      "value": "Tartea:"
+    },
+    "screen.discover": {
+      "value": "Ezagutu"
+    },
+    "challenge1": {
+      "value": "1. erronka"
+    },
+    "challenge2": {
+      "value": "2. erronka"
+    },
+    "challenge3": {
+      "value": "3. erronka"
+    },
+    "challengeRatio": {
+      "value": "Erronka arrazoia"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Arrazoia eta proportzioa"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Aukeratu erronka ratioa"
+    }
+  },
+  "fa": {
+    "moveHandsIndividually": {
+      "value": "حرکت دادن جداگانه دست ها"
+    },
+    "move": {
+      "value": "حرکت دادن"
+    },
+    "leftOrRightHand": {
+      "value": "دست راست یا چپ"
+    },
+    "top": {
+      "value": "بالا"
+    },
+    "bottom": {
+      "value": "پایین"
+    },
+    "moveLeftHand": {
+      "value": "دست چپ را حرکت بده"
+    },
+    "moveRightHand": {
+      "value": "دست راست را حرکت بده"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "حرکت دادن دست ها در گام های کوچکتر، اضافه کردن"
+    },
+    "jumpBothHands": {
+      "value": "هر دو دست را به یک علامت تیک ببرید"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "تکان دادن همزمان دو دست"
+    },
+    "screen.create": {
+      "value": "نسبت بساز"
+    },
+    "setHandRatioValue": {
+      "value": "تنظیم مقدار چپ یا راست"
+    },
+    "jumpToMinimum": {
+      "value": "پریدن به کمترین مقدار"
+    },
+    "jumpToMaximum": {
+      "value": "پریدن به بیشترین مقدار"
+    },
+    "setMyRatioChallenge": {
+      "value": "تنظیم مقادیر برای نسبت چالش من"
+    },
+    "lockRatio": {
+      "value": "قفل کردن نسبت"
+    },
+    "myChallenge": {
+      "value": "چالش من"
+    },
+    "zeroToTen": {
+      "value": "0 تا 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 تا 20"
+    },
+    "zeroToThirty": {
+      "value": "0 تا 30"
+    },
+    "range": {
+      "value": "بازه"
+    },
+    "screen.discover": {
+      "value": "کشف کن"
+    },
+    "challenge1": {
+      "value": "چالش 1"
+    },
+    "challenge2": {
+      "value": "چالش 2"
+    },
+    "challenge3": {
+      "value": "چالش 3"
+    },
+    "challengeRatio": {
+      "value": "نسبت چالش"
+    },
+    "ratio-and-proportion.title": {
+      "value": "نسبت و تناسب"
+    },
+    "chooseAChallengeRatio": {
+      "value": "انتخاب نسبت برای چالش"
+    }
+  },
+  "fa_DA": {
+    "screen.create": {
+      "value": "نسبت را تشکیل دهید!"
+    },
+    "screen.discover": {
+      "value": "کشف کنید!"
+    },
+    "setHandRatioValue": {
+      "value": "تنظیم مقدار چپ یا راست"
+    },
+    "jumpToMinimum": {
+      "value": "خیزش به کمترین مقدار"
+    },
+    "jumpToMaximum": {
+      "value": "خیزش به بیشترین مقدار"
+    },
+    "setMyRatioChallenge": {
+      "value": "مقدارها را برای چالش من ترتیب کنید!"
+    },
+    "lockRatio": {
+      "value": "قفل کردن نسبت"
+    },
+    "chooseAChallengeRatio": {
+      "value": "انتخاب نسبت برای چالش"
+    },
+    "moveHandsIndividually": {
+      "value": "حرکت دادن جداگانه دست ها"
+    },
+    "move": {
+      "value": "حرکت دادن"
+    },
+    "leftOrRightHand": {
+      "value": "دست راست یا چپ"
+    },
+    "top": {
+      "value": "بالا"
+    },
+    "bottom": {
+      "value": "پایین"
+    },
+    "moveLeftHand": {
+      "value": "دست چپ را حرکت بدهید"
+    },
+    "moveRightHand": {
+      "value": "دست راست را حرکت بدهید"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "حرکت دادن دست ها در گام های کوچکتر، اضافه کردن"
+    },
+    "jumpBothHands": {
+      "value": "هر دو دست را به یک علامت تیک ببرید"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "تکان دادن همزمان دو دست"
+    },
+    "myChallenge": {
+      "value": "چالش من"
+    },
+    "zeroToTen": {
+      "value": "0 تا 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 تا 20"
+    },
+    "zeroToThirty": {
+      "value": "0 تا 30"
+    },
+    "range": {
+      "value": "ساحه"
+    },
+    "challenge1": {
+      "value": "چالش 1"
+    },
+    "challenge2": {
+      "value": "چالش 2"
+    },
+    "challenge3": {
+      "value": "چالش 3"
+    },
+    "challengeRatio": {
+      "value": "نسبت چالش"
+    },
+    "ratio-and-proportion.title": {
+      "value": "نسبت و تناسب"
+    }
+  },
+  "fr": {
+    "moveHandsIndividually": {
+      "value": "Bouger les mains individuellement"
+    },
+    "move": {
+      "value": "Bouger"
+    },
+    "leftOrRightHand": {
+      "value": "Main droite ou main gauche"
+    },
+    "top": {
+      "value": "haut"
+    },
+    "bottom": {
+      "value": "arrière"
+    },
+    "moveLeftHand": {
+      "value": "Bouger la main gauche"
+    },
+    "moveRightHand": {
+      "value": "Bouger la main droite"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Déplacer les mains par petites étapes, ajouter"
+    },
+    "jumpBothHands": {
+      "value": "Déplacer les deux mains sur la même coche"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Bouger les deux mains simultanément"
+    },
+    "screen.create": {
+      "value": "Créer"
+    },
+    "setHandRatioValue": {
+      "value": "Régler la valeur de gauche ou de droite"
+    },
+    "jumpToMinimum": {
+      "value": "Aller au minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Aller au maximum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Régler les valeurs pour Mon défi ratio"
+    },
+    "lockRatio": {
+      "value": "Verrouiller le ratio"
+    },
+    "myChallenge": {
+      "value": "Mon défi"
+    },
+    "zeroToTen": {
+      "value": "0 à 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 à 20"
+    },
+    "zeroToThirty": {
+      "value": "0 à 30"
+    },
+    "range": {
+      "value": "Intervalle"
+    },
+    "screen.discover": {
+      "value": "Découverte"
+    },
+    "challenge1": {
+      "value": "Défi 1"
+    },
+    "challenge2": {
+      "value": "Défi 2"
+    },
+    "challenge3": {
+      "value": "Défi 3"
+    },
+    "challengeRatio": {
+      "value": "Défi ratio"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Ratio et proportion"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Choisissez un ratio de défi"
+    }
+  },
+  "gu": {
+    "moveHandsIndividually": {
+      "value": "વ્યક્તિગત રીતે હાથ ખસેડો"
+    },
+    "move": {
+      "value": "ખસેડો"
+    },
+    "leftOrRightHand": {
+      "value": "ડાબો અથવા જમણો હાથ"
+    },
+    "top": {
+      "value": "ઉપર"
+    },
+    "bottom": {
+      "value": "નીચે"
+    },
+    "moveLeftHand": {
+      "value": "ડાબો હાથ ખસેડો"
+    },
+    "moveRightHand": {
+      "value": "જમણો  હાથ ખસેડો"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "હાથને થોડો ખસેડો,અને"
+    },
+    "jumpBothHands": {
+      "value": "બને હાથને સરખા ટીકમાર્ક પાસે લઇ જાઓ"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "બંને હાથ વારા ફરતે ખસેડો"
+    },
+    "screen.create": {
+      "value": "મહાવરો કરો."
+    },
+    "setHandRatioValue": {
+      "value": "ડાબી અને જમણી કિમત સેટ કરો"
+    },
+    "jumpToMinimum": {
+      "value": "સૌથી નીચેના લેવલ પર જાઓ"
+    },
+    "jumpToMaximum": {
+      "value": "સૌથી ઉપરના લેવલ પર જાઓ"
+    },
+    "setMyRatioChallenge": {
+      "value": "મારા માટે પ્રમાણ કિંમત નક્કી કરો"
+    },
+    "lockRatio": {
+      "value": "પ્રમાણ લોક કરો"
+    },
+    "myChallenge": {
+      "value": "મારા માટે કાર્ય"
+    },
+    "zeroToTen": {
+      "value": "0 થી 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 થી 20"
+    },
+    "zeroToThirty": {
+      "value": "0 થી 30"
+    },
+    "range": {
+      "value": "વિસ્તાર"
+    },
+    "screen.discover": {
+      "value": "પ્રમાણ શોધો"
+    },
+    "challenge1": {
+      "value": "સોપાન 1 - 1:2"
+    },
+    "challenge2": {
+      "value": "સોપાન 2 - 1:3"
+    },
+    "challenge3": {
+      "value": "સોપાન 3 - 3:4"
+    },
+    "challengeRatio": {
+      "value": "પ્રમાણ શોધો"
+    },
+    "ratio-and-proportion.title": {
+      "value": "ગુણોત્તર અને પ્રમાણ - જીજ્ઞેશ ખુંટ"
+    },
+    "chooseAChallengeRatio": {
+      "value": "પ્રમાણ માટે વિસ્તાર  પસંદ કરો."
+    }
+  },
+  "ha": {
+    "moveHandsIndividually": {
+      "value": "Matsa da hannu daya bayan daya"
+    },
+    "move": {
+      "value": "Matsa"
+    },
+    "leftOrRightHand": {
+      "value": "Hannun hagu ko na dama"
+    },
+    "top": {
+      "value": "Sama"
+    },
+    "bottom": {
+      "value": "Kasa"
+    },
+    "moveLeftHand": {
+      "value": "Matsa da hannun hagu"
+    },
+    "moveRightHand": {
+      "value": "Matsa da hannun dama"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Matsa da hannun kadan kadan, kara"
+    },
+    "jumpBothHands": {
+      "value": "Tsalaka duka hannun zuwa maki daidai"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Matsa duka hannun a lokaci daya"
+    },
+    "screen.create": {
+      "value": "Kirkiro"
+    },
+    "setHandRatioValue": {
+      "value": "Saka kiman hagu ko dama"
+    },
+    "jumpToMinimum": {
+      "value": "Tsalaka zuwa mafi karanci"
+    },
+    "jumpToMaximum": {
+      "value": "Tsalaka zuwa makura"
+    },
+    "setMyRatioChallenge": {
+      "value": "Saka kiman rabon takalan ka"
+    },
+    "lockRatio": {
+      "value": "Kulle rabo"
+    },
+    "myChallenge": {
+      "value": "Takala na"
+    },
+    "zeroToTen": {
+      "value": "0 zuwa 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 zuwa 20"
+    },
+    "zeroToThirty": {
+      "value": "0 zuwa 30"
+    },
+    "range": {
+      "value": "Nau'uka"
+    },
+    "screen.discover": {
+      "value": "Bincika"
+    },
+    "challenge1": {
+      "value": "Takala 1"
+    },
+    "challenge2": {
+      "value": "Takala 2"
+    },
+    "challenge3": {
+      "value": "Takala 3"
+    },
+    "challengeRatio": {
+      "value": "Rabon takala"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Rabo da rabubuwa"
+    }
+  },
+  "hi": {
+    "moveHandsIndividually": {
+      "value": "हाथों को स्वयं हिलाएं"
+    },
+    "move": {
+      "value": "हिलाएं"
+    },
+    "leftOrRightHand": {
+      "value": "बायां या दाहिना हाथ"
+    },
+    "top": {
+      "value": "शीर्ष पर"
+    },
+    "bottom": {
+      "value": "अधोतल पर"
+    },
+    "moveLeftHand": {
+      "value": "बायां हाथ हिलाएं"
+    },
+    "moveRightHand": {
+      "value": "दाहिना हाथ हिलाएं"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "थोड़ा-थोड़ा हाथोंं को खिसकाएं"
+    },
+    "jumpBothHands": {
+      "value": "दोनों हाथों को एक ही चिह्न तक लें जाएं"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "दोनों हाथों को एक साथ हिलाएं"
+    },
+    "screen.create": {
+      "value": "बनाएँ"
+    },
+    "setHandRatioValue": {
+      "value": "बायाँ या दायाँ मान निर्धारित करें"
+    },
+    "jumpToMinimum": {
+      "value": "न्यूनतम पर जाओ"
+    },
+    "jumpToMaximum": {
+      "value": "अधिकतम पर जाओ"
+    },
+    "setMyRatioChallenge": {
+      "value": "मेरे चुनौती अनुपात के लिए मान निर्धारित करें"
+    },
+    "lockRatio": {
+      "value": "बंद अनुपात"
+    },
+    "myChallenge": {
+      "value": "मेरी चुनौती"
+    },
+    "zeroToTen": {
+      "value": "0 से 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 से 20"
+    },
+    "zeroToThirty": {
+      "value": "0 से 30"
+    },
+    "range": {
+      "value": "परास"
+    },
+    "screen.discover": {
+      "value": "खोजें"
+    },
+    "challenge1": {
+      "value": "चुनौती 1"
+    },
+    "challenge2": {
+      "value": "चुनौती 2"
+    },
+    "challenge3": {
+      "value": "चुनौती 3"
+    },
+    "challengeRatio": {
+      "value": "चुनौती अनुपात"
+    },
+    "ratio-and-proportion.title": {
+      "value": "अनुपात एवं समानुपात"
+    }
+  },
+  "hr": {
+    "moveHandsIndividually": {
+      "value": "Pomjeraj ruke neovisno"
+    },
+    "move": {
+      "value": "Pomjeri"
+    },
+    "leftOrRightHand": {
+      "value": "lijevu ili desnu ruku"
+    },
+    "top": {
+      "value": "vrh"
+    },
+    "bottom": {
+      "value": "dno"
+    },
+    "moveLeftHand": {
+      "value": "Pomjeri lijevu ruku"
+    },
+    "moveRightHand": {
+      "value": "Pomjeri desnu ruku"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Pomjeraj ruke u manjim koracima, dodaj"
+    },
+    "jumpBothHands": {
+      "value": "Pomjeri obje ruke na isti znak dodira"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Obje ruke pomjeraju se istodobno"
+    },
+    "screen.create": {
+      "value": "Kreiraj"
+    },
+    "setHandRatioValue": {
+      "value": "Postavi lijevu ili desnu vrijednost"
+    },
+    "jumpToMinimum": {
+      "value": "Postavi na minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Postavi na maksimum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Postavi vrijednosti za Moj izazov omjera"
+    },
+    "lockRatio": {
+      "value": "Zaključaj omjer"
+    },
+    "myChallenge": {
+      "value": "Moj izazov"
+    },
+    "zeroToTen": {
+      "value": "0 do 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 do 20"
+    },
+    "zeroToThirty": {
+      "value": "0 do 30"
+    },
+    "range": {
+      "value": "Raspon"
+    },
+    "screen.discover": {
+      "value": "Otkrij"
+    },
+    "challenge1": {
+      "value": "Izazov 1"
+    },
+    "challenge2": {
+      "value": "Izazov 2"
+    },
+    "challenge3": {
+      "value": "Izazov 3"
+    },
+    "challengeRatio": {
+      "value": "Izazov omjer"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Omjer i proporcija"
+    }
+  },
+  "ht": {
+    "moveHandsIndividually": {
+      "value": "Deplase Men Endividyèlman"
+    },
+    "move": {
+      "value": "Deplase"
+    },
+    "leftOrRightHand": {
+      "value": "men gòch oswa men dwat"
+    },
+    "top": {
+      "value": "tèt"
+    },
+    "bottom": {
+      "value": "anba"
+    },
+    "moveLeftHand": {
+      "value": "Deplase men gòch"
+    },
+    "moveRightHand": {
+      "value": "Deplase men dwat"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Deplase men nan etap ki pi piti, ajoute"
+    },
+    "jumpBothHands": {
+      "value": "Sote tou de men nan menm tchèk mak"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Deplase Tou de Men Ansanm"
+    },
+    "screen.create": {
+      "value": "Kreye"
+    },
+    "setHandRatioValue": {
+      "value": "Mete valè gòch oswa dwat"
+    },
+    "jumpToMinimum": {
+      "value": "Sote nan minimòm"
+    },
+    "jumpToMaximum": {
+      "value": "Sote nan maksimòm"
+    },
+    "setMyRatioChallenge": {
+      "value": "Mete Valè pou Pwopòsyon defi mwen an"
+    },
+    "lockRatio": {
+      "value": "Fèmen Pwopòsyon"
+    },
+    "myChallenge": {
+      "value": "Defi mwen an"
+    },
+    "zeroToTen": {
+      "value": "0 a 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 a 20"
+    },
+    "zeroToThirty": {
+      "value": "0 a 30"
+    },
+    "range": {
+      "value": "Entèval"
+    },
+    "screen.discover": {
+      "value": "Dekouvri"
+    },
+    "challenge1": {
+      "value": "Defi 1"
+    },
+    "challenge2": {
+      "value": "Defi 2"
+    },
+    "challenge3": {
+      "value": "Defi 3"
+    },
+    "challengeRatio": {
+      "value": "Rasyo Defi"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Rasyo ak Pwopòsyon"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Chwazi yon Pwopòsyon Defi"
+    }
+  },
+  "hu": {
+    "moveHandsIndividually": {
+      "value": "A kezek külön mozognak"
+    },
+    "move": {
+      "value": "Mozgasd"
+    },
+    "leftOrRightHand": {
+      "value": "bal vagy jobb kéz"
+    },
+    "top": {
+      "value": "fent"
+    },
+    "bottom": {
+      "value": "lent"
+    },
+    "moveLeftHand": {
+      "value": "Mozgasd a bal kezet"
+    },
+    "moveRightHand": {
+      "value": "Mosgasd a jobb kezet"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Kisebb lépésekben mozgasd a kezet, add?"
+    },
+    "jumpBothHands": {
+      "value": "Ugrasd mindkét kezet ugyanahhoz a jelhez"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Mozgasd egyszerre a két kezet"
+    },
+    "setHandRatioValue": {
+      "value": "Állítsd be a bal és a jobb értéket"
+    },
+    "jumpToMinimum": {
+      "value": "Ugorj a legkisebbre"
+    },
+    "jumpToMaximum": {
+      "value": "Ugorj a legnagyobbara"
+    },
+    "setMyRatioChallenge": {
+      "value": "Állítsd be a saját feladatod arányértékét"
+    },
+    "lockRatio": {
+      "value": "Rögzítsd az arányt"
+    },
+    "myChallenge": {
+      "value": "A saját feladatom"
+    },
+    "zeroToTen": {
+      "value": "0-tól 10-ig"
+    },
+    "zeroToTwenty": {
+      "value": "0-tól 20-ig"
+    },
+    "zeroToThirty": {
+      "value": "0-tól 30-ig"
+    },
+    "range": {
+      "value": "Tartomány:"
+    },
+    "screen.discover": {
+      "value": "Fedezd fel"
+    },
+    "challenge1": {
+      "value": "1. feladat"
+    },
+    "challenge2": {
+      "value": "2. feladat"
+    },
+    "challenge3": {
+      "value": "3. feladat"
+    },
+    "challengeRatio": {
+      "value": "Feladott arány"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Arány és arányosság"
+    }
+  },
+  "ig": {
+    "moveHandsIndividually": {
+      "value": "megharịa aka n'otu n'otu"
+    },
+    "move": {
+      "value": "meghari"
+    },
+    "leftOrRightHand": {
+      "value": "aka ekpe ma ọ bụ aka nri"
+    },
+    "top": {
+      "value": "elu ihe"
+    },
+    "bottom": {
+      "value": "ukwu ihe"
+    },
+    "moveLeftHand": {
+      "value": "gaa n'aka ekpe"
+    },
+    "moveRightHand": {
+      "value": "gaa n'aka nri"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "bugharịa aka n'obere nzọụkwụ, gbakwunye"
+    },
+    "jumpBothHands": {
+      "value": "wulie aka abụọ gaa n'otu akara"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "megharịa aka abọụ n'otu oge"
+    },
+    "screen.create": {
+      "value": "mepụta"
+    },
+    "setHandRatioValue": {
+      "value": "tọọ uru aka ekpe ma ọ bụ aka nri"
+    },
+    "jumpToMinimum": {
+      "value": "gaa na nke kacha nta"
+    },
+    "jumpToMaximum": {
+      "value": "gaa na nke kachasi"
+    },
+    "setMyRatioChallenge": {
+      "value": "tọọ ụkpụrụ maka oke ịma aka m"
+    },
+    "lockRatio": {
+      "value": "oke mkpọchi"
+    },
+    "myChallenge": {
+      "value": "ima aka m"
+    },
+    "zeroToTen": {
+      "value": "0 ruo 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 ruo 20"
+    },
+    "zeroToThirty": {
+      "value": "0 ruo 30"
+    },
+    "range": {
+      "value": "renji"
+    },
+    "screen.discover": {
+      "value": "chọpụta"
+    },
+    "challenge1": {
+      "value": "ima aka 1"
+    },
+    "challenge2": {
+      "value": "ima aka 2"
+    },
+    "challenge3": {
+      "value": "ima aka 3"
+    },
+    "challengeRatio": {
+      "value": "ima aka oke"
+    },
+    "ratio-and-proportion.title": {
+      "value": "oke na nkeputa"
+    }
+  },
+  "it": {
+    "moveHandsIndividually": {
+      "value": "Muovi le mani separatamente"
+    },
+    "move": {
+      "value": "Muovi"
+    },
+    "leftOrRightHand": {
+      "value": "Mano sinistra o destra"
+    },
+    "top": {
+      "value": "su"
+    },
+    "bottom": {
+      "value": "giù"
+    },
+    "moveLeftHand": {
+      "value": "Muovi la mano sinistra"
+    },
+    "moveRightHand": {
+      "value": "Muovi la mano destra"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Muovi le mani a piccoli passi, aggiungendo"
+    },
+    "jumpBothHands": {
+      "value": "Salta con entrambe le mani sullo stesso segno di spunta"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Muovi le mani contemporaneamente"
+    },
+    "screen.create": {
+      "value": "Crea"
+    },
+    "setHandRatioValue": {
+      "value": "Imposta il valore a sinistra o a destra"
+    },
+    "jumpToMinimum": {
+      "value": "Salta al minimo"
+    },
+    "jumpToMaximum": {
+      "value": "Salta al massimo"
+    },
+    "setMyRatioChallenge": {
+      "value": "Imposto i valori per il mio rapporto di  sfida"
+    },
+    "lockRatio": {
+      "value": "Blocca il rapporto"
+    },
+    "myChallenge": {
+      "value": "La mia Sfida"
+    },
+    "zeroToTen": {
+      "value": "da 0 a 10"
+    },
+    "zeroToTwenty": {
+      "value": "da 0 a 20"
+    },
+    "zeroToThirty": {
+      "value": "da 0 a 30"
+    },
+    "range": {
+      "value": "Intervallo"
+    },
+    "screen.discover": {
+      "value": "Scopri"
+    },
+    "challenge1": {
+      "value": "Sfida 1"
+    },
+    "challenge2": {
+      "value": "Sfida 2"
+    },
+    "challenge3": {
+      "value": "Sfida 3"
+    },
+    "challengeRatio": {
+      "value": "Rapporto di sfida"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Rapporti e proporzioni"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Scegli una sfida sui rapporti"
+    }
+  },
+  "iw": {
+    "moveHandsIndividually": {
+      "value": "הזזת כל יד בנפרד"
+    },
+    "leftOrRightHand": {
+      "value": "הזזת יד ימין או יד שמאל"
+    },
+    "top": {
+      "value": "מעלה"
+    },
+    "bottom": {
+      "value": "תחתית"
+    },
+    "moveLeftHand": {
+      "value": "הזזת יד שמאל"
+    },
+    "moveRightHand": {
+      "value": "הזזת יד ימין"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "להזזת ידיים בצעדים קטנים, הוסיפו"
+    },
+    "jumpBothHands": {
+      "value": "הקפצת שתי הידיים לאותה שנתה"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "הזזת שתי הידיים בו זמנית"
+    },
+    "screen.create": {
+      "value": "יצירה"
+    },
+    "setHandRatioValue": {
+      "value": "קביעת ערכים של שמאל או ימין"
+    },
+    "jumpToMinimum": {
+      "value": "קפיצה למינימום"
+    },
+    "jumpToMaximum": {
+      "value": "קפיצה למקסימום"
+    },
+    "setMyRatioChallenge": {
+      "value": "ערכים קבועים לאתגר היחס שלי"
+    },
+    "lockRatio": {
+      "value": "נעילת יחס"
+    },
+    "myChallenge": {
+      "value": "האתגר שלי"
+    },
+    "zeroToTen": {
+      "value": "0 עד 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 עד 20"
+    },
+    "zeroToThirty": {
+      "value": "0 עד 30"
+    },
+    "range": {
+      "value": "טווח:"
+    },
+    "screen.discover": {
+      "value": "גילוי"
+    },
+    "challenge1": {
+      "value": "אתגר 1"
+    },
+    "challenge2": {
+      "value": "אתגר 2"
+    },
+    "challenge3": {
+      "value": "אתגר 3"
+    },
+    "challengeRatio": {
+      "value": "אתגר יחסים"
+    },
+    "ratio-and-proportion.title": {
+      "value": "יחס ופרופורציה"
+    },
+    "chooseAChallengeRatio": {
+      "value": "בחר אתגר יחס"
+    },
+    "move": {
+      "value": "הזז"
+    }
+  },
+  "ja": {
+    "moveHandsIndividually": {
+      "value": "手を個別に動かす"
+    },
+    "move": {
+      "value": "動かす"
+    },
+    "leftOrRightHand": {
+      "value": "左か右の手"
+    },
+    "top": {
+      "value": "上端"
+    },
+    "bottom": {
+      "value": "下端"
+    },
+    "moveLeftHand": {
+      "value": "左手を動かす"
+    },
+    "moveRightHand": {
+      "value": "右手を動かす"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "手をより細かく動かす"
+    },
+    "jumpBothHands": {
+      "value": "両手を同じ目盛りに移動させる"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "両手を同時に動かす"
+    },
+    "screen.create": {
+      "value": "作ろう"
+    },
+    "setHandRatioValue": {
+      "value": "左か右の値を設定する"
+    },
+    "jumpToMinimum": {
+      "value": "最小値へジャンプ"
+    },
+    "jumpToMaximum": {
+      "value": "最大値へジャンプ"
+    },
+    "setMyRatioChallenge": {
+      "value": "マイ チャレンジの値を設定する"
+    },
+    "lockRatio": {
+      "value": "比を固定"
+    },
+    "myChallenge": {
+      "value": "マイ チャレンジ"
+    },
+    "zeroToTen": {
+      "value": "０から10"
+    },
+    "zeroToTwenty": {
+      "value": "０から20"
+    },
+    "zeroToThirty": {
+      "value": "０から30"
+    },
+    "range": {
+      "value": "範囲："
+    },
+    "screen.discover": {
+      "value": "発見しよう"
+    },
+    "challenge1": {
+      "value": "チャレンジ１"
+    },
+    "challenge2": {
+      "value": "チャレンジ２"
+    },
+    "challenge3": {
+      "value": "チャレンジ３"
+    },
+    "challengeRatio": {
+      "value": "チャレンジ"
+    },
+    "ratio-and-proportion.title": {
+      "value": "比と割合"
+    }
+  },
+  "ki": {
+    "screen.create": {
+      "value": "Kũũmba"
+    },
+    "screen.discover": {
+      "value": "Kũmenya"
+    },
+    "setHandRatioValue": {
+      "value": "Kũiga Ũhoro Ũrĩa Ũngĩoneka"
+    },
+    "jumpToMinimum": {
+      "value": "Gũthiĩ na Mbere hanini"
+    },
+    "jumpToMaximum": {
+      "value": "Gũthiĩ na Mbere"
+    },
+    "setMyRatioChallenge": {
+      "value": "Gũthondeka Mĩtugo Ĩrĩa Ĩngĩndeithia Kũhiũrania na Moritũ"
+    },
+    "lockRatio": {
+      "value": "Kũhingũra Ũhoro"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Thuura Ũritũ Ũrĩa Ũngĩhũthĩra"
+    },
+    "moveHandsIndividually": {
+      "value": "Gũtindĩka Moko na Ũmwe"
+    },
+    "move": {
+      "value": "Gũthama"
+    },
+    "leftOrRightHand": {
+      "value": "guoko kwa ũmotho kana kwa ũrĩo"
+    },
+    "top": {
+      "value": "igũrũ"
+    },
+    "bottom": {
+      "value": "mũhuro"
+    },
+    "moveLeftHand": {
+      "value": "Gũthiĩ na guoko kwa ũmotho"
+    },
+    "moveRightHand": {
+      "value": "Gũthiĩ mwena wa ũrĩo"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Gũthambia moko na makinya manini, gwĩkĩra"
+    },
+    "jumpBothHands": {
+      "value": "Hũra moko merĩ ũcoke ũhingie rũũri rũu"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Gũthambia Moko Merĩ Hamwe"
+    },
+    "myChallenge": {
+      "value": "Ũritũ Wakwa"
+    },
+    "zeroToTen": {
+      "value": "0 harĩ 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 harĩ 20"
+    },
+    "zeroToThirty": {
+      "value": "0 harĩ 30"
+    },
+    "range": {
+      "value": "Kũrũgama:"
+    },
+    "challenge1": {
+      "value": "Thĩna wa 1"
+    },
+    "challenge2": {
+      "value": "Thĩna wa 2"
+    },
+    "challenge3": {
+      "value": "Thĩna wa 3"
+    },
+    "challengeRatio": {
+      "value": "Ũritũ wa Ũritũ"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Ũigana na Icunjĩ"
+    }
+  },
+  "ko": {
+    "screen.create": {
+      "value": "생성하기"
+    },
+    "screen.discover": {
+      "value": "발견하기"
+    },
+    "setHandRatioValue": {
+      "value": "좌측 또는 우측 값 정하기"
+    },
+    "jumpToMinimum": {
+      "value": "최소로 가기"
+    },
+    "jumpToMaximum": {
+      "value": "최대로 가기"
+    },
+    "setMyRatioChallenge": {
+      "value": "값을 나의 도전비율로 정하기"
+    },
+    "lockRatio": {
+      "value": "비율 묶기"
+    },
+    "chooseAChallengeRatio": {
+      "value": "도전 비율 선택"
+    },
+    "moveHandsIndividually": {
+      "value": "손을 따로 따로 이동"
+    },
+    "move": {
+      "value": "이동"
+    },
+    "leftOrRightHand": {
+      "value": "왼쪽 또는 오른쪽 손"
+    },
+    "top": {
+      "value": "위"
+    },
+    "bottom": {
+      "value": "아래"
+    },
+    "moveLeftHand": {
+      "value": "왼손 이동"
+    },
+    "moveRightHand": {
+      "value": "오른손 이동"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "손을 조금씩 이동하여 더하기"
+    },
+    "jumpBothHands": {
+      "value": "두손을 선택할 자리로 함께 이동"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "두손을 동시에 이동"
+    },
+    "myChallenge": {
+      "value": "나의 도전"
+    },
+    "zeroToTen": {
+      "value": "0에서 10"
+    },
+    "zeroToTwenty": {
+      "value": "0에서 20"
+    },
+    "zeroToThirty": {
+      "value": "0에서 30"
+    },
+    "range": {
+      "value": "범위"
+    },
+    "challenge1": {
+      "value": "도전 1"
+    },
+    "challenge2": {
+      "value": "도전 2"
+    },
+    "challenge3": {
+      "value": "도전 3"
+    },
+    "challengeRatio": {
+      "value": "도전 비율"
+    },
+    "ratio-and-proportion.title": {
+      "value": "비울과 비"
+    }
+  },
+  "lg": {
+    "screen.create": {
+      "value": "Tondawo"
+    },
+    "screen.discover": {
+      "value": "Zuula"
+    },
+    "setHandRatioValue": {
+      "value": "Tegeka omuwendo ogwa kkono oba ddyo"
+    },
+    "jumpToMinimum": {
+      "value": "Genda kwesembayo"
+    },
+    "jumpToMaximum": {
+      "value": "Genda kwesingayo"
+    },
+    "setMyRatioChallenge": {
+      "value": "Teekawo Emiwendo ku Mugerageranyo Gwange Okusoomoozebwa"
+    },
+    "lockRatio": {
+      "value": "Komywa omugerageranyo "
+    },
+    "chooseAChallengeRatio": {
+      "value": "Londa Omugerageranyo gw’Okusoomoozebwa"
+    },
+    "moveHandsIndividually": {
+      "value": "Tambuza Emikono Kinnoomu"
+    },
+    "move": {
+      "value": "Tambuza "
+    },
+    "leftOrRightHand": {
+      "value": "Omukono ogwa kkono oba ogwa ddyo "
+    },
+    "top": {
+      "value": "Wagulu "
+    },
+    "bottom": {
+      "value": "Wansi"
+    },
+    "moveLeftHand": {
+      "value": "Tambuza omukono ogwa kkono "
+    },
+    "moveRightHand": {
+      "value": "Tambuza omukono ogwa ddyo "
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Tambuza emikono mu mitendera emitonotono, yongerako"
+    },
+    "jumpBothHands": {
+      "value": "Buuka emikono gyombi okutuuka ku kabonero ke kamu akalaga akabonero"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Tambuza Emikono Gyombi Ekiseera Kimu"
+    },
+    "myChallenge": {
+      "value": "Okusoomoozebwa kwange "
+    },
+    "zeroToTen": {
+      "value": "0 paka ku 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 paka Kwa 20"
+    },
+    "zeroToThirty": {
+      "value": "0 paka Kwa 30"
+    },
+    "range": {
+      "value": "Ebanga:"
+    },
+    "challenge1": {
+      "value": "Okusoomoozebwa okusooka "
+    },
+    "challenge2": {
+      "value": "Okusoomoozebwa okwokubiiri "
+    },
+    "challenge3": {
+      "value": "Okusoomoozebwa okwokusatu "
+    },
+    "challengeRatio": {
+      "value": "Okusoomoozebwa kwomugerageranyo "
+    },
+    "ratio-and-proportion.title": {
+      "value": "Omugerageranyo n’Ekigerageranyo"
+    }
+  },
+  "lv": {
+    "moveHandsIndividually": {
+      "value": "Pārvietot rokas individuāli"
+    },
+    "move": {
+      "value": "Pārvietot"
+    },
+    "leftOrRightHand": {
+      "value": "kreiso vai labo roku"
+    },
+    "top": {
+      "value": "augšu"
+    },
+    "bottom": {
+      "value": "leju"
+    },
+    "moveLeftHand": {
+      "value": "Pārvietot kreiso roku"
+    },
+    "moveRightHand": {
+      "value": "Pārvietot labo roku"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Pārvietot rokas mazākiem soļiem, pievienot"
+    },
+    "jumpBothHands": {
+      "value": "Pārvietot abas rokas uz vienu vērtību"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Pārvietot abas rokas vienlaicīgi"
+    },
+    "screen.create": {
+      "value": "Izveidot"
+    },
+    "setHandRatioValue": {
+      "value": "Iestatīt kreiso vai labo vērtību"
+    },
+    "jumpToMinimum": {
+      "value": "Pārvietot uz minimumu"
+    },
+    "jumpToMaximum": {
+      "value": "Pārvietot uz maksimumu"
+    },
+    "setMyRatioChallenge": {
+      "value": "Iestatīt vērtības mana izaicinājuma attiecībai"
+    },
+    "lockRatio": {
+      "value": "Fiksēt attiecību"
+    },
+    "myChallenge": {
+      "value": "Mans izaicinājums"
+    },
+    "zeroToTen": {
+      "value": "no 0 līdz 10"
+    },
+    "zeroToTwenty": {
+      "value": "no 0 līdz 20"
+    },
+    "zeroToThirty": {
+      "value": "no 0 līdz 30"
+    },
+    "range": {
+      "value": "Diapazons:"
+    },
+    "screen.discover": {
+      "value": "Izpētīt"
+    },
+    "challenge1": {
+      "value": "Izaicinājums 1"
+    },
+    "challenge2": {
+      "value": "Izaicinājums 2"
+    },
+    "challenge3": {
+      "value": "Izaicinājums 3"
+    },
+    "challengeRatio": {
+      "value": "Izaicinājuma attiecība"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Proporcijas un attiecības"
+    }
+  },
+  "mi": {
+    "moveHandsIndividually": {
+      "value": "Nekehia ia ringa"
+    },
+    "move": {
+      "value": "Neke"
+    },
+    "leftOrRightHand": {
+      "value": "ringa mauī, katau rānei"
+    },
+    "top": {
+      "value": "runga"
+    },
+    "bottom": {
+      "value": "raro"
+    },
+    "moveLeftHand": {
+      "value": "Nekehia te ringa mauī"
+    },
+    "moveRightHand": {
+      "value": "Nekehia te ringa katau"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Nekehia kia paku iho te neke, tāpiritia"
+    },
+    "jumpBothHands": {
+      "value": "Peke ngā ringa e rua ki te tūnga ōrite"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Nekehia ngā RInga i te Wā Ōrite"
+    },
+    "screen.create": {
+      "value": "Waihanga"
+    },
+    "setHandRatioValue": {
+      "value": "Tautuhia uara, mauī, katau rānei"
+    },
+    "jumpToMinimum": {
+      "value": "Peke ki te mōkito"
+    },
+    "jumpToMaximum": {
+      "value": "Peke ki te mōrahi"
+    },
+    "setMyRatioChallenge": {
+      "value": "Tautuhia ngā Uara mō Taku Wero Ōwehenga"
+    },
+    "lockRatio": {
+      "value": "Whakatina te Ōwehenga"
+    },
+    "myChallenge": {
+      "value": "Taku Wero"
+    },
+    "zeroToTen": {
+      "value": "0 ki 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 ki 20"
+    },
+    "zeroToThirty": {
+      "value": "0 ki 30"
+    },
+    "range": {
+      "value": "Ine Whānui:"
+    },
+    "screen.discover": {
+      "value": "Tūhuratia"
+    },
+    "challenge1": {
+      "value": "Wero 1"
+    },
+    "challenge2": {
+      "value": "Wero 2"
+    },
+    "challenge3": {
+      "value": "Wero 3"
+    },
+    "challengeRatio": {
+      "value": "Wero Ōwehenga"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Ōwehenga, Pānga Riterite hoki"
+    }
+  },
+  "mn": {
+    "moveHandsIndividually": {
+      "value": "Гараа тус тусад нь хөдөлгө"
+    },
+    "move": {
+      "value": "Хөдөлгө"
+    },
+    "leftOrRightHand": {
+      "value": "зүүн эсвэл баруун гар"
+    },
+    "top": {
+      "value": "дээд"
+    },
+    "bottom": {
+      "value": "доод"
+    },
+    "moveLeftHand": {
+      "value": "Зүүн гарыг хөдөлгө"
+    },
+    "moveRightHand": {
+      "value": "Баруун гарыг хөдөлгө"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Гарыг бага алхамаар хөдөлгө, нэм"
+    },
+    "jumpBothHands": {
+      "value": "Хоёр гараа ижил тэмдэг рүү үсэргээрэй"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Хоёр гараа Симуляцийн дагуу хөдөлгө"
+    },
+    "screen.create": {
+      "value": "Бүтээ"
+    },
+    "setHandRatioValue": {
+      "value": "Зүүн эсвэл баруун гарыг тохируул"
+    },
+    "jumpToMinimum": {
+      "value": "Бага руу үсэргэ"
+    },
+    "jumpToMaximum": {
+      "value": "Их рүү үсэргэ"
+    },
+    "setMyRatioChallenge": {
+      "value": "Миний сорилтын харьцааны утгыг тогтоо"
+    },
+    "lockRatio": {
+      "value": "Харьцааг түгжих"
+    },
+    "myChallenge": {
+      "value": "Миний Сорилт"
+    },
+    "zeroToTen": {
+      "value": "0-ээс 10"
+    },
+    "zeroToTwenty": {
+      "value": "0-ээс 20"
+    },
+    "zeroToThirty": {
+      "value": "0-ээс 30"
+    },
+    "range": {
+      "value": "Хүрээ:"
+    },
+    "screen.discover": {
+      "value": "Нээлт"
+    },
+    "challenge1": {
+      "value": "Сорилт 1"
+    },
+    "challenge2": {
+      "value": "Сорилт 2"
+    },
+    "challenge3": {
+      "value": "Сорилт 3"
+    },
+    "challengeRatio": {
+      "value": "Сорилтын Харьцаа"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Харьцаа ба Пропорц"
+    }
+  },
+  "ms": {
+    "screen.create": {
+      "value": "Cipta"
+    },
+    "screen.discover": {
+      "value": "Terokai"
+    },
+    "setHandRatioValue": {
+      "value": "Tetapkan nilai kiri atau kanan"
+    },
+    "jumpToMinimum": {
+      "value": "Lompat ke minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Lompat ke maksimum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Tetapkan Nilai untuk Nisbah Cabaran Saya"
+    },
+    "lockRatio": {
+      "value": "Kunci Nisbah"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Pilih Nisbah Cabaran"
+    },
+    "moveHandsIndividually": {
+      "value": "Gerakkan Tangan Secara Individu"
+    },
+    "move": {
+      "value": "Gerak"
+    },
+    "leftOrRightHand": {
+      "value": "tangan kiri atau kanan"
+    },
+    "top": {
+      "value": "atas"
+    },
+    "bottom": {
+      "value": "bawah"
+    },
+    "moveLeftHand": {
+      "value": "Gerakkan tangan kiri"
+    },
+    "moveRightHand": {
+      "value": "Gerakkan tangan kanan"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Gerakkan tangan dalam langkah lebih kecil, tambah"
+    },
+    "jumpBothHands": {
+      "value": "Lompat kedua-dua tangan ke tanda yang sama"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Gerakkan Kedua-dua Tangan Serentak"
+    },
+    "myChallenge": {
+      "value": "Cabaran Saya"
+    },
+    "zeroToTen": {
+      "value": "0 hingga 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 hingga 20"
+    },
+    "zeroToThirty": {
+      "value": "0 hingga 30"
+    },
+    "range": {
+      "value": "Julat:"
+    },
+    "challenge1": {
+      "value": "Cabaran 1"
+    },
+    "challenge2": {
+      "value": "Cabaran 2"
+    },
+    "challenge3": {
+      "value": "Cabaran 3"
+    },
+    "challengeRatio": {
+      "value": "Nisbah Cabaran"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Nisbah dan Kadaran"
+    }
+  },
+  "my": {
+    "moveHandsIndividually": {
+      "value": "လက်များကို ရွှေ့ပြောင်းပါ"
+    },
+    "move": {
+      "value": "ရွှေ့ပါ"
+    },
+    "leftOrRightHand": {
+      "value": "ဘက်လက် ( သို့ ) ညာလက်"
+    },
+    "top": {
+      "value": "အပေါ်"
+    },
+    "bottom": {
+      "value": "အောက်"
+    },
+    "moveLeftHand": {
+      "value": "ဘပ်လက်ကို ရွှေ့ပြောင်းပါ"
+    },
+    "moveRightHand": {
+      "value": "ညာလက်ကို ရွှေ့ပြောင်းပါ"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "လက်နှစ်ဘက်ကို နည်းနည်းဆီ ရွှေ့ပြီး အဆင့်တိုးပါ"
+    },
+    "jumpBothHands": {
+      "value": "တူညီတဲ့အမှတ်ရရန်အတွက် လက်နှစ်ဘက်လုံးကို ရွှေ့ပါ"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "လက်နှစ်ဘက်ကို တစ်ပြိုင်တည်းရွှေ့ပါ"
+    },
+    "screen.create": {
+      "value": "ဖန်တီးပါ"
+    },
+    "setHandRatioValue": {
+      "value": "ဘက်ဘက်တွင်ရှိသော တန်ဖိုးနှင့် ညာဘက်တွင်ရှိသော တန်ဖိုး သတ်မှတ်ပါ "
+    },
+    "jumpToMinimum": {
+      "value": "အနည်းဆုံးသို့ ရွှေ့ပါ"
+    },
+    "jumpToMaximum": {
+      "value": "အများဆုံးသို့ ရွှေ့ပါ"
+    },
+    "setMyRatioChallenge": {
+      "value": "အချိုးပုစ္ဆာအတွက် တန်ဖိုးများသတ်မှတ်ပါ"
+    },
+    "lockRatio": {
+      "value": "lock ratio"
+    },
+    "myChallenge": {
+      "value": "စိန်ခေါ်မှုပုစ္ဆာ"
+    },
+    "zeroToTen": {
+      "value": "၀ မှ ၁၀ ထိ"
+    },
+    "zeroToTwenty": {
+      "value": "၀ မှ ၂၀ အထိ"
+    },
+    "zeroToThirty": {
+      "value": "၀ မှ ၃၀ အထိ"
+    },
+    "range": {
+      "value": "အပိုင်းအခြား"
+    },
+    "screen.discover": {
+      "value": "ရှာဖွေတွက်ချက်ပါ"
+    },
+    "challenge1": {
+      "value": "စိန်ခေါ်မှုပုစ္ဆာ ၁ "
+    },
+    "challenge2": {
+      "value": "စိန်ခေါ်မှုပုစ္ဆာ ၂"
+    },
+    "challenge3": {
+      "value": "စိန်ခေါ်မှုပုစ္ဆာ ၃"
+    },
+    "challengeRatio": {
+      "value": "ဖြေရှင်းရန် အချိုး"
+    },
+    "ratio-and-proportion.title": {
+      "value": "အချိုး နှင့် အချိုးတူ"
+    }
+  },
+  "nl": {
+    "moveHandsIndividually": {
+      "value": "Beweeg de handen afzonderlijk"
+    },
+    "move": {
+      "value": "Beweeg"
+    },
+    "leftOrRightHand": {
+      "value": "linkse of rechtse hand"
+    },
+    "top": {
+      "value": "boven"
+    },
+    "bottom": {
+      "value": "onder"
+    },
+    "moveLeftHand": {
+      "value": "Beweeg linkse hand"
+    },
+    "moveRightHand": {
+      "value": "Beweeg rechtse hand"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Beweeg de handen in kleinere stappen, voeg toe"
+    },
+    "jumpBothHands": {
+      "value": "Spring met beide handen naar dezelfde merkstreep"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Beweeg Beide Handen Tegelijk"
+    },
+    "screen.create": {
+      "value": "Maak"
+    },
+    "setHandRatioValue": {
+      "value": "Zet de linkse of rechtse waarde"
+    },
+    "jumpToMinimum": {
+      "value": "Spring naar kleinste"
+    },
+    "jumpToMaximum": {
+      "value": "Spring naar grootste"
+    },
+    "setMyRatioChallenge": {
+      "value": "Zet Waarden voor Mijn Wedstrijd Verhouding"
+    },
+    "lockRatio": {
+      "value": "Zet Verhouding vast"
+    },
+    "myChallenge": {
+      "value": "Mijn Wedstrijd"
+    },
+    "zeroToTen": {
+      "value": "0 tot 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 tot 20"
+    },
+    "zeroToThirty": {
+      "value": "0 tot 30"
+    },
+    "range": {
+      "value": "Bereik"
+    },
+    "screen.discover": {
+      "value": "Ontdek"
+    },
+    "challenge1": {
+      "value": "Wedstrijd 1"
+    },
+    "challenge2": {
+      "value": "Wedstrijd 2"
+    },
+    "challenge3": {
+      "value": "Wedstrijd 3"
+    },
+    "challengeRatio": {
+      "value": "Verhouding Wedstrijd"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Verhouding en Breuk"
+    }
+  },
+  "ny": {
+    "moveHandsIndividually": {
+      "value": "Sunthani Manja Pawokha Pawokha"
+    },
+    "move": {
+      "value": "Suntha"
+    },
+    "leftOrRightHand": {
+      "value": "dzanja lamanzere kapena lamanja"
+    },
+    "top": {
+      "value": "pamwamba"
+    },
+    "bottom": {
+      "value": "pansi"
+    },
+    "moveLeftHand": {
+      "value": "Sunthani dzanja lamamzere"
+    },
+    "moveRightHand": {
+      "value": "Sunthani dzanja lamanja"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Sunthani manja m'magawo ang'onoang'ono, onjezerani"
+    },
+    "jumpBothHands": {
+      "value": "Lumphitsani manja onse ku chizindikiro chofanana"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Yendetsani Manja Onse Pamodzi"
+    },
+    "screen.create": {
+      "value": "Pangani"
+    },
+    "setHandRatioValue": {
+      "value": "Khazikitsani manambala kumanzere kapena kumanja "
+    },
+    "jumpToMinimum": {
+      "value": "Dumphani mpaka pamlingo wochepa"
+    },
+    "jumpToMaximum": {
+      "value": "Lumphani mpaka pamlingo waukulu"
+    },
+    "setMyRatioChallenge": {
+      "value": "Khazikitsani Manambala a Chiwerengero cha chovuta Changa"
+    },
+    "lockRatio": {
+      "value": "Tseka Chiwerengero"
+    },
+    "myChallenge": {
+      "value": "Ntchito Yanga"
+    },
+    "zeroToTen": {
+      "value": "0 ku 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 ku 20"
+    },
+    "zeroToThirty": {
+      "value": "0 ku 30"
+    },
+    "range": {
+      "value": "Mndandanda:"
+    },
+    "screen.discover": {
+      "value": "Peza"
+    },
+    "challenge1": {
+      "value": "Ntchito 1"
+    },
+    "challenge2": {
+      "value": "Ntchito 2"
+    },
+    "challenge3": {
+      "value": "Ntchito 3"
+    },
+    "challengeRatio": {
+      "value": "Chiŵerengero cha Ntchito"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Chiŵerengero ndi Chigawo"
+    }
+  },
+  "om": {
+    "moveHandsIndividually": {
+      "value": "Harka Dhuunfaan Sochoosi"
+    },
+    "move": {
+      "value": "Sochii"
+    },
+    "leftOrRightHand": {
+      "value": "harka bitaa ykn mirgaa"
+    },
+    "top": {
+      "value": "gubbaa"
+    },
+    "bottom": {
+      "value": "jala"
+    },
+    "moveLeftHand": {
+      "value": "Harka bitaa sochoosi"
+    },
+    "moveRightHand": {
+      "value": "Harka mirgaa sochoosi"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Harka tarkaanfii xixiqqoodhaan sochoosi, itti dabali"
+    },
+    "jumpBothHands": {
+      "value": "Harka lamaan gara mallattoo tokkootti utaalchisi"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Harka Lamaan Yeroo Tokkotti Sochoosi"
+    },
+    "screen.create": {
+      "value": "Uumuu"
+    },
+    "setHandRatioValue": {
+      "value": "Gatii bitaa ykn mirgaa saagi"
+    },
+    "jumpToMinimum": {
+      "value": "Gara xiqqaatti utaali"
+    },
+    "jumpToMaximum": {
+      "value": "Gara ol'aanaatti utaali"
+    },
+    "setMyRatioChallenge": {
+      "value": "Reeshiyoo Gaaffii Kootiif Gatii Saagi"
+    },
+    "lockRatio": {
+      "value": "Reeshiyoo Cufi"
+    },
+    "myChallenge": {
+      "value": "Qormaata Koo"
+    },
+    "zeroToTen": {
+      "value": "0 hanga 10tti"
+    },
+    "zeroToTwenty": {
+      "value": "0 hanga 20tti"
+    },
+    "zeroToThirty": {
+      "value": "0 hanga 30tti"
+    },
+    "range": {
+      "value": "Reenjii:"
+    },
+    "screen.discover": {
+      "value": "Argachuu"
+    },
+    "challenge1": {
+      "value": "Qormaata 1"
+    },
+    "challenge2": {
+      "value": "Qormaata 2"
+    },
+    "challenge3": {
+      "value": "Qormaata 3"
+    },
+    "challengeRatio": {
+      "value": "Reeshiyoo Qormaataa"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Reeshiyoo fi Pirooppoorshinii"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Reeshiyoo Dhibaa filadhu"
+    }
+  },
+  "pl": {
+    "moveHandsIndividually": {
+      "value": "Przesuń dłonie indywidualnie"
+    },
+    "move": {
+      "value": "Przesuń"
+    },
+    "leftOrRightHand": {
+      "value": "lewą lub prawą dłoń"
+    },
+    "top": {
+      "value": "góry"
+    },
+    "bottom": {
+      "value": "dołu"
+    },
+    "moveLeftHand": {
+      "value": "Przesuń lewą dłoń"
+    },
+    "moveRightHand": {
+      "value": "Przesuń prawą dłoń"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Przesuń mniejszymi krokami, +"
+    },
+    "jumpBothHands": {
+      "value": "Skocz do tego samego znacznika"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Przesuń obie dłonie jednocześnie"
+    },
+    "screen.create": {
+      "value": "Twórz"
+    },
+    "setHandRatioValue": {
+      "value": "Ustaw lewą lub prawą wartość"
+    },
+    "jumpToMinimum": {
+      "value": "Skocz do minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Skocz do maksimum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Ustaw wartości dla"
+    },
+    "lockRatio": {
+      "value": "Zablokuj stosunek"
+    },
+    "myChallenge": {
+      "value": "Moje wyzwanie"
+    },
+    "zeroToTen": {
+      "value": "0 do 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 do 20"
+    },
+    "zeroToThirty": {
+      "value": "0 do 30"
+    },
+    "range": {
+      "value": "Zakres:"
+    },
+    "screen.discover": {
+      "value": "Odkryj"
+    },
+    "challenge1": {
+      "value": "Wyzwanie 1"
+    },
+    "challenge2": {
+      "value": "Wyzwanie 2"
+    },
+    "challenge3": {
+      "value": "Wyzwanie 3"
+    },
+    "challengeRatio": {
+      "value": "Ustal stosunek"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Stosunek i proporcja"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Wybierz proporcję wyzwania"
+    }
+  },
+  "ps": {
+    "screen.create": {
+      "value": "نسبت جوړ کړئ"
+    },
+    "screen.discover": {
+      "value": "پیدا یې کړه"
+    },
+    "setHandRatioValue": {
+      "value": "د ښي یا کین لوري مقدار تنظیم کول"
+    },
+    "jumpToMinimum": {
+      "value": "لږ مقدار ته تلل"
+    },
+    "jumpToMaximum": {
+      "value": "لوړ مقدار ته تلل"
+    },
+    "setMyRatioChallenge": {
+      "value": "زما د ستونزو دنسبت لپاره د مقدارونو تنظیم کول"
+    },
+    "lockRatio": {
+      "value": "د نسبت بندول"
+    },
+    "chooseAChallengeRatio": {
+      "value": "د شتونزی نسبت ټاکل"
+    },
+    "moveHandsIndividually": {
+      "value": "په جلا ټوګه حرکت ورکول"
+    },
+    "move": {
+      "value": "حرکت ورکول"
+    },
+    "leftOrRightHand": {
+      "value": "ښی یا کیڼ لوری"
+    },
+    "top": {
+      "value": "پورته"
+    },
+    "bottom": {
+      "value": "ښکته"
+    },
+    "moveLeftHand": {
+      "value": "کیڼ لوري ته حرکت ورکړه"
+    },
+    "moveRightHand": {
+      "value": "ښي لوري ته حرکت ورکړه"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "کوچنیو ګامونو کې لاسونو ته حرکت ورکول، زیاتول"
+    },
+    "jumpBothHands": {
+      "value": "دواړه لاسونه یوې ټېک علامې ته یوسئ"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "په یو وخت کې دواړو لاسونو ښورول"
+    },
+    "myChallenge": {
+      "value": "زما ستونزه"
+    },
+    "zeroToTen": {
+      "value": "0 تر10"
+    },
+    "zeroToTwenty": {
+      "value": "0 تر 20"
+    },
+    "zeroToThirty": {
+      "value": "0 تر 30"
+    },
+    "range": {
+      "value": "انټروال"
+    },
+    "challenge1": {
+      "value": "۱ -  ستونزه"
+    },
+    "challenge2": {
+      "value": "۲ -  ستونزه"
+    },
+    "challenge3": {
+      "value": "۳ - ستونزه"
+    },
+    "challengeRatio": {
+      "value": "د ستونزې نسبت"
+    },
+    "ratio-and-proportion.title": {
+      "value": "تناسب او نسبت"
+    }
+  },
+  "pt_BR": {
+    "moveHandsIndividually": {
+      "value": "Mover uma Mão por Vez"
+    },
+    "move": {
+      "value": "Mover"
+    },
+    "leftOrRightHand": {
+      "value": "mão esquerda ou direita"
+    },
+    "top": {
+      "value": "o topo"
+    },
+    "bottom": {
+      "value": "a base"
+    },
+    "moveLeftHand": {
+      "value": "Mover mão esquerda"
+    },
+    "moveRightHand": {
+      "value": "Mover mão direita"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Mover mãos aos poucos, shift+tecla"
+    },
+    "jumpBothHands": {
+      "value": "Levar as mãos até a marca"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Mover as Duas Mãos"
+    },
+    "screen.create": {
+      "value": "Criar"
+    },
+    "setHandRatioValue": {
+      "value": "Definir valor da esquerda ou da direita"
+    },
+    "jumpToMinimum": {
+      "value": "Pular para o mínimo"
+    },
+    "jumpToMaximum": {
+      "value": "Pular para o máximo"
+    },
+    "setMyRatioChallenge": {
+      "value": "Definir Valores para Meu Desafio da Razão"
+    },
+    "lockRatio": {
+      "value": "Manter Razão"
+    },
+    "myChallenge": {
+      "value": "Meu Desafio"
+    },
+    "zeroToTen": {
+      "value": "0 a 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 a 20"
+    },
+    "zeroToThirty": {
+      "value": "0 a 30"
+    },
+    "range": {
+      "value": "Faixa:"
+    },
+    "screen.discover": {
+      "value": "Descobrir"
+    },
+    "challenge1": {
+      "value": "Desafio 1"
+    },
+    "challenge2": {
+      "value": "Desafio 2"
+    },
+    "challenge3": {
+      "value": "Desafio 3"
+    },
+    "challengeRatio": {
+      "value": "Desafio da Razão"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Razão e Proporção"
+    }
+  },
+  "ro": {
+    "moveHandsIndividually": {
+      "value": "Mutați mâinile individual"
+    },
+    "move": {
+      "value": "Mutare"
+    },
+    "leftOrRightHand": {
+      "value": "mâna stângă sau dreaptă"
+    },
+    "top": {
+      "value": "sus"
+    },
+    "bottom": {
+      "value": "jos"
+    },
+    "moveLeftHand": {
+      "value": "Mută mâna stângă"
+    },
+    "moveRightHand": {
+      "value": "Mută mâna dreaptă"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Mișcă mâinile în pași mai mici, adaugă"
+    },
+    "jumpBothHands": {
+      "value": "Pune ambele mâini pe același marcaj"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Mută ambele mâini simultan"
+    },
+    "screen.create": {
+      "value": "Creează"
+    },
+    "setHandRatioValue": {
+      "value": "Setează valoarea pentru stânga sau pentru dreapta"
+    },
+    "jumpToMinimum": {
+      "value": "Sari la minim"
+    },
+    "jumpToMaximum": {
+      "value": "Sari la maxim"
+    },
+    "setMyRatioChallenge": {
+      "value": "Setați valorile pentru raportul ”Provocarea mea”"
+    },
+    "lockRatio": {
+      "value": "Blocare Raport"
+    },
+    "myChallenge": {
+      "value": "Provocarea mea"
+    },
+    "zeroToTen": {
+      "value": "0 la 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 la 20"
+    },
+    "zeroToThirty": {
+      "value": "0 la 30"
+    },
+    "range": {
+      "value": "Interval"
+    },
+    "screen.discover": {
+      "value": "Descopăr"
+    },
+    "challenge1": {
+      "value": "Provocarea 1"
+    },
+    "challenge2": {
+      "value": "Provocarea 2"
+    },
+    "challenge3": {
+      "value": "Provocarea 3"
+    },
+    "challengeRatio": {
+      "value": "Raport provocare"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Raportul și proporția"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Provocare: alege un raport"
+    }
+  },
+  "rw": {
+    "moveHandsIndividually": {
+      "value": "Kwimura amaboko kugiti cyawe"
+    },
+    "move": {
+      "value": "Kwimuka"
+    },
+    "leftOrRightHand": {
+      "value": "ibumoso cyangwa iburyo"
+    },
+    "top": {
+      "value": "Hejuru"
+    },
+    "bottom": {
+      "value": "hasi"
+    },
+    "moveLeftHand": {
+      "value": "Kwimura ukuboka kw'ibumoso"
+    },
+    "moveRightHand": {
+      "value": "Kwimura ukuboka kw'iburyo"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Kwimura amaboko muntambwe nto , ongeraho"
+    },
+    "jumpBothHands": {
+      "value": "Simbuka amaboko yombi ku kimenyetso gito"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Kwimura amaboko yombi icyarimwe"
+    },
+    "screen.create": {
+      "value": "Ibumoso cyangwa iburyo"
+    },
+    "setHandRatioValue": {
+      "value": "Shyiraho ibumoso cyangwa iburyo"
+    },
+    "jumpToMinimum": {
+      "value": "Gusimbuka by'ibuze"
+    },
+    "jumpToMaximum": {
+      "value": "Gusimbuka kuri byinshi"
+    },
+    "setMyRatioChallenge": {
+      "value": "Shyiraho indangagaciro z'ingero zanjye"
+    },
+    "lockRatio": {
+      "value": "Igipimo cyo gufunga"
+    },
+    "myChallenge": {
+      "value": "Ingorane zanjye"
+    },
+    "zeroToTen": {
+      "value": "0 kugeza 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 kugeza 20"
+    },
+    "zeroToThirty": {
+      "value": "0 kugeza 30"
+    },
+    "range": {
+      "value": "Intera"
+    },
+    "screen.discover": {
+      "value": "Menya"
+    },
+    "challenge1": {
+      "value": "Ingorane ya mbere"
+    },
+    "challenge2": {
+      "value": "Ingorane ya kabiri "
+    },
+    "challenge3": {
+      "value": "Ingorane ya 3"
+    },
+    "challengeRatio": {
+      "value": "Ikigereranyo k'ingorane"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Ikigereranyo ndetse n'igipimo"
+    }
+  },
+  "sk": {
+    "moveHandsIndividually": {
+      "value": "Posun rúk samostatne"
+    },
+    "move": {
+      "value": "Posun"
+    },
+    "leftOrRightHand": {
+      "value": "ľavá alebo pravá ruka"
+    },
+    "top": {
+      "value": "hore"
+    },
+    "bottom": {
+      "value": "dole"
+    },
+    "moveLeftHand": {
+      "value": "Posun ľavej ruky"
+    },
+    "moveRightHand": {
+      "value": "Posun pravej ruky"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Posun po menších krokoch, pridať"
+    },
+    "jumpBothHands": {
+      "value": "Presun rúk na rovnakú značku"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Posun oboch rúk súčasne"
+    },
+    "screen.create": {
+      "value": "Tvoriť"
+    },
+    "setHandRatioValue": {
+      "value": "Nastavenie ľavej alebo pravej hodnoty"
+    },
+    "jumpToMinimum": {
+      "value": "Skok na minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Skok na maximum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Nastavenie hodnoty pre moju úlohu"
+    },
+    "lockRatio": {
+      "value": "Uzamknúť pomer"
+    },
+    "myChallenge": {
+      "value": "Moja úloha"
+    },
+    "zeroToTen": {
+      "value": "0 až 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 až 20"
+    },
+    "zeroToThirty": {
+      "value": "0 až 30"
+    },
+    "range": {
+      "value": "Rozsah:"
+    },
+    "screen.discover": {
+      "value": "Objaviť"
+    },
+    "challenge1": {
+      "value": "Úloha 1"
+    },
+    "challenge2": {
+      "value": "Úloha 2"
+    },
+    "challenge3": {
+      "value": "Úloha 3"
+    },
+    "challengeRatio": {
+      "value": "úlohy na pomer"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Pomer a podiel"
+    }
+  },
+  "sl": {
+    "moveHandsIndividually": {
+      "value": "Premikaj vsako roko posebej"
+    },
+    "move": {
+      "value": "Premakni"
+    },
+    "leftOrRightHand": {
+      "value": "leva ali desna roka"
+    },
+    "top": {
+      "value": "vrh"
+    },
+    "bottom": {
+      "value": "dno"
+    },
+    "moveLeftHand": {
+      "value": "Premakni levo roko"
+    },
+    "moveRightHand": {
+      "value": "Premakni desno roko"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Premikaj roke v majhnih korakih"
+    },
+    "jumpBothHands": {
+      "value": "Skoči z obema rokama na isto oznako"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Premikaj hkrati obe roki"
+    },
+    "screen.create": {
+      "value": "Ustvari"
+    },
+    "setHandRatioValue": {
+      "value": "Določi levo ali desno vrednost"
+    },
+    "jumpToMinimum": {
+      "value": "Skoči na minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Skoči na maksimum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Določi vrednosti razmerja za moj izziv"
+    },
+    "lockRatio": {
+      "value": "Zakleni razmerje"
+    },
+    "myChallenge": {
+      "value": "Moj izziv"
+    },
+    "zeroToTen": {
+      "value": "od 0 do 100"
+    },
+    "zeroToTwenty": {
+      "value": "od 0 do 20"
+    },
+    "zeroToThirty": {
+      "value": "od 0 do 30"
+    },
+    "range": {
+      "value": "Obseg"
+    },
+    "screen.discover": {
+      "value": "Odkrij"
+    },
+    "challenge1": {
+      "value": "Izziv 1"
+    },
+    "challenge2": {
+      "value": "Izziv 2"
+    },
+    "challenge3": {
+      "value": "Izziv 3"
+    },
+    "challengeRatio": {
+      "value": "Razmerje za izziv"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Razmerje in delež"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Izberi razmerje izziva"
+    }
+  },
+  "sq": {
+    "moveHandsIndividually": {
+      "value": "Lëvizni Duart Individualisht"
+    },
+    "move": {
+      "value": "Lëvizni"
+    },
+    "leftOrRightHand": {
+      "value": "dora e majtë apo e djathtë"
+    },
+    "top": {
+      "value": "krye"
+    },
+    "bottom": {
+      "value": "fund"
+    },
+    "moveLeftHand": {
+      "value": "Lëvizni dorën e majtë"
+    },
+    "moveRightHand": {
+      "value": "Lëvizni dorën e djathtë"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Lëvizni duart me hapa më të vegjël, shtoni"
+    },
+    "jumpBothHands": {
+      "value": "Kërceni të dyja duart në të njëjtën shenjë"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Lëvizni të dyja duart Njëkohësisht"
+    },
+    "screen.create": {
+      "value": "Krijoni"
+    },
+    "setHandRatioValue": {
+      "value": "Vendosni vlerën majtas ose djathtas"
+    },
+    "jumpToMinimum": {
+      "value": "Shkoni në minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Shkoni në maksimum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Caktoni Vlera për Raportin e Sfidës Time"
+    },
+    "lockRatio": {
+      "value": "Bllokoni Raportin"
+    },
+    "myChallenge": {
+      "value": "Sfida ime"
+    },
+    "zeroToTen": {
+      "value": "0 to 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 to 20"
+    },
+    "zeroToThirty": {
+      "value": "0 to 30"
+    },
+    "range": {
+      "value": "Gama"
+    },
+    "screen.discover": {
+      "value": "Zbuloni"
+    },
+    "challenge1": {
+      "value": "Sfida 1"
+    },
+    "challenge2": {
+      "value": "Sfida 2"
+    },
+    "challenge3": {
+      "value": "Sfida 3"
+    },
+    "challengeRatio": {
+      "value": "Raporti i Sfidës"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Raporti dhe Përpjestimi"
+    }
+  },
+  "sr": {
+    "moveHandsIndividually": {
+      "value": "Померите руке појединачно"
+    },
+    "move": {
+      "value": "Помери"
+    },
+    "leftOrRightHand": {
+      "value": "лева или десна рука"
+    },
+    "top": {
+      "value": "горе"
+    },
+    "bottom": {
+      "value": "доле"
+    },
+    "moveLeftHand": {
+      "value": "Помери леву руку"
+    },
+    "moveRightHand": {
+      "value": "Помери десну руку"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Померајте руке у мањим \"корацима\""
+    },
+    "jumpBothHands": {
+      "value": "Померите обе руке до исте ознаке"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Померите обе руке истовремено"
+    },
+    "screen.create": {
+      "value": "Креирај"
+    },
+    "setHandRatioValue": {
+      "value": "Подесите леву или десну вредност"
+    },
+    "jumpToMinimum": {
+      "value": "Скочи на минимум"
+    },
+    "jumpToMaximum": {
+      "value": "Скочи на максимум"
+    },
+    "setMyRatioChallenge": {
+      "value": "Постави вредности за Мој изазов - размере"
+    },
+    "lockRatio": {
+      "value": "Закључај размеру"
+    },
+    "myChallenge": {
+      "value": "Мој изазов"
+    },
+    "zeroToTen": {
+      "value": "0 до 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 до 20 "
+    },
+    "zeroToThirty": {
+      "value": "0 до 30"
+    },
+    "range": {
+      "value": "Распон_"
+    },
+    "screen.discover": {
+      "value": "Откријте"
+    },
+    "challenge1": {
+      "value": "Изазов 1"
+    },
+    "challenge2": {
+      "value": "Изазов 2"
+    },
+    "challenge3": {
+      "value": "Изазов 3"
+    },
+    "challengeRatio": {
+      "value": "Изазов - Размера"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Однос и размера"
+    }
+  },
+  "st": {
+    "moveHandsIndividually": {
+      "value": "Tsamaisa matsoho ka bonngoe"
+    },
+    "move": {
+      "value": "tsamaisa/tsamaea"
+    },
+    "leftOrRightHand": {
+      "value": "leqele kapa lehoja"
+    },
+    "top": {
+      "value": "holimo"
+    },
+    "bottom": {
+      "value": "tlaase"
+    },
+    "moveLeftHand": {
+      "value": "tsamaisa letsoho la leqele"
+    },
+    "moveRightHand": {
+      "value": "tsamaisa letsoho la lehoja"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "tsamaisa letsoho la leqele mehato e menyane, kenya"
+    },
+    "jumpBothHands": {
+      "value": "qhomisa matsoho ka bobeli ho maraka e t'soanang e t'soauoeng"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "tsamaisa matsoho ka bobeli ka ho fapanyetsana"
+    },
+    "screen.create": {
+      "value": "bopa"
+    },
+    "setHandRatioValue": {
+      "value": "beha boleng ba leqele kapa lehoja"
+    },
+    "jumpToMinimum": {
+      "value": "qhoma hanyane"
+    },
+    "jumpToMaximum": {
+      "value": "qhoma haholo"
+    },
+    "setMyRatioChallenge": {
+      "value": "beha boleng bakeng sa teko ea ka ea ratio"
+    },
+    "lockRatio": {
+      "value": "notlela ratio"
+    },
+    "myChallenge": {
+      "value": "teko ea ka"
+    },
+    "zeroToTen": {
+      "value": "0 ho 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 ho 20"
+    },
+    "zeroToThirty": {
+      "value": "0 ho 30"
+    },
+    "range": {
+      "value": "mefuta-futa"
+    },
+    "screen.discover": {
+      "value": "fumana/batla"
+    },
+    "challenge1": {
+      "value": "teko 1"
+    },
+    "challenge2": {
+      "value": "teko 2"
+    },
+    "challenge3": {
+      "value": "teko 3"
+    },
+    "challengeRatio": {
+      "value": "teko ea ratio"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Karo-karolelano le tekanyo"
+    }
+  },
+  "sv": {
+    "moveHandsIndividually": {
+      "value": "Flytta händerna individuellt"
+    },
+    "move": {
+      "value": "Flytta"
+    },
+    "leftOrRightHand": {
+      "value": "vänster eller höger hand"
+    },
+    "moveLeftHand": {
+      "value": "Flytta vänster hand"
+    },
+    "moveRightHand": {
+      "value": "Flytta höger hand"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Flytta händerna i mindre steg, lägg till"
+    },
+    "jumpBothHands": {
+      "value": "Hoppa med händerna till samma markering"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Flytta båda händerna samtidigt"
+    },
+    "screen.create": {
+      "value": "Skapa"
+    },
+    "setHandRatioValue": {
+      "value": "Ange vänster eller höger värde"
+    },
+    "jumpToMinimum": {
+      "value": "Hoppa till minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Hoppa till maximum"
+    },
+    "setMyRatioChallenge": {
+      "value": " Ange värden för Min Utmaning Förhållande"
+    },
+    "lockRatio": {
+      "value": "Lås förhållande"
+    },
+    "myChallenge": {
+      "value": "Min Utmaning"
+    },
+    "zeroToTen": {
+      "value": "0 till 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 till 20"
+    },
+    "zeroToThirty": {
+      "value": "0 till 30"
+    },
+    "range": {
+      "value": "Omfång:"
+    },
+    "screen.discover": {
+      "value": "Upptäck"
+    },
+    "challenge1": {
+      "value": "Utmaning 1"
+    },
+    "challenge2": {
+      "value": "Utmaning 2"
+    },
+    "challenge3": {
+      "value": "Utmaning 3"
+    },
+    "challengeRatio": {
+      "value": "Utmaning Förhållande"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Förhållande och proportioner"
+    }
+  },
+  "sw": {
+    "screen.create": {
+      "value": "Unda"
+    },
+    "screen.discover": {
+      "value": "Gundua"
+    },
+    "setHandRatioValue": {
+      "value": "Weka thamani ya kushoto au kulia"
+    },
+    "jumpToMinimum": {
+      "value": "Rukia kwa kiwango cha chini"
+    },
+    "jumpToMaximum": {
+      "value": "Rukia kwa kiwango cha juu"
+    },
+    "setMyRatioChallenge": {
+      "value": "Weka Thamani kwa Uwiano Wangu wa Changamoto uwiano"
+    },
+    "lockRatio": {
+      "value": "Funga Uwiano"
+    },
+    "challengeRatio": {
+      "value": "Uwiano wa Changamoto"
+    },
+    "myChallenge": {
+      "value": "Changamoto Yangu"
+    },
+    "zeroToTen": {
+      "value": "0 hadi 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 hadi 20"
+    },
+    "zeroToThirty": {
+      "value": "0 hadi 30"
+    },
+    "range": {
+      "value": "Masafa:"
+    },
+    "challenge1": {
+      "value": "Changamoto 1"
+    },
+    "challenge2": {
+      "value": "Changamoto 2"
+    },
+    "challenge3": {
+      "value": "Changamoto 3"
+    },
+    "moveHandsIndividually": {
+      "value": "Sogeza Mikono Binafsi"
+    },
+    "move": {
+      "value": "Sogeza"
+    },
+    "leftOrRightHand": {
+      "value": "mkono wa kushoto au wa kulia"
+    },
+    "top": {
+      "value": "juu"
+    },
+    "bottom": {
+      "value": "chini"
+    },
+    "moveLeftHand": {
+      "value": "Sogeza mkono wa kushoto"
+    },
+    "moveRightHand": {
+      "value": "Sogeza mkono wa kulia"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Sogeza mikono kwa hatua ndogo, ongeza"
+    },
+    "jumpBothHands": {
+      "value": "Rukia mikono yote miwili hadi alama sawa ya vema"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Sogeza Mikono Yote Kwa Wakati Mmoja"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Uwiano"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Chagua uwiano wa changamoto"
+    }
+  },
+  "ta": {
+    "moveHandsIndividually": {
+      "value": "கைகளை தனித்தனியாக நகர்த்த"
+    },
+    "move": {
+      "value": "நகர்த்து"
+    },
+    "leftOrRightHand": {
+      "value": "இடது அல்லது வலது கை"
+    },
+    "top": {
+      "value": "மேலே"
+    },
+    "bottom": {
+      "value": "கீழே"
+    },
+    "moveLeftHand": {
+      "value": "இடது கையை நகர்த்து"
+    },
+    "moveRightHand": {
+      "value": "வலது கையை நகர்த்து"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "கைகளை படிப்படியாக நகர்த்த"
+    },
+    "jumpBothHands": {
+      "value": "இரு கைகளையும் டிக் குறிக்கு நகர்த்து"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "இரண்டு கைகளையும் நகர்த்து"
+    },
+    "screen.create": {
+      "value": "உருவாக்கு"
+    },
+    "setHandRatioValue": {
+      "value": "இடது அல்லது வலது மதிப்பை "
+    },
+    "jumpToMinimum": {
+      "value": "அதிகபட்ச எண்ணிற்குத் தாவு"
+    },
+    "jumpToMaximum": {
+      "value": "குறைந்தபட்ச எண்ணிற்குத் தாவு"
+    },
+    "setMyRatioChallenge": {
+      "value": "எனது சவாலுக்கு மதிப்புக்களை தேர்ந்தெடு"
+    },
+    "lockRatio": {
+      "value": "விகிதத்தை மாற்றாதே"
+    },
+    "myChallenge": {
+      "value": "எனது சவால்"
+    },
+    "zeroToTen": {
+      "value": "0 முதல் 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 முதல் 20"
+    },
+    "zeroToThirty": {
+      "value": "0 முதல் 30"
+    },
+    "range": {
+      "value": "நெடுக்கம்(range)"
+    },
+    "screen.discover": {
+      "value": "கண்டுபிடி"
+    },
+    "challenge1": {
+      "value": "சவால் 1"
+    },
+    "challenge2": {
+      "value": "சவால் 2"
+    },
+    "challenge3": {
+      "value": "சவால் 3"
+    },
+    "challengeRatio": {
+      "value": "சவால்: விகிதம் "
+    },
+    "ratio-and-proportion.title": {
+      "value": "விகிதங்கள்"
+    }
+  },
+  "te": {
+    "moveHandsIndividually": {
+      "value": "విడివిడిగా చేతులను కదపండి"
+    },
+    "move": {
+      "value": "Move"
+    },
+    "leftOrRightHand": {
+      "value": "left or right hand"
+    },
+    "top": {
+      "value": "top"
+    },
+    "bottom": {
+      "value": "bottom"
+    },
+    "moveLeftHand": {
+      "value": "ఎడమ చేతిని కదుపు"
+    },
+    "moveRightHand": {
+      "value": "కుడి చేతిని కదుపు"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Move hands in smaller steps, add"
+    },
+    "jumpBothHands": {
+      "value": "Jump both hands to same tick mark"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "రెండు చేతులను ఒకేసారి కదపండి"
+    },
+    "screen.create": {
+      "value": "సృష్టించు"
+    },
+    "setHandRatioValue": {
+      "value": "Set left or right value"
+    },
+    "jumpToMinimum": {
+      "value": "Jump to minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Jump to maximum"
+    },
+    "setMyRatioChallenge": {
+      "value": "Set Values for My Challenge Ratio"
+    },
+    "lockRatio": {
+      "value": "నిష్పత్తి కి తాళం వెయ్యి."
+    },
+    "myChallenge": {
+      "value": "నా ఛాలెంజ్"
+    },
+    "zeroToTen": {
+      "value": "0 నుండి 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 నుండి 20"
+    },
+    "zeroToThirty": {
+      "value": "0 నుండి 30"
+    },
+    "range": {
+      "value": "వ్యాప్తి"
+    },
+    "screen.discover": {
+      "value": "అన్వేషించు"
+    },
+    "challenge1": {
+      "value": "ఛాలెంజ్ 1"
+    },
+    "challenge2": {
+      "value": "ఛాలెంజ్ 2"
+    },
+    "challenge3": {
+      "value": "ఛాలెంజ్ 3"
+    },
+    "challengeRatio": {
+      "value": "Challenge Ratio"
+    },
+    "ratio-and-proportion.title": {
+      "value": "నిష్పత్తి మరియు అనుపాతం"
+    }
+  },
+  "th": {
+    "screen.create": {
+      "value": "สร้าง"
+    },
+    "screen.discover": {
+      "value": "ค้นหา"
+    },
+    "setHandRatioValue": {
+      "value": "ตั้งค่าซ้ายหรือขวา"
+    },
+    "jumpToMinimum": {
+      "value": "ข้ามไปที่ขั้นต่ำสุด"
+    },
+    "jumpToMaximum": {
+      "value": "ข้ามไปที่ขั้นสูงสุด"
+    },
+    "setMyRatioChallenge": {
+      "value": "ตั้งค่าสำหรับอัตราส่วนความท้าทายของฉัน"
+    },
+    "lockRatio": {
+      "value": "ล็อคอัตราส่วน"
+    },
+    "challengeRatio": {
+      "value": "อัตราส่วนความท้าทาย"
+    },
+    "myChallenge": {
+      "value": "ความท้าทายของฉัน"
+    },
+    "zeroToTen": {
+      "value": "0 ถึง 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 ถึง 20"
+    },
+    "zeroToThirty": {
+      "value": "0 ถึง 30"
+    },
+    "range": {
+      "value": "ช่วงระยะ"
+    },
+    "challenge1": {
+      "value": "ความท้าทาย 1 "
+    },
+    "challenge2": {
+      "value": "ความท้าทาย 2"
+    },
+    "challenge3": {
+      "value": "ความท้าทาย 3"
+    },
+    "moveHandsIndividually": {
+      "value": "ขยับมือเป็นรายบุคคล"
+    },
+    "move": {
+      "value": "ย้าย"
+    },
+    "leftOrRightHand": {
+      "value": "มือซ้ายหรือขวามือ"
+    },
+    "top": {
+      "value": "บนสุด"
+    },
+    "bottom": {
+      "value": "ล่างสุด"
+    },
+    "moveLeftHand": {
+      "value": "เลื่อนมือซ้าย"
+    },
+    "moveRightHand": {
+      "value": "เลื่อนมือขวา"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "ขยับมือทีละน้อย, เพิ่ม"
+    },
+    "jumpBothHands": {
+      "value": "เลื่อนมือทั้งสองข้างไปยังเครื่องหมายขีดเดียวกัน"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "ขยับมือทั้งสองข้างพร้อมกัน"
+    },
+    "ratio-and-proportion.title": {
+      "value": "อัตราส่วนและสัดส่วน"
+    }
+  },
+  "tk": {
+    "moveHandsIndividually": {
+      "value": "Elleri aýratynlykda hereket etdir"
+    },
+    "move": {
+      "value": "Hereket etdir"
+    },
+    "leftOrRightHand": {
+      "value": "çep ýa-da sag el"
+    },
+    "top": {
+      "value": "ýokarky"
+    },
+    "bottom": {
+      "value": "aşaky"
+    },
+    "moveLeftHand": {
+      "value": "Çep eli hereket etdir"
+    },
+    "moveRightHand": {
+      "value": "Sag eli hereket etdir"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Elleri kiçiräk ädimlerde hereket etdir, goş"
+    },
+    "jumpBothHands": {
+      "value": "Iki eli hem şol bir çyzykly bellige goý"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Iki eli bilelikde hereket etdir"
+    },
+    "screen.create": {
+      "value": "Döret"
+    },
+    "setHandRatioValue": {
+      "value": "Çep ýa-da sag bahany belle"
+    },
+    "jumpToMinimum": {
+      "value": "Minimuma bök"
+    },
+    "jumpToMaximum": {
+      "value": "Maksimuma bök"
+    },
+    "setMyRatioChallenge": {
+      "value": "Mesele gatnaşygym üçin bahalary belle"
+    },
+    "lockRatio": {
+      "value": "Gatnaşygy gulpla"
+    },
+    "myChallenge": {
+      "value": "Meseläm"
+    },
+    "zeroToTen": {
+      "value": "0-dan 10-a çenli"
+    },
+    "zeroToTwenty": {
+      "value": "0-dan 20-ä çenli"
+    },
+    "zeroToThirty": {
+      "value": "0-dan 30-a çenli"
+    },
+    "range": {
+      "value": "Aralyk:"
+    },
+    "screen.discover": {
+      "value": "Tap"
+    },
+    "challenge1": {
+      "value": "Mesele 1"
+    },
+    "challenge2": {
+      "value": "Mesele 2"
+    },
+    "challenge3": {
+      "value": "Mesele 3"
+    },
+    "challengeRatio": {
+      "value": "Mesele gatnaşygy"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Gatnaşyk we proporsiýa"
+    }
+  },
+  "tr": {
+    "leftOrRightHand": {
+      "value": "Sol ve Sağ El"
+    },
+    "screen.create": {
+      "value": "Yapma"
+    },
+    "lockRatio": {
+      "value": "Oranı Kilitle"
+    },
+    "myChallenge": {
+      "value": "Karşılaşmalarım"
+    },
+    "range": {
+      "value": "Aralık"
+    },
+    "screen.discover": {
+      "value": "Anlama"
+    },
+    "challenge1": {
+      "value": "Karşılaşma 1"
+    },
+    "challenge2": {
+      "value": "Karşılaşma 2"
+    },
+    "challenge3": {
+      "value": "Karşılaşma 3"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Oran ve Orantı"
+    }
+  },
+  "tw": {
+    "moveHandsIndividually": {
+      "value": "Pia nsa baako baako"
+    },
+    "move": {
+      "value": "Pia"
+    },
+    "leftOrRightHand": {
+      "value": "Wo nsa benkum anaasɛ nifa"
+    },
+    "top": {
+      "value": "Soro"
+    },
+    "bottom": {
+      "value": "Aseɛ"
+    },
+    "moveLeftHand": {
+      "value": "Pia kɔ wo nsa benkum"
+    },
+    "moveRightHand": {
+      "value": "Pia kɔ wo nsa nifa"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Pia nsa nketewa, kabom"
+    },
+    "jumpBothHands": {
+      "value": "Huri nsa mmienu toaso kɔ botae no ho"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Huri nsa mmienu bom"
+    },
+    "screen.create": {
+      "value": "Nwene anaasɛ yɛ"
+    },
+    "setHandRatioValue": {
+      "value": "To benkum anaasɛ nifa ano"
+    },
+    "jumpToMinimum": {
+      "value": "Huri kɔ ketewa"
+    },
+    "jumpToMaximum": {
+      "value": "Huri kɔ keseɛ"
+    },
+    "setMyRatioChallenge": {
+      "value": "Nsiano ma deɛ ɛne me di asie"
+    },
+    "lockRatio": {
+      "value": "Ntoho krado"
+    },
+    "myChallenge": {
+      "value": "Deɛ ɛne me di asi"
+    },
+    "zeroToTen": {
+      "value": "0 to 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 to 10"
+    },
+    "zeroToThirty": {
+      "value": "0 to 10"
+    },
+    "range": {
+      "value": "Hyehyɛ"
+    },
+    "screen.discover": {
+      "value": "Hwehwɛ"
+    },
+    "challenge1": {
+      "value": "Di asi 1"
+    },
+    "challenge2": {
+      "value": "Di asi 2"
+    },
+    "challenge3": {
+      "value": "Di asi 3"
+    },
+    "challengeRatio": {
+      "value": "Ntoho di asi"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Ntoho ne nsɛso"
+    }
+  },
+  "ur": {
+    "moveHandsIndividually": {
+      "value": "علیحدہ ہاتھوں کو ہلائیں"
+    },
+    "move": {
+      "value": "حرکت دیں"
+    },
+    "leftOrRightHand": {
+      "value": "داہنا یا بایاں ہاتھ"
+    },
+    "top": {
+      "value": "بالائی"
+    },
+    "bottom": {
+      "value": "تہہ"
+    },
+    "moveLeftHand": {
+      "value": "بائیں ہاتھ کو حرکت دیں"
+    },
+    "moveRightHand": {
+      "value": "دائیں ہاتھ کو حرکت دیں"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "ہاتھوں کو بتدریج سرکائیں، جوڑیں"
+    },
+    "jumpBothHands": {
+      "value": "دونوں ہاتھوں کو ایک ہی ٹک کے نشان پررکھیں"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "دونوں ہاتھوں کو ایک ساتھ سرکائیں"
+    },
+    "screen.create": {
+      "value": "بنائیں"
+    },
+    "setHandRatioValue": {
+      "value": "بائیں یا دائیں قیمت کو طے کریں"
+    },
+    "jumpToMinimum": {
+      "value": "کمترین تک جائیں"
+    },
+    "jumpToMaximum": {
+      "value": "انتہائی حد تک جائیں"
+    },
+    "setMyRatioChallenge": {
+      "value": "مائی چیلنج ریشیو کی قیمتوں کو طے کریں"
+    },
+    "lockRatio": {
+      "value": "نسبت کو لاک کریں"
+    },
+    "myChallenge": {
+      "value": "میرا چیلنج"
+    },
+    "zeroToTen": {
+      "value": "0 تا 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 تا 20 "
+    },
+    "zeroToThirty": {
+      "value": "0 تا 30 "
+    },
+    "range": {
+      "value": "احاطہ"
+    },
+    "screen.discover": {
+      "value": "دریافت کریں"
+    },
+    "challenge1": {
+      "value": "چیلنج 1"
+    },
+    "challenge2": {
+      "value": "چیلنج 2 "
+    },
+    "challenge3": {
+      "value": "چیلنج 3"
+    },
+    "challengeRatio": {
+      "value": "چیلنج کی نسبت"
+    },
+    "ratio-and-proportion.title": {
+      "value": "نسبت اور تناسب"
+    }
+  },
+  "uz": {
+    "screen.create": {
+      "value": "Yaratish"
+    },
+    "screen.discover": {
+      "value": "Kashf etish"
+    },
+    "setHandRatioValue": {
+      "value": "Chap yoki o'ng qiymatni o'rnatish"
+    },
+    "jumpToMinimum": {
+      "value": "Minimalga o'tish"
+    },
+    "jumpToMaximum": {
+      "value": "Maksimalga o'tish"
+    },
+    "setMyRatioChallenge": {
+      "value": "Mening Muammom Nisbati Uchun Qiymatlarni O‘rnating"
+    },
+    "lockRatio": {
+      "value": "Nisbat Qulfi"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Urinishlar Nisbatini Tanlang"
+    },
+    "moveHandsIndividually": {
+      "value": "Qo‘llarni Individual Ravishda Harakatlantirish"
+    },
+    "move": {
+      "value": "Ko‘chirish"
+    },
+    "leftOrRightHand": {
+      "value": "chap yoki o‘ng qo‘l"
+    },
+    "top": {
+      "value": "yuqori"
+    },
+    "bottom": {
+      "value": "quyi"
+    },
+    "moveLeftHand": {
+      "value": "Chap qo'lni ko‘chiring"
+    },
+    "moveRightHand": {
+      "value": "O‘ng qo'lni ko‘chiring"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Qo'llarni kichikroq qadamlar bilan siljiting, qo'shing"
+    },
+    "jumpBothHands": {
+      "value": "Ikkala qo'lni bir xil belgiga o'tkazing"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Ikkala Qo'lni Mutanosib Harakatlantiring"
+    },
+    "myChallenge": {
+      "value": "Mening Urinishim"
+    },
+    "zeroToTen": {
+      "value": "0 dan 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 dan 20"
+    },
+    "zeroToThirty": {
+      "value": "0 dan 30"
+    },
+    "range": {
+      "value": "Oraliq:"
+    },
+    "challenge1": {
+      "value": "Urinish 1"
+    },
+    "challenge2": {
+      "value": "Urinish 2"
+    },
+    "challenge3": {
+      "value": "Urinish"
+    },
+    "challengeRatio": {
+      "value": "Urinishlar nisbati"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Nisbat va Proporsiya"
+    }
+  },
+  "vi": {
+    "moveHandsIndividually": {
+      "value": "Di chuyển bàn tay riêng rẽ"
+    },
+    "move": {
+      "value": "Di chuyển"
+    },
+    "leftOrRightHand": {
+      "value": "Tay trái hay tay phải"
+    },
+    "top": {
+      "value": "Trên"
+    },
+    "bottom": {
+      "value": "Dưới"
+    },
+    "moveLeftHand": {
+      "value": "Di chuyển tay trái"
+    },
+    "moveRightHand": {
+      "value": "Di chuyển tay phải"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Di chuyển bước ngắn hơn"
+    },
+    "jumpBothHands": {
+      "value": "Chuyển hai tay tới cùng một chỗ"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Di chuyển đồng thời hai tay"
+    },
+    "screen.create": {
+      "value": "Sáng tạo"
+    },
+    "setHandRatioValue": {
+      "value": "Đặt giá trị trái hay phải"
+    },
+    "jumpToMinimum": {
+      "value": "Chuyển tới trị cực tiểu"
+    },
+    "jumpToMaximum": {
+      "value": "Chuyển tới trị cực đại"
+    },
+    "setMyRatioChallenge": {
+      "value": "Đặt giá trị cho tỷ số cần đạt được"
+    },
+    "lockRatio": {
+      "value": "Khoá tỷ số"
+    },
+    "myChallenge": {
+      "value": "Bài toán của tôi"
+    },
+    "zeroToTen": {
+      "value": "0 tới 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 tới 20"
+    },
+    "zeroToThirty": {
+      "value": "0 tới 30"
+    },
+    "range": {
+      "value": "Phạm vi:"
+    },
+    "screen.discover": {
+      "value": "Khám phá"
+    },
+    "challenge1": {
+      "value": "Bài toán 1"
+    },
+    "challenge2": {
+      "value": "Bài toán 2"
+    },
+    "challenge3": {
+      "value": "Bài toán 3"
+    },
+    "challengeRatio": {
+      "value": "Tỷ số cần đạt được"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Tỷ số và tỷ lệ"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Choose a Challenge Ratio"
+    }
+  },
+  "yo": {
+    "moveHandsIndividually": {
+      "value": "Gbe Ọwọ lọkọọkan"
+    },
+    "move": {
+      "value": "Gbe"
+    },
+    "leftOrRightHand": {
+      "value": "Osi tabi owo otun"
+    },
+    "top": {
+      "value": "Oke"
+    },
+    "bottom": {
+      "value": "Idi"
+    },
+    "moveLeftHand": {
+      "value": "Gbe ọwọ ọsi"
+    },
+    "moveRightHand": {
+      "value": "Gbe ọwọ ọtun"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Gbe ọwọ ni awọn igbesẹ kekere, ṣafikun"
+    },
+    "jumpBothHands": {
+      "value": "Fo ọwọ mejeeji si ami kanna"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Gbe Ọwọ mejeeji ni nigbakannaa"
+    },
+    "screen.create": {
+      "value": "Ṣẹda"
+    },
+    "setHandRatioValue": {
+      "value": "Ṣeto osi tabi ọtun iye"
+    },
+    "jumpToMinimum": {
+      "value": "fo si kere"
+    },
+    "jumpToMaximum": {
+      "value": "fo  si o pọju"
+    },
+    "setMyRatioChallenge": {
+      "value": "Ṣeto awọn idiyele fun iwọn ipenija mi"
+    },
+    "lockRatio": {
+      "value": "Iwọn titiipa"
+    },
+    "myChallenge": {
+      "value": "Ipenija mi"
+    },
+    "zeroToTen": {
+      "value": "Odo si mẹ́wàá "
+    },
+    "zeroToTwenty": {
+      "value": "Odo si ogún"
+    },
+    "zeroToThirty": {
+      "value": "Odo si ọgbọ̀n"
+    },
+    "range": {
+      "value": "Gígùn ìnà:"
+    },
+    "screen.discover": {
+      "value": "Sàwárí "
+    },
+    "challenge1": {
+      "value": "Ipenija 1"
+    },
+    "challenge2": {
+      "value": "Ipenija 2"
+    },
+    "challenge3": {
+      "value": "Ipenija 3"
+    },
+    "challengeRatio": {
+      "value": "Réṣíò Ipenija "
+    },
+    "ratio-and-proportion.title": {
+      "value": "Réṣíò ati Ipin "
+    }
+  },
+  "zh_CN": {
+    "moveHandsIndividually": {
+      "value": "单独移动手"
+    },
+    "move": {
+      "value": "移动"
+    },
+    "leftOrRightHand": {
+      "value": "左手或右手"
+    },
+    "top": {
+      "value": "顶端"
+    },
+    "bottom": {
+      "value": "底部"
+    },
+    "moveLeftHand": {
+      "value": "移动左手"
+    },
+    "moveRightHand": {
+      "value": "移动右手"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "逐步移动手并添加"
+    },
+    "jumpBothHands": {
+      "value": "双手跳到相同的刻度线"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "同时移动双手"
+    },
+    "screen.create": {
+      "value": "新建"
+    },
+    "setHandRatioValue": {
+      "value": "设定左或右值"
+    },
+    "jumpToMinimum": {
+      "value": "跳到最小"
+    },
+    "jumpToMaximum": {
+      "value": "跳到最大"
+    },
+    "setMyRatioChallenge": {
+      "value": "设定我的挑战率"
+    },
+    "lockRatio": {
+      "value": "锁定比率"
+    },
+    "myChallenge": {
+      "value": "我的挑战"
+    },
+    "zeroToTen": {
+      "value": "0到10"
+    },
+    "zeroToTwenty": {
+      "value": "0到20"
+    },
+    "zeroToThirty": {
+      "value": "0到30"
+    },
+    "range": {
+      "value": "值域"
+    },
+    "screen.discover": {
+      "value": "探索"
+    },
+    "challenge1": {
+      "value": "挑战1"
+    },
+    "challenge2": {
+      "value": "挑战2"
+    },
+    "challenge3": {
+      "value": "挑战3"
+    },
+    "challengeRatio": {
+      "value": "挑战率"
+    },
+    "ratio-and-proportion.title": {
+      "value": "比率和比例"
+    }
+  },
+  "zh_HK": {
+    "moveHandsIndividually": {
+      "value": "移動個別手"
+    },
+    "move": {
+      "value": "移動"
+    },
+    "leftOrRightHand": {
+      "value": "左或右手"
+    },
+    "top": {
+      "value": "上"
+    },
+    "bottom": {
+      "value": "下"
+    },
+    "moveLeftHand": {
+      "value": "移動左手"
+    },
+    "moveRightHand": {
+      "value": "移動右手"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "輕輕移動手部, 加上"
+    },
+    "jumpBothHands": {
+      "value": "跳過雙手去同一個剔號位置"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "同時移動雙手"
+    },
+    "screen.create": {
+      "value": "創造"
+    },
+    "setHandRatioValue": {
+      "value": "設定左邊或右邊的數值"
+    },
+    "jumpToMinimum": {
+      "value": "跳至最低值"
+    },
+    "jumpToMaximum": {
+      "value": "跳至最高值"
+    },
+    "setMyRatioChallenge": {
+      "value": "為我挑戰的比率設定數值"
+    },
+    "lockRatio": {
+      "value": "鎖定比率"
+    },
+    "myChallenge": {
+      "value": "我的挑戰"
+    },
+    "zeroToTen": {
+      "value": "0至10"
+    },
+    "zeroToTwenty": {
+      "value": "0至20"
+    },
+    "zeroToThirty": {
+      "value": "0至30"
+    },
+    "range": {
+      "value": "範圍:"
+    },
+    "screen.discover": {
+      "value": "發現"
+    },
+    "challenge1": {
+      "value": "挑戰1"
+    },
+    "challenge2": {
+      "value": "挑戰2"
+    },
+    "challenge3": {
+      "value": "挑戰3"
+    },
+    "challengeRatio": {
+      "value": "挑戰比率"
+    },
+    "ratio-and-proportion.title": {
+      "value": "比率與比例"
+    }
+  },
+  "zh_TW": {
+    "moveHandsIndividually": {
+      "value": "分別移動手"
+    },
+    "move": {
+      "value": "移動"
+    },
+    "leftOrRightHand": {
+      "value": "左手或右手"
+    },
+    "top": {
+      "value": "頂端"
+    },
+    "bottom": {
+      "value": "底端"
+    },
+    "moveLeftHand": {
+      "value": "移動左手"
+    },
+    "moveRightHand": {
+      "value": "移動右手"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "要以較小的幅度移動，先按住"
+    },
+    "jumpBothHands": {
+      "value": "將兩隻手移到相同的刻度上"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "同時移動雙手"
+    },
+    "screen.create": {
+      "value": "建立"
+    },
+    "setHandRatioValue": {
+      "value": "設定左邊或右邊的值"
+    },
+    "jumpToMinimum": {
+      "value": "跳到最小值"
+    },
+    "jumpToMaximum": {
+      "value": "跳到最大值"
+    },
+    "setMyRatioChallenge": {
+      "value": "儲存「我的挑戰」比例"
+    },
+    "lockRatio": {
+      "value": "鎖定比例"
+    },
+    "myChallenge": {
+      "value": "我的挑戰"
+    },
+    "zeroToTen": {
+      "value": "0 到 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 到 20"
+    },
+    "zeroToThirty": {
+      "value": "0 到 30"
+    },
+    "range": {
+      "value": "範圍："
+    },
+    "screen.discover": {
+      "value": "探索"
+    },
+    "challenge1": {
+      "value": "挑戰 1"
+    },
+    "challenge2": {
+      "value": "挑戰 2"
+    },
+    "challenge3": {
+      "value": "挑戰 3"
+    },
+    "challengeRatio": {
+      "value": "挑戰比例"
+    },
+    "ratio-and-proportion.title": {
+      "value": "Ratio and Propotion_比與比值"
+    },
+    "chooseAChallengeRatio": {
+      "value": "選擇一個挑戰比例"
+    }
+  },
+  "zu": {
+    "screen.create": {
+      "value": "dala"
+    },
+    "screen.discover": {
+      "value": "thola"
+    },
+    "setHandRatioValue": {
+      "value": "setha inani lesobunxele noma kwesokudla"
+    },
+    "jumpToMinimum": {
+      "value": "gxuma ube ubuncane"
+    },
+    "jumpToMaximum": {
+      "value": "gxumela phezulu"
+    },
+    "setMyRatioChallenge": {
+      "value": "londoloza amanani esilinganiso senselelo yami"
+    },
+    "lockRatio": {
+      "value": "ukykhiya isilinganiso"
+    },
+    "chooseAChallengeRatio": {
+      "value": "kheha isilinganiso senselele"
+    },
+    "moveHandsIndividually": {
+      "value": "hambisa izandla ngabanye"
+    },
+    "move": {
+      "value": "hambisa"
+    },
+    "leftOrRightHand": {
+      "value": "isandla sojunxele noma sokudla"
+    },
+    "top": {
+      "value": "phezulu"
+    },
+    "bottom": {
+      "value": "phansi"
+    },
+    "moveLeftHand": {
+      "value": "hambisa isandla sokunxele"
+    },
+    "moveRightHand": {
+      "value": "hambisa isandla sokudla"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "hambisa isandla ngezinyathelo ezincane, engeza"
+    },
+    "jumpBothHands": {
+      "value": "gxuma izandla zombili kumaki wophawu olufanayo"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "unyakazise izandlz zombili kanyekanye"
+    },
+    "myChallenge": {
+      "value": "inselele yami"
+    },
+    "zeroToTen": {
+      "value": "ziro kuya kweshumi"
+    },
+    "zeroToTwenty": {
+      "value": "ziro ukuya kwamashumi amabili"
+    },
+    "zeroToThirty": {
+      "value": "ziro ukuya kwamashumi amathathu"
+    },
+    "range": {
+      "value": "ububanzi"
+    },
+    "challenge1": {
+      "value": "inselele1"
+    },
+    "challenge2": {
+      "value": "inselele 2"
+    },
+    "challenge3": {
+      "value": "inselele 3"
+    },
+    "challengeRatio": {
+      "value": "isilinganiso senselele"
+    },
+    "ratio-and-proportion.title": {
+      "value": "isilinganiso kanye nesilinganiso"
+    }
+  },
+  "en": {
+    "ratio-and-proportion.title": {
+      "value": "Ratio and Proportion"
+    },
+    "screen.discover": {
+      "value": "Discover"
+    },
+    "screen.create": {
+      "value": "Create"
+    },
+    "myChallenge": {
+      "value": "My Challenge"
+    },
+    "range": {
+      "value": "Range:"
+    },
+    "zeroToTen": {
+      "value": "0 to 10"
+    },
+    "zeroToTwenty": {
+      "value": "0 to 20"
+    },
+    "zeroToThirty": {
+      "value": "0 to 30"
+    },
+    "challenge1": {
+      "value": "Challenge 1"
+    },
+    "challenge2": {
+      "value": "Challenge 2"
+    },
+    "challenge3": {
+      "value": "Challenge 3"
+    },
+    "lockRatio": {
+      "value": "Ratio Lock"
+    },
+    "moveBothHandsSimultaneously": {
+      "value": "Move Both Hands Simultaneously"
+    },
+    "moveLeftHand": {
+      "value": "Move left hand"
+    },
+    "moveRightHand": {
+      "value": "Move right hand"
+    },
+    "moveHandsInSmallerSteps": {
+      "value": "Move hands in smaller steps, add"
+    },
+    "jumpBothHands": {
+      "value": "Jump both hands to same tick mark"
+    },
+    "setMyRatioChallenge": {
+      "value": "Set Values for My Challenge Ratio"
+    },
+    "setHandRatioValue": {
+      "value": "Set left or right value"
+    },
+    "jumpToMinimum": {
+      "value": "Jump to minimum"
+    },
+    "jumpToMaximum": {
+      "value": "Jump to maximum"
+    },
+    "moveHandsIndividually": {
+      "value": "Move Hands Individually"
+    },
+    "move": {
+      "value": "Move"
+    },
+    "leftOrRightHand": {
+      "value": "left or right hand"
+    },
+    "top": {
+      "value": "top"
+    },
+    "bottom": {
+      "value": "bottom"
+    },
+    "challengeRatio": {
+      "value": "Challenge Ratio"
+    },
+    "chooseAChallengeRatio": {
+      "value": "Choose a Challenge Ratio"
+    },
+    "a11y": {
+      "keyboardHelp": {
+        "leftHandDescription": {
+          "value": "Move left hand up or down with W or S letter keys."
+        },
+        "rightHandDescription": {
+          "value": "Move right hand up or down with Up or Down arrow keys."
+        },
+        "handsInSmallerStepsDescription": {
+          "value": "Move hands in smaller steps, add Shift key."
+        },
+        "jumpBothHandsDescription": {
+          "value": "Jump both hands to same tick mark with number keys 0 to 9."
+        },
+        "setHandRatioValueDescription": {
+          "value": "Set left or right value with Up and Down arrow keys."
+        },
+        "jumpToMinimumDescription": {
+          "value": "Jump to minimum setting with Home key."
+        },
+        "jumpToMaximumDescription": {
+          "value": "Jump to maximum setting with End key."
+        }
+      },
+      "leftHand": {
+        "value": "Left Hand"
+      },
+      "rightHand": {
+        "value": "Right Hand"
+      },
+      "leftHandLower": {
+        "value": "left hand"
+      },
+      "rightHandLower": {
+        "value": "right hand"
+      },
+      "handLockedPattern": {
+        "value": "{{hand}}, Locked"
+      },
+      "leftValue": {
+        "value": "Left Value"
+      },
+      "rightValue": {
+        "value": "Right Value"
+      },
+      "individualHandsHelpText": {
+        "value": "Move hands up and down individually to find the challenge ratio in different places."
+      },
+      "individualHandsVoicingHelpText": {
+        "value": "Move hands."
+      },
+      "bothHands": {
+        "bothHands": {
+          "value": "Both Hands"
+        },
+        "bothHandsHelpText": {
+          "value": "With Both Hands activated, use W and S keys to move left hand, and Up and Down Arrow keys to move right hand. Move both hands at the same time to find and maintain the challenge ratio."
+        },
+        "handsDistancePattern": {
+          "value": "hands {{distance}} each other"
+        },
+        "handsDistancePatternCapitalized": {
+          "value": "Hands {{distance}} each other"
+        },
+        "handsDistanceProgressPattern": {
+          "value": "Hands {{distanceProgress}}"
+        },
+        "equalObjectResponseAlert": {
+          "value": "both hands {{inPosition}}"
+        },
+        "eachObjectResponseAlert": {
+          "value": "left {{leftPosition}}, right {{rightPosition}}"
+        },
+        "cannotJumpToZeroWhenLocked": {
+          "value": "Can’t jump both hands to zero with ratio locked."
+        }
+      },
+      "tickMark": {
+        "heading": {
+          "value": "Tick Mark Options"
+        },
+        "showNo": {
+          "value": "No Tick Marks"
+        },
+        "show": {
+          "value": "Tick Marks"
+        },
+        "showNumbered": {
+          "value": "Numbered Tick Marks"
+        },
+        "tickMarksHidden": {
+          "value": "Tick Marks hidden."
+        },
+        "tickMarksShown": {
+          "value": "Evenly-spaced horizontal lines added."
+        },
+        "numberedTickMarksShown": {
+          "value": "Evenly-spaced numbered lines added."
+        },
+        "relative": {
+          "around": {
+            "value": "around"
+          },
+          "aroundHalfwayPast": {
+            "value": "around halfway past"
+          },
+          "almostHalfwayPast": {
+            "value": "almost halfway past"
+          },
+          "halfwayPast": {
+            "value": "halfway past"
+          },
+          "halfwayTo": {
+            "value": "halfway to"
+          },
+          "aroundHalfwayTo": {
+            "value": "around halfway to"
+          },
+          "almostHalfwayTo": {
+            "value": "almost halfway to"
+          },
+          "almostOn": {
+            "value": "almost on"
+          },
+          "on": {
+            "value": "on"
+          },
+          "at": {
+            "value": "at"
+          },
+          "near": {
+            "value": "near"
+          },
+          "zero": {
+            "value": "zero"
+          }
+        },
+        "semiQuantitativeHandPositionPattern": {
+          "value": "{{relativePosition}} {{ordinal}} tick mark"
+        },
+        "quantitativeHandPositionPattern": {
+          "value": "{{relativePosition}} tick mark {{tickMarkPosition}}"
+        },
+        "ordinal": {
+          "first": {
+            "value": "first"
+          },
+          "second": {
+            "value": "second"
+          },
+          "third": {
+            "value": "third"
+          },
+          "fourth": {
+            "value": "fourth"
+          },
+          "fifth": {
+            "value": "fifth"
+          },
+          "sixth": {
+            "value": "sixth"
+          },
+          "seventh": {
+            "value": "seventh"
+          },
+          "eighth": {
+            "value": "eighth"
+          },
+          "ninth": {
+            "value": "ninth"
+          },
+          "tenth": {
+            "value": "tenth"
+          },
+          "eleventh": {
+            "value": "eleventh"
+          },
+          "twelfth": {
+            "value": "twelfth"
+          },
+          "thirteenth": {
+            "value": "thirteenth"
+          },
+          "fourteenth": {
+            "value": "fourteenth"
+          },
+          "fifteenth": {
+            "value": "fifteenth"
+          },
+          "sixteenth": {
+            "value": "sixteenth"
+          },
+          "seventeenth": {
+            "value": "seventeenth"
+          },
+          "eighteenth": {
+            "value": "eighteenth"
+          },
+          "nineteenth": {
+            "value": "nineteenth"
+          },
+          "twentieth": {
+            "value": "twentieth"
+          },
+          "twentyFirst": {
+            "value": "twenty-first"
+          },
+          "twentySecond": {
+            "value": "twenty-second"
+          },
+          "twentyThird": {
+            "value": "twenty-third"
+          },
+          "twentyFourth": {
+            "value": "twenty-fourth"
+          },
+          "twentyFifth": {
+            "value": "twenty-fifth"
+          },
+          "twentySixth": {
+            "value": "twenty-sixth"
+          },
+          "twentySeventh": {
+            "value": "twenty-seventh"
+          },
+          "twentyEighth": {
+            "value": "twenty-eighth"
+          },
+          "twentyNinth": {
+            "value": "twenty-ninth"
+          }
+        }
+      },
+      "leftHandBullet": {
+        "value": "Left hand {{position}},"
+      },
+      "rightHandBullet": {
+        "value": "Right hand {{position}}."
+      },
+      "ratioLockEnabledHelpText": {
+        "value": "Move hands as a single unit with ratio locked."
+      },
+      "ratioLockDisabledHelpText": {
+        "value": "Enabled when hands are at challenge ratio."
+      },
+      "ratioLockToggleContextResponse": {
+        "value": "Hands locked at challenge ratio. Move hands and observe."
+      },
+      "ratioNoLongerLocked": {
+        "value": "Hands no longer locked."
+      },
+      "ratioNoLongerLockedPattern": {
+        "value": "{{noLongerLocked}} {{originalContextResponse}}"
+      },
+      "screenSummaryControlAreaParagraph": {
+        "value": "The Control Area has a button to reset the sim."
+      },
+      "screenSummaryQualitativeStateOfSim": {
+        "value": "Currently, the screen is {{color}}, hands are {{ratioFitness}} the {{currentChallenge}} ratio and {{distance}} each other:"
+      },
+      "detailsButtonPattern": {
+        "value": "{{stateOfSim}} {{leftHand}} {{rightHand}}"
+      },
+      "detailsButtonWithCurrentChallengePattern": {
+        "value": "{{stateOfSim}} {{leftHand}} {{rightHand}} {{currentChallenge}}"
+      },
+      "discover": {
+        "screenButtonsHelpText": {
+          "value": "Explore and discover set challenge ratios."
+        },
+        "screenSummary": {
+          "paragraph1": {
+            "value": "The Play Area is a tall space. It contains two interactive hands, a Left Hand and a Right Hand. You can move the Left Hand and Right Hand up and down individually, or activate Both Hands to move both hands at the same time. As you move the hands up and down, you will get closer to or farther from the challenge ratio, and closer or farther from a dark green screen."
+          },
+          "paragraph2": {
+            "value": "Tick mark options allow you to explore the vertical space with evenly-spaced horizontal lines."
+          },
+          "paragraph3": {
+            "value": "There are different challenges to explore, and the Control Area has a button to reset the sim."
+          },
+          "interactionHint": {
+            "value": "Move hands up and down to explore and discover different challenges."
+          }
+        },
+        "overviewSentence": {
+          "value": "The Discover Screen changes as you play with it.\nA tall space contains two interactive hands, a Left Hand and a Right Hand. You can move the Left Hand and the Right Hand up and down individually, or activate Both Hands to move both hands at the same time. As you move the hands up and down, you will get closer to or farther from the challenge ratio, and closer or farther from a dark green screen.\nTick mark options allow you to explore the vertical space with evenly-spaced horizontal lines. \nThere are different challenges to explore, and a button to reset the sim."
+        },
+        "challengesHelpText": {
+          "value": "Choose a challenge, then move hands to explore it."
+        },
+        "challenge1Lowercase": {
+          "value": "challenge 1"
+        },
+        "challenge2Lowercase": {
+          "value": "challenge 2"
+        },
+        "challenge3Lowercase": {
+          "value": "challenge 3"
+        },
+        "bothHandsGestureDescriptionHelpText": {
+          "value": "Explore challenge ratio with individual Left and Right hands. The custom Both Hands interaction is not yet possible with screen reader software on a mobile device."
+        }
+      },
+      "create": {
+        "screenButtonsHelpText": {
+          "value": "Set your own challenge ratios to explore."
+        },
+        "screenSummary": {
+          "paragraph1": {
+            "value": "Here, you can create your own Challenge Ratio. The Play Area is a tall space. It contains two interactive hands, a Left Hand and a Right Hand. You can move the Left Hand and the Right Hand up and down individually, or activate Both Hands to move both hands at the same time. As you move the hands up and down, you will get closer to or farther from the challenge ratio, unless you lock the ratio when screen is darkest green."
+          },
+          "paragraph2": {
+            "value": "Tick mark options allow you to explore the vertical space with evenly-spaced horizontal lines, and you can increase the range of tick marks to explore larger numbers."
+          },
+          "interactionHint": {
+            "value": "Explore current challenge, or look for My Challenge to create your own."
+          }
+        },
+        "overviewSentence": {
+          "value": "The Create Screen changes as you play with it.\nHere, you can create your own Challenge Ratio. A tall space contains two interactive hands, a Left Hand and a Right Hand. You can move the Left Hand and the Right Hand up and down individually, or activate Both Hands to move both hands at the same time. As you move the hands up and down, you will get closer to or farther from the Challenge Ratio, unless you lock the ratio when screen is darkest green.\nTick mark options allow you to explore the vertical space with evenly-spaced horizontal lines, and you can increase the tick mark range to explore larger numbers. \nFinally, there is a button to reset the sim."
+        },
+        "challenge": {
+          "value": "challenge"
+        },
+        "tickMarkRangeHelpText": {
+          "value": "When tick marks shown, choose range for tick marks."
+        },
+        "tickMarkRangeContextResponse": {
+          "value": "Tick mark range now {{range}}."
+        },
+        "myChallengeHelpText": {
+          "value": "Set left and right values to create your challenge, then move hands to explore it."
+        },
+        "myChallengeHintText": {
+          "value": "Expand to set your challenge."
+        },
+        "myChallengeReadingBlockHintText": {
+          "value": "Change challenge, and move hands."
+        },
+        "bothHandsGestureDescriptionHelpText": {
+          "value": "Explore challenge ratio with individual Left and Right hands, or try with ratio locked. The custom Both Hands interaction is not yet possible with screen reader software on a mobile device."
+        },
+        "rangeLabelPattern": {
+          "value": "Range: {{value}}"
+        }
+      },
+      "handPosition": {
+        "atTop": {
+          "value": "at top"
+        },
+        "nearTop": {
+          "value": "near top"
+        },
+        "inUpperRegion": {
+          "value": "in upper region"
+        },
+        "inUpperMiddleRegion": {
+          "value": "in upper-middle region"
+        },
+        "atMiddle": {
+          "value": "at middle"
+        },
+        "aroundMiddle": {
+          "value": "around middle"
+        },
+        "inLowerMiddleRegion": {
+          "value": "in lower-middle region"
+        },
+        "inLowerRegion": {
+          "value": "in lower region"
+        },
+        "nearBottom": {
+          "value": "near bottom"
+        },
+        "atBottom": {
+          "value": "at bottom"
+        },
+        "distance": {
+          "capitalized": {
+            "farthestFrom": {
+              "value": "Farthest from"
+            },
+            "extremelyFarFrom": {
+              "value": "Extremely far from"
+            },
+            "veryFarFrom": {
+              "value": "Very far from"
+            },
+            "farFrom": {
+              "value": "Far from"
+            },
+            "notSoCloseTo": {
+              "value": "Not so close to"
+            },
+            "somewhatCloseTo": {
+              "value": "Somewhat close to"
+            },
+            "veryCloseTo": {
+              "value": "Very close to"
+            },
+            "extremelyCloseTo": {
+              "value": "Extremely close to"
+            },
+            "almostEvenWith": {
+              "value": "Almost even with"
+            },
+            "evenWith": {
+              "value": "Even with"
+            }
+          },
+          "lowercase": {
+            "farthestFrom": {
+              "value": "farthest from"
+            },
+            "extremelyFarFrom": {
+              "value": "extremely far from"
+            },
+            "veryFarFrom": {
+              "value": "very far from"
+            },
+            "farFrom": {
+              "value": "far from"
+            },
+            "notSoCloseTo": {
+              "value": "not so close to"
+            },
+            "somewhatCloseTo": {
+              "value": "somewhat close to"
+            },
+            "veryCloseTo": {
+              "value": "very close to"
+            },
+            "extremelyCloseTo": {
+              "value": "extremely close to"
+            },
+            "almostEvenWith": {
+              "value": "almost even with"
+            },
+            "evenWith": {
+              "value": "even with"
+            }
+          }
+        },
+        "closerTogether": {
+          "value": "closer together"
+        },
+        "fartherApart": {
+          "value": "farther apart"
+        },
+        "closerTo": {
+          "value": "Closer to"
+        },
+        "fartherFrom": {
+          "value": "Farther from"
+        },
+        "distanceOrDistanceProgressClause": {
+          "value": "{{distanceOrDistanceProgress}} {{otherHand}}"
+        }
+      },
+      "ratio": {
+        "distancePositionContextResponse": {
+          "value": "{{distance}}, {{position}}."
+        },
+        "bothHandsGoBeyondEdgeContextResponse": {
+          "value": "{{hand}}, {{position}}. Move hands {{direction}} to explore more."
+        },
+        "singleHandGoBeyondEdgeContextResponse": {
+          "value": "{{hand}}, {{position}}. Move hand {{direction}} to explore more."
+        },
+        "proximityToNewRatioPattern": {
+          "value": "Hands, {{proximity}} new challenge ratio."
+        },
+        "proximityToRatioObjectResponse": {
+          "value": "hands, {{proximityToRatio}} challenge ratio"
+        },
+        "targetRatioChangedContextResponse": {
+          "value": "{{currentChallenge}} {{proximityToRatio}}"
+        },
+        "currentChallenge": {
+          "value": "Current challenge {{targetAntecedent}} to {{targetConsequent}}."
+        },
+        "currentChallengeHidden": {
+          "value": "Current challenge hidden."
+        },
+        "capitalized": {
+          "at": {
+            "value": "At"
+          },
+          "extremelyCloseTo": {
+            "value": "Extremely close to"
+          },
+          "veryCloseTo": {
+            "value": "Very close to"
+          },
+          "somewhatCloseTo": {
+            "value": "Somewhat close to"
+          },
+          "notSoCloseTo": {
+            "value": "Not so close to"
+          },
+          "farFrom": {
+            "value": "Far from"
+          },
+          "veryFarFrom": {
+            "value": "Very far from"
+          },
+          "extremelyFarFrom": {
+            "value": "Extremely far from"
+          }
+        },
+        "lowercase": {
+          "at": {
+            "value": "at"
+          },
+          "extremelyCloseTo": {
+            "value": "extremely close to"
+          },
+          "veryCloseTo": {
+            "value": "very close to"
+          },
+          "somewhatCloseTo": {
+            "value": "somewhat close to"
+          },
+          "notSoCloseTo": {
+            "value": "not so close to"
+          },
+          "farFrom": {
+            "value": "far from"
+          },
+          "veryFarFrom": {
+            "value": "very far from"
+          },
+          "extremelyFarFrom": {
+            "value": "extremely far from"
+          }
+        }
+      },
+      "backgroundColor": {
+        "notGreen": {
+          "value": "not green"
+        },
+        "lightestGreen": {
+          "value": "lightest green"
+        },
+        "veryLightGreen": {
+          "value": "very light green"
+        },
+        "lightGreen": {
+          "value": "light green"
+        },
+        "darkestGreen": {
+          "value": "darkest green"
+        }
+      },
+      "down": {
+        "value": "down"
+      },
+      "up": {
+        "value": "up"
+      }
+    }
+  }
+}

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'/>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'/>
+  <meta name='viewport'
+        content='width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'/>
+  <meta name='mobile-web-app-capable' content='yes'>
+
+  <title>Accessibility: Animation</title>
+
+  <!-- Before loading other things (that might error), create hooks to report errors/loads for continuous testing -->
+  <script src='../../chipper/js/browser/sim-tests/pageload-connector.js'></script>
+
+  <!-- jQuery and lodash are dependencies -->
+  <script src='../../sherpa/lib/jquery-2.1.0.min.js'></script>
+  <script src='../../sherpa/lib/lodash-4.17.4.min.js'></script>
+
+  <!--For the styling-->
+  <link rel='stylesheet' href='../assets/scenery.css'>
+  <link rel='stylesheet' href='../../sherpa/lib/prism-okaidia-1.23.0.css'>
+
+  <!--Syntax highlighting & styling-->
+  <script src='../../sherpa/lib/bootstrap-2.2.2.js'></script>
+  <script src='../../sherpa/lib/prism-1.23.0.js'></script>
+
+  <!--Scenery-->
+  <script src='../dist/scenery.min.js'></script>
+
+  <style>
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .scene-and-PDOM {
+      width: 80%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container .title {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    /* formatting for the displayed PDOM code */
+    .PDOM-container {
+      width: 75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+    }
+
+    #PDOM-pre {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .input-container {
+      width: 75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #accessibility-scene {
+      width: 100%;
+      height: 300px;
+      position: relative;
+      left: 0;
+      top: 0;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  <div class="title">
+    <h2>Scenery Accessibility Examples: Animation</h2>
+    <p>Click to add additional hexagons, press space to clear</p>
+  </div>
+  <div class="scene-and-PDOM">
+    <div class="input-container">
+      <div id="accessibility-scene" class="exampleScene"></div>
+    </div>
+
+    <div class="PDOM-container">
+      <pre id="PDOM-pre"></pre>
+    </div>
+  </div>
+</div>
+<!-- eslint-disable --> <!--TODO: fix lint https://github.com/phetsims/chipper/issues/1405-->
+
+<script type="text/javascript">
+  window.docExample = ( id, draw ) => {
+    // specify the dom element to which the display will be appended
+    var $container = $( '#' + id );
+    // create the scene and display
+    var scene = new phet.scenery.Node();
+    var display = new phet.scenery.Display( scene, {
+      width: $container.width(),
+      height: $container.height()
+    } );
+    // add all event listeners and start the animation loop
+    display.initializeEvents();
+    // append the scene to the container and draw it for the first time
+    $container[ 0 ].appendChild( display.domElement );
+    draw( scene, display );
+    display.updateDisplay();
+  }
+</script>
+<script>
+  // update displayed p-dom text
+  function updatePDOMDisplay( display ) {
+    'use strict';
+    //format PDOM code and add to container
+    var PDOMHTMLBlock = display.pdomRootElement.outerHTML;
+    var formattedPDOM = PDOMHTMLBlock
+      .replace( new RegExp( '<[/]?\\w*[ >]', 'g' ), '\n$&' ) // add breaks in the string
+      .replace( new RegExp( '<p', 'g' ), '\t<p' ) //formatting for opening paragraph tag
+      .replace( new RegExp( 'a hexagon', 'g' ), '\n\t\ta hexagon' ) //formatting for paragraph inner html
+      .replace( new RegExp( '</p>', 'g' ), '\t</p>' ); //formatting for closing paragraph tag
+
+    //syntax highlighting
+    var $PDOMcode = ( $( '<code class="language-html"></code>' ).text( formattedPDOM ) );
+    $( '#PDOM-pre' ).html( $PDOMcode );
+    Prism.highlightAll();
+  }
+
+  function randomRGBValue() {
+    return Math.floor( Math.random() * 255 )
+  }
+
+  window.docExample( 'accessibility-scene', ( scene, display ) => {
+    'use strict';
+
+    class Hexagon extends phet.scenery.Node {
+
+      constructor( fill = 'yellow' ) {
+        const options = {
+          x: 0,
+          y: 0,
+          tagName: 'p',
+          accessibleName: 'a yellow hexagon in the top left quadrant',
+          xVelocity: 10 * ( Math.random() - 0.5 ),
+          yVelocity: 10 * ( Math.random() - 0.5 )
+        };
+        super( options );
+
+        this.fill = fill;
+        this.addChild( new phet.scenery.Path( phet.kite.Shape.regularPolygon( 6, 22 ), {
+          fill: this.fill,
+          stroke: '#000',
+          x: 50,
+          y: 50,
+          bounds: {
+            minX: 0,
+            minY: 0,
+            maxX: display.width.value / 2,
+            maxY: display.height.value
+          }
+        } ) );
+      }
+    }
+
+    scene.children = [ new Hexagon() ];
+
+    // resets the scene when the spacebar is pressed
+    window.addEventListener( 'keydown', ( e ) => {
+      if ( e.code === 'Space' ) {
+        scene.children = [ new Hexagon() ];
+      }
+    } );
+
+    // adds another hexagon when the display is clicked
+    scene.addInputListener( {
+      up: () => {
+        if ( scene.children.length < 8 ) {
+          scene.addChild( new Hexagon( `rgb( ${randomRGBValue()}, ${randomRGBValue()}, ${randomRGBValue()})` ) );
+        }
+      }
+    } );
+
+    /*---------------------------------------------------------------------------*
+     * main loop
+     *----------------------------------------------------------------------------*/
+    display.updateOnRequestAnimationFrame( function( timeElapsed ) {
+      updatePDOMDisplay( display );
+
+      // for each hexagon, update its velocity and accessible description
+      for ( var i = 0; i < scene.children.length; i++ ) {
+        var hexagon = scene.children[ i ];
+        hexagon.translate( timeElapsed * hexagon.xVelocity, timeElapsed * hexagon.yVelocity, true );
+
+        // updates p-dom description words based on position of the hexagon
+        var quadrantX = hexagon.x > display.width / 2 ? 'right' : 'left';
+        var quadrantY = hexagon.y > display.height / 2 ? 'bottom' : 'top';
+
+        // updates the p-dom description
+        hexagon.accessibleName = `a hexagon of color ${hexagon.fill} in the ${quadrantY} ${quadrantX} quadrant`;
+
+        // updates hexagon's speed and ensures it stays on the screen.
+        if ( hexagon.x > display.width - 100 ) {
+          hexagon.xVelocity = -50 * Math.random();
+        }
+        else if ( hexagon.x < 50 ) {
+          hexagon.xVelocity = 50 * Math.random();
+        }
+        else {
+          hexagon.xVelocity += 50 * ( Math.random() - 0.5 );
+        }
+        if ( hexagon.y > display.height - 100 ) {
+          hexagon.yVelocity = -50 * Math.random();
+        }
+        else if ( hexagon.y < 50 ) {
+          hexagon.yVelocity = 50 * Math.random();
+        }
+        else {
+          hexagon.yVelocity += 50 * ( Math.random() - 0.5 );
+        }
+      }
+    } );
+  } );
+</script>
+
+</body>
+
+</html>

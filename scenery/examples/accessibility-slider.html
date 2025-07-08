@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport"
+        content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <title>Accessibility: Slider</title>
+
+  <!-- Before loading other things (that might error), create hooks to report errors/loads for continuous testing -->
+  <script src="../../chipper/js/browser/sim-tests/pageload-connector.js"></script>
+
+  <!-- jQuery and lodash are dependencies -->
+  <script src="../../sherpa/lib/jquery-2.1.0.min.js"></script>
+  <script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+
+  <!--For the styling-->
+  <link rel="stylesheet" href="../assets/scenery.css">
+  <link rel="stylesheet" href="../../sherpa/lib/prism-okaidia-1.23.0.css">
+
+
+  <script src="../../sherpa/lib/bootstrap-2.2.2.js"></script>
+  <script src="../../sherpa/lib/prism-1.23.0.js"></script>
+
+  <script src="../dist/scenery.min.js"></script>
+
+  <style>
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .scene-and-PDOM {
+      width: 80%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container .title {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    /* formatting for the displayed PDOM code */
+    .PDOM-container {
+      width: 75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+    }
+
+    #PDOM-pre {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    .input-container {
+      width: 75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #accessibility-scene {
+      width: 100%;
+      height: 300px;
+      position: relative;
+      left: 0;
+      top: 0;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  <div class="title">
+    <h2>Scenery Accessibility Examples: Slider</h2>
+    <p>Press tab to select the slider, use the right and left arrow keys to move.</p>
+  </div>
+  <div class="scene-and-PDOM">
+    <div class="input-container">
+      <div id="accessibility-scene" class="exampleScene"></div>
+    </div>
+
+    <div class="PDOM-container">
+      <pre id="PDOM-pre"></pre>
+    </div>
+  </div>
+</div>
+<!-- eslint-disable --> <!--TODO: fix lint https://github.com/phetsims/chipper/issues/1405-->
+
+<script type="text/javascript">
+  let scene;
+
+  window.docExample = ( id, draw ) => {
+    'use strict';
+    const $container = $( '#' + id );
+    scene = new phet.scenery.Node();
+    const display = new phet.scenery.Display( scene, {
+      width: $container.width(),
+      height: $container.height(),
+      backgroundColor: '#eee'
+    } );
+    display.initializeEvents();
+    $container[ 0 ].appendChild( display.domElement );
+    draw( scene, display );
+    display.updateDisplay();
+  }
+</script>
+
+<script type="text/javascript">
+  /**
+   * Note that this example solely uses Scenery, but PhET Interactive Simulation has created `AccessibleSlider.js` in a
+   * component library called "sun" (https://github.com/phetsims/sun/blob/main/js/accessibility/AccessibleSlider.js) as
+   * a mixin that solves much of the accessible-description related elements of this examples. AccessibleSlider is also
+   * used by sun/Slider.js, which is the visual, slider written with Scenery that PhET uses.
+   *
+   */
+
+  phet.scenery.Utils.polyfillRequestAnimationFrame();
+  window.docExample( 'accessibility-scene', ( scene, display ) => {
+    'use strict';
+
+    // number of tick marks on track
+    const numberOfTicks = 10;
+
+    // calculates distance slider travels with each button press
+    const increment = ( display.width ) / ( ( numberOfTicks + 2 ) );
+
+    // add a red hexagon to the screen at the beginning (since slider will start on the red side)
+    const hexagon = new phet.scenery.Path( phet.kite.Shape.regularPolygon( 6, 22 ), {
+      fill: 'rgb(255, 0, 0)',
+      stroke: '#000',
+      x: display.width / 2,
+      y: 75,
+      tagName: 'p', // tag name for PDOM element
+      accessibleName: 'a hexagon of color ' // accessibility description
+    } );
+
+    let trackFill = new phet.scenery.LinearGradient( increment / 2, 215, display.width - increment, 10 );
+    trackFill
+      .addColorStop( 0, 'pink' )
+      .addColorStop( 0.1, 'red' )
+      .addColorStop( 0.2, 'orange' )
+      .addColorStop( 0.3, 'yellow' )
+      .addColorStop( 0.4, 'gold' )
+      .addColorStop( 0.5, 'green' )
+      .addColorStop( 0.6, 'turquoise' )
+      .addColorStop( 0.7, 'blue' )
+      .addColorStop( 0.8, 'magenta' )
+      .addColorStop( 0.9, 'purple' )
+      .addColorStop( 1, 'indigo' );
+    const sliderStops = trackFill.getSVGStops();
+
+    // slider thumb
+    const thumb = new phet.scenery.Path( phet.kite.Shape.rectangle( increment, 200, 15, 40 ), {
+      fill: 'white',
+      stroke: 'black',
+      tagName: 'button',
+      accessibleName: `Slider thumb at position 0`
+    } );
+    thumb.index = 0;
+
+    // slider track
+    const track = new phet.scenery.Path( phet.kite.Shape.rectangle( increment / 2, 215, display.width - increment, 10 ), {
+      fill: trackFill
+    } );
+
+    // add all children to the scene
+    scene.addChild( hexagon );
+    scene.addChild( track );
+    scene.addChild( thumb );
+
+    // add labels for the track to the scene
+    let i;
+    for ( i = 0; i < numberOfTicks + 1; i++ ) {
+
+      //labels
+      scene.addChild( new phet.scenery.Text( `${i}`, {
+        font: '0.8em sans-serif',
+        center: new phet.dot.Vector2( ( i + 1 ) * increment + thumb.width / 2, 250 )
+      } ) );
+
+      // tick marks
+      scene.addChild( new phet.scenery.Path( phet.kite.Shape.rectangle( ( i + 1 ) * increment + thumb.width / 2, 205, 3, 30 ), {
+        fill: 'black'
+      } ) );
+    }
+
+    /**
+     * Moves the slider thumb based on the new sliderIndex, and updates the associated properties
+     * @param {number} sliderIndex
+     * @private
+     */
+    const moveSliderThumb = ( sliderIndex ) => {
+
+      // moves the thumb right or left if it will stay on the track
+      thumb.index = sliderIndex;
+      thumb.x = increment * sliderIndex;
+
+      // makes the hexagon's color move in rainbow order, moving right to left
+      hexagon.fill = `${sliderStops[ sliderIndex ].color}`;
+
+      //updates attributes that will create the PDOM elements
+      hexagon.tagName = 'p';
+      hexagon.accessibleName = `A hexagon of color ${hexagon.fill}`;
+      thumb.tagName = 'button';
+      thumb.accessibleName = `Slider thumb at position ${sliderIndex}`;
+    };
+
+    // listener that moves slider when left or right arrow keys are pressed
+    display.addInputListener( {
+      keydown: ( e ) => {
+
+        // determine whether slider should move left, right, or not at all.
+        let sliderIndex = thumb.index;
+        if ( e.domEvent.code === 'ArrowRight' ) {
+          sliderIndex += 1;
+        }
+        else if ( e.domEvent.code === 'ArrowLeft' ) {
+          sliderIndex -= 1;
+        }
+
+        // checks to see if thumb moves off the track (and doesn't allow)
+        const leftBoundary = sliderStops[ 0 ].ratio * numberOfTicks;
+        const rightBoundary = sliderStops[ 10 ].ratio * numberOfTicks;
+        if ( sliderIndex < leftBoundary || sliderIndex > rightBoundary ) {
+          console.log( 'reached boundary' );
+        }
+        else {
+          moveSliderThumb( sliderIndex )
+        }
+      }
+    } );
+
+    // update displayed p-dom text
+    const updatePDOMDisplay = () => {
+
+      var formattedPDOM = display.pdomRootElement.outerHTML
+        // add breaks in the string
+        .replace( new RegExp( '<[/]?\\w*[ >]', 'g' ), '\n$&' )
+
+        // formatting for opening paragraph tag
+        .replace( new RegExp( '(<p.*?>)((.|\\n)*?)(<\/p>)', 'gm' ), '\t$1\n\t\t$2\t<\/p>' )
+
+        //formatting for buttons
+        .replace( new RegExp( '(<button.*?>)((.|\\n)*?)(<\/button>)', 'gm' ), '\t$1\n\t\t$2\t<\/button>' );
+
+      var $PDOMcode = ( $( '<code class="language-html no-whitespace-normalization"></code>' ).text( formattedPDOM ) );
+
+      // add formatted code to the pre element
+      $( '#PDOM-pre' ).html( $PDOMcode );
+
+      //apply syntax highlighting
+      Prism.highlightAll();
+    };
+
+    // update the displayed p-dom code snippet when there's a change to the scene.
+    const observer = new MutationObserver( updatePDOMDisplay );
+    observer.observe( document.querySelector( '#accessibility-scene' ), {
+      attributes: true,
+      childList: true,
+      subtree: true
+    } );
+
+    // update the animation upon changes
+    display.updateOnRequestAnimationFrame();
+  } );
+</script>
+</body>
+
+</html>

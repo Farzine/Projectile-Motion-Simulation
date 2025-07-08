@@ -1,0 +1,506 @@
+{
+  "screen.intro": {
+    "value": "Kynning",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Kynning"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Tilraunastofa",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Tilraunastofa"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Fylgja massamiðju",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Fylgja massamiðju"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Hnettir",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Hnettir"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Ítarlegri gögn",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Meiri gögn"
+      },
+      {
+        "userId": 773195,
+        "timestamp": 1699548206083,
+        "oldValue": "Meiri gögn",
+        "newValue": "Ítarlegri gögn",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Sól og pláneta",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Sól og pláneta"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Sól, pláneta og tungl",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Sól, pláneta og tungl"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Sól, pláneta og halastjarna",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Sól, pláneta og halastjarna"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Trójusmástirni",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Loftsteinar"
+      },
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "Loftsteinar",
+        "newValue": "Trójusmástirni",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Sporbaugar",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Sporbaugar"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Breiðbogar",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Breiðbogar"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Slöngvun",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Skot"
+      },
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "Skot",
+        "newValue": "Slöngvun",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Tvöföld slöngvun",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Tvöfalt skot"
+      },
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "Tvöfalt skot",
+        "newValue": "Tvöföld slöngvun",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Tvístirni",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Tví-stjarna"
+      },
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "Tví-stjarna",
+        "newValue": "Tvístirni",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Fjögurra stjörnu dans",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Fjögurra stjörnu dans"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Tvöfalt tvöfalt",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Tvöfalt tvöfalt"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Sérsniðið",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Sjálfvalið"
+      },
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "Sjálfvalið",
+        "newValue": "Sérsniðið",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Massi",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Massi"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Massamiðja",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Massamiðja"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} til {{max}}",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "{{min}} til {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Sólkerfið mitt",
+    "history": [
+      {
+        "userId": 192128,
+        "timestamp": 1670311280121,
+        "oldValue": "",
+        "newValue": "Sólkerfið mitt"
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Aths. 1:</b> Stjarnfræðieining (AU) er um 150 milljón kílómetrar. Það er meðalfjarlægð Jarðar frá Sólu.",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "<b>Aths. 1:</b> Stjarnfræðieining (AU) er um 150 milljón kílómetrar. Það er meðalfjarlægð Jarðar frá Sólu."
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Aths. 2:</b> Massagildin í þessari sýndartilraun er frá 1 Júpítermassa til 1,5 Sólarmassa. Allir stjarnfræðilegir hlutir sýna sambærilega hegðun undir sterku þyngdarsviði, þar með talið minni reikistjörnur, halastjörnur, og  smástirni.",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "<b>Aths. 2:</b> Massagildin í þessari sýndartilraun er frá 1 Júpítermassa til 1,5 Sólarmassa. Allir stjarnfræðilegir hlutir sýna sambærilega hegðun undir sterku þyngdarsviði, þar með talið minni reikistjörnur, halastjörnur, og  smástirni."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Aths. 3:</b> Sökum mikillar breiddar á gildum í hermuninni, kunna þyngdarkraftsvigrarnir stundum að vera of litlir eða of stórir til að sýna. Þyngdarsviðsvigrana má skala með aðdráttarstýringunni.",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "<b>Aths. 3:</b> Sökum mikillar breiddar á gildum í hermuninni, kunna þyngdarkraftsvigrarnir stundum að vera of litlir eða of stórir til að sýna. Þyngdarsviðsvigrana má skala með aðdráttarstýringunni."
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Upplýsingar um einingar",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Upplýsingar um einingar"
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "Skila hnöttum",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Skila hnöttum"
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "Massi",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Massi"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "Staðsetning",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Staðsetning"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "Hraði",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1699547742809,
+        "oldValue": "",
+        "newValue": "Hraði"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "Veldu sporbrautarkerfi",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1714994849543,
+        "oldValue": "",
+        "newValue": "Veldu sporbrautarkerfi"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "sporbrautarkerfi",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1714994849543,
+        "oldValue": "",
+        "newValue": "sporbrautarkerfi"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "sporbrautarkerfi",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1714994849543,
+        "oldValue": "",
+        "newValue": "sporbrautarkerfi"
+      }
+    ]
+  },
+  "mode.orbitalSystem1": {
+    "value": "Sporbrautarkerfi 1",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1714994849543,
+        "oldValue": "",
+        "newValue": "Sporbrautarkerfi 1"
+      }
+    ]
+  },
+  "mode.orbitalSystem2": {
+    "value": "Sporbrautarkerfi 2",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1714994849543,
+        "oldValue": "",
+        "newValue": "Sporbrautarkerfi 2"
+      }
+    ]
+  },
+  "mode.orbitalSystem3": {
+    "value": "Sporbrautarkerfi 3",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1714994849543,
+        "oldValue": "",
+        "newValue": "Sporbrautarkerfi 3"
+      }
+    ]
+  },
+  "mode.orbitalSystem4": {
+    "value": "Sporbrautarkerfi 4",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1714994849543,
+        "oldValue": "",
+        "newValue": "Sporbrautarkerfi 4"
+      }
+    ]
+  }
+}

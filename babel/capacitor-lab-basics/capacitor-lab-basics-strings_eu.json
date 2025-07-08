@@ -1,0 +1,289 @@
+{
+  "capacitance": {
+    "value": "Kapazitantzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Kondentsadorea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274017157,
+        "oldValue": "Kondentsadorea",
+        "newValue": "Kapazitantzia",
+        "explanation": null
+      }
+    ]
+  },
+  "picoCoulombsPattern": {
+    "value": "{{value}} pC",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "{{value}} pC",
+        "explanation": null
+      }
+    ]
+  },
+  "picoFaradsPattern": {
+    "value": "{{value}} pF",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "{{value}} pF",
+        "explanation": null
+      }
+    ]
+  },
+  "picoJoulesPattern": {
+    "value": "{{value}} pJ",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "{{value}} pJ",
+        "explanation": null
+      }
+    ]
+  },
+  "storedEnergy": {
+    "value": "Metatutako energia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Bildutako energia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274017157,
+        "oldValue": "Bildutako energia",
+        "newValue": "Metatutako energia",
+        "explanation": null
+      }
+    ]
+  },
+  "topPlateCharge": {
+    "value": "Goiko plakaren karga",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Plaka-kargaren maximoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274017157,
+        "oldValue": "Plaka-kargaren maximoa",
+        "newValue": "Goiko plakaren karga",
+        "explanation": null
+      }
+    ]
+  },
+  "voltsPattern": {
+    "value": "{{value}} V",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "{{value}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "millimetersSquaredPattern": {
+    "value": "{{value}} mm<sup>2</sup>",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "{{value}} mm<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "plateArea": {
+    "value": "Plaka-azalera",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Plaka-azalera",
+        "explanation": null
+      }
+    ]
+  },
+  "millimetersPattern": {
+    "value": "{{value}} mm",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "{{value}} mm",
+        "explanation": null
+      }
+    ]
+  },
+  "separation": {
+    "value": "Tartea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Tartea",
+        "explanation": null
+      }
+    ]
+  },
+  "barGraphs": {
+    "value": "Barra-diagramak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Barra-grafikoak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274017157,
+        "oldValue": "Barra-grafikoak",
+        "newValue": "Barra-diagramak",
+        "explanation": null
+      }
+    ]
+  },
+  "currentDirection": {
+    "value": "Korrontearen noranzkoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Egungo helbidea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274017157,
+        "oldValue": "Egungo helbidea",
+        "newValue": "Korrontearen noranzkoa",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Eremu elektrikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Eremu elektrikoa",
+        "explanation": null
+      }
+    ]
+  },
+  "plateCharges": {
+    "value": "Plaka-kargak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Plaka-kargak",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Tentsioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Tentsioa",
+        "explanation": null
+      }
+    ]
+  },
+  "volts.unknown": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.capacitance": {
+    "value": "Kondentsadorea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Kondentsadorea",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lightBulb": {
+    "value": "Bonbilla",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Bonbilla",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitor-lab-basics.title": {
+    "value": "Kondentsadore-laborategia: oinarrizko kontzeptuak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Kondentsadore-laborategia: oinarrizko kontzeptuak",
+        "explanation": null
+      }
+    ]
+  },
+  "barGraph": {
+    "value": "Barra-grafikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1510839694866,
+        "oldValue": "",
+        "newValue": "Barra-grafikoa",
+        "explanation": null
+      }
+    ]
+  }
+}

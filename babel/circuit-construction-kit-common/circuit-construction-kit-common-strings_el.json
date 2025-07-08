@@ -1,0 +1,932 @@
+{
+  "oneSecond": {
+    "value": "1 δ.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "1 δ.",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Τάση AC",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "Τάση εναλλασσόμενου ρεύματος",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1639653085748,
+        "oldValue": "Τάση εναλλασσόμενου ρεύματος",
+        "newValue": "Τάση AC"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Προσθήκη αληθινών λαμπτήρων",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Προσθήκη αληθινών λαμπτήρων"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Για προχωρημένους",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Για προχωρημένους"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Αμπερόμετρο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Αμπερόμετρο",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Ενδείξεις αμπερόμετρου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1639653085748,
+        "oldValue": "",
+        "newValue": "Ενδείξεις αμπερόμετρου"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Αμπερόμετρα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Αμπερόμετρα",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Προσέγγιση του ορίου ταχύτητας της κινούμενης απεικόνισης. Η ταχύτητα προσομοίωσης μειώθηκε στο {{percent}}% του κανονικού.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Προσέγγιση του ορίου ταχύτητας της κινούμενης απεικόνισης. Η ταχύτητα προσομοίωσης μειώθηκε στο {{percent}}% του κανονικού.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Μπαταρία",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Μπαταρία",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Αντίσταση μπαταρίας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Αντίσταση μπαταρίας",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Βρετανικό",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1639653085748,
+        "oldValue": "",
+        "newValue": "Βρετανικός"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1682533087151,
+        "oldValue": "Βρετανικός",
+        "newValue": "Βρετανικό",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Χωρητικότητα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Χωρητικότητα"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Πυκνωτής",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Πυκνωτής"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Κέρμα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Νόμισμα",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1522699701033,
+        "oldValue": "Νόμισμα",
+        "newValue": "Κέρμα",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Συμβατική",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Φορά ρεύματος",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1522699701033,
+        "oldValue": "Φορά ρεύματος",
+        "newValue": "Συμβατική ",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1682533087151,
+        "oldValue": "Συμβατική ",
+        "newValue": "Συμβατική",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Ένταση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Τρέχον κύκλωμα",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1522699701033,
+        "oldValue": "Τρέχον κύκλωμα",
+        "newValue": "Φορα Ρεύματος",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "Φορα Ρεύματος",
+        "newValue": "Ένταση",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Ένταση (A)",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Ένταση (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Διάγραμμα έντασης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "Διάγραμμα έντασης",
+        "explanation": null
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Μέγιστη ένταση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "Μέγιστη ένταση",
+        "explanation": null
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Δεδομένα εκτός εύρους",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1639653085748,
+        "oldValue": "",
+        "newValue": "Δεδομένα εκτός εύρους"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Σκύλος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Σκύλος",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Χαρτονόμισμα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Χάρτινος λογαριασμός",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1509607143713,
+        "oldValue": "Χάρτινος λογαριασμός",
+        "newValue": "Χαρτονόμισμα",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Ηλεκτρονίων",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Ηλεκτρόνια",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1522699701033,
+        "oldValue": "Ηλεκτρόνια",
+        "newValue": "Ηλεκτρονίων",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Γόμα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Γόμα",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Συχνότητα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "Συχνότητα",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Ασφάλεια",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "Ασφάλεια",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Χέρι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Χέρι",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Επαγωγή",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Επαγωγή"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Πηνίο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Πηνίο"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Ετικέτες",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Ετικέτες",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Λαμπτήρας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Λάμπα",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1522699701033,
+        "oldValue": "Λάμπα",
+        "newValue": "Λαμπτήρας",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "μεγάλη",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "μεγάλη",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Μέγεθος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1639653085748,
+        "oldValue": "",
+        "newValue": "Μέγεθος"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Συνδετήρας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Συνδετήρας",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Μολύβι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Μολύβι",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Μετατόπιση φάσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Μετατόπιση φάσης"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Αντίσταση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Αντίσταση",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Αντιστάτης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Αντίσταση",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1509628555875,
+        "oldValue": "Αντίσταση",
+        "newValue": "Αντιστάτης",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Πρότυπο σχέδιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Πρότυπο σχέδιο"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Προβολή φοράς ρεύματος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Εμφάνιση τρέχοντος",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1509628501202,
+        "oldValue": "Εμφάνιση τρέχοντος",
+        "newValue": "Τρέχον κύκλωμα",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1522699701033,
+        "oldValue": "Τρέχον κύκλωμα",
+        "newValue": "Προβολή φοράς ρεύματος",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "Υπογεγραμμένο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1639653085748,
+        "oldValue": "",
+        "newValue": "Υπογεγραμμένο"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Πηγή αντίστασης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Πηγή αντίστασης"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Χρονόμετρο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Χρονόμετρο"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Διακόπτης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Διακόπτης",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Πιέστε το στοιχείο του κυκλώματος για επεξεργασία",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Πιέστε το στοιχείο του κυκλώματος για επεξεργασία",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Ο διακόπτης είναι κλειστός.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Ο διακόπτης είναι κλειστός.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Ο διακόπτης είναι ανοιχτός.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Ο διακόπτης είναι ανοιχτός.",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Χρόνος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "Χρόνος",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "μικρή",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "μικρή",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Τιμές",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Τιμές",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Τάση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Τάση",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Τάση (V)",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Τάση (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Διάγραμμα τάσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "Διάγραμμα τάσης",
+        "explanation": null
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Βολτόμετρο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Βολτόμετρο",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Καλώδιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Καλώδιο",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Αντίσταση καλωδίου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "Αντίσταση καλωδίου",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1606197680879,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohms",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohms",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volts",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "{{voltage}} volts",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": ";",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": ";",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Αληθινή λάμπα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "",
+        "newValue": "Αληθινή λάμπα"
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} ohms",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1509435856222,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohms",
+        "explanation": null
+      }
+    ]
+  }
+}

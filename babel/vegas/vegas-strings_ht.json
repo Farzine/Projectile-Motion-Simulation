@@ -1,0 +1,495 @@
+{
+  "score": {
+    "value": "Pwen:",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623423870542,
+        "oldValue": "",
+        "newValue": "Pwen"
+      },
+      {
+        "userId": 942402,
+        "timestamp": 1720133503769,
+        "oldValue": "Pwen",
+        "newValue": "Pwen:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Pwen: {{score}}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623423870542,
+        "oldValue": "",
+        "newValue": "Pwen: {{score}}"
+      },
+      {
+        "userId": 520137,
+        "timestamp": 1669871694511,
+        "oldValue": "Pwen: {{score}}",
+        "newValue": "Pwen : {{score}}"
+      },
+      {
+        "userId": 942402,
+        "timestamp": 1719851166390,
+        "oldValue": "Pwen : {{score}}",
+        "newValue": "Pwen: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625508548534,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      },
+      {
+        "userId": 520137,
+        "timestamp": 1669871694511,
+        "oldValue": "{0}:{1}",
+        "newValue": "{0} :{1}"
+      },
+      {
+        "userId": 942402,
+        "timestamp": 1719851166390,
+        "oldValue": "{0} :{1}",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625508548534,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      },
+      {
+        "userId": 520137,
+        "timestamp": 1669871694511,
+        "oldValue": "{0}:{1}:{2}",
+        "newValue": "{0} :{1} :{2}"
+      },
+      {
+        "userId": 942402,
+        "timestamp": 1719851166390,
+        "oldValue": "{0} :{1} :{2}",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Tcheke",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Tcheke"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Chwazi nivo w!",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Chwazi Nivo W"
+      },
+      {
+        "userId": 942402,
+        "timestamp": 1623715911103,
+        "oldValue": "Chwazi Nivo W",
+        "newValue": "Chwazi nivo w!"
+      }
+    ]
+  },
+  "continue": {
+    "value": "Kontinye",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Kontinye"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Ekselan!",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Ekselan!"
+      }
+    ]
+  },
+  "good": {
+    "value": "Byen!",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Byen!"
+      }
+    ]
+  },
+  "great": {
+    "value": "Fòmidab!",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Fòmidab!"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Kontinye Eseye",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Kontinye Eseye"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Nivo: {0}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Nivo: {0}"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Pwen: {0}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Skore: {0}"
+      },
+      {
+        "userId": 942402,
+        "timestamp": 1623715424508,
+        "oldValue": "Skore: {0}",
+        "newValue": "Pwen: {0}"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Pwen: {0} sou {1}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Skore: {0} sou {1}"
+      },
+      {
+        "userId": 942402,
+        "timestamp": 1623715424508,
+        "oldValue": "Skore: {0} sou {1}",
+        "newValue": "Pwen: {0} sou {1}"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Montre Repons",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Montre Repons"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Tan: {0}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Tan: {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Eseye Ankò",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Eseye Ankò"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Defi {0} nan {1}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Defi {0} nan {1}"
+      }
+    ]
+  },
+  "next": {
+    "value": "Swivan",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623423870541,
+        "oldValue": "",
+        "newValue": "Swivan"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Chwazi Nivo",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1625508548534,
+        "oldValue": "",
+        "newValue": "Chwazi Nivo"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Rekòmanse",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623441433659,
+        "oldValue": "",
+        "newValue": "Rekòmanse"
+      }
+    ]
+  },
+  "done": {
+    "value": "Fini",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623423870541,
+        "oldValue": "",
+        "newValue": "Fini"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Ou konplete tout nivo yo!",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623715911103,
+        "oldValue": "",
+        "newValue": "Ou konplete tout nivo yo!"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Nouvo Nivo",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1623619181923,
+        "oldValue": "",
+        "newValue": "Nouvo Nivo"
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "Kontwòl jwèt la",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Kontwòl jwèt la"
+      }
+    ]
+  },
+  "button.start": {
+    "value": "Kòmanse",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Kòmanse"
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "limen",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "limen"
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "etenn",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "etenn"
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "Jwèt la fini",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Jwèt la fini"
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "Nouvo Jwèt",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Nouvo Jwèt"
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "Yon nouvo ki pi bon!",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Yon nouvo ki pi bon!"
+      }
+    ]
+  },
+  "label.best": {
+    "value": "Sa ki bon: {0}",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Sa ki bon: {0}"
+      }
+    ]
+  },
+  "format.time.best": {
+    "value": "{0}({1})",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "{0}({1})"
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "Nivo:",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Nivo:"
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "Skore: {0} sou {1} (Sa a bon nèt!)",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Skore: {0} sou {1} (Sa a bon nèt!)"
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "Ou poko fini ak pati sa a. Èske ou si ke w vle kòmanse yon lòt pati?",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1620933895771,
+        "oldValue": "",
+        "newValue": "Ou poko fini ak pati sa a. Èske ou si ke w vle kòmanse yon lòt pati?"
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Kontinye san kanpe",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1719513538741,
+        "oldValue": "",
+        "newValue": "Kontinye san kanpe"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Nouvo Pi Bon ou an!)",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1719850395316,
+        "oldValue": "",
+        "newValue": "(Nouvo Pi Bon ou an!)"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Mèyè ou an: {0})",
+    "history": [
+      {
+        "userId": 942402,
+        "timestamp": 1719850395316,
+        "oldValue": "",
+        "newValue": "(Mèyè ou an: {0})"
+      }
+    ]
+  }
+}

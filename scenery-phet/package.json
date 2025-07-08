@@ -1,0 +1,46 @@
+{
+  "name": "scenery-phet",
+  "version": "1.0.0-dev.21",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/scenery-phet.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "generatedUnitTests": true,
+    "requirejsNamespace": "SCENERY_PHET",
+    "preload": [
+      "../sherpa/lib/katex-0.11.0-css-all.js",
+      "../sherpa/lib/katex-0.11.0.min.js"
+    ],
+    "phetLibs": [
+      "twixt"
+    ],
+    "runnable": true,
+    "simFeatures": {
+      "supportsSound": true,
+      "supportsInteractiveDescription": true,
+      "supportsDynamicLocale": true
+    },
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet",
+      "phet-io"
+    ],
+    "supportsOutputJS": true,
+    "phet-io": {
+      "validation": false
+    },
+    "screenNameKeys": [
+      "SCENERY_PHET/screen.buttons",
+      "SCENERY_PHET/screen.components",
+      "SCENERY_PHET/screen.dialogs",
+      "SCENERY_PHET/screen.keyboard",
+      "SCENERY_PHET/screen.sliders",
+      "SCENERY_PHET/screen.spinners"
+    ]
+  }
+}

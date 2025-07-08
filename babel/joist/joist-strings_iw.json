@@ -1,0 +1,1338 @@
+{
+  "menuItem.about": {
+    "value": "אודות...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "אודות...",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlightsDescription": {
+    "value": "הוספת הדגשה חזותית עבור העכבר ומגע באינטראקציה.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "הוספת הדגשה חזותית עבור העכבר ועבור מגע באינטראקציה"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906819,
+        "oldValue": "הוספת הדגשה חזותית עבור העכבר ועבור מגע באינטראקציה",
+        "newValue": "הוספת הדגשה חזותית עבור העכבר ומגע באינטראקציה"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643415972669,
+        "oldValue": "הוספת הדגשה חזותית עבור העכבר ומגע באינטראקציה",
+        "newValue": "הוספת הדגשה חזותית עבור העכבר ומגע באינטראקציה."
+      }
+    ]
+  },
+  "preferences.tabs.audio.title": {
+    "value": "שמע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "קול"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "קול",
+        "newValue": "שמע"
+      }
+    ]
+  },
+  "preferences.tabs.audio.audioFeatures.title": {
+    "value": "מאפייני שמע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "מאפייני קול"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "מאפייני קול",
+        "newValue": "מאפייני שמע"
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "חיפוש עדכונים...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "עדכונים",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "עדכונים",
+        "newValue": "חיפוש עדכונים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633791901486,
+        "oldValue": "חיפוש עדכונים",
+        "newValue": "חיפוש עדכונים..."
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "מחפש עדכונים...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "מחפש עדכונים...",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "תורמים: {0}",
+    "history": [
+      {
+        "userId": 318703,
+        "timestamp": 1513717959215,
+        "oldValue": "",
+        "newValue": "תורמים {0}",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "תורמים {0}",
+        "newValue": "תורמים: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "קרדיטים",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "קרדיטים",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.extraSounds.title": {
+    "value": "הגברת קול",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "הגברת קול"
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "מסך מלא",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "מסך מלא",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "לעדכון...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "השג עדכונים...",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "השג עדכונים...",
+        "newValue": "הורדת עדכון...",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643414371492,
+        "oldValue": "הורדת עדכון...",
+        "newValue": "לעדכון..."
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "עיצוב אומנותי: {0}",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112186,
+        "oldValue": "",
+        "newValue": "גרפיקה: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643415972670,
+        "oldValue": "גרפיקה: {0}",
+        "newValue": "עיצוב אומנותי: {0}"
+      }
+    ]
+  },
+  "preferences.tabs.visual.projectorModeDescription": {
+    "value": "הגדלת ניגודיות צבע לשיפור הנראות בכיתה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "הגדלת ניגודיות צבע לשיפור הנראות בכיתה"
+      }
+    ]
+  },
+  "preferences.tabs.input.title": {
+    "value": "קלט",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "",
+        "newValue": "קלט"
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlights": {
+    "value": "דגשים אינטראקטיביים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "דגשים אינטראקטיביים"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.invalidQueryParameters": {
+    "value": "ערכי חיפוש לא חוקיים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "ערכי חיפוש לא חוקיים",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "קיצורי מקשים",
+    "history": [
+      {
+        "userId": 318703,
+        "timestamp": 1513717959215,
+        "oldValue": "",
+        "newValue": "קיצורי מקשים",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "עיצוב ראשי: {0}",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112186,
+        "oldValue": "",
+        "newValue": "עיצוב: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643415972670,
+        "oldValue": "עיצוב: {0}",
+        "newValue": "עיצוב ראשי: {0}"
+      }
+    ]
+  },
+  "preferences.tabs.localization.title": {
+    "value": "התאמה מקומית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "",
+        "newValue": "מקומי"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "מקומי",
+        "newValue": "התאמה מקומית",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "גרסה חדשה זמינה",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112186,
+        "oldValue": "",
+        "newValue": "גרסה חדשה זמינה",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "לא, תודה",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520225,
+        "oldValue": "",
+        "newValue": "לא תודה",
+        "explanation": null
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "לא תודה",
+        "newValue": "לא, תודה",
+        "explanation": null
+      }
+    ]
+  },
+  "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+    "value": "אחד או יותר מערכי החיפוש לא חוקיים:",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "אחד או יותר מערכי החיפוש לא חוקיים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "אחד או יותר מערכי החיפוש לא חוקיים",
+        "newValue": "אחד או יותר מערכי החיפוש לא חוקיים:"
+      }
+    ]
+  },
+  "preferences.tabs.overview.title": {
+    "value": "סקירה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "",
+        "newValue": "סקירה"
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "אתר PhET...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520225,
+        "oldValue": "",
+        "newValue": "אתר PhET",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "אתר PhET",
+        "newValue": "אתר PhET..."
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.extraSounds.description": {
+    "value": "נגן צלילים נוספים על-מנת לסייעו לחלק מהלומדים.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "נגן צלילים נוספים כדי שיסייעו לחלק מהלומדים"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "נגן צלילים נוספים כדי שיסייעו לחלק מהלומדים",
+        "newValue": "נגן צלילים נוספים על-מנת לסייעו לחלק מהלומדים."
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.description": {
+    "value": "השמע התראות קוליות ואפקטים קוליים בעת אינטראקציה.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "השמע התראות קוליות ואפקטים קוליים בעת אינטראקציה"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643415972670,
+        "oldValue": "השמע התראות קוליות ואפקטים קוליים בעת אינטראקציה",
+        "newValue": "השמע התראות קוליות ואפקטים קוליים בעת אינטראקציה."
+      }
+    ]
+  },
+  "preferences.title": {
+    "value": "העדפות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "העדפות"
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "מצב מקרן",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465457133844,
+        "oldValue": "",
+        "newValue": "מצב מקרן",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "אבטחת איכות: {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "אבטחת איכות: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "דווח על בעיה...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520226,
+        "oldValue": "",
+        "newValue": "דווח על בעיה...",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "צילום מסך",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520226,
+        "oldValue": "",
+        "newValue": "צילום מסך",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.simulation.title": {
+    "value": "הדמיה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "",
+        "newValue": "הדמיה"
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "פיתוח תכנה: {0}",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "פיתוח תכנה: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "פיתוח תכנה: {0}",
+        "newValue": "",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "פיתוח תכנה: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "עיצוב צליל: {0}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "עיצוב צליל: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.title": {
+    "value": "צלילים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "צלילים"
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "צוות: {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464765391090,
+        "oldValue": "",
+        "newValue": "צוות: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "תנאים, הגדרות פרטיות ורישיונות",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "תנאים, הגדרות פרטיות ורשיונות",
+        "explanation": null
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1670711136281,
+        "oldValue": "תנאים, הגדרות פרטיות ורשיונות",
+        "newValue": "תנאים, הגדרות פרטיות ורישיונות"
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "תודות",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520226,
+        "oldValue": "",
+        "newValue": "תודה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "תודה",
+        "newValue": "תודות"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.theSimulationWillStart": {
+    "value": "ההדמיה תתחיל עם ערכי ברירת מחדל עבור<br>ערכי החיפוש.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584824363262,
+        "oldValue": "",
+        "newValue": "ההדמיה תתחיל עם ערכי ברירת מחדל עבור<br>ערכי החיפוש",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643413906820,
+        "oldValue": "ההדמיה תתחיל עם ערכי ברירת מחדל עבור<br>ערכי החיפוש",
+        "newValue": "ההדמיה תתחיל עם ערכי ברירת מחדל עבור<br>ערכי החיפוש."
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "קיימת גרסה חדשה זמינה: {0}",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "יש גרסה חדשה זמינה: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "יש גרסה חדשה זמינה: {0}",
+        "newValue": "גרסה חדשה זמינה: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1682449236718,
+        "oldValue": "גרסה חדשה זמינה: {0}",
+        "newValue": "יש גרסה חדשה זמינה: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1701505685592,
+        "oldValue": "יש גרסה חדשה זמינה: {0}",
+        "newValue": "קיימת גרסה חדשה זמינה: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "קרדיטים לצד ג",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "קרדיטים לצד ג",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "ההדמיה מעודכנת.",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "תרגום",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "תרגום",
+        "newValue": "הסימולציה מעודכנת",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633791901487,
+        "oldValue": "הסימולציה מעודכנת",
+        "newValue": "ההדמיה מעודכנת"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1643414371493,
+        "oldValue": "ההדמיה מעודכנת",
+        "newValue": "ההדמיה מעודכנת."
+      }
+    ]
+  },
+  "preferences.tabs.general.moreAccessibility": {
+    "value": "למצוא הדמיות אחרות עם תכונות נגישות, יש להיכנס לעמוד המסננים של ההדמיות באתר PhET ולסנן באמצעות רכיבי נגישות.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "למצוא הדמיות אחרות עם תכונות נגישות, יש להיכנס לעמוד המסננים של ההדמיות באתר PhET ולסנן באמצעות Accessibility feature."
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1651870985259,
+        "oldValue": "למצוא הדמיות אחרות עם תכונות נגישות, יש להיכנס לעמוד המסננים של ההדמיות באתר PhET ולסנן באמצעות Accessibility feature.",
+        "newValue": "למצוא הדמיות אחרות עם תכונות נגישות, יש להיכנס לעמוד המסננים של ההדמיות באתר PhET ולסנן באמצעות רכיבי נגישות."
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "להתחלה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "להתחלה",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "קרדיטי תרגום",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "תרגום על ידי",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "תרגום על ידי",
+        "newValue": "קרדיטי תרגום",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "בדיקת עדכונים נכשלה.",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "בדיקת עדכונים נכשלה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "בדיקת עדכונים נכשלה",
+        "newValue": "בדיקת עדכונים נכשלה."
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "גרסה {0}",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "גרסה {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.visual.title": {
+    "value": "נראות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "חזותי"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "חזותי",
+        "newValue": "נראות"
+      }
+    ]
+  },
+  "preferences.tabs.audio.voicing.description": {
+    "value": "קול והדגשת תוכן בעת אינטראקציה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "",
+        "newValue": "קול והדגשת תוכן בעת אינטראקציה"
+      }
+    ]
+  },
+  "preferences.tabs.audio.voicing.titleEnglishOnly": {
+    "value": "הקראה (אנגלית בלבד)",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "",
+        "newValue": "הקראה (אנגלית בלבד)"
+      }
+    ]
+  },
+  "preferences.tabs.general.accessibilityIntro": {
+    "value": "אנו מוסיפים תכונות לסימולציות שלנו כדי להפוך אותן מותאמות יותר. חלק מהתכונות הללו תומכות בנגישות ללומדים עם צרכים מגוונים ובגוון סביבות. סקרו את התפריט כדי לבדוק או לשנות את הגדרות תצוגת ברירות המחדל.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "אנו מוסיפים תכונות לסימולציות שלנו כדי להפוך אותן למכללות יותר. חלק מהתכונות הללו תומכות בנגישות ללומדים עם צרכים מגוונים ובתוך סביבות מגוונות. חקור את הכרטיסיות בתפריט זה כדי לבדוק או לשנות את הגדרות ברירת המחדל של המצגת."
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1668882634531,
+        "oldValue": "אנו מוסיפים תכונות לסימולציות שלנו כדי להפוך אותן למכללות יותר. חלק מהתכונות הללו תומכות בנגישות ללומדים עם צרכים מגוונים ובתוך סביבות מגוונות. חקור את הכרטיסיות בתפריט זה כדי לבדוק או לשנות את הגדרות ברירת המחדל של המצגת.",
+        "newValue": "אנו מוסיפים תכונות לסימולציות שלנו כדי להפוך אותן מותאמות יותר. חלק מהתכונות הללו תומכות בנגישות ללומדים עם צרכים מגוונים ובגוון סביבות. סקרו את התפריט כדי לבדוק או לשנות את הגדרות תצוגת ברירות המחדל."
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "הגרסה הנוכחית שלך היא: {0}",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "הגרסה הנוכחית שלך היא: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "simTitleWithScreenNamePattern": {
+    "value": "{{simName}} — {{screenName}}",
+    "history": [
+      {
+        "userId": 318703,
+        "timestamp": 1513717959215,
+        "oldValue": "",
+        "newValue": "{{simName}} — {{screenName}}",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.general.title": {
+    "value": "כללי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "",
+        "newValue": "כללי"
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "הגברת צליל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584817185229,
+        "oldValue": "",
+        "newValue": "הגברת צליל",
+        "explanation": null
+      }
+    ]
+  },
+  "ieErrorPage.ieIsNotSupported": {
+    "value": "לא נתמך על ידי אינטרנט אקספלורר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1607208543387,
+        "oldValue": "",
+        "newValue": "לא נתמך ע\"י דפדפן אקספלורר.",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1617972948407,
+        "oldValue": "לא נתמך ע\"י דפדפן אקספלורר.",
+        "newValue": "לא נתמך ע"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1627772750351,
+        "oldValue": "לא נתמך ע",
+        "newValue": "לא נתמך על ידי אינטרנט אקספלורר"
+      }
+    ]
+  },
+  "options.title": {
+    "value": "אפשרויות",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520225,
+        "oldValue": "",
+        "newValue": "אפשרויות",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "אפשרויות...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520225,
+        "oldValue": "",
+        "newValue": "אפשרויות...",
+        "explanation": null
+      }
+    ]
+  },
+  "ieErrorPage.platformError": {
+    "value": "שגיאת פלטפורמה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1627767211102,
+        "oldValue": "",
+        "newValue": "שגיאת פלטפורמה"
+      }
+    ]
+  },
+  "ieErrorPage.useDifferentBrowser": {
+    "value": "בבקשה השתמש בדפדפן אחר להרצת הסימולציה הזאת.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1607208543387,
+        "oldValue": "",
+        "newValue": "בבקשה השתמש בדפדפן אחר להרצת הסימולציה הזאת.",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "תרגום",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "תרגום",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.mailInputEventsLog": {
+    "value": "תיעוד אירועי קלט דואר אלקטרוני",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "תיעוד אירועי קלט דואר אלקטרוני",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.outputInputEventsLog": {
+    "value": "תיעוד אירועי קלט פלט",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "תיעוד אירועי קלט פלט",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.submitInputEventsLog": {
+    "value": "שליחת תיעוד אירועי קלט",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "שלח תיעוד אירועי קלט",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "שלח תיעוד אירועי קלט",
+        "newValue": "שליחת תיעוד אירועי קלט",
+        "explanation": null
+      }
+    ]
+  },
+  "adaptedFrom": {
+    "value": "מבוסס על",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "נלקח מ",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "נלקח מ",
+        "newValue": "מבוסס על",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "סיום",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112186,
+        "oldValue": "",
+        "newValue": "סיים",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "סיים",
+        "newValue": "סיום",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.settings": {
+    "value": "הגדרות...",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "אפשרויות...",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "אפשרויות...",
+        "newValue": "הגדרות...",
+        "explanation": null
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "הצגת סמנים",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "הצג סמנים",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "הצג סמנים",
+        "newValue": "הצגת סמנים",
+        "explanation": null
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "הגדרות",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1443093112187,
+        "oldValue": "",
+        "newValue": "אפשרויות",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465142953211,
+        "oldValue": "אפשרויות",
+        "newValue": "הגדרות",
+        "explanation": null
+      }
+    ]
+  },
+  "titlePattern": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1464764933341,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.title": {
+    "value": "אזור ותרבות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1682449236718,
+        "oldValue": "",
+        "newValue": "אזור ותרבות"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.africa": {
+    "value": "אפריקה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "אפריקה"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.africaModest": {
+    "value": "אפריקה (צנוע)",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "אפריקה (צנוע)"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.asia": {
+    "value": "אסיה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "אסיה"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.latinAmerica": {
+    "value": "אמריקה הלטינית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "אמריקה הלטינית"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.multicultural": {
+    "value": "רב תרבותי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "רב תרבותי"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.oceania": {
+    "value": "אוקינייה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "אוקינייה"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.portrayalSets.unitedStatesOfAmerica": {
+    "value": "ארצות הברית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "ארצות הברית"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.description": {
+    "value": "בחר את התיאור של אנשים, מקומות או חפצים בסים. תמונות אינן מיועדות לייצג את כל המגוון של אזור או תרבות.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1705158045149,
+        "oldValue": "",
+        "newValue": "בחר את התיאור של אנשים, מקומות או חפצים בסים. תמונות אינן מיועדות לייצג את כל המגוון של אזור או תרבות."
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.africa": {
+    "value": "אפריקה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "",
+        "newValue": "אפריקה"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.africaModest": {
+    "value": "אפריקה (מודסט)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "",
+        "newValue": "אפריקה (מודסט)"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.asia": {
+    "value": "אסיה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "",
+        "newValue": "אסיה"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.latinAmerica": {
+    "value": "אמריקה לטינית",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "",
+        "newValue": "אמריקה לטינית"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.oceania": {
+    "value": "אוקיאניה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "",
+        "newValue": "אוקיאניה"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.random": {
+    "value": "אקראי",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "",
+        "newValue": "אקראי"
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.unitedStatesOfAmerica": {
+    "value": "ארצות הברית",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1714811847905,
+        "oldValue": "",
+        "newValue": "ארצות הברית"
+      }
+    ]
+  },
+  "preferences.tabs.localization.languageSelection.title": {
+    "value": "שפות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1722476445463,
+        "oldValue": "",
+        "newValue": "שפות"
+      }
+    ]
+  },
+  "preferences.tabs.localization.languageSelection.description": {
+    "value": "שנה שפה כדי לתרגם טקסט על המסך. תיאורים נוספים, כשיש, יישארו באנגלית.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1722476445463,
+        "oldValue": "",
+        "newValue": "שנה שפה כדי לתרגם טקסט על המסך. תיאורים נוספים, כשיש, יישארו באנגלית."
+      }
+    ]
+  },
+  "HomeButton.name": {
+    "value": "דף הבית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1743766531219,
+        "oldValue": "",
+        "newValue": "דף הבית"
+      }
+    ]
+  },
+  "PhetButton.name": {
+    "value": "כפתור תפריט PhET",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1743766531219,
+        "oldValue": "",
+        "newValue": "כפתור תפריט PhET"
+      }
+    ]
+  },
+  "preferences.tabs.input.gestureControls.title": {
+    "value": "בקרת מחוות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1743767043297,
+        "oldValue": "",
+        "newValue": "בקרת מחוות"
+      }
+    ]
+  },
+  "preferences.tabs.input.gestureControls.description": {
+    "value": "השתמשו במגע עם החלקות מותאמות ונגיעות במקום. אין מגע ישיר עם בקר מחוות.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1743767043297,
+        "oldValue": "",
+        "newValue": "השתמשו במגע עם החלקות מותאמות ונגיעות במקום. אין מגע ישיר עם בקר מחוות."
+      }
+    ]
+  },
+  "preferences.tabs.general.simulationSpecificSettings": {
+    "value": "הגדרות ספציפיות להדמיה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1743767043297,
+        "oldValue": "",
+        "newValue": "הגדרות ספציפיות להדמיה"
+      }
+    ]
+  }
+}

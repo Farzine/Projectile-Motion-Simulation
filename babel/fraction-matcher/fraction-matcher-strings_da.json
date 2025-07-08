@@ -1,0 +1,200 @@
+{
+  "check": {
+    "value": "Tjek",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079310,
+        "oldValue": "",
+        "newValue": "Tjek",
+        "explanation": null
+      }
+    ]
+  },
+  "ok": {
+    "value": "Ok ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079310,
+        "oldValue": "",
+        "newValue": "Ok ",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Prøv igen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Prøv igen",
+        "explanation": null
+      }
+    ]
+  },
+  "levelNumber": {
+    "value": "Niveau {0}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Niveau {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "scoreNumber": {
+    "value": "Score: {0}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Score: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "timeNumberSec": {
+    "value": "Tid: {0} sekunder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Tid: {0} sekunder",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Vis svar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Vis svar",
+        "explanation": null
+      }
+    ]
+  },
+  "myMatches": {
+    "value": "Mine parrede",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Mine matches",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1458621255984,
+        "oldValue": "Mine matches",
+        "newValue": "Mine parrede",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumbersChooseYourLevel": {
+    "value": "Blandede tal: Vælg dit niveau!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Blandede tal: Vælg dit niveau!",
+        "explanation": null
+      }
+    ]
+  },
+  "fractionsChooseYourLevel": {
+    "value": "Brøker: Vælg dit niveau!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Brøker: vælg dit niveau!",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1458621255984,
+        "oldValue": "Brøker: vælg dit niveau!",
+        "newValue": "Brøker: Vælg dit niveau!",
+        "explanation": null
+      }
+    ]
+  },
+  "fractionsTitle": {
+    "value": "Brøker",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Brøker",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumbersTitle": {
+    "value": "Blandede tal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Blandede tal",
+        "explanation": null
+      }
+    ]
+  },
+  "fraction-matcher.title": {
+    "value": "Brøk-matcher",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1458620079311,
+        "oldValue": "",
+        "newValue": "Brøk-sammenligner",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1458621255985,
+        "oldValue": "Brøk-sammenligner",
+        "newValue": "Brøk-parrer",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1458879081872,
+        "oldValue": "Brøk-parrer",
+        "newValue": "Brøker",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1548818771456,
+        "oldValue": "Brøker",
+        "newValue": "Brøker-matcher",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1549041266054,
+        "oldValue": "Brøker-matcher",
+        "newValue": "Brøk-matcher",
+        "explanation": null
+      }
+    ]
+  }
+}

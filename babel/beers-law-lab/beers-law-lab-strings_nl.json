@@ -1,0 +1,630 @@
+{
+  "drinkMix": {
+    "value": "Drankje",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Limonade",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Limonade",
+        "newValue": "Drankje",
+        "explanation": null
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "mM",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "mM",
+        "explanation": null
+      }
+    ]
+  },
+  "units.uM": {
+    "value": "µM",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "µM",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "water",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "water",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltChloride": {
+    "value": "Kobaltchloride",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Kobalt chloride",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Kobalt chloride",
+        "newValue": "Kobaltchloride",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltIINitrate": {
+    "value": "Kobalt(II)nitraat",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Kobalt (II) nitraat",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Kobalt (II) nitraat",
+        "newValue": "Kobalt(II)nitraat",
+        "explanation": null
+      }
+    ]
+  },
+  "copperSulfate": {
+    "value": "Kopersulfaat",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Koper sulfaat",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Koper sulfaat",
+        "newValue": "Kopersulfaat",
+        "explanation": null
+      }
+    ]
+  },
+  "nickelIIChloride": {
+    "value": "Nikkel(II)chloride",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Nikkel (II) chloride",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Nikkel (II) chloride",
+        "newValue": "Nikkel(II)chloride",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0formula.1name": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChromate": {
+    "value": "Kaliumchromaat",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Kalium chromaat",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Kalium chromaat",
+        "newValue": "Kaliumchromaat",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumDichromate": {
+    "value": "Kaliumdichromaat",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Kalium dichromaat",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Kalium dichromaat",
+        "newValue": "Kaliumdichromaat",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumPermanganate": {
+    "value": "Kaliumpermanganaat",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Kalium permanganaat",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Kalium permanganaat",
+        "newValue": "Kaliumpermanganaat",
+        "explanation": null
+      }
+    ]
+  },
+  "absorbance": {
+    "value": "Extinctie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Absorptie",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1577785266533,
+        "oldValue": "Absorptie",
+        "newValue": "Extinctie",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0percent": {
+    "value": "{0}%",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "{0}%",
+        "explanation": null
+      }
+    ]
+  },
+  "transmittance": {
+    "value": "Transmissie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Transmissie",
+        "explanation": null
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Concentratie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Concentratie",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}:",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "{0}:",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "Oplossing",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Oplossing",
+        "explanation": null
+      }
+    ]
+  },
+  "preset": {
+    "value": "vast",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "vast",
+        "explanation": null
+      }
+    ]
+  },
+  "units.nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "variabel",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "variabele",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1458289689219,
+        "oldValue": "variabele",
+        "newValue": "variabel",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Golflengte",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Golflengte",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.beersLaw": {
+    "value": "Wet van Beer",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Wet van Beer",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumChloride": {
+    "value": "Natriumchloride",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1483478696364,
+        "oldValue": "",
+        "newValue": "Natriumchloride",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "l",
+        "explanation": null
+      }
+    ]
+  },
+  "units.milliliters": {
+    "value": "ml",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1483478696364,
+        "oldValue": "",
+        "newValue": "ml",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/l",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "mol/l",
+        "explanation": null
+      }
+    ]
+  },
+  "evaporation": {
+    "value": "Verdamping",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Verdamping",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "veel",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "veel",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "geen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "geen",
+        "explanation": null
+      }
+    ]
+  },
+  "removeSolute": {
+    "value": "Verwijder opgeloste stof",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Begin opnieuw",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Begin opnieuw",
+        "newValue": "Verwijder de opgeloste stof",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1458288648583,
+        "oldValue": "Verwijder de opgeloste stof",
+        "newValue": "Verwijder opgeloste stof",
+        "explanation": null
+      }
+    ]
+  },
+  "saturated": {
+    "value": "Verzadigd!",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Verzadigd!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0soluteAmount": {
+    "value": "Massa opgeloste stof: {0} g",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1483478696364,
+        "oldValue": "",
+        "newValue": "Massa opgeloste stof: {0} g",
+        "explanation": null
+      }
+    ]
+  },
+  "solute": {
+    "value": "Opgeloste stof",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Stof",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457520144875,
+        "oldValue": "Stof",
+        "newValue": "Opgeloste stof",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "Vast",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Vast",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.concentration": {
+    "value": "Concentratie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Concentratie",
+        "explanation": null
+      }
+    ]
+  },
+  "beers-law-lab.title": {
+    "value": "Wet van Beer lab",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "Wet van Beer",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1509529973014,
+        "oldValue": "Wet van Beer",
+        "newValue": "Lab Wet van Beer",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064518852,
+        "oldValue": "Lab Wet van Beer",
+        "newValue": "Wet van Beer Lab",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1534361742162,
+        "oldValue": "Wet van Beer Lab",
+        "newValue": "Wet van Beer lab",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration.name": {
+    "value": "Concentratie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088848,
+        "oldValue": "",
+        "newValue": "Concentratie",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.parentheses.0text": {
+    "value": "({0})",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088847,
+        "oldValue": "",
+        "newValue": "({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": "www.4Beta.nl - Jan Willem Eckhardt",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088848,
+        "oldValue": "",
+        "newValue": "www.4Beta.nl - Jan Willem Eckhardt",
+        "explanation": null
+      }
+    ]
+  },
+  "units.M": {
+    "value": "M",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457179088848,
+        "oldValue": "",
+        "newValue": "M",
+        "explanation": null
+      }
+    ]
+  }
+}

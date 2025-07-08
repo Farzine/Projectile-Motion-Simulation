@@ -1,0 +1,796 @@
+{
+  "cannonball": {
+    "value": "Bọ́ọ̀lù Cannon",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Bọ́ọ̀lù Cannon"
+      }
+    ]
+  },
+  "pumpkin": {
+    "value": "Pumpkin",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Elégédé"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Elégédé",
+        "newValue": "Pumpkin"
+      }
+    ]
+  },
+  "baseball": {
+    "value": "Bọọlu afi kondo gba",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Bọọlu afigigba"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Bọọlu afigigba",
+        "newValue": "Baseball"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Baseball",
+        "newValue": "Bọọlu afi kondo gba"
+      }
+    ]
+  },
+  "car": {
+    "value": "ọkọ ayọkẹlẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "ọkọ ayọkẹlẹ"
+      }
+    ]
+  },
+  "football": {
+    "value": "Bọ́ọ̀lù àfẹsẹ̀gbá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Bọ́ọ̀lù àfẹsẹ̀gbá"
+      }
+    ]
+  },
+  "human": {
+    "value": "Eèyàn",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Eèyàn"
+      }
+    ]
+  },
+  "piano": {
+    "value": "Piano",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Piano"
+      }
+    ]
+  },
+  "golfBall": {
+    "value": "Bọ́ọ̀lù Golfu",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Bọ́ọ̀lù golf"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Bọ́ọ̀lù golf",
+        "newValue": "Bọ́ọ̀lù Golfu"
+      }
+    ]
+  },
+  "tankShell": {
+    "value": "Eèpo ìkòkò",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Tank shell"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Tank shell",
+        "newValue": "Eèpo ìkòkò"
+      }
+    ]
+  },
+  "custom": {
+    "value": "Asà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Asà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Asà",
+        "newValue": "Custom"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Custom",
+        "newValue": "Asà"
+      }
+    ]
+  },
+  "pattern0Value1UnitsWithSpace": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Àkójọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Àkójọ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Àkójọ",
+        "newValue": "Mass"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Mass",
+        "newValue": "Àkójọ"
+      }
+    ]
+  },
+  "kg": {
+    "value": "kg",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "kg"
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Idábùú òbírí",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Diameter"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Diameter",
+        "newValue": "Idábùú òbírí"
+      }
+    ]
+  },
+  "m": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "dragCoefficient": {
+    "value": "Olùsọdipúpọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Drag Coefficient"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Drag Coefficient",
+        "newValue": "Olùsọdipúpọ̀"
+      }
+    ]
+  },
+  "airResistance": {
+    "value": "Atako afẹ́fẹ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Air Resistance"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Air Resistance",
+        "newValue": "Atako afẹ́fẹ́ "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "Atako afẹ́fẹ́ ",
+        "newValue": "Atako afẹ́fẹ́"
+      }
+    ]
+  },
+  "velocityVectors": {
+    "value": "Iyára fẹ́ktọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Awọn iyara Vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Awọn iyara Vector",
+        "newValue": "Awọn Velocity Vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Awọn Velocity Vector",
+        "newValue": "Iyára Vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "Iyára Vector",
+        "newValue": "Iyára fẹ́ktọ"
+      }
+    ]
+  },
+  "accelerationVectors": {
+    "value": "Ayára fẹ́ktọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Ìyára awon vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Ìyára awon vector",
+        "newValue": "Awon acceleration vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Awon acceleration vector",
+        "newValue": "Ayára Vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "Ayára Vector",
+        "newValue": "Ayára fẹ́ktọ"
+      }
+    ]
+  },
+  "total": {
+    "value": "Lapapọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Lapapọ"
+      }
+    ]
+  },
+  "components": {
+    "value": "Ẹyà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Awon ẹ̀yà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Awon ẹ̀yà",
+        "newValue": "Awon component"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Awon component",
+        "newValue": "ẹ̀yà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "ẹ̀yà",
+        "newValue": "Ẹyà"
+      }
+    ]
+  },
+  "pattern0Value1Units": {
+    "value": "{{value}}{{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "{{value}}{{units}}"
+      }
+    ]
+  },
+  "degreesSymbol": {
+    "value": "˚",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "˚"
+      }
+    ]
+  },
+  "time": {
+    "value": "Wákàtí",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "wákàtí"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "wákàtí",
+        "newValue": "Wákàtí"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "range": {
+    "value": "Gígùn ìnà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "gígùn ìnà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "gígùn ìnà",
+        "newValue": "Range"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Range",
+        "newValue": "Gígùn ìnà"
+      }
+    ]
+  },
+  "height": {
+    "value": "Gíga",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "gíga"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "gíga",
+        "newValue": "Gíga"
+      }
+    ]
+  },
+  "initialSpeed": {
+    "value": "Iyára ibẹ̀rẹ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Iyara Ibẹrẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Iyara Ibẹrẹ",
+        "newValue": "Initial Speed"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Initial Speed",
+        "newValue": "Iyára ibẹ̀rẹ̀"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "meters": {
+    "value": "Mítà ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Awon Mítà "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Awon Mítà ",
+        "newValue": "Mítà "
+      }
+    ]
+  },
+  "normal": {
+    "value": "Deede",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Deede"
+      }
+    ]
+  },
+  "slow": {
+    "value": "O lọra",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "O lọra"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Káábọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Ọ̀rọ̀ Ìṣáájú "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Ọ̀rọ̀ Ìṣáájú ",
+        "newValue": "Káábọ̀"
+      }
+    ]
+  },
+  "forceVectors": {
+    "value": "Ipà vector",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": " Awon Ipá vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": " Awon Ipá vector",
+        "newValue": " Awon force vector"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": " Awon force vector",
+        "newValue": "Ipà vector"
+      }
+    ]
+  },
+  "altitude": {
+    "value": "Gíga",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "gíga"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "gíga",
+        "newValue": "Gíga"
+      }
+    ]
+  },
+  "screen.drag": {
+    "value": "Wọ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Wọ́"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Wọ́",
+        "newValue": "Drag"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "Drag",
+        "newValue": "Wọ́"
+      }
+    ]
+  },
+  "metersPerSecondSquared": {
+    "value": "m/s²",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "m/s²"
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Oòfà ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "òòfà "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "òòfà ",
+        "newValue": "Gravity"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Gravity",
+        "newValue": "Oòfà "
+      }
+    ]
+  },
+  "initialValues": {
+    "value": "Idiyele ibẹ̀rẹ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Awọn idiyele akọkọ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Awọn idiyele akọkọ",
+        "newValue": "Awọn initial value"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Awọn initial value",
+        "newValue": "Idiyele ibẹ̀rẹ̀"
+      }
+    ]
+  },
+  "angle": {
+    "value": "Igun",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "igun"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "igun",
+        "newValue": "Igun"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Iyára ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Iyara"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Iyara",
+        "newValue": "Iyára "
+      }
+    ]
+  },
+  "enter": {
+    "value": "Sàtẹ̀wọlé",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "ṣàtẹ̀wọlé"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "ṣàtẹ̀wọlé",
+        "newValue": "Sàtẹ̀wọlé"
+      }
+    ]
+  },
+  "rangeMessage": {
+    "value": "{{min}} to {{max}} {{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "{{min}} to {{max}} {{units}}"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Láábu",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Yara àyẹ̀wò"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Yara àyẹ̀wò",
+        "newValue": "Láábu"
+      }
+    ]
+  },
+  "screen.vectors": {
+    "value": "Fẹ́ktọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Vectors"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Vectors",
+        "newValue": "Awon Vectors"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637334452117,
+        "oldValue": "Awon Vectors",
+        "newValue": "Vectors"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "Vectors",
+        "newValue": "Fẹ́ktọ"
+      }
+    ]
+  },
+  "projectile-motion.title": {
+    "value": "ìsún Projẹ̀ktài",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629842089183,
+        "oldValue": "",
+        "newValue": "Išipopada Projectile"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188684259,
+        "oldValue": "Išipopada Projectile",
+        "newValue": "ìsún Projectile"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638275840228,
+        "oldValue": "ìsún Projectile",
+        "newValue": "ìsún Projẹ̀ktài"
+      }
+    ]
+  }
+}

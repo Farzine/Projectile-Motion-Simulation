@@ -1,0 +1,122 @@
+{
+  "chooseYourLevel": {
+    "value": "¡Escoge tu nivel!",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1549036074124,
+        "oldValue": "",
+        "newValue": "¡Escoge tu nivel!",
+        "explanation": null
+      }
+    ]
+  },
+  "equation": {
+    "value": "Ecuación",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1549036641891,
+        "oldValue": "",
+        "newValue": "Ecuación",
+        "explanation": null
+      }
+    ]
+  },
+  "levelTitlePattern": {
+    "value": "Nivel {{number}}",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1549036074124,
+        "oldValue": "",
+        "newValue": "Nivel {{number}}",
+        "explanation": null
+      }
+    ]
+  },
+  "representationMax": {
+    "value": "más",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1549036641891,
+        "oldValue": "",
+        "newValue": "más",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumber": {
+    "value": "Número Mixto",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1549036641891,
+        "oldValue": "",
+        "newValue": "Número Mixto",
+        "explanation": null
+      }
+    ]
+  },
+  "myMatches": {
+    "value": "Mis emparejadas",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1458928689913,
+        "oldValue": "",
+        "newValue": "Mis emparejadas",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "ok": {
+    "value": "Ok",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1458928689913,
+        "oldValue": "",
+        "newValue": "Ok",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "timeNumberSec": {
+    "value": "Tiempo: {0} seg",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1458928689913,
+        "oldValue": "",
+        "newValue": "Tiempo: {0} seg",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "mixedNumbersChooseYourLevel": {
+    "value": "Números Mixtos: ¡Escoge tu nivel!",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1458928689913,
+        "oldValue": "",
+        "newValue": "Números Mixtos: ¡Escoge tu nivel!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "fractionsChooseYourLevel": {
+    "value": "Fracciones: ¡Escoge tu nivel!",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1458928689913,
+        "oldValue": "",
+        "newValue": "Fracciones: ¡Escoge tu nivel!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  }
+}

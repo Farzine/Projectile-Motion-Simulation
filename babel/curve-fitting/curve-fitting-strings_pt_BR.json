@@ -1,0 +1,314 @@
+{
+  "cubic": {
+    "value": "Cúbica",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871620,
+        "oldValue": "",
+        "newValue": "Cúbica",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "Linear",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871620,
+        "oldValue": "",
+        "newValue": "Linear",
+        "explanation": null
+      }
+    ]
+  },
+  "quadratic": {
+    "value": "Quadrática",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871620,
+        "oldValue": "",
+        "newValue": "Quadrática",
+        "explanation": null
+      }
+    ]
+  },
+  "adjustableFit": {
+    "value": "Ajustável",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871620,
+        "oldValue": "",
+        "newValue": "Ajustável",
+        "explanation": null
+      }
+    ]
+  },
+  "bestFit": {
+    "value": "Melhor ajuste",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871620,
+        "oldValue": "",
+        "newValue": "Melhor ajuste",
+        "explanation": null
+      }
+    ]
+  },
+  "curve": {
+    "value": "Curva",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871620,
+        "oldValue": "",
+        "newValue": "Curva",
+        "explanation": null
+      }
+    ]
+  },
+  "residuals": {
+    "value": "Resíduos",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871621,
+        "oldValue": "",
+        "newValue": "Resíduos",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Valores",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871621,
+        "oldValue": "",
+        "newValue": "Valores",
+        "explanation": null
+      }
+    ]
+  },
+  "fEqualsNumberOfParametersPattern": {
+    "value": "{{fSymbol}} = número de parâmetros no ajuste (p.ex. {{fSymbol}} = 4, para um ajuste cúbico)",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1576254487034,
+        "oldValue": "",
+        "newValue": "{{fSymbol}} = número de parâmetros no ajuste (p.ex. {{fSymbol}} = 4, para um ajuste cúbico)",
+        "explanation": null
+      }
+    ]
+  },
+  "nEqualsNumberOfDataPointsPattern": {
+    "value": "{{nSymbol}} = número de pontos dos dados",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1576254487034,
+        "oldValue": "",
+        "newValue": "{{nSymbol}} = número de pontos dos dados",
+        "explanation": null
+      }
+    ]
+  },
+  "theReducedChiSquaredStatisticIs": {
+    "value": "A estatística qui-quadrado reduzida é:",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871621,
+        "oldValue": "",
+        "newValue": "A estatística qui-quadrado reduzida é:",
+        "explanation": null
+      }
+    ]
+  },
+  "deviations": {
+    "value": "Desvios",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871621,
+        "oldValue": "",
+        "newValue": "Desvios",
+        "explanation": null
+      }
+    ]
+  },
+  "equation": {
+    "value": "Equação",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871621,
+        "oldValue": "",
+        "newValue": "Equação",
+        "explanation": null
+      }
+    ]
+  },
+  "undefined": {
+    "value": "indefinida",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871621,
+        "oldValue": "",
+        "newValue": "indefinida",
+        "explanation": null
+      }
+    ]
+  },
+  "curve-fitting.title": {
+    "value": "Ajuste de Curva",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1573226871621,
+        "oldValue": "",
+        "newValue": "Ajuste de Curva",
+        "explanation": null
+      }
+    ]
+  },
+  "pointCoordinatesPattern": {
+    "value": "({{xCoordinate}}, {{yCoordinate}})",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "({{xCoordinate}}, {{yCoordinate}})"
+      }
+    ]
+  },
+  "deltaEqualsPattern": {
+    "value": "Δ<sub>{{y}}</sub> = {{deltaValue}}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "Δ<sub>{{y}}</sub> = {{deltaValue}}"
+      }
+    ]
+  },
+  "ySymbol": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "aSymbol": {
+    "value": "a",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "a"
+      }
+    ]
+  },
+  "bSymbol": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "b"
+      }
+    ]
+  },
+  "cSymbol": {
+    "value": "c",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "c"
+      }
+    ]
+  },
+  "dSymbol": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "xSymbol": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "chiSymbol": {
+    "value": "X",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "X"
+      }
+    ]
+  },
+  "fSymbol": {
+    "value": "f",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "f"
+      }
+    ]
+  },
+  "nSymbol": {
+    "value": "N",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "N"
+      }
+    ]
+  },
+  "rSymbol": {
+    "value": "r",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1679586435233,
+        "oldValue": "",
+        "newValue": "r"
+      }
+    ]
+  }
+}

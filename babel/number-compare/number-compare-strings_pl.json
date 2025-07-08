@@ -1,0 +1,86 @@
+{
+  "screen.compare": {
+    "value": "Porównaj",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Porównaj"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} jest mniejsze niż {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} jest mniejsze niż {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} jest większe niż {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} jest większe niż {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} jest równe {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} jest równe {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Porównywanie liczb",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681816729219,
+        "oldValue": "",
+        "newValue": "Porównywanie liczb"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Automatycznie odsłuchaj nazwę liczby",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681816729219,
+        "oldValue": "",
+        "newValue": "Automatycznie odsłuchaj nazwę liczby"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Odsłuchaj automatycznie aktualizowaną  podczas interakcji nazwę liczby.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681816729219,
+        "oldValue": "",
+        "newValue": "Usłysz, nazwę liczby aktualizowaną automatycznie podczas interakcji."
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1681817675676,
+        "oldValue": "Usłysz, nazwę liczby aktualizowaną automatycznie podczas interakcji.",
+        "newValue": "Odsłuchaj automatycznie aktualizowaną  podczas interakcji nazwę liczby.",
+        "explanation": null
+      }
+    ]
+  }
+}

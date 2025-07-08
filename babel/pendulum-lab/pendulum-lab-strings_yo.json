@@ -1,0 +1,614 @@
+{
+  "custom": {
+    "value": "Asà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Asà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Asà",
+        "newValue": "Custom"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638274250662,
+        "oldValue": "Custom",
+        "newValue": "Asà"
+      }
+    ]
+  },
+  "earth": {
+    "value": "Aye",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Ayé "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Ayé ",
+        "newValue": "Earth"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Earth",
+        "newValue": "Aye"
+      }
+    ]
+  },
+  "jupiter": {
+    "value": "Júpítérì",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Júpítérì"
+      }
+    ]
+  },
+  "moon": {
+    "value": "Òsùpá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Òsùpá"
+      }
+    ]
+  },
+  "planetX": {
+    "value": "Plánẹ̀tì X",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": " Plánẹ̀tì X"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638274250662,
+        "oldValue": " Plánẹ̀tì X",
+        "newValue": "Plánẹ̀tì X"
+      }
+    ]
+  },
+  "legend.kineticEnergyAbbreviation": {
+    "value": "KE",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "KE"
+      }
+    ]
+  },
+  "legend.potentialEnergyAbbreviation": {
+    "value": "PE",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "PE"
+      }
+    ]
+  },
+  "legend.thermalEnergyAbbreviation": {
+    "value": "E<sub>therm</sub>",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "E<sub>therm</sub>"
+      }
+    ]
+  },
+  "legend.totalEnergyAbbreviation": {
+    "value": "E<sub>total</sub>",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "E<sub>total</sub>"
+      }
+    ]
+  },
+  "energyLegend": {
+    "value": "Agbara lẹ́jẹ̀ndì",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Agbara lẹ́jẹ̀ndì"
+      }
+    ]
+  },
+  "legend.kineticEnergy": {
+    "value": "Agbara kainetik",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Agbara kainetik"
+      }
+    ]
+  },
+  "legend.potentialEnergy": {
+    "value": "Agabra Potensia",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Agabra Potensia"
+      }
+    ]
+  },
+  "legend.thermalEnergy": {
+    "value": "Agabra igbona",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Agabra Thermal"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638274250662,
+        "oldValue": "Agabra Thermal",
+        "newValue": "Agabra igbona"
+      }
+    ]
+  },
+  "legend.totalEnergy": {
+    "value": "Agbara lapapo",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Agbara lapapo"
+      }
+    ]
+  },
+  "energyGraph": {
+    "value": "Agbara Atẹ ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Agbara àtẹ "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Agbara àtẹ ",
+        "newValue": "Graph Agbara "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Graph Agbara ",
+        "newValue": "Agbara Atẹ "
+      }
+    ]
+  },
+  "pendulumMassPattern": {
+    "value": "Àkójọ {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Mass {{pendulumNumber}}"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Mass {{pendulumNumber}}",
+        "newValue": "Àkójọ {{pendulumNumber}}"
+      }
+    ]
+  },
+  "friction": {
+    "value": "Friksan",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Friction"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638274250662,
+        "oldValue": "Friction",
+        "newValue": "Friksan"
+      }
+    ]
+  },
+  "lots": {
+    "value": "Ọpọlọpọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Ọpọlọpọ"
+      }
+    ]
+  },
+  "none": {
+    "value": "ko si",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "ko si"
+      }
+    ]
+  },
+  "gravitationalAccelerationPattern": {
+    "value": "{{gravity}} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "{{gravity}} m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "whatIsTheValueOfGravity": {
+    "value": "Kini value gravity?",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Kini idiyele ti òòfà?"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Kini idiyele ti òòfà?",
+        "newValue": "Kini value gravity?"
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Oòfà ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "òòfà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "òòfà",
+        "newValue": "Gravity"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Gravity",
+        "newValue": "Oòfà "
+      }
+    ]
+  },
+  "length": {
+    "value": "Gígùn {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "gígùn  {{pendulumNumber}}"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "gígùn  {{pendulumNumber}}",
+        "newValue": "Gígùn  {{pendulumNumber}}"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638274250662,
+        "oldValue": "Gígùn  {{pendulumNumber}}",
+        "newValue": "Gígùn {{pendulumNumber}}"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Àkójọ {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Mass {{pendulumNumber}}"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Mass {{pendulumNumber}}",
+        "newValue": "Àkójọ  {{pendulumNumber}}"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638274250662,
+        "oldValue": "Àkójọ  {{pendulumNumber}}",
+        "newValue": "Àkójọ {{pendulumNumber}}"
+      }
+    ]
+  },
+  "metersPattern": {
+    "value": "{{meters}} m",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "{{meters}} m"
+      }
+    ]
+  },
+  "kilogramsPattern": {
+    "value": "{{kilograms}} kg",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "{{kilograms}} kg"
+      }
+    ]
+  },
+  "rulerUnits": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "normal": {
+    "value": "Deede",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Deede"
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "O lọra",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "O lọra"
+      }
+    ]
+  },
+  "degreesPattern": {
+    "value": "{{degrees}}°",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "{{degrees}}°"
+      }
+    ]
+  },
+  "ruler": {
+    "value": "ìfàlà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Ruler"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Ruler",
+        "newValue": "ìfàlà"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Aago iṣeju aaya",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Aago iṣeju aaya"
+      }
+    ]
+  },
+  "periodTimer": {
+    "value": "Aago akoko",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Aago akoko"
+      }
+    ]
+  },
+  "periodTrace": {
+    "value": "Akoko ati wa kakiri ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Akoko ati wa kakiri "
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Agbara",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Agbara"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Káábọ̀ ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Ọ̀rọ̀ Ìṣáájú"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Ọ̀rọ̀ Ìṣáájú",
+        "newValue": "Káábọ̀ "
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Ìyára",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Ìyára"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Ìyára",
+        "newValue": "Acceleration"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Acceleration",
+        "newValue": "Ìyára"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Ìyára",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Ìyára"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Ìyára",
+        "newValue": "Velocity"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637332563843,
+        "oldValue": "Velocity",
+        "newValue": "Ìyára"
+      }
+    ]
+  },
+  "secondsPattern": {
+    "value": "{{seconds}} s",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "{{seconds}} s"
+      }
+    ]
+  },
+  "period": {
+    "value": "Akoko",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Akoko"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": " Lààbu",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Yara àyẹ̀wò"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Yara àyẹ̀wò",
+        "newValue": " Lààbu"
+      }
+    ]
+  },
+  "pendulum-lab.title": {
+    "value": " Lààbu pendulum",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629846479556,
+        "oldValue": "",
+        "newValue": "Yara àyẹ̀wò pendulum"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260983754,
+        "oldValue": "Yara àyẹ̀wò pendulum",
+        "newValue": " Lààbu pendulum"
+      }
+    ]
+  }
+}

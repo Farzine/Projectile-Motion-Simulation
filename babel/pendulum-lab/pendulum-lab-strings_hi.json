@@ -1,0 +1,590 @@
+{
+  "custom": {
+    "value": "ऐच्छिक ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "अनुकूलित ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "अनुकूलित ",
+        "newValue": "ऐच्छिक "
+      }
+    ]
+  },
+  "earth": {
+    "value": "पृथ्वी ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "पृथ्वी ",
+        "explanation": null
+      }
+    ]
+  },
+  "jupiter": {
+    "value": "बृहस्पति ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "गुरु ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "गुरु ",
+        "newValue": "बृहस्पति "
+      }
+    ]
+  },
+  "moon": {
+    "value": "चन्द्रमा ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "चन्द्रमा ",
+        "explanation": null
+      }
+    ]
+  },
+  "planetX": {
+    "value": "ग्रह X",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "गृह X",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "गृह X",
+        "newValue": "ग्रह X"
+      }
+    ]
+  },
+  "legend.kineticEnergyAbbreviation": {
+    "value": "KE",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "KE",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.potentialEnergyAbbreviation": {
+    "value": "PE",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "PE",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.thermalEnergyAbbreviation": {
+    "value": "E<sub>therm</sub>",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "E<sub>therm</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.totalEnergyAbbreviation": {
+    "value": "E<sub>total</sub>",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "E<sub>total</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "energyLegend": {
+    "value": "ऊर्जा आलेख  ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "ऊर्जा लेख ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "ऊर्जा लेख ",
+        "newValue": "ऊर्जा आलेख  "
+      }
+    ]
+  },
+  "legend.kineticEnergy": {
+    "value": "गतिज ऊर्जा ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "गतिज ऊर्जा ",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.potentialEnergy": {
+    "value": "स्तिथिज ऊर्जा ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "स्तिथिज ऊर्जा ",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.thermalEnergy": {
+    "value": "उष्मीय ऊर्जा ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "उष्मीय ऊर्जा ",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.totalEnergy": {
+    "value": "कुल ऊर्जा ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "कुल ऊर्जा ",
+        "explanation": null
+      }
+    ]
+  },
+  "energyGraph": {
+    "value": "ऊर्जा ग्राफ ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "ऊर्जा आलेख ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "ऊर्जा आलेख ",
+        "newValue": "ऊर्जा ग्राफ "
+      }
+    ]
+  },
+  "pendulumMassPattern": {
+    "value": "द्रव्यमान  {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "Mass {{pendulumNumber}}",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "Mass {{pendulumNumber}}",
+        "newValue": "द्रव्यमान  {{pendulumNumber}}"
+      }
+    ]
+  },
+  "friction": {
+    "value": "घर्षण ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "घर्षण ",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "बहुत ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "बहुत ",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "बिल्कुल नहीं",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "नहीं",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "नहीं",
+        "newValue": "बिल्कुल नहीं"
+      }
+    ]
+  },
+  "gravitationalAccelerationPattern": {
+    "value": "{{gravity}} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "{{gravity}} m/s<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "whatIsTheValueOfGravity": {
+    "value": "गुरुत्व का मान क्या है ?",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "गुरुत्व का मान क्या है ?",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity": {
+    "value": "गुरुत्व ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "गुरुत्व ",
+        "explanation": null
+      }
+    ]
+  },
+  "length": {
+    "value": "लंबाई  {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "Length {{pendulumNumber}}",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "Length {{pendulumNumber}}",
+        "newValue": "लंबाई  {{pendulumNumber}}"
+      }
+    ]
+  },
+  "mass": {
+    "value": "द्रव्यमान  {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "Mass {{pendulumNumber}}",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "Mass {{pendulumNumber}}",
+        "newValue": "द्रव्यमान  {{pendulumNumber}}"
+      }
+    ]
+  },
+  "metersPattern": {
+    "value": "{{meters}} m",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "{{meters}} m",
+        "explanation": null
+      }
+    ]
+  },
+  "kilogramsPattern": {
+    "value": "{{kilograms}} kg",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "{{kilograms}} kg",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerUnits": {
+    "value": "cm ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "सेमी ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "सेमी ",
+        "newValue": "cm "
+      }
+    ]
+  },
+  "normal": {
+    "value": "साधारण ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "साधारण ",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "धीमा ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "धीमा ",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesPattern": {
+    "value": "{{degrees}}°",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "{{degrees}}°",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "माप पट्टी ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "माप पट्टी ",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "घड़ी  ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "घडी ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "घडी ",
+        "newValue": "घड़ी  "
+      }
+    ]
+  },
+  "periodTimer": {
+    "value": "आवर्तकाल मापी ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "आवर्तकाल ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "आवर्तकाल ",
+        "newValue": "आवर्तकाल मापी "
+      }
+    ]
+  },
+  "periodTrace": {
+    "value": "आवर्त अनुरेख ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "आवर्त अनुरेखन ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "आवर्त अनुरेखन ",
+        "newValue": "आवर्त अनुरेख "
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "ऊर्जा",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "ऊर्जा",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "प्रस्तावना ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "प्रस्तावना ",
+        "explanation": null
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "त्वरण ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "त्वरण ",
+        "explanation": null
+      }
+    ]
+  },
+  "velocity": {
+    "value": "वेग ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "वेग ",
+        "explanation": null
+      }
+    ]
+  },
+  "secondsPattern": {
+    "value": "{{seconds}} s",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "{{seconds}} s",
+        "explanation": null
+      }
+    ]
+  },
+  "period": {
+    "value": "आवर्त काल ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "आवर्त ",
+        "explanation": null
+      },
+      {
+        "userId": 1093385,
+        "timestamp": 1664555089719,
+        "oldValue": "आवर्त ",
+        "newValue": "आवर्त काल "
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "प्रयोगशाला ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "प्रयोगशाला ",
+        "explanation": null
+      }
+    ]
+  },
+  "pendulum-lab.title": {
+    "value": "लोलक प्रयोगशाला ",
+    "history": [
+      {
+        "userId": 339847,
+        "timestamp": 1518502224025,
+        "oldValue": "",
+        "newValue": "लोलक प्रयोगशाला ",
+        "explanation": null
+      }
+    ]
+  }
+}

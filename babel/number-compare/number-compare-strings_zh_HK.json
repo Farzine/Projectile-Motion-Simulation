@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "比較",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1664335399072,
+        "oldValue": "",
+        "newValue": "比較"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} 小於 {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1664335399072,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} 小於 {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} 大於{{smallerNumber}}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1664335399072,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} 大於{{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} 等於{{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1664335399072,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} 等於{{equalNumberRight}}"
+      }
+    ]
+  }
+}

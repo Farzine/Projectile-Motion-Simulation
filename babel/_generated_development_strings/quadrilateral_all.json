@@ -1,0 +1,4874 @@
+{
+  "am": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "የድምጽ ቅርጽ  አማራጮች"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "የተለያዩ ቅርጾችን ሲፈጥሩ የሚሰሙትን የድምፅ ንድፍ ይምረጡ"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "የጋራ ቅርፅ ጥራቶችን ለማጉላት የድምፅ ንጣፍ"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "ልዩ ድምፆች እያንዳንዱን ቅርጽ ይለያሉ"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "አጫውት ቅርጽ ለዘላለም ይሰማል"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "ወደጥግ ወይም  ወደ ጎን አንቀሳቅስ"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "በትንንሽ ደረጃዎች ይሂዱ"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "የቁልፍ ሰሌዳ መዳፊት"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "ወደጥጎች ወይም  ወደ ጎኖች አንቀሳቅስ"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "ቅርጹን ዳግም አስጀምር"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "ቅርጽ አቋራጮች"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "ቅርፁን እንደገና ማስተካከል"
+    },
+    "labels": {
+      "value": "መለያዎች"
+    },
+    "markers": {
+      "value": "ጠቋሚዎች"
+    },
+    "diagonals": {
+      "value": "ሰያፎች"
+    },
+    "grid": {
+      "value": "ፍርግርግ"
+    },
+    "shapeNames.square": {
+      "value": "ካሬ"
+    },
+    "shapeNames.rectangle": {
+      "value": "አራት ማዕዘን"
+    },
+    "shapeNames.rhombus": {
+      "value": "ሮምበስ"
+    },
+    "shapeNames.kite": {
+      "value": "የተለያዩ የመስሪያ ቅርፆችን የያዘ ሳጥን"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "አይሶስለስ ትራፔዞይድ"
+    },
+    "shapeNames.trapezoid": {
+      "value": "ትራፔዞይድ"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "ስርጉድባለ አራት ጎን"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "እብጥ  ባለ አራት ጎን"
+    },
+    "shapeNames.parallelogram": {
+      "value": "ትይዩ ጎኖቹ እኩል የሆኑ ባለ አራት ጎን"
+    },
+    "shapeNames.dart": {
+      "value": "ዳርት"
+    },
+    "shapeNames.triangle": {
+      "value": "ባለ ሶስት ጎን"
+    },
+    "shapeNameHidden": {
+      "value": "የቅርጽ ስም ተደብቋል"
+    },
+    "smallSteps": {
+      "value": "ትናንሽ ደረጃዎች"
+    },
+    "quadrilateral.title": {
+      "value": "አራት ማዕዘን"
+    }
+  },
+  "ar": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "شكل خيارات الصوت"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "اختر تصميم الصوت الذي تسمعه أثناء إنشاء اشكال مختلفة"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "طبقة الأصوات للتأكيد على خصائص الشكل المشتركة"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "الأصوات الفريدة تحدد كل شكل"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "تشغيل أصوات الشكل إلى الأبد"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "تحرك الزاوية أو الجانب"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "تحرك بخطوات أصغر"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "الفأرة"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "تحريك الزوايا أو الجوانب"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "إعادة تعين الشكل"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "اختصار الشكل"
+    },
+    "vertexA": {
+      "value": "أ"
+    },
+    "vertexB": {
+      "value": "ب"
+    },
+    "vertexC": {
+      "value": "ج"
+    },
+    "vertexD": {
+      "value": "د"
+    },
+    "resetShape": {
+      "value": "إعادة تعين الشكل"
+    },
+    "labels": {
+      "value": "تسميات"
+    },
+    "markers": {
+      "value": "علامات"
+    },
+    "diagonals": {
+      "value": "الأقطار"
+    },
+    "grid": {
+      "value": "شبكة"
+    },
+    "shapeNames.square": {
+      "value": "مربع"
+    },
+    "shapeNames.rectangle": {
+      "value": "مستطيل"
+    },
+    "shapeNames.rhombus": {
+      "value": "معين"
+    },
+    "shapeNames.kite": {
+      "value": "طائرة ورقية"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "شبه منحرف متساوي الساقين"
+    },
+    "shapeNames.trapezoid": {
+      "value": "شبه منحرف"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "شكل رباعي مقعر"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "شكل رباعي محدب"
+    },
+    "shapeNames.parallelogram": {
+      "value": "متوازي الأضلاع"
+    },
+    "shapeNames.dart": {
+      "value": "سهم"
+    },
+    "shapeNames.triangle": {
+      "value": "مثلث؟"
+    },
+    "shapeNameHidden": {
+      "value": "اسم الشكل مخفي"
+    },
+    "smallSteps": {
+      "value": "خطوات صغيرة"
+    },
+    "quadrilateral.title": {
+      "value": "الأشكال الرباعية"
+    }
+  },
+  "ar_LY": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "خيارات شكل الصوت"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "خيارات شكل الصوت"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "طبقة الأصوات للتأكيد على صفات الشكل المشتركة"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "الأصوات الفريدة تحدد كل شكل"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "تشغيل أصوات الشكل بشكل دائم"
+    },
+    "vertexA": {
+      "value": "أ"
+    },
+    "vertexB": {
+      "value": "ب"
+    },
+    "vertexC": {
+      "value": "ج"
+    },
+    "vertexD": {
+      "value": "د"
+    },
+    "resetShape": {
+      "value": "إعادة تعيين الشكل"
+    },
+    "labels": {
+      "value": "العلامات"
+    },
+    "markers": {
+      "value": "العلامات"
+    },
+    "diagonals": {
+      "value": "قطري"
+    },
+    "grid": {
+      "value": "شبكة"
+    },
+    "shapeNames.square": {
+      "value": "مربع"
+    },
+    "shapeNames.rectangle": {
+      "value": "المستطيل"
+    },
+    "shapeNames.rhombus": {
+      "value": "المعين"
+    },
+    "shapeNames.kite": {
+      "value": "طائرة ورقية"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "شبه منحرف متساوي الساقين"
+    },
+    "shapeNames.trapezoid": {
+      "value": "شبه منحرف"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "شكل رباعي مقعر"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "شكل رباعي محدب"
+    },
+    "shapeNames.parallelogram": {
+      "value": "متوازي الأضلاع"
+    },
+    "shapeNames.dart": {
+      "value": "انطلق"
+    },
+    "shapeNames.triangle": {
+      "value": "مثلث؟"
+    },
+    "shapeNameHidden": {
+      "value": "اسم الشكل مخفي"
+    },
+    "smallSteps": {
+      "value": "خطوات صغيرة"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "تحريك الزاوية أو الجانب"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "التحرك بخطوات أصغر"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "الفأر"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "تحريك الزوايا أو الجوانب"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "إعادة تعيين الشكل"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "اختصارات الشكل"
+    },
+    "quadrilateral.title": {
+      "value": "الاشكال الرباعية"
+    }
+  },
+  "az": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Forma səs seçimləri"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Fərqli formalar yaradarkən eşitmək istədiyiniz səs dizaynını seçin."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Yaradılan forma keyfiyyətlərini vurğulamaq üçün səslər təbəqəsi"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Hər formanı müəyyənləşdirən unikal səslər"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Forma səslərini mütamədi olaraq çalın"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Küncü və ya tərəfi hərəkət etdirin"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Daha kiçik addımlarla hərəkət edin"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Siçan"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Küncləri və ya tərəfləri hərəkət etdirin"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Formanı sıfırlayın"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Forma qısayolları"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Formanı sıfırlayın"
+    },
+    "labels": {
+      "value": "Etiketlər"
+    },
+    "markers": {
+      "value": "İşarətləyicilər"
+    },
+    "diagonals": {
+      "value": "Diaqonallar"
+    },
+    "grid": {
+      "value": "Şəbəkə"
+    },
+    "shapeNames.square": {
+      "value": "Kvadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Düzbucaqlı"
+    },
+    "shapeNames.rhombus": {
+      "value": "Romb"
+    },
+    "shapeNames.kite": {
+      "value": "Qabarıq deltoid"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Bərabəryanlı trapesiya"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapesiya"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Çökük dördbucaqlı"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Qabarıq dördbucaqlı"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paraleloqram"
+    },
+    "shapeNames.dart": {
+      "value": "Çökük deltoid"
+    },
+    "shapeNames.triangle": {
+      "value": "Üçbucaqlı"
+    },
+    "shapeNameHidden": {
+      "value": "Formanın adı gizlidir"
+    },
+    "smallSteps": {
+      "value": "Kiçik addımlar"
+    },
+    "quadrilateral.title": {
+      "value": "Dördbucaqlı"
+    }
+  },
+  "bs": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opcije zvuka"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Izaberite zvučni dizajn koji čujete dok stvarate različite oblike."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Sloj zvuka da bi se naglasili zajednički kvaliteti oblika"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Jedinstveni zvuci identifikuju svaki oblik"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Pusti zvuk za oblik uvijek"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Pomjerite ugao ili stranu"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Krećite se manjim koracima"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Miš"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Pomjerite uglove ili strane"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Resetuj oblik"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Prečice za oblike"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Resetuj oblik"
+    },
+    "labels": {
+      "value": "Natpis"
+    },
+    "markers": {
+      "value": "Markeri"
+    },
+    "diagonals": {
+      "value": "Dijagonale"
+    },
+    "grid": {
+      "value": "Mreža"
+    },
+    "shapeNames.square": {
+      "value": "Kvadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Pravougaonik"
+    },
+    "shapeNames.rhombus": {
+      "value": "Romb"
+    },
+    "shapeNames.kite": {
+      "value": "Zmaj"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Jednakokraki trapez"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapez"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Konkavni četvorougao"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Konveksni četvorougao"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Strijela (konkavni četvorougao)"
+    },
+    "shapeNames.triangle": {
+      "value": "Trougao?"
+    },
+    "shapeNameHidden": {
+      "value": "Skrivena imena oblika"
+    },
+    "smallSteps": {
+      "value": "Mali koraci"
+    },
+    "quadrilateral.title": {
+      "value": "Četvorougao"
+    }
+  },
+  "ca": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opcions de so de la forma"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Trieu el disseny de so que voleu sentir a mesura que creeu formes diverses."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "So de la capa per a emfatitzar les qualitats de forma compartida"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Els sons únics identifiquen cadascuna de les formes"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Reprodueix els sons de la forma per sempre"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Mou el vèrtex i el costat"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Mou en passos petits"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Ratolí"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Mou vèrtexs o costats"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Restableix la forma"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Dreceres de forma"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Restableix la forma"
+    },
+    "labels": {
+      "value": "Etiquetes"
+    },
+    "markers": {
+      "value": "Marcadors"
+    },
+    "diagonals": {
+      "value": "Diagonals"
+    },
+    "grid": {
+      "value": "Graella"
+    },
+    "shapeNames.square": {
+      "value": "Quadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rectangle"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rombe"
+    },
+    "shapeNames.kite": {
+      "value": "Estel"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapezoide isòsceles"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezoide"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Quadrliàter còncau"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Quadrilàter convex"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paral·lelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Punta de fletxa"
+    },
+    "shapeNames.triangle": {
+      "value": "Triangle?"
+    },
+    "shapeNameHidden": {
+      "value": "Oculta el nom de la forma"
+    },
+    "smallSteps": {
+      "value": "Passos petits"
+    },
+    "quadrilateral.title": {
+      "value": "Quadrilàter"
+    }
+  },
+  "cs": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Možnosti zvuku podle tvaru"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Vyberte si zvukové schéma, které uslyšíte při vytváření různých tvarů."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Zvuková vrstva pro zdůraznění společných vlastností tvaru"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Jedinečné zvuky identifikující každý tvar"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Nepřetržité přehrávání zvuků podle tvaru"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Přesun rohu nebo strany"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Posun po menších krocích"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Myš"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Přesunout rohy nebo strany"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Obnovit tvar"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Zkratky tvarů"
+    },
+    "resetShape": {
+      "value": "Obnovit tvar"
+    },
+    "labels": {
+      "value": "Popisky"
+    },
+    "markers": {
+      "value": "Značky"
+    },
+    "diagonals": {
+      "value": "Úhlopříčky"
+    },
+    "grid": {
+      "value": "Mřížka"
+    },
+    "shapeNames.square": {
+      "value": "Čtverec"
+    },
+    "shapeNames.rectangle": {
+      "value": "Obdélník"
+    },
+    "shapeNames.rhombus": {
+      "value": "Kosočtverec"
+    },
+    "shapeNames.kite": {
+      "value": "Deltoid (\"drak\")"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Rovnoramenný lichoběžník"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Lichoběžník"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Konkávní čtyřúhelník"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Konvexní čtyřúhelník"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Rovnoběžník"
+    },
+    "shapeNames.dart": {
+      "value": "Nekonvexní deltoid"
+    },
+    "shapeNames.triangle": {
+      "value": "Trojúhelník?"
+    },
+    "shapeNameHidden": {
+      "value": "Název tvaru skrytý"
+    },
+    "smallSteps": {
+      "value": "Small Steps"
+    },
+    "quadrilateral.title": {
+      "value": "Malé kroky"
+    }
+  },
+  "da": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Tilpas lydindstillinger"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Vælg det lyddesign du hører, mens du skaber forskellige former."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Lyde for at understrege ens formkvaliteter"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Unikke lyde for hver figur"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Afspil altid figurernes lyde"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Flyt hjørne eller side"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Flyt i mindre trin"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mus"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Flyt hjørner eller sider"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Nulstil form"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Skab genveje"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Nulstil form"
+    },
+    "labels": {
+      "value": "Mærker"
+    },
+    "markers": {
+      "value": "Markører"
+    },
+    "diagonals": {
+      "value": "Diagonaler"
+    },
+    "grid": {
+      "value": "Tern"
+    },
+    "shapeNames.square": {
+      "value": "Kvadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rektangel"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rombe"
+    },
+    "shapeNames.kite": {
+      "value": "Drage"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Ligebenet trapez"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapez"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Konkav firkant"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Konveks firkant"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Pil"
+    },
+    "shapeNames.triangle": {
+      "value": "Trekant?"
+    },
+    "shapeNameHidden": {
+      "value": "Figurens navn skjult"
+    },
+    "smallSteps": {
+      "value": "Små trin"
+    },
+    "quadrilateral.title": {
+      "value": "Firkanter"
+    }
+  },
+  "de": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Form-Klang-Einstellungen"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Wähle das Klangdesign für das Bilden verschiedener Formen"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Klänge um gemeinsame Eigenschaften zu betonen"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Eigener Klang für jede Form"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Spiele Form-Klang ohne Ende"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Ecke oder Seite bewegen"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "In kleinen Schritten bewegen"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Maus"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Ecken oder Seiten bewegen"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Form zurücksetzen"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Shortcut für Form"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Form zurücksetzen"
+    },
+    "labels": {
+      "value": "Labels"
+    },
+    "markers": {
+      "value": "Markierungen"
+    },
+    "diagonals": {
+      "value": "Diagonalen"
+    },
+    "grid": {
+      "value": "Gitter"
+    },
+    "shapeNames.square": {
+      "value": "Quadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rechteck"
+    },
+    "shapeNames.rhombus": {
+      "value": "Raute"
+    },
+    "shapeNames.kite": {
+      "value": "Drachenviereck"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Gleichschenkliges Trapez"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapez"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Konkaves Viereck"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Konvexes Viereck"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallelogramm"
+    },
+    "shapeNames.dart": {
+      "value": "Pfeilviereck"
+    },
+    "shapeNames.triangle": {
+      "value": "Dreieck?"
+    },
+    "shapeNameHidden": {
+      "value": "Name der Form verborgen"
+    },
+    "smallSteps": {
+      "value": "Kleine Schritte"
+    },
+    "quadrilateral.title": {
+      "value": "Viereck"
+    }
+  },
+  "el": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Επιλογές ήχων σχήματος"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Επιλέξτε τους ήχους που ακούτε καθώς δημιουργείτε διαφορετικά σχήματα."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Επίπεδο ήχων που τονίζει τις κοινές ιδιότητες σχήματος."
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Μοναδικοί ήχοι που προσδιορίζουν κάθε σχήμα."
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Συνεχόμενη αναπαραγωγή ήχων σχήματος."
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Μετακίνηση γωνίας ή πλευράς"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Μετακίνηση με μικρότερα βήματα"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Ποντίκι"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Μετακίνηση γωνιών ή πλευρών."
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Επαναφορά σχήματος"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Συντομεύσεις σχήματος"
+    },
+    "vertexA": {
+      "value": "Α"
+    },
+    "vertexB": {
+      "value": "Β"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Επαναφορά σχήματος"
+    },
+    "labels": {
+      "value": "Ετικέτες"
+    },
+    "markers": {
+      "value": "Υποδιαιρέσεις"
+    },
+    "diagonals": {
+      "value": "Διαγώνιοι"
+    },
+    "grid": {
+      "value": "Πλέγμα"
+    },
+    "shapeNames.square": {
+      "value": "Τετράγωνο"
+    },
+    "shapeNames.rectangle": {
+      "value": "Ορθογώνιο"
+    },
+    "shapeNames.rhombus": {
+      "value": "Ρόμβος"
+    },
+    "shapeNames.kite": {
+      "value": "Χαρταετός"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Ισοσκελές τραπέζιο"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Τραπέζιο"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Κοίλο τετράπλευρο"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Κυρτό τετράπλευρο"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Παραλληλόγραμμο"
+    },
+    "shapeNames.dart": {
+      "value": "Βέλος"
+    },
+    "shapeNames.triangle": {
+      "value": "Τρίγωνο"
+    },
+    "shapeNameHidden": {
+      "value": "Κρυφό όνομα σχήματος"
+    },
+    "smallSteps": {
+      "value": "Μικρά βήματα"
+    },
+    "quadrilateral.title": {
+      "value": "Τετράπλευρο"
+    }
+  },
+  "es": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opciones de Sonido de Forma"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Elige el diseño de sonido que escuchas mientras creas diferentes formas."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Capa de sonidos para resaltar cualidades de forma compartidas"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Sonidos únicos identifican cada forma"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Reproducir sonidos de forma para siempre"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Mover esquina o lado"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Mover en pasos pequeños"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Ratón"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Mover Esquinas o Lados"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Restablecer Forma"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Atajos de Forma"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Restablecer Forma"
+    },
+    "labels": {
+      "value": "Etiquetas"
+    },
+    "markers": {
+      "value": "Marcadores"
+    },
+    "diagonals": {
+      "value": "Diagonales"
+    },
+    "grid": {
+      "value": "Cuadrícula"
+    },
+    "shapeNames.square": {
+      "value": "Cuadrado"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rectángulo"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rombo"
+    },
+    "shapeNames.kite": {
+      "value": "Cometa"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapecio Isósceles"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapecio"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Cuadrilátero Cóncavo"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Cuadrilátero Convexo"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogramo"
+    },
+    "shapeNames.dart": {
+      "value": "Dardo"
+    },
+    "shapeNames.triangle": {
+      "value": "¿Triángulo?"
+    },
+    "shapeNameHidden": {
+      "value": "Nombre de la Forma Oculto"
+    },
+    "smallSteps": {
+      "value": "Pasos Pequeños"
+    },
+    "quadrilateral.title": {
+      "value": "Cuadrilátero"
+    }
+  },
+  "es_PE": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opciones de forma del sonido"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Elige el diseño de sonido que escuchas mientras creas diferentes formas."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Capa de sonidos para enfatizar cualidades de formas compartidas"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Los sonidos únicos identifican cada forma."
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Colocar sonido de forma siempre"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Mover esquina o lado"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Muévase en pasos más pequeños"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Ratón (dispositivo)"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Mover esquinas o lados"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Reiniciar forma"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Atajos de forma"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Reiniciar forma"
+    },
+    "labels": {
+      "value": "Etiquetas"
+    },
+    "markers": {
+      "value": "Marcadores"
+    },
+    "diagonals": {
+      "value": "Diagonales"
+    },
+    "grid": {
+      "value": "Cuadrícula"
+    },
+    "shapeNames.square": {
+      "value": "Cuadrado"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rectángulo"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rombo"
+    },
+    "shapeNames.kite": {
+      "value": "Cometa"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapecio isósceles"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapecio"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Cuadrilátero cóncavo"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Cuadrilátero convexo"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogramo"
+    },
+    "shapeNames.dart": {
+      "value": "Dardo"
+    },
+    "shapeNames.triangle": {
+      "value": "¿Triángulo?"
+    },
+    "shapeNameHidden": {
+      "value": "Nombre de forma oculto"
+    },
+    "smallSteps": {
+      "value": "Pasos pequeños"
+    },
+    "quadrilateral.title": {
+      "value": "Cuadrilátero"
+    }
+  },
+  "eu": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Formen soinu aukerak"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Aukeratu entzuten duzun soinuaren diseinua forma desberdinak sortzen dituzun bitartean."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Soinu geruza  partekatutako forma-kualitateak azpimarratzeko"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Berezko soinuek forma bakoitza identifikatzen dute"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Erreproduzitu formen soinuak betiko"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Mugitu izkina edo alboa"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Mugitu urrats txikiagoetan"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Sagua"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Mugitu ertzak edo alboak"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Berrezarri forma"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Formen lasterbideak"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Berrezarri forma"
+    },
+    "labels": {
+      "value": "Etiketak"
+    },
+    "markers": {
+      "value": "Errotulatzaileak"
+    },
+    "diagonals": {
+      "value": "Diagonalak"
+    },
+    "grid": {
+      "value": "Sarea"
+    },
+    "shapeNames.square": {
+      "value": "Karratua"
+    },
+    "shapeNames.rectangle": {
+      "value": "Laukizuzena"
+    },
+    "shapeNames.rhombus": {
+      "value": "Erronboa"
+    },
+    "shapeNames.kite": {
+      "value": "Kometa"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapezioa (isoszelea)"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezoidea"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Laukoadro ahurra"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Laukoadro ganbila"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogramoa"
+    },
+    "shapeNames.dart": {
+      "value": "Dardoa"
+    },
+    "shapeNames.triangle": {
+      "value": "Triangelua?"
+    },
+    "shapeNameHidden": {
+      "value": "Formaren izena ezkutatuta"
+    },
+    "smallSteps": {
+      "value": "Urrats txikiak"
+    },
+    "quadrilateral.title": {
+      "value": "Laukoadroa"
+    }
+  },
+  "fr": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Options de forme sonore"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Choisissez la conception sonore que vous entendez lorsque vous créez différentes formes."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Les sons se superposent pour mettre en avant les caractéristiques communes des formes."
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Des sons uniques identifient chaque forme."
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Jouez les sons des formes indéfiniment"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Déplacer le coin ou le côté"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Déplacer en de plus petits pas"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Souris"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Déplacer les coins ou les côtés"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Réinitialiser la forme"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Raccourcis de forme"
+    },
+    "resetShape": {
+      "value": "Réinitialiser la forme"
+    },
+    "labels": {
+      "value": "Étiquettes"
+    },
+    "markers": {
+      "value": "Marqueurs"
+    },
+    "diagonals": {
+      "value": "Diagonales"
+    },
+    "grid": {
+      "value": "Grille"
+    },
+    "shapeNames.square": {
+      "value": "Carré"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rectangle"
+    },
+    "shapeNames.rhombus": {
+      "value": "Losange"
+    },
+    "shapeNames.kite": {
+      "value": "Cerf-volant"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapèze isocèle"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapèze"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Quadrilatère concave"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Quadrilatère convexe"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallélogramme"
+    },
+    "shapeNames.dart": {
+      "value": "Flèche"
+    },
+    "shapeNames.triangle": {
+      "value": "Triangle?"
+    },
+    "shapeNameHidden": {
+      "value": "Nom de la forme caché"
+    },
+    "smallSteps": {
+      "value": "Petits pas"
+    },
+    "quadrilateral.title": {
+      "value": "Quadrilatère"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    }
+  },
+  "gu": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "આકાર અને અવાજના ઓપ્શન્સ"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "તમે જેમ અલગ આકાર બનાવો તેમ અલગ અલગ અવાજની ડિઝાઇન પસંદ કરો"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "વહેચાયેલા આકારોની લાક્ષણિકતાઓ પર ધ્યાન દોરવા માટેના અવાજના સ્તરો"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "દરેક આકારને એક વિશિષ્ટ અવાજ દર્શાવે છે"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "આકારના આવજો હમેશા પ્લે કરો"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "સાઇડમાં અથવા ખૂણામાં ખસો"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "નાના પગલામાં ખસો"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "માઉસ"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "ખૂણાઓ અથવા બાજુઓને ખસેડો"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "આકારને રીસેટ કરો"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "આકારના શૉર્ટકટ્સ"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "આકારને રીસેટ કરો"
+    },
+    "labels": {
+      "value": "લેબલ"
+    },
+    "markers": {
+      "value": "માર્કર્સ"
+    },
+    "diagonals": {
+      "value": "વિકર્ણો"
+    },
+    "grid": {
+      "value": "ગ્રીડ"
+    },
+    "shapeNames.square": {
+      "value": "ચોરસ"
+    },
+    "shapeNames.rectangle": {
+      "value": "લંબચોરસ"
+    },
+    "shapeNames.rhombus": {
+      "value": "સમચતુર્ભુજ"
+    },
+    "shapeNames.kite": {
+      "value": "પતંગ"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "સમબાજુ સમલંબ ચતુષ્કોણ"
+    },
+    "shapeNames.trapezoid": {
+      "value": "સમલંબ ચતુષ્કોણ"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "અંતર્મુખ ચતુષ્કોણ"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "બહિર્મુખ ચતુષ્કોણ"
+    },
+    "shapeNames.parallelogram": {
+      "value": "સમાંતરબાજુ ચતુષ્કોણ"
+    },
+    "shapeNames.dart": {
+      "value": "તીર"
+    },
+    "shapeNames.triangle": {
+      "value": "ત્રિકોણ?"
+    },
+    "shapeNameHidden": {
+      "value": "આકારનું નામ છુપાયેલ છે"
+    },
+    "smallSteps": {
+      "value": "નાના પગલાં"
+    },
+    "quadrilateral.title": {
+      "value": "ચતુષ્કોણ"
+    }
+  },
+  "ha": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Siffar Zaɓin Sauti"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Zaɓi tsarin sautin da kake ji yayin da kake ƙirƙira siffofi daban-daban."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Yi amfani da salo na sauti don ƙarfafa halayen siffofi masu kamanceceniya"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Sautuna na musamman suna tantance kowace siffa"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Kunna sautunan siffofi har abada"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Motsa ta kusurwa ko gefe"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Yi ƙananan motsi"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Linzan(Linzan kwamfuta)"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Motsa ta kusurwa ko gefe"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Sake Saita Siffar"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Gajren hanyar siffa"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Sake saita siffar"
+    },
+    "labels": {
+      "value": "Lakabi"
+    },
+    "markers": {
+      "value": "Alama"
+    },
+    "diagonals": {
+      "value": "ƙetarewa (diagonals)"
+    },
+    "grid": {
+      "value": "tsangayar layi"
+    },
+    "shapeNames.square": {
+      "value": "Murabba'i"
+    },
+    "shapeNames.rectangle": {
+      "value": "madaidaicin murabba'i"
+    },
+    "shapeNames.rhombus": {
+      "value": "murabba'i mai karkace"
+    },
+    "shapeNames.kite": {
+      "value": "kite(siffar kifi)"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Isosceles Trapezoid"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezoid"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Maɗaukakin huɗu(concave)"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Maɗaukakin huɗu(convex)"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallelogram (ma'ana huɗu)"
+    },
+    "shapeNames.dart": {
+      "value": "Dart (siffar kibiya)"
+    },
+    "shapeNames.triangle": {
+      "value": "alwatika"
+    },
+    "shapeNameHidden": {
+      "value": "Sunan Siffa ɓoye"
+    },
+    "smallSteps": {
+      "value": "Ƙananan Matakai"
+    },
+    "quadrilateral.title": {
+      "value": "Quadrilateral(Maɗaukaki huɗu)"
+    }
+  },
+  "hi": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "आकृति ध्वनि विकल्प"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "विभिन्न आकृतियाँ बनाते समय आप जैसी ध्वनि सुनते हैं उसे चुनें।"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "साझा का गई आकृति संबंधी ध्वनि परत"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "विशेष ध्वनि प्रत्येक आकृति की पहचान हैं"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "आकृति ध्वनि सतत् चलायें"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "कोने या किनारे हिलाएँ"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "छोटे कदमों से आगे बढ़ें"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "माऊस"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "सभी कोने या किनारे हिलाएँ"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "आकृति पुनः स्थापित करें"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "आकृति के संक्षिप्त चिह्न"
+    },
+    "vertexA": {
+      "value": "अ"
+    },
+    "vertexB": {
+      "value": "ब"
+    },
+    "vertexC": {
+      "value": "स"
+    },
+    "vertexD": {
+      "value": "द"
+    },
+    "resetShape": {
+      "value": "आकृति पुनः स्थापित करें"
+    },
+    "labels": {
+      "value": "नामकरण"
+    },
+    "markers": {
+      "value": "कोण गणक"
+    },
+    "diagonals": {
+      "value": "विकर्ण"
+    },
+    "grid": {
+      "value": "जाल(ग्रिड)"
+    },
+    "shapeNames.square": {
+      "value": "वर्ग"
+    },
+    "shapeNames.rectangle": {
+      "value": "आयत"
+    },
+    "shapeNames.rhombus": {
+      "value": "समचतुर्भुज"
+    },
+    "shapeNames.kite": {
+      "value": "पतंग"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "समद्विबाहु समलंब चतुर्भुज"
+    },
+    "shapeNames.trapezoid": {
+      "value": "समलंब चतुर्भुज"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "अवतल चतुर्भुज"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "उत्तल चतुर्भुज"
+    },
+    "shapeNames.parallelogram": {
+      "value": "समान्तर चतुर्भुज"
+    },
+    "shapeNames.dart": {
+      "value": "भाला"
+    },
+    "shapeNames.triangle": {
+      "value": "त्रिभुज?"
+    },
+    "shapeNameHidden": {
+      "value": "आकृति का नाम छिपा हुआ है"
+    },
+    "smallSteps": {
+      "value": "छोटे कदम"
+    },
+    "quadrilateral.title": {
+      "value": "चतुर्भुज"
+    }
+  },
+  "ht": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opsyon Fòm Son yo"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Chwazi konsepsyon son ou tande a pandan w ap kreye diferan fòm"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Kouch son pou mete aksan sou kalite fòm ki pataje yo"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Son inik idantifye chak fòm"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Jwe son fòm pou toutan"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Deplase kwen oswa kote"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Deplase tipa tipa"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Souri"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Deplase kwen yo oswa kote yo"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Reyinisyalize Fòm"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Rakousi Fòm"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Reyinisyalize Fòm"
+    },
+    "labels": {
+      "value": "Etikèt"
+    },
+    "markers": {
+      "value": "Makè"
+    },
+    "diagonals": {
+      "value": "Dyagonal"
+    },
+    "grid": {
+      "value": "Griy"
+    },
+    "shapeNames.square": {
+      "value": "Kare"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rektang"
+    },
+    "shapeNames.rhombus": {
+      "value": "Lozanj"
+    },
+    "shapeNames.kite": {
+      "value": "Sèvolan (Kap)"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapèz izosèl"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapèz"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Kwadrilateral Konkav"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Kwadrilateral Konvèks"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Ti flèch"
+    },
+    "shapeNames.triangle": {
+      "value": "Triyang"
+    },
+    "shapeNameHidden": {
+      "value": "Non Fòm kache"
+    },
+    "smallSteps": {
+      "value": "Ti pa"
+    },
+    "quadrilateral.title": {
+      "value": "Kwadrilateral"
+    }
+  },
+  "hu": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Alakzat-hangbeállítások"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Válaszd ki a különböző alakzatok létrehozásakor hallható hangsémát."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Hangréteg a közös alaktulajdonságok kiemelésére"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Minden alakzatot egyedi hang azonosít"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Az alakzathang mindig szóljon"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Mozgasd a csúcsot vagy az oldalt"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Mozgatás kisebb lépésekben"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Egér"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Mozgasd a csúcsokat vagy az oldalakat"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Az alakzat visszaállítása"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Alakzat-parancsikonok"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Az alakzat visszaállítása"
+    },
+    "labels": {
+      "value": "Címkék"
+    },
+    "markers": {
+      "value": "Jelölők"
+    },
+    "diagonals": {
+      "value": "Átlók"
+    },
+    "grid": {
+      "value": "Rács"
+    },
+    "shapeNames.square": {
+      "value": "Négyzet"
+    },
+    "shapeNames.rectangle": {
+      "value": "Téglalap"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rombusz"
+    },
+    "shapeNames.kite": {
+      "value": "Deltoid"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Húrtrapéz"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapéz"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Konkáv négyszög"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Konvex négyszög"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogramma"
+    },
+    "shapeNames.dart": {
+      "value": "Konkáv deltoid"
+    },
+    "shapeNames.triangle": {
+      "value": "Háromszög?"
+    },
+    "shapeNameHidden": {
+      "value": "Az alakzat neve nem látszik"
+    },
+    "smallSteps": {
+      "value": "Kis lépések"
+    },
+    "quadrilateral.title": {
+      "value": "Négyszögek"
+    }
+  },
+  "it": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opzioni sonore per la figura"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Scegli la \"colonna  sonora\" da ascoltare mentre crei figure diverse."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Livelli sonori diversi per figure con caratteristiche differenti"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Un unico suono identifica tutte le forme"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Abilita gli effetti sonori sempre"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Muovi un angolo o un lato"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Muovi a piccoli passi"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mouse"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Muovi gli angoli o i lati"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Ripristina la figura"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Scorciatoie per la  figura"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Ripristina"
+    },
+    "labels": {
+      "value": "Etichette"
+    },
+    "markers": {
+      "value": "Strumenti di misura"
+    },
+    "diagonals": {
+      "value": "Diagonali"
+    },
+    "grid": {
+      "value": "Griglia"
+    },
+    "shapeNames.square": {
+      "value": "Quadrato"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rettangolo"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rombo"
+    },
+    "shapeNames.kite": {
+      "value": "Deltoide"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapezio isoscele"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezio"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Quadrilatero concavo"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Quadrilatero convesso"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallelogramma"
+    },
+    "shapeNames.dart": {
+      "value": "Freccia"
+    },
+    "shapeNames.triangle": {
+      "value": "Triangolo?"
+    },
+    "shapeNameHidden": {
+      "value": "Nome della figura nascosto"
+    },
+    "smallSteps": {
+      "value": "A piccoli passi"
+    },
+    "quadrilateral.title": {
+      "value": "Quadrilateri"
+    }
+  },
+  "iw": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "אפשרויות צורת הקול"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "בחירת עיצוב הקול הנשמע בזמן שיוצרים צורות חדשות"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "שכבת הקול להדגשת איכויות הצורה"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "קולות מיוחדים לזיהוי כל צורה"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "הפעל את צורת הקול לעד"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "הזזה פינה או צד"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "הזז בצעדים קטנים יותר"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "עכבר"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "הזז פינות או צדדים"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "אפס צורה"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "קיצורי צורות"
+    },
+    "vertexA": {
+      "value": "א"
+    },
+    "vertexB": {
+      "value": "ב"
+    },
+    "vertexC": {
+      "value": "ג"
+    },
+    "vertexD": {
+      "value": "ד"
+    },
+    "resetShape": {
+      "value": "אפס צורה"
+    },
+    "labels": {
+      "value": "תוויות"
+    },
+    "markers": {
+      "value": "שנתות"
+    },
+    "diagonals": {
+      "value": "אלכסונים"
+    },
+    "grid": {
+      "value": "רשת"
+    },
+    "shapeNames.square": {
+      "value": "ריבוע"
+    },
+    "shapeNames.rectangle": {
+      "value": "משולש"
+    },
+    "shapeNames.rhombus": {
+      "value": "מעוין"
+    },
+    "shapeNames.kite": {
+      "value": "דלתון"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "טרפז שווה שוקיים"
+    },
+    "shapeNames.trapezoid": {
+      "value": "טרפז"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "מרובע קעור"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "מרובע קמור"
+    },
+    "shapeNames.parallelogram": {
+      "value": "מקבילית"
+    },
+    "shapeNames.dart": {
+      "value": "חץ"
+    },
+    "shapeNames.triangle": {
+      "value": "משולש?"
+    },
+    "shapeNameHidden": {
+      "value": "שם הצורה מוסתר"
+    },
+    "smallSteps": {
+      "value": "צעדים קטנים"
+    },
+    "quadrilateral.title": {
+      "value": "מרובע"
+    }
+  },
+  "ki": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "mũhianĩre mugambo ũhoti wa gwĩthurĩra"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Thuura mũbango wa mũgambo ũrĩa ũkũigua ũgĩthondeka mĩcoro ngũrani."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Rũthiomi rwa mĩgambo rũgathondeka mĩgambo mĩingĩ"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Ciĩga ciothe cionanagio na mĩgambo"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Hinga mĩgambo ya mũhiano tene na tene"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Gũthiĩ mwena kana mwena"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Gũthiaga na ikinya inini"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "mouse"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Gũthamia ihenya kana Mĩena"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Tũngĩra Mũcoro"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "mũhianĩre njĩra nguhĩ"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Tũngĩra Mũcoro"
+    },
+    "labels": {
+      "value": "marũa"
+    },
+    "markers": {
+      "value": "Marakara"
+    },
+    "diagonals": {
+      "value": "Diagnols"
+    },
+    "grid": {
+      "value": "Grid"
+    },
+    "shapeNames.square": {
+      "value": "Square"
+    },
+    "shapeNames.rectangle": {
+      "value": "kĩrũrũ"
+    },
+    "shapeNames.rhombus": {
+      "value": "rũrigi"
+    },
+    "shapeNames.kite": {
+      "value": "kite"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "gĩthũri gia Isoscceles"
+    },
+    "shapeNames.trapezoid": {
+      "value": "gĩthũri"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "gĩcunjĩ gĩa inya gĩa Concave"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "gĩcunjĩ gĩa inya gĩa Convex"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Ngathĩti cia rũgano"
+    },
+    "shapeNames.dart": {
+      "value": "Mũguĩ"
+    },
+    "shapeNames.triangle": {
+      "value": "triangoo"
+    },
+    "shapeNameHidden": {
+      "value": "mũhianĩre rĩĩtwa Kũhithwo"
+    },
+    "smallSteps": {
+      "value": "Makinya Manini"
+    },
+    "quadrilateral.title": {
+      "value": "Kĩndũ gĩa gĩcunjĩ gĩa inya"
+    }
+  },
+  "ko": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "모양 소리 선택"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "여러 가지 모양을 만들면서 들리는 사운드 디자인을 선택하세요"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "공유된 소리질을 강조하기 위한 소리층"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "특유의 소리가 각 모양을 찾아냄"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "소리 모양을 계속 플레이"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "모서리나 축면으로 이동"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "조금씩 이동"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "마우스"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "모서리나 측면으로 이동"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "모양을 재설정"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "모양 가로지르기"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "모양 재설절"
+    },
+    "labels": {
+      "value": "라벨"
+    },
+    "markers": {
+      "value": "마커"
+    },
+    "diagonals": {
+      "value": "대각선"
+    },
+    "grid": {
+      "value": "그리드"
+    },
+    "shapeNames.square": {
+      "value": "정사각형"
+    },
+    "shapeNames.rectangle": {
+      "value": "직사각형"
+    },
+    "shapeNames.rhombus": {
+      "value": "마름모"
+    },
+    "shapeNames.kite": {
+      "value": "연"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "등변 사다리꼴"
+    },
+    "shapeNames.trapezoid": {
+      "value": "사다리꼴"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "오목 사변형"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "볼록 사변형"
+    },
+    "shapeNames.parallelogram": {
+      "value": "평행사변형"
+    },
+    "shapeNames.dart": {
+      "value": "다트"
+    },
+    "shapeNames.triangle": {
+      "value": "삼각형?"
+    },
+    "shapeNameHidden": {
+      "value": "숨겨진 모양 이름"
+    },
+    "smallSteps": {
+      "value": "조금씩"
+    },
+    "quadrilateral.title": {
+      "value": "사변형"
+    }
+  },
+  "mn": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Дүрсийн дууны сонголт"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Дүрсүүдийг бүтээхдээ сонсдог дууны загвараас сонго."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Дүрсийн хэлбэрт тохирсон хөгжим сонсгоход анхаарах"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Өвөрмөц дуу чимээ нь дүрс бүрийг тодорхойлдог"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Дүрсийн хөгжмийг байнга тоглуулах"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Өнцөг юм уу талыг зөөх"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Бага алхамаар зөөх"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Хулгана"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Өнцөг эсвэл талуудыг зөөх"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Дүрс Эхлүүл"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Дүрсийн Богино холболт"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Дүрс Эхлүүл"
+    },
+    "labels": {
+      "value": "Тайлбар"
+    },
+    "markers": {
+      "value": "Тэмдэглэгээ"
+    },
+    "diagonals": {
+      "value": "Диагональ"
+    },
+    "grid": {
+      "value": "Тор"
+    },
+    "shapeNames.square": {
+      "value": "Квадрат"
+    },
+    "shapeNames.rectangle": {
+      "value": "Тэгш өнцөгт"
+    },
+    "shapeNames.rhombus": {
+      "value": "Ромбо"
+    },
+    "shapeNames.kite": {
+      "value": "Шонхор"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Адил хажуут Трапец"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Трапец"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Хүнхэр Дөрвөлжин"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Гүдгэр Дөрвөлжин"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Параллелограм"
+    },
+    "shapeNames.dart": {
+      "value": "Зэв"
+    },
+    "shapeNames.triangle": {
+      "value": "Гурвалжин"
+    },
+    "shapeNameHidden": {
+      "value": "Дүрсийн Нэр Нуух"
+    },
+    "smallSteps": {
+      "value": "Бага Алхам"
+    },
+    "quadrilateral.title": {
+      "value": "Дөрвөлжин"
+    }
+  },
+  "ms": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Pilihan Bunyi Bentuk"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Pilih bunyi yang anda dengar semasa mencipta bentuk yang berbeza."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Lapisan bunyi untuk menekankan kualiti bentuk yang dikongsi"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Bunyi unik untuk setiap bentuk"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Main bunyi bentuk selama-lamanya"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Gerakkan sudut atau sisi"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Gerak dalam langkah kecil"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Tetikus"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Gerakkan Sudut atau Sisi"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Set Semula Bentuk"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Pintasan Bentuk"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Set Semula Bentuk"
+    },
+    "labels": {
+      "value": "Label"
+    },
+    "markers": {
+      "value": "Penanda"
+    },
+    "diagonals": {
+      "value": "Pepenjuru"
+    },
+    "grid": {
+      "value": "Grid"
+    },
+    "shapeNames.square": {
+      "value": "Segi Empat Sama"
+    },
+    "shapeNames.rectangle": {
+      "value": "Segi Empat Tepat"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rombus"
+    },
+    "shapeNames.kite": {
+      "value": "Layang-layang"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapezoid Sama Kaki"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezoid"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Segi Empat Cekung"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Segi Empat Cembung"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Dart"
+    },
+    "shapeNames.triangle": {
+      "value": "Segi Tiga?"
+    },
+    "shapeNameHidden": {
+      "value": "Nama Bentuk Tersembunyi"
+    },
+    "smallSteps": {
+      "value": "Langkah Kecil"
+    },
+    "quadrilateral.title": {
+      "value": "Segi Empat"
+    }
+  },
+  "nl": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Vorm geluidsopties"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Kies een geluid als je een verschillende vorm maakt."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Geluidslaag om gelijke vormen te benadrukken"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Bij iedere vorm hoort een uniek geluid"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Speel vormgeluiden de hele tijd af"
+    },
+    "resetShape": {
+      "value": "Reset de vorm"
+    },
+    "markers": {
+      "value": "Markeringen"
+    },
+    "diagonals": {
+      "value": "Diagonalen"
+    },
+    "grid": {
+      "value": "Raster"
+    },
+    "shapeNames.square": {
+      "value": "Vierkant"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rechthoek"
+    },
+    "shapeNames.rhombus": {
+      "value": "Ruit"
+    },
+    "shapeNames.kite": {
+      "value": "Vlieger"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Gelijkbenig trapezium"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezium"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Holle vierhoek"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Bolle vierhoek"
+    },
+    "shapeNames.dart": {
+      "value": "Pijl"
+    },
+    "shapeNames.triangle": {
+      "value": "Droehoek?"
+    },
+    "shapeNameHidden": {
+      "value": "Vormnaam verbergen"
+    },
+    "smallSteps": {
+      "value": "Kleine stappen"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Verplaats hoek of zijde"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Verplaats in kleinere stappen"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Muis"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Verplaats hoeken of zijden"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Reset de vorm"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Vorm shortcuts"
+    },
+    "quadrilateral.title": {
+      "value": "Vierhoeken"
+    }
+  },
+  "pl": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opcje dźwięku figury"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Wybierz dźwięk, który usłyszysz podczas tworzenia różnych figur."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Warstwa dźwiękowa podkreślająca wspólne cechy figur"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Unikalne dźwięki identyfikujące każdą figurę"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Odtwarzaj dźwięki figur przez cały czas"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Przesuń wierzchołek lub bok"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Poruszanie mniejszymi krokami"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mysz"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Przesuń wierzchołki lub boki"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Zresetuj kształt"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Skróty do kształtów"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Zresetuj kształt"
+    },
+    "labels": {
+      "value": "Etykiety"
+    },
+    "markers": {
+      "value": "Znaczniki"
+    },
+    "diagonals": {
+      "value": "Przekątne"
+    },
+    "grid": {
+      "value": "Siatka"
+    },
+    "shapeNames.square": {
+      "value": "Kwadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Prostokąt"
+    },
+    "shapeNames.rhombus": {
+      "value": "Romb"
+    },
+    "shapeNames.kite": {
+      "value": "Deltoid"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapez równoramienny"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapez"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Czworokąt wklęsły"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Czworokąt wypukły"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Równoległobok"
+    },
+    "shapeNames.dart": {
+      "value": "Deltoid wklęsły"
+    },
+    "shapeNames.triangle": {
+      "value": "Trójkąt?"
+    },
+    "shapeNameHidden": {
+      "value": "Nazwa kształtu ukryta"
+    },
+    "smallSteps": {
+      "value": "Małe kroki"
+    },
+    "quadrilateral.title": {
+      "value": "Czworokąty"
+    }
+  },
+  "pt_BR": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opções de Formas de Som"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Escolha o design de som que você ouve ao criar formas diferentes."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Camada de sons para enfatizar qualidades de forma compartilhadas."
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Sons únicos identificam cada forma"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Reproduzir sons das formas continuamente"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Mover canto ou lado"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Mover em passos menores"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mouse"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Mover cantos ou lados"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Redefinir forma"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Atalhos de forma"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Redefinir Forma"
+    },
+    "labels": {
+      "value": "Rótulos"
+    },
+    "markers": {
+      "value": "Marcadores"
+    },
+    "diagonals": {
+      "value": "Diagonais"
+    },
+    "grid": {
+      "value": "Grade"
+    },
+    "shapeNames.square": {
+      "value": "Quadrado"
+    },
+    "shapeNames.rectangle": {
+      "value": "Retângulo"
+    },
+    "shapeNames.rhombus": {
+      "value": "Romboide"
+    },
+    "shapeNames.kite": {
+      "value": "Pipa"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapézio isósceles"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezoide"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Quadrilátero Côncavo"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Quadrilátero Convexo"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogramo"
+    },
+    "shapeNames.dart": {
+      "value": "Dardo"
+    },
+    "shapeNames.triangle": {
+      "value": "Triângulo?"
+    },
+    "shapeNameHidden": {
+      "value": "Nome da Forma Oculto"
+    },
+    "smallSteps": {
+      "value": "Pequenos Passos"
+    },
+    "quadrilateral.title": {
+      "value": "Quadrilátero"
+    }
+  },
+  "ro": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Opțiuni audio pentru figuri"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Alegeți sunetul pe care doriți să îl auziți în timp ce creați diferite figuri"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Suprapunere de sunete pentru a sublinia calitățile comune ale figurii"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Sunete unice pentru a identifica fiecare figură"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Redă continuu sunetele asociate figurii"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Deplasați vârful sau latura"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Deplasați în pași mai mici"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mouse"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Deplasați vârfurile sau laturile"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Resetați figura"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Scurtături pentru  figură"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Resetați figura"
+    },
+    "labels": {
+      "value": "Etichete"
+    },
+    "markers": {
+      "value": "Marcaje"
+    },
+    "diagonals": {
+      "value": "Diagonale"
+    },
+    "grid": {
+      "value": "Grilă"
+    },
+    "shapeNames.square": {
+      "value": "Pătrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Dreptunghi"
+    },
+    "shapeNames.rhombus": {
+      "value": "Romb"
+    },
+    "shapeNames.kite": {
+      "value": "Zmeu"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapez isoscel"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapez"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Patrulater concav"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Patrulater convex"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Săgeată"
+    },
+    "shapeNames.triangle": {
+      "value": "Triunghi?"
+    },
+    "shapeNameHidden": {
+      "value": "Denumirea formei - ascunsă"
+    },
+    "smallSteps": {
+      "value": "Pași mici"
+    },
+    "quadrilateral.title": {
+      "value": "Patrulatere"
+    }
+  },
+  "sk": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Nastavenie zvuku pre tvar"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Vyberte si typ zvuku, ktorý budete počuť pri vytváraní rôznych tvarov."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Iný zvuk pre každý druh tvaru"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Rovnaký zvuk pre všetky tvary"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Prehrávanie zvuku pre tvary"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Posun vrchola alebo strany"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Posun sa po menších krokoch"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Myš"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Presun vrcholov alebo strán"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Obnoviť tvar"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Nastavenie tvaru"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Obnoviť tvar"
+    },
+    "labels": {
+      "value": "Označenie vrcholov"
+    },
+    "markers": {
+      "value": "Značky uhlov"
+    },
+    "diagonals": {
+      "value": "Uhlopriečky"
+    },
+    "grid": {
+      "value": "Mriežka"
+    },
+    "shapeNames.square": {
+      "value": "Štvorec"
+    },
+    "shapeNames.rectangle": {
+      "value": "Obdĺžnik"
+    },
+    "shapeNames.rhombus": {
+      "value": "Kosoštvorec"
+    },
+    "shapeNames.kite": {
+      "value": "Deltoid"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Rovnoramenný lichobežník"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Lichobežník"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Konkávny štvoruholník"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Konvexný štvoruholník"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Rovnobežník"
+    },
+    "shapeNames.dart": {
+      "value": "Nekonvexný deltoid"
+    },
+    "shapeNames.triangle": {
+      "value": "Trojuholník?"
+    },
+    "shapeNameHidden": {
+      "value": "Názov tvaru je skrytý"
+    },
+    "smallSteps": {
+      "value": "Malé kroky"
+    },
+    "quadrilateral.title": {
+      "value": "Štvoruholník"
+    }
+  },
+  "sl": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Možnosti oblike zvoka"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Izberi zvočni dizajn, ki ga slišiš med oblikovanjem različnih oblik."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Zvočne plasti za prikaz lastnosti oblik."
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Inikatni zvoki identificirajo posamezne oblike."
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Predvajaj zvok oblike neprekinjeno"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Resetiraj obliko"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Bližnjica do oblik"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Premakni rob ali stran"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Premikaj z manjšimi koraki"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Miška"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Premakni vogale ali strani"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Resetiraj obliko"
+    },
+    "labels": {
+      "value": "Oznake"
+    },
+    "markers": {
+      "value": "Markerji"
+    },
+    "diagonals": {
+      "value": "Diagonale"
+    },
+    "grid": {
+      "value": "Mreža"
+    },
+    "shapeNames.square": {
+      "value": "Kvadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "Pravokotnik"
+    },
+    "shapeNames.rhombus": {
+      "value": "Romb"
+    },
+    "shapeNames.kite": {
+      "value": "Deltoid (Zmaj)"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Enakokraki trapez"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapez"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Vbočeni Trapeziod"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Trapezoid"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Vbočeni Deltoid"
+    },
+    "shapeNames.triangle": {
+      "value": "Trikotnik?"
+    },
+    "shapeNameHidden": {
+      "value": "Ime oblike je skrito"
+    },
+    "smallSteps": {
+      "value": "Majhni koraki"
+    },
+    "quadrilateral.title": {
+      "value": "Trapezoid"
+    }
+  },
+  "sr": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Опције звука"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Изаберите звучни дизајн који чујете док стварате различите облике."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Слој звука да би се нагласили заједнички квалитети облика"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Јединствени звуци идентификују сваки облик"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Пусти звук за облик увек"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Померите угао или страну"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Крећите се мањим корацима"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Миш"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Померите углове или стране"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Ресетуј облик"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Пречице за облике"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Ресетуј облик"
+    },
+    "labels": {
+      "value": "Натпис"
+    },
+    "markers": {
+      "value": "Маркери"
+    },
+    "diagonals": {
+      "value": "Дијагонале"
+    },
+    "grid": {
+      "value": "Мрежа"
+    },
+    "shapeNames.square": {
+      "value": "Квадрат"
+    },
+    "shapeNames.rectangle": {
+      "value": "Правоугаоник"
+    },
+    "shapeNames.rhombus": {
+      "value": "Ромб"
+    },
+    "shapeNames.kite": {
+      "value": "Змај"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Једнакокраки трапез"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Трапез"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Конкавни четвороугао"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Конвексни четвороугао"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Паралелограм"
+    },
+    "shapeNames.dart": {
+      "value": "Стрелa (конкавни четвороугао)"
+    },
+    "shapeNames.triangle": {
+      "value": "Троугао?"
+    },
+    "shapeNameHidden": {
+      "value": "Скривена имена облика"
+    },
+    "smallSteps": {
+      "value": "Мали кораци"
+    },
+    "quadrilateral.title": {
+      "value": "Четвороугао"
+    }
+  },
+  "st": {
+    "shapeNames.square": {
+      "value": "Sekoere"
+    }
+  },
+  "sw": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Umbo Sauti Chaguzi"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Chagua muundo wa sauti unaosikia unapounda maumbo tofauti."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Safu ya sauti ili kusisitiza sifa za umbo zilizoshirikiwa."
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Sauti za kipekee hutambulisha kila umbo."
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Cheza sauti za umbo milele."
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Sogeza pembeni au pande za pembeni."
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Sogeza kwa hatua ndogo."
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "kielekezi"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Sogeza Pembe au Pande"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Weka Upya Umbo"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Njia za mkato za umbo"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Weka Upya Umbo"
+    },
+    "labels": {
+      "value": "Lebo"
+    },
+    "markers": {
+      "value": "alama"
+    },
+    "diagonals": {
+      "value": "Milalo"
+    },
+    "grid": {
+      "value": "Gridi"
+    },
+    "shapeNames.square": {
+      "value": "mraba"
+    },
+    "shapeNames.rectangle": {
+      "value": "Mstatili"
+    },
+    "shapeNames.rhombus": {
+      "value": "Almasi"
+    },
+    "shapeNames.kite": {
+      "value": "Tiara"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Trapezoid ya isosceles"
+    },
+    "shapeNames.trapezoid": {
+      "value": "msambamba tenge"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Upinde wa pembe nne"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "mbonyeo ya pembe nne"
+    },
+    "shapeNames.parallelogram": {
+      "value": "msambamba"
+    },
+    "shapeNames.dart": {
+      "value": "kishale"
+    },
+    "shapeNames.triangle": {
+      "value": "pembetatu"
+    },
+    "shapeNameHidden": {
+      "value": "Jina la Umbo limefichwa"
+    },
+    "smallSteps": {
+      "value": "Hatua Ndogo"
+    },
+    "quadrilateral.title": {
+      "value": "pembenne"
+    }
+  },
+  "te": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Shape Sound Options"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Choose the sound design you hear as you create different shapes."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Sounds layer to emphasize shared shape qualities"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Unique sounds identify each shape"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Play shape sounds forever"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Move corner or side"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Move in smaller steps"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mouse"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Move Corners or Sides"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "మళ్లీ మొదటి ఆకారానికి"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Shape Shortcuts"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "మళ్లీ మొదటి ఆకారానికి"
+    },
+    "labels": {
+      "value": "లేబుళ్లు"
+    },
+    "markers": {
+      "value": "మార్కర్లు"
+    },
+    "diagonals": {
+      "value": "కర్ణాలు"
+    },
+    "grid": {
+      "value": "గ్రిడ్"
+    },
+    "shapeNames.square": {
+      "value": "చతురస్రం"
+    },
+    "shapeNames.rectangle": {
+      "value": "దీర్ఘ చతురస్రం"
+    },
+    "shapeNames.rhombus": {
+      "value": "సమ చతుర్భుజం"
+    },
+    "shapeNames.kite": {
+      "value": "గాలి పట ఆకారం"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "సమద్విబాహు సమలంబ చతుర్భుజం"
+    },
+    "shapeNames.trapezoid": {
+      "value": "సమలంబ చతుర్భుజం"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "పుటాకార చతుర్భుజం"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "కుంభాకార చతుర్భుజం"
+    },
+    "shapeNames.parallelogram": {
+      "value": "సమాంతర చతుర్భుజం"
+    },
+    "shapeNames.dart": {
+      "value": "బాణం"
+    },
+    "shapeNames.triangle": {
+      "value": "త్రిభుజం?"
+    },
+    "shapeNameHidden": {
+      "value": "ఆకారం పేరును దాచు"
+    },
+    "smallSteps": {
+      "value": "చిన్న చిన్న  అంచెలు"
+    },
+    "quadrilateral.title": {
+      "value": "చతుర్భుజం"
+    }
+  },
+  "tr": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Şekil Sesi Seçenekleri"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Şekli Sıfırla"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Şekli Sıfırla"
+    },
+    "labels": {
+      "value": "Etiketler"
+    },
+    "markers": {
+      "value": "İşaretle"
+    },
+    "diagonals": {
+      "value": "Köşegenler"
+    },
+    "grid": {
+      "value": "Izgara Göster"
+    },
+    "shapeNames.square": {
+      "value": "Kare"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "İkizkenar Yamuk"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Yamuk"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "İçbükey Dörtgen"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Dışbükey Dörtgen"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelkenar"
+    },
+    "shapeNames.triangle": {
+      "value": "Üçgen?"
+    },
+    "shapeNameHidden": {
+      "value": "Şeklin Adı"
+    },
+    "quadrilateral.title": {
+      "value": "Dörtgen"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Farklı şekiller oluştururken duyduğunuz sesi seçin."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Paylaşılan şekil özelliklerini vurgulamak için ses katmanı"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Her bir şekli tanımlayan benzersiz sesler"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Sonsuza kadar şekil seslerini çal"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Köşeye veya yana taşı"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Daha küçük adımlarla hareket edin"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mouse"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Köşeleri veya Kenarları Taşı"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Şekil Kısayolları"
+    },
+    "shapeNames.rectangle": {
+      "value": "Dikdörtgen"
+    },
+    "shapeNames.rhombus": {
+      "value": "Eşkenar Dörtgen"
+    },
+    "shapeNames.kite": {
+      "value": "Uçurtma"
+    },
+    "smallSteps": {
+      "value": "Küçük Hareket Etme"
+    }
+  },
+  "uz": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Tovush Parametrlarini Shakllantirish"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Turli shakllarni yaratayotganda eshitadigan tovush dizaynini tanlang."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Umumiy shakl sifatlarini ta'kidlash uchun tovush qatlami"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Noyob tovushlar har bir shaklni aniqlaydi"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Shakl tovushlarini doimiy o‘ynatish"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Burchak yoki yon tomonga harakatlantirish"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Kichikroq qadamlar bilan harakatlanish"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Sichqoncha"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Burchaklarni yoki Tomonlarni Harakatlantirish"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Shaklni Tiklash"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Shakl Yorliqlari"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Shaklni tiklash"
+    },
+    "labels": {
+      "value": "Yorliqlar"
+    },
+    "markers": {
+      "value": "Belgilar"
+    },
+    "diagonals": {
+      "value": "Diagonallar"
+    },
+    "grid": {
+      "value": "To‘r"
+    },
+    "shapeNames.square": {
+      "value": "Kvadrat"
+    },
+    "shapeNames.rectangle": {
+      "value": "To‘rtburchak"
+    },
+    "shapeNames.rhombus": {
+      "value": "Romb"
+    },
+    "shapeNames.kite": {
+      "value": "Varrak"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Teng Yonli Trapetsiya"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapetsiya"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Botiq To‘rtburchak"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Qavariq To‘rtburchak"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Paralelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Nayza"
+    },
+    "shapeNames.triangle": {
+      "value": "Uchburchakmi?"
+    },
+    "shapeNameHidden": {
+      "value": "Shakl Nomi Yashirin"
+    },
+    "smallSteps": {
+      "value": "Kichik Qadamlar"
+    },
+    "quadrilateral.title": {
+      "value": "To‘rtburchak"
+    }
+  },
+  "vi": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Shape Sound Options"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Choose the sound design you hear as you create different shapes."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Sounds layer to emphasize shared shape qualities"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Unique sounds identify each shape"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Play shape sounds forever"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Move corner or side"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Move in smaller steps"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Chuột"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Move Corners or Sides"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Reset"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Shape Shortcuts"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "Reset"
+    },
+    "labels": {
+      "value": "Nhãn"
+    },
+    "markers": {
+      "value": "Dấu"
+    },
+    "diagonals": {
+      "value": "Đường chéo"
+    },
+    "grid": {
+      "value": "Lưới"
+    },
+    "shapeNames.square": {
+      "value": "Hình vuông"
+    },
+    "shapeNames.rectangle": {
+      "value": "Hình chữ nhật"
+    },
+    "shapeNames.rhombus": {
+      "value": "Hình thoi"
+    },
+    "shapeNames.kite": {
+      "value": "Diều"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Hình thang cân"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Hình thang"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Tứ giác lõm"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Tứ giác lồi"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Hình bình hành"
+    },
+    "shapeNames.dart": {
+      "value": "Tên"
+    },
+    "shapeNames.triangle": {
+      "value": "Tam giác?"
+    },
+    "shapeNameHidden": {
+      "value": "Giấu tên hình"
+    },
+    "smallSteps": {
+      "value": "Bước nhỏ"
+    },
+    "quadrilateral.title": {
+      "value": "Tứ giác"
+    }
+  },
+  "yo": {
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "quadrilateral.title": {
+      "value": "Quadrilaterali"
+    }
+  },
+  "zh_TW": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "形狀音效選項"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "選擇您在建立不同形狀時要聽到的音效。"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "音效疊加突顯形狀的特質"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "每個形狀都有專屬音效"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "不斷播放形狀音效"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "移動角或邊"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "以較小步伐移動"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "滑鼠"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "移動角或邊"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "重置形狀"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "形狀的快捷鍵"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "重置形狀"
+    },
+    "labels": {
+      "value": "標籤"
+    },
+    "markers": {
+      "value": "標記"
+    },
+    "diagonals": {
+      "value": "對角線"
+    },
+    "grid": {
+      "value": "格線"
+    },
+    "shapeNames.square": {
+      "value": "正方形"
+    },
+    "shapeNames.rectangle": {
+      "value": "矩形"
+    },
+    "shapeNames.rhombus": {
+      "value": "菱形"
+    },
+    "shapeNames.kite": {
+      "value": "鴛形"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "等腰梯形"
+    },
+    "shapeNames.trapezoid": {
+      "value": "梯形"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "凹四邊形"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "凸四邊形"
+    },
+    "shapeNames.parallelogram": {
+      "value": "平行四邊形"
+    },
+    "shapeNames.dart": {
+      "value": "飛鏢形"
+    },
+    "shapeNames.triangle": {
+      "value": "三角形？"
+    },
+    "shapeNameHidden": {
+      "value": "已隱藏形狀名稱"
+    },
+    "smallSteps": {
+      "value": "小步伐"
+    },
+    "quadrilateral.title": {
+      "value": "Quadrilateral_四邊形"
+    }
+  },
+  "zu": {
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "izinketho zomsindo womumo"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "khetha idisayini yomsindo iyoswayo njengoba udala izimo ezihlukene"
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "ungqimba lomsindo ukugcizelela izimfanelo zomumo owabiwe"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "imisondo oyingqayizivele khombaumumo ngamunye"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "dlala imisindo yomumo kuze kube phakade"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "hambisa amakhona noma izinhlangothi"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "hamba ngezinyathelo ezincane"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "igundane"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "hambisa amakhona noma izinhlangothi"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "setha kabusha umumo"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "izinqamuleli zomumo"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "resetShape": {
+      "value": "setha kabusha umumo"
+    },
+    "labels": {
+      "value": "amalebula"
+    },
+    "markers": {
+      "value": "izimpawu"
+    },
+    "diagonals": {
+      "value": "ama-diagonal"
+    },
+    "grid": {
+      "value": "igridi"
+    },
+    "shapeNames.square": {
+      "value": "isikwele"
+    },
+    "shapeNames.rectangle": {
+      "value": "unxande"
+    },
+    "shapeNames.rhombus": {
+      "value": "i-rhombus"
+    },
+    "shapeNames.kite": {
+      "value": "ikhayithi"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Isosceles Trapezoid"
+    },
+    "shapeNames.trapezoid": {
+      "value": "i-trapezoid"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "i-concave quadrilateral"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "i-convex quadrilateral"
+    },
+    "shapeNames.parallelogram": {
+      "value": "i-parallelogram"
+    },
+    "shapeNames.dart": {
+      "value": "umcibisholo"
+    },
+    "shapeNames.triangle": {
+      "value": "unxantathu"
+    },
+    "shapeNameHidden": {
+      "value": "igama lomumo lifihliwe"
+    },
+    "smallSteps": {
+      "value": "izinyathelo ezincane"
+    },
+    "quadrilateral.title": {
+      "value": "i-quadrilateral"
+    }
+  },
+  "en": {
+    "quadrilateral.title": {
+      "value": "Quadrilateral"
+    },
+    "labels": {
+      "value": "Labels"
+    },
+    "markers": {
+      "value": "Markers"
+    },
+    "diagonals": {
+      "value": "Diagonals"
+    },
+    "grid": {
+      "value": "Grid"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "shapeNameHidden": {
+      "value": "Shape Name Hidden"
+    },
+    "resetShape": {
+      "value": "Reset Shape"
+    },
+    "shapeNames.square": {
+      "value": "Square"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rectangle"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rhombus"
+    },
+    "shapeNames.kite": {
+      "value": "Kite"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Isosceles Trapezoid"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezoid"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Concave Quadrilateral"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Convex Quadrilateral"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Dart"
+    },
+    "shapeNames.triangle": {
+      "value": "Triangle?"
+    },
+    "keyboardHelpDialog.moveCornersOrSides": {
+      "value": "Move Corners or Sides"
+    },
+    "keyboardHelpDialog.moveCornerOrSide": {
+      "value": "Move corner or side"
+    },
+    "keyboardHelpDialog.moveInSmallerSteps": {
+      "value": "Move in smaller steps"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mouse"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Shape Shortcuts"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Reset Shape"
+    },
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Shape Sound Options"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Choose the sound design you hear as you create different shapes."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Sounds layer to emphasize shared shape qualities"
+    },
+    "preferencesDialog.uniqueSoundDesignDescription": {
+      "value": "Unique sounds identify each shape"
+    },
+    "preferencesDialog.playShapeSoundsForever": {
+      "value": "Play shape sounds forever"
+    },
+    "smallSteps": {
+      "value": "Small Steps"
+    },
+    "a11y": {
+      "cornerLabelsAddedResponse": {
+        "value": "Letters A through D added to corners."
+      },
+      "cornerLabelsRemovedResponse": {
+        "value": "Corner labels hidden."
+      },
+      "cornerLabelsHintResponse": {
+        "value": "Create shapes with or without help of visual corner labels."
+      },
+      "markersAddedResponse": {
+        "value": "30-degree angle wedges and evenly-spaced side units added."
+      },
+      "markersRemovedResponse": {
+        "value": "Angle wedges and side units hidden."
+      },
+      "markersHintResponse": {
+        "value": "Create shapes with or without help of 30-degree angle wedges and evenly-spaced side-length units."
+      },
+      "gridLinesAddedResponse": {
+        "value": "Grid lines added."
+      },
+      "gridLinesRemovedResponse": {
+        "value": "Grid lines hidden."
+      },
+      "diagonalGuidesAddedResponse": {
+        "value": "Guides pass diagonally through opposite corners."
+      },
+      "diagonalGuidesRemovedResponse": {
+        "value": "Diagonal guides hidden."
+      },
+      "diagonalGuidesHintResponse": {
+        "value": "Create shapes with or without help of diagonal symmetry guides."
+      },
+      "gridLinesHintResponse": {
+        "value": "Create shapes with or without help of background grid."
+      },
+      "cornerA": {
+        "value": "Corner A"
+      },
+      "cornerB": {
+        "value": "Corner B"
+      },
+      "cornerC": {
+        "value": "Corner C"
+      },
+      "cornerD": {
+        "value": "Corner D"
+      },
+      "sideAB": {
+        "value": "Side AB"
+      },
+      "sideBC": {
+        "value": "Side BC"
+      },
+      "sideCD": {
+        "value": "Side CD"
+      },
+      "sideDA": {
+        "value": "Side DA"
+      },
+      "aB": {
+        "value": "AB"
+      },
+      "bC": {
+        "value": "BC"
+      },
+      "cD": {
+        "value": "CD"
+      },
+      "dA": {
+        "value": "DA"
+      },
+      "voicing": {
+        "overviewContent": {
+          "value": "Quadrilaterals are shapes with four sides. This one changes as you play with its connected corners and sides. Moving a corner or side changes your shape in different ways all at once. You cannot break your shape or make sides or corners cross over. Use shape markers, background grid, and diagonal guides as needed to create different shapes in the quadrilateral family. You can show shape name, mute shape sounds, quickly reset shape or start over with reset all."
+        },
+        "hintContent": {
+          "value": "Move corners and sides in big steps or small steps. Have fun!"
+        },
+        "youHaveAShapeHintPattern": {
+          "value": "You have {{shapeDescription}}."
+        },
+        "youHaveASizedNamedShapePattern": {
+          "value": "Your {{shapeName}} has a {{size}} area."
+        },
+        "youHaveASizedShapePattern": {
+          "value": "Your shape has a {{size}} area."
+        },
+        "firstDetailsStatementPattern": {
+          "value": "Right now, {{cornerType}} corners are {{angleEquality}}, and {{sideType}} sides are equal."
+        },
+        "vertexHintResponse": {
+          "value": "Move corner and change its two connected sides and up to 3 corners."
+        },
+        "sideHintResponse": {
+          "value": "Move side and change its two connected sides and up to 4 corners."
+        },
+        "details": {
+          "all": {
+            "value": "all"
+          },
+          "opposite": {
+            "value": "opposite"
+          },
+          "rightAngles": {
+            "value": "right angles"
+          },
+          "equal": {
+            "value": "equal"
+          },
+          "pairsOfAdjacent": {
+            "value": "pairs of adjacent"
+          },
+          "onePairOfAdjacent": {
+            "value": "one pair of adjacent"
+          },
+          "onePairOfOpposite": {
+            "value": "one pair of opposite"
+          },
+          "noString": {
+            "value": "no"
+          }
+        },
+        "sidesDescriptionPattern": {
+          "value": "Sides {{description}}."
+        },
+        "longestSidesDescriptionPattern": {
+          "value": "longest sides {{description}}"
+        },
+        "longestSideDescriptionPattern": {
+          "value": "longest side {{description}}"
+        },
+        "shortestSidesDescriptionPattern": {
+          "value": "shortest sides {{description}}"
+        },
+        "shortestSideDescriptionPattern": {
+          "value": "shortest side {{description}}"
+        },
+        "sideLengthDescriptionPattern": {
+          "value": "{{longest}}, {{shortest}}"
+        },
+        "cornersRightDescription": {
+          "value": "Corners 90 degrees."
+        },
+        "widestCornersDescriptionPattern": {
+          "value": "widest corners {{description}}"
+        },
+        "widestCornerDescriptionPattern": {
+          "value": "widest corner {{description}}"
+        },
+        "smallestCornersDescriptionPattern": {
+          "value": "smallest corners {{description}}"
+        },
+        "smallestCornerDescriptionPattern": {
+          "value": "smallest corner {{description}}"
+        },
+        "cornersDescriptionPattern": {
+          "value": "{{longest}}, {{shortest}}"
+        },
+        "oppositeSidesTiltPattern": {
+          "value": "Opposite sides {{tiltChange}} in parallel as opposite corners change equally."
+        },
+        "oppositeSidesInParallelPattern": {
+          "value": "Opposite sides in parallel as shape gets {{areaChange}}."
+        },
+        "oppositeSidesInParallelAsCornersChangeEquallyPattern": {
+          "value": "Opposite sides {{firstSide}} and {{secondSide}} tilt in parallel as corners change unequally."
+        },
+        "oppositeSidesTiltAsShapeChangesPattern": {
+          "value": "Opposite sides {{firstSide}} and {{secondSide}} tilt in parallel as shape gets {{areaChange}}."
+        },
+        "maintainingATrapezoidAsShapeChangesPattern": {
+          "value": "Opposite sides {{firstSide}} and {{secondSide}} in parallel as shape gets {{areaChange}}."
+        },
+        "adjacentSidesChangeEquallyAsShapeChangesPattern": {
+          "value": "Adjacent sides change equally as shape gets {{areaChange}}."
+        },
+        "oppositeSidesEqualAsShapeChangesPattern": {
+          "value": "Opposite sides {{firstSide}} and {{secondSide}} equal as shape gets {{areaChange}}."
+        },
+        "maintainingAParallelogramAngleResponse": {
+          "value": "Opposite sides in parallel as opposite corners change equally."
+        },
+        "maintainingAParallelogramLengthResponsePattern": {
+          "value": "Opposite sides in parallel as shape gets {{areaChange}}."
+        },
+        "allRightAnglesAsShapeChangesPattern": {
+          "value": "All right angles as shape gets {{areaChange}}."
+        },
+        "maintainingARhombus": {
+          "value": "Opposite corners change equally, opposite equal sides in parallel."
+        },
+        "allSidesEqualAsShapeChangesPattern": {
+          "value": "All sides equal as shape gets {{areaChange}}."
+        },
+        "cornerFlatAsShapeChangesPattern": {
+          "value": "{{cornerLabel}} flat as adjacent sides change in length."
+        },
+        "adjacentSidesInLinePattern": {
+          "value": "Adjacent sides {{firstSide}} and {{secondSide}} in line as shape gets {{areaChange}}"
+        },
+        "allSidesTiltAwayFromParallel": {
+          "value": "All sides tilt away from parallel as opposite corners change unequally."
+        },
+        "allSidesTiltAwayFromParallelAsShapeChangesPattern": {
+          "value": "All sides tilt away from parallel as shape gets {{areaChange}}"
+        },
+        "tilt": {
+          "value": "tilt"
+        },
+        "straighten": {
+          "value": "straighten"
+        },
+        "bigger": {
+          "value": "bigger"
+        },
+        "smaller": {
+          "value": "smaller"
+        },
+        "sizes": {
+          "tiny": {
+            "value": "tiny"
+          },
+          "verySmall": {
+            "value": "very small"
+          },
+          "small": {
+            "value": "small"
+          },
+          "mediumSized": {
+            "value": "medium-sized"
+          },
+          "large": {
+            "value": "large"
+          }
+        },
+        "shapeNames": {
+          "withoutArticles": {
+            "square": {
+              "value": "square"
+            },
+            "rectangle": {
+              "value": "rectangle"
+            },
+            "rhombus": {
+              "value": "rhombus"
+            },
+            "kite": {
+              "value": "kite"
+            },
+            "isoscelesTrapezoid": {
+              "value": "isosceles trapezoid"
+            },
+            "trapezoid": {
+              "value": "trapezoid"
+            },
+            "concaveQuadrilateral": {
+              "value": "concave quadrilateral"
+            },
+            "convexQuadrilateral": {
+              "value": "convex quadrilateral"
+            },
+            "parallelogram": {
+              "value": "parallelogram"
+            },
+            "dart": {
+              "value": "dart"
+            },
+            "triangle": {
+              "value": "triangle, is that right?"
+            }
+          },
+          "withArticles": {
+            "square": {
+              "value": "a square"
+            },
+            "rectangle": {
+              "value": "a rectangle"
+            },
+            "rhombus": {
+              "value": "a rhombus"
+            },
+            "kite": {
+              "value": "a kite"
+            },
+            "isoscelesTrapezoid": {
+              "value": "an isosceles trapezoid"
+            },
+            "trapezoid": {
+              "value": "a trapezoid"
+            },
+            "concaveQuadrilateral": {
+              "value": "a concave quadrilateral"
+            },
+            "convexQuadrilateral": {
+              "value": "a convex quadrilateral"
+            },
+            "parallelogram": {
+              "value": "a parallelogram"
+            },
+            "dart": {
+              "value": "a dart"
+            },
+            "triangle": {
+              "value": "a triangle, is that right?"
+            }
+          }
+        },
+        "allRightAnglesAllSidesEqual": {
+          "value": "All right angles, all sides equal."
+        },
+        "allSidesEqual": {
+          "value": "All sides equal."
+        },
+        "allRightAngles": {
+          "value": "All right angles."
+        },
+        "oppositeSidesInParallel": {
+          "value": "Opposite sides in parallel."
+        },
+        "trapezoidDetailsPattern": {
+          "value": "Opposite sides {{firstSide}} and {{secondSide}} in parallel."
+        },
+        "isoscelesTrapezoidDetailsPattern": {
+          "value": "Opposite sides {{equalFirstSide}} and {{equalSecondSide}} equal, opposite sides {{parallelFirstSide}} and {{parallelSecondSide}} in parallel."
+        },
+        "kiteDetailsPattern": {
+          "value": "Corners {{firstCorner}} and {{secondCorner}} are equal, and pairs of adjacent sides are equal."
+        },
+        "kiteDetailsShortPattern": {
+          "value": "Corners {{firstCorner}} and {{secondCorner}} are equal."
+        },
+        "dartDetailsPattern": {
+          "value": "Corner {{inwardCorner}} points inward, Corners {{firstCorner}} and {{secondCorner}} are equal, and pairs of adjacent sides are equal."
+        },
+        "dartDetailsShortPattern": {
+          "value": "Corner {{inwardCorner}} points inward, Corners {{firstCorner}} and {{secondCorner}} are equal."
+        },
+        "triangleDetailsPattern": {
+          "value": "Corner {{flatCorner}} flat, adjacent sides look like one."
+        },
+        "convexQuadrilateralDetails": {
+          "value": "No sides in parallel."
+        },
+        "concaveQuadrilateralDetailsPattern": {
+          "value": "Corner {{inwardCorner}} points inward, no sides in parallel."
+        },
+        "vertexObjectResponsePattern": {
+          "value": "{{oppositeComparison}} opposite corner, {{adjacentVertexDescription}}."
+        },
+        "vertexObjectResponseWithWedgesPattern": {
+          "value": "{{wedgeDescription}}, {{oppositeComparison}} opposite corner, {{adjacentVertexDescription}}."
+        },
+        "rightAngle": {
+          "value": "right angle"
+        },
+        "angleFlat": {
+          "value": "6 wedges"
+        },
+        "oneWedge": {
+          "value": "one wedge"
+        },
+        "halfOneWedge": {
+          "value": "half one wedge"
+        },
+        "lessThanHalfOneWedge": {
+          "value": "less than half 1 wedge"
+        },
+        "justUnderOneWedge": {
+          "value": "just under 1 wedge"
+        },
+        "justOverOneWedge": {
+          "value": "just over 1 wedge"
+        },
+        "numberOfWedgesPattern": {
+          "value": "{{numberOfWedges}} wedges"
+        },
+        "numberOfWedgesAndAHalfPattern": {
+          "value": "{{numberOfWedges}} and a half wedges"
+        },
+        "justOverNumberOfWedgesPattern": {
+          "value": "just over {{numberOfWedges}} wedges"
+        },
+        "justUnderNumberOfWedgesPattern": {
+          "value": "just under {{numberOfWedges}} wedges"
+        },
+        "oneUnit": {
+          "value": "1 unit"
+        },
+        "numberOfUnitsPattern": {
+          "value": "{{numberOfUnits}} units"
+        },
+        "numberOfUnitsAndAHalfPattern": {
+          "value": "{{numberOfUnits}} and a half units"
+        },
+        "oneQuarterUnit": {
+          "value": "one quarter unit"
+        },
+        "numberAndOneQuarterUnitsPattern": {
+          "value": "{{fullNumber}} and one-quarter units"
+        },
+        "threeQuarterUnits": {
+          "value": "three-quarter units"
+        },
+        "numberAndThreeQuarterUnitsPattern": {
+          "value": "{{fullNumber}} and three-quarter units"
+        },
+        "aboutOneUnit": {
+          "value": "about one unit"
+        },
+        "aboutNumberUnitsPattern": {
+          "value": "about {{number}} units"
+        },
+        "aboutOneHalfUnits": {
+          "value": "about one-half units"
+        },
+        "oneHalfUnits": {
+          "value": "one-half units"
+        },
+        "aboutNumberAndAHalfUnitsPattern": {
+          "value": "about {{number}} and a half units"
+        },
+        "aboutNumberQuarterUnitsPattern": {
+          "value": "about {{number}}-quarter units"
+        },
+        "aboutFullNumberAndNumberQuarterUnitsPattern": {
+          "value": "about {{fullNumber}} and {{number}}-quarter units"
+        },
+        "vertexDragObjectResponse": {
+          "wider": {
+            "value": "wider"
+          },
+          "smaller": {
+            "value": "smaller"
+          },
+          "vertexDragObjectResponsePattern": {
+            "value": "angle {{angleChange}}"
+          }
+        },
+        "sideDragObjectResponse": {
+          "shorter": {
+            "value": "shorter"
+          },
+          "longer": {
+            "value": "longer"
+          },
+          "adjacentSidesChangePattern": {
+            "value": "adjacent sides {{lengthChange}}"
+          },
+          "adjacentSidesChangeInLength": {
+            "value": "adjacent sides change in length"
+          },
+          "parallelAdjacentSidesChangePattern": {
+            "value": "parallel adjacent sides {{lengthChange}}"
+          },
+          "equalAdjacentSidesChangePattern": {
+            "value": "equal adjacent sides {{lengthChange}}"
+          },
+          "adjacentSidesEqual": {
+            "value": "adjacent sides equal"
+          },
+          "equalToAdjacentSides": {
+            "value": "equal to adjacent sides"
+          },
+          "adjacentSidesParallel": {
+            "value": "adjacent sides parallel"
+          },
+          "equalToOneAdjacentSide": {
+            "value": "equal to one adjacent side"
+          },
+          "threeSidesEqual": {
+            "value": "three sides equal"
+          },
+          "twoSidesEqual": {
+            "value": "two sides equal"
+          }
+        },
+        "farSmallerThan": {
+          "value": "far smaller than"
+        },
+        "aboutHalfAsWideAs": {
+          "value": "about half as wide as"
+        },
+        "halfAsWideAs": {
+          "value": "half as wide as"
+        },
+        "aLittleSmallerThan": {
+          "value": "a little smaller than"
+        },
+        "muchSmallerThan": {
+          "value": "much smaller than"
+        },
+        "similarButSmallerThan": {
+          "value": "similar but smaller than"
+        },
+        "equalTo": {
+          "value": "equal to"
+        },
+        "similarButWiderThan": {
+          "value": "similar but wider than"
+        },
+        "aLittleWiderThan": {
+          "value": "a little wider than"
+        },
+        "muchWiderThan": {
+          "value": "much wider than"
+        },
+        "aboutTwiceAsWideAs": {
+          "value": "about twice as wide as"
+        },
+        "twiceAsWideAs": {
+          "value": "twice as wide as"
+        },
+        "farWiderThan": {
+          "value": "far wider than"
+        },
+        "equalToAdjacentCorners": {
+          "value": "equal to adjacent corners"
+        },
+        "equalToOneAdjacentCorner": {
+          "value": "equal to one adjacent corner"
+        },
+        "equalAdjacentCornersPattern": {
+          "value": "{{comparison}} equal adjacent corners"
+        },
+        "smallerThanAdjacentCorners": {
+          "value": "smaller than adjacent corners"
+        },
+        "widerThanAdjacentCorners": {
+          "value": "wider than adjacent corners"
+        },
+        "notEqualToAdjacentCorners": {
+          "value": "not equal to adjacent corners"
+        },
+        "farShorterThan": {
+          "value": "far shorter than"
+        },
+        "aboutHalfAsLongAs": {
+          "value": "about half as long as"
+        },
+        "halfAsLongAs": {
+          "value": "half as long as"
+        },
+        "aLittleShorterThan": {
+          "value": "a little shorter than"
+        },
+        "muchShorterThan": {
+          "value": "much shorter than"
+        },
+        "similarButShorterThan": {
+          "value": "similar but shorter than"
+        },
+        "similarButLongerThan": {
+          "value": "similar but longer than"
+        },
+        "aLittleLongerThan": {
+          "value": "a little longer than"
+        },
+        "muchLongerThan": {
+          "value": "much longer than"
+        },
+        "aboutTwiceAsLongAs": {
+          "value": "about twice as long as"
+        },
+        "twiceAsLongAs": {
+          "value": "twice as long as"
+        },
+        "farLongerThan": {
+          "value": "far longer than"
+        },
+        "parallelEqualSideObjectResponsePattern": {
+          "value": "Parallel and {{oppositeComparison}} opposite side, {{adjacentSideDescription}}"
+        },
+        "parallelSideObjectResponsePattern": {
+          "value": "Parallel to and {{oppositeComparison}} opposite side, {{adjacentSideDescription}}"
+        },
+        "sideObjectResponsePattern": {
+          "value": "{{oppositeComparison}} opposite side, {{adjacentSideDescription}}"
+        },
+        "sideUnitsObjectResponsePattern": {
+          "value": "{{unitsDescription}}, {{objectResponse}}"
+        },
+        "equalToAdjacentSides": {
+          "value": "equal to adjacent sides"
+        },
+        "equalToOneAdjacentSide": {
+          "value": "equal to one adjacent side"
+        },
+        "equalAdjacentSidesPattern": {
+          "value": "{{comparison}} equal adjacent sides"
+        },
+        "equalAdjacentParallelSidesPattern": {
+          "value": "{{comparison}} parallel and equal adjacent sides"
+        },
+        "shorterThanAdjacentSides": {
+          "value": "shorter than adjacent sides"
+        },
+        "shorterThanParallelAdjacentSides": {
+          "value": "shorter than parallel adjacent sides"
+        },
+        "longerThanAdjacentSides": {
+          "value": "longer than adjacent sides"
+        },
+        "longerThanParallelAdjacentSides": {
+          "value": "longer than parallel adjacent sides"
+        },
+        "notEqualToAdjacentSides": {
+          "value": "not equal to adjacent sides"
+        },
+        "notEqualToParallelAdjacentSides": {
+          "value": "not equal to parallel adjacent sides"
+        },
+        "back": {
+          "value": "back"
+        },
+        "gone": {
+          "value": "gone"
+        },
+        "cornersBack": {
+          "value": "Corners back."
+        },
+        "cornersGone": {
+          "value": "Corners gone."
+        },
+        "cornerDetectedPattern": {
+          "value": "Corner {{label}} {{state}}"
+        },
+        "shapeSoundControl": {
+          "nameResponse": {
+            "value": "Shape Sounds"
+          },
+          "enabledContextResponse": {
+            "value": "On for shape changes"
+          },
+          "disabledContextResponse": {
+            "value": "Off for shape changes"
+          },
+          "hintResponse": {
+            "value": "Explore with or without musical sounds for shape changes."
+          }
+        },
+        "resetShape": {
+          "contextResponse": {
+            "value": "All right angles, all sides two units."
+          }
+        },
+        "foundShapePattern": {
+          "value": "Found {{shapeName}}"
+        },
+        "shapeNameHiddenContextResponse": {
+          "value": "Listen for changing shape properties."
+        },
+        "shapeNameShownContextResponse": {
+          "value": "Listen for changing shape names."
+        },
+        "angleComparisonPattern": {
+          "value": "{{comparison}} {{cornerLabel}}"
+        },
+        "equalToOppositeCornerEqualToAdjacentCorners": {
+          "value": "equal to opposite corner, equal to adjacent corners"
+        },
+        "oppositeCorner": {
+          "value": "opposite corner"
+        },
+        "adjacentCornersEqual": {
+          "value": "adjacent corners equal"
+        },
+        "adjacentCornersRightAngles": {
+          "value": "adjacent corners right angles"
+        },
+        "progressStatePattern": {
+          "value": "{{progress}}, {{state}}"
+        },
+        "blockedByEdge": {
+          "value": "Blocked by Edge."
+        },
+        "blockedByInnerShape": {
+          "value": "Blocked by inner shape."
+        },
+        "minorIntervalsToggle": {
+          "hintResponse": {
+            "value": "When locked, corners and sides move in small steps."
+          },
+          "lockedNameResponse": {
+            "value": "Small Steps Locked"
+          },
+          "unlockedNameResponse": {
+            "value": "Small Steps Unlocked"
+          },
+          "lockedContextResponse": {
+            "value": "Corner and side movement locked to small steps."
+          },
+          "unlockedContextResponse": {
+            "value": "Shift key needed to make small steps."
+          }
+        }
+      },
+      "keyboardHelpDialog": {
+        "checkShapeDescriptionPattern": {
+          "value": "With Voicing enabled, check shape name or properties with {{altOrOption}} plus C."
+        },
+        "resetShapeDescriptionPattern": {
+          "value": "Reset Shape with {{altOrOption}} plus Shift plus R."
+        },
+        "moveShapeDescription": {
+          "value": "Move corner or side up, left, down, or right with Arrow keys or with letter keys W, A, S, or D."
+        },
+        "smallerStepsDescription": {
+          "value": "Move in smaller steps with Shift plus Arrow keys, or Shift plus letter keys W, A, S, or D, or Shift plus Mouse."
+        }
+      },
+      "preferencesDialog": {
+        "tracksPlayForeverToggle": {
+          "checkedContextResponse": {
+            "value": "Shape sounds play forever."
+          },
+          "uncheckedContextResponse": {
+            "value": "Shape sounds fade out."
+          }
+        }
+      }
+    }
+  }
+}

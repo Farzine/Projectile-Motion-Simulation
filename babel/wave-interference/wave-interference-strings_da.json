@@ -1,0 +1,818 @@
+{
+  "circleDiameter": {
+    "value": "Cirkeldiameter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Cirkeldiameter",
+        "explanation": null
+      }
+    ]
+  },
+  "mmValue": {
+    "value": "{{value}} mm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "{{value}} mm",
+        "explanation": null
+      }
+    ]
+  },
+  "squareWidth": {
+    "value": "Arealbredde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Arealbredde",
+        "explanation": null
+      }
+    ]
+  },
+  "disorder": {
+    "value": "Uorden",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Uorden",
+        "explanation": null
+      }
+    ]
+  },
+  "latticeSpacing": {
+    "value": "Gitter-mellemrum",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Gitter-mellemrum",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Mange",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Mange",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Ingen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Ingen",
+        "explanation": null
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Diameter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Diameter",
+        "explanation": null
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "Excentricitet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Excentricitet",
+        "explanation": null
+      }
+    ]
+  },
+  "height": {
+    "value": "Højde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Højde",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Bredde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Bredde",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesValue": {
+    "value": "{{value}} ˚",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "{{value}} ˚",
+        "explanation": null
+      }
+    ]
+  },
+  "rotation": {
+    "value": "Rotation",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Rotation",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffraction": {
+    "value": "Diffraktion",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599232515781,
+        "oldValue": "",
+        "newValue": "Diffraktion",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceUnits": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "timeUnits": {
+    "value": "{{time}} {{units}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "{{time}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "centimetersUnits": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "electricFieldAtCenter": {
+    "value": "Elektrisk felt i midten",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Elektrisk felt i centrum",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1569548179844,
+        "oldValue": "Elektrisk felt i centrum",
+        "newValue": "Elektrisk felt i midten",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Elektrisk felt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Elektrisk felt",
+        "explanation": null
+      }
+    ]
+  },
+  "femtosecondConversion": {
+    "value": "1 fs = 10<sup>-15</sup> s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "1 fs = 10<sup>-15</sup> s",
+        "explanation": null
+      }
+    ]
+  },
+  "femtosecondsUnits": {
+    "value": "fs",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "fs",
+        "explanation": null
+      }
+    ]
+  },
+  "lightGenerator": {
+    "value": "Lyskilde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Lyskilde",
+        "explanation": null
+      }
+    ]
+  },
+  "millisecondConversion": {
+    "value": "1 ms = 10<sup>-3</sup> s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "1 ms = 10<sup>-3</sup> s",
+        "explanation": null
+      }
+    ]
+  },
+  "millisecondsUnits": {
+    "value": "ms",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "ms",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometersUnits": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "positionCM": {
+    "value": "Position (cm)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Position (cm)",
+        "explanation": null
+      }
+    ]
+  },
+  "positionNM": {
+    "value": "Position (nm)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Position (nm)",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureAtCenter": {
+    "value": "Tryk i midten",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Tryk i centrum",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1569499182172,
+        "oldValue": "Tryk i centrum",
+        "newValue": "Tryk i midten",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Tryk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Tryk",
+        "explanation": null
+      }
+    ]
+  },
+  "secondsUnits": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "s",
+        "explanation": null
+      }
+    ]
+  },
+  "soundGenerator": {
+    "value": "Lydklide",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Lydklide",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevelAtCenter": {
+    "value": "Vandstand i midten",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Vandstand i centrum",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1569548179845,
+        "oldValue": "Vandstand i centrum",
+        "newValue": "Vandstand i midten",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevel": {
+    "value": "Vandstand",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Vandstand",
+        "explanation": null
+      }
+    ]
+  },
+  "waterWaveGenerator": {
+    "value": "Vandbølge-generator",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Vandbølge-generator",
+        "explanation": null
+      }
+    ]
+  },
+  "cmValue": {
+    "value": "{{value}} cm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "{{value}} cm",
+        "explanation": null
+      }
+    ]
+  },
+  "nmValue": {
+    "value": "{{value}} nm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "{{value}} nm",
+        "explanation": null
+      }
+    ]
+  },
+  "separation": {
+    "value": "Opdeling",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Opdeling",
+        "explanation": null
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Intensitet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Intensitet",
+        "explanation": null
+      }
+    ]
+  },
+  "top": {
+    "value": "Top",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Top",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "slow": {
+    "value": "Langsom",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Langsom",
+        "explanation": null
+      }
+    ]
+  },
+  "sideView": {
+    "value": "Set fra siden",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Set fra siden",
+        "explanation": null
+      }
+    ]
+  },
+  "topView": {
+    "value": "Set ovenfra",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Set ovenfra",
+        "explanation": null
+      }
+    ]
+  },
+  "max": {
+    "value": "maksimum",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "maksimum",
+        "explanation": null
+      }
+    ]
+  },
+  "min": {
+    "value": "minimum",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "minimum",
+        "explanation": null
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "Amplitude",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Ampliturde",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1548905358441,
+        "oldValue": "Ampliturde",
+        "newValue": "Amplitude",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frekvens",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Frekvens",
+        "explanation": null
+      }
+    ]
+  },
+  "both": {
+    "value": "Begge",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Begge",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Partikler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Partikler",
+        "explanation": null
+      }
+    ]
+  },
+  "waves": {
+    "value": "Bølger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Bølger",
+        "explanation": null
+      }
+    ]
+  },
+  "graph": {
+    "value": "Graf",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Graf",
+        "explanation": null
+      }
+    ]
+  },
+  "playTone": {
+    "value": "Afspil lyd",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1569408179856,
+        "oldValue": "",
+        "newValue": "Afspil lyd",
+        "explanation": null
+      }
+    ]
+  },
+  "screenLabel": {
+    "value": "Skærm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Skærm",
+        "explanation": null
+      }
+    ]
+  },
+  "soundEffect": {
+    "value": "Lydeffekt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1569408179856,
+        "oldValue": "",
+        "newValue": "Lydeffekt",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Tid",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Tid",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.interference": {
+    "value": "Interferens",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Interferens",
+        "explanation": null
+      }
+    ]
+  },
+  "noBarrier": {
+    "value": "Ingen forhindring",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Ingen ",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1634479202038,
+        "oldValue": "Ingen ",
+        "newValue": "Ingen forhindring"
+      }
+    ]
+  },
+  "oneSlit": {
+    "value": "En åbning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "En åbning",
+        "explanation": null
+      }
+    ]
+  },
+  "slitSeparation": {
+    "value": "Mellemrum",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Åbning",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1548904687429,
+        "oldValue": "Åbning",
+        "newValue": "Mellemrum",
+        "explanation": null
+      }
+    ]
+  },
+  "slitWidth": {
+    "value": "Åbningsbredde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Åbningsbredde",
+        "explanation": null
+      }
+    ]
+  },
+  "twoSlits": {
+    "value": "To åbninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "To åbninger",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slits": {
+    "value": "Åbninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Åbning",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1548904687429,
+        "oldValue": "Åbning",
+        "newValue": "Åbninger",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Bølger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Bølger",
+        "explanation": null
+      }
+    ]
+  },
+  "wave-interference.title": {
+    "value": "Bølgeinterferens",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1548904167001,
+        "oldValue": "",
+        "newValue": "Bølgeinterferens",
+        "explanation": null
+      }
+    ]
+  }
+}

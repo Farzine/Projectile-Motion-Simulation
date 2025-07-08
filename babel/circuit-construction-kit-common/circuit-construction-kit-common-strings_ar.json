@@ -1,0 +1,944 @@
+{
+  "acSource": {
+    "value": "الجهد المتردد",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214522,
+        "oldValue": "",
+        "newValue": "جهد AC"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "جهد AC",
+        "newValue": "الجهد المتردد"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "أضف مصابيحاً حقيقيةً",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214522,
+        "oldValue": "",
+        "newValue": "اضافة مصابيح"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "اضافة مصابيح",
+        "newValue": "أضف مصابيحاً حقيقيةً"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "متقدم",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214522,
+        "oldValue": "",
+        "newValue": "متقدمة"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "متقدمة",
+        "newValue": "متقدم"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "أميتر",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "الأميتر",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "الأميتر",
+        "newValue": "أميتر"
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "قراءة الأميتر",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214522,
+        "oldValue": "",
+        "newValue": "قراءة الأميتر"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "أميترات",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "الأميترات",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "الأميترات",
+        "newValue": "أميترات"
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "تم الوصول إلى الحد الأقصى لسرعة المحاكة! تم تخفيض سرعة المحاكاة{{percent}} ٪ إلى طبيعي",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "تم الوصول إلى الحد الأقصى لسرعة الرسوم المتحركة! تم تخفيض سرعة المحاكاة{{percent}}% إلى طبيعي",
+        "explanation": null
+      },
+      {
+        "userId": 576246,
+        "timestamp": 1533243104046,
+        "oldValue": "تم الوصول إلى الحد الأقصى لسرعة الرسوم المتحركة! تم تخفيض سرعة المحاكاة{{percent}}% إلى طبيعي",
+        "newValue": "تم الوصول إلى الحد الأقصى لسرعة الرسوم المتحركة! تم تخفيض سرعة المحاكاة{{percent}} ٪ إلى طبيعي",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "تم الوصول إلى الحد الأقصى لسرعة الرسوم المتحركة! تم تخفيض سرعة المحاكاة{{percent}} ٪ إلى طبيعي",
+        "newValue": "تم الوصول إلى الحد الأقصى لسرعة المحاكة! تم تخفيض سرعة المحاكاة{{percent}} ٪ إلى طبيعي"
+      }
+    ]
+  },
+  "battery": {
+    "value": "بطارية",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "بطارية",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "مقاومة البطارية",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "مقاومة البطارية",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "سعة المكثّف",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "سعة"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "سعة",
+        "newValue": "سعة المكثّف"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "مكثف",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "مكثف"
+      }
+    ]
+  },
+  "coin": {
+    "value": "قطعة معدنية",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "قطعة معدنية",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "اصطلاحي",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "اصطلاحي",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "تيار",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "تيار",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "تيار (A)",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "التيار (A)"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443470,
+        "oldValue": "التيار (A)",
+        "newValue": "تيار (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "مخطط التيار",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "مخطط التيار"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "أقصى تيار",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "تقييم التيار"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "تقييم التيار",
+        "newValue": "أقصى تيار"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "خارج المدى",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "خارج المدى"
+      }
+    ]
+  },
+  "dog": {
+    "value": "كلب",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "طارد",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "طارد",
+        "newValue": "كلب"
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "ورقة من فئة الدولار",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "فاتورة بالدولار",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "فاتورة بالدولار",
+        "newValue": "ورقة من فئة الدولار"
+      }
+    ]
+  },
+  "electrons": {
+    "value": "الكترونات",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "الكترونات",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "ممحاة",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "ممحاة",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "تردد",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "التردد"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "التردد",
+        "newValue": "تردد"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "صمّام كهربائي",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "دمج"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "دمج",
+        "newValue": "صمّام كهربائي"
+      }
+    ]
+  },
+  "hand": {
+    "value": "يد",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "يد",
+        "explanation": null
+      }
+    ]
+  },
+  "inductance": {
+    "value": "الحث",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "المحاثة"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "المحاثة",
+        "newValue": "الحث"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "المحث",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "المحث"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "المحث",
+        "newValue": "أداة الحث"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1648628413303,
+        "oldValue": "أداة الحث",
+        "newValue": "المحث"
+      }
+    ]
+  },
+  "labels": {
+    "value": "التسميات",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "ملصقات",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "ملصقات",
+        "newValue": "الأسامي"
+      },
+      {
+        "userId": 869663,
+        "timestamp": 1725539789114,
+        "oldValue": "الأسامي",
+        "newValue": "التسميات",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "مصباح كهربائي",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "المصباح الكهربائي",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "المصباح الكهربائي",
+        "newValue": "مصباح كهربائي"
+      }
+    ]
+  },
+  "lots": {
+    "value": "كبيرة",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "كثير",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "كثير",
+        "newValue": "كبيرة"
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "المقدار",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1648628413303,
+        "oldValue": "",
+        "newValue": "المقدار"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "دبوس ورق",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "دبوس ورق",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "قلم رصاص",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "قلم رصاص",
+        "explanation": null
+      }
+    ]
+  },
+  "resistance": {
+    "value": "مقاومة",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "المقاومة",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "المقاومة",
+        "newValue": "مقاومة"
+      }
+    ]
+  },
+  "resistor": {
+    "value": "مقاوم",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "المقاوم",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "المقاوم",
+        "newValue": "مقاوم"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "أظهِر التيّار",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "إظهار الحالي",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "إظهار الحالي",
+        "newValue": "أظهِر التيّار"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "مقاومة المصدر",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "مقاومة الصوت"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "مقاومة الصوت",
+        "newValue": "مقاومة المصدر"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "ساعة ايقاف",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "ساعة ايقاف"
+      }
+    ]
+  },
+  "switch": {
+    "value": "مفتاح كهربائي",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "مفتاح كهربائي",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "اضغط على عنصر الدائرة للتحرير",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "اضغط على عنصر الدائرة للتحرير",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "المفتاح الكهربائي مغلق",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "المفتاح الكهربائي مغلق",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "المفتاح الكهربائي مفتوح",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "المفتاح الكهربائي مفتوح",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "الزمن",
+    "history": [
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "",
+        "newValue": "الزمن"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "صغيرة جداً",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "صغير جداً",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "صغير جداً",
+        "newValue": "صغيرة جداً"
+      }
+    ]
+  },
+  "values": {
+    "value": "القيم",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "القيم",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "الجهد االكهربائي",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "الجهد االكهربى",
+        "explanation": null
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "الجهد االكهربى",
+        "newValue": "الجهد الكهربائي"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "الجهد الكهربائي",
+        "newValue": "الجهد االكهربائي"
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "الجهد الكهربائي (V)",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "الجهد (V)"
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "الجهد (V)",
+        "newValue": "الجهد الكهربائي (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "مخطط الجهد",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1642955214523,
+        "oldValue": "",
+        "newValue": "مخطط الجهد"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "فولتميتر",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "الفولتميتر",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "الفولتميتر",
+        "newValue": "فولتميتر"
+      }
+    ]
+  },
+  "wire": {
+    "value": "سلك كهربائي",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "سلك كهربائي",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "المقاومة النوعية للسلك",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "مقاومة السلك",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "مقاومة السلك",
+        "newValue": "المقاومة النوعية للسلك"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "{{current}} الأمبير",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "{{current}} الأمبير",
+        "newValue": "{{current}} A"
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} أوم",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "{{resistance}} أوم",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}}   Ω",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533243104046,
+        "oldValue": "",
+        "newValue": "{{resistance}}   Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "{{voltage}} ف",
+        "explanation": null
+      },
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "{{voltage}} ف",
+        "newValue": "{{voltage}} V"
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} فولت",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "{{voltage}} فولت",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "مصباح حقيقي",
+    "history": [
+      {
+        "userId": 131095,
+        "timestamp": 1646934443471,
+        "oldValue": "",
+        "newValue": "مصباح حقيقي"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "؟",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "؟",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} أوم",
+    "history": [
+      {
+        "userId": 576246,
+        "timestamp": 1533242315258,
+        "oldValue": "",
+        "newValue": "{{resistance}} أوم",
+        "explanation": null
+      }
+    ]
+  }
+}

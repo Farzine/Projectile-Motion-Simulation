@@ -1,0 +1,572 @@
+{
+  "angle.degrees": {
+    "value": "Величина угла {0}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Величина угла {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "angle.greaterThanDegrees": {
+    "value": "Более {0}°",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Более {0}°",
+        "explanation": null
+      }
+    ]
+  },
+  "angle.lessThanDegrees": {
+    "value": "Менее {0}°",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Менее {0}°",
+        "explanation": null
+      }
+    ]
+  },
+  "control.bonding": {
+    "value": "Связи ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Связи ",
+        "explanation": null
+      }
+    ]
+  },
+  "control.electronGeometry": {
+    "value": "Геометрия электронов",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Геометрия электронов",
+        "explanation": null
+      }
+    ]
+  },
+  "control.geometryName": {
+    "value": "Конфигурация",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Конфигурация",
+        "explanation": null
+      }
+    ]
+  },
+  "control.lonePair": {
+    "value": "Неподеленная пара",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Неподеленная пара",
+        "explanation": null
+      }
+    ]
+  },
+  "control.modelView": {
+    "value": "Модель",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Модель",
+        "explanation": null
+      }
+    ]
+  },
+  "control.molecule": {
+    "value": "Молекула",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Молекула",
+        "explanation": null
+      }
+    ]
+  },
+  "control.moleculeGeometry": {
+    "value": "Геометрия молекул",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Геометрия молекул",
+        "explanation": null
+      }
+    ]
+  },
+  "control.options": {
+    "value": "Показать",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Настройки",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502337801032,
+        "oldValue": "Настройки",
+        "newValue": "Показать",
+        "explanation": null
+      }
+    ]
+  },
+  "control.realView": {
+    "value": "Настоящий",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Настоящий",
+        "explanation": null
+      }
+    ]
+  },
+  "control.removeAll": {
+    "value": "Очистить все",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Очистить все",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showAllLonePairs": {
+    "value": "Показать несвяз.элект. внеш.оболочки",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Показать несвяз.элект. внеш.оболочки",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showBondAngles": {
+    "value": "Углы связи",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Углы связи",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showLonePairs": {
+    "value": "Неподеленные пары",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Показать несвяз. пары",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502337801032,
+        "oldValue": "Показать несвяз. пары",
+        "newValue": "Неподеленные пары",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.diatomic": {
+    "value": "Линейная ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Линейная ",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.empty": {
+    "value": " ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": " ",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.linear": {
+    "value": "Линейная ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Линейная ",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.octahedral": {
+    "value": "Октаэдрическая",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Октаэдрическая",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.tetrahedral": {
+    "value": "Тетраэдрическая",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Тетраэдрическая",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalBipyramidal": {
+    "value": "Тригональная бипирамида",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Тригональная бипирамида",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalPlanar": {
+    "value": "Равносторонний треугольник",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Равносторонний треугольник",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes-basics.title": {
+    "value": "Формы молекул: основы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Формы молекул: основы",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes.title": {
+    "value": "Формы молекул ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Формы молекул ",
+        "explanation": null
+      }
+    ]
+  },
+  "options.projectorColors": {
+    "value": "Режим проектора",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Режим проектора",
+        "explanation": null
+      }
+    ]
+  },
+  "options.showOuterLonePairs": {
+    "value": "Показать неподел. пары",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Показать неподеленные электронные пары",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502337801032,
+        "oldValue": "Показать неподеленные электронные пары",
+        "newValue": "Показать неподел. пары",
+        "explanation": null
+      }
+    ]
+  },
+  "realExamples.title": {
+    "value": "Примеры факт.форм молекул",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Примеры факт.форм молекул",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.model": {
+    "value": "Модель",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Модель",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.realMolecules": {
+    "value": "Настоящие молекулы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Настоящие молекулы",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.bent": {
+    "value": "Угловая ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Угловая ",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.diatomic": {
+    "value": "Линейная ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Линейная ",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.empty": {
+    "value": " ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": " ",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.linear": {
+    "value": "Линейная ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Линейная ",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.octahedral": {
+    "value": "Октаэдрическая",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Октаэдр ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502337801032,
+        "oldValue": "Октаэдр ",
+        "newValue": "Октаэдрическая",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.seesaw": {
+    "value": "Дисфеноид ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Дисфеноид ",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePlanar": {
+    "value": "Плоскоквадратная",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Плоскоквадратная",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePyramidal": {
+    "value": "Квадратная пирамида",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Квадратная пирамида",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tShaped": {
+    "value": "T-образная",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "T-образная",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tetrahedral": {
+    "value": "Тетраэдрическая",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Тетраэдр ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502337801032,
+        "oldValue": "Тетраэдр ",
+        "newValue": "Тетраэдрическая",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalBipyramidal": {
+    "value": "Тригональная бипирамида",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Тригональная бипирамида",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPlanar": {
+    "value": "Равносторонний треугольник",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Равносторонний треугольник",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPyramidal": {
+    "value": "Тригональная пирамида",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "Тригональная бипирамида",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502337801032,
+        "oldValue": "Тригональная бипирамида",
+        "newValue": "Тригональная пирамида",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": "PET Ltd",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501673794770,
+        "oldValue": "",
+        "newValue": "PET Ltd",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,882 @@
+{
+  "oneSecond": {
+    "value": "1s",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870060,
+        "oldValue": "",
+        "newValue": "1s",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Hiệu thế giao phiên",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870060,
+        "oldValue": "",
+        "newValue": "Hiệu thế giao phiên",
+        "explanation": null
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Thêm đèn tròn thật",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Thêm đèn tròn thật"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Cao cấp",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Cao cấp"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Ampere kế",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "Ampere kế",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Số đọc của Ampere kế",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1640106888134,
+        "oldValue": "",
+        "newValue": "Số đọc của Ampere kế"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Ampere kế",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "Ampere kế",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Đã tới giới hạn tốc độ! Tốc độ giảm còn {{percent}}% mức bình thường.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "Đã tới giới hạn tốc độ! Tốc độ giảm còn {{percent}}% mức bình thường.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Pin",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "Pin",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Điện trở trong",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "Điện trở trong",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Anh",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1640106888134,
+        "oldValue": "",
+        "newValue": "Anh"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Điện dung",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Điện dung"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Tụ điện",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Tụ điện"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Đồng tiền",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "Đồng tiền",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Quy ước",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "Quy ước",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Cường độ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Cường độ",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Cường độ (A)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Cường độ (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Biểu đồ cường độ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870060,
+        "oldValue": "",
+        "newValue": "Biểu đồ cường độ",
+        "explanation": null
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Định mức dòng điện",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870060,
+        "oldValue": "",
+        "newValue": "Định mức dòng điện",
+        "explanation": null
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Dữ liệu ngoài khoảng xác định",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1640106888134,
+        "oldValue": "",
+        "newValue": "Dữ liệu ngoài khoảng xác định"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Con chó",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Chó",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1651659806329,
+        "oldValue": "Chó",
+        "newValue": "Con chó"
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Tờ dollar",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Tờ dollar",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Điện tử",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Điện tử",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Gôm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Gôm",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Tần số",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870060,
+        "oldValue": "",
+        "newValue": "Tần số",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Cầu chì",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870060,
+        "oldValue": "",
+        "newValue": "Cầu chì",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Bàn tay",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Bàn tay",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Độ tự cảm",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Độ tự cảm"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Cuộn dây",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Cuộn dây"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Nhãn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Nhãn",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Đèn tròn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Đèn tròn",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "lớn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "nhiều",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1509463558562,
+        "oldValue": "nhiều",
+        "newValue": "lớn",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Độ lớn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1640106888134,
+        "oldValue": "",
+        "newValue": "Độ lớn"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Kẹp giấy",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Kẹp giấy",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Viết chì",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Viết chì",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Độ lệch pha",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Độ lệch pha"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Điện trở",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Điện trở",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Điện trở",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Điện trở",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Tiêu chuẩn của sơ đồ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Tiêu chuẩn của sơ đồ"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Hiển thị dòng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Hiển thị dòng",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "Có dấu",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1640106888135,
+        "oldValue": "",
+        "newValue": "Có dấu"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Điện trở trong",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Điện trở trong"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Đồng hồ bấm giờ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Đồng hồ bấm giờ"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Công tắc",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Công tắc",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Chọn phần tử của mạch điện để chỉnh sửa",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Tap lên phần tử của mạch điện để chỉnh sửa ",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1640106888135,
+        "oldValue": "Tap lên phần tử của mạch điện để chỉnh sửa ",
+        "newValue": "Chọn phần tử của mạch điện để chỉnh sửa "
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684410688276,
+        "oldValue": "Chọn phần tử của mạch điện để chỉnh sửa ",
+        "newValue": "Chọn phần tử của mạch điện để chỉnh sửa",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Công tắc đóng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Công tắc đóng",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Công tắc mở",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Công tắc mở",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Thời gian",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870061,
+        "oldValue": "",
+        "newValue": "Thời gian",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "nhỏ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "nhỏ",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Giá trị",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Giá trị",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Hiệu thế",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Hiệu thế",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Hiệu thế (V)",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Hiệu thế (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Biểu đồ hiệu thế",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870061,
+        "oldValue": "",
+        "newValue": "Biểu đồ hiệu thế",
+        "explanation": null
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Volt kế",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Volt kế",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Dây nối",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Dây nối",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Điện trở dây nối",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "Điện trở dây nối",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": " {{capacitance}} F"
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684410688276,
+        "oldValue": " {{capacitance}} F",
+        "newValue": "{{capacitance}} F",
+        "explanation": null
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870061,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599844870061,
+        "oldValue": "",
+        "newValue": " {{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684410688276,
+        "oldValue": " {{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}}  Ω",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "{{resistance}}  Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245769,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Đèn tròn thật",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1614353802499,
+        "oldValue": "",
+        "newValue": "Đèn tròn thật"
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}}  Ω",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1509463245770,
+        "oldValue": "",
+        "newValue": "{{resistance}}  Ω",
+        "explanation": null
+      }
+    ]
+  }
+}

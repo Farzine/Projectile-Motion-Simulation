@@ -1,0 +1,390 @@
+{
+  "point.unknown": {
+    "value": "( ?, ? )",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "( ?, ? )",
+        "explanation": null
+      }
+    ]
+  },
+  "point.XY": {
+    "value": "({0}, {1})",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "({0}, {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "notALine": {
+    "value": "... bir doğru değil.",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "... bir doğru değil.",
+        "explanation": null
+      }
+    ]
+  },
+  "aCorrectEquation": {
+    "value": "Doğru Olan Denklem",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Doğru Bir Denklem",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1588632107035,
+        "oldValue": "Doğru Bir Denklem",
+        "newValue": "Doğru Olan Denklem",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.intercept": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1574021303414,
+        "oldValue": "",
+        "newValue": "b",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Seviyenizi Seçin",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Seviyenizi Seçin",
+        "explanation": null
+      }
+    ]
+  },
+  "eraseLines": {
+    "value": "Doğruları Sil",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Doğruları Sil",
+        "explanation": null
+      }
+    ]
+  },
+  "graphTheLine": {
+    "value": "Doğruyu Çiz",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Doğruyu Çiz",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_Level_0": {
+    "value": "Level {0}",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Level {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lineGame": {
+    "value": "Oyun",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Oyun",
+        "explanation": null
+      }
+    ]
+  },
+  "lineToGraph": {
+    "value": "Denklemden Doğru'ya",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Doğrudan Grafiğe",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1588632107036,
+        "oldValue": "Doğrudan Grafiğe",
+        "newValue": "Denklemden Doğru'ya",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.slope": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1574021303414,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "makeTheEquation": {
+    "value": "Denklemi Yap",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Denklemi Yap",
+        "explanation": null
+      }
+    ]
+  },
+  "putPointsOnLine": {
+    "value": "Noktaları Doğruya Koy",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Noktaları Doğruya Koy",
+        "explanation": null
+      }
+    ]
+  },
+  "saveLine": {
+    "value": "Doğruyu Kaydet",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Doğruyu Kaydet",
+        "explanation": null
+      }
+    ]
+  },
+  "setThePoint": {
+    "value": "Noktayı Ayarla",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Noktayı Ayarla",
+        "explanation": null
+      }
+    ]
+  },
+  "setTheSlope": {
+    "value": "Eğimi Ayarla",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Eğimi Ayarla",
+        "explanation": null
+      }
+    ]
+  },
+  "setTheYIntercept": {
+    "value": "Y - eksenindeki kesişimi ayarla ",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Y - eksenindeki kesişimi ayarla ",
+        "explanation": null
+      }
+    ]
+  },
+  "slope": {
+    "value": "Eğim",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Eğim",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slopeIntercept": {
+    "value": "Eğim-Kesişim",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588632107036,
+        "oldValue": "",
+        "newValue": "Eğim-Kesişim",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1574021303414,
+        "oldValue": "",
+        "newValue": "x",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1574021303414,
+        "oldValue": "",
+        "newValue": "y",
+        "explanation": null
+      }
+    ]
+  },
+  "yourEquation": {
+    "value": "Senin Denklemin: ",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Sizin Denklemin: ",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1588632107036,
+        "oldValue": "Sizin Denklemin: ",
+        "newValue": "Senin Denklemin: ",
+        "explanation": null
+      }
+    ]
+  },
+  "yourLine": {
+    "value": "Senin Denklemin:",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Senin Doğrun:",
+        "explanation": null
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1588632107036,
+        "oldValue": "Senin Doğrun:",
+        "newValue": "Senin Denklemin:",
+        "explanation": null
+      }
+    ]
+  },
+  "slopeUndefined": {
+    "value": "{0} = {1} (eğim tanımsız)",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "{0} = {1} (eğim tanımsız)",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.pointSlope": {
+    "value": "Nokta-Eğim",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Nokta-Eğim",
+        "explanation": null
+      }
+    ]
+  },
+  "slopeIs": {
+    "value": "Eğim",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Eğim",
+        "explanation": null
+      }
+    ]
+  },
+  "undefined": {
+    "value": "Tanımsız",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Tanımsız",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slope": {
+    "value": "Eğim",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Eğim",
+        "explanation": null
+      }
+    ]
+  },
+  "graphing-lines.title": {
+    "value": "Grafik Doğruları",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1588630400067,
+        "oldValue": "",
+        "newValue": "Grafik Doğruları",
+        "explanation": null
+      }
+    ]
+  }
+}

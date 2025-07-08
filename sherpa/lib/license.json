@@ -1,0 +1,781 @@
+{
+  "acorn-8.12.1.js": {
+    "text": [
+      "Copyright (C) 2012-2022 by various contributors (see AUTHORS)"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/acornjs/acorn",
+    "notes": "For quick parsing of JavaScript code (initially used in description project editor)"
+  },
+  "base64-js-1.2.0.js": {
+    "text": [
+      "Copyright (c) 2014"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/beatgammit/base64-js",
+    "notes": "For converting typed arrays to base64 (helps converting encoded SVG data URLs)"
+  },
+  "benchmark-1.0.0.js": {
+    "text": [
+      "Copyright (c) 2010-2012 Mathias Bynens http://mths.be",
+      "Based on JSLitmus.js Copyright (c) Robert Kieffer http://broofa.com",
+      "Modified by John-David Dalton http://allyoucanleet.com"
+    ],
+    "projectURL": "http://benchmarkjs.com",
+    "license": "The MIT License",
+    "notes": "Used only in Scenery tests"
+  },
+  "benchmark-2.1.4.js": {
+    "text": [
+      "Copyright 2010-2016 Mathias Bynens",
+      "Based on JSLitmus.js, copyright Robert Kieffer",
+      "Modified by John-David Dalton"
+    ],
+    "projectURL": "http://benchmarkjs.com",
+    "license": "The MIT License",
+    "notes": "Used in isolated non-sim-included benchmarking tests"
+  },
+  "big-6.2.1.mjs": {
+    "text": [
+      "Copyright © `<2022>` `Michael Mclaughlin`"
+    ],
+    "projectURL": "https://github.com/MikeMcl/big.js",
+    "license": "MIT",
+    "notes": "A small, fast JavaScript library for arbitrary-precision decimal arithmetic."
+  },
+  "BigInteger-cda5bcc.js": {
+    "text": [
+      "Developed by Peter Olson, https://github.com/peterolson"
+    ],
+    "projectURL": "https://github.com/peterolson/BigInteger.js",
+    "license": "Public Domain",
+    "notes": "An arbitrary length integer library for Javascript"
+  },
+  "BigRational-8f8c2fa.js": {
+    "text": [
+      "Developed by Peter Olson, https://github.com/peterolson"
+    ],
+    "projectURL": "https://github.com/peterolson/BigInteger.js",
+    "license": "Public Domain",
+    "notes": "An arbitrary length rational number library for Javascript",
+    "dependencies": [
+      "BigInteger-cda5bcc.js"
+    ]
+  },
+  "bootstrap-2.2.2.js": {
+    "text": [
+      "Copyright (c) 2012 Twitter, Inc",
+      "Designed and built with all the love in the world @twitter by @mdo and @fat."
+    ],
+    "license": "Apache 2.0",
+    "projectURL": "http://getbootstrap.com/2.2.2/index.html",
+    "notes": "In documentation only, supports webpages for Scenery/Kite/Dot docs"
+  },
+  "canvg-1.3.js": {
+    "text": [
+      "Copyright (c) 2010-2011 Gabe Lerner (gabelerner@gmail.com)"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://code.google.com/p/canvg/",
+    "notes": "Javascript SVG parser and renderer on Canvas.  Used in scenery unit tests, may be used in sims later on if we convert SVG to Canvas. Downloaded 2/9/2015 from https://github.com/gabelerner/canvg"
+  },
+  "camera_utils-0.3.1640029074.js": {
+    "text": [
+      "Apache License",
+      "Version 2.0, January 2004",
+      "http://www.apache.org/licenses/"
+    ],
+    "license": "Apache 2.0",
+    "projectURL": "https://google.github.io/mediapipe/solutions/hands",
+    "notes": "For use by MediaPipe, see `tangible/` for implementation"
+  },
+  "canvg-rgbcolor-1.3.js": {
+    "text": [
+      "Stoyan Stefanov (sstoo@gmail.com)"
+    ],
+    "license": "Use it if you like it",
+    "projectURL": "http://www.phpied.com/rgb-color-parser-in-javascript/",
+    "notes": "A class to parse color values (packaged with canvg-1.3), required by canvg, see above"
+  },
+  "clarinet-1.0.0.js": {
+    "text": [
+      "Copyright (c) Isaac Z. Schlueter (\"Author\")",
+      "Copyright (c) 2011 nuno job <nunojob.com>",
+      "All rights reserved."
+    ],
+    "license": "The BSD License (2-clause)",
+    "projectURL": "https://github.com/dscape/clarinet/",
+    "notes": "clarinet is a sax-like streaming parser for JSON. works in the browser and node.js"
+  },
+  "codemirror-5.52.2.min.css": {
+    "text": [
+      "Copyright (C) 2017 by Marijn Haverbeke <marijnh@gmail.com> and others"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://codemirror.net/",
+    "notes": "Used by the Scenery sandbox (or other non-sim editor needs)"
+  },
+  "codemirror-5.52.2.min.js": {
+    "text": [
+      "Copyright (C) 2017 by Marijn Haverbeke <marijnh@gmail.com> and others"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://codemirror.net/",
+    "notes": "Used by the Scenery sandbox (or other non-sim editor needs)"
+  },
+  "codemirror-5.52.2.javascript.min.js": {
+    "text": [
+      "Copyright (C) 2017 by Marijn Haverbeke <marijnh@gmail.com> and others"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://codemirror.net/",
+    "notes": "Used by the Scenery sandbox (or other non-sim editor needs)"
+  },
+  "codemirror-5.52.2.monokai.min.css": {
+    "text": [
+      "Copyright (C) 2017 by Marijn Haverbeke <marijnh@gmail.com> and others"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://codemirror.net/",
+    "notes": "Used by the Scenery sandbox (or other non-sim editor needs)"
+  },
+  "control_utils-0.6.1629159505.js": {
+    "text": [
+      "Apache License",
+      "Version 2.0, January 2004",
+      "http://www.apache.org/licenses/"
+    ],
+    "license": "Apache 2.0",
+    "projectURL": "https://google.github.io/mediapipe/solutions/hands",
+    "notes": "For use by MediaPipe, see `tangible/` for implementation"
+  },
+  "d3-4.7.1.min.js": {
+    "text": [
+      "Copyright 2010-2016 Mike Bostock"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/d3/d3",
+    "notes": "Used by metrics-graphics for Yotta graphs"
+  },
+  "decimal-10.3.1.js": {
+    "text": [
+      "Copyright (c) 2021 Michael Mclaughlin"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/MikeMcl/decimal.js/",
+    "notes": "An arbitrary-precision Decimal type for JavaScript"
+  },
+  "diff-match-patch-1.0.0.js": {
+    "text": [
+      "Copyright 2018 The diff-match-patch Authors."
+    ],
+    "license": "the Apache License, Version 2.0",
+    "projectURL": "https://github.com/google/diff-match-patch",
+    "notes": "Used by metrics-graphics for Yotta graphs"
+  },
+  "FileSaver-b8054a2.js": {
+    "text": [
+      "Copyright (c) 2015 Eli Grey. (http://eligrey.com)"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/eligrey/FileSaver.js",
+    "notes": "Used for saving screenshot images"
+  },
+  "flatqueue-1.2.1.js": {
+    "text": [
+      "Copyright (c) 2018, Vladimir Agafonkin"
+    ],
+    "license": "ISC License",
+    "projectURL": "https://github.com/mourner/flatqueue",
+    "notes": "Used for accelerated shape computation"
+  },
+  "fluent-bundle-0.18.0": {
+    "text": [
+      "Copyright 2013 Mozilla Foundation and others"
+    ],
+    "license": "Apache 2.0",
+    "projectURL": "https://projectfluent.org/",
+    "notes": "Used for formatting complex string patterns and supporting translations."
+  },
+  "font-awesome-4.5.0": {
+    "text": [
+      "Created by Dave Gandy"
+    ],
+    "license": "Font Awesome licensed under SIL OFL 1.1 · Code licensed under MIT License · Documentation licensed under CC BY 3.0",
+    "projectURL": "http://fontawesome.io/",
+    "notes": "Provides shapes and icons for phet-io wrappers, SVG for icons in FontAwesomeNode"
+  },
+  "fontawesome-free-5.15.2-desktop": {
+    "text": [
+      "Font Awesome Free is free, open source, and GPL friendly. You can use it for\ncommercial projects, open source projects, or really almost whatever you want.\nFull Font Awesome Free license: https://fontawesome.com/license/free."
+    ],
+    "license": "CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)",
+    "projectURL": "https://fontawesome.com/",
+    "notes": "Provides icons"
+  },
+  "game-up-camera-1.0.0.js": {
+    "text": [
+      "Copyright (c) BrainPOP"
+    ],
+    "license": "MIT",
+    "projectURL": "https://github.com/phetsims/sherpa/blob/main/lib/game-up-camera-1.0.0.js",
+    "notes": "Allows a simulation to return a snapshot to BrainPOP/GameUp/SnapThought"
+  },
+  "he-1.1.1.js": {
+    "text": [
+      "Copyright Mathias Bynens <https://mathiasbynens.be/>"
+    ],
+    "license": "MIT",
+    "projectURL": "https://github.com/mathiasbynens/he",
+    "notes": "Used for HTML entity parsing in simulations related to RichText or other uses"
+  },
+  "hands.js": {
+    "text": [
+      "Apache License",
+      "Version 2.0, January 2004",
+      "http://www.apache.org/licenses/"
+    ],
+    "license": "Apache 2.0",
+    "projectURL": "https://google.github.io/mediapipe/solutions/hands",
+    "notes": "Version is not in filename because it lives under lib/mediaPipe/hands@0.4.1646424915/"
+  },
+  "highlightjs-11.5.1.min.js": {
+    "text": [
+      "Copyright (c) 2006, Ivan Sagalaev."
+    ],
+    "license": "Revised BSD License",
+    "projectURL": "https://highlightjs.org/",
+    "notes": "Used for code documentation"
+  },
+  "highlightjs-11.5.1-a11y-light.min.css": {
+    "text": [
+      "Copyright (c) 2006, Ivan Sagalaev."
+    ],
+    "license": "Revised BSD License",
+    "projectURL": "https://highlightjs.org/",
+    "notes": "Used for code documentation"
+  },
+  "himalaya-1.1.0.js": {
+    "text": [
+      "Copyright (c) 2017, Chris Andrejewski <christopher.andrejewski@gmail.com>"
+    ],
+    "license": "ISC License",
+    "projectURL": "https://github.com/andrejewski/himalaya",
+    "notes": "Used for HTML parsing in simulations, to sanitize/handle rich HTML text"
+  },
+  "iframe-phone-1.1.3.js": {
+    "text": [
+      "Copyright (c) 2012 Concord Consortium"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/concord-consortium/iframe-phone/tree/v1.1.3",
+    "notes": "Used in CODAP interoperability experiments"
+  },
+  "imageprocessing-labs-fft-1.0.0.js": {
+    "text": [
+      "Copyright (c) 2017 wellflat"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/wellflat/imageprocessing-labs",
+    "notes": "2D Discrete Fourier Transform for Wave Interference Diffraction screen."
+  },
+  "jama-1.0.2": {
+    "text": [
+      "a basic linear algebra package for Java."
+    ],
+    "license": "Public Domain",
+    "projectURL": "http://math.nist.gov/javanumerics/jama/",
+    "notes": "A derived work (certain ported and modified files) is used in Dot, mainly for matrix decompositions. Used in assorted simulations."
+  },
+  "jshashes-1.0.7.js": {
+    "text": [
+      "Copyright (c) 2012-2017, Tomas Aparicio",
+      "Copyright (c) 1999-2012, Paul Johnston, Angel Marin, Jeremy Lin"
+    ],
+    "license": "Revised BSD License",
+    "projectURL": "https://github.com/r3mi/poly2tri.js",
+    "notes": "Used for rendering in Scenery's WebGL renderer"
+  },
+  "jquery-2.1.0.js": {
+    "text": [
+      "Copyright (c) 2005, 2014 jQuery Foundation, Inc. and other contributors",
+      "(includes Sizzle.js, http://sizzlejs.com)"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://jquery.com",
+    "notes": "Facilitates interaction with browser DOM elements, mainly used in Scenery"
+  },
+  "jquery-ui-1.8.min.js": {
+    "text": [
+      "Copyright (c) 2012 AUTHORS.txt; Licensed MIT, GPL"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://jqueryui.com",
+    "notes": "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes. Used in some phet-io apps"
+  },
+  "jsondiffpatch-v0.3.11.umd.js": {
+    "text": [
+      "Copyright (c) 2018 Benjamin Eidelman, https://twitter.com/beneidel"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/benjamine/jsondiffpatch",
+    "notes": "Computes state diffs for record/playback in phetio.js sims"
+  },
+  "jsondiffpatch-v0.3.11-annotated.css": {
+    "text": [
+      "Copyright (c) 2018 Benjamin Eidelman, https://twitter.com/beneidel"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/benjamine/jsondiffpatch",
+    "notes": "Computes state diffs for record/playback in phetio.js sims"
+  },
+  "jsondiffpatch-v0.3.11-html.css": {
+    "text": [
+      "Copyright (c) 2018 Benjamin Eidelman, https://twitter.com/beneidel"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/benjamine/jsondiffpatch",
+    "notes": "Computes state diffs for record/playback in phetio.js sims"
+  },
+  "katex-0.11.0-css-all.js": {
+    "text": [
+      "Copyright (c) 2009-2010, Design Science, Inc. (<www.mathjax.org>)",
+      "Copyright (c) 2014-2018 Khan Academy (<www.khanacademy.org>),"
+    ],
+    "license": "SIL Open Font License, Version 1.1",
+    "projectURL": "https://github.com/KaTeX/KaTeX",
+    "notes": "Fonts for rendering math equations with FormulaNode, see https://github.com/Khan/KaTeX/issues/339"
+  },
+  "katex-0.11.0-css-none.js": {
+    "text": [
+      "Copyright (c) 2009-2010, Design Science, Inc. (<www.mathjax.org>)",
+      "Copyright (c) 2014-2018 Khan Academy (<www.khanacademy.org>),"
+    ],
+    "license": "SIL Open Font License, Version 1.1",
+    "projectURL": "https://github.com/KaTeX/KaTeX",
+    "notes": "Fonts for rendering math equations with FormulaNode, see https://github.com/Khan/KaTeX/issues/339"
+  },
+  "katex-0.11.0.min.js": {
+    "text": [
+      "Copyright (c) 2013-2018 Khan Academy"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/KaTeX/KaTeX",
+    "notes": "JavaScript for rendering math equations with FormulaNode"
+  },
+  "liberation-sans-regular-subset-numeric-degrees.js": {
+    "text": [
+      "Developed by Steve Matteson of Ascender Corporation as Ascender Sans and Ascender Serif"
+    ],
+    "projectURL": "http://en.wikipedia.org/wiki/Liberation_fonts",
+    "license": "SIL Open Font License, Version 1.1",
+    "notes": "For the 3D text in bond angles (faster updates than SVG text)"
+  },
+  "linebreak-1.1.0.js": {
+    "text": [
+      "tiny-inflate 1.0.3 (https://github.com/foliojs/tiny-inflate) Copyright (c) 2015-present Devon Govett",
+      "unicode-trie 2.0.0 (https://github.com/foliojs/unicode-trie) Copyright 2018",
+      "linebreak 1.1.0 (https://github.com/foliojs/linebreak) Copyright (c) 2014-present Devon Govett"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/foliojs/linebreak",
+    "notes": "Ability to find linebreak opportunities in unicode strings: Unicode Line Breaking Algorithm (UAX #14)"
+  },
+  "lodash-4.17.4.js": {
+    "text": [
+      "Lodash <https://lodash.com/>",
+      "Copyright JS Foundation and other contributors <https://js.foundation/>",
+      "Released under MIT license <https://lodash.com/license>",
+      "Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>",
+      "Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://lodash.com",
+    "notes": "Adds common data structure operations such as sorting, grouping, etc."
+  },
+  "lz-string-1.4.4.js": {
+    "text": [
+      "Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>"
+    ],
+    "license": "The WTFPL",
+    "projectURL": "http://pieroxy.net/blog/pages/lz-string/index.html",
+    "notes": "Provides string compression and decompression."
+  },
+  "matter-0.14.2.js": {
+    "text": [
+      "Copyright (c) Liam Brummitt and contributors."
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://brm.io/matter-js/",
+    "notes": "2D physics engine for simulations (e.g. Density/Buoyancy)"
+  },
+  "matter-0.14.2.min.js": {
+    "text": [
+      "Copyright (c) Liam Brummitt and contributors."
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://brm.io/matter-js/",
+    "notes": "2D physics engine for simulations (e.g. Density/Buoyancy)"
+  },
+  "mediaPipeDependencies.js": {
+    "text": [
+      "Apache License",
+      "Version 2.0, January 2004",
+      "http://www.apache.org/licenses/"
+    ],
+    "license": "Apache 2.0",
+    "projectURL": "https://google.github.io/mediapipe/solutions/hands",
+    "notes": "PhET's generated output of dependencies for MediaPipe, see sherpa/lib/mediaPipe/hands@0.4.1646424915/createMediaPipeDependencies"
+  },
+  "metrics-graphics-2.11.0.css": {
+    "text": [
+      "Mozilla Public License, version 2.0"
+    ],
+    "license": "Mozilla Public License, version 2.0",
+    "projectURL": "http://www.metricsgraphicsjs.org/",
+    "notes": "Plotting for Yotta graphs"
+  },
+  "metrics-graphics-2.11.0.js": {
+    "text": [
+      "Mozilla Public License, version 2.0"
+    ],
+    "license": "Mozilla Public License, version 2.0",
+    "projectURL": "http://www.metricsgraphicsjs.org/",
+    "notes": "Plotting for Yotta graphs"
+  },
+  "metrics-graphics-2.11.0.min.js": {
+    "text": [
+      "Mozilla Public License, version 2.0"
+    ],
+    "license": "Mozilla Public License, version 2.0",
+    "projectURL": "http://www.metricsgraphicsjs.org/",
+    "notes": "Plotting for Yotta graphs"
+  },
+  "node-properties-parser-0.3.1.js": {
+    "text": [
+      "Developed by Xavi Ramirez"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/xavi-/node-properties-parser",
+    "notes": "A parser for .properties files written in javascript."
+  },
+  "numeric-1.2.6.js": {
+    "text": [
+      "Copyright (c) 2011 by Sébastien Loisel"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://www.numericjs.com",
+    "notes": "Provides numeric functions such as optimization algorithms.  Used in Energy Skate Park: Basics",
+    "dependencies": [
+      "numeric-quadratic-programming-1.2.6"
+    ]
+  },
+  "numeric-quadratic-programming-1.2.6": {
+    "text": [
+      "Copyright (c) 2011 Alberto Santini <albertosantini@gmail.com>"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://www.numericjs.com",
+    "notes": "Implementation of the quadratic programming modules in numeric.js, not used by PhET software"
+  },
+  "p2-0.7.1.js": {
+    "text": [
+      "Copyright (c) 2016 p2.js authors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/schteppe/p2.js",
+    "notes": "2D physics engine for simulations (e.g. Density/Buoyancy)"
+  },
+  "p2-0.7.1.min.js": {
+    "text": [
+      "Copyright (c) 2016 p2.js authors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/schteppe/p2.js",
+    "notes": "2D physics engine for simulations (e.g. Density/Buoyancy)"
+  },
+  "pixelmatch@5.1.0.js": {
+    "text": [
+      "Copyright (c) 2019, Mapbox"
+    ],
+    "license": "The ISC License",
+    "projectURL": "https://github.com/mapbox/pixelmatch",
+    "notes": "The smallest, simplest and fastest JavaScript pixel-level image comparison library"
+  },
+  "pako-2.0.3.min.js": {
+    "text": [
+      "Copyright (C) 2014-2017 by Vitaly Puzrin and Andrei Tuputcyn"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/nodeca/pako",
+    "notes": "high speed zlib port to javascript, works in browser & node.js"
+  },
+  "pako_inflate-2.0.3.min.js": {
+    "text": [
+      "Copyright (C) 2014-2017 by Vitaly Puzrin and Andrei Tuputcyn"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/nodeca/pako",
+    "notes": "high speed zlib port to javascript, works in browser & node.js"
+  },
+  "paper-js-0.12.17.js": {
+    "text": [
+      "Copyright (c) 2011 - 2020, Jürg Lehni & Jonathan Puckey, http://juerglehni.com/ & https://puckey.studio/"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/paperjs/paper.js",
+    "notes": "curve-based mathematical operations, used in kite"
+  },
+  "paper-js-0.12.17.min.js": {
+    "text": [
+      "Copyright (c) 2011 - 2020, Jürg Lehni & Jonathan Puckey, http://juerglehni.com/ & https://puckey.studio/"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/paperjs/paper.js",
+    "notes": "curve-based mathematical operations, used in kite"
+  },
+  "pegjs-0.7.0.js": {
+    "text": [
+      "Copyright (c) 2010-2012 David Majda"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://pegjs.majda.cz",
+    "notes": "Parser Generator for JavaScript. SVG path parsing in Kite"
+  },
+  "peggy-3.0.2.js": {
+    "text": [
+      "Copyright (c) 2010-2022 The Peggy AUTHORS"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://peggyjs.org/",
+    "notes": "Peggy is a simple parser generator for JavaScript that produces fast parsers with excellent error reporting."
+  },
+  "planck-0.3.0-rc.2.js": {
+    "text": [
+      "Copyright (c) 2016-2018 Ali Shakiba http://shakiba.me/planck.js",
+      "Copyright (c) 2006-2013 Erin Catto  http://www.gphysics.com"
+    ],
+    "license": "zlib License",
+    "projectURL": "https://github.com/shakiba/planck.js",
+    "notes": "2d physics engine for density/buoyancy"
+  },
+  "poly-decomp-0.3.0.js": {
+    "text": [
+      "Copyright (c) 2013 Stefan Hedman"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/schteppe/poly-decomp.js/",
+    "notes": "Polygon decomposition, required by Matter.js for a few operations"
+  },
+  "poly-decomp-0.3.0.min.js": {
+    "text": [
+      "Copyright (c) 2013 Stefan Hedman"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/schteppe/poly-decomp.js/",
+    "notes": "Polygon decomposition, required by Matter.js for a few operations"
+  },
+  "poly2tri-1.3.5.min.js": {
+    "text": [
+      "Copyright (c) 2009-2014, Poly2Tri Contributors"
+    ],
+    "license": "Revised BSD License",
+    "projectURL": "https://github.com/r3mi/poly2tri.js",
+    "notes": "Used for rendering in Scenery's WebGL renderer"
+  },
+  "prism-1.23.0.js": {
+    "text": [
+      "Copyright (c) 2012 Lea Verou"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://prismjs.com/",
+    "notes": "Used for displayed code syntax highlighting"
+  },
+  "prism-okaidia-1.23.0.css": {
+    "text": [
+      "Copyright (c) 2012 Lea Verou"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://prismjs.com/",
+    "notes": "Used for displayed code syntax highlighting"
+  },
+  "qhint-1.1.js": {
+    "text": [
+      "Copyright (c) 2013 Alex Gyoshev, http://gyoshev.mit-license.org/"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/gyoshev/qhint",
+    "notes": "Allows us to run code style jshint tests in qunit's unit tests"
+  },
+  "qunit-2.20.0.css": {
+    "text": [
+      "Copyright jQuery Foundation and other contributors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://qunitjs.com/",
+    "notes": "A JavaScript Unit Testing Framework. Allows us to easily test our code to help us make sure nothing gets broken as development continues."
+  },
+  "qunit-2.20.0.js": {
+    "text": [
+      "Copyright jQuery Foundation and other contributors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://qunitjs.com/",
+    "notes": "A JavaScript Unit Testing Framework. Allows us to easily test our code to help us make sure nothing gets broken as development continues."
+  },
+  "qunit-composite-2.0.0.css": {
+    "text": [
+      "Copyright jQuery Foundation and other contributors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/JamesMGreene/qunit-composite",
+    "notes": "A library to allow multiple qunit tests to be aggregated into a single report by running qunit suites in an iframe."
+  },
+  "qunit-composite-2.0.0.js": {
+    "text": [
+      "Copyright jQuery Foundation and other contributors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/JamesMGreene/qunit-composite",
+    "notes": "A library to allow multiple qunit tests to be aggregated into a single report by running qunit suites in an iframe."
+  },
+  "scenery-e8bb0c3.min.js": {
+    "text": [
+      "Copyright (c) 2014 University of Colorado Boulder"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://phetsims.github.io/scenery/",
+    "notes": "A Scenery build for small web UIs, like Yotta's"
+  },
+  "seedrandom-2.4.2.js": {
+    "text": [
+      "Copyright 2015 David Bau."
+    ],
+    "license": "MIT",
+    "projectURL": "https://github.com/davidbau/seedrandom",
+    "notes": "seeded random number generator for Javascript"
+  },
+  "source-map-0.7.3.js": {
+    "text": [
+      "Copyright (c) 2009-2011, Mozilla Foundation and contributors"
+    ],
+    "license": "BSD",
+    "projectURL": "https://github.com/mozilla/source-map",
+    "notes": "Consume and generate source maps."
+  },
+  "stack-trace-parser-0.1.7.js": {
+    "text": [
+      "Copyright (c) 2014-2019 Georg Tavonius"
+    ],
+    "license": "MIT",
+    "projectURL": "https://github.com/errwischt/stacktrace-parser",
+    "notes": "Parses every stack trace into a nicely formatted array of hashes."
+  },
+  "stats-r12.js": {
+    "text": [
+      "Copyright (c) 2009-2014 Mr.doob"
+    ],
+    "projectURL": "https://github.com/mrdoob/stats.js/",
+    "license": "The MIT License",
+    "notes": "Used in Scenery tests and examples, for showing a FPS monitor in the corner of the window"
+  },
+  "syntaxhighlighter-3.0.83.js": {
+    "text": [
+      "Copyright (c) 2004-2010 Alex Gorbatchev"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/syntaxhighlighter/syntaxhighlighter",
+    "notes": "Provides code highlighting in Scenery/Kite/Dot documentation"
+  },
+  "TextEncoderLite-3c9f6f0.js": {
+    "text": [
+      "AJ ONeal <awesome@coolaj86.com>"
+    ],
+    "license": "Apache 2.0",
+    "projectURL": "https://github.com/coolaj86/TextEncoderLite",
+    "notes": "Used for encoding unicode strings to typed arrays, for Scenery foreign object rasterization"
+  },
+  "three-r71.js": {
+    "text": [
+      "Copyright (c) 2010-2014 three.js authors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://threejs.org",
+    "notes": "For the 3D view (WebGL and Canvas), modified with commenting out startup console.log"
+  },
+  "three-r71-Projector.js": {
+    "text": [
+      "Copyright (c) 2010-2014 three.js authors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://threejs.org",
+    "notes": "For the 3D view (WebGL and Canvas) Canvas fall-back"
+  },
+  "three-r71-CanvasRenderer.js": {
+    "text": [
+      "Copyright (c) 2010-2014 three.js authors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://threejs.org",
+    "notes": "For the 3D view (WebGL and Canvas) Canvas fall-back"
+  },
+  "three-r104.js": {
+    "text": [
+      "Copyright © 2010-2019 three.js authors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://threejs.org",
+    "notes": "For the 3D view (WebGL and Canvas), modified with commenting out startup console.log"
+  },
+  "three-r104.min.js": {
+    "text": [
+      "Copyright © 2010-2019 three.js authors"
+    ],
+    "license": "The MIT License",
+    "projectURL": "http://threejs.org",
+    "notes": "For the 3D view (WebGL and Canvas), modified with commenting out startup console.log"
+  },
+  "Tween-r12.js": {
+    "text": [
+      "Copyright (c) 2010-2012 Tween.js authors."
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/tweenjs/tween.js/",
+    "notes": "Used to animate some graphics",
+    "dependencies": [
+      "easing-equations-r12"
+    ]
+  },
+  "easing-equations-r12": {
+    "text": [
+      "Copyright (c) 2001 Robert Penner. All rights reserved"
+    ],
+    "license": "Revised BSD License",
+    "projectURL": "http://robertpenner.com/easing/",
+    "notes": "Easing equations used in Tween.js, used to animate some graphics"
+  },
+  "typedarray-44f09cf.js": {
+    "text": [
+      "Copyright (c) 2010 Linden Research, Inc., Copyright (c) 2014 Joshua Bell"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/substack/typedarray",
+    "notes": "Typed array polyfill for optimization in matrices and/or 3D applications"
+  },
+  "ua-parser-0.7.21.min.js": {
+    "text": [
+      "Copyright © 2012-2019 Faisal Salman <f@faisalman.com>"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/faisalman/ua-parser-js",
+    "notes": "Parse User Agents strings to make them human readable"
+  },
+  "webgpu_recorder.js": {
+    "text": [
+      "Copyright (c) 2021 Brendan Duncan"
+    ],
+    "license": "The MIT License",
+    "projectURL": "https://github.com/brendan-duncan/webgpu_recorder",
+    "notes": "Recording and playback of WebGPU commands, used in some Alpenglow testing"
+  }
+}

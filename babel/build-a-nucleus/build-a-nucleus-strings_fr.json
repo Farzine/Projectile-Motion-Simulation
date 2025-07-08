@@ -1,0 +1,843 @@
+{
+  "decay": {
+    "value": "Désintégration ",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Désintégration "
+      }
+    ]
+  },
+  "symbol": {
+    "value": "symbole",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "symbole"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "Nuage électronique",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Nuage d'électrons"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663779438705,
+        "oldValue": "Nuage d'électrons",
+        "newValue": "Nuage électronique"
+      }
+    ]
+  },
+  "stable": {
+    "value": "Stable",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Stable"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "Instable",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Instable"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "neutrons",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "neutrons"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "ne forme pas",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "ne forme pas"
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "neutron",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "neutron"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "Amas de  {{neutronNumber}} neutrons",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Amas de {{neutronNumber}} neutrons"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "Amas de {{neutronNumber}} neutrons",
+        "newValue": "Amas de  {{neutronNumber}} neutrons",
+        "explanation": null
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "désintégration α",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "désintégration α"
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "désintégration β<sup>-</sup>",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "désintégration β<sup>-</sup>"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "désintégration β<sup>+</sup>",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "désintégration β<sup>+</sup>"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "Émission de protons",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Émission de protons"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "Émission de neutron",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Émission de neutron"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "moins stable",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "moins stable"
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "plus stable",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "plus stable"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "Désintégrations disponibles",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Désintégration disponible"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663779438705,
+        "oldValue": "Désintégration disponible",
+        "newValue": "Désintégrations disponibles"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "Bien que d'autres désintégrations puissent exister, les désintégrations disponibles présentées sont les plus courantes. Dans les cas où il n'y a pas de désintégration connue, aucune désintégration n'est affichée.",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Bien que d'autres désintégrations puissent exister, les désintégrations disponibles présentées sont les plus courantes. Dans les cas où il n'y a pas de désintégration connue, aucune désintégration n'est affichée."
+      }
+    ]
+  },
+  "protons": {
+    "value": "Protons",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Protons"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "Neutrons",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Neutrons"
+      }
+    ]
+  },
+  "proton": {
+    "value": "Proton",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Proton"
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "Neutron",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Neutron"
+      }
+    ]
+  },
+  "electron": {
+    "value": "Électron",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Electron"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "Electron",
+        "newValue": "Électron",
+        "explanation": null
+      }
+    ]
+  },
+  "positron": {
+    "value": "Positron",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Positron"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "Demi-vie :",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Démi-vie:"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663779438705,
+        "oldValue": "Démi-vie:",
+        "newValue": "Demi-vie:"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "Demi-vie:",
+        "newValue": "Demi-vie :",
+        "explanation": null
+      }
+    ]
+  },
+  "unknown": {
+    "value": "Inconnue",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Inconnue"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "secondes",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "secondes"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "Échelle de temps de demi-vie",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Échelle de temps de demi-vie"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "Protons :",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Protons:"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "Protons:",
+        "newValue": "Protons :",
+        "explanation": null
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "Neutrons :",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Neutrons:"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "Neutrons:",
+        "newValue": "Neutrons :",
+        "explanation": null
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "Temps pour que la lumière traverse un noyau",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Temps pour que la lumière traverse un noyau"
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "Temps pour que la lumière traverse un atome",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Temps pour que la lumière traverse un atome"
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "Temps pour que la lumière traverse 1000 atomes",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Le temps pour que la lumière traverse 1000 atomes"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663779438705,
+        "oldValue": "- Le temps pour que la lumière traverse 1000 atomes",
+        "newValue": "- Temps pour que la lumière traverse 1000 atomes"
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "Temps pour que le son parcoure 1 mm",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Temps que le son parcourt 1 mm"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663779438705,
+        "oldValue": "- Temps que le son parcourt 1 mm",
+        "newValue": "- Temps pour que le son parcoure 1 mm"
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "Un clin d'oeil",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Un clin d'oeil"
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "Une minute",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Une minute"
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "Une année",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Une année"
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "Durée de vie humaine moyenne",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Durée de vie humaine moyenne"
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "Âge de l'univers",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Âge de l'univers"
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "Âge des étoiles les plus anciennes",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "- Durée de vie des étoiles les plus anciennes"
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663779438705,
+        "oldValue": "- Durée de vie des étoiles les plus anciennes",
+        "newValue": "- Âge des étoiles les plus anciennes"
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "Construire un noyau",
+    "history": [
+      {
+        "userId": 237975,
+        "timestamp": 1662755354959,
+        "oldValue": "",
+        "newValue": "Construire un noyau"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "Désintégration",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Désintégration"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "Introduction au tableau de désintégration",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Introduction au tableau de désintégration"
+      }
+    ]
+  },
+  "energy": {
+    "value": "Énergie",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Énergie"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "Nombres magiques",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Nombres magiques"
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "Un tableau interactif complet des nucléides et de leur désintégration est disponible sur Energy Education Project at University of Calgary, voir {{link}}.",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Un tableau interactif complet des nucléides et de leur désintégration est disponible sur Energy Education Project at University of Calgary, voir {{link}}."
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "tableau complet",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "tableau complet"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "Tableau Complet des Nucléides",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Tableau Complet des Nucléides"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "Tableau Complet",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Tableau Complet"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "Modèle du Noyau Atomique",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Modèle du Noyau Atomique"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "Nombre de Protons",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Nombre de Protons"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "Nombre de Neutrons",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Nombre de Neutrons"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "inconnu{{space}}",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "inconnu{{space}}"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "Type de désintégration probable",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "Type de désintégration probable"
+      }
+    ]
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "({{decayLikelihoodPercent}}%)"
+      }
+    ]
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "{{name}} - {{mass}}"
+      }
+    ]
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "{{nameMass}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "{{mass}} {{particleType}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "E"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "F"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "G"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "H"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "I"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 871615,
+        "timestamp": 1714903731539,
+        "oldValue": "",
+        "newValue": "J"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "Graphique des nucléides partiels",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1724008418691,
+        "oldValue": "",
+        "newValue": "Graphique des nucléides partiels"
+      }
+    ]
+  }
+}

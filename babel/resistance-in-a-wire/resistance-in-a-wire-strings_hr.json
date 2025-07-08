@@ -1,0 +1,224 @@
+{
+  "area": {
+    "value": "ploština",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "područje",
+        "explanation": null
+      },
+      {
+        "userId": 445867,
+        "timestamp": 1507190988875,
+        "oldValue": "područje",
+        "newValue": "ploština",
+        "explanation": null
+      }
+    ]
+  },
+  "areaSymbol": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "A",
+        "explanation": null
+      }
+    ]
+  },
+  "cm": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "length": {
+    "value": "duljina",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "duljina",
+        "explanation": null
+      }
+    ]
+  },
+  "lengthSymbol": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      },
+      {
+        "userId": 445867,
+        "timestamp": 1507190988875,
+        "oldValue": "L",
+        "newValue": "l",
+        "explanation": null
+      }
+    ]
+  },
+  "ohm": {
+    "value": "ohm",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "ohm",
+        "explanation": null
+      }
+    ]
+  },
+  "ohmsSymbol": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label.1value.2units": {
+    "value": "{0} = {1} {2}",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "{0} = {1} {2}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0resistanceUnits.1lengthUnits": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "{0}{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "resistance": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "otpornost",
+        "explanation": null
+      },
+      {
+        "userId": 445867,
+        "timestamp": 1505379709783,
+        "oldValue": "otpornost",
+        "newValue": "R",
+        "explanation": null
+      }
+    ]
+  },
+  "resistance-in-a-wire.title": {
+    "value": "Električna otpornost vodiča",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "Otpornost vodiča",
+        "explanation": null
+      },
+      {
+        "userId": 445867,
+        "timestamp": 1507190988875,
+        "oldValue": "Otpornost vodiča",
+        "newValue": "Električna otpornost vodiča",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceEq": {
+    "value": "Otpor vodiča=",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961593,
+        "oldValue": "",
+        "newValue": "Otpor vodiča=",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceSymbol": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "R",
+        "explanation": null
+      }
+    ]
+  },
+  "resistivity": {
+    "value": "otpornost",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "otpor",
+        "explanation": null
+      },
+      {
+        "userId": 445867,
+        "timestamp": 1505379709783,
+        "oldValue": "otpor",
+        "newValue": "električna otpornost",
+        "explanation": null
+      },
+      {
+        "userId": 445867,
+        "timestamp": 1507190988875,
+        "oldValue": "električna otpornost",
+        "newValue": "otpornost",
+        "explanation": null
+      }
+    ]
+  },
+  "resistivitySymbol": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 445867,
+        "timestamp": 1501505961591,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  }
+}

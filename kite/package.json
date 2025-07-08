@@ -1,0 +1,28 @@
+{
+  "name": "kite",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/kite.git"
+  },
+  "devDependencies": {
+    "@types/pegjs": "^0.10.6",
+    "grunt": "~1.5.3",
+    "pegjs": "~0.7.0"
+  },
+  "phet": {
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "generatedUnitTests": true,
+    "requirejsNamespace": "KITE",
+    "buildStandalone": true,
+    "requiresLodash": true,
+    "preload": [
+      "../sherpa/lib/flatqueue-1.2.1.js"
+    ],
+    "supportsOutputJS": true
+  }
+}

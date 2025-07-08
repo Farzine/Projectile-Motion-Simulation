@@ -1,0 +1,800 @@
+{
+  "decay": {
+    "value": "붕괴",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "붕괴"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "기호",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "기호"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "전자구름",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "전자구름"
+      }
+    ]
+  },
+  "stable": {
+    "value": "안정한",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "안정한"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "불안정한",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "불안정한"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "α 붕괴",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "α 붕괴"
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "β<sup>-</sup> 붕괴",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "β<sup>-</sup> 붕괴"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "β<sup>+</sup> 붕괴",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "β<sup>+</sup> 붕괴"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "양성자 방출",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "양성자 방출"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "중성자 방출",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "중성자 방출"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "덜 안정한",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "덜 안정한 "
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "덜 안정한 ",
+        "newValue": "덜 안정한",
+        "explanation": null
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "더 안정한",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "더 안정한"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "가능한 붕괴",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "가능한 붕괴"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "다른 붕괴가 있을 수 있으나 가장 흔한 붕괴를 보여 줌. 알려진 붕괴가 없을 경우엔 가능한 붕괴를 보여주지 않음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "다른 붕괴가 있을 수 있으나 가장 흔한 붕괴를 보여 줌. 알려진 붕괴가 없을 경우엔 가능한 붕괴를 보여주지 않음 "
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "다른 붕괴가 있을 수 있으나 가장 흔한 붕괴를 보여 줌. 알려진 붕괴가 없을 경우엔 가능한 붕괴를 보여주지 않음 ",
+        "newValue": "다른 붕괴가 있을 수 있으나 가장 흔한 붕괴를 보여 줌. 알려진 붕괴가 없을 경우엔 가능한 붕괴를 보여주지 않음",
+        "explanation": null
+      }
+    ]
+  },
+  "protons": {
+    "value": "양성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "양성자"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "중성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "중성자"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "중성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "중성자"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "형성되지 않음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "형성되지 않음"
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "중성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "중성자"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "{{neutronNumber}} 중성자의 묶음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": " {{neutronNumber}} 중성자의 묶음"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": " {{neutronNumber}} 중성자의 묶음",
+        "newValue": "{{neutronNumber}} 중성자의 묶음",
+        "explanation": null
+      }
+    ]
+  },
+  "proton": {
+    "value": "양성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "양성자"
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "중성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "중성자"
+      }
+    ]
+  },
+  "electron": {
+    "value": "전자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "전자"
+      }
+    ]
+  },
+  "positron": {
+    "value": "양전자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "양전자"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "반감기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "반감기"
+      }
+    ]
+  },
+  "unknown": {
+    "value": "알려지지 않음",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "알려지지 않음"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "초",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "초"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "반감기 시간 규모",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "반감기 시간 규모"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "양성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "양성자"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "중성자",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "중성자"
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "빛이 핵을 통과하는 시간",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 빛이 핵을 통과하는 시간"
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "빛이 원자를 통과하는 시간",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 빛이 원자를 통과하는 시간"
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "빛이 1000개의 원자를 통과하는 시간",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 빛이 1000개의 원자를 통과하는 시간"
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "소리가 1mm를 통과하는 시간",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 소리가 1mm를 통과하는 시간"
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "눈 깜작할 사이",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 누 깜작할 사이"
+      },
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "누 깜작할 사이",
+        "newValue": "눈 깜작할 사이",
+        "explanation": null
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "1분",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 1분"
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "1년",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 1년"
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "인간의 평균 수면",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 인간의 평균 수면"
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "우주의 나이",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 우주의 나이"
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "가장 오래산 별의 생존 기간",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "- 가장 오래산 별의 생존 기간"
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "핵 생성하기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675346870314,
+        "oldValue": "",
+        "newValue": "핵 생성하기"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "붕괴",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "붕괴"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "차트 소개",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "차트 소개"
+      }
+    ]
+  },
+  "energy": {
+    "value": "에너지",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "에너지"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "매직 넘버",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "매직 넘버"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "부분적 핵종 차트",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "부분적 핵종 차트"
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "A full, interactive chart of the nuclides and their decays is available from Energy Education Project at University of Calgary, see {{link}}.",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "A full, interactive chart of the nuclides and their decays is available from Energy Education Project at University of Calgary, see {{link}}."
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "전체 차트",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "전체 차트"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "전체 핵종 차트",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "전체 핵종 차트"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "전체 차트",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "전체 차트"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "핵쉘 모형",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "핵쉘 모형"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "{{name}} - {{mass}}"
+      }
+    ]
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "{{nameMass}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "{{mass}} {{particleType}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "양성자 수",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "양성자 수"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "중성자 수",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "중성자 수"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "알려지지 않은{{space}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "알려지지 않은{{space}}"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "가장 가까운 붕괴형태",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "가장 가까운 붕괴형태"
+      }
+    ]
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "({{decayLikelihoodPercent}}%)"
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "E"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "F"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "G"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "H"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "I"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1700918117078,
+        "oldValue": "",
+        "newValue": "J"
+      }
+    ]
+  }
+}

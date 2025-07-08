@@ -1,0 +1,547 @@
+{
+  "pattern.0yourBest": {
+    "value": "(O teu recorde: {0})",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "(Teu Recorde: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 699594,
+        "timestamp": 1591774121682,
+        "oldValue": "(Teu Recorde: {0})",
+        "newValue": "(O teu Recorde: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 1017174,
+        "timestamp": 1642728085034,
+        "oldValue": "(O teu Recorde: {0})",
+        "newValue": "(O teu recorde: {0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(O teu novo Recorde!)",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "(Teu Novo Recorde!)",
+        "explanation": null
+      },
+      {
+        "userId": 699594,
+        "timestamp": 1591774121682,
+        "oldValue": "(Teu Novo Recorde!)",
+        "newValue": "(O teu novo Recorde!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Desafio {0} de {1}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "",
+        "newValue": "Desafio {0} de {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Verificar",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "",
+        "newValue": "Verificar",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Continuar",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Continuar",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Excelente!",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Excelente!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Correto !",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Boa!",
+        "explanation": null
+      },
+      {
+        "userId": 1017174,
+        "timestamp": 1642728085034,
+        "oldValue": "Boa!",
+        "newValue": "Muito Bem !"
+      },
+      {
+        "userId": 1017174,
+        "timestamp": 1643324989625,
+        "oldValue": "Muito Bem !",
+        "newValue": "Correto !"
+      }
+    ]
+  },
+  "great": {
+    "value": "Excelente Trabalho !",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Fixe!",
+        "explanation": null
+      },
+      {
+        "userId": 1017174,
+        "timestamp": 1642728085034,
+        "oldValue": "Fixe!",
+        "newValue": "Fixe !"
+      },
+      {
+        "userId": 1017174,
+        "timestamp": 1643324989625,
+        "oldValue": "Fixe !",
+        "newValue": "Excelente Trabalho !"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Volta a tentar...",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Continua a tentar",
+        "explanation": null
+      },
+      {
+        "userId": 1017174,
+        "timestamp": 1643324989625,
+        "oldValue": "Continua a tentar",
+        "newValue": "Volta a tentar..."
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Nível: {0}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Nível: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Seguinte",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "",
+        "newValue": "Seguinte",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Resultado: {0}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Resultado: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Resultado: {0} em {1}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Resultado: {0} em {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Mostrar Resposta",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "",
+        "newValue": "Mostrar Resposta",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Recomeçar",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "",
+        "newValue": "Recomeçar",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Tempo: {0}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Tempo: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Tenta de novo",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "",
+        "newValue": "Tenta de novo",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Escolhe o Teu Nível!",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1642622118486,
+        "oldValue": "",
+        "newValue": "Escolhe o Teu Nível!"
+      }
+    ]
+  },
+  "done": {
+    "value": "Feito",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1642622118486,
+        "oldValue": "",
+        "newValue": "Feito"
+      }
+    ]
+  },
+  "score": {
+    "value": "Resultado:",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096744448,
+        "oldValue": "",
+        "newValue": "Resultado:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Resultado: {{score}}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541096744448,
+        "oldValue": "",
+        "newValue": "Resultado: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Completaste os níveis todos!",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1642622118486,
+        "oldValue": "",
+        "newValue": "Completaste os níveis todos!"
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Continua",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541100210659,
+        "oldValue": "",
+        "newValue": "Continua",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Novo nível",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541100210659,
+        "oldValue": "",
+        "newValue": "Novo nível",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Escolher o nível",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "",
+        "newValue": "Escolher o nível",
+        "explanation": null
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "Nível:",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Nível:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "Resultado: {0} em {1} (PERFEITO)",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Resultado: {0} em {1} (PERFEITO)",
+        "explanation": null
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+        "explanation": null
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1541094629741,
+        "oldValue": "Não terminou este jogo.\r\\nPretende iniciar um novo jogo?",
+        "newValue": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+        "explanation": null
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1541094846201,
+        "oldValue": "Não terminou este jogo.\r\\nPretende iniciar um novo jogo?",
+        "newValue": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+        "explanation": null
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1541096744448,
+        "oldValue": "Não terminou este jogo.\r\\nPretende iniciar um novo jogo?",
+        "newValue": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+        "explanation": null
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1541096817026,
+        "oldValue": "Não terminou este jogo.\r\\nPretende iniciar um novo jogo?",
+        "newValue": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+        "explanation": null
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1541100210660,
+        "oldValue": "Não terminou este jogo.\r\\nPretende iniciar um novo jogo?",
+        "newValue": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+        "explanation": null
+      },
+      {
+        "userId": 610145,
+        "timestamp": 1541110267339,
+        "oldValue": "Não terminou este jogo.\r\\nPretende iniciar um novo jogo?",
+        "newValue": "Não terminou este jogo.\r\nPretende iniciar um novo jogo?",
+        "explanation": null
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "Novo Jogo",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277780,
+        "oldValue": "",
+        "newValue": "Novo Jogo",
+        "explanation": null
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "NOVO RECORD",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277781,
+        "oldValue": "",
+        "newValue": "NOVO RECORD",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "Definições do Jogo",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277781,
+        "oldValue": "",
+        "newValue": "Definições do Jogo",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "ligar",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277781,
+        "oldValue": "",
+        "newValue": "ligar",
+        "explanation": null
+      }
+    ]
+  },
+  "label.best": {
+    "value": "O Melhor: {0}",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277781,
+        "oldValue": "",
+        "newValue": "O Melhor: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "desligar",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277781,
+        "oldValue": "",
+        "newValue": "desligar",
+        "explanation": null
+      }
+    ]
+  },
+  "button.start": {
+    "value": "Iniciar!",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277781,
+        "oldValue": "",
+        "newValue": "Iniciar!",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "Jogo Terminado",
+    "history": [
+      {
+        "userId": 610145,
+        "timestamp": 1541094277781,
+        "oldValue": "",
+        "newValue": "Jogo Terminado",
+        "explanation": null
+      }
+    ]
+  }
+}

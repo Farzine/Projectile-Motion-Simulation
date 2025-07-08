@@ -1,0 +1,448 @@
+{
+  "screen.explore": {
+    "value": "Keşfet",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Keşfet"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Genel",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Genel"
+      }
+    ]
+  },
+  "genericAbsoluteDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ve {{primaryPointControllerLabel}} birbirlerinden {{difference}} {{units}} uzaklar.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774408,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ve {{primaryPointControllerLabel}} birbirlerinden {{difference}} {{units}} uzaklar."
+      }
+    ]
+  },
+  "genericDirectedPositiveDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}den {{difference}} {{units}} daha pozitif.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774408,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}den {{difference}} {{units}} daha pozitif."
+      }
+    ]
+  },
+  "genericDirectedNegativeDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}den {{difference}} {{units}} daha negatif.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774408,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}den {{difference}} {{units}} daha negatif."
+      }
+    ]
+  },
+  "unit": {
+    "value": "birim",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "birim"
+      }
+    ]
+  },
+  "units": {
+    "value": "birimler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "birimler"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "symbol.east": {
+    "value": "Doğu",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Doğu"
+      }
+    ]
+  },
+  "symbol.west": {
+    "value": "Batı",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Batı"
+      }
+    ]
+  },
+  "house": {
+    "value": "ev",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "ev"
+      }
+    ]
+  },
+  "person": {
+    "value": "birey",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "birey"
+      }
+    ]
+  },
+  "distanceSceneAbsoluteDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ve {{primaryPointControllerLabel}} birbirlerinden {{difference}} {{units}} uzaklar.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ve {{primaryPointControllerLabel}} birbirlerinden {{difference}} {{units}} uzaklar."
+      }
+    ]
+  },
+  "distanceSceneDirectedPositiveDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}'nın  {{difference}} {{units}} doğusunda.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}'nın  {{difference}} {{units}} doğusunda."
+      }
+    ]
+  },
+  "distanceSceneDirectedNegativeDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}'nın  {{difference}} {{units}} batısında.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}}'nın  {{difference}} {{units}} batısında."
+      }
+    ]
+  },
+  "symbol.meters": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "meter": {
+    "value": "metre",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "metre"
+      }
+    ]
+  },
+  "meters": {
+    "value": "metre",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "metre"
+      }
+    ]
+  },
+  "symbol.A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "symbol.B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "temperatureSceneAbsoluteDistanceTemplate": {
+    "value": "Sıcaklık farkı {{difference}} {{units}}.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "Sıcaklık farkı {{difference}} {{units}}."
+      }
+    ]
+  },
+  "temperatureSceneDirectedPositiveDistanceTemplate": {
+    "value": "Konum {{secondaryPointControllerLabel}} konum {{primaryPointControllerLabel}}'den  {{difference}} {{units}} daha sıcak.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "Konum {{secondaryPointControllerLabel}} konum {{primaryPointControllerLabel}}'den  {{difference}} {{units}} daha sıcak."
+      }
+    ]
+  },
+  "temperatureSceneDirectedNegativeDistanceTemplate": {
+    "value": "Konum {{secondaryPointControllerLabel}} konum {{primaryPointControllerLabel}}'den  {{difference}} {{units}} daha soğuk.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "Konum {{secondaryPointControllerLabel}} konum {{primaryPointControllerLabel}}'den  {{difference}} {{units}} daha soğuk."
+      }
+    ]
+  },
+  "symbol.degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "degree": {
+    "value": "derece",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "derece"
+      }
+    ]
+  },
+  "degrees": {
+    "value": "derece",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "derece"
+      }
+    ]
+  },
+  "fish": {
+    "value": "balık",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "balık"
+      }
+    ]
+  },
+  "bird": {
+    "value": "kuş",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "kuş"
+      }
+    ]
+  },
+  "elevationSceneAbsoluteDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ve {{primaryPointControllerLabel}} birbirlerinden {{difference}} {{units}} dikey uzaklıktadır.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ve {{primaryPointControllerLabel}} birbirlerinden {{difference}} {{units}} dikey uzaklıktadır."
+      }
+    ]
+  },
+  "elevationSceneDirectedPositiveDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}} {{difference}} {{units}} yukarısındadır.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}} {{difference}} {{units}} yukarısındadır."
+      }
+    ]
+  },
+  "elevationSceneDirectedNegativeDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}} {{difference}} {{units}} aşağısındadır.",
+    "history": [
+      {
+        "userId": 1015320,
+        "timestamp": 1671211774409,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}}, {{primaryPointControllerLabel}} {{difference}} {{units}} aşağısındadır."
+      }
+    ]
+  },
+  "pointLabels": {
+    "value": "Puan Etiketleri",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Puan Etiketleri"
+      }
+    ]
+  },
+  "distanceLabels": {
+    "value": "Mesafe Etiketleri",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Mesafe Etiketleri"
+      }
+    ]
+  },
+  "distanceDescription": {
+    "value": "Mesafe Açıklaması",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Mesafe Açıklaması"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Sayı İşaretleri",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Sayı İşaretleri"
+      }
+    ]
+  },
+  "absoluteValue": {
+    "value": "Mutlak Değer",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Mutlak Değer"
+      }
+    ]
+  },
+  "directedDistance": {
+    "value": "Yönlendirilmiş Mesafe",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Yönlendirilmiş Mesafe"
+      }
+    ]
+  },
+  "distanceStatement": {
+    "value": "Mesafe Bildirimi",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Mesafe Bildirimi"
+      }
+    ]
+  },
+  "number-line-distance.title": {
+    "value": "Sayı Doğrusu: Mesafe",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1631460729333,
+        "oldValue": "",
+        "newValue": "Sayı Doğrusu: Mesafe Hesaplama"
+      },
+      {
+        "userId": 1015320,
+        "timestamp": 1671211837192,
+        "oldValue": "Sayı Doğrusu: Mesafe Hesaplama",
+        "newValue": "Sayı Doğrusu: Mesafe"
+      }
+    ]
+  }
+}

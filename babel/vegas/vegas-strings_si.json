@@ -1,0 +1,358 @@
+{
+  "chooseYourLevel": {
+    "value": "ඔබේ මට්ටම තෝරන්න !",
+    "history": [
+      {
+        "userId": 742873,
+        "timestamp": 1582727399580,
+        "oldValue": "",
+        "newValue": "ඔබේ මට්ටම තෝරන්න !",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "ඉවරයි",
+    "history": [
+      {
+        "userId": 742873,
+        "timestamp": 1582727399580,
+        "oldValue": "",
+        "newValue": "ඉවරයි",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "ඊලඟ",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462615690378,
+        "oldValue": "",
+        "newValue": "ඊලඟ",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "ලකුණු:",
+    "history": [
+      {
+        "userId": 742873,
+        "timestamp": 1582727399580,
+        "oldValue": "",
+        "newValue": "ලකුණු:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "ලකුණු: {{score}}",
+    "history": [
+      {
+        "userId": 742873,
+        "timestamp": 1582727399580,
+        "oldValue": "",
+        "newValue": "ලකුණු: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "ඔබ සියලු මට්ටම් සම්පූර්ණ කළා !",
+    "history": [
+      {
+        "userId": 742873,
+        "timestamp": 1582727399580,
+        "oldValue": "",
+        "newValue": "ඔබ සියලු මට්ටම් සම්පූර්ණ කළා !",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552184,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552184,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "පරීක්ෂා කරන්න",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462615690378,
+        "oldValue": "",
+        "newValue": "පරීක්ෂා කරන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "නොකඩවාම කරගෙන යන්න",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "නොකඩවාම කරගෙන යන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "විශිෂ්ටයි!",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "විශිෂ්ට!",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1462619773319,
+        "oldValue": "විශිෂ්ට!",
+        "newValue": "විශිෂ්ටයි!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "හොඳයි!",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "හොඳයි",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1462619773319,
+        "oldValue": "හොඳයි",
+        "newValue": "හොඳයි!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "විශිෂ්ටයි!",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "උදාරයි !",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1463991378629,
+        "oldValue": "උදාරයි !",
+        "newValue": "විශිෂ්ටයි!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "දිගටම උත්සාහ කරන්න",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "දිගටම උත්සහා කරන්න",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465882481051,
+        "oldValue": "දිගටම උත්සහා කරන්න",
+        "newValue": "දිගටම උත්සාහ කරන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "මට්ටම: {0}",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "මට්ටම: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "ලකුණු: {0}",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552184,
+        "oldValue": "",
+        "newValue": "ලකුණු: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "ලකුණු: {1}න් {0}",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552184,
+        "oldValue": "",
+        "newValue": "ලකුණු: {1}න් {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "කාලය: {0}",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552184,
+        "oldValue": "",
+        "newValue": "කාලය: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "අභියෝගය {1} හි {0} ",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462615690378,
+        "oldValue": "",
+        "newValue": "අභියෝගය {0} හි {1}",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1462689174647,
+        "oldValue": "අභියෝගය {0} හි {1}",
+        "newValue": "අභියෝගය {1} හි {0}",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1463984389603,
+        "oldValue": "අභියෝගය {1} හි {0}",
+        "newValue": "අභියෝගය {0} හි {1}",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1463991378629,
+        "oldValue": "අභියෝගය {0} හි {1}",
+        "newValue": "අභියෝගය {1} හි {0} ",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(ඔබේ හොඳම: {0})",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "(ඔබේ හොඳම: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "මට්ටම තෝරන්න ",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462615690378,
+        "oldValue": "",
+        "newValue": "මට්ටම තෝරන්න ",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "පිළිතුර පෙන්වන්න",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462615690378,
+        "oldValue": "",
+        "newValue": "පිළිතුර පෙන්වන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "නැවත අරඹන්න ",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462615690378,
+        "oldValue": "",
+        "newValue": "නැවත අරඹන්න ",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "නැවත උත්සහා කරන්න",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462615690378,
+        "oldValue": "",
+        "newValue": "නැවත උත්සහා කරන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(ඔබේ නවතම, හොඳම!)",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462609552183,
+        "oldValue": "",
+        "newValue": "(ඔබේ නව හොඳම!)",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465880960596,
+        "oldValue": "(ඔබේ නව හොඳම!)",
+        "newValue": "(ඔබේ නවතම, හොඳම!)",
+        "explanation": null
+      }
+    ]
+  }
+}

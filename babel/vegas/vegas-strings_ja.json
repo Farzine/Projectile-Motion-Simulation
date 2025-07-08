@@ -1,0 +1,302 @@
+{
+  "next": {
+    "value": "次の問題",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "次の問題",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "スコア",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1528345621910,
+        "oldValue": "",
+        "newValue": "スコア",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "スコア: {{score}}",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1528345621910,
+        "oldValue": "",
+        "newValue": "スコア: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "全レベルをコンプリートしました！",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1560828082425,
+        "oldValue": "",
+        "newValue": "全レベルをコンプリートしました！",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525926864932,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525926864932,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "続けてください",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1541662122324,
+        "oldValue": "",
+        "newValue": "続けてください",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "新しいレベル",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1541662122324,
+        "oldValue": "",
+        "newValue": "新しいレベル",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "最高点: {0}",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525926864932,
+        "oldValue": "",
+        "newValue": "最高点: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "最高点更新",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525926864932,
+        "oldValue": "",
+        "newValue": "最高点更新",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "{0} / {1} 問",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1498425807301,
+        "oldValue": "",
+        "newValue": "{0} / {1} 問",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "答え合わせ",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "答え合わせ",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "続ける",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "続ける",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "よくできました！",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "よくできました！",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "いいね！",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "いいね！",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "すばらしい！",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "すばらしい！",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "トライ!トライ！",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525926864932,
+        "oldValue": "",
+        "newValue": "トライ!トライ！",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "レベル: {0}",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525926864932,
+        "oldValue": "",
+        "newValue": "レベル: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "正解：{0} 点 / {1} 点",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "正解：{0} 点 / {1} 点",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "答えを見る",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525928413908,
+        "oldValue": "",
+        "newValue": "答えを見る",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "最初からやり直す",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1498425807301,
+        "oldValue": "",
+        "newValue": "最初からやり直す",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "時間: {0}",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1525926864932,
+        "oldValue": "",
+        "newValue": "時間: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "もう一回やる",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778243,
+        "oldValue": "",
+        "newValue": "もう一回やる",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "点数：{0}",
+    "history": [
+      {
+        "userId": 197169,
+        "timestamp": 1496324778242,
+        "oldValue": "",
+        "newValue": "点数：{0}",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "レベルを選んでください",
+    "history": [
+      {
+        "userId": 450702,
+        "timestamp": 1498425807301,
+        "oldValue": "",
+        "newValue": "レベルを選んでください",
+        "explanation": null
+      }
+    ]
+  }
+}

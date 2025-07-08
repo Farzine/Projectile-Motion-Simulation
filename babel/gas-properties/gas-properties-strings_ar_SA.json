@@ -1,0 +1,632 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "kPa",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "الضغط",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الضغط",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "البيانات",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "البيانات",
+        "explanation": null
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "مركز الكتلة",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "مركز الكتلة",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "درجة الحرارة الابتدائية (K)",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "درجة الحرارة الابتدائية (K)",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "الكتلة (AMU)",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الكتلة (AMU)",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "عدد الجسيمات",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "عدد الجسيمات",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "نصف القطر (pm)",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "القطر (pm)",
+        "explanation": null
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "القطر (pm)",
+        "newValue": "نصف القطر (pm)"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "إزالة الحاجز",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "إزالة الحاجز"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "إعادة تعيين الحاجز",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "إعادة تعيين الحاجز"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "معدل تدفق الجسيمات",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "معدل تدفق الجسيمات",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "المقياس",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "المقياس",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "ساعة التوقف",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "ساعة التوقف",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "ps",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "الانتشار",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الانتشار",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "عدد التصادمات",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "عدد التصادمات",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "العرض",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "العرض",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "الفترة الزمنية",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الفترة الزمنية",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "التصادمات مع جدران الوعاء",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "التصادمات مع جدران الوعاء",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "°C",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "استرداد الغطاء",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "اعط الغطاء",
+        "explanation": null
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "اعط الغطاء",
+        "newValue": "استرداد الغطاء"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "تم الوصول إلى الحد الأقصى لدرجة الحرارة",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "تم الوصول إلى الحد الأقصى لدرجة الحرارة"
+      }
+    ]
+  },
+  "collisions": {
+    "value": "التصادمات",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "التصادمات",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "ثقيل",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "ثقيل",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "خفيف",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "خفيف",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "الجسيمات",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الجسيمات",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "استكشف",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "استكشف",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "ضجيج الضغط",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "ضجيج الضغط"
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "لا شيء",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "لا شيء",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "الضعط↕T",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الضعط↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "الضعط↕V",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الضعط↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "المتغير الثابت",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "المتغير الثابت",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "درجة الحرارة(T)",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "درجة الحرارة(T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "الحجم (V)",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الحجم (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "عفواً! لا يمكن إبقاء الضغط ثابتاً عندما تكون الحاوية فارغة",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "عفواً! لا يمكن إبقاء الضغط ثابتاً عندما تكون الحاوية فارغة"
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "عفواً! لا يمكن إبقاء الضغط ثابتاً عندما يكون حجم الصوت كبيراً جداً",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "عفواً! لا يمكن إبقاء الضغط ثابتاً عندما يكون حجم الصوت كبيراً جداً"
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "عفواً! لا يمكن إبقاء الضغط ثابتاً عندما يكون الحجم صغير جداً",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "عفواً! لا يمكن إبقاء الضغط ثابتاً عندما يكون الحجم صغير جداً"
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "عفواً! لا يمكن تثبيت درجة الحرارة عندما تكون الحاوية فارغة",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "عفواً! لا يمكن تثبيت درجة الحرارة عندما تكون الحاوية فارغة"
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "عفواً! لا يمكن تثبيت درجة الحرارة عندما تمون الحاوية مفتوحة",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "عفواً! لا يمكن تثبيت درجة الحرارة عندما تمون الحاوية مفتوحة"
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "مثال",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "مثال",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "السرعة المتوسطة",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "السرعة المتوسطة",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "m/s",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "درجة حرارة الحقن",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "درجة حرارة الحقن"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "الحاوية",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "الحاوية"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "بدء النشاط",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "",
+        "newValue": "بدء النشاط"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "الطاقة الحركية",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الطاقة الحركية",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "السرعة",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "السرعة",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "الطاقة",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "الطاقة",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "خصائص الغاز",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1606401699035,
+        "oldValue": "",
+        "newValue": "خصائص الغازات",
+        "explanation": null
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1640945189032,
+        "oldValue": "خصائص الغازات",
+        "newValue": "خصائص الغاز"
+      }
+    ]
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "atm",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Basınç",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Basınç",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>ort</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "T<sub>ort</sub> = {{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>ort</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "T<sub>ort</sub> = {{value}} K",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "Veri",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Bilgi",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670680183598,
+        "oldValue": "Bilgi",
+        "newValue": "Veri"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Ağırlık Merkezi",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Ağırlık Merkezi",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Başlangıç Sıcaklığı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Başlangıç Sıcaklığı",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Kütle (AMU)",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Kütle (AMU)",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Tanecik Sayısı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Tanecik Sayısı",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Yarıçap",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Yarıçap",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Ara Bölmeyi Kaldır",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Ara Bölmeyi Kaldır",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Ara Bölmeyi Sıfırla",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Ara Bölmeyi Koy",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670680183598,
+        "oldValue": "Ara Bölmeyi Koy",
+        "newValue": "Ara Bölmeyi Sıfırla"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Tanecik Akış Oranı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Tanecik Akış Oranı",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "Cetvel",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Cetvel",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Kronometre",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Kronometre",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "nanomt",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "nanomt",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "picos",
+        "explanation": null
+      },
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "picos",
+        "newValue": "picosaniye",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "picosaniye",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Difüzyon ",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579972858911,
+        "oldValue": "",
+        "newValue": "Difüzyon ",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Çarpışma Sayacı",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Çarpışma Sayacı",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Genişlik",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Genişlik",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Örnek Periyot",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Örnek Periyot",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Kabın Çeperi ile Çarpışmalar",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Kap Duvarına Çarpma",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Kap Duvarına Çarpma",
+        "newValue": "Kabın Çeperi ile Çarpışmalar"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Kapağı Yerine Koy",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Dönüş Kapağı",
+        "explanation": null
+      },
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "Dönüş Kapağı",
+        "newValue": "Kapağı yerine koy",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Kapağı yerine koy",
+        "newValue": "Kapağı Yerine Koy"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Dikkat!<br><br>Maksimum sıcaklığa ulaşıldı.",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Maksimum sıcaklığa ulaşıldı.",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Oops!<br><br>Maksimum sıcaklığa ulaşıldı.",
+        "newValue": "Dikkat!<br><br>Maksimum sıcaklığa ulaşıldı."
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Çarpışmalar",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Çarpışma",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Çarpışma",
+        "newValue": "Çarpışmalar"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Ağır",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Ağır",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "Hafif",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Hafif",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Tanecikler",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Parçacıklar",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Parçacıklar",
+        "newValue": "Tanecikler"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Keşfet",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Keşfet",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Basınç Gürültüsü",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Basınç Gürültüsü",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Hiçbiri",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Hiçbirşey",
+        "explanation": null
+      },
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "Hiçbirşey",
+        "newValue": "Boş",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Boş",
+        "newValue": "Hiçbiri"
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Basınç ↕T",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Basınç ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Basınç ↕V",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Basınç ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Sabit Tut",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Sabit Tut",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Sıcaklık (T)",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Sıcaklık (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Hacim (V)",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Hacim (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Dikkat!<br><br>Kap boşken<br>basınç sabit tutulamaz.",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Kap boşken<br>basınç sabit tutulamaz.",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Oops!<br><br>Kap boşken<br>basınç sabit tutulamaz.",
+        "newValue": "Dikkat!<br><br>Kap boşken<br>basınç sabit tutulamaz."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Dikkat!<br><br>Kabın hacmi çok büyük olacağından<br>basınç sabit tutulamaz.",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Kabın hacmi çok büyük olacağından<br>basınç sabit tutulamaz.",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Oops!<br><br>Kabın hacmi çok büyük olacağından<br>basınç sabit tutulamaz.",
+        "newValue": "Dikkat!<br><br>Kabın hacmi çok büyük olacağından<br>basınç sabit tutulamaz."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Dikkat!<br><br>Kabın hacmi çok küçük olacağından<br>basınç sabit tutulamaz.",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Kabın hacmi çok küçük olacağından<br>basınç sabit tutulamaz.",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Oops!<br><br>Kabın hacmi çok küçük olacağından<br>basınç sabit tutulamaz.",
+        "newValue": "Dikkat!<br><br>Kabın hacmi çok küçük olacağından<br>basınç sabit tutulamaz."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Dikkat!<br><br>Kap boşken<br>sıcaklık sabit tutulamaz.",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Kap boşken<br>sıcaklık sabit tutulamaz.",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Oops!<br><br>Kap boşken<br>sıcaklık sabit tutulamaz.",
+        "newValue": "Dikkat!<br><br>Kap boşken<br>sıcaklık sabit tutulamaz."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Dikkat!<br><br>Kap açıkken<br>sıcaklık sabit tutulamaz.",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Kap açıkken<br>sıcaklık sabit tutulamaz.",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670678944267,
+        "oldValue": "Oops!<br><br>Kap açıkken<br>sıcaklık sabit tutulamaz.",
+        "newValue": "Dikkat!<br><br>Kap açıkken<br>sıcaklık sabit tutulamaz."
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "İdeal",
+    "history": [
+      {
+        "userId": 613972,
+        "timestamp": 1579850407377,
+        "oldValue": "",
+        "newValue": "İdeal",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Ortalama Hız",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Ortalama Hız",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 838368,
+        "timestamp": 1670680183598,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Püskürtme Sıcaklığı",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Püskürtme Sıcaklığı",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Kap ile Eşleştir",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Kap ile aynı",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670680183598,
+        "oldValue": "Kap ile aynı",
+        "newValue": "Kap ile Eşleştir"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Şuna ayarla: ",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Ayarla: ",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670680183598,
+        "oldValue": "Ayarla: ",
+        "newValue": "Şuna ayarla: "
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Kinetik Enerji",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Kinetik Enerji",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Sürat",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Hız",
+        "explanation": null
+      },
+      {
+        "userId": 838368,
+        "timestamp": 1670680183598,
+        "oldValue": "Hız",
+        "newValue": "Sürat"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Enerji",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Enerji",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Gazların Özellikleri",
+    "history": [
+      {
+        "userId": 354576,
+        "timestamp": 1579973618367,
+        "oldValue": "",
+        "newValue": "Gazların Özellikleri",
+        "explanation": null
+      }
+    ]
+  }
+}

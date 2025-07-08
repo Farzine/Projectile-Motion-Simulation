@@ -1,0 +1,134 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658863646840,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Nukuu ya Desimali",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1661513775574,
+        "oldValue": "",
+        "newValue": "Nukuu ya Desimali"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Nguvu juu ya {{thisObject}} kwa {{otherObject}}",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658863646840,
+        "oldValue": "",
+        "newValue": "Nguvu juu ya {{thisObject}} kwa {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Nguvu juu ya  {{thisObject}} kwa {{otherObject}} ={{value}} N",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658863646840,
+        "oldValue": "",
+        "newValue": "Nguvu juu ya  {{thisObject}} kwa {{otherObject}} ={{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Thamani ya Nguvu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658863646840,
+        "oldValue": "",
+        "newValue": "Thamani ya Nguvu"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Imefichwa",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1661513775574,
+        "oldValue": "",
+        "newValue": "Imefichwa"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "mita",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1661513775574,
+        "oldValue": "",
+        "newValue": "mita"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "mita",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1661513775574,
+        "oldValue": "",
+        "newValue": "mita"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newtons",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1661513775574,
+        "oldValue": "",
+        "newValue": "newtons"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Nukuu ya kisayansi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1661513775574,
+        "oldValue": "",
+        "newValue": "Nukuu ya kisayansi"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658863646840,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658863646840,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  }
+}

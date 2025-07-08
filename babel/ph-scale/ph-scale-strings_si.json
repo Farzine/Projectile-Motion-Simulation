@@ -1,0 +1,461 @@
+{
+  "acidic": {
+    "value": "අාම්ලික",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "අම්ල",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465794278173,
+        "oldValue": "අම්ල",
+        "newValue": "අාම්ලික",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "භාස්මික",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "භෂ්ම",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465794278173,
+        "oldValue": "භෂ්ම",
+        "newValue": "භාෂ්මික",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1466223706958,
+        "oldValue": "භාෂ්මික",
+        "newValue": "භාස්මික",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "බැටරි අම්ලය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "බැටරි අම්ල",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465794278173,
+        "oldValue": "බැටරි අම්ල",
+        "newValue": "බැටරි අම්ලය",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "රුධිරය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "රුධිරය",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "කුකුළු සුප්",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "කුකුළු සුප්",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "කෝපි",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "කෝපි",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "අභිරුචි",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "අභිරුචි",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "කාණු ශෝධක",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "කාණු ශෝධක",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "අත් සබන්",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "අත් සබන්",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "කිරි",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "කිරි",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "දොඩම් යුෂ",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "දොඩම් යුෂ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "සෝඩා",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "සෝඩා",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "ඛේඨය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "ඛේඨය",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "වමනය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "වමනය",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "ජලය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "ජලය",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "සාන්ද්‍රණය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "සාන්ද්‍රණය",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "රේඛීය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "රේඛීය",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "ලඝුගණක",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "ලඝුගණක",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "අණු සංඛ්‍යාව",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "මෞල ගණනය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465796154804,
+        "oldValue": "මෞල ගණනය",
+        "newValue": "අණු සංඛ්‍යාව",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "උදාසීන",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "උදාසීන",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "පරිමාණයෙන් බැහැර",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "අවපරිමාණය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465796154804,
+        "oldValue": "අවපරිමාණය",
+        "newValue": "පරිමාණයෙන් බැහැර",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH පරිමාණය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "pH පරිමාණය",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "ප්‍රමාණය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "ප්‍රමාණය",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "අනුපාතය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "අනුපාතය",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "මහා",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "මහා",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "ක්ෂුද්‍ර",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "ක්ෂුද්‍ර",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "මාගේ ද්‍රාවණය",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "මාගේ ද්‍රාවණය",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "ලීටර",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1462620318479,
+        "oldValue": "",
+        "newValue": "L ",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464064061363,
+        "oldValue": "L ",
+        "newValue": "ලීටර",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "මෞල",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465796154804,
+        "oldValue": "මෞල",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 308527,
+        "timestamp": 1464064366436,
+        "oldValue": "",
+        "newValue": "මෞල/කීටර",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465796154804,
+        "oldValue": "මෞල/කීටර",
+        "newValue": "mol/L",
+        "explanation": null
+      }
+    ]
+  }
+}

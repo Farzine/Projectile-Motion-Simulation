@@ -1,0 +1,650 @@
+{
+  "screen.chips": {
+    "value": "Isere",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Chips"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638273476324,
+        "oldValue": "Chips",
+        "newValue": "Isere"
+      }
+    ]
+  },
+  "operationDescriptions": {
+    "value": "Awọn apejuwe ìmú ṣiṣẹ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Awọn apejuwe Isẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Awọn apejuwe Isẹ",
+        "newValue": "Awọn apejuwe Operations"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637260319361,
+        "oldValue": "Awọn apejuwe Operations",
+        "newValue": "Awọn apejuwe ìmú ṣiṣẹ́"
+      }
+    ]
+  },
+  "operationLabels": {
+    "value": "Awon ami ìmú ṣiṣẹ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Awon ami Isẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Awon ami Isẹ",
+        "newValue": "Awon ami Operations"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637260319361,
+        "oldValue": "Awon ami Operations",
+        "newValue": "Awon ami ìmú ṣiṣẹ́"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Amì aṣèdámọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "àmì aṣèdámọ̀"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "àmì aṣèdámọ̀",
+        "newValue": "Amì aṣèdámọ̀"
+      }
+    ]
+  },
+  "positives": {
+    "value": "Dájú",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "àwon  adájú"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "àwon  adájú",
+        "newValue": "àwon positives"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "àwon positives",
+        "newValue": "Dájú"
+      }
+    ]
+  },
+  "negatives": {
+    "value": "Odi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "àwon alòdì "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "àwon alòdì ",
+        "newValue": "àwon Negatives"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "àwon Negatives",
+        "newValue": "Odi"
+      }
+    ]
+  },
+  "netWorthWithCurrencyPattern": {
+    "value": "{{netWorthString}} ({{currencyUnits}})",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{netWorthString}} ({{currencyUnits}})"
+      }
+    ]
+  },
+  "netWorth": {
+    "value": "Apapọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Net Worth"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Net Worth",
+        "newValue": "Apapọ̀"
+      }
+    ]
+  },
+  "currencyUnits": {
+    "value": "$",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "$"
+      }
+    ]
+  },
+  "operationOffScale": {
+    "value": "ìmú ṣiṣẹ́ òṣùwọ̀n",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "operation off scale"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "operation off scale",
+        "newValue": "ìmú ṣiṣẹ́ òṣùwọ̀n"
+      }
+    ]
+  },
+  "add": {
+    "value": "Ròmọ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Ròmọ́"
+      }
+    ]
+  },
+  "remove": {
+    "value": "ṣèmúkúro",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "ṣèmúkúro"
+      }
+    ]
+  },
+  "addRemoveZeroCurrencyPattern": {
+    "value": "{{addOrRemove}} {{currencyUnits}}0",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{currencyUnits}}0"
+      }
+    ]
+  },
+  "addRemoveAssetDebtPattern": {
+    "value": "{{addOrRemove}} {{assetOrDebt}} of {{currencyUnits}}{{value}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{assetOrDebt}} of {{currencyUnits}}{{value}}"
+      }
+    ]
+  },
+  "asset": {
+    "value": "Dúkìá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "dúkìá"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "dúkìá",
+        "newValue": "Dúkìá"
+      }
+    ]
+  },
+  "debt": {
+    "value": "Gbèsè",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "gbèsè"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "gbèsè",
+        "newValue": "Gbèsè"
+      }
+    ]
+  },
+  "addRemoveZeroPattern": {
+    "value": "{{addOrRemove}} 0",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} 0"
+      }
+    ]
+  },
+  "addRemovePositiveNegativePattern": {
+    "value": "{{addOrRemove}} {{positiveOrNegative}} {{value}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{positiveOrNegative}} {{value}}"
+      }
+    ]
+  },
+  "positive": {
+    "value": "Dájú",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "àwon  adájú"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "àwon  adájú",
+        "newValue": "àwon Positive"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "àwon Positive",
+        "newValue": "Dájú"
+      }
+    ]
+  },
+  "negative": {
+    "value": "Odi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "àwon alòdì "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "àwon alòdì ",
+        "newValue": "àwon Negative"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "àwon Negative",
+        "newValue": "Odi"
+      }
+    ]
+  },
+  "total": {
+    "value": "Lapapo",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Lapapo"
+      }
+    ]
+  },
+  "totalCurrencyPattern": {
+    "value": "{{totalString}} = {{sign}}{{currencyUnits}}{{totalValue}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{totalString}} = {{sign}}{{currencyUnits}}{{totalValue}}"
+      }
+    ]
+  },
+  "totalValuePattern": {
+    "value": "{{totalString}} = {{totalValue}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{totalString}} = {{totalValue}}"
+      }
+    ]
+  },
+  "currencyValuePattern": {
+    "value": "{{sign}}{{currencyUnits}}{{value}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "{{sign}}{{currencyUnits}}{{value}}"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Gbogbogbo",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Gbogbogbo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Gbogbogbo",
+        "newValue": "Generic"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Generic",
+        "newValue": "Gbogbogbo"
+      }
+    ]
+  },
+  "pointLabels": {
+    "value": "Fojú ámi han",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Ami oju ami"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Ami oju ami",
+        "newValue": "Awon point Labels"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Awon point Labels",
+        "newValue": "Fojú Ami han"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638273476324,
+        "oldValue": "Fojú Ami han",
+        "newValue": "Fojú ámi han"
+      }
+    ]
+  },
+  "numericalExpression": {
+    "value": "ìsọ̀rọ̀sí oníye",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Ikosile nomba"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Ikosile nomba",
+        "newValue": "Numerical Expression"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Numerical Expression",
+        "newValue": "ìsọ̀rọ̀sí oníye"
+      }
+    ]
+  },
+  "screen.netWorth": {
+    "value": "Apapọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Net Worth"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Net Worth",
+        "newValue": "Apapọ̀"
+      }
+    ]
+  },
+  "loan": {
+    "value": "Gbèsè",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Gbèsè"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Gbèsè",
+        "newValue": "Loan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Loan",
+        "newValue": "Gbèsè"
+      }
+    ]
+  },
+  "assets": {
+    "value": "Awon dúkìá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Awon dúkìá"
+      }
+    ]
+  },
+  "debts": {
+    "value": "Gbèsè",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "gbèsè"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "gbèsè",
+        "newValue": "Gbèsè"
+      }
+    ]
+  },
+  "number-line-operations.title": {
+    "value": "Nọmba Laini: Imú ṣiṣẹ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": " NọmbaLaini: Awọn iṣẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": " NọmbaLaini: Awọn iṣẹ",
+        "newValue": " NọmbaLaini: Awọn operations"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632260644091,
+        "oldValue": " NọmbaLaini: Awọn operations",
+        "newValue": " Nọmba Laini: Awọn operations"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637260319361,
+        "oldValue": " Nọmba Laini: Awọn operations",
+        "newValue": " Nọmba Laini: Awọn ìmú ṣiṣẹ́"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": " Nọmba Laini: Awọn ìmú ṣiṣẹ́",
+        "newValue": " Nọmba Laini: Imú ṣiṣẹ́"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638273476324,
+        "oldValue": " Nọmba Laini: Imú ṣiṣẹ́",
+        "newValue": "Nọmba Laini: Imú ṣiṣẹ́"
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "Imú ṣiṣẹ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Awọn iṣẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Awọn iṣẹ",
+        "newValue": "Awọn Operations"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637260319361,
+        "oldValue": "Awọn Operations",
+        "newValue": "Awọn ìmú ṣiṣẹ́"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Awọn ìmú ṣiṣẹ́",
+        "newValue": "Imú ṣiṣẹ́"
+      }
+    ]
+  },
+  "initialNetWorth": {
+    "value": "Apapọ̀ Ibẹrẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": " Net Worth Ibẹrẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": " Net Worth Ibẹrẹ",
+        "newValue": "Initial Net Worth "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Initial Net Worth ",
+        "newValue": "Apapọ̀ Ibẹrẹ"
+      }
+    ]
+  },
+  "initialNetWorthWithBreak": {
+    "value": "Ibẹrẹ<br>Apapọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Ibẹrẹ<br>Net Worth"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Ibẹrẹ<br>Net Worth",
+        "newValue": "Ibẹrẹ<br>Apapọ̀"
+      }
+    ]
+  },
+  "simplify": {
+    "value": "Mu rọ̀run",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629845652771,
+        "oldValue": "",
+        "newValue": "Ṣe irọrun"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632259976956,
+        "oldValue": "Ṣe irọrun",
+        "newValue": "Simplify"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637331743464,
+        "oldValue": "Simplify",
+        "newValue": "Mu rọ̀run"
+      }
+    ]
+  }
+}

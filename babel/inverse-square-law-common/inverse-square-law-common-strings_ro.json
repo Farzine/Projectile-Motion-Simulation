@@ -1,0 +1,211 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Notație zecimală",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "Notație zecimală",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Forța asupra {{thisObject}} cu care acționează  {{otherObject}}",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Forța {{thisObject}} asupra {{otherObject}}",
+        "explanation": null
+      },
+      {
+        "userId": 726466,
+        "timestamp": 1607363850425,
+        "oldValue": "Forța {{thisObject}} asupra {{otherObject}}",
+        "newValue": "Forța {{thisObject}} asupra  {{otherObject}}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608151706391,
+        "oldValue": "Forța {{thisObject}} asupra  {{otherObject}}",
+        "newValue": "{{thisObject}} este atras de {{otherObject}}",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "{{thisObject}} este atras de {{otherObject}}",
+        "newValue": "Forța {{thisObject}} asupra  {{otherObject}}"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1641836921230,
+        "oldValue": "Forța {{thisObject}} asupra  {{otherObject}}",
+        "newValue": "Forța asupra {{thisObject}} cu care acționează  {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Forța asupra {{thisObject}} cu care acționează {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Forța {{thisObject}} asupra{{otherObject}} = {{value}} N",
+        "explanation": null
+      },
+      {
+        "userId": 726466,
+        "timestamp": 1607363850425,
+        "oldValue": "Forța {{thisObject}} asupra{{otherObject}} = {{value}} N",
+        "newValue": "Forța {{thisObject}} asupra {{otherObject}} = {{value}} N",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608151706391,
+        "oldValue": "Forța {{thisObject}} asupra {{otherObject}} = {{value}} N",
+        "newValue": "{{thisObject}} este atras de {{otherObject}} cu forța = {{value}} N",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "{{thisObject}} este atras de {{otherObject}} cu forța = {{value}} N",
+        "newValue": "Forța {{thisObject}} asupra {{otherObject}} = {{value}} N"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1641836921230,
+        "oldValue": "Forța {{thisObject}} asupra {{otherObject}} = {{value}} N",
+        "newValue": "Forța asupra {{thisObject}} cu care acționează {{otherObject}} = {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Valoarea Forței",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "Valoarea Forței",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608151706391,
+        "oldValue": "Valoarea Forței",
+        "newValue": "Valori forțe",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1638119672017,
+        "oldValue": "Valori forțe",
+        "newValue": "Valoarea Forței"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Ascunde",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "Ascunde",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "metru",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "metru",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metri",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "metri",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newtoni",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "newtoni",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Notație științifică",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1608151734183,
+        "oldValue": "",
+        "newValue": "Notație științifică",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 726466,
+        "timestamp": 1607363430356,
+        "oldValue": "",
+        "newValue": "pm",
+        "explanation": null
+      }
+    ]
+  }
+}

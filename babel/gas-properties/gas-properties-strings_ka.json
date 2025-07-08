@@ -1,0 +1,607 @@
+{
+  "atmospheres": {
+    "value": "ატმ",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "ატმ"
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "დაჯახებათა მთვლელი",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "დაჯახებათა მთვლელი"
+      }
+    ]
+  },
+  "collisions": {
+    "value": "დაჯახებები",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "დაჯახებები"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "მძიმე",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "მძიმე"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "მუდმივია",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "მუდმივია"
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "იდეალური",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "იდეალური"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1665222716150,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "კპა",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "კპა"
+      }
+    ]
+  },
+  "light": {
+    "value": "მსუბუქი",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "მსუბუქი"
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "ნმ",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "ნმ"
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "არაფერი",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "არაფერი"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Oops!<br><br>მიღწეულია მაქსიმალური ტემპერატურა.",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>მიღწეულია მაქსიმალური ტემპერატურა."
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Oops!<br><br>წნევა ვერ იქნება მუდმივი<br>როცა კონტეინერი ცარიელია.",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>წნევა ვერ იქნება მუდმივი<br>როცა კონტეინერი ცარიელია."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Oops!<br><br>წნევა ვერ იქნება მუდმივი.<br>მოცულობა ძალიან დიდია.",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>წნევა ვერ იქნება მუდმივი.<br>მოცულობა ძალიან დიდია."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Oops!<br><br>წნევა ვერ იქნება მუდმივი.<br>მოცულობა ძალიან პატარაა.",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>წნევა ვერ იქნება მუდმივი.<br>მოცულობა ძალიან პატარაა."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Oops!<br><br>ტემპერატურა ვერ იქნება მუდმივი<br>როცა კონტეინერი ცარიელია.",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>ტემპერატურა ვერ იქნება მუდმივი<br>როცა კონტეინერი ცარიელია."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Oops!<br><br>ტემპერატურა ვერ იქნება მუდმივი<br>როცა კონტეინერი ღიაა.",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>ტემპერატურა ვერ იქნება მუდმივი<br>როცა კონტეინერი ღიაა."
+      }
+    ]
+  },
+  "particles": {
+    "value": "ნაწილაკები",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "ნაწილაკები"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "წნევა",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "წნევა"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "წნევის ხმაური",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "წნევის ხმაური"
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "წნევა ↕T",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "წნევა ↕T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "წნევა ↕V",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "წნევა ↕V"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "პკწმ",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "პკწმ"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "თავსახურის დაბრუნება",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "თავსახურის დაბრუნება"
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "ნიმუშის პერიოდი",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "ნიმუშის პერიოდი"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "წამზომი",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "წამზომი"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "ტემპერატურა (T)",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "ტემპერატურა (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "მოცულობა (V)",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "მოცულობა (V)"
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "დაჯახება კედელთან",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "დაჯახება კედელთან"
+      }
+    ]
+  },
+  "width": {
+    "value": "სიგანე",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "სიგანე"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1665222716150,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1665222716150,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>საშ</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "T<sub>საშ</sub> = {{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>საშ</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "T<sub>საშ</sub> = {{value}} K"
+      }
+    ]
+  },
+  "data": {
+    "value": "ინფორმაცია",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "ინფორმაცია"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "მასათა ცენტრი",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "მასათა ცენტრი"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "საწყისი ტემპერატურა (K)",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "საწყისი ტემპერატურა (K)"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "მასა (მაე)",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "მასა (მაე)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "ნაწილაკების რაოდენობა",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "ნაწილაკების რაოდენობა"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "რადიუსი (პკმ)",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "რადიუსი (პკმ)"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "გამყოფი კედლის წაშლა",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "გამყოფი კედლის წაშლა"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "გამყოფი კედლის აღდგენა",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "გამყოფი კედლის აღდგენა"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "ნაწილაკების დინების სისწრაფე",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "ნაწილაკების დინების სისწრაფე"
+      }
+    ]
+  },
+  "scale": {
+    "value": "მასშტაბი",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "მასშტაბი"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "დიფუზია",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664023067910,
+        "oldValue": "",
+        "newValue": "დიფუზია"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "გამოკვლევა",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "გამოკვლევა"
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "საშუალო სიჩქარე",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "საშუალო სიჩქარე"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "მ/წმ",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "მ/წმ"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "ნაწილაკების შეყვანის ტემპერატურა",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "ნაწილაკების შეყვანის ტემპერატურა"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "ემთხვევა კონტეინერს",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "ემთხვევა კონტეინერს"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "ტოლია",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "ტოლია"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "კინეტიკური ენერგია",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "კინეტიკური ენერგია"
+      }
+    ]
+  },
+  "speed": {
+    "value": "სიჩქარე",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "სიჩქარე"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "ენერგია",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "ენერგია"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "აირის თვისებები",
+    "history": [
+      {
+        "userId": 610972,
+        "timestamp": 1664303740650,
+        "oldValue": "",
+        "newValue": "აირის თვისებები"
+      }
+    ]
+  }
+}

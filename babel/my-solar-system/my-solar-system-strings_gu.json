@@ -1,0 +1,310 @@
+{
+  "screen.intro": {
+    "value": "પરિચય",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "પરિચય"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "લેબ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "લેબ"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "સેન્ટર ઓફ માસને અનુસરો",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "સેન્ટર ઓફ માસને અનુસરો"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "પદાર્થો",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "પદાર્થો"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "એકમો પર નોંધ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "એકમો પર નોંધ"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "વધુ માહિતી",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "વધુ માહિતી"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "સુર્ય અને ગ્રહ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "સુર્ય અને ગ્રહ"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "સુર્ય, ગ્રહ અને ચંદ્ર",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "સુર્ય, ગ્રહ અને ચંદ્ર"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "સુર્ય, ગ્રહ અને ધૂમકેતુ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "સુર્ય, ગ્રહ અને ધૂમકેતુ"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "ટ્રોજન એસ્ટરોઇડ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "ટ્રોજન એસ્ટરોઇડ"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "અંડાકાર",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "અંડાકાર"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "હાયપરબોલિક",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585343,
+        "oldValue": "",
+        "newValue": "હાયપરબોલિક"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "સ્લિંગશૉટ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "સ્લિંગશૉટ"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "ડબલ સ્લિંગશૉટ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "ડબલ સ્લિંગશૉટ"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "બાઈનરી તારો, ગ્રહ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "બાઈનરી તારો, ગ્રહ"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "ફોર સ્ટાર બેલેટ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "ફોર સ્ટાર બેલેટ"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "ડબલ ડબલ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "ડબલ ડબલ"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "કસ્ટમ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "કસ્ટમ"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "દળ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "દળ"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> કિગ્રા",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> કિગ્રા"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "સેન્ટર ઓફ માસ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "સેન્ટર ઓફ માસ"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} to {{max}}",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "{{min}} to {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "મારું સૂર્યમંડળ",
+    "history": [
+      {
+        "userId": 1085622,
+        "timestamp": 1670387585344,
+        "oldValue": "",
+        "newValue": "મારું સૂર્યમંડળ"
+      }
+    ]
+  }
+}

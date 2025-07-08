@@ -1,0 +1,354 @@
+{
+  "newLevel": {
+    "value": "سویه جدید",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1720504433471,
+        "oldValue": "",
+        "newValue": "سویه جدید"
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "ادامه بدهید",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1720504433471,
+        "oldValue": "",
+        "newValue": "ادامه بدهید"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "امتیاز: {{score}}",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "امتیاز: {{score}}"
+      }
+    ]
+  },
+  "score": {
+    "value": "امتیاز:",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "امتیاز:"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "سویه: {0}",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "سویه: {0}"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "چالش {0} از  {1}",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "چالش {0} از {1}"
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "چالش {0} از {1}",
+        "newValue": "چالش {0} از  {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "دوباره شروع کنید",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "دوباره شروع کنید"
+      }
+    ]
+  },
+  "continue": {
+    "value": "ادامه دادن",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "ادامه دادن"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "عالی!",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "عالی!"
+      }
+    ]
+  },
+  "good": {
+    "value": "خوب!",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "خوب!"
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "خوب!",
+        "newValue": "خوب است!",
+        "explanation": null
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509973799,
+        "oldValue": "خوب است!",
+        "newValue": "خوب!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "بسیار خوب!",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "بسیار خوب!"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "دوباره سعی کنید",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "دوباره امتحان کنید"
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "دوباره امتحان کنید",
+        "newValue": "به سعی ادامه دهید",
+        "explanation": null
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509973799,
+        "oldValue": "به سعی ادامه دهید",
+        "newValue": "دوباره سعی کنید",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "امتیاز: {0} از {1}",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "امتیاز: {0} از  {1}"
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509973799,
+        "oldValue": "امتیاز: {0} از  {1}",
+        "newValue": "امتیاز: {0} از {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "زمان: {0}",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "زمان: {0}"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(بهترین عمل کرد شما: {0})",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "(بهترین عمل کرد شما: {0}"
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "(بهترین عمل کرد شما: {0}",
+        "newValue": "(بهترین عملکرد شما: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509973799,
+        "oldValue": "(بهترین عملکرد شما: {0})",
+        "newValue": "(بهترین عمل کرد شما: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(بهترین عمل کرد جدید شما!)",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720508287049,
+        "oldValue": "",
+        "newValue": "(بهترین عمل کرد جدید شما!)"
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "(بهترین عمل کرد جدید شما!)",
+        "newValue": "(بهترین عملکرد جدید شما!)",
+        "explanation": null
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509973799,
+        "oldValue": "(بهترین عملکرد جدید شما!)",
+        "newValue": "(بهترین عمل کرد جدید شما!)",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "بررسی",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "",
+        "newValue": "بررسی کردن"
+      },
+      {
+        "userId": 11191855,
+        "timestamp": 1720509973799,
+        "oldValue": "بررسی کردن",
+        "newValue": "بررسی",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "بعدی",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "",
+        "newValue": "بعدی"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "جواب را نشان بده",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "",
+        "newValue": "جواب را نشان بده"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "دوباره امتحان کنید",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720509095727,
+        "oldValue": "",
+        "newValue": "دوباره امتحان کنید"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "امتیاز: {0}",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720509973799,
+        "oldValue": "",
+        "newValue": "امتیاز: {0}"
+      }
+    ]
+  },
+  "done": {
+    "value": "انجام داده شد",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1720694470569,
+        "oldValue": "",
+        "newValue": "انجام داده شد"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "شما تمام مراحل را تکمیل نمودید!",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1720694470569,
+        "oldValue": "",
+        "newValue": "شما تمام مراحل را تکمیل نمودید!"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "مرحله خود را انتخاب کنید!",
+    "history": [
+      {
+        "userId": 11192317,
+        "timestamp": 1720694470569,
+        "oldValue": "",
+        "newValue": "مرحله خود را انتخاب کنید!"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "انتخاب سویه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722698293023,
+        "oldValue": "",
+        "newValue": "انتخاب سویه"
+      }
+    ]
+  }
+}

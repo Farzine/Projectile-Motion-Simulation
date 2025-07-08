@@ -1,0 +1,848 @@
+{
+  "screen.firstLaw": {
+    "value": "১ম সূত্র",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "১ম সূত্র"
+      }
+    ]
+  },
+  "screen.secondLaw": {
+    "value": "২য় সূত্র",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "২য় সূত্র"
+      }
+    ]
+  },
+  "screen.thirdLaw": {
+    "value": "৩য় সূত্র",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "৩য় সূত্র"
+      }
+    ]
+  },
+  "screen.allLaws": {
+    "value": "সকল  সূত্র সমূহ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "সকল  সূত্র সমূহ"
+      }
+    ]
+  },
+  "preferences.moreOrbitalData.title": {
+    "value": "আরো অর্বিটাল  উপাত্ত",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "আরো অর্বিটাল  উপাত্ত"
+      }
+    ]
+  },
+  "preferences.moreOrbitalData.description": {
+    "value": "Display information about the planet's position and velocity vectors in the First and Second Law Screens.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Display information about the planet's position and velocity vectors in the First and Second Law Screens."
+      }
+    ]
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "বছর",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "বছর"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseATargetOribit": {
+    "value": "একটি টার্গেট Orbit  কে পছন্দ করো",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "একটি টার্গেট Orbit  কে পছন্দ করো"
+      }
+    ]
+  },
+  "keyboardHelpDialog.targetOrbit": {
+    "value": "target orbit (টার্গেট কক্ষপথ )",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "target orbit"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "target orbit",
+        "newValue": "target orbit (টার্গেট কক্ষপথ )",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.targetOrbits": {
+    "value": "target orbits",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "target orbits"
+      }
+    ]
+  },
+  "alwaysCircular": {
+    "value": "সর্বদা গোলাকার",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "সর্বদা গোলাকার"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "থামা  ঘড়ি",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "থামা  ঘড়ি"
+      }
+    ]
+  },
+  "symbol.a": {
+    "value": "a",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "a"
+      }
+    ]
+  },
+  "symbol.b": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "b"
+      }
+    ]
+  },
+  "symbol.c": {
+    "value": "c",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "c"
+      }
+    ]
+  },
+  "symbol.R": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "pattern.warningMessage": {
+    "value": "Warning: {{message}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Warning: {{message}}"
+      }
+    ]
+  },
+  "warning.theBodyWillCrashIntoTheSun": {
+    "value": "The body will crash into the sun.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "The body will crash into the sun."
+      }
+    ]
+  },
+  "warning.theBodyWillEscapeTheSystem": {
+    "value": "The body will escape the system.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "The body will escape the system."
+      }
+    ]
+  },
+  "period": {
+    "value": "পর্যায়কাল",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "পর্যায়কাল"
+      }
+    ]
+  },
+  "none": {
+    "value": "None",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "None"
+      }
+    ]
+  },
+  "orbit.mercury": {
+    "value": "বুধ গ্রহ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Mercury"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Mercury",
+        "newValue": "বুধ গ্রহ",
+        "explanation": null
+      }
+    ]
+  },
+  "orbit.venus": {
+    "value": "শুক্র গ্রহ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Venus"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Venus",
+        "newValue": "শুক্র গ্রহ",
+        "explanation": null
+      }
+    ]
+  },
+  "orbit.earth": {
+    "value": "পৃথিবী",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Earth"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Earth",
+        "newValue": "পৃথিবী",
+        "explanation": null
+      }
+    ]
+  },
+  "orbit.mars": {
+    "value": "মঙ্গল গ্রহ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Mars"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Mars",
+        "newValue": "মঙ্গল গ্রহ",
+        "explanation": null
+      }
+    ]
+  },
+  "orbit.jupiter": {
+    "value": "বৃহস্পতি গ্রহ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Jupiter"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Jupiter",
+        "newValue": "বৃহস্পতি গ্রহ",
+        "explanation": null
+      }
+    ]
+  },
+  "orbit.eris": {
+    "value": "Eris",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Eris"
+      }
+    ]
+  },
+  "orbit.nereid": {
+    "value": "Nereid",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Nereid"
+      }
+    ]
+  },
+  "orbit.halley": {
+    "value": "Halley(হেলি)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Halley"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Halley",
+        "newValue": "Halley(হেলি)",
+        "explanation": null
+      }
+    ]
+  },
+  "foci": {
+    "value": "Foci (উপকেন্দ্র)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Foci"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Foci",
+        "newValue": "Foci (উপকেন্দ্র)",
+        "explanation": null
+      }
+    ]
+  },
+  "string": {
+    "value": "String",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "String"
+      }
+    ]
+  },
+  "axes": {
+    "value": "অক্ষসমূহ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "অক্ষসমূহ"
+      }
+    ]
+  },
+  "semiaxes": {
+    "value": "Semiaxes (অর্ধাক্ষ সমূহ )",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Semiaxes"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Semiaxes",
+        "newValue": "Semiaxes (অর্ধাক্ষ সমূহ )",
+        "explanation": null
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "Eccentricity ( উৎকেন্দ্রতা)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Eccentricity"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Eccentricity",
+        "newValue": "Eccentricity ( উৎকেন্দ্রতা)",
+        "explanation": null
+      }
+    ]
+  },
+  "apoapsis": {
+    "value": "Apoapsis (অনুসুর)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Apoapsis"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Apoapsis",
+        "newValue": "Apoapsis (অনুসুর)",
+        "explanation": null
+      }
+    ]
+  },
+  "periapsis": {
+    "value": "Periapsis (অপসুর)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Periapsis"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Periapsis",
+        "newValue": "Periapsis (অপসুর)",
+        "explanation": null
+      }
+    ]
+  },
+  "graph.a": {
+    "value": "Semi-major Axis (a) অর্ধপরাক্ষ  (a)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Semi-major Axis (a)"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Semi-major Axis (a)",
+        "newValue": "Semi-major Axis (a) অর্ধপরাক্ষ  (a)",
+        "explanation": null
+      }
+    ]
+  },
+  "graph.t": {
+    "value": "পর্যায়কাল",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "পর্যায়কাল"
+      }
+    ]
+  },
+  "targetOrbit": {
+    "value": "Target Orbit:",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Target Orbit:"
+      }
+    ]
+  },
+  "sweptArea": {
+    "value": "Swept Area",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Swept Area"
+      }
+    ]
+  },
+  "periodDivision": {
+    "value": "Period Divisions",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Period Divisions"
+      }
+    ]
+  },
+  "areaUnits": {
+    "value": "ক্ষেত্রফল (AU<sup>2</sup>)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "ক্ষেত্রফল (AU<sup>2</sup>)"
+      }
+    ]
+  },
+  "areaValues": {
+    "value": "Area Values",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Area Values"
+      }
+    ]
+  },
+  "timeValues": {
+    "value": "Time Values",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Time Values"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "symbol.d": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "symbol.T": {
+    "value": "T",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "T"
+      }
+    ]
+  },
+  "symbol.r": {
+    "value": "r",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "r"
+      }
+    ]
+  },
+  "symbol.v": {
+    "value": "v",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "v"
+      }
+    ]
+  },
+  "starMass": {
+    "value": "Star Mass",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Star Mass"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "আমাদের সূর্য",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Our Sun"
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "Our Sun",
+        "newValue": "আমাদের সূর্য",
+        "explanation": null
+      }
+    ]
+  },
+  "graph.title": {
+    "value": "{{period}} vs {{axis}} Graph",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "{{period}} vs {{axis}} Graph"
+      }
+    ]
+  },
+  "undefined": {
+    "value": "undefined",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "undefined"
+      }
+    ]
+  },
+  "infoDialog.moreOrbitalData": {
+    "value": "More Orbital Data",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "More Orbital Data"
+      }
+    ]
+  },
+  "infoDialog.planetsPositionVector": {
+    "value": "<b>Planet's position vector (|r| and θ<sub>r</sub>):</b> the vector magnitude |r| is equal to the distance between the star and the planet. The vector direction (θ<sub>r</sub>) is measured with respect to the horizontal.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "<b>Planet's position vector (|r| and θ<sub>r</sub>):</b> the vector magnitude |r| is equal to the distance between the star and the planet. The vector direction (θ<sub>r</sub>) is measured with respect to the horizontal."
+      }
+    ]
+  },
+  "infoDialog.planetsVelocityVector": {
+    "value": "<b>Planet's velocity vector (|v| and θ<sub>v</sub>):</b> the vector magnitude |v| is equal to the speed of the planet. The vector direction (θ<sub>v</sub>) is measured with respect to the horizontal.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "<b>Planet's velocity vector (|v| and θ<sub>v</sub>):</b> the vector magnitude |v| is equal to the speed of the planet. The vector direction (θ<sub>v</sub>) is measured with respect to the horizontal."
+      }
+    ]
+  },
+  "infoDialog.angleBetweenVectors": {
+    "value": "<b>Angle between vectors r and v (θ<sub>rv</sub>).",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "<b>Angle between vectors r and v (θ<sub>rv</sub>)."
+      }
+    ]
+  },
+  "infoDialog.orbitalData": {
+    "value": "Orbital Data",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "Orbital Data"
+      }
+    ]
+  },
+  "infoDialog.semiMajorAxis": {
+    "value": "<b>Semi-major axis (a):</b> represents half of the longest diameter of the elliptical orbit.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "<b>Semi-major axis (a):</b> represents half of the longest diameter of the elliptical orbit."
+      }
+    ]
+  },
+  "infoDialog.semiMinorAxis": {
+    "value": "<b>Semi-minor axis (b):</b> represents half of the shortest diameter of the elliptical orbit.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "<b>Semi-minor axis (b):</b> represents half of the shortest diameter of the elliptical orbit."
+      }
+    ]
+  },
+  "infoDialog.focalDistance": {
+    "value": "<b>Focal Distance (c):</b> represents the distance between the center of the ellipse and one of the foci.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "<b>Focal Distance (c):</b> represents the distance between the center of the ellipse and one of the foci."
+      }
+    ]
+  },
+  "keplers-laws.title": {
+    "value": "কেপলারের সূত্রসমূহ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1706114856397,
+        "oldValue": "",
+        "newValue": "কেপলারের সূত্রসমূহ"
+      }
+    ]
+  },
+  "orbit.targetOrbit1": {
+    "value": "Target Orbit 1",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "",
+        "newValue": "Target Orbit 1"
+      }
+    ]
+  },
+  "orbit.targetOrbit2": {
+    "value": "Target Orbit 2",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "",
+        "newValue": "Target Orbit 2"
+      }
+    ]
+  },
+  "orbit.targetOrbit3": {
+    "value": "Target Orbit 3",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "",
+        "newValue": "Target Orbit 3"
+      }
+    ]
+  },
+  "orbit.targetOrbit4": {
+    "value": "Target Orbit 4",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740669933423,
+        "oldValue": "",
+        "newValue": "Target Orbit 4"
+      }
+    ]
+  }
+}

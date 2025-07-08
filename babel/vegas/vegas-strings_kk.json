@@ -1,0 +1,318 @@
+{
+  "next": {
+    "value": "Келесі",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502771554596,
+        "oldValue": "",
+        "newValue": "Келесі",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "Балл саны:",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Балл саны:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Балл саны: {{score}}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "",
+        "newValue": "Балл саны: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Сіз барлық деңгейді өттіңіз!",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550566556053,
+        "oldValue": "",
+        "newValue": "Сіз барлық деңгейді өттіңіз!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550566556053,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1550566556053,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Жалғастыр",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542275011683,
+        "oldValue": "",
+        "newValue": "Жалғастыр",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Жаңа деңгей",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542275011683,
+        "oldValue": "",
+        "newValue": "Жаңа деңгей",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Сіздің рекордыңыз: {0})",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "(Сіздің рекордыңыз: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Сіздің жаңа рекордыңыз!)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "(Сіздің жаңа рекордыңыз!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Тапсырма {0}/{1}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502771554596,
+        "oldValue": "",
+        "newValue": "Тапсырма {0}/{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Тексеру",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502771554596,
+        "oldValue": "",
+        "newValue": "Тексеру ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "Тексеру ",
+        "newValue": "Тексеру",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Жалғастыру",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Жалғастыру",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Керемет!",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Керемет!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Жақсы!",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Жақсы!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Өте жақсы!",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Өте жақсы!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Қайтадан бастау",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Қайтадан бастау",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Деңгей: {0}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502367047249,
+        "oldValue": "",
+        "newValue": "Деңгей: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Балл саны: {0}/{1}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Балл саны:  {0}/{1} ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "Балл саны:  {0}/{1} ",
+        "newValue": "Балл саны: {0}/{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Жауапты көрсету",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502771554597,
+        "oldValue": "",
+        "newValue": "Жауапты көрсету",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Басынан бастау",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502771554597,
+        "oldValue": "",
+        "newValue": "Басынан бастау",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Уақыты: {0}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Уақыты: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Қайта байқап көріңіз",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502771554597,
+        "oldValue": "",
+        "newValue": "Қайта байқап көру",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502854353760,
+        "oldValue": "Қайта байқап көру",
+        "newValue": "Қайта байқап көріңіз ",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542255560564,
+        "oldValue": "Қайта байқап көріңіз ",
+        "newValue": "Қайта байқап көріңіз",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Балл саны: {0}",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1502769129200,
+        "oldValue": "",
+        "newValue": "Балл саны: {0}",
+        "explanation": null
+      }
+    ]
+  }
+}

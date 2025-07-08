@@ -1,0 +1,482 @@
+{
+  "screen.chips": {
+    "value": "Fitxes",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Fitxes"
+      }
+    ]
+  },
+  "operationDescriptions": {
+    "value": "Descripcions de les operacions",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Descripcions de les Operacions"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Descripcions de les Operacions",
+        "newValue": "Descripcions de les operacions"
+      }
+    ]
+  },
+  "operationLabels": {
+    "value": "Etiquetes de les operacions",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Etiquetes de les Operacions"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Etiquetes de les Operacions",
+        "newValue": "Etiquetes de les operacions"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Posar marques",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Posar Marques"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Posar Marques",
+        "newValue": "Posar marques"
+      }
+    ]
+  },
+  "positives": {
+    "value": "Positius",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Positius"
+      }
+    ]
+  },
+  "negatives": {
+    "value": "Negatius",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Negatius"
+      }
+    ]
+  },
+  "netWorthWithCurrencyPattern": {
+    "value": "{{netWorthString}} ({{currencyUnits}})",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{netWorthString}} ({{currencyUnits}})"
+      }
+    ]
+  },
+  "netWorth": {
+    "value": "Valor net",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Valor Net"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Valor Net",
+        "newValue": "Valor net"
+      }
+    ]
+  },
+  "currencyUnits": {
+    "value": "$",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "€"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665517992870,
+        "oldValue": "€",
+        "newValue": "$"
+      }
+    ]
+  },
+  "operationOffScale": {
+    "value": "operació fora d'escala",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "operació fora d'escala"
+      }
+    ]
+  },
+  "add": {
+    "value": "afegir",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "afegir"
+      }
+    ]
+  },
+  "remove": {
+    "value": "treure",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "treure"
+      }
+    ]
+  },
+  "addRemoveZeroCurrencyPattern": {
+    "value": "{{addOrRemove}} {{currencyUnits}}0",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{currencyUnits}}0"
+      }
+    ]
+  },
+  "addRemoveAssetDebtPattern": {
+    "value": "{{addOrRemove}} {{assetOrDebt}} of {{currencyUnits}}{{value}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{assetOrDebt}} de {{value}}{{currencyUnits}}"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665517992870,
+        "oldValue": "{{addOrRemove}} {{assetOrDebt}} de {{value}}{{currencyUnits}}",
+        "newValue": "{{addOrRemove}} {{assetOrDebt}} of {{currencyUnits}}{{value}}"
+      }
+    ]
+  },
+  "asset": {
+    "value": "actiu",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "actiu"
+      }
+    ]
+  },
+  "debt": {
+    "value": "deute",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "deute"
+      }
+    ]
+  },
+  "addRemoveZeroPattern": {
+    "value": "{{addOrRemove}} 0",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} 0"
+      }
+    ]
+  },
+  "addRemovePositiveNegativePattern": {
+    "value": "{{addOrRemove}} {{positiveOrNegative}} {{value}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{value}} {{positiveOrNegative}}"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665517992870,
+        "oldValue": "{{addOrRemove}} {{value}} {{positiveOrNegative}}",
+        "newValue": "{{addOrRemove}} {{positiveOrNegative}} {{value}}"
+      }
+    ]
+  },
+  "positive": {
+    "value": "positiu",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "positiu"
+      }
+    ]
+  },
+  "negative": {
+    "value": "negatiu",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "negatiu"
+      }
+    ]
+  },
+  "total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Total"
+      }
+    ]
+  },
+  "totalCurrencyPattern": {
+    "value": "{{totalString}} = {{sign}}{{currencyUnits}}{{totalValue}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{totalString}} = {{sign}}{{totalValue}}{{currencyUnits}}"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1665517992870,
+        "oldValue": "{{totalString}} = {{sign}}{{totalValue}}{{currencyUnits}}",
+        "newValue": "{{totalString}} = {{sign}}{{currencyUnits}}{{totalValue}}"
+      }
+    ]
+  },
+  "totalValuePattern": {
+    "value": "{{totalString}} = {{totalValue}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{totalString}} = {{totalValue}}"
+      }
+    ]
+  },
+  "currencyValuePattern": {
+    "value": "{{sign}}{{currencyUnits}}{{value}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "{{sign}}{{currencyUnits}}{{value}}"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Genèric",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Genèric"
+      }
+    ]
+  },
+  "pointLabels": {
+    "value": "Etiquetes de punts",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Etiquetes de Punts"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Etiquetes de Punts",
+        "newValue": "Etiquetes de punts"
+      }
+    ]
+  },
+  "numericalExpression": {
+    "value": "Expressió numèrica",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Expressió Numèrica"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Expressió Numèrica",
+        "newValue": "Expressió numèrica"
+      }
+    ]
+  },
+  "screen.netWorth": {
+    "value": "Valor net",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Valor Net"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Valor Net",
+        "newValue": "Valor net"
+      }
+    ]
+  },
+  "loan": {
+    "value": "Préstec",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Préstec"
+      }
+    ]
+  },
+  "assets": {
+    "value": "Actius",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Actius"
+      }
+    ]
+  },
+  "debts": {
+    "value": "Deutes",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Deutes"
+      }
+    ]
+  },
+  "number-line-operations.title": {
+    "value": "Recta numèrica: operacions",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Recta Numèrica: Operacions"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Recta Numèrica: Operacions",
+        "newValue": "Recta numèrica: operacions"
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "Operacions",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Operacions"
+      }
+    ]
+  },
+  "initialNetWorth": {
+    "value": "Valor net Inicial",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Valor Net Inicial"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Valor Net Inicial",
+        "newValue": "Valor net Inicial"
+      }
+    ]
+  },
+  "initialNetWorthWithBreak": {
+    "value": "Valor net<br>Inicial",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Valor Net<br>Inicial"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669659983144,
+        "oldValue": "Valor Net<br>Inicial",
+        "newValue": "Valor net<br>Inicial"
+      }
+    ]
+  },
+  "simplify": {
+    "value": "Simplificar",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665472377903,
+        "oldValue": "",
+        "newValue": "Simplificar"
+      }
+    ]
+  }
+}

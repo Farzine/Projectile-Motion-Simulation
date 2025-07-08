@@ -1,0 +1,442 @@
+{
+  "keyboardHelpDialog.observationWindow": {
+    "value": "Cửa sổ quan sát",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599899075615,
+        "oldValue": "",
+        "newValue": "Cửa sổ quan sát",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.turnLightSourceOnOrOff": {
+    "value": "Mở hay tắt nguồn sáng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599899075615,
+        "oldValue": "",
+        "newValue": "Mở hay tắt nguồn sáng",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pauseOrPlayShortcut": {
+    "value": "Ngừng/hoạt động trong cửa sổ quan sát",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599899075615,
+        "oldValue": "",
+        "newValue": "Ngừng/hoạt động trong cửa sổ quan sát",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.stepForwardShortcut": {
+    "value": "Khi hoạt động ngừng thì tiếp tục với bước lớn hơn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599899075615,
+        "oldValue": "",
+        "newValue": "Khi hoạt động ngừng thì tiếp tục với bước lớn hơn ",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684410912493,
+        "oldValue": "Khi hoạt động ngừng thì tiếp tục với bước lớn hơn ",
+        "newValue": "Khi hoạt động ngừng thì tiếp tục với bước lớn hơn",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules-and-light.title": {
+    "value": "Phân tử và ánh sáng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Phân tử và ánh sáng",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularNamePattern": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.buttonCaption": {
+    "value": "Hiển thị quang phổ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Hiển thị quang phổ",
+        "explanation": null
+      }
+    ]
+  },
+  "ButtonNode.ReturnMolecule": {
+    "value": "Phục hồi phân tử",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Hồi phục phân tử",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1446640069852,
+        "oldValue": "Hồi phục phân tử",
+        "newValue": "Phục hồi phân tử",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.HigherEnergy": {
+    "value": "Năng lượng cao hơn",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Năng lượng cao hơn",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Infrared": {
+    "value": "Hồng ngoại",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Hồng ngoại",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Microwave": {
+    "value": "Vi ba",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Vi ba",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Ultraviolet": {
+    "value": "Tử ngoại",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Tử ngoại",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Visible": {
+    "value": "Ánh sáng Khả kiến",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Ánh sáng Khả kiến",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.cyclesPerSecondUnits": {
+    "value": "Hz",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.frequencyArrowLabel": {
+    "value": "Tần số và năng lượng tăng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Tần số và năng lượng tăng",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.gammaRayBandLabel": {
+    "value": "Tia\nGamma",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Tia\nGamma ",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1684410912493,
+        "oldValue": "Tia\nGamma ",
+        "newValue": "Tia\nGamma",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.infraredBandLabel": {
+    "value": "Hồng ngoại",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Hồng ngoại",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.metersUnits": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.microwaveBandLabel": {
+    "value": "Vi ba",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Vi ba",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.radioBandLabel": {
+    "value": "Vô tuyến",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Vô tuyến",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.title": {
+    "value": "Quang phổ",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Quang phổ",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.ultravioletBandLabel": {
+    "value": "Tử\nngoại",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Tử\nngoại",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.visibleBandLabel": {
+    "value": "Ánh sáng Khả kiến",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Ánh sáng Khả kiến",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.wavelengthArrowLabel": {
+    "value": "Bước sóng tăng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Bước sóng tăng",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.xrayBandLabel": {
+    "value": "Tia X",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Tia X",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonDioxide": {
+    "value": "Carbon Dioxide",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Carbon Dioxide",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonMonoxide": {
+    "value": "Carbon Monoxide",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Carbon Monoxide",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Methane": {
+    "value": "Methane",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1599899075615,
+        "oldValue": "",
+        "newValue": "Methane",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.NitrogenDioxide": {
+    "value": "Nitrogen Dioxide",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Nitrogen Dioxide",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Nitrogen": {
+    "value": "Nitrogen",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Nitrogen",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Oxygen": {
+    "value": "Oxigen",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Oxigen",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Ozone": {
+    "value": "Ozone",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Ozone",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Water": {
+    "value": "Nước",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Nước",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.close": {
+    "value": "Đóng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1446639952642,
+        "oldValue": "",
+        "newValue": "Đóng",
+        "explanation": null
+      }
+    ]
+  },
+  "openSciEd.energySource": {
+    "value": "Năng lượng từ mặt đất",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1684410912493,
+        "oldValue": "",
+        "newValue": "Năng lượng từ mặt đất"
+      }
+    ]
+  }
+}

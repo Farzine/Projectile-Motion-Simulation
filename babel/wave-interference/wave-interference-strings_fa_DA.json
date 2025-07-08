@@ -1,0 +1,602 @@
+{
+  "electricFieldAtCenter": {
+    "value": "ساحهٔ برقی در مرکز",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "ساحهٔ برقی در مرکز"
+      }
+    ]
+  },
+  "electricField": {
+    "value": "ساحهٔ برقی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "ساحهٔ برقی"
+      }
+    ]
+  },
+  "lightGenerator": {
+    "value": "منبع نور",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "مولد نور"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "مولد نور",
+        "newValue": "منبع نور",
+        "explanation": null
+      }
+    ]
+  },
+  "positionCM": {
+    "value": "موقعیت (cm)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "موقعیت (cm)"
+      }
+    ]
+  },
+  "positionNM": {
+    "value": "موقعیت (nm)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "موقعیت (nm)"
+      }
+    ]
+  },
+  "pressureAtCenter": {
+    "value": "فشار در مرکز",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "فشار در مرکز"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "فشار",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "فشار"
+      }
+    ]
+  },
+  "secondsUnits": {
+    "value": "ثانیه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "ثانیه"
+      }
+    ]
+  },
+  "soundGenerator": {
+    "value": "منبع صوت",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "مولد صوت"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "مولد صوت",
+        "newValue": "منبع صوت",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevelAtCenter": {
+    "value": "سطح آب در مرکز",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "سطح آب در مرکز"
+      }
+    ]
+  },
+  "waterLevel": {
+    "value": "سطح آب",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "سطح آب"
+      }
+    ]
+  },
+  "waterWaveGenerator": {
+    "value": "منبع موج آبی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "مولد موج آبی"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "مولد موج آبی",
+        "newValue": "منبع موج آبی",
+        "explanation": null
+      }
+    ]
+  },
+  "intensity": {
+    "value": "شدت",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "شدت"
+      }
+    ]
+  },
+  "top": {
+    "value": "بالا",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "بالا"
+      }
+    ]
+  },
+  "sideView": {
+    "value": "دید جانبی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "دید جانبی"
+      }
+    ]
+  },
+  "topView": {
+    "value": "دید از بالا",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "دید از بالا"
+      }
+    ]
+  },
+  "graph": {
+    "value": "گراف",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "گراف"
+      }
+    ]
+  },
+  "playTone": {
+    "value": "پخش صدا",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "پخش صدا"
+      }
+    ]
+  },
+  "screenLabel": {
+    "value": "صفحهٔ نمایش",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "صفحهٔ نمایش"
+      }
+    ]
+  },
+  "soundEffect": {
+    "value": "افکت صوتی (جلوۀ صوتی)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "افکت صوتی (جلوۀ صوتی)"
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "امپلیتود (دامنه)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "امپلیتود (دامنه)"
+      }
+    ]
+  },
+  "frequency": {
+    "value": "فریکونسی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "فریکوینسی"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1722693120041,
+        "oldValue": "فریکوینسی",
+        "newValue": "فریکونسی",
+        "explanation": null
+      }
+    ]
+  },
+  "both": {
+    "value": "هر دو",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "هر دو"
+      }
+    ]
+  },
+  "particles": {
+    "value": "ذرات",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "ذرات"
+      }
+    ]
+  },
+  "waves": {
+    "value": "امواج",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "امواج"
+      }
+    ]
+  },
+  "max": {
+    "value": "اعظمی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "اعظمی"
+      }
+    ]
+  },
+  "min": {
+    "value": "اصغری",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "اصغری"
+      }
+    ]
+  },
+  "time": {
+    "value": "زمان",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722428463026,
+        "oldValue": "",
+        "newValue": "زمان"
+      }
+    ]
+  },
+  "circleDiameter": {
+    "value": "قطر دایره",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "قطر دایره"
+      }
+    ]
+  },
+  "squareWidth": {
+    "value": "عرض مربع",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "عرض مربع"
+      }
+    ]
+  },
+  "disorder": {
+    "value": "بی نظمی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "بی نظمی"
+      }
+    ]
+  },
+  "latticeSpacing": {
+    "value": "فاصله بندی شبکه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "فاصله بندی شبکه"
+      }
+    ]
+  },
+  "lots": {
+    "value": "زیاد",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "زیاد"
+      }
+    ]
+  },
+  "none": {
+    "value": "هیچ",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "هیچ"
+      }
+    ]
+  },
+  "diameter": {
+    "value": "قطر",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "قطر"
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "خارج از مرکز بودن دایره (غیر مدوری)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "خارج از مرکز بودن دایره (غیر مدوری)"
+      }
+    ]
+  },
+  "height": {
+    "value": "ارتفاع",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "ارتفاع"
+      }
+    ]
+  },
+  "width": {
+    "value": "عرض",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "عرض"
+      }
+    ]
+  },
+  "rotation": {
+    "value": "دوران",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "دوران"
+      }
+    ]
+  },
+  "screen.diffraction": {
+    "value": "تفرق",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "تفرق"
+      }
+    ]
+  },
+  "separation": {
+    "value": "فاصله میان نل‌ها",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "فاصله میان نل‌ها"
+      }
+    ]
+  },
+  "normal": {
+    "value": "نورمال (عادی)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "نورمال (عادی)"
+      }
+    ]
+  },
+  "slow": {
+    "value": "آهسته",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "آهسته"
+      }
+    ]
+  },
+  "screen.interference": {
+    "value": "تداخل",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "تداخل"
+      }
+    ]
+  },
+  "noBarrier": {
+    "value": "بدون مانع",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "بدون مانع"
+      }
+    ]
+  },
+  "oneSlit": {
+    "value": "یک شکاف",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "یک شکاف"
+      }
+    ]
+  },
+  "slitSeparation": {
+    "value": "فاصلۀ جدایی شکاف‌ها",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "فاصلۀ جدایی شکاف‌ها"
+      }
+    ]
+  },
+  "slitWidth": {
+    "value": "عرض شکاف",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "عرض شکاف"
+      }
+    ]
+  },
+  "twoSlits": {
+    "value": "دو شکاف",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "دو شکاف"
+      }
+    ]
+  },
+  "screen.slits": {
+    "value": "شکاف‌ها",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "شکاف‌ها"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "امواج",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "امواج"
+      }
+    ]
+  },
+  "wave-interference.title": {
+    "value": "تداخل امواج",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724534829451,
+        "oldValue": "",
+        "newValue": "تداخل امواج"
+      }
+    ]
+  }
+}

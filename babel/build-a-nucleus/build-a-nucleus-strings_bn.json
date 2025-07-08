@@ -1,0 +1,926 @@
+{
+  "decay": {
+    "value": "ক্ষয় ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "ক্ষয় "
+      }
+    ]
+  },
+  "symbol": {
+    "value": "চিহ্ন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "চিহ্ন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "চিহ্ন ",
+        "newValue": "চিহ্ন",
+        "explanation": null
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "ইলেকট্রন মেঘ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "ইলেকট্রন মেঘ "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "ইলেকট্রন মেঘ ",
+        "newValue": "ইলেকট্রন মেঘ",
+        "explanation": null
+      }
+    ]
+  },
+  "stable": {
+    "value": "স্থায়ী",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "স্থায়ী "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "স্থায়ী ",
+        "newValue": "স্থায়ী",
+        "explanation": null
+      }
+    ]
+  },
+  "unstable": {
+    "value": "অস্থায়ী",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "অস্থায়ী "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "অস্থায়ী ",
+        "newValue": "অস্থায়ী",
+        "explanation": null
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "নিউট্রন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "নিউট্রন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "নিউট্রন ",
+        "newValue": "নিউট্রন",
+        "explanation": null
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "গঠন করে না",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "গঠন করে না "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "গঠন করে না ",
+        "newValue": "গঠন করে না",
+        "explanation": null
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "নিউট্রন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "নিউট্রন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "নিউট্রন ",
+        "newValue": "নিউট্রন",
+        "explanation": null
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "Cluster of {{neutronNumber}} neutrons",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "Cluster of {{neutronNumber}} neutrons"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "আলফা ক্ষয়",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "আলফা ক্ষয় "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "আলফা ক্ষয় ",
+        "newValue": "আলফা ক্ষয়",
+        "explanation": null
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "β<sup>-</sup> ক্ষয়",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "β<sup>-</sup> ক্ষয়"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "β<sup>+</sup> decay",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "β<sup>+</sup> decay"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "প্রোটন  নির্গমন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "প্রোটন  নির্গমন"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "নিউট্রন নির্গমন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "নিউট্রন নির্গমন"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "কম স্থায়ী",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "কম স্থায়ী "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "কম স্থায়ী ",
+        "newValue": "কম স্থায়ী",
+        "explanation": null
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "বেশী স্থায়ী",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "বেশী স্থায়ী"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "উপলব্ধ ক্ষয়(Available Decays)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "উপলব্ধ ক্ষয়(Available Decays)"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "যদিও অন্যান্য ক্ষয় বিদ্যমান থাকতে পারে, প্রদর্শিত উপলব্ধ ক্ষয়গুলি সবচেয়ে সাধারণ। যেসব ক্ষেত্রে কোনো পরিচিত ক্ষয় নেই, সেখানে কোনো উপলব্ধ ক্ষয় দেখানো হয় না।(While other decays may exist, the available decays shown are the most common. In cases where there is no known decay, no available decays are shown.)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1665286944643,
+        "oldValue": "",
+        "newValue": "যদিও অন্যান্য ক্ষয় বিদ্যমান থাকতে পারে, প্রদর্শিত উপলব্ধ ক্ষয়গুলি সবচেয়ে সাধারণ। যেসব ক্ষেত্রে কোনো পরিচিত ক্ষয় নেই, সেখানে কোনো উপলব্ধ ক্ষয় দেখানো হয় না।(While other decays may exist, the available decays shown are the most common. In cases where there is no known decay, no available decays are shown.)"
+      }
+    ]
+  },
+  "protons": {
+    "value": "প্রোটন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "প্রোটন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "প্রোটন ",
+        "newValue": "প্রোটন",
+        "explanation": null
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "নিউট্রন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "নিউট্রন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "নিউট্রন ",
+        "newValue": "নিউট্রন",
+        "explanation": null
+      }
+    ]
+  },
+  "proton": {
+    "value": "প্রোটন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "প্রোটন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "প্রোটন ",
+        "newValue": "প্রোটন",
+        "explanation": null
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "নিউট্রন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "নিউট্রন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "নিউট্রন ",
+        "newValue": "নিউট্রন",
+        "explanation": null
+      }
+    ]
+  },
+  "electron": {
+    "value": "ইলেকট্রন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "ইলেকট্রন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "ইলেকট্রন ",
+        "newValue": "ইলেকট্রন",
+        "explanation": null
+      }
+    ]
+  },
+  "positron": {
+    "value": "পজিট্রন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "পজিট্রন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "পজিট্রন ",
+        "newValue": "পজিট্রন",
+        "explanation": null
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "অর্ধ জীবন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "অর্ধ জীবন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "অর্ধ জীবন ",
+        "newValue": "অর্ধ জীবন",
+        "explanation": null
+      }
+    ]
+  },
+  "unknown": {
+    "value": "অজানা",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "অজানা "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "অজানা ",
+        "newValue": "অজানা",
+        "explanation": null
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "সেকেন্ড",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "সেকেন্ড "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "সেকেন্ড ",
+        "newValue": "সেকেন্ড",
+        "explanation": null
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>A</b></span>"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>B</b></span>"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>C</b></span>"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>D</b></span>"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>E</b></span>"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>F</b></span>"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>G</b></span>"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>H</b></span>"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>I</b></span>"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>J</b></span>"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "অর্ধ জীবন টাইম স্কেল",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "অর্ধ জীবন টাইম স্কেল "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "অর্ধ জীবন টাইম স্কেল ",
+        "newValue": "অর্ধ জীবন টাইম স্কেল",
+        "explanation": null
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "প্রোটন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "প্রোটন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "প্রোটন ",
+        "newValue": "প্রোটন",
+        "explanation": null
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "নিউট্রন",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "নিউট্রন "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "নিউট্রন ",
+        "newValue": "নিউট্রন",
+        "explanation": null
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "একটি নিউক্লিয়াসকে অতিক্রম করতে আলোর প্রয়োজনীয় সময়",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "একটি নিউক্লিয়াসকে অতিক্রম করতে আলোর প্রয়োজনীয় সময় "
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "একটি পরমানুকে  অতিক্রম করতে আলোর প্রয়োজনীয় সময়",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "একটি পরমানুকে  অতিক্রম করতে আলোর প্রয়োজনীয় সময় "
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "একশত পরমানুকে নিউক্লিয়াসকে অতিক্রম করতে আলোর প্রয়োজনীয় সময়",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "একশত পরমানুকে নিউক্লিয়াসকে অতিক্রম করতে আলোর প্রয়োজনীয় সময় "
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "শব্দকে এক মিলিমিটার অতিক্রম করতে প্রয়োজনীয় সময়",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "শব্দকে এক মিলিমিটার অতিক্রম করতে প্রয়োজনীয় সময় "
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "এক পলক (A blink of an eye)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "এক পলক (A blink of an eye)"
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "এক মিনিট",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "এক মিনিট "
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "এক বছর",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "এক বছর "
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "মানুষের গড় আয়ু",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "মানুষের গড় আয়ু "
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "মহাবিশ্বের বয়স",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "মহাবিশ্বের বয়স "
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "দীর্ঘতম তারার/নক্ষত্রের  জীবনকাল",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "দীর্ঘতম তারার/নক্ষত্রের  জীবনকাল"
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "একটি নিউক্লিয়াস গঠন করি",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663911715500,
+        "oldValue": "",
+        "newValue": "একটি নিউক্লিয়াস গঠন করি "
+      },
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "একটি নিউক্লিয়াস গঠন করি ",
+        "newValue": "একটি নিউক্লিয়াস গঠন করি",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "ক্ষয়",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "ক্ষয়"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "চার্ট ইন্ট্রো (Chart Intro)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "চার্ট ইন্ট্রো (Chart Intro)"
+      }
+    ]
+  },
+  "energy": {
+    "value": "শক্তি",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "শক্তি"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "ম্যাজিক সংখ্যা",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "ম্যাজিক সংখ্যা"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "আংশিক নিউক্লাইড চার্ট",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "আংশিক নিউক্লাইড চার্ট"
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "A full, interactive chart of the nuclides and their decays is available from Energy Education Project at University of Calgary, see {{link}}.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "A full, interactive chart of the nuclides and their decays is available from Energy Education Project at University of Calgary, see {{link}}."
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "full chart",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "full chart"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "Full Nuclide Chart",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "Full Nuclide Chart"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "Full Chart",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "Full Chart"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "পারমাণবিক শেল মডেল (Nuclear Shell Model)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "পারমাণবিক শেল মডেল (Nuclear Shell Model)"
+      }
+    ]
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "{{name}} - {{mass}}"
+      }
+    ]
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "{{nameMass}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "{{mass}} {{particleType}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "প্রোটন সংখ্যা",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "প্রোটন সংখ্যা"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "নিউট্রন সংখ্যা",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "নিউট্রন সংখ্যা"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "unknown{{space}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "unknown{{space}}"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "Most likely decay type",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "Most likely decay type"
+      }
+    ]
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1740661384624,
+        "oldValue": "",
+        "newValue": "({{decayLikelihoodPercent}}%)"
+      }
+    ]
+  }
+}

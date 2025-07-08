@@ -1,0 +1,851 @@
+{
+  "acSource": {
+    "value": "Vaihtojännite",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Vaihtojännite"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Lisää lamppu",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Lisää lamppu"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Lisävalinnat",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Lisävalinnat"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Virtamittari",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Virtamittari",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Virtamittarin lukema",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Virtamittarin lukema"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Virtamittarit",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Virtamittarit",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Animaation maksiminopeus saavutettu! Simulaation nopeus laskettu {{percent}}%:iin normaalista.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Animaation nopeusrajoitus saavutettu! Simulaation nopeus laskettu {{percent}}%:iin normaalista.",
+        "explanation": null
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "Animaation nopeusrajoitus saavutettu! Simulaation nopeus laskettu {{percent}}%:iin normaalista.",
+        "newValue": "Animaation maksiminopeus saavutettu! Simulaation nopeus laskettu {{percent}}%:iin normaalista."
+      }
+    ]
+  },
+  "battery": {
+    "value": "Paristo",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Paristo",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Pariston resistanssi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Pariston resistanssi",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "englantilainen",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Englantilainen"
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1670153348619,
+        "oldValue": "Englantilainen",
+        "newValue": "englantilainen"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Kapasitanssi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Kapasitanssi"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Kondensaattori",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Kondensaattori"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Kolikko",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Kolikko",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Perinteinen",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Tavanomainen",
+        "explanation": null
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "Tavanomainen",
+        "newValue": "Perinteinen"
+      }
+    ]
+  },
+  "current": {
+    "value": "Virta",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Virta",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Sähkövirta",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Sähkövirta"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Virran kuvaaja",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Virran kuvaaja"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Virran arvo",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1670153348619,
+        "oldValue": "",
+        "newValue": "Virran arvo"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Liian suuri arvo",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Liian suuri arvo"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Koira",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Koira",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Seteli",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Seteli",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektronit",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Elektronit",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Pyyhekumi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Pyyhekumi",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Taajuus",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Taajuus"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Sulake",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Sulake"
+      }
+    ]
+  },
+  "hand": {
+    "value": "Käsi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Käsi",
+        "explanation": null
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Induktanssi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Induktanssi"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Käämi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Käämi"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Nimet",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Nimet",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Lamppu",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Lamppu",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "suuri",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "paljon",
+        "explanation": null
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1670153348619,
+        "oldValue": "paljon",
+        "newValue": "suuri"
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Suuruus",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Suuruus"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Paperiliitin",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Paperiliitin",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Kynä",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Kynä",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Vaihe-ero",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Vaihe-ero"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Resistanssi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Resistanssi",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Vastus",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Vastus",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Standardi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Standardi"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Näytä virta",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Näytä virta",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "Etumerkillinen",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Etumerkillinen"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Jännitelähteen resistanssi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Jännitelähteen resistanssi"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Sekuntikello",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Sekuntikello"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Kytkin",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Kytkin",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Muokkaa virtapiirin komponenttia napauttamalla.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Muokkaa elementtiä napauttamalla.",
+        "explanation": null
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "Muokkaa elementtiä napauttamalla.",
+        "newValue": "Muokkaa virtapiirin komponenttia napauttamalla."
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Kytkin on suljettu.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Kytkin on suljettu.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Kytkin on avoin.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Kytkin on avoin.",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Aika",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845961,
+        "oldValue": "",
+        "newValue": "Aika"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "pieni",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "pieni",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Arvot",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Arvot",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Jännite",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Jännite",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Jännite (V)",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845962,
+        "oldValue": "",
+        "newValue": "Jännite (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Jännitteen kuvaaja",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1664974845962,
+        "oldValue": "",
+        "newValue": "Jännitteen kuvaaja"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Jännitemittari",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Jännitemittari",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Johdin",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Johdin",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Johtimen resistiivisyys",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "Johtimen resistiivisyys",
+        "explanation": null
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohmia",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohmia",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volttia",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "{{voltage}} volttia",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705226,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} ohmia",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1528048705227,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohmia",
+        "explanation": null
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "1 s"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  }
+}

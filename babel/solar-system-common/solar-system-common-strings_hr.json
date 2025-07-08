@@ -1,0 +1,251 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "v"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "v",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "godine",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "godina"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "godina",
+        "newValue": "godine "
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "godine ",
+        "newValue": "godine",
+        "explanation": null
+      }
+    ]
+  },
+  "clear": {
+    "value": "Čisto",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Poništi"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Poništi",
+        "newValue": "Čisto"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "au"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "au",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "",
+        "newValue": "|v| = {{value}} {{units}}"
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "|v| = {{value}} {{units}}",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "Mreža",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Mreža"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Traka za mjerenje",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Mjerna vrpca"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Mjerna vrpca",
+        "newValue": "Traka za mjerenje"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Gravitacijska sila",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Gravitacijska sila"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Vektor brzine",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Brzina"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Brzina",
+        "newValue": "brzina"
+      },
+      {
+        "userId": 641452,
+        "timestamp": 1696677453805,
+        "oldValue": "brzina",
+        "newValue": "Vektor brzine",
+        "explanation": null
+      }
+    ]
+  },
+  "path": {
+    "value": "Putanja",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Putanja"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Putanja",
+        "newValue": "putanja "
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "putanja ",
+        "newValue": "putanja",
+        "explanation": null
+      },
+      {
+        "userId": 641452,
+        "timestamp": 1696677453805,
+        "oldValue": "putanja",
+        "newValue": "Putanja",
+        "explanation": null
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Neki vektori sile premali su za prikaz.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "Neki vektori sile premali su za prikaz."
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Zoom:",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "Zoom:"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Iznos brzine (km/h)",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "Brzina(km/h)"
+      },
+      {
+        "userId": 641452,
+        "timestamp": 1696677453805,
+        "oldValue": "Brzina(km/h)",
+        "newValue": "Iznos brzine (km/h)",
+        "explanation": null
+      }
+    ]
+  }
+}

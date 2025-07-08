@@ -1,0 +1,15 @@
+.idea
+*.iml
+node_modules
+.DS_Store
+.DS_Store?
+java/src/edu/colorado/phet/buildtools/html/*.class
+*.sublime-project
+*.sublime-workspace
+package-lock.json
+eslint/cache/
+build
+dist
+transpile/cache/status.json
+
+**/.claude/settings.local.json

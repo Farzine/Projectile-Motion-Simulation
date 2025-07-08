@@ -1,0 +1,648 @@
+{
+  "ar": {
+    "needAtLeastOneKick": {
+      "value": "تحتاج إلى ركلة واحدة على الأقل"
+    }
+  },
+  "ar_LY": {
+    "kick": {
+      "value": "ركلة"
+    },
+    "needAtLeastOneKick": {
+      "value": "نحتاج ركلة واحدة على الأقل"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "كرة القدم"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "كرة القدم"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "تحريك كرة القدم"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "حرك الكرة التي أمسكها"
+    }
+  },
+  "ar_SY": {
+    "needAtLeastOneKick": {
+      "value": "تحتاج إلى ركلة واحدة على الأقل"
+    }
+  },
+  "bn": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "যুক্তরাষ্ট্র"
+    },
+    "characterSet.africa": {
+      "value": "আফ্রিকা"
+    },
+    "characterSet.africaModest": {
+      "value": "Africa (Modest)"
+    },
+    "needAtLeastOneKick": {
+      "value": "Need at least one kick"
+    }
+  },
+  "ca": {
+    "kick": {
+      "value": "Xut"
+    },
+    "needAtLeastOneKick": {
+      "value": "Has de fer almenys un xut"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "pilota de futbol"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "pilota de futbol"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Moure pilota de futbol"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Moure pilota de futbol agafada"
+    }
+  },
+  "cs": {
+    "kick": {
+      "value": "Kop"
+    },
+    "needAtLeastOneKick": {
+      "value": "Potřebujete alespoň jeden kop"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Fotbalový míč"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "fotbalový míč"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Přesunout fotbalový míč"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Přesunout uchopený fotbalový míč"
+    }
+  },
+  "da": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "United States of America"
+    },
+    "characterSet.africa": {
+      "value": "Afrika"
+    },
+    "characterSet.africaModest": {
+      "value": "Afrika (forsigtig)"
+    },
+    "kick": {
+      "value": "Spark"
+    },
+    "needAtLeastOneKick": {
+      "value": "Kræver mindst et spark"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Fodbold"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "fodbold"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Flyt fodbold"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Flyt fodbold"
+    }
+  },
+  "de": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Vereinigte Staaten von Amerika"
+    },
+    "characterSet.africa": {
+      "value": "Afrika"
+    },
+    "characterSet.africaModest": {
+      "value": "Afrika (bescheiden)"
+    },
+    "kick": {
+      "value": "Kicken"
+    },
+    "needAtLeastOneKick": {
+      "value": "Mindestens ein Kick"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Fußball"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "Fußball"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Fußball bewegen"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Ausgewählten Fußball bewegen"
+    }
+  },
+  "el": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Η.Π.Α."
+    },
+    "characterSet.africa": {
+      "value": "Αφρική"
+    },
+    "characterSet.africaModest": {
+      "value": "Αφρική (Modest)"
+    },
+    "kick": {
+      "value": "Λάκτισμα"
+    },
+    "needAtLeastOneKick": {
+      "value": "Απαιτείται τουλάχιστον ένα λάκτισμα"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "τη μπάλα ποδοσφαίρου"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "τη μπάλα ποδοσφαίρου"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Μετακίνηση μπάλας ποδοσφαίρου"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Μετακίνηση μπάλας ποδοσφαίρου που έχετε πιάσει"
+    }
+  },
+  "es": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Estados Unidos de América"
+    },
+    "characterSet.africaModest": {
+      "value": "África (Modesto)"
+    },
+    "characterSet.africa": {
+      "value": "África"
+    },
+    "kick": {
+      "value": "Lanzar"
+    },
+    "needAtLeastOneKick": {
+      "value": "Necesita al menos un lanzamiento"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Balón de Fútbol"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "balón de fútbol"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Mover el Balón de Fútbol"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Mover el balón de fútbol seleccionado"
+    }
+  },
+  "es_PE": {
+    "kick": {
+      "value": "Patada"
+    },
+    "needAtLeastOneKick": {
+      "value": "Necesita al menos una patada"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Balón de fútbol"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "balón de fútbol"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Mueve el balón de fútbol"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Mueve el balón de fútbol agarrado"
+    },
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Estados Unidos de América"
+    },
+    "characterSet.africa": {
+      "value": "África"
+    },
+    "characterSet.africaModest": {
+      "value": "África (Modesto)"
+    }
+  },
+  "fa_DA": {
+    "needAtLeastOneKick": {
+      "value": "حد اقل به یک ضربه ضرورت است"
+    }
+  },
+  "fr": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Etats Unis d'Amérique"
+    },
+    "characterSet.africa": {
+      "value": "Afrique"
+    },
+    "characterSet.africaModest": {
+      "value": "Afrique (modeste)"
+    },
+    "kick": {
+      "value": "Coup de pied"
+    },
+    "needAtLeastOneKick": {
+      "value": "Il faut au moins un coup de pied"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Ballon de foot"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "ballon de foot"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Déplacer le ballon de foot"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Déplacez-vous pour attraper le ballon de football"
+    }
+  },
+  "ht": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Etazini"
+    },
+    "characterSet.africa": {
+      "value": "Afrik"
+    },
+    "characterSet.africaModest": {
+      "value": "Afrik (Modès)"
+    },
+    "needAtLeastOneKick": {
+      "value": "Bezwen omwen yon chout"
+    }
+  },
+  "hu": {
+    "needAtLeastOneKick": {
+      "value": "Legalább egy rúgás szükséges"
+    }
+  },
+  "hy": {
+    "needAtLeastOneKick": {
+      "value": "Անհրաժեշտ է առնվազն հինգ հարված"
+    }
+  },
+  "is": {
+    "kick": {
+      "value": "Spark"
+    },
+    "needAtLeastOneKick": {
+      "value": "Þarf minnst eitt spark"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Fótbolti"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "fótbolti"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Færa fótbolta"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Færa gripinn fótbolta"
+    }
+  },
+  "it": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Stati Uniti d'America"
+    },
+    "characterSet.africa": {
+      "value": "Africa"
+    },
+    "characterSet.africaModest": {
+      "value": "Africa (limitato)"
+    },
+    "kick": {
+      "value": "Calcia"
+    },
+    "needAtLeastOneKick": {
+      "value": "Devi dare almeno un calcio"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Pallone"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "pallone"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Muovi la palla da calcio"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Sposta la palla da calcio afferrata"
+    }
+  },
+  "iw": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "ארה\"ב"
+    },
+    "characterSet.africa": {
+      "value": "אפריקה"
+    },
+    "characterSet.africaModest": {
+      "value": "אפריקה (צנוע)"
+    },
+    "kick": {
+      "value": "בעיטה"
+    },
+    "needAtLeastOneKick": {
+      "value": "חייבת בעיטה אחת לפחות"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "כדורגל"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "כדורגל"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "הזיזו כדורגל"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "הזיזו כדורגל שנלקח"
+    }
+  },
+  "ko": {
+    "kick": {
+      "value": "킥"
+    },
+    "needAtLeastOneKick": {
+      "value": "최소한 1회의 킥이 필요함"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "축구공"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "축구공"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "축구공 이동"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "잡은 축구공 이동"
+    }
+  },
+  "ms": {
+    "kick": {
+      "value": "Tendang"
+    },
+    "needAtLeastOneKick": {
+      "value": "Perlukan sekurang-kurangnya satu tendangan"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Bola Sepak"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "bola sepak"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Gerakkan Bola Sepak"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Gerakkan bola sepak yang dipegang"
+    },
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Amerika Syarikat"
+    },
+    "characterSet.africa": {
+      "value": "Afrika"
+    },
+    "characterSet.africaModest": {
+      "value": "Afrika (Sederhana)"
+    }
+  },
+  "nl": {
+    "kick": {
+      "value": "Schop"
+    },
+    "needAtLeastOneKick": {
+      "value": "Er is tenminste 1 schop nodig"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Voetbal"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "voetbal"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Verplaats voetbal"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Verplaats opgeraapte voetbal"
+    }
+  },
+  "pl": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Stany Zjednoczone Ameryki"
+    },
+    "characterSet.africa": {
+      "value": "Afryka"
+    },
+    "characterSet.africaModest": {
+      "value": "Afryka (Modest)"
+    },
+    "kick": {
+      "value": "Kopnięcie"
+    },
+    "needAtLeastOneKick": {
+      "value": "Wymagane jest co najmniej jedno kopnięcie"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "piłkę"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "piłkę"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Przesuń piłkę"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Przesuń chwyconą piłkę"
+    }
+  },
+  "ps": {
+    "needAtLeastOneKick": {
+      "value": "کم تر کمه یو شوټ ته ضرورت ده"
+    }
+  },
+  "pt_BR": {
+    "kick": {
+      "value": "Chutar"
+    },
+    "needAtLeastOneKick": {
+      "value": "Precisa chutar ao menos uma vez"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Bola de Futebol"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "bola de futebol"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Mover bola de futebol"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Mover bola de futebol agarrada"
+    }
+  },
+  "ro": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Statele Unite ale Americii"
+    },
+    "characterSet.africa": {
+      "value": "Africa"
+    },
+    "characterSet.africaModest": {
+      "value": "Africa (Modest)"
+    },
+    "kick": {
+      "value": "Lovitură"
+    },
+    "needAtLeastOneKick": {
+      "value": "Este nevoie de cel puțin o lovitură"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Minge de fotbal"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "mingea de fotbal"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Mută mingea"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Mută mingea aleasă"
+    }
+  },
+  "sk": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "Spojené štáty americké"
+    },
+    "characterSet.africa": {
+      "value": "Afrika"
+    },
+    "characterSet.africaModest": {
+      "value": "Afrika (Modest)"
+    },
+    "needAtLeastOneKick": {
+      "value": "Potrebujete aspoň jeden kop"
+    }
+  },
+  "sl": {
+    "kick": {
+      "value": "Brcni"
+    },
+    "needAtLeastOneKick": {
+      "value": "Brcni vsaj eno žogo"
+    }
+  },
+  "sw": {
+    "kick": {
+      "value": "Piga"
+    },
+    "needAtLeastOneKick": {
+      "value": "Inahitaji angalau mpigo mmoja"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Mpira wa miguu"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "mpira wa mguu"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "sogeza mpira wa miguu"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Sogeza mpra mtupu"
+    }
+  },
+  "uz": {
+    "needAtLeastOneKick": {
+      "value": "Kamida bitta zarba zarur"
+    }
+  },
+  "vi": {
+    "needAtLeastOneKick": {
+      "value": "Need at least one kick"
+    }
+  },
+  "zh_TW": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "美國"
+    },
+    "characterSet.africa": {
+      "value": "非洲"
+    },
+    "characterSet.africaModest": {
+      "value": "非洲（小型區域）"
+    },
+    "needAtLeastOneKick": {
+      "value": "至少要踢一次球吧"
+    }
+  },
+  "zu": {
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "United States of America"
+    },
+    "characterSet.africa": {
+      "value": "Africa"
+    },
+    "characterSet.africaModest": {
+      "value": "Africa (Modest)"
+    },
+    "needAtLeastOneKick": {
+      "value": "kudingeka okungenani ukukhahlela okukodwa"
+    }
+  },
+  "en": {
+    "needAtLeastOneKick": {
+      "value": "Need at least one kick"
+    },
+    "kick": {
+      "value": "Kick"
+    },
+    "characterSet.unitedStatesOfAmerica": {
+      "value": "United States of America"
+    },
+    "characterSet.africa": {
+      "value": "Africa"
+    },
+    "characterSet.africaModest": {
+      "value": "Africa (Modest)"
+    },
+    "keyboardHelpDialog.grabOrReleaseItemHeading": {
+      "value": "Soccer Ball"
+    },
+    "keyboardHelpDialog.grabOrReleaseItem": {
+      "value": "soccer ball"
+    },
+    "keyboardHelpDialog.moveHeading": {
+      "value": "Move Soccer Ball"
+    },
+    "keyboardHelpDialog.moveDescription": {
+      "value": "Move grabbed soccer ball"
+    },
+    "a11y": {
+      "grabSoccerBall": {
+        "value": "Grab soccer ball"
+      },
+      "noSoccerBallsToGrab": {
+        "value": "No soccer balls to grab"
+      },
+      "sortingSoccerBallPattern": {
+        "value": "Meter {{currentMeter}} of {{totalMeters}}, Move Top of {{stackHeight}} Soccer Balls"
+      },
+      "selectingSoccerBallPattern": {
+        "value": "Meter {{currentMeter}} of {{totalMeters}}, Top of {{stackHeight}} Soccer Balls"
+      },
+      "soccerBallHelpText": {
+        "value": "Grab top soccer ball. Once grabbed, use keyboard shortcuts to change kick distance."
+      },
+      "movable": {
+        "value": "movable"
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "સરખામણી",
+    "history": [
+      {
+        "userId": 685826,
+        "timestamp": 1651502397310,
+        "oldValue": "",
+        "newValue": "સરખામણી"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} નાની છે {{greaterNumber}} થી",
+    "history": [
+      {
+        "userId": 685826,
+        "timestamp": 1651502397310,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} નાની છે {{greaterNumber}} થી"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} મોટી છે  {{smallerNumber}} થી",
+    "history": [
+      {
+        "userId": 685826,
+        "timestamp": 1651502397310,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} મોટી છે  {{smallerNumber}} થી"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} સમાન છે {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 685826,
+        "timestamp": 1651502397310,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} સમાન છે {{equalNumberRight}}"
+      }
+    ]
+  }
+}

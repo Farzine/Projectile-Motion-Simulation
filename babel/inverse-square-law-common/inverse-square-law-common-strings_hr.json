@@ -1,0 +1,155 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1583574615503,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Decimalni zapis",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1583574615503,
+        "oldValue": "",
+        "newValue": "decimalni zapis",
+        "explanation": null
+      },
+      {
+        "userId": 641452,
+        "timestamp": 1583793868168,
+        "oldValue": "decimalni zapis",
+        "newValue": "Decimalni zapis",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Sila {{otherObject}} na {{thisObject}}",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1574528492512,
+        "oldValue": "",
+        "newValue": "Sila {{otherObject}} na {{thisObject}}  ",
+        "explanation": null
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1698532746535,
+        "oldValue": "Sila {{otherObject}} na {{thisObject}}  ",
+        "newValue": "Sila {{otherObject}} na {{thisObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Sila {{otherObject}} na {{thisObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1574528492512,
+        "oldValue": "",
+        "newValue": "Sila {{otherObject}} na {{thisObject}} = {{value}} N  ",
+        "explanation": null
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1698532746535,
+        "oldValue": "Sila {{otherObject}} na {{thisObject}} = {{value}} N  ",
+        "newValue": "Sila {{otherObject}} na {{thisObject}} = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Iznos sile",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1574528492512,
+        "oldValue": "",
+        "newValue": "Iznos sile",
+        "explanation": null
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Skriveno",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1583574615503,
+        "oldValue": "",
+        "newValue": "Skriveno",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "metar",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1574528492512,
+        "oldValue": "",
+        "newValue": "metar",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metara",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1574528492512,
+        "oldValue": "",
+        "newValue": "metara",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "njutna",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1574528492512,
+        "oldValue": "",
+        "newValue": "njutna",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Znanstveni zapis broja",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1583574615503,
+        "oldValue": "",
+        "newValue": "Znanstveni zapis broja",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1583574615503,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "pattern.0challenge.1max": {
+    "value": "التحدي من {0} الى {1}",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1637595980774,
+        "oldValue": "",
+        "newValue": "التحدي من {0} الى {1}"
+      }
+    ]
+  },
+  "check": {
+    "value": "التأكد",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "فحص"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1641241939890,
+        "oldValue": "فحص",
+        "newValue": "التأكد"
+      }
+    ]
+  },
+  "continue": {
+    "value": "استمرار",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "استمرار"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "ممتاز",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "ممتاز"
+      }
+    ]
+  },
+  "good": {
+    "value": "جيد !",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "جيد !"
+      }
+    ]
+  },
+  "great": {
+    "value": "عظيم !",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "عظيم !"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637595980774,
+        "oldValue": "عظيم !",
+        "newValue": "رائع !"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1641122245547,
+        "oldValue": "رائع !",
+        "newValue": "عظيم !"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "استمر بالكتابة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "استمر بالكتابة"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "المستوي:\n{0}",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "المستوي:\n{0}"
+      }
+    ]
+  },
+  "next": {
+    "value": "التالي",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "التالي"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "النتيجة\n\n\n: {0}",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "النتيجة\n: {0}"
+      },
+      {
+        "userId": 844820,
+        "timestamp": 1637595980774,
+        "oldValue": "النتيجة\n: {0}",
+        "newValue": "النتيجة\r\n: {0}"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1641241939890,
+        "oldValue": "النتيجة\r\n: {0}",
+        "newValue": "النتيجة\r\n\n: {0}"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669445624437,
+        "oldValue": "النتيجة\r\n\n: {0}",
+        "newValue": "النتيجة\n\n\n: {0}"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "النتيجة\n: {0} out of {1}",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "النتيجة\n: {0} out of {1}"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "اظهار الاجابة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "اظهار الاجابة"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "البدء من جديد",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "البدء من جديد"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "الزمن\n: {0}",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "الزمن\n: {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "المحاولة مرة اخرى",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "المحاولة مرة اخرى"
+      }
+    ]
+  },
+  "score": {
+    "value": "النتيجة",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1637595980774,
+        "oldValue": "",
+        "newValue": "النتيجة"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "النتيجة {{score}}",
+    "history": [
+      {
+        "userId": 844820,
+        "timestamp": 1637595980774,
+        "oldValue": "",
+        "newValue": "النتيجة {{score}}"
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "إعدادات اللعبة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "إعدادات اللعبة"
+      }
+    ]
+  },
+  "button.start": {
+    "value": "ابدآ",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "ابدآ"
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "مفتوح",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "مفتوح"
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "مغلق",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "مغلق"
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "اللعبة انتهت",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "اللعبة انتهت"
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "لعبة جديدة",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "لعبة جديدة"
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "الأفضل",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "الأفضل"
+      }
+    ]
+  },
+  "label.best": {
+    "value": "الأفضل: \r\n{0}",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "الأفضل: \r\n{0}"
+      }
+    ]
+  },
+  "format.time.best": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "{0} ({1})"
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "المستوى:",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "المستوى:"
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "النتيجة\r\n: {0} out of {1}\r\nكامل",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "النتيجة\r\n: {0} out of {1}\r\nكامل"
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "لم تنه اللعبة بعد\r\nهل أنت متأكد من رغبتك في البدء بلعبة جديدة؟",
+    "history": [
+      {
+        "userId": 412402,
+        "timestamp": 1616428020450,
+        "oldValue": "",
+        "newValue": "لم تنه اللعبة بعد\r\nهل أنت متأكد من رغبتك في البدء بلعبة جديدة؟"
+      }
+    ]
+  }
+}

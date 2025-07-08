@@ -1,0 +1,644 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Tlak",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Tlak",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>prosj.</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "T<sub>prosj.</sub> = {{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>prosj.</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "T<sub>prosj.</sub> = {{value}} K"
+      }
+    ]
+  },
+  "data": {
+    "value": "Podatak",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Podatak"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Centar mase",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Centar mase"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Početna temperatura (K)",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Početna temperatura (K)"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Masa (AMU)",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Masa (AMU)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Broj čestica",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Broj čestica"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Polumjer (r)",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Rolumjer (r)"
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1613054854797,
+        "oldValue": "Rolumjer (r)",
+        "newValue": "Polumjer (r)"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Ukloni zapreku",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Ukloni zapreku"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Vrati zapreku",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Vrati zapreku"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Tok čestica",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Tok čestica"
+      }
+    ]
+  },
+  "scale": {
+    "value": "Udaljenost",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Udaljenost"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Štoperica",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Štoperica",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Difuzija",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Difuzija"
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Brojač sudara",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Brojač sudara",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Širina",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Širina",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Period uzorkovanja",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Period uzorkovanja",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Sudari sa zidom",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Sudari sa zidom",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Vrati poklopac",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Vrati poklopac",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Ups!<br><br>Postignuta maksimalna temperatura.",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Postignuta maksimalna temperatura.",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Sudari",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Sudari",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Velika masa",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Velika masa",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "Mala masa",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Mala masa",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Čestice",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Čestice",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Istraži",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Istraži"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Zvuk tlaka",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Zvuk tlaka",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Ništa",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Ništa",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Tlak ↕T",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Tlak ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Tlak ↕V",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Tlak ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Drži stalnim",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Drži konstantnim",
+        "explanation": null
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "Drži konstantnim",
+        "newValue": "Drži stalnim"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Temperatura (T)",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Temperatura (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Volumen (V)",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Volumen (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Ups!<br><br>Tlak se ne može održati stalnim<br>kada je spremnik prazan.",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Tlak se ne može održati stalnim<br>kada je spremnik prazan.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Ups!<br><br>Tlak se ne može održati stalnim.<br>Volumen će biti prevelik.",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Tlak se ne može održati stalnim.<br>Volumen će biti prevelik.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Ups!<br><br>Tlak se ne može održati stalnim.<br>Volumen će biti premali.",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Tlak se ne može održati stalnim.<br>Volumen će biti premali.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Ups!<br><br>Temperatura ne može ostati stalna<br>kada je spremnik prazan.",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Temperatura ne može ostati stalna<br>kada je spremnik prazan.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Ups!<br><br>Temperatura ne može ostati stalna<br>kada je spremnik otvoren.",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Ups!<br><br>Temperatura ne može ostati stalna<br>kada je spremnik otvoren.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Idealni",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1583863926896,
+        "oldValue": "",
+        "newValue": "Idealni",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "prosječna brzina",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "prosječna brzina"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Temperatura pri ubrizgavanju",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Temperatura pri ubrizgavanju"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Izjednači s temp. spremnika",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Izjednači s temp. spremnika"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Postavi na:",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Postavi na:"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Kinetička energija",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Kinetička energija"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Brzina",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Brzina"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Energija",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Energija"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Svojstva plina",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1613054441692,
+        "oldValue": "",
+        "newValue": "Svojstva plina"
+      }
+    ]
+  }
+}

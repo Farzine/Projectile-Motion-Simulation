@@ -1,0 +1,373 @@
+{
+  "leftSideFull": {
+    "value": "Ops!<br><br>Il piatto sinistro della bilancia è pieno!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Ops!<br><br>Il piatto sinistro della bilancia è pieno!",
+        "explanation": null
+      }
+    ]
+  },
+  "rightSideFull": {
+    "value": "Ops!<br><br>Il piatto destro della bilancia è pieno!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Ops!<br><br>Il piatto destro della bilancia è pieno!",
+        "explanation": null
+      }
+    ]
+  },
+  "numberTooBig": {
+    "value": "Ops!<br><br>Questo darà un risultato<br>troppo grande per la simulazione.<br><br>Prova con un'altra operazione!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Ops!<br><br>Questo darà un risultato<br>troppo grande per la simulazione.<br><br>Prova con un'altra operazione!",
+        "explanation": null
+      }
+    ]
+  },
+  "equationOrInequality": {
+    "value": "Equazione o disequazione",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Equazione o disequazione",
+        "explanation": null
+      }
+    ]
+  },
+  "snapshots": {
+    "value": "Istantanee",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Istantanee",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.basics": {
+    "value": "Introduzione",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Introduzione",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.numbers": {
+    "value": "Numeri",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Numeri",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "Variabile",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Variabile",
+        "explanation": null
+      }
+    ]
+  },
+  "variables": {
+    "value": "Variabili",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Variabili",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "Operazioni",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "Operazioni",
+        "explanation": null
+      }
+    ]
+  },
+  "level1": {
+    "value": "<b>Livello 1</b> Equazioni in un solo passaggio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "<b>Livello 1</b> Equazioni in un solo passaggio",
+        "explanation": null
+      }
+    ]
+  },
+  "level2": {
+    "value": "<b>Livello 2</b> Equazioni in due passaggi",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409960,
+        "oldValue": "",
+        "newValue": "<b>Livello 2</b> Equazioni in due passaggi",
+        "explanation": null
+      }
+    ]
+  },
+  "level3": {
+    "value": "<b>Livello 3</b> Equazioni a più passaggi con frazioni",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "<b>Livello 3</b> Equazioni a più passaggi con frazioni",
+        "explanation": null
+      }
+    ]
+  },
+  "level4": {
+    "value": "<b>Livello 4</b> Equazioni a più passaggi con variabili in entrambi i membri",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "<b>Livello 4</b> Equazioni a più passaggi con variabili in entrambi i membri",
+        "explanation": null
+      }
+    ]
+  },
+  "levels": {
+    "value": "Livelli",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Livelli",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Scegli il livello",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Scegli il livello",
+        "explanation": null
+      }
+    ]
+  },
+  "solveFor": {
+    "value": "Risolvi con {{variable}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Risolvi con {{variable}}",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Successivo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Successivo",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.solveIt": {
+    "value": "Risolvi!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Risolto!",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1582213294741,
+        "oldValue": "Risolto!",
+        "newValue": "Risolvi!",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Variabili",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Variabili",
+        "explanation": null
+      }
+    ]
+  },
+  "equality-explorer.title": {
+    "value": "Esplora le equazioni",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Esplora le equazioni",
+        "explanation": null
+      }
+    ]
+  },
+  "x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679811390794,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1679811390794,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "level1Description": {
+    "value": "<b>Livello 1</b>   Equazioni in un passaggio",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680454673526,
+        "oldValue": "",
+        "newValue": "<b>Livello 1</b>   equazioni in un passaggio"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1680455086544,
+        "oldValue": "<b>Livello 1</b>   equazioni in un passaggio",
+        "newValue": "<b>Livello 1</b>   Equazioni in un passaggio",
+        "explanation": null
+      }
+    ]
+  },
+  "level2Description": {
+    "value": "<b>Livello 2</b>   Equazioni in un passaggio con coefficienti negativi",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680454673526,
+        "oldValue": "",
+        "newValue": "<b>Livello 2</b>   equazioni in un passaggio con coefficienti negativi"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1680455086544,
+        "oldValue": "<b>Livello 2</b>   equazioni in un passaggio con coefficienti negativi",
+        "newValue": "<b>Livello 2</b>   Equazioni in un passaggio con coefficienti negativi",
+        "explanation": null
+      }
+    ]
+  },
+  "level3Description": {
+    "value": "<b>Livello 3</b>   Equazioni in due passaggi",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680454673526,
+        "oldValue": "",
+        "newValue": "<b>Livello 3</b>   equazioni in due passaggi"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1680455086544,
+        "oldValue": "<b>Livello 3</b>   equazioni in due passaggi",
+        "newValue": "<b>Livello 3</b>   Equazioni in due passaggi",
+        "explanation": null
+      }
+    ]
+  },
+  "level4Description": {
+    "value": "<b>Livello 4</b>   Equazioni in più passaggi con frazioni",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680454673526,
+        "oldValue": "",
+        "newValue": "<b>Livello 4</b>   equazioni in più passaggi con frazioni"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1680455086544,
+        "oldValue": "<b>Livello 4</b>   equazioni in più passaggi con frazioni",
+        "newValue": "<b>Livello 4</b>   Equazioni in più passaggi con frazioni",
+        "explanation": null
+      }
+    ]
+  },
+  "level5Description": {
+    "value": "<b>Livello 5</b>   Equazioni in più passaggi con incognita in entrambi i membri",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680454673526,
+        "oldValue": "",
+        "newValue": "<b>Livello 5</b>   Equazioni in più passaggi con variabili in ambo i membri"
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1680455086544,
+        "oldValue": "<b>Livello 5</b>   Equazioni in più passaggi con variabili in ambo i membri",
+        "newValue": "<b>Livello 5</b>   Equazioni in più passaggi con incognita in entrambi i membri",
+        "explanation": null
+      }
+    ]
+  }
+}

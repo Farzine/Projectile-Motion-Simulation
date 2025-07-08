@@ -1,0 +1,192 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "سنوات",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "سنوات"
+      }
+    ]
+  },
+  "clear": {
+    "value": "مسح",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "مسح"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "كم / ثانية",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "كم / ثانية"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "grid": {
+    "value": "شبكة",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "شبكة "
+      },
+      {
+        "userId": 998479,
+        "timestamp": 1698353093029,
+        "oldValue": "شبكة ",
+        "newValue": "شبكة",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "شريط قياس",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "شريط قياس"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "قوة الجاذبية",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "قوة الجاذبية"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "سرعة",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "سرعة    "
+      },
+      {
+        "userId": 998479,
+        "timestamp": 1698353093029,
+        "oldValue": "سرعة    ",
+        "newValue": "سرعة",
+        "explanation": null
+      }
+    ]
+  },
+  "path": {
+    "value": "طريق",
+    "history": [
+      {
+        "userId": 538215,
+        "timestamp": 1670353986780,
+        "oldValue": "",
+        "newValue": "طريق"
+      }
+    ]
+  },
+  "speed": {
+    "value": "السرعة كم /ث",
+    "history": [
+      {
+        "userId": 998479,
+        "timestamp": 1698353093029,
+        "oldValue": "",
+        "newValue": "السرعة كم /ث"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "التكبير:",
+    "history": [
+      {
+        "userId": 998479,
+        "timestamp": 1698353093029,
+        "oldValue": "",
+        "newValue": "التكبير:"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 998479,
+        "timestamp": 1698353093029,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "بعض متجهات القوة صغيرة جدًا بحيث لا يمكن عرضها.",
+    "history": [
+      {
+        "userId": 998479,
+        "timestamp": 1698359243224,
+        "oldValue": "",
+        "newValue": "بعض متجهات القوة صغيرة جدًا بحيث لا يمكن عرضها."
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "screen.layerModel": {
+    "value": "Moetso oa lera",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Moetso oa lera"
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Photon",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Photon"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Maqhubu (waves)",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Maqhubu (waves)"
+      }
+    ]
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "Sethellisa le Flux tse laolang",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Sethellisa le Flux tse laolang"
+      }
+    ]
+  },
+  "morePhotons": {
+    "value": "Liphoton tse ngata",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Liphoton tse ngata"
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Infrared",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Infrared"
+      }
+    ]
+  },
+  "absorbingLayers": {
+    "value": "Lera le amohelang",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Lera le amohelang"
+      }
+    ]
+  },
+  "infraredAbsorbance": {
+    "value": "Infrared Absorbance",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Infrared Absorbance"
+      }
+    ]
+  },
+  "valuePercentPattern": {
+    "value": " {{value}}%",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": " {{value}}%"
+      }
+    ]
+  },
+  "sunlight": {
+    "value": "Letsatsi",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Letsatsi"
+      }
+    ]
+  },
+  "solarIntensity": {
+    "value": "Inthensithi ea sola",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Inthensithi ea sola"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "Letsatsi la rona",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Letsatsi la rona"
+      }
+    ]
+  },
+  "surfaceAlbedo": {
+    "value": "Bo ka holimo ba Albedo",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Bo ka holimo ba Albedo"
+      }
+    ]
+  },
+  "temperatureUnits": {
+    "value": "Limetho tsa mocheso",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1675306357719,
+        "oldValue": "",
+        "newValue": "Limetho tsa mocheso"
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "Li ngata",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Li ngata"
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "Ha ho letho",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Ha ho letho"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "Boleng ba likhase tse bakang mocheso ",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Boleng ba likhase tse bakang mocheso "
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Nakong ea khale (Ice age)",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Nakong ea khale (Ice age)"
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Thermometer e fats'e",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Thermometer e fats'e"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Maru",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Maru"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "Matla(energy)",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Matla(energy)"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Bonts'a boemo ba mocheso fats'e",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Bonts'a boemo ba mocheso fats'e"
+      }
+    ]
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Qala khanya ea letsatsi",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Qala khanya ea letsatsi"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Holekalekana hoa matla",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Holekalekana hoa matla"
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Sepakapaka se ka holimo",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Sepakapaka se ka holimo"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "ka hare",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "ka hare"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "Ka ntle",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Ka ntle"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "E kana hantle",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "E kana hantle"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Energy flux",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Energy flux"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Tekatekano ea matla",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Tekatekano ea matla"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Semetho sa Flux",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Semetho sa Flux"
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Boemo ba mocheso (Greenhouse Effect)",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Boemo ba mocheso (Greenhouse Effect)"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% Ho mongobo o lekaneng",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% Ho mongobo o lekaneng"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Letsatsi",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Letsatsi"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Mahlaseli a infrared",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Mahlaseli a infrared"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Mahlaseli a lestsatsi",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Mahlaseli a lestsatsi"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "Mahlaseli a infrared",
+    "history": [
+      {
+        "userId": 455476,
+        "timestamp": 1669646737987,
+        "oldValue": "",
+        "newValue": "Mahlaseli a infrared"
+      }
+    ]
+  }
+}

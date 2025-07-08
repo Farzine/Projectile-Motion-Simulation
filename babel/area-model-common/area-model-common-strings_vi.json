@@ -1,0 +1,325 @@
+{
+  "area": {
+    "value": "Diện tích",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Diện tích",
+        "explanation": null
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Tính toán mô hình diện tích",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Tính toán mô hình diện tích",
+        "explanation": null
+      }
+    ]
+  },
+  "calculation": {
+    "value": "Tính toán",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Tính toán",
+        "explanation": null
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Kích thước",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Số chiều",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "Số chiều",
+        "newValue": "Kích thước",
+        "explanation": null
+      }
+    ]
+  },
+  "enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Tìm hiểu",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm hiểu",
+        "explanation": null
+      }
+    ]
+  },
+  "factors": {
+    "value": "Thừa số",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Thừa số",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Tìm tích từng phần và chiều dài cạnh.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm tích từng phần và chiều dài cạnh.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Tìm tích từng phần và diện tích tổng cộng",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm tích từng phần và diện tích tổng cộng",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Tìm tích từng phần.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm tích từng phần.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Tìm tích từng phần.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm tích từng phần.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Tìm chiều dài cạnh.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm chiều dài cạnh.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Tìm chiều dài cạnh.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm chiều dài cạnh.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Tìm diện tích tổng cộng.",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Tìm diện tích tổng cộng.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Game",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Game",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Sáng tạo",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197330346,
+        "oldValue": "",
+        "newValue": "Lĩnh hội",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1525202731612,
+        "oldValue": "Lĩnh hội",
+        "newValue": "Phần chung",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1525240716628,
+        "oldValue": "Phần chung",
+        "newValue": "Đào sâu",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1599789673509,
+        "oldValue": "Đào sâu",
+        "newValue": "Sáng tạo",
+        "explanation": null
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Tích từng phần",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Tích từng phần",
+        "explanation": null
+      }
+    ]
+  },
+  "partition": {
+    "value": "Phân hoạch",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Phân hoạch",
+        "explanation": null
+      }
+    ]
+  },
+  "product": {
+    "value": "Tích",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Tích",
+        "explanation": null
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Diện tích tổng cộng của mô hình",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Diện tích tổng cộng của mô hình",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Biến số",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197664414,
+        "oldValue": "",
+        "newValue": "Biến",
+        "explanation": null
+      },
+      {
+        "userId": 137535,
+        "timestamp": 1599789673509,
+        "oldValue": "Biến",
+        "newValue": "Biến số",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Số thập phân",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525197805788,
+        "oldValue": "",
+        "newValue": "Số thập phân",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Nhân",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Nhân",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Phân hoạch",
+    "history": [
+      {
+        "userId": 137535,
+        "timestamp": 1525193797499,
+        "oldValue": "",
+        "newValue": "Phân hoạch",
+        "explanation": null
+      }
+    ]
+  }
+}

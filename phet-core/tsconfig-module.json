@@ -1,0 +1,19 @@
+{
+  "extends": "../perennial-alias/tsconfig/tsconfig-browser-and-node.json",
+  "include": [
+    "js/**/*"
+  ],
+  "exclude": [
+    // These files are for tests, and should be identical to those included by the top level config
+    "js/**/*Tests.*",
+    "js/**/*-tests.*"
+  ],
+  "references": [
+    {
+      "path": "../perennial-alias/js/browser-and-node/tsconfig.json"
+    },
+    {
+      "path": "../sherpa/tsconfig-lodash.json"
+    }
+  ]
+}

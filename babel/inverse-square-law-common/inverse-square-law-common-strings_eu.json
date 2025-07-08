@@ -1,0 +1,146 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1546884749778,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Notazio hamartarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1583535107531,
+        "oldValue": "",
+        "newValue": "Notazio hamartarra",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Indarra {{thisObject}}-(e)n  {{otherObject}}-(e)k",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1546884749778,
+        "oldValue": "",
+        "newValue": "Indarra {{thisObject}}-(e)n  {{otherObject}}-(e)k",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Indarra {{thisObject}}-(e)n {{otherObject}}-(e)k = {{value}} N",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1546884749778,
+        "oldValue": "",
+        "newValue": "Indarra {{thisObject}}-(e)n {{otherObject}}-(e)k = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Indar-balioak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1546884749778,
+        "oldValue": "",
+        "newValue": "Indar-balioak",
+        "explanation": null
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Izkutua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1583535107531,
+        "oldValue": "",
+        "newValue": "Izkutua",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "metro",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1572290290430,
+        "oldValue": "",
+        "newValue": "metro",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metro",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1572290290430,
+        "oldValue": "",
+        "newValue": "metro",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newton",
+    "history": [
+      {
+        "userId": 570617,
+        "timestamp": 1572290290430,
+        "oldValue": "",
+        "newValue": "newton",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Notazio zientifikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1583535107531,
+        "oldValue": "",
+        "newValue": "Notazio zientifikoa",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1546884749778,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1546884749778,
+        "oldValue": "",
+        "newValue": "pm",
+        "explanation": null
+      }
+    ]
+  }
+}

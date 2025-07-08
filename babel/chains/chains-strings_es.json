@@ -1,0 +1,82 @@
+{
+  "htmlString": {
+    "value": "Test 2",
+    "history": [
+      {
+        "userId": 232337,
+        "timestamp": 1569869204061,
+        "oldValue": "",
+        "newValue": "Test 2",
+        "explanation": null
+      }
+    ]
+  },
+  "plainString": {
+    "value": "No es fácil ser verde.",
+    "history": [
+      {
+        "userId": 232337,
+        "timestamp": 1569869204061,
+        "oldValue": "",
+        "newValue": "No es fácil ser verde.",
+        "explanation": null
+      }
+    ]
+  },
+  "chains.title": {
+    "value": "Cadenas",
+    "history": [
+      {
+        "userId": 232337,
+        "timestamp": 1569869204061,
+        "oldValue": "",
+        "newValue": "Cadenas",
+        "explanation": null
+      }
+    ]
+  },
+  "patternString": {
+    "value": "{0}: {1} {2}",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682912198676,
+        "oldValue": "",
+        "newValue": "{0}: {1} {2}"
+      }
+    ]
+  },
+  "size": {
+    "value": "Tamaño",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682912198676,
+        "oldValue": "",
+        "newValue": "Tamaño"
+      }
+    ]
+  },
+  "multilineString": {
+    "value": "Dame un<br>descanso.",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682912198676,
+        "oldValue": "",
+        "newValue": "Dame un<br>descanso."
+      }
+    ]
+  },
+  "namedPlaceholdersString": {
+    "value": "{{name}} viaja a {{speed}} km/hr",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1682912198676,
+        "oldValue": "",
+        "newValue": "{{name}} viaja a {{speed}} km/hr"
+      }
+    ]
+  }
+}

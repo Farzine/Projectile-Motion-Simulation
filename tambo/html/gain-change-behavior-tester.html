@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<!-- Copyright 2019, University of Colorado Boulder -->
+
+<!-- standalone HTML page for testing how changing the gain in a Web Audio gain node behaves -->
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gain Change Behavior Tester</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+  <link rel="stylesheet" href="../css/gain-change-behavior-tester.css">
+</head>
+<body>
+
+<div id="title-bar">
+  <h1 class="title">Gain Change Behavior Tester</h1>
+</div>
+
+<div id="page">
+  <div class="page-panel">
+
+    <div class="control-panel">
+      <h2 class="header">Sound Generator</h2>
+      <div class="input">
+        <input type="checkbox" id="soundGeneratorEnabled">
+        <span>Sound source</span>
+      </div>
+    </div>
+
+    <div class="control-panel">
+      <h2 class="header code">setValueAtTime</h2>
+
+      <div class="input">
+        <button type="button" id="setValueAtTimeTo1">setValueAtTime( 1 )</button>
+      </div>
+      <div class="input">
+        <button type="button" id="setValueAtTimeTo0">setValueAtTime( 0 )</button>
+      </div>
+      <div class="input">
+        <label for="setValueAtTimeValue">value: </label>
+        <input type="text" id="setValueAtTimeValue" size="10">
+        <button type="button" id="setValueAtTimeButton">setValueAtTime( value )</button>
+      </div>
+    </div>
+
+    <div class="control-panel">
+      <h2 class="header code">setTargetAtTime</h2>
+
+      <div class="input">
+        <label for="setTargetAtTimeTC">Time Constant: </label>
+        <input type="text" id="setTargetAtTimeTC" size="10">
+      </div>
+      <div class="input">
+        <button type="button" id="setTargetAtTimeTo1">setTargetAtTime( 1 )</button>
+      </div>
+      <div class="input">
+        <button type="button" id="setTargetAtTimeTo0">setTargetAtTime( 0 )</button>
+      </div>
+      <div class="input">
+        <label for="setTargetAtTimeTarget">target: </label>
+        <input type="text" id="setTargetAtTimeTarget" size="10">
+        <button type="button" id="setTargetAtTimeButton">setTargetAtTime( target )</button>
+      </div>
+    </div>
+
+    <div class="control-panel">
+      <h2 class="header code">linearRampToValueAtTime</h2>
+
+      <div class="input">
+        <label for="linearRampToValueAtTimeRampTime">Ramp Time: </label>
+        <input type="text" id="linearRampToValueAtTimeRampTime" size="10">
+      </div>
+      <div class="input">
+        <button type="button" id="linearRampToValueAtTimeTo1">linearRampToValueAtTime( 1 )</button>
+      </div>
+      <div class="input">
+        <button type="button" id="linearRampToValueAtTimeTo0">linearRampToValueAtTime( 0 )</button>
+      </div>
+      <div class="input">
+        <label for="linearRampToValueAtTimeTarget">value: </label>
+        <input type="text" id="linearRampToValueAtTimeTarget" size="10">
+        <button type="button" id="linearRampToValueAtTimeButton">linearRampToValueAtTime( value )</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-panel">
+
+    <div id="log-panel" class="control-panel">
+      <div id="#log-panel-upper">
+        <h2 class="header">Monitors</h2>
+
+        <h4 class="sub-header">Action Log:</h4>
+        <div id="action-log" class="log-output code"></div>
+
+        <h4 class="sub-header">Gain Log:</h4>
+      </div>
+      <div id="gain-log" class="log-output code">
+        <div id="gain-log-time" class="page-panel"></div>
+        <div id="gain-log-gain" class="page-panel"></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+<!-- eslint-disable --> <!--TODO: fix lint https://github.com/phetsims/chipper/issues/1405-->
+
+<script>
+
+  // create an audio context
+  const audioContext = new ( window.AudioContext || window.webkitAudioContext )();
+
+  // create and connect a gain node
+  const gainNode = audioContext.createGain();
+  gainNode.gain.setValueAtTime( 1, audioContext.currentTime );
+  gainNode.connect( audioContext.destination );
+
+  // get action log element
+  const actionLog = document.getElementById( 'action-log' );
+
+  // function to log an action
+  function logAction( actionMessage ) {
+    console.log( actionMessage );
+    actionLog.innerHTML = actionMessage;
+  }
+
+  // the sound source will be created, started, and stopped based on the user's actions
+  let oscillator = null;
+
+  // function to start the sound source
+  function startSoundSource() {
+
+    // make sure this method isn't called when it shouldn't be
+    if ( oscillator ) {
+      throw new Error( 'oscillator is set' );
+    }
+
+    // create the oscillator, hook it up, and start it
+    oscillator = audioContext.createOscillator();
+    oscillator.type = 'triangle';
+    oscillator.frequency.setValueAtTime( 220, audioContext.currentTime );
+    oscillator.connect( gainNode );
+    logAction( 'calling oscillator.start' );
+    oscillator.start();
+  }
+
+  function stopSoundSource() {
+    if ( oscillator === null ) {
+      throw new Error( 'oscillator is not running' );
+    }
+    logAction( 'calling oscillator.stop' );
+    oscillator.stop();
+    oscillator = null;
+  }
+
+  // turn the sound source on and off as the user checks and unchecks the box
+  const soundGeneratorEnabledCheckbox = document.getElementById( 'soundGeneratorEnabled' );
+  soundGeneratorEnabledCheckbox.checked = false;
+  soundGeneratorEnabledCheckbox.onclick = function() {
+    if ( soundGeneratorEnabledCheckbox.checked ) {
+      startSoundSource();
+    }
+    else {
+      stopSoundSource();
+    }
+    logGainOverTime( 0.5 );
+  };
+
+  // The following function sets up a repeating call to monitor the gain level.  Only one such monitoring process is
+  // allowed to be going at a time.
+  const gainLogTime = document.getElementById( 'gain-log-time' );
+  const gainLogGain = document.getElementById( 'gain-log-gain' );
+  let gainLoggingStartTime = Number.NEGATIVE_INFINITY;
+  let gainLoggingEndTime = Number.NEGATIVE_INFINITY;
+
+  function logGain() {
+    const now = Date.now();
+    const time = ( now - gainLoggingStartTime ) + ' ms';
+    const gain = '| gainNode.gain.value = ' + gainNode.gain.value;
+
+    gainLogTime.innerHTML = gainLogTime.innerHTML + time + '<br>';
+    gainLogGain.innerHTML = gainLogGain.innerHTML + gain + '<br>';
+
+    if ( now < gainLoggingEndTime ) {
+      window.requestAnimationFrame( logGain );
+    }
+  }
+
+  function logGainOverTime( duration ) {
+    gainLogTime.innerHTML = '';
+    gainLogGain.innerHTML = '';
+    gainLoggingStartTime = Date.now();
+    gainLoggingEndTime = gainLoggingStartTime + duration * 1000;
+    window.requestAnimationFrame( logGain );
+  }
+
+  //-------------------------------------------------------------------------------------------------------------------
+  // hook up listeners that will use setValueAtTime to set the gain value
+  //-------------------------------------------------------------------------------------------------------------------
+
+  function setGainValueNow( value ) {
+    logAction( 'calling setValueAtTime with value ' + value + ' using audioContext.currentTime' );
+    logGainOverTime( 0.5 );
+    gainNode.gain.setValueAtTime( value, audioContext.currentTime );
+  }
+
+  const setValueAtTimeTo1Button = document.getElementById( 'setValueAtTimeTo1' );
+  setValueAtTimeTo1Button.addEventListener( 'click', function() {
+    setGainValueNow( 1 );
+  } );
+
+  const setValueAtTimeTo0Button = document.getElementById( 'setValueAtTimeTo0' );
+  setValueAtTimeTo0Button.addEventListener( 'click', function() {
+    setGainValueNow( 0 );
+  } );
+
+  const setValueAtTimeValueTextBox = document.getElementById( 'setValueAtTimeValue' );
+  setValueAtTimeValueTextBox.value = '1.0'; // set initial value
+  const setValueAtTimeButton = document.getElementById( 'setValueAtTimeButton' );
+  setValueAtTimeButton.addEventListener( 'click', function() {
+    const value = parseFloat( setValueAtTimeValueTextBox.value );
+    setGainValueNow( value );
+  } );
+
+  //-------------------------------------------------------------------------------------------------------------------
+  // hook up listeners that will use setTargetAtTime to set the gain value
+  //-------------------------------------------------------------------------------------------------------------------
+
+  const setTargetAtTimeTCTextBox = document.getElementById( 'setTargetAtTimeTC' );
+  setTargetAtTimeTCTextBox.value = '0.05'; // set initial value
+
+  function setTargetNow( target ) {
+    const timeConstant = parseFloat( setTargetAtTimeTCTextBox.value );
+    logAction( 'calling setTargetAtTime with target = ' + target + ' and TC = ' + timeConstant );
+    logGainOverTime( 0.5 );
+    gainNode.gain.setTargetAtTime( target, audioContext.currentTime, timeConstant );
+  }
+
+  const setTargetAtTimeTo1Button = document.getElementById( 'setTargetAtTimeTo1' );
+  setTargetAtTimeTo1Button.addEventListener( 'click', function() {
+    setTargetNow( 1 );
+  } );
+
+  const setTargetAtTimeTo0Button = document.getElementById( 'setTargetAtTimeTo0' );
+  setTargetAtTimeTo0Button.addEventListener( 'click', function() {
+    setTargetNow( 0 );
+  } );
+
+  const setTargetAtTimeTargetTextBox = document.getElementById( 'setTargetAtTimeTarget' );
+  setTargetAtTimeTargetTextBox.value = '1.0'; // set initial value
+  const setTargetAtTimeButton = document.getElementById( 'setTargetAtTimeButton' );
+  setTargetAtTimeButton.addEventListener( 'click', function() {
+    const value = parseFloat( setTargetAtTimeTargetTextBox.value );
+    setTargetNow( value );
+  } );
+
+  //-------------------------------------------------------------------------------------------------------------------
+  // hook up listeners that will use linearRampToValueAtTime to set the gain value
+  //-------------------------------------------------------------------------------------------------------------------
+
+  const linearRampToValueAtTimeRampTimeTextBox = document.getElementById( 'linearRampToValueAtTimeRampTime' );
+  linearRampToValueAtTimeRampTimeTextBox.value = '0.5'; // set initial value
+
+  function linearRampToValue( value ) {
+    const rampTime = parseFloat( linearRampToValueAtTimeRampTimeTextBox.value );
+    logGainOverTime( 0.5 );
+    gainNode.gain.linearRampToValueAtTime( value, audioContext.currentTime + rampTime );
+    logAction( 'calling linearRampToValueAtTime with value = ' + value + ' and ramp time = ' + rampTime );
+  }
+
+  const linearRampToValueAtTimeTo1Button = document.getElementById( 'linearRampToValueAtTimeTo1' );
+  linearRampToValueAtTimeTo1Button.addEventListener( 'click', function() {
+    linearRampToValue( 1 );
+  } );
+
+  const linearRampToValueAtTimeTo0Button = document.getElementById( 'linearRampToValueAtTimeTo0' );
+  linearRampToValueAtTimeTo0Button.addEventListener( 'click', function() {
+    linearRampToValue( 0 );
+  } );
+
+  const linearRampToValueAtTimeTargetTextBox = document.getElementById( 'linearRampToValueAtTimeTarget' );
+  linearRampToValueAtTimeTargetTextBox.value = '1.0'; // set initial value
+  const linearRampToValueAtTimeButton = document.getElementById( 'linearRampToValueAtTimeButton' );
+  linearRampToValueAtTimeButton.addEventListener( 'click', function() {
+    const value = parseFloat( linearRampToValueAtTimeTargetTextBox.value );
+    linearRampToValue( value );
+  } );
+
+</script>
+</body>
+</html>

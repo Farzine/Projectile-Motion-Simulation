@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "השוואה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1651872099055,
+        "oldValue": "",
+        "newValue": "השוואה"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} פחות מ- {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1651872099055,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} פחות מ- {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} גדול מ- {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1651872099055,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} גדול מ- {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} שווה ל- {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1651872099055,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} שווה ל- {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "השוואת מספר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686391116861,
+        "oldValue": "",
+        "newValue": "השוואת מספר"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "השמעה אוטומטית של משפט המספר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686391116861,
+        "oldValue": "",
+        "newValue": "השמעה אוטומטית של משפט המספר"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "השמעה אוטומטית עדכנית של משפט המספר במהלך האינטראקציה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686391116861,
+        "oldValue": "",
+        "newValue": "השמעה אוטומטית עדכנית של משפט המספר במהלך האינטראקציה"
+      }
+    ]
+  }
+}

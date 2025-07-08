@@ -1,0 +1,348 @@
+{
+  "keepGoing": {
+    "value": "Teruskan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664214224022,
+        "oldValue": "",
+        "newValue": "Teruskan"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Tahap Baru",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664214224022,
+        "oldValue": "",
+        "newValue": "Tahap Baru"
+      }
+    ]
+  },
+  "score": {
+    "value": "Markah:",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "",
+        "newValue": "Markah:"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Markah: {{score}}",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "",
+        "newValue": "Markah: {{score}}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 964085,
+        "timestamp": 1664177473304,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 964085,
+        "timestamp": 1664177473304,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Rekod Terbaik: {0})",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "(Rekod Terbaik: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Memecah Rekod Terbaik!)",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "(Rekod Baru Terbaik!)",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623250688207,
+        "oldValue": "(Rekod Baru Terbaik!)",
+        "newValue": "(Memecah Rekod Terbaik!)"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Cabaran {0} daripada {1}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Cabaran {0} daripada {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Semak",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Semak",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Teruskan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Teruskan",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Terbaik!",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Terbaik!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Bagus!",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Bagus!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Tahniah!",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Tahniah!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Teruskan Mencuba",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Teruskan Mencuba",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Tahap {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Aras {0}",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623575129070,
+        "oldValue": "Aras {0}",
+        "newValue": "Tahap {0}"
+      }
+    ]
+  },
+  "next": {
+    "value": "Berikutnya",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Berikutnya",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Markah: {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Markah: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Markah: {0} daripada {1}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Markah: {0} daripada {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Pilih Tahap Anda",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Pilih Aras",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1624597053851,
+        "oldValue": "Pilih Aras",
+        "newValue": "Pilih Tahap Anda"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Papar Jawapan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Tunjuk Jawapan",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623575129070,
+        "oldValue": "Tunjuk Jawapan",
+        "newValue": "Pamerkan Jawapan"
+      },
+      {
+        "userId": 11360046,
+        "timestamp": 1743045646369,
+        "oldValue": "Pamerkan Jawapan",
+        "newValue": "Papar Jawapan",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Mula Semula",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Mula Semula",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Masa: {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Masa: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Cuba Lagi",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Cuba Lagi",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Sila pilih tahap anda!",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "",
+        "newValue": "Sila pilih tahap anda!"
+      }
+    ]
+  },
+  "done": {
+    "value": "Selesai",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "",
+        "newValue": "Selesai"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Semua tahap telah selesai!",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623232361627,
+        "oldValue": "",
+        "newValue": "Semua tahap telah selesai!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "pattern.0yourBest": {
+    "value": "(आपका सर्वोच्च अंक  : {0})",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "(आपका सर्वोच्च अंक  : {0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(आपका नया सर्वोच्च अंक !)",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "(आपका नया सर्वोच्च अंक !)"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "चुनौती : {1} में से {0}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "चुनौती : {1} में से {0}"
+      }
+    ]
+  },
+  "check": {
+    "value": "जांचे ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "जांचे "
+      }
+    ]
+  },
+  "continue": {
+    "value": "जारी रखिये ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "जारी रखिये "
+      }
+    ]
+  },
+  "excellent": {
+    "value": "अति उत्कृष्ट ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "अति उत्कृष्ट "
+      }
+    ]
+  },
+  "good": {
+    "value": "अच्छा !",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "अच्छा !"
+      }
+    ]
+  },
+  "great": {
+    "value": "शाबाश !",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "शाबाश !"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "कोशिश करते रहो ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "कोशिश करते रहो "
+      }
+    ]
+  },
+  "label.level": {
+    "value": "स्तर : {0}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "स्तर : {0}"
+      }
+    ]
+  },
+  "next": {
+    "value": "अगला",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "अगला "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1681660763797,
+        "oldValue": "अगला ",
+        "newValue": "अगला",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "प्राप्तांक : {0}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "प्राप्तांक : {0}"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "प्राप्तांक : {1} में से {0}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "प्राप्तांक : {1} में से {0}"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "उत्तर दिखाएँ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "उत्तर दिखाओ "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1672675781209,
+        "oldValue": "उत्तर दिखाओ ",
+        "newValue": "उत्तर दिखाएँ"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "प्रारंभ करें ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "प्रारंभ करें "
+      }
+    ]
+  },
+  "label.time": {
+    "value": "समय : {0}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "समय : {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "फिर कोशिश करें",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "फिर कोशिश करो "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1672675781209,
+        "oldValue": "फिर कोशिश करो ",
+        "newValue": "फिर कोशिश करें"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "अपना स्तर चुनें",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663954274450,
+        "oldValue": "",
+        "newValue": "अपना स्तर चुनें"
+      }
+    ]
+  },
+  "done": {
+    "value": "पूर्ण हुआ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "पूर्ण हुआ "
+      },
+      {
+        "userId": 543754,
+        "timestamp": 1681660763797,
+        "oldValue": "पूर्ण हुआ ",
+        "newValue": "पूर्ण हुआ",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "प्राप्तांक  :",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "प्राप्तांक  :"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "प्राप्तांक :{{score}}",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "प्राप्तांक :{{score}}"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "आपने सभी स्तर पूरे कर लिए !",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "आपने सभी स्तर पूरे कर लिए !"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "स्तर चुनें ",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "स्तर चुनें "
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "जारी रखें",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "जारी रखें "
+      },
+      {
+        "userId": 1085622,
+        "timestamp": 1738171099403,
+        "oldValue": "जारी रखें ",
+        "newValue": "जारी रखें",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "नया स्तर",
+    "history": [
+      {
+        "userId": 543754,
+        "timestamp": 1663822212211,
+        "oldValue": "",
+        "newValue": "नया स्तर "
+      },
+      {
+        "userId": 1085622,
+        "timestamp": 1738171099403,
+        "oldValue": "नया स्तर ",
+        "newValue": "नया स्तर",
+        "explanation": null
+      }
+    ]
+  }
+}

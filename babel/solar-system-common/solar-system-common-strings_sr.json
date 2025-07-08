@@ -1,0 +1,185 @@
+{
+  "units.years": {
+    "value": "година",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "година"
+      }
+    ]
+  },
+  "clear": {
+    "value": "На почетак",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "На почетак"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "АЈ",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "АЈ"
+      }
+    ]
+  },
+  "grid": {
+    "value": "мрежа",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "мрежа"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "мерна трака",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "мерна трака"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "сила гравитације",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "сила гравитације"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "вектор брзине",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "брзина"
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1684154771037,
+        "oldValue": "брзина",
+        "newValue": "вектор брзине",
+        "explanation": null
+      }
+    ]
+  },
+  "path": {
+    "value": "путања",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1670427652802,
+        "oldValue": "",
+        "newValue": "путања"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Неки вектори силе су премали за приказ.",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1684154771037,
+        "oldValue": "",
+        "newValue": "Неки вектори силе су премали за приказ."
+      }
+    ]
+  },
+  "speed": {
+    "value": "брзина (km/s)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1684154771037,
+        "oldValue": "",
+        "newValue": "брзина (km/s)"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1696776810854,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1696776810854,
+        "oldValue": "",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1696776810854,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1696776810854,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "увећање",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1696776810854,
+        "oldValue": "",
+        "newValue": "увећање"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1696776810854,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

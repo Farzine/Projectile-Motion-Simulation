@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Comparer",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1653030718481,
+        "oldValue": "",
+        "newValue": "Comparer"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} est plus petit que {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1653030718481,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} est plus petit que {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} est plus grand que {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1653030718481,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} est plus grand que {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} est égal à {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1653030718481,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} est égal à {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Comparaison de nombres",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1683028976890,
+        "oldValue": "",
+        "newValue": "Comparaison de nombres"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Entendre automatiquement la phrase numérique",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1683028976890,
+        "oldValue": "",
+        "newValue": "Entendre automatiquement la phrase numérique"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Écoutez la phrase numérique se mettre à jour automatiquement lorsque vous interagissez.",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1683028976890,
+        "oldValue": "",
+        "newValue": "Écoutez la phrase numérique se mettre à jour automatiquement lorsque vous interagissez."
+      }
+    ]
+  }
+}

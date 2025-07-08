@@ -1,0 +1,489 @@
+{
+  "pattern.0yourBest": {
+    "value": "(Váš nejlepší: {0})",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "(Váš nejlepší: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Váš nový nejlepší!)",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "(Váš nový nejlepší!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Výzva {0} z {1}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Výzva {0} z {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Zkontrolovat",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462892822508,
+        "oldValue": "",
+        "newValue": "Zkontrolovat",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Pokračovat",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Pokračovat",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Výborně!",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Výborně!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Dobře!",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Dobře!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Skvěle!",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Skvěle!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Nevzdávejte se",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Nevzdávejte se",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Kolo: {0}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Kolo: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Další",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462892822509,
+        "oldValue": "",
+        "newValue": "Další",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Skóre: {0}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Skóre: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Skóre: {0} z {1}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Skóre: {0} z {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Vybrat úroveň",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1650289909903,
+        "oldValue": "",
+        "newValue": "Vybrat úroveň"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Ukázat odpovědi",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462892822509,
+        "oldValue": "",
+        "newValue": "Ukázat odpovědi",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Pokračovat od začátku",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803792,
+        "oldValue": "",
+        "newValue": "Pokračovat od začátku",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Čas: {0}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Čas: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Zkusit znovu",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462892822509,
+        "oldValue": "",
+        "newValue": "Zkusit znovu",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Vyberte si úroveň!",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1599807569108,
+        "oldValue": "",
+        "newValue": "Vyberte si úroveň!",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Hotovo",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1599807569108,
+        "oldValue": "",
+        "newValue": "Hotovo",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "Skóre:",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1565966579596,
+        "oldValue": "",
+        "newValue": "Skóre:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Skóre: {{score}}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1565966579596,
+        "oldValue": "",
+        "newValue": "Skóre: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Dokončili jste všechny úrovně!",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1599807569108,
+        "oldValue": "",
+        "newValue": "Dokončili jste všechny úrovně!",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Nová úroveň",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1565966579596,
+        "oldValue": "",
+        "newValue": "Nová úroveň",
+        "explanation": null
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "Nová hra",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Nová hra",
+        "explanation": null
+      }
+    ]
+  },
+  "button.start": {
+    "value": "Start!",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Start!",
+        "explanation": null
+      }
+    ]
+  },
+  "format.time.best": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "label.best": {
+    "value": "Nejlepší: {0}",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Nejlepší: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "Kolo:",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Kolo:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "Nový rekord!",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Nový rekord!",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "Skóre: {0} z {1} (BEZ CHYB!)",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Skóre: {0} z {1} (BEZ CHYB!)",
+        "explanation": null
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "Nedokončili jste tuto hru.\r\nChcete opravdu začít novou  hru?",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Nedokončili jste tuto hru.\r\nChcete opravdu začít novou  hru?",
+        "explanation": null
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1462892822509,
+        "oldValue": "Nedokončili jste tuto hru.\r\nChcete opravdu začít novou  hru?",
+        "newValue": "Nedokončili jste tuto hru.\r\nChcete opravdu začít novou  hru?",
+        "explanation": null
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1463308292540,
+        "oldValue": "Nedokončili jste tuto hru.\r\nChcete opravdu začít novou  hru?",
+        "newValue": "Nedokončili jste tuto hru.\r\nChcete opravdu začít novou  hru?",
+        "explanation": null
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1565966579597,
+        "oldValue": "Nedokončili jste tuto hru.\r\\nChcete opravdu začít novou  hru?",
+        "newValue": "Nedokončili jste tuto hru.\r\nChcete opravdu začít novou  hru?",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "vypnuto",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "vypnuto",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "zapnuto",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "zapnuto",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "Konec hry",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Konec hry",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "Nastavení hry",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1462890803793,
+        "oldValue": "",
+        "newValue": "Nastavení hry",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Pokračovat",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1690818507471,
+        "oldValue": "",
+        "newValue": "Pokračovat"
+      }
+    ]
+  }
+}

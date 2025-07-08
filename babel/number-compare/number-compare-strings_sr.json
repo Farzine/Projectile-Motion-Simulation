@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Упореди",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1651696858127,
+        "oldValue": "",
+        "newValue": "Упореди"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} је мање од {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1651696858127,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} је мање од {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} је веће од {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1651696858128,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} је веће од {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} је једнако {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1651696858128,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} је једнако {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Упореди бројеве",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1681836627871,
+        "oldValue": "",
+        "newValue": "Упореди бројеве"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Аутоматски слушајте бројчану реченицу",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1681836627871,
+        "oldValue": "",
+        "newValue": "Аутоматски слушајте бројчану реченицу"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Слушајте аутоматски ажурирање  реченице док сте у интеракцији.",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1681836627871,
+        "oldValue": "",
+        "newValue": "Слушајте аутоматски ажурирање  реченице док сте у интеракцији."
+      }
+    ]
+  }
+}

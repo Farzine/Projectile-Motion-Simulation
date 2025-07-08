@@ -1,0 +1,478 @@
+{
+  "screen.intro": {
+    "value": "מבוא",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "מבוא"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "מעבדה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "מעבדה"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "עקבו אחרי מרכז מסה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "עקבו אחרי מרכז מסה"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "גופים",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "גופים"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "מידע אודות יחידות מידה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "הערות אודות יחידות מידה"
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "הערות אודות יחידות מידה",
+        "newValue": "מידע אודות יחידות מידה",
+        "explanation": null
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "נתונים נוספים",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "נתונים נוספים"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "שמש וכוכב לכת",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "שמש וכוכב לכת"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "שמש, כוכב לכת וירח",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "שמש, כוכב לכת וירח"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "שמש, כוכב לכת ושביט",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "שמש, כוכב לכת ושביט"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "אסטרואידים טרויאניים",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "אסטרואידים טרויאניים"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "מסלולים אליפטיים",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "מסלולים אליפטיים"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "מסלולים היפרבוליים",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "מסלולים היפרבוליים"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "סלינגשוט",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "סלינגשוט"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "סלינגשוט כפול",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "סלינגשוט כפול"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "כוכב כפול, כוכב לכת",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "כוכב כפול, כוכב לכת"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "ארבעה כוכבים",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "ארבעה כוכבים"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "פעמיים כוכב כפול",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "פעמיים כוכב כפול "
+      },
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "פעמיים כוכב כפול ",
+        "newValue": "פעמיים כוכב כפול",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "מותאם אישית",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "מותאם אישית"
+      }
+    ]
+  },
+  "mass": {
+    "value": "מסה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136280,
+        "oldValue": "",
+        "newValue": "מסה"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "מרכז המסה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136281,
+        "oldValue": "",
+        "newValue": "מרכז המסה"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136281,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136281,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} ל {{max}}",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136281,
+        "oldValue": "",
+        "newValue": "{{min}} ל {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "מערכת השמש שלי",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1670711136281,
+        "oldValue": "",
+        "newValue": "מערכת השמש שלי"
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Note 1:</b> An \nיחידה אסטרונומית (AU) שווה בערך 150 מיליון קילומטרים. זהו המרחק הממוצע בין השמש לבין כדור הארץ.",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "<b>Note 1:</b> An \nיחידה אסטרונומית (AU) שווה בערך 150 מיליון קילומטרים. זהו המרחק הממוצע בין השמש לבין כדור הארץ."
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Note 2:</b> ערכי המסה בסימולציה זו נעים בין ו מסת צדק לבין 1.5 מסת השמש. כל האובייקטים האסטרונומיים מראים התנהלות זהה בהשפעת כוח כבידה חזק, כולל פלנטות קטנות יותר, שביטים ואסטרואידים.",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "<b>Note 2:</b> ערכי המסה בסימולציה זו נעים בין ו מסת צדק לבין 1.5 מסת השמש. כל האובייקטים האסטרונומיים מראים התנהלות זהה בהשפעת כוח כבידה חזק, כולל פלנטות קטנות יותר, שביטים ואסטרואידים."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Note 3:</b>  \nהודות לטווח הגדול של הערכים בסימולציה, כוח כבידה יכול להיות לפעמים קטן מדי או גדול מדי להצגה. וקטורים של כוחות הכבידה יכולים להיות מוצגים בגודל שונה בעזרת שינוי בזום (התקרבות/התרחקות)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "<b>Note 3:</b>  \nהודות לטווח הגדול של הערכים בסימולציה, כוח כבידה יכול להיות לפעמים קטן מדי או גדול מדי להצגה. וקטורים של כוחות הכבידה יכולים להיות מוצגים בגודל שונה בעזרת שינוי בזום (התקרבות/התרחקות)"
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "החזר גופים",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "החזר גופים"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "מסה",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "מסה"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "מיקום",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "מיקום"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "מהירות",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "מהירות"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1684228046239,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "בחירת שיטת מסלולים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1728648314206,
+        "oldValue": "",
+        "newValue": "בחירת שיטת מסלולים"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "שיטת מסלולים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1728648314206,
+        "oldValue": "",
+        "newValue": "שיטת מסלולים"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "שיטות מסלולים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1728648314206,
+        "oldValue": "",
+        "newValue": "שיטות מסלולים"
+      }
+    ]
+  },
+  "mode.orbitalSystem1": {
+    "value": "מערכת מסלולים 1",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1728648314206,
+        "oldValue": "",
+        "newValue": "מערכת מסלולים 1"
+      }
+    ]
+  },
+  "mode.orbitalSystem2": {
+    "value": "מערכת מסלולים 2",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1728648314206,
+        "oldValue": "",
+        "newValue": "מערכת מסלולים 2"
+      }
+    ]
+  },
+  "mode.orbitalSystem3": {
+    "value": "מערכת מסלולים 3",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1728648314206,
+        "oldValue": "",
+        "newValue": "מערכת מסלולים 3"
+      }
+    ]
+  },
+  "mode.orbitalSystem4": {
+    "value": "מערכת מסלולים 4",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1728648314206,
+        "oldValue": "",
+        "newValue": "מערכת מסלולים 4"
+      }
+    ]
+  }
+}

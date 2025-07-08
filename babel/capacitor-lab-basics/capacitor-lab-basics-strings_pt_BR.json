@@ -1,0 +1,254 @@
+{
+  "capacitance": {
+    "value": "Capacitância",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Capacitância",
+        "explanation": null
+      }
+    ]
+  },
+  "picoCoulombsPattern": {
+    "value": "{{value}} pC",
+    "history": [
+      {
+        "userId": 937495,
+        "timestamp": 1664136593160,
+        "oldValue": "",
+        "newValue": "{{value}} pC"
+      }
+    ]
+  },
+  "picoFaradsPattern": {
+    "value": "{{value}} pF",
+    "history": [
+      {
+        "userId": 937495,
+        "timestamp": 1664136593160,
+        "oldValue": "",
+        "newValue": "{{value}} pF"
+      }
+    ]
+  },
+  "picoJoulesPattern": {
+    "value": "{{value}} pJ",
+    "history": [
+      {
+        "userId": 937495,
+        "timestamp": 1664136593160,
+        "oldValue": "",
+        "newValue": "{{value}} pJ"
+      }
+    ]
+  },
+  "storedEnergy": {
+    "value": "Energia Armazenada",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Energia Armazenada",
+        "explanation": null
+      }
+    ]
+  },
+  "topPlateCharge": {
+    "value": "Carga da Placa Superior",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Carga da Placa Superior",
+        "explanation": null
+      }
+    ]
+  },
+  "voltsPattern": {
+    "value": "{{value}} V",
+    "history": [
+      {
+        "userId": 937495,
+        "timestamp": 1664136593160,
+        "oldValue": "",
+        "newValue": "{{value}} V"
+      }
+    ]
+  },
+  "millimetersSquaredPattern": {
+    "value": "{{value}} mm<sup>2</sup>",
+    "history": [
+      {
+        "userId": 937495,
+        "timestamp": 1664136593160,
+        "oldValue": "",
+        "newValue": "{{value}} mm<sup>2</sup>"
+      }
+    ]
+  },
+  "plateArea": {
+    "value": "Área da Placa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Área da Placa",
+        "explanation": null
+      }
+    ]
+  },
+  "millimetersPattern": {
+    "value": "{{value}} mm",
+    "history": [
+      {
+        "userId": 937495,
+        "timestamp": 1664136593160,
+        "oldValue": "",
+        "newValue": "{{value}} mm"
+      }
+    ]
+  },
+  "separation": {
+    "value": "Separação",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Separação",
+        "explanation": null
+      }
+    ]
+  },
+  "barGraphs": {
+    "value": "Gráficos de Barras",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Gráficos de Barras",
+        "explanation": null
+      }
+    ]
+  },
+  "currentDirection": {
+    "value": "Direção da Corrente",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Direção Atual",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1720108322657,
+        "oldValue": "Direção Atual",
+        "newValue": "Direção da Corrente",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Campo Elétrico",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Campo Elétrico",
+        "explanation": null
+      }
+    ]
+  },
+  "plateCharges": {
+    "value": "Cargas na Placa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Cargas na Placa",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Tensão",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Tensão",
+        "explanation": null
+      }
+    ]
+  },
+  "volts.unknown": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 937495,
+        "timestamp": 1664136593160,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "screen.capacitance": {
+    "value": "Capacitância",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Capacitância",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lightBulb": {
+    "value": "Lâmpada",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Lâmpada",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitor-lab-basics.title": {
+    "value": "Laboratório do Capacitor: Básico",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": "Laboratório do Capacitor: Básico",
+        "explanation": null
+      }
+    ]
+  },
+  "barGraph": {
+    "value": " Gráfico de Barras  ",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1510777517665,
+        "oldValue": "",
+        "newValue": " Gráfico de Barras  ",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "absorbance": {
+    "value": "בליעה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "בליעה",
+        "explanation": null
+      }
+    ]
+  },
+  "beers-law-lab.title": {
+    "value": "מעבדת חוק בר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "מעבדת חוק בר",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltChloride": {
+    "value": "קובלט כלורי",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "קובלט כלורי",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltIINitrate": {
+    "value": "קובלט ניטראט",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520221,
+        "oldValue": "",
+        "newValue": "ניטראט (II) קובלט",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "ניטראט (II) קובלט",
+        "newValue": "קובלט (II) ניטראט",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "קובלט (II) ניטראט",
+        "newValue": "קובלט ניטראט",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "ריכוז",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "ריכוז",
+        "explanation": null
+      }
+    ]
+  },
+  "copperSulfate": {
+    "value": "נחושת גופרתית",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "נחושת גופרתית",
+        "explanation": null
+      }
+    ]
+  },
+  "drinkMix": {
+    "value": "תערובת שתייה",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "תערובת שתייה",
+        "explanation": null
+      }
+    ]
+  },
+  "evaporation": {
+    "value": "אידוי",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "אידוי",
+        "explanation": null
+      }
+    ]
+  },
+  "preset": {
+    "value": "קבוע",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "קבוע",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "הרבה",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "הרבה",
+        "explanation": null
+      }
+    ]
+  },
+  "nickelIIChloride": {
+    "value": "ניקל כלורי",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "כלורי (II) ניקל",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "כלורי (II) ניקל",
+        "newValue": "ניקל (II) כלורי",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "ניקל (II) כלורי",
+        "newValue": "ניקל כלורי",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "ללא",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "כלום",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465147119115,
+        "oldValue": "כלום",
+        "newValue": "ללא",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0formula.1name": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}:",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "{0}:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0percent": {
+    "value": "{0}%",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "{0}%",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.parentheses.0text": {
+    "value": "({0})",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChromate": {
+    "value": "אשלגן כרומט",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "אשלגן כרומט",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumDichromate": {
+    "value": "אשלגן די-כרומטי",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "אשלגן די כרומט",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "אשלגן די כרומט",
+        "newValue": "אשלגן די-כרומטי",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumPermanganate": {
+    "value": "אשלגן פרמנגנט",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "אשלגן פרמנגנט",
+        "explanation": null
+      }
+    ]
+  },
+  "removeSolute": {
+    "value": "הוצאת מומס",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "הוצא מומס",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465147119115,
+        "oldValue": "הוצא מומס",
+        "newValue": "הוצאת מומס",
+        "explanation": null
+      }
+    ]
+  },
+  "saturated": {
+    "value": "רוויה!",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "!רוויה",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "!רוויה",
+        "newValue": "רוויה!",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.beersLaw": {
+    "value": "חוק בר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "חוק בר",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.concentration": {
+    "value": "ריכוז",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520223,
+        "oldValue": "",
+        "newValue": "ריכוז",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "מוצק",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "מוצק",
+        "explanation": null
+      }
+    ]
+  },
+  "solute": {
+    "value": "מומס",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "מומס",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "תמיסה",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "תמיסה",
+        "explanation": null
+      }
+    ]
+  },
+  "transmittance": {
+    "value": "העברה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "העברה",
+        "explanation": null
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "ס\"מ",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "ס\"מ",
+        "explanation": null
+      },
+      {
+        "userId": 322219,
+        "timestamp": 1465147119116,
+        "oldValue": "ס\"מ",
+        "newValue": "ס",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "ס",
+        "newValue": "ס\"מ",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "ליטר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "ליטר",
+        "explanation": null
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "מילימולר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "מילימולר",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "מול/ליטר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "מול/ליטר",
+        "explanation": null
+      }
+    ]
+  },
+  "units.nm": {
+    "value": "ננומטר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "ננומטר",
+        "explanation": null
+      }
+    ]
+  },
+  "units.uM": {
+    "value": "מיקרומולר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "מיקרומולר",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "משתנה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "משתנה",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "מים",
+    "history": [
+      {
+        "userId": 154968,
+        "timestamp": 1442512520224,
+        "oldValue": "",
+        "newValue": "מים",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "אורך גל",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465145238411,
+        "oldValue": "",
+        "newValue": "אורך גל",
+        "explanation": null
+      }
+    ]
+  },
+  "showSolutionVolume": {
+    "value": "הצג נפח תמיסה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": "הצג נפח תמיסה"
+      }
+    ]
+  },
+  "showSoluteAmount": {
+    "value": "הצג כמות מומסת",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": "הצג כמות מומסת"
+      }
+    ]
+  },
+  "sodiumChloride": {
+    "value": "נתרן כלורי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": "נתרן כלורי"
+      }
+    ]
+  },
+  "units.milliliters": {
+    "value": "מ\"ל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": "מ\"ל"
+      }
+    ]
+  },
+  "pattern.0soluteAmount": {
+    "value": "כמות תמיסה: {0} גרם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": "כמות תמיסה: {0} גרם"
+      }
+    ]
+  },
+  "beakerUnits": {
+    "value": ":יחידות נפח הכלי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": ":יחידות נפח הכלי"
+      }
+    ]
+  },
+  "concentrationMeterUnits": {
+    "value": ":יחידות ריכוז מוצגות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": ":יחידות ריכוז מוצגות"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "%",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686345092455,
+        "oldValue": "",
+        "newValue": "%"
+      }
+    ]
+  }
+}

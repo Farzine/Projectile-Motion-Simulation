@@ -1,0 +1,342 @@
+{
+  "keepGoing": {
+    "value": "繼續努力",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1664432682456,
+        "oldValue": "",
+        "newValue": "繼續努力"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "新關卡",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1664432682456,
+        "oldValue": "",
+        "newValue": "新關卡"
+      }
+    ]
+  },
+  "score": {
+    "value": "得分:",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "分數:"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664431080936,
+        "oldValue": "分數:",
+        "newValue": "得分:"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "得分: {{score}}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "分數:{{score}}"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664431080936,
+        "oldValue": "分數:{{score}}",
+        "newValue": "得分: {{score}}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(你的最佳成績: {0} 分)",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "(你的最佳成績: {0})"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664430190407,
+        "oldValue": "(你的最佳成績: {0})",
+        "newValue": "(你的最佳成績: {0} 分)"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(你的最佳成績!)",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "(你的最佳成績!)"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "第 {0} 關 / 共 {1} 關",
+    "history": [
+      {
+        "userId": 975083,
+        "timestamp": 1664283487460,
+        "oldValue": "",
+        "newValue": "挑戰 {0} of {1}"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664431080936,
+        "oldValue": "挑戰 {0} of {1}",
+        "newValue": "第 {0} 關 / 共 {1} 關"
+      }
+    ]
+  },
+  "check": {
+    "value": "核對",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "核對"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "選擇你的程度",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "選擇你的關卡"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1663829302381,
+        "oldValue": "選擇你的關卡",
+        "newValue": "選擇你的等級"
+      },
+      {
+        "userId": 975083,
+        "timestamp": 1664288114242,
+        "oldValue": "選擇你的等級",
+        "newValue": "選擇你的程度"
+      }
+    ]
+  },
+  "continue": {
+    "value": "繼續",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "繼續"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "非常好!",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "非常好!"
+      }
+    ]
+  },
+  "good": {
+    "value": "好!",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "好!"
+      }
+    ]
+  },
+  "great": {
+    "value": "很好!",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "很好!"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "繼續嘗試",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "繼續嘗試"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "第 {0} 關",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "等級:{0}"
+      },
+      {
+        "userId": 975083,
+        "timestamp": 1664288114242,
+        "oldValue": "等級:{0}",
+        "newValue": "程度:{0}"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664431080936,
+        "oldValue": "程度:{0}",
+        "newValue": "第 {0} 關"
+      }
+    ]
+  },
+  "next": {
+    "value": "下一步",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "下一步"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "分數:{1}分之中的{0}分",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "分數:{1}分之中的{0}分"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "顯示答案",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "顯示答案"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "重新開始",
+    "history": [
+      {
+        "userId": 975083,
+        "timestamp": 1664283487460,
+        "oldValue": "",
+        "newValue": "從新開始"
+      },
+      {
+        "userId": 1091901,
+        "timestamp": 1664431080936,
+        "oldValue": "從新開始",
+        "newValue": "重新開始"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "時間:{0}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "時間:{0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "重新嘗試",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "重新嘗試"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "分數:{0}",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663833467660,
+        "oldValue": "",
+        "newValue": "分數:{0}"
+      }
+    ]
+  },
+  "done": {
+    "value": "完成",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "完成"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "你已完成所有關卡!",
+    "history": [
+      {
+        "userId": 1091901,
+        "timestamp": 1663828936283,
+        "oldValue": "",
+        "newValue": "你已完成所有關卡!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Харьцуул",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1672994797622,
+        "oldValue": "",
+        "newValue": "Харьцуул"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} бол {{greaterNumber}}-ээс бага",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1672994797622,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} бол {{greaterNumber}}-ээс бага"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} бол {{smallerNumber}}-ээс их",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1672994797622,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} бол {{smallerNumber}}-ээс их"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} бол {{equalNumberRight}}-тай тэнцүү",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1672994797622,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} бол {{equalNumberRight}}-тай тэнцүү"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Тоог харьцуул",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1726558027930,
+        "oldValue": "",
+        "newValue": "Тоог харьцуул"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Тоон өгүүлбэрийг автоматаар сонсох",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1726558027930,
+        "oldValue": "",
+        "newValue": "Тоон өгүүлбэрийг автоматаар сонсох"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Таныг харилцах үед тоон өгүүлбэр автоматаар шинэчлэгдэхийг сонсоорой.",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1726558027930,
+        "oldValue": "",
+        "newValue": "Таныг харилцах үед тоон өгүүлбэр автоматаар шинэчлэгдэхийг сонсоорой."
+      }
+    ]
+  }
+}

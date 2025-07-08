@@ -1,0 +1,339 @@
+{
+  "area": {
+    "value": "Pole powierzchni",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Pole powierzchni",
+        "explanation": null
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Obliczenia z modelem pola",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Obliczenia z modelem pola",
+        "explanation": null
+      }
+    ]
+  },
+  "calculation": {
+    "value": "Obliczenia",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Obliczenia",
+        "explanation": null
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Wymiary",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Wymiary",
+        "explanation": null
+      }
+    ]
+  },
+  "enter": {
+    "value": "Wprowadź",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Zapisz",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892118,
+        "oldValue": "Zapisz",
+        "newValue": "Wprowadź",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Badaj",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Badanie",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892118,
+        "oldValue": "Badanie",
+        "newValue": "Badaj",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "factors": {
+    "value": "Czynniki",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Czynniki",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Znajdź iloczyny częściowe i długości boków.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Znajdź iloczyn cząstkowy i długość boku.",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892118,
+        "oldValue": "Znajdź iloczyn cząstkowy i długość boku.",
+        "newValue": "Znajdź iloczyny częściowe i długości boków.",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Znajdź iloczyny częściowe i całkowite pole.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Znajdź iloczyn cząstkowy i całkowitą powierzchnię.",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892118,
+        "oldValue": "Znajdź iloczyn cząstkowy i całkowitą powierzchnię.",
+        "newValue": "Znajdź iloczyny częściowe i całkowite pole.",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Znajdź iloczyny częściowe.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Znajdź iloczyn cząstkowy.",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892118,
+        "oldValue": "Znajdź iloczyn cząstkowy.",
+        "newValue": "Znajdź iloczyny częściowe.",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Znajdź iloczyny częściowe.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Znajdź iloczyny cząstkowe. ",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1677880892118,
+        "oldValue": "Znajdź iloczyny cząstkowe. ",
+        "newValue": "Znajdź iloczyny częściowe.",
+        "explanation": "Changed by a script. Part of https://github.com/phetsims/rosetta/issues/380."
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Znajdź długości boków.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Znajdź długości boków.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Znajdź długości boków.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Znajdź długości boków.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Znajdź całkowite pole powierzchni.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Znajdź całkowite pole powierzchni.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Gra",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Gra",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Ogólnie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "",
+        "newValue": "Ogólnie",
+        "explanation": null
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Iloczyny cząstkowe",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Iloczyny cząstkowe",
+        "explanation": null
+      }
+    ]
+  },
+  "partition": {
+    "value": "Podział",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Podział",
+        "explanation": null
+      }
+    ]
+  },
+  "product": {
+    "value": "Iloczyn",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Iloczyn",
+        "explanation": null
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Całkowite pole powierzchni",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133595,
+        "oldValue": "",
+        "newValue": "Całkowite pole powierzchni modelu",
+        "explanation": null
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1524689240893,
+        "oldValue": "Całkowite pole powierzchni modelu",
+        "newValue": "Całkowite pole powierzchni",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Zmienne",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524690608611,
+        "oldValue": "",
+        "newValue": "Zmienne",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Ułamki dziesiętne",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524689601026,
+        "oldValue": "",
+        "newValue": "Ułamki dziesiętne",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Mnożenie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Mnożenie",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Podział",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1524685133594,
+        "oldValue": "",
+        "newValue": "Podział",
+        "explanation": null
+      }
+    ]
+  }
+}

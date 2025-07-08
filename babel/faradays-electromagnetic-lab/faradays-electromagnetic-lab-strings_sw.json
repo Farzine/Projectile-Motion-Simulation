@@ -1,0 +1,629 @@
+{
+  "screen.pickupCoil": {
+    "value": "Koil ya Kunyanyua",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "Koil ya Kunyanyua"
+      }
+    ]
+  },
+  "screen.barMagnet": {
+    "value": "SUMAKU MCHE",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "SUMAKU MCHE"
+      }
+    ]
+  },
+  "screen.electromagnet": {
+    "value": "SUMAKU UMEME",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "SUMAKU UMEME"
+      }
+    ]
+  },
+  "screen.transformer": {
+    "value": "KIGEUZE",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KIGEUZE"
+      }
+    ]
+  },
+  "screen.generator": {
+    "value": "Jenereta",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "JENERETA"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737687325344,
+        "oldValue": "JENERETA",
+        "newValue": "Jenereta",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.N": {
+    "value": "N",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KAS"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737618441250,
+        "oldValue": "KAS",
+        "newValue": "N",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.S": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KUS"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737618441250,
+        "oldValue": "KUS",
+        "newValue": "S",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "batteryVoltage": {
+    "value": "Volteji ya Betri:",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "VOLTEJI YA BETRI"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737625990449,
+        "oldValue": "VOLTEJI YA BETRI",
+        "newValue": "VOLTEJI YA BETRI:",
+        "explanation": null
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737687325344,
+        "oldValue": "VOLTEJI YA BETRI:",
+        "newValue": "Volteji ya Betri:",
+        "explanation": null
+      }
+    ]
+  },
+  "dcPowerSupply": {
+    "value": "Kisambaza Nguvu DC",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KISAMBAZA NGUVU DC"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737687325344,
+        "oldValue": "KISAMBAZA NGUVU DC",
+        "newValue": "Kisambaza Nguvu DC",
+        "explanation": null
+      }
+    ]
+  },
+  "addEarthCheckbox": {
+    "value": "Ongeza \"Dunia\" Kisanduku Cha Kuteua",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "ONGEZA \"DUNIA\" KISANDUKU CHA KUTEUA"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737687325344,
+        "oldValue": "ONGEZA \"DUNIA\" KISANDUKU CHA KUTEUA",
+        "newValue": "Ongeza \"Dunia\" Kisanduku Cha Kuteua",
+        "explanation": null
+      }
+    ]
+  },
+  "addEarthCheckboxDescription": {
+    "value": "ONGEZA \"DUNIA\" KISANDUKU CHA KUTEUA KWENYE VIWAMBO IWAPO VINAHUSIANA",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "ONGEZA \"DUNIA\" KISANDUKU CHA KUTEUA KWENYE VIWAMBO IWAPO VINAHUSIANA"
+      }
+    ]
+  },
+  "magneticUnits": {
+    "value": "KIPIMIO CHA SUMAKU",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KIPIMIO CHA SUMAKU"
+      }
+    ]
+  },
+  "gaussPreference": {
+    "value": "G (gausi)",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "G (gausi)"
+      }
+    ]
+  },
+  "teslaPreference": {
+    "value": "T ( tesla)",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "T ( tesla)"
+      }
+    ]
+  },
+  "earthHemisphere": {
+    "value": "HEMISPHIA YA DUNIA",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "HEMISPHIA YA DUNIA"
+      }
+    ]
+  },
+  "currentFlow": {
+    "value": "MTIRIRIKO WA MKONDO UMEME",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "MTIRIRIKO WA MKONDO UMEME"
+      }
+    ]
+  },
+  "electronPreference": {
+    "value": "ELEKTRONI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "ELEKTRONI"
+      }
+    ]
+  },
+  "conventionalPreference": {
+    "value": "MKONDO MNYUKO",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "MKONDO MNYUKO"
+      }
+    ]
+  },
+  "acPowerSupply": {
+    "value": "KISAMBAZA NGUVU AC",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KISAMBAZA NGUVU AC"
+      }
+    ]
+  },
+  "voltage": {
+    "value": "VOLTEJI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "VOLTEJI"
+      }
+    ]
+  },
+  "pickupCoil": {
+    "value": "KIIUA KOILI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KIIUA KOILI"
+      }
+    ]
+  },
+  "barMagnet": {
+    "value": "SUMAKU MCHE",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "SUMAKU MCHE"
+      }
+    ]
+  },
+  "magneticField": {
+    "value": "UGASUMAKU (B)",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "UGASUMAKU"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737625990449,
+        "oldValue": "UGASUMAKU",
+        "newValue": "UGASUMAKU (B)",
+        "explanation": null
+      }
+    ]
+  },
+  "seeInside": {
+    "value": "TAZAMA NDANI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "TAZAMA NDANI"
+      }
+    ]
+  },
+  "earth": {
+    "value": "DUNIA",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "DUNIA"
+      }
+    ]
+  },
+  "flipPolarity": {
+    "value": "GEUZA JINSINCHA",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "GEUZA JINSINCHA"
+      }
+    ]
+  },
+  "flipEarth": {
+    "value": "GEUZA DUNIA",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "GEUZA DUNIA"
+      }
+    ]
+  },
+  "symbol.B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "units.G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "G"
+      }
+    ]
+  },
+  "units.T": {
+    "value": "T",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "T"
+      }
+    ]
+  },
+  "pattern.almostValueUnits": {
+    "value": "~ {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "~ {{value}} {{units}}"
+      }
+    ]
+  },
+  "pattern.valueDegrees": {
+    "value": "{{value}}°",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "{{value}}°"
+      }
+    ]
+  },
+  "electromagnet": {
+    "value": "SUMAKU UMEME",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "SUMAKU UMEME"
+      }
+    ]
+  },
+  "pattern.valuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "lockToAxis": {
+    "value": "SHIKILIA KWENYEMUHIMILI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "SHIKILIA KWENYEMUHIMILI"
+      }
+    ]
+  },
+  "compass": {
+    "value": "BIKARI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "BIKARI"
+      }
+    ]
+  },
+  "fieldMeter": {
+    "value": "KIPIMA UGA",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KIPIMA UGA"
+      }
+    ]
+  },
+  "loopArea": {
+    "value": "ENEO FUNGE",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "ENEO FUNGE"
+      }
+    ]
+  },
+  "loops": {
+    "value": "FUNGE:",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "FUNGE"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737625990449,
+        "oldValue": "FUNGE",
+        "newValue": "FUNGE:",
+        "explanation": null
+      }
+    ]
+  },
+  "indicator": {
+    "value": "KIASHIRIA",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "KIASHIRIA"
+      }
+    ]
+  },
+  "electrons": {
+    "value": "ELEKTRONI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "ELEKTRONI"
+      }
+    ]
+  },
+  "conventionalCurrent": {
+    "value": "MKONDO MNYUKO",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "MKONDO MNYUKO"
+      }
+    ]
+  },
+  "strength": {
+    "value": "NGUVU:",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "NGUVU"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737625990449,
+        "oldValue": "NGUVU",
+        "newValue": "NGUVU:",
+        "explanation": null
+      }
+    ]
+  },
+  "currentSource": {
+    "value": "MKONDO WA UMEME<br>CHANZO",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "MKONDO WA UMEME<br>CHANZO"
+      }
+    ]
+  },
+  "units.RPM": {
+    "value": "RPM",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "MZUNGUKO KWA DAKIKA"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1737625990449,
+        "oldValue": "MZUNGUKO KWA DAKIKA",
+        "newValue": "RPM",
+        "explanation": null
+      }
+    ]
+  },
+  "faradays-electromagnetic-lab.title": {
+    "value": "MAABARA SUMAKU UMEME YA FARADEI",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1722585741929,
+        "oldValue": "",
+        "newValue": "MAABARA SUMAKU UMEME YA FARADEI"
+      }
+    ]
+  }
+}

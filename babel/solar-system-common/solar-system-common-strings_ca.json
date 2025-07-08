@@ -1,0 +1,206 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "anys",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "anys"
+      }
+    ]
+  },
+  "clear": {
+    "value": "Neteja",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "Netejar"
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1684213829751,
+        "oldValue": "Netejar",
+        "newValue": "Neteja",
+        "explanation": null
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "UA",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "UA"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "|v| = {{value}} {{units}}"
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1684213829751,
+        "oldValue": "|v| = {{value}} {{units}}",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "Graella",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "Graella"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Cinta mètrica",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "Cinta Mètrica"
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1684213829751,
+        "oldValue": "Cinta Mètrica",
+        "newValue": "Cinta mètrica",
+        "explanation": null
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Força gravitatòria",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "Força Gravitatòria"
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1684213829751,
+        "oldValue": "Força Gravitatòria",
+        "newValue": "Força gravitatòria",
+        "explanation": null
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Velocitat",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "Velocitat"
+      }
+    ]
+  },
+  "path": {
+    "value": "Trajectòria",
+    "history": [
+      {
+        "userId": 505044,
+        "timestamp": 1670787392530,
+        "oldValue": "",
+        "newValue": "Trajectòria"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Alguns vectors de força són massa petits per mostrar-se.",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1684213829751,
+        "oldValue": "",
+        "newValue": "Alguns vectors de força són massa petits per mostrar-se."
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Zoom:",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1684213829751,
+        "oldValue": "",
+        "newValue": "Zoom:"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Velocitat (km/s)",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1684213829751,
+        "oldValue": "",
+        "newValue": "Velocitat (km/s)"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1696759319029,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

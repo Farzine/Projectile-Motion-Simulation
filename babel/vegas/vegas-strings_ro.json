@@ -1,0 +1,430 @@
+{
+  "chooseYourLevel": {
+    "value": "Alege nivelul!",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1624711975282,
+        "oldValue": "",
+        "newValue": "Alege nivelul!"
+      }
+    ]
+  },
+  "done": {
+    "value": "Final",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649514922240,
+        "oldValue": "",
+        "newValue": "Gata"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681492758052,
+        "oldValue": "Gata",
+        "newValue": "Final",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Următorul",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Urmator",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Urmator",
+        "newValue": "Următor",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624471729805,
+        "oldValue": "Următor",
+        "newValue": "Următorul"
+      }
+    ]
+  },
+  "score": {
+    "value": "Scor:",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "",
+        "newValue": "Scor:"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Scor: {{score}}",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "",
+        "newValue": "Scor: {{score}}"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Ai terminat toate nivelele!",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649514922240,
+        "oldValue": "",
+        "newValue": "Ai terminat toate nivelele!"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Continuă",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "Continuă"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Nivel nou",
+    "history": [
+      {
+        "userId": 955557,
+        "timestamp": 1649512715309,
+        "oldValue": "",
+        "newValue": "Nivel nou"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Record personal: {0})",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "(Punctajul: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975282,
+        "oldValue": "(Punctajul: {0})",
+        "newValue": "(Cel mai bun punctaj: {0})"
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1633170303917,
+        "oldValue": "(Cel mai bun punctaj: {0})",
+        "newValue": "(Record personal: {0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Nou record personal!)",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "(Cel mai bun punctaj!)",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975282,
+        "oldValue": "(Cel mai bun punctaj!)",
+        "newValue": "(Nou record personal!)"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Întrebarea {0} din {1}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Incercarea {0} din {1}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Incercarea {0} din {1}",
+        "newValue": "Întrebarea {0} din {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Continuă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Continua",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Continua",
+        "newValue": "Continuă",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Excelent!",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Excelent",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "Excelent",
+        "newValue": "Excelent!"
+      }
+    ]
+  },
+  "good": {
+    "value": "Bine!",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Foarte bine!",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "Foarte bine!",
+        "newValue": "Bine!"
+      }
+    ]
+  },
+  "great": {
+    "value": "Grozav!",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Minunat!",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "Minunat!",
+        "newValue": "Grozav!"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Mai încearcă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Mai incearca",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Mai incearca",
+        "newValue": "Mai încearcă",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Nivelul: {0}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Nivelul: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Scor: {0} din {1}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Scor: {0} din {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "De la început",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Reporneste",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Reporneste",
+        "newValue": "Repornește",
+        "explanation": null
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1624711975283,
+        "oldValue": "Repornește",
+        "newValue": "De la început"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Cronometru: {0}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Cronometru: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Verifică",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Verifica",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Verifica",
+        "newValue": "Verifică",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Arată răspunsul",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Arata raspunsul",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Arata raspunsul",
+        "newValue": "Arată răspunsul",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Încearcă din nou",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Incearca din nou",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1608272026943,
+        "oldValue": "Incearca din nou",
+        "newValue": "Încearcă din nou",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Scor: {0}",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Scor: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Selecteaza nivelul",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1473922296084,
+        "oldValue": "",
+        "newValue": "Selecteaza nivelul",
+        "explanation": null
+      }
+    ]
+  }
+}

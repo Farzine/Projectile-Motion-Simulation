@@ -1,0 +1,720 @@
+{
+  "springStrength": {
+    "value": "Raztezek vzmeti {{spring}}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1556452223753,
+        "oldValue": "",
+        "newValue": "Raztezek vzmeti {{spring}}",
+        "explanation": null
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Smer in velikost pospeška",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Pospešek",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1538336250954,
+        "oldValue": "Pospešek",
+        "newValue": "Smer in velikost pospeška",
+        "explanation": null
+      }
+    ]
+  },
+  "cm": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "body.custom": {
+    "value": "Poljubno telo",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Poljubno telo",
+        "explanation": null
+      }
+    ]
+  },
+  "damping": {
+    "value": "Dušenje",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Dušenje",
+        "explanation": null
+      }
+    ]
+  },
+  "dampingEqualsZero": {
+    "value": "Dušenje {{equalsZero}}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Dušenje {{equalsZero}}",
+        "explanation": null
+      }
+    ]
+  },
+  "displacement": {
+    "value": "Raztezek vzmeti",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Zamenjava",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1538336250953,
+        "oldValue": "Zamenjava",
+        "newValue": "Raztezek vzmeti",
+        "explanation": null
+      }
+    ]
+  },
+  "eTherm": {
+    "value": "Q<sub>toplota</sub>",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Q<sub>toplota</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "eTot": {
+    "value": "W<sub>skupna</sub>",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "W<sub>skupna</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "body.earth": {
+    "value": "Zemlja",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Zemlja",
+        "explanation": null
+      }
+    ]
+  },
+  "elasticPotentialEnergy": {
+    "value": "Prožnostna energija",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Prožnostna energija",
+        "explanation": null
+      }
+    ]
+  },
+  "energyGraph": {
+    "value": "Graf energij",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Graf energij",
+        "explanation": null
+      }
+    ]
+  },
+  "energyLegend": {
+    "value": "Legenda energij",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Legenda energij",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Sile",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Sile",
+        "explanation": null
+      }
+    ]
+  },
+  "gravitationalPotentialEnergy": {
+    "value": "Potencialna energija",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Potencialna energija",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Teža (sila gravitacije)",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Teža (sila gravitacije)",
+        "explanation": null
+      }
+    ]
+  },
+  "heightEqualsZero": {
+    "value": "Višina = 0 m",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Višina = 0 m",
+        "explanation": null
+      }
+    ]
+  },
+  "ke": {
+    "value": "W<sub>k</sub>",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "W<sub>p</sub>",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1538336250953,
+        "oldValue": "W<sub>p</sub>",
+        "newValue": "W<sub>k</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Kinetiča energija",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Kinetiča energija",
+        "explanation": null
+      }
+    ]
+  },
+  "large": {
+    "value": "velik",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "velik",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Veliko",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Veliko",
+        "explanation": null
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Masa",
+        "explanation": null
+      }
+    ]
+  },
+  "massEquilibrium": {
+    "value": "Težišče",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Težišče",
+        "explanation": null
+      }
+    ]
+  },
+  "body.moon": {
+    "value": "Luna",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Luna",
+        "explanation": null
+      }
+    ]
+  },
+  "movableLine": {
+    "value": "premična oznaka",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Premična oznaka",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1556452223753,
+        "oldValue": "Premična oznaka",
+        "newValue": "premična oznaka",
+        "explanation": null
+      }
+    ]
+  },
+  "naturalLength": {
+    "value": "Oznaka za dolžino ne-raztegnjene vzmeti",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Oznaka za dolžino ne-raztegnjene vzmeti",
+        "explanation": null
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Smer in velikost rezultante",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Rezultanta",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1538336250954,
+        "oldValue": "Rezultanta",
+        "newValue": "Smer in velikost rezultante",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Nič",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Nič",
+        "explanation": null
+      }
+    ]
+  },
+  "peElas": {
+    "value": "W<sub>prožnostna</sub>",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "W<sub>prožnostna</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "peGrav": {
+    "value": "W<sub>p</sub>",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "W<sub>p</sub>",
+        "explanation": null
+      }
+    ]
+  },
+  "periodTrace": {
+    "value": "Tir",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Tir",
+        "explanation": null
+      }
+    ]
+  },
+  "small": {
+    "value": "majhen",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "majhen",
+        "explanation": null
+      }
+    ]
+  },
+  "spring": {
+    "value": "Sila uteži na vzmet",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Vzmeti",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1538336250954,
+        "oldValue": "Vzmeti",
+        "newValue": "Sila uteži na vzmet",
+        "explanation": null
+      }
+    ]
+  },
+  "springConstantPattern": {
+    "value": "Razteznostni koeficient vzmeti{{spring}}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1556452223753,
+        "oldValue": "",
+        "newValue": "Razteznostni koeficient vzmeti{{spring}}",
+        "explanation": null
+      }
+    ]
+  },
+  "thermalEnergy": {
+    "value": "Toplota",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Toplota",
+        "explanation": null
+      }
+    ]
+  },
+  "totalEnergy": {
+    "value": "Skupna energija",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Skupna energija",
+        "explanation": null
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Smer in velikost hitrosti",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Hitrost",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1538336250954,
+        "oldValue": "Hitrost",
+        "newValue": "Smer in velikost hitrosti",
+        "explanation": null
+      }
+    ]
+  },
+  "whatIsTheValueOfGravity": {
+    "value": "Kolikšna je teža?",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Kolikšna je teža? ",
+        "explanation": null
+      },
+      {
+        "userId": 157571,
+        "timestamp": 1726612775869,
+        "oldValue": "Kolikšna je teža? ",
+        "newValue": "Kolikšna je teža?",
+        "explanation": null
+      }
+    ]
+  },
+  "springConstant": {
+    "value": "Koeficient vzmeti {{spring}}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Koeficient vzmeti {{spring}}",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Energija",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Energija",
+        "explanation": null
+      }
+    ]
+  },
+  "thickness": {
+    "value": " Debelina žice v vzmeti",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Debelina",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1538336250954,
+        "oldValue": "Debelina",
+        "newValue": " Debelina žice v vzmeti",
+        "explanation": null
+      }
+    ]
+  },
+  "equilibriumPosition": {
+    "value": "Mesto skupnega težišča vzmeti in uteži",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Mesto skupnega težišča vzmeti in uteži",
+        "explanation": null
+      }
+    ]
+  },
+  "constantParameter": {
+    "value": "Konstanta",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Konstanta",
+        "explanation": null
+      }
+    ]
+  },
+  "length": {
+    "value": "Dolžina vzmeti {{spring}}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Dolžina vzmeti {{spring}}",
+        "explanation": null
+      }
+    ]
+  },
+  "long": {
+    "value": "Dolga",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Dolga",
+        "explanation": null
+      }
+    ]
+  },
+  "short": {
+    "value": "Kratka",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Kratka",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Uvod",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Uvod",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Poskus",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Poskus",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.vectors": {
+    "value": "Vektorji",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Vektorji",
+        "explanation": null
+      }
+    ]
+  },
+  "masses-and-springs.title": {
+    "value": "Uteži in vzmeti",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1538335334511,
+        "oldValue": "",
+        "newValue": "Uteži in vzmeti",
+        "explanation": null
+      }
+    ]
+  },
+  "body.jupiter": {
+    "value": "Jupiter",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726612775869,
+        "oldValue": "",
+        "newValue": "Jupiter"
+      }
+    ]
+  },
+  "body.planetX": {
+    "value": "Planet X",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726612775869,
+        "oldValue": "",
+        "newValue": "Planet X"
+      }
+    ]
+  },
+  "gravityValue": {
+    "value": "{{gravity}} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726612775869,
+        "oldValue": "",
+        "newValue": "{{gravity}} m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "massValue": {
+    "value": "{{mass}} g",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726612775869,
+        "oldValue": "",
+        "newValue": "{{mass}} g"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726612775869,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  }
+}

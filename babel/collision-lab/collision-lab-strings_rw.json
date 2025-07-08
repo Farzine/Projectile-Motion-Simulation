@@ -1,0 +1,703 @@
+{
+  "collision-lab.title": {
+    "value": "Laboratwari yo kugongana",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "kugongana kwa laboratoire"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "kugongana kwa laboratoire",
+        "newValue": "Laboratwari yo kugongana"
+      }
+    ]
+  },
+  "pattern.vectorSymbolEqualsValueSpaceUnits": {
+    "value": "{{symbol}} = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{symbol}} = {{value}} {{units}}"
+      }
+    ]
+  },
+  "symbol.velocity": {
+    "value": "v",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "umuvuduko"
+      },
+      {
+        "userId": 1063057,
+        "timestamp": 1653476701526,
+        "oldValue": "umuvuduko",
+        "newValue": "v"
+      }
+    ]
+  },
+  "units.metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "metero mwisegonda rimwe"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "metero mwisegonda rimwe",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "symbol.momentum": {
+    "value": "p",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "momentamu"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "momentamu",
+        "newValue": "p"
+      }
+    ]
+  },
+  "units.kilogramMetersPerSecond": {
+    "value": "kg m/s",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "kilogarama metero mwisegonda rimwe"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "kilogarama metero mwisegonda rimwe",
+        "newValue": "kg m/s"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}}"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Uburemere",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Uburemere(ubwinshi bw'ikintu)"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Uburemere(ubwinshi bw'ikintu)",
+        "newValue": "Uburemere"
+      }
+    ]
+  },
+  "units.kilograms": {
+    "value": "kg",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "kilogarama"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "kilogarama",
+        "newValue": "kg"
+      }
+    ]
+  },
+  "momentum": {
+    "value": "Momentamu",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "momentamu"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "momentamu",
+        "newValue": "Momentamu"
+      }
+    ]
+  },
+  "position": {
+    "value": "Intera",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Aho ikintu kiri"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Aho ikintu kiri",
+        "newValue": "Intera"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Metero"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Metero",
+        "newValue": "m"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Umuvuduko",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Umuvuduko"
+      }
+    ]
+  },
+  "pattern.symbolSubSymbol": {
+    "value": "{{symbol1}}<sub>{{symbol2}}</sub>",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{symbol1}}<sub>{{symbol2}}</sub>"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "exi"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "exi",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "wayi"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "wayi",
+        "newValue": "y"
+      }
+    ]
+  },
+  "approximatePattern": {
+    "value": "~{{value}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "~{{value}}"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Izingiro ry'uburemere",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Izingiro ry'ubwinshi bw'ikintu"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Izingiro ry'ubwinshi bw'ikintu",
+        "newValue": "Izingiro ry'uburemere"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Imbaraga ziterwa n'umuvuduko",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Imbaraga z'iterwa n'umuvuduko"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Imbaraga z'iterwa n'umuvuduko",
+        "newValue": "Imbaraga ziterwa n'umuvuduko"
+      }
+    ]
+  },
+  "values": {
+    "value": "Agaciro",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Agaciro"
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "Ingano idahinduka",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Ingano idahinduka"
+      }
+    ]
+  },
+  "reflectingBorder": {
+    "value": "Kugaruka kw'ikintu kivuye ku mupaka",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Kugaruka kw'ikintu kivuye ku mupaka"
+      }
+    ]
+  },
+  "path": {
+    "value": "Inzira",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Inzira"
+      }
+    ]
+  },
+  "custom": {
+    "value": "Gakondo",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Gakondo"
+      }
+    ]
+  },
+  "pattern.valueSpaceUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.seconds": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "amasegonda"
+      },
+      {
+        "userId": 1063057,
+        "timestamp": 1653476701526,
+        "oldValue": "amasegonda",
+        "newValue": "s(amasegonda)"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "s(amasegonda)",
+        "newValue": "s"
+      }
+    ]
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}}{{units}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{value}}{{units}}"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "%",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Ijanisha"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Ijanisha",
+        "newValue": "%"
+      }
+    ]
+  },
+  "inelastic": {
+    "value": "Ikintu kidakweduka",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Ikintu kidakweduka"
+      }
+    ]
+  },
+  "elastic": {
+    "value": "Ikintu gikweduka",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Ikintu gikweduka"
+      }
+    ]
+  },
+  "elasticity": {
+    "value": "Ugukweduka",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Byoroshye"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Byoroshye",
+        "newValue": "Ugukweduka"
+      }
+    ]
+  },
+  "enter": {
+    "value": "Injira",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Injira"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} kugera {{max}} {{units}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{min}} kugera {{max}} {{units}}"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueSpaceUnits": {
+    "value": "{{label}} = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{label}} ingana {{value}} {{units}}"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "{{label}} ingana {{value}} {{units}}",
+        "newValue": "{{label}} = {{value}} {{units}}"
+      }
+    ]
+  },
+  "units.joules": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Juru"
+      },
+      {
+        "userId": 1063057,
+        "timestamp": 1653476701526,
+        "oldValue": "Juru",
+        "newValue": "J(Juru)"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "J(Juru)",
+        "newValue": "J"
+      }
+    ]
+  },
+  "momentaDiagram": {
+    "value": "Igishushanyo cya Momenta",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Momenta igishushanyo"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Momenta igishushanyo",
+        "newValue": "Igishushanyo cya Momenta"
+      }
+    ]
+  },
+  "total": {
+    "value": "igiteranyo",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Igiteranyo"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Igiteranyo",
+        "newValue": "igiteranyo"
+      }
+    ]
+  },
+  "moreData": {
+    "value": "Amakuru menshi",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Amakuru menshi"
+      }
+    ]
+  },
+  "balls": {
+    "value": "Imipira",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Imipira"
+      }
+    ]
+  },
+  "returnBalls": {
+    "value": "Kugaruka kw'imipira",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Kugaruka kw'imipira"
+      }
+    ]
+  },
+  "screen.explore1D": {
+    "value": "Kuvumbura 1D",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "kuvumbura 1D"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "kuvumbura 1D",
+        "newValue": "Kuvumbura 1D"
+      }
+    ]
+  },
+  "screen.explore2D": {
+    "value": "Kuvumbura 2D",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "kuvumbura 2d"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "kuvumbura 2d",
+        "newValue": "Kuvumbura 2D"
+      }
+    ]
+  },
+  "screen.inelastic": {
+    "value": "Ikintu kidakweduka",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Ikintu kidakweduka"
+      }
+    ]
+  },
+  "inelasticCollision": {
+    "value": "Kugendera ku muvuduko umwe nyuma y'uko habayeho igongana",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Kugendera ku muvuko umwe nyuma y'uko habayeho igongana"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Kugendera ku muvuko umwe nyuma y'uko habayeho igongana",
+        "newValue": "Kugendera ku muvuduko umwe nyuma y'uko habayeho igongana"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueUnits": {
+    "value": "{{label}}= {{value}}{{units}}",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "{{label}}= {{value}}{{units}}"
+      }
+    ]
+  },
+  "stick": {
+    "value": "Inkoni",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Inkoni"
+      }
+    ]
+  },
+  "slip": {
+    "value": "kunyerera",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "kunyerera"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Intangiriro",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Imbere"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1669563964649,
+        "oldValue": "Imbere",
+        "newValue": "Intangiriro"
+      }
+    ]
+  },
+  "changeInMomentum": {
+    "value": "Guhinduka kwa momentum",
+    "history": [
+      {
+        "userId": 1063057,
+        "timestamp": 1653388894196,
+        "oldValue": "",
+        "newValue": "Guhinduka kwa momentum"
+      }
+    ]
+  }
+}

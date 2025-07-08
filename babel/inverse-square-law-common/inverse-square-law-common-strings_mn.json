@@ -1,0 +1,98 @@
+{
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "{{otherObject}}-ээс {{thisObject}}-д үйлчлэх хүч ",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1549616477064,
+        "oldValue": "",
+        "newValue": "{{otherObject}}-ээс {{thisObject}}-д үйлчлэх хүч ",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "{{otherObject}}-ээс {{thisObject}}-д үйлчлэх хүч = {{value}} Н",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1549616477064,
+        "oldValue": "",
+        "newValue": "{{otherObject}}-ээс {{thisObject}}-д үйлчлэх хүч = {{value}} Н",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Хүчний утга",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1549616477064,
+        "oldValue": "",
+        "newValue": "Хүчний утга",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "метр",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1575293775775,
+        "oldValue": "",
+        "newValue": "метр",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "метр",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1575293775775,
+        "oldValue": "",
+        "newValue": "метр",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "Ньютон",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1575293775775,
+        "oldValue": "",
+        "newValue": "Ньютон",
+        "explanation": null
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "см",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1549616477064,
+        "oldValue": "",
+        "newValue": "см",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "пм",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1549616477064,
+        "oldValue": "",
+        "newValue": "пм",
+        "explanation": null
+      }
+    ]
+  }
+}

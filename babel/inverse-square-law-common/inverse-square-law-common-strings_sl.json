@@ -1,0 +1,134 @@
+{
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Sila {{otherObject}} na {{thisObject}}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1616143586404,
+        "oldValue": "",
+        "newValue": "Sila {{otherObject}} na {{thisObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Sila {{otherObject}} na {{thisObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1616143586404,
+        "oldValue": "",
+        "newValue": "Sila {{otherObject}} na {{thisObject}} = {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Vrednosti sil",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1616143586404,
+        "oldValue": "",
+        "newValue": "Vrednosti sil"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metri",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1616143586404,
+        "oldValue": "",
+        "newValue": "metri"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newtoni",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1616143586404,
+        "oldValue": "",
+        "newValue": "newtoni"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726265854571,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726265854571,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726265854571,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "meter",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726613719445,
+        "oldValue": "",
+        "newValue": "meter"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Skrito",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726613766552,
+        "oldValue": "",
+        "newValue": "Skrito"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Znanstveni zapis",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726613766552,
+        "oldValue": "",
+        "newValue": "Znanstveni zapis"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Decimalni zapis",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1727215362225,
+        "oldValue": "",
+        "newValue": "Decimalni zapis"
+      }
+    ]
+  }
+}

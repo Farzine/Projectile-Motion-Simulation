@@ -1,0 +1,376 @@
+{
+  "speed": {
+    "value": "Velocitat",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Velocitat",
+        "explanation": null
+      }
+    ]
+  },
+  "go": {
+    "value": "Prova-ho!",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Prova!",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "Prova!",
+        "newValue": "Prova-ho!"
+      }
+    ]
+  },
+  "pause": {
+    "value": "Pausa",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Pausa",
+        "explanation": null
+      }
+    ]
+  },
+  "return": {
+    "value": "Torna-hi",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Torna-hi",
+        "explanation": null
+      }
+    ]
+  },
+  "blueWins": {
+    "value": "Guanya l'equip blau!",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Guanya l'equip blau!",
+        "explanation": null
+      }
+    ]
+  },
+  "redWins": {
+    "value": "Guanya l'equip vermell!",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Guanya l'equip vermell!",
+        "explanation": null
+      }
+    ]
+  },
+  "sumOfForces": {
+    "value": "Suma de forces",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Suma de forces",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Valors",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Valors",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsN": {
+    "value": "{0} N",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "{0}N",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "{0}N",
+        "newValue": "{0} N"
+      }
+    ]
+  },
+  "sumOfForcesEqualsZero": {
+    "value": "Suma de forces = 0",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Suma de forces = 0",
+        "explanation": null
+      }
+    ]
+  },
+  "leftForce": {
+    "value": "Força esquerra",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Força esquerra",
+        "explanation": null
+      }
+    ]
+  },
+  "rightForce": {
+    "value": "Força dreta",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Força dreta",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0massUnitsKilograms": {
+    "value": "{0} kg",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "{0} kg",
+        "explanation": null
+      }
+    ]
+  },
+  "appliedForce": {
+    "value": "Força aplicada",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Força Aplicada",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "Força Aplicada",
+        "newValue": "Força aplicada"
+      }
+    ]
+  },
+  "frictionForce": {
+    "value": "Força de fregament",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Força de fricció",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "Força de fricció",
+        "newValue": "Força de fregament"
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsVelocity": {
+    "value": "{0} m/s",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "",
+        "newValue": "{0} m/s"
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Acceleració",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "",
+        "newValue": "Acceleració"
+      }
+    ]
+  },
+  "force": {
+    "value": "Força",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Força",
+        "explanation": null
+      }
+    ]
+  },
+  "forces": {
+    "value": "Forces",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Forces",
+        "explanation": null
+      }
+    ]
+  },
+  "masses": {
+    "value": "Massa",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Massa",
+        "explanation": null
+      }
+    ]
+  },
+  "friction": {
+    "value": "Fregament",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Fricció",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "Fricció",
+        "newValue": "Fregament"
+      }
+    ]
+  },
+  "lots": {
+    "value": "molt",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Molta",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "Molta",
+        "newValue": "molt"
+      }
+    ]
+  },
+  "none": {
+    "value": "gens",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Res",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "Res",
+        "newValue": "gens"
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsAcceleration": {
+    "value": "{0}: {1} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "",
+        "newValue": "{0}: {1} m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "pattern.0valueUnitsNewtons": {
+    "value": "{0} newtons",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "",
+        "newValue": "{0} newtons"
+      }
+    ]
+  },
+  "forces-and-motion-basics.title": {
+    "value": "Les forces i el moviment. Nivell bàsic",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Les forces i el moviment. Nivell bàsic",
+        "explanation": null
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Estira la corda",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Estira la corda",
+        "explanation": null
+      }
+    ]
+  },
+  "motion": {
+    "value": "Moviment",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1549445152376,
+        "oldValue": "",
+        "newValue": "Moviment",
+        "explanation": null
+      }
+    ]
+  }
+}

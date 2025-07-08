@@ -1,0 +1,323 @@
+{
+  "pattern.0yourBest": {
+    "value": "(Ən yaxşı nəticəniz: {0})",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "(Ən yaxşı nəticəniz: {0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Yeni ən yaxşı nəticənizt!)",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "(Yeni ən yaxşı nəticənizt!)"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Yarış  {0} / {1}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Yarış  {0} / {1}"
+      }
+    ]
+  },
+  "check": {
+    "value": "Yoxla",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Yoxla"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Səviyyənizi Seçin!",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Səviyyənizi Seçin!"
+      }
+    ]
+  },
+  "continue": {
+    "value": "Davam et",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Davam et"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Möhtəşəm!",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Möhtəşəm!"
+      }
+    ]
+  },
+  "good": {
+    "value": "Yaxşı!",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Yaxşı!"
+      }
+    ]
+  },
+  "great": {
+    "value": "Əla!",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Əla!"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Yenidən Sına",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Yenidən Sına"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Səviyyə: {0}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Səviyyə: {0}"
+      }
+    ]
+  },
+  "next": {
+    "value": "Sonrakı",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Sonrakı"
+      }
+    ]
+  },
+  "score": {
+    "value": "Xalınız",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Xaliniz"
+      },
+      {
+        "userId": 1127852,
+        "timestamp": 1676125952265,
+        "oldValue": "Xaliniz",
+        "newValue": "Xalınız"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Xalınız:  {0} / {1}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Xalınız:  {0} / {1}"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Xalınız: {{score}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Xalınız: {{score}}"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Cavabı göstər",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Cavabı göstər"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Yenidən başlat",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Yenidən başlat"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Vaxt: {0}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Vaxt: {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Yenidən Sına",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Yenidən Sına"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Xalınız: {0}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Xalınız: {0}"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Səviyyəni seç",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660044532006,
+        "oldValue": "",
+        "newValue": "Səviyyəni seç"
+      }
+    ]
+  },
+  "label.score": {
+    "value": "Balınız : {0}",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1555358158561,
+        "oldValue": "",
+        "newValue": "Balınız : {0}"
+      }
+    ]
+  },
+  "done": {
+    "value": "Hazırdır",
+    "history": [
+      {
+        "userId": 1127852,
+        "timestamp": 1674209503083,
+        "oldValue": "",
+        "newValue": "Edildi"
+      },
+      {
+        "userId": 1120507,
+        "timestamp": 1681153073740,
+        "oldValue": "Edildi",
+        "newValue": "Hazırdır",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Siz bütün səviyyələri tamamladınız!",
+    "history": [
+      {
+        "userId": 1127852,
+        "timestamp": 1674209503097,
+        "oldValue": "",
+        "newValue": "Siz bütün səviyyələri tamamladınız!"
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Davam et",
+    "history": [
+      {
+        "userId": 1127852,
+        "timestamp": 1676125952260,
+        "oldValue": "",
+        "newValue": "Davam et"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Yeni səviyyə",
+    "history": [
+      {
+        "userId": 1127852,
+        "timestamp": 1676125952261,
+        "oldValue": "",
+        "newValue": "Yeni səviyyə"
+      }
+    ]
+  }
+}

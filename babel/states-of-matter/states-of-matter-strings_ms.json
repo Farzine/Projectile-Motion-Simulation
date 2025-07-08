@@ -1,0 +1,601 @@
+{
+  "adjustableAttraction": {
+    "value": "Daya Tarikan Boleh Laras",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Daya Tarikan Boleh Laras"
+      }
+    ]
+  },
+  "argon": {
+    "value": "Argon",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Argon"
+      }
+    ]
+  },
+  "atomDiameter": {
+    "value": "Diameter Atom (σ)",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Diameter Atom (σ)"
+      }
+    ]
+  },
+  "Atoms": {
+    "value": "Atom",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Atom"
+      }
+    ]
+  },
+  "customAttraction": {
+    "value": "Daya Tarikan Disuaikan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Daya Tarikan Disuaikan"
+      }
+    ]
+  },
+  "interactionStrength": {
+    "value": "Kekuatan Interaksi (ε)",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Kekuatan Interaksi (ε)"
+      }
+    ]
+  },
+  "large": {
+    "value": "besar",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "besar"
+      }
+    ]
+  },
+  "moving": {
+    "value": "Bergerak",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Bergerak"
+      }
+    ]
+  },
+  "neon": {
+    "value": "Neon",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Neon"
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "Oksigen",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Oksigen"
+      }
+    ]
+  },
+  "pinned": {
+    "value": "Disematkan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Disematkan"
+      }
+    ]
+  },
+  "small": {
+    "value": "kecil",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "kecil"
+      }
+    ]
+  },
+  "strong": {
+    "value": "kuat",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Kuat"
+      },
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "Kuat",
+        "newValue": "kuat"
+      }
+    ]
+  },
+  "weak": {
+    "value": "lemah",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "lemah"
+      }
+    ]
+  },
+  "returnAtom": {
+    "value": "Kembalikan Atom",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Atom Dikembalikan"
+      },
+      {
+        "userId": 11360046,
+        "timestamp": 1742959368655,
+        "oldValue": "Atom Dikembalikan",
+        "newValue": "Kembalikan Atom",
+        "explanation": null
+      }
+    ]
+  },
+  "attractive": {
+    "value": "Menarik",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Menarik"
+      }
+    ]
+  },
+  "electronOverlap": {
+    "value": "(pertindihan elektron)",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "(pertindihan elektron)"
+      }
+    ]
+  },
+  "forces": {
+    "value": "Daya",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Daya"
+      }
+    ]
+  },
+  "hideForces": {
+    "value": "Daya Disembunyikan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Daya Disembunyikan"
+      }
+    ]
+  },
+  "repulsive": {
+    "value": "Menolak",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Menolak"
+      }
+    ]
+  },
+  "totalForce": {
+    "value": "Jumlah Daya",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Jumlah Daya"
+      }
+    ]
+  },
+  "vanderwaals": {
+    "value": "(van der Waals)",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "(van der Waals)"
+      }
+    ]
+  },
+  "celsiusUnits": {
+    "value": "℃",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "℃"
+      }
+    ]
+  },
+  "kelvinUnits": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "pressureOverload": {
+    "value": "TERLEBIH BEBAN",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "TERLEBIH BEBAN"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Tekanan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Tekanan"
+      }
+    ]
+  },
+  "pressureUnitsInAtm": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "distanceBetweenAtoms": {
+    "value": "Jarak Antara Atom",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Jarak Antara Atom"
+      }
+    ]
+  },
+  "distanceBetweenMolecules": {
+    "value": "Jarak Antara Molekul",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Jarak Antara Molekul"
+      }
+    ]
+  },
+  "epsilon": {
+    "value": "ε",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "ε"
+      }
+    ]
+  },
+  "potentialEnergy": {
+    "value": "Tenaga Keupayaan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Tenaga Keupayaan"
+      }
+    ]
+  },
+  "sigma": {
+    "value": "σ",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "σ"
+      }
+    ]
+  },
+  "phaseChanges": {
+    "value": "Perubahan Fasa",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Perubahan Fasa"
+      }
+    ]
+  },
+  "interactionPotential": {
+    "value": "Keupayaan Interaksi",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Keupayaan Interaksi"
+      }
+    ]
+  },
+  "AtomsAndMolecules": {
+    "value": "Atom & Molekul",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Atom & Molekul"
+      }
+    ]
+  },
+  "diatomicOxygen": {
+    "value": "Oksigen",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Oksigen"
+      }
+    ]
+  },
+  "interactionStrengthWithSymbol": {
+    "value": "Kekuatan Interaksi (ε)",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Kekuatan Interaksi (ε)"
+      }
+    ]
+  },
+  "water": {
+    "value": "Air",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Air"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Kembalikan Penutup",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Kembalikan Penutup"
+      }
+    ]
+  },
+  "criticalPoint": {
+    "value": "takat<br>kritikal",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "takat<br>genting"
+      },
+      {
+        "userId": 11360046,
+        "timestamp": 1742959069439,
+        "oldValue": "takat<br>genting",
+        "newValue": "takat<br>kritikal",
+        "explanation": null
+      }
+    ]
+  },
+  "gas": {
+    "value": "gas",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "gas"
+      }
+    ]
+  },
+  "liquid": {
+    "value": "cecair",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "cecair"
+      }
+    ]
+  },
+  "solid": {
+    "value": "pepejal",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "pepejal"
+      }
+    ]
+  },
+  "temperature": {
+    "value": "Suhu",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Suhu"
+      }
+    ]
+  },
+  "triplePoint": {
+    "value": "takat<br>ketigaan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "takat<br>ketigaan"
+      }
+    ]
+  },
+  "phaseDiagram": {
+    "value": "Rajah Fasa",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Gambarajah Fasa"
+      },
+      {
+        "userId": 11360046,
+        "timestamp": 1742959069439,
+        "oldValue": "Gambarajah Fasa",
+        "newValue": "Rajah Fasa",
+        "explanation": null
+      }
+    ]
+  },
+  "interaction": {
+    "value": "Interaksi",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Interaksi"
+      }
+    ]
+  },
+  "states-of-matter.title": {
+    "value": "Keadaan Jirim",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664176125692,
+        "oldValue": "",
+        "newValue": "Keadaan Jirim"
+      }
+    ]
+  },
+  "states": {
+    "value": "Keadaan",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Keadaan"
+      }
+    ]
+  },
+  "Gas": {
+    "value": "Gas",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Gas"
+      }
+    ]
+  },
+  "Liquid": {
+    "value": "Cecair",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Cecair"
+      }
+    ]
+  },
+  "Solid": {
+    "value": "Pepejal",
+    "history": [
+      {
+        "userId": 275815,
+        "timestamp": 1664175511589,
+        "oldValue": "",
+        "newValue": "Pepejal"
+      }
+    ]
+  }
+}

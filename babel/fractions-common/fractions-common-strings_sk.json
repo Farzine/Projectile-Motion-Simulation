@@ -1,0 +1,142 @@
+{
+  "chooseYourLevel": {
+    "value": "Vyberte si úroveň!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548977646014,
+        "oldValue": "",
+        "newValue": "Vyberte si obtiažnosť!",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1548978137930,
+        "oldValue": "Vyberte si obtiažnosť!",
+        "newValue": "Vyber si obtiažnosť!",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1548978752654,
+        "oldValue": "Vyber si obtiažnosť!",
+        "newValue": "Vyber si úroveň!",
+        "explanation": null
+      },
+      {
+        "userId": 134140,
+        "timestamp": 1679831665774,
+        "oldValue": "Vyber si úroveň!",
+        "newValue": "Vyberte si úroveň!",
+        "explanation": null
+      }
+    ]
+  },
+  "equation": {
+    "value": "Rovnica",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548978752654,
+        "oldValue": "",
+        "newValue": "Rovnica",
+        "explanation": null
+      }
+    ]
+  },
+  "levelTitlePattern": {
+    "value": "Úroveň {{number}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548977646014,
+        "oldValue": "",
+        "newValue": "Úroveň {{number}}",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumber": {
+    "value": "Zmiešané čísla",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548978752654,
+        "oldValue": "",
+        "newValue": "Zmiešané čísla",
+        "explanation": null
+      }
+    ]
+  },
+  "myMatches": {
+    "value": "Výsledky",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458767822535,
+        "oldValue": "",
+        "newValue": "Výsledky",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "ok": {
+    "value": "OK",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458767822535,
+        "oldValue": "",
+        "newValue": "OK",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "timeNumberSec": {
+    "value": "Čas: {0} s",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458767822535,
+        "oldValue": "",
+        "newValue": "Čas: {0} s",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "mixedNumbersChooseYourLevel": {
+    "value": "Zmiešané čísla: Vyberte si úroveň!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458767822535,
+        "oldValue": "",
+        "newValue": "Zmiešané čísla: Vyberte si úroveň!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "fractionsChooseYourLevel": {
+    "value": "Zlomky: Vyberte si úroveň!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1458767822535,
+        "oldValue": "",
+        "newValue": "Zlomky: Vyberte si úroveň!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "representationMax": {
+    "value": "Maximum",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1680460056156,
+        "oldValue": "",
+        "newValue": "Maximum"
+      }
+    ]
+  }
+}

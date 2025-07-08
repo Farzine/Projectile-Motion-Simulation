@@ -1,0 +1,580 @@
+{
+  "keepGoing": {
+    "value": "Nadaljuj",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1666278049109,
+        "oldValue": "",
+        "newValue": "Nadaljuj"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Nova raven",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1666278049109,
+        "oldValue": "",
+        "newValue": "Nava raven"
+      },
+      {
+        "userId": 157571,
+        "timestamp": 1726266982482,
+        "oldValue": "Nava raven",
+        "newValue": "Nova raven",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "Rezultat",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1661937273376,
+        "oldValue": "",
+        "newValue": "Rezultat"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Rezultat: {{score}}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1661937273376,
+        "oldValue": "",
+        "newValue": "Rezultat: {{score}}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1472377456467,
+        "oldValue": "",
+        "newValue": "{0}:{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1472377456468,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Izberi težavnost!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1661937273376,
+        "oldValue": "",
+        "newValue": "Izberi nivo!"
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1661937410374,
+        "oldValue": "Izberi nivo!",
+        "newValue": "Izberi težavnost!"
+      }
+    ]
+  },
+  "done": {
+    "value": "Končano",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1661937273376,
+        "oldValue": "",
+        "newValue": "Narejeno"
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1680770076973,
+        "oldValue": "Narejeno",
+        "newValue": "Končano",
+        "explanation": null
+      }
+    ]
+  },
+  "next": {
+    "value": "Naprej",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Naprej",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Rešili ste vse nivoje težavnosti!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1661937273376,
+        "oldValue": "",
+        "newValue": "Rešili ste vse nivoje težavnosti!"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Tvoj najboljši rezultat: {0})",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636993,
+        "oldValue": "",
+        "newValue": "(Tvoj najboljši rezultat: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Tvoj nov najboljši rezultat!)",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636993,
+        "oldValue": "",
+        "newValue": "(Tvoj nov najboljši rezultat: {0})",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1540375623571,
+        "oldValue": "(Tvoj nov najboljši rezultat: {0})",
+        "newValue": "(Tvoj nov najboljši rezultat!)",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Izziv {0} od {1}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636993,
+        "oldValue": "",
+        "newValue": "Izziv {0} of {1}",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1463389150586,
+        "oldValue": "Izziv {0} of {1}",
+        "newValue": "Izziv {0} od {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Preveri",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636993,
+        "oldValue": "",
+        "newValue": "Preveri",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Nadaljuj",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636993,
+        "oldValue": "",
+        "newValue": "Nadaljuj",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Odlično!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636993,
+        "oldValue": "",
+        "newValue": "Odlično!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Dobro!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Dobro!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Super!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Super!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Ne odnehaj",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Ne odnehaj",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Težavnost: {0}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Težavnost: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Rezultat: {0}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Rezultat: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Rezultat: {0} od {1}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Rezultat: {0} od {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Prikaži odgovor",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Prikaži odgovor",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Začni znova",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Ponovno začni",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1463389150586,
+        "oldValue": "Ponovno začni",
+        "newValue": "Začni znova",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Čas: {0}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Čas: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Poskusi ponovno",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Poskusi ponovno",
+        "explanation": null
+      }
+    ]
+  },
+  "button.newGame": {
+    "value": "Nova igra",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Nova igra",
+        "explanation": null
+      }
+    ]
+  },
+  "button.start": {
+    "value": "Start!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Start!",
+        "explanation": null
+      }
+    ]
+  },
+  "format.time.best": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "label.best": {
+    "value": "Najboljši rezultati: {0}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Najboljši rezultati: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.levelControl": {
+    "value": "Težavnost:",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Težavnost:",
+        "explanation": null
+      }
+    ]
+  },
+  "label.newBest": {
+    "value": "Nov najboljši rezultat!",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Nov najboljši rezultat!",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max.perfect": {
+    "value": "Rezultat: {0} od {1} (ODLIČNO!)",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Rezultat: {0} od {1} (ODLIČNO!)",
+        "explanation": null
+      }
+    ]
+  },
+  "message.confirmNewGame": {
+    "value": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1463389150586,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472368554955,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472369108408,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472369855620,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472371389253,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472376764636,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472377456468,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472378160544,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1472380693236,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1488922716822,
+        "oldValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      },
+      {
+        "userId": 156538,
+        "timestamp": 1540375623572,
+        "oldValue": "Igre še ni konec.\r\\nAli želite začeti novo igro?",
+        "newValue": "Igre še ni konec.\r\nAli želite začeti novo igro?",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.off": {
+    "value": "izključeno",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "izključeno",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.on": {
+    "value": "vključeno",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "vključeno",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameOver": {
+    "value": "Konec igre",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Konec igre",
+        "explanation": null
+      }
+    ]
+  },
+  "title.gameSettings": {
+    "value": "Nastavitve igre",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1463388636994,
+        "oldValue": "",
+        "newValue": "Nastavitve igre",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Izberi težavnost",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1680770076973,
+        "oldValue": "",
+        "newValue": "Izberi težavnost"
+      }
+    ]
+  }
+}

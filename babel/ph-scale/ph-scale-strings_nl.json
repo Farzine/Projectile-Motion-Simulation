@@ -1,0 +1,677 @@
+{
+  "acidic": {
+    "value": "Zuur",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Zuur",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "Base",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Basisch",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457184600130,
+        "oldValue": "Basisch",
+        "newValue": "Base",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "Zuur van een batterij",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Accuzuur",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1577009843796,
+        "oldValue": "Accuzuur",
+        "newValue": "Batterijzuur",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1587564638164,
+        "oldValue": "Batterijzuur",
+        "newValue": "Zuur van een batterij",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "Bloed",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Bloed",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "Kippensoep",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Kippensoep",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "Koffie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Koffie",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "Ontstopper",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Gootsteenontstopper",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1577009843796,
+        "oldValue": "Gootsteenontstopper",
+        "newValue": "Ontstopper",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "Zeep",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Toiletzeep",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1468571646418,
+        "oldValue": "Toiletzeep",
+        "newValue": "Zeep",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "l",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "Macro",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Macro",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "Melk",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Melk",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "Neutraal",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Neutraal",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "Sinaasappelsap",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Oranjesap",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1468571646418,
+        "oldValue": "Oranjesap",
+        "newValue": "Sinaasappelsap",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "Prik",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Bronwater met belletjes",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1468571646418,
+        "oldValue": "Bronwater met belletjes",
+        "newValue": "Frisdrank",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1587564638164,
+        "oldValue": "Frisdrank",
+        "newValue": "Prik",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "Speeksel ",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Speeksel",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1468571646418,
+        "oldValue": "Speeksel",
+        "newValue": "Speeksel ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "Braaksel ",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Maagzuur",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1468571646418,
+        "oldValue": "Maagzuur",
+        "newValue": "Braaksel ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "Water",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Water",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "Kies je eigen vloeistof",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Pas vloeistof aan",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457612419014,
+        "oldValue": "Pas vloeistof aan",
+        "newValue": "Pas de vloeistof aan",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1577009843796,
+        "oldValue": "Pas de vloeistof aan",
+        "newValue": "Kies je eigen vloeistof",
+        "explanation": null
+      }
+    ]
+  },
+  "about.credits": {
+    "value": ""
+  },
+  "button.zoomIn": {
+    "value": "Inzoomen (:10)",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Inzoomen (:10)",
+        "explanation": null
+      }
+    ]
+  },
+  "button.zoomOut": {
+    "value": "Uitzoomen (x10)",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Uitzoomen (x10)",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.H3O_OH_ratio": {
+    "value": "{0}/{1} verhouding",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "{0}/{1} verhouding",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.dontAskAgain": {
+    "value": "Vraag het me niet meer.",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Vraag het me niet meer.",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.moleculeCount": {
+    "value": "Deeltjes tellen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Deeltjes tellen",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.beer": {
+    "value": "bier",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "bier",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Concentratie",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Concentratie",
+        "explanation": null
+      }
+    ]
+  },
+  "confirm.changeLiquid": {
+    "value": "Je kan niet twee vloeistoffen door elkaar gebruiken. Als je in het menu een nieuwe vloeistof kiest, zit die vloeistof ook in de beker. Is dat wat je wil?",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Je kan niet twee vloeistoffen door elkaar gebruiken. Als je in het menu een nieuwe vloeistof kiest, zit die vloeistof ook in de beker. Is dat wat je wil?",
+        "explanation": null
+      }
+    ]
+  },
+  "label.acid": {
+    "value": "zuur",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "zuur",
+        "explanation": null
+      }
+    ]
+  },
+  "label.base": {
+    "value": "basisch",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "basisch",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "Lineair",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Lineair",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "Logaritmisch",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Logaritmisch",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "Tellen van moleculen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Tellen van molecules",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1483639054528,
+        "oldValue": "Tellen van molecules",
+        "newValue": "Tellen van moleculen",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "buiten de schaal",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "buiten bereik",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457612565305,
+        "oldValue": "buiten bereik",
+        "newValue": "buiten de schaal",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.description": {
+    "value": ""
+  },
+  "ph-scale.title": {
+    "value": "pH schaal",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "pH-schaal",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1457612565306,
+        "oldValue": "pH-schaal",
+        "newValue": "pH schaal",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "Hoeveelheid",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Hoeveelheid",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.concentration": {
+    "value": "Concentratie ({0})",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Concentratie ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.linearScale": {
+    "value": "Lineaire schaal",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Lineaire schaal",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.logarithmicScale": {
+    "value": "Logaritmische schaal",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Logaritmische schaal",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.numberOfMoles": {
+    "value": "Aantal molen ({0})",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Aantal molen ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "verhouding",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "verhouding",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Micro",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Micro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Mijn oplossing",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "Mijn oplossing",
+        "explanation": null
+      }
+    ]
+  },
+  "title.waterComponents": {
+    "value": "Deeltjes in water",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486550,
+        "oldValue": "",
+        "newValue": "Deeltjes in water",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/l",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1457184486549,
+        "oldValue": "",
+        "newValue": "mol/l",
+        "explanation": null
+      }
+    ]
+  }
+}

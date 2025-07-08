@@ -1,0 +1,797 @@
+{
+  "femtosecondConversion": {
+    "value": "1фс = 10<sup>-15</sup> с",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "1фс = 10<sup>-15</sup> с",
+        "explanation": null
+      }
+    ]
+  },
+  "millisecondConversion": {
+    "value": "1 mс = 10<sup>-3</sup> с",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "1 mс = 10<sup>-3</sup> с",
+        "explanation": null
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "Амплітуда",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Амплітуда",
+        "explanation": null
+      }
+    ]
+  },
+  "both": {
+    "value": "І хвилі, і часитинки",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Обидві",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1569749284082,
+        "oldValue": "Обидві",
+        "newValue": "І хвилі, і часитинки",
+        "explanation": null
+      }
+    ]
+  },
+  "centimetersUnits": {
+    "value": "см",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "см",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Електричне поле",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Електричне поле",
+        "explanation": null
+      }
+    ]
+  },
+  "electricFieldAtCenter": {
+    "value": "Електричне поле в центрі",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Електричне поле в центрі",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Частота",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Частота",
+        "explanation": null
+      }
+    ]
+  },
+  "femtosecondsUnits": {
+    "value": "фс",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "фс",
+        "explanation": null
+      }
+    ]
+  },
+  "graph": {
+    "value": "Графік",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Графік",
+        "explanation": null
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Інтенсивність",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Інтенсивність",
+        "explanation": null
+      }
+    ]
+  },
+  "lightGenerator": {
+    "value": "Генератор світла",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Генератор світла",
+        "explanation": null
+      }
+    ]
+  },
+  "max": {
+    "value": "max",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "max",
+        "explanation": null
+      }
+    ]
+  },
+  "min": {
+    "value": "min",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "min",
+        "explanation": null
+      }
+    ]
+  },
+  "millisecondsUnits": {
+    "value": "мс",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "mс",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1611773413876,
+        "oldValue": "mс",
+        "newValue": "мс"
+      }
+    ]
+  },
+  "nanometersUnits": {
+    "value": "нм",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "нм",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Нормальн.",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Нормальн.",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Частинки",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Частинки",
+        "explanation": null
+      }
+    ]
+  },
+  "playTone": {
+    "value": "Звучання тону",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569749284082,
+        "oldValue": "",
+        "newValue": "Звучання тону",
+        "explanation": null
+      }
+    ]
+  },
+  "positionCM": {
+    "value": "Відстань (cм)",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Відстань (cм)",
+        "explanation": null
+      }
+    ]
+  },
+  "positionNM": {
+    "value": "Відстань (нм)",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Відстань (нм)",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Тиск ",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Тиск ",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureAtCenter": {
+    "value": "Тиск у центрі",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Тиск у центрі",
+        "explanation": null
+      }
+    ]
+  },
+  "secondsUnits": {
+    "value": "с",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "с",
+        "explanation": null
+      }
+    ]
+  },
+  "screenLabel": {
+    "value": "Екран",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Екран",
+        "explanation": null
+      }
+    ]
+  },
+  "sideView": {
+    "value": "Вид збоку",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Вид збоку",
+        "explanation": null
+      }
+    ]
+  },
+  "slow": {
+    "value": "Повільн.",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Повільн.",
+        "explanation": null
+      }
+    ]
+  },
+  "soundEffect": {
+    "value": "Звуковий ефект",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569749284082,
+        "oldValue": "",
+        "newValue": "Звуковий ефект",
+        "explanation": null
+      }
+    ]
+  },
+  "soundGenerator": {
+    "value": "Звуковий генератор",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Звуковий генератор",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Час",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Час",
+        "explanation": null
+      }
+    ]
+  },
+  "top": {
+    "value": "Верх",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Верх",
+        "explanation": null
+      }
+    ]
+  },
+  "topView": {
+    "value": "Вид зверху",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Вид зверху",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevel": {
+    "value": "Рівень води в центрі",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Рівень води в центрі",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevelAtCenter": {
+    "value": "Рівень води в центрі",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Рівень води в центрі",
+        "explanation": null
+      }
+    ]
+  },
+  "waterWaveGenerator": {
+    "value": "Генератор хвиль у воді",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Генератор хвиль у воді",
+        "explanation": null
+      }
+    ]
+  },
+  "waves": {
+    "value": "Хвилі",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Хвилі",
+        "explanation": null
+      }
+    ]
+  },
+  "distanceUnits": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538528,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "timeUnits": {
+    "value": "{{time}} {{units}}",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "{{time}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "circleDiameter": {
+    "value": "Діаметр кола",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Діаметр кола",
+        "explanation": null
+      }
+    ]
+  },
+  "mmValue": {
+    "value": "{{value}} мм",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "{{value}} мм",
+        "explanation": null
+      }
+    ]
+  },
+  "squareWidth": {
+    "value": "Сторона квадрата",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Сторона квадрата",
+        "explanation": null
+      }
+    ]
+  },
+  "disorder": {
+    "value": "Невпорядкованість",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Невпорядкованість",
+        "explanation": null
+      }
+    ]
+  },
+  "latticeSpacing": {
+    "value": "Інтервал решітки",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Інтервал решітки",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Сильна",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Сильна",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Немає",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Немає",
+        "explanation": null
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Діаметр",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Діаметр",
+        "explanation": null
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "Ексцентриситет",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Ексцентриситет",
+        "explanation": null
+      }
+    ]
+  },
+  "height": {
+    "value": "Висота",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Висота",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Ширина",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Ширина",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesValue": {
+    "value": "{{value}} ˚",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "{{value}} ˚",
+        "explanation": null
+      }
+    ]
+  },
+  "rotation": {
+    "value": "Обертання ",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Обертання ",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffraction": {
+    "value": "Дифракція",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "",
+        "newValue": "Дифракція",
+        "explanation": null
+      }
+    ]
+  },
+  "cmValue": {
+    "value": "{{value}} см",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "{{value}} см",
+        "explanation": null
+      }
+    ]
+  },
+  "nmValue": {
+    "value": "{{value}} нм",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "{{value}} нм",
+        "explanation": null
+      }
+    ]
+  },
+  "separation": {
+    "value": "Відстань",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Відокремлення",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "Відокремлення",
+        "newValue": "Відстань",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.interference": {
+    "value": "Інтерференція",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Інтерференція",
+        "explanation": null
+      }
+    ]
+  },
+  "noBarrier": {
+    "value": "Без бар'єру",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Без бар'єру",
+        "explanation": null
+      }
+    ]
+  },
+  "oneSlit": {
+    "value": "Одна щілина",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Одна щілина",
+        "explanation": null
+      }
+    ]
+  },
+  "slitSeparation": {
+    "value": "Відстань між щілинами",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Розділення щілини",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1569750421549,
+        "oldValue": "Розділення щілини",
+        "newValue": "Відстань між щілинами",
+        "explanation": null
+      }
+    ]
+  },
+  "slitWidth": {
+    "value": "Ширина щілини",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Ширина щілини",
+        "explanation": null
+      }
+    ]
+  },
+  "twoSlits": {
+    "value": "Дві щілини",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Дві щілини",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slits": {
+    "value": "Щілини",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Щілини",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Хвилі",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Хвилі",
+        "explanation": null
+      }
+    ]
+  },
+  "wave-interference.title": {
+    "value": "Інтерференція хвиль",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1549035538529,
+        "oldValue": "",
+        "newValue": "Інтерференція хвиль",
+        "explanation": null
+      }
+    ]
+  }
+}

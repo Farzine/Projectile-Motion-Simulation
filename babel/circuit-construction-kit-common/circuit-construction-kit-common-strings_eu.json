@@ -1,0 +1,963 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137594,
+        "oldValue": "",
+        "newValue": "1 s"
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Tentsio zuzena",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137594,
+        "oldValue": "",
+        "newValue": "Tentsio zuzena"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Gehitu benetako bonbillak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137594,
+        "oldValue": "",
+        "newValue": "Gehitu benetako bonbillak"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Aurreratua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137594,
+        "oldValue": "",
+        "newValue": "Aurreratua"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Amperemetroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Anperimetroa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Anperimetroa",
+        "newValue": "Amperemetroa",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Amperemetroaren irakurketa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647297231039,
+        "oldValue": "",
+        "newValue": "Amperemetroaren irakurketa"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Amperemetroak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Anperimetroak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Anperimetroak",
+        "newValue": "Amperemetroak",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Animazioaren abiadura-muga! Ohiko abiaduraren % {{percent}}a txikitua.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": " Simulazioaren abiadura-muga heldua. Abiadura ohikoaren % {{percent}} gutxitua. ",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": " Simulazioaren abiadura-muga heldua. Abiadura ohikoaren % {{percent}} gutxitua. ",
+        "newValue": "Animazioaren abiadura-muga! Ohiko abiaduraren % {{percent}}a txikitua. ",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1679747989130,
+        "oldValue": "Animazioaren abiadura-muga! Ohiko abiaduraren % {{percent}}a txikitua. ",
+        "newValue": "Animazioaren abiadura-muga! Ohiko abiaduraren % {{percent}}a txikitua.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Bateria",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Bateria",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Bateria-erresistentzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Bateria-erresistentzia",
+        "explanation": null
+      }
+    ]
+  },
+  "british": {
+    "value": "Britaniarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647297231039,
+        "oldValue": "",
+        "newValue": "Britaniarra"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Kapazitatea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137594,
+        "oldValue": "",
+        "newValue": "Kapazitatea"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Kondentsadorea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Kondentsadorea"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Txanpona",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Txanpona",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Korronte-noranzkoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Ohikoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Ohikoa",
+        "newValue": "Korronte-noranzkoa",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Intentsitatea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Korrontea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Korrontea",
+        "newValue": "Intentsitatea",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Intentsitatea (A)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Intentsitatea (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Intentsitate-taula",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Intentsitate-taula"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Intentsitate-maximoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Intentsitate-maximoa"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Datuak barrutitik kanpo",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647297231039,
+        "oldValue": "",
+        "newValue": "Datuak barrutitik kanpo"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Txakurra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Zakurra",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Zakurra",
+        "newValue": "Txakurra",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Dolar-billetea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Dolar-biletea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Dolar-biletea",
+        "newValue": "Dolar-billetea",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektroiak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Elektroiak",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Borragoma",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Borragoma",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Maiztasuna",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Maiztasuna"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Fusiblea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Fusiblea"
+      }
+    ]
+  },
+  "hand": {
+    "value": "Eskua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Eskua",
+        "explanation": null
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Induktantzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Induktantzia"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Induktorea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Induktorea"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Etiketak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Etiketak",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Bonbilla",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Bonbilla",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Handia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Zatiak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Zatiak",
+        "newValue": "Handia",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Magnitudea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647297231039,
+        "oldValue": "",
+        "newValue": "Magnitudea"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Paper-klipa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Paper-klipa",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Arkatza",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Lapitza",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Lapitza",
+        "newValue": "Arkatza",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Fase-aldaketa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Fase-aldaketa"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Erresistentzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Erresistentzia",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Erresistentzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Erresistentzia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Erresistentzia",
+        "newValue": "Erresistorea",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "Erresistorea",
+        "newValue": "Erresistentzia"
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Arau eskematikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Arau eskematikoa"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Erakutsi korrontea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Oraingoa erakutsi",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Oraingoa erakutsi",
+        "newValue": "Erakutsi korrontea",
+        "explanation": null
+      }
+    ]
+  },
+  "signed": {
+    "value": "Sinatuta",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647297231039,
+        "oldValue": "",
+        "newValue": "Sinatuta"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Iturriaren erresistentzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Iturriaren erresistentzia"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Kronometroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Kronometroa"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Etengailua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Etengailua",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Ezker-klik osagaiaren gainean, editatzeko",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Zirkuituaren osagaia ukitu editatzeko",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "Zirkuituaren osagaia ukitu editatzeko",
+        "newValue": "Ezker-klik osagaiaren gainean, editatzeko",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Etengailua itxita dago.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Etengailua itxita dago.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Etengailua irekita dago.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Etengailua irekita dago.",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Denbora",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Denbora"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "Oso txikia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "txiki-txikia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "txiki-txikia",
+        "newValue": "Oso txikia",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Balioak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Balioak",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Tentsioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Tentsioa",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Tentsioa (V)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Tentsioa (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Tentsio-taula",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Tentsio-taula"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmetroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Voltmetroa",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Kablea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Kablea",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Kable-erresistentzia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "Kable-erresistibitatea",
+        "explanation": null
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "Kable-erresistibitatea",
+        "newValue": "Kable-erresistentzia"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohm",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohm-ak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "{{resistance}} ohm-ak",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volt",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "{{voltage}} volt-ak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "{{voltage}} volt-ak",
+        "newValue": "{{voltage}} volt",
+        "explanation": null
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Benetako bonbilla",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1614363137595,
+        "oldValue": "",
+        "newValue": "Benetako bonbilla"
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} ohm",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1509441557129,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohm-ak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561274124893,
+        "oldValue": "{{resistance}} ohm-ak",
+        "newValue": "{{resistance}} ohm",
+        "explanation": null
+      }
+    ]
+  }
+}

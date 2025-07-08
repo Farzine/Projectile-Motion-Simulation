@@ -1,0 +1,68 @@
+{
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "matla a holima {{thisObject}} ka {{otherObject}}",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1671205108778,
+        "oldValue": "",
+        "newValue": "matla a holima {{thisObject}} ka {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "matla a holima {{thisObject}} ka {{otherObject}}= {{value}} N",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1671205108778,
+        "oldValue": "",
+        "newValue": "matla a holima {{thisObject}} ka {{otherObject}}= {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Lipalo tsa Matla",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630990550,
+        "oldValue": "",
+        "newValue": "Lipalo tsa Matla"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1672155350789,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "meter",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630990550,
+        "oldValue": "",
+        "newValue": "meter"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "meters",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630990550,
+        "oldValue": "",
+        "newValue": "meters"
+      }
+    ]
+  }
+}

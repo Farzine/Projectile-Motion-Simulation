@@ -1,0 +1,365 @@
+{
+  "pointCoordinatesPattern": {
+    "value": "({{xCoordinate}}, {{yCoordinate}})",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "({{xCoordinate}}, {{yCoordinate}})"
+      }
+    ]
+  },
+  "deltaEqualsPattern": {
+    "value": "Δ<sub>{{y}}</sub> = {{deltaValue}}",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "Δ<sub>{{y}}</sub> = {{deltaValue}}"
+      }
+    ]
+  },
+  "ySymbol": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "cubic": {
+    "value": "Kubik",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "Kubik"
+      }
+    ]
+  },
+  "linear": {
+    "value": "Kwụ Ọtọ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "Kwụ ọtọ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1664952753844,
+        "oldValue": "Kwụ ọtọ",
+        "newValue": "Kwụ Ọtọ"
+      }
+    ]
+  },
+  "quadratic": {
+    "value": "Gbadaa",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "gbadaa"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "gbadaa",
+        "newValue": "Gbadaa"
+      }
+    ]
+  },
+  "aSymbol": {
+    "value": "a",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "a"
+      }
+    ]
+  },
+  "bSymbol": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "b"
+      }
+    ]
+  },
+  "cSymbol": {
+    "value": "c",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "c"
+      }
+    ]
+  },
+  "dSymbol": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "xSymbol": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "adjustableFit": {
+    "value": "Hazie dabara",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "hazie dabara"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "hazie dabara",
+        "newValue": "Hazie dabara"
+      }
+    ]
+  },
+  "bestFit": {
+    "value": "Kacha mma dabara",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "Kacha mma dabara"
+      }
+    ]
+  },
+  "curve": {
+    "value": "Gburugburu",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "gburugburu"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "gburugburu",
+        "newValue": "Gburugburu"
+      }
+    ]
+  },
+  "residuals": {
+    "value": "Ihe Fọdụrụ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "Ihe fọdụrụ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "Ihe fọdụrụ",
+        "newValue": "Ihe Fọdụrụ"
+      }
+    ]
+  },
+  "values": {
+    "value": "Nha",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "nha"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "nha",
+        "newValue": "Nha"
+      }
+    ]
+  },
+  "fEqualsNumberOfParametersPattern": {
+    "value": "{{fSymbol}} = ọnụ ọgụgụ parampat dabara adaba (dịka {{fSymbol}} = 4, maka otu kubik dabara)",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "{{fSymbol}} = ọnụ ọgụgụ parampat dabara adaba (dịka {{fSymbol}} = 4, maka otu kubik dabara)"
+      }
+    ]
+  },
+  "nEqualsNumberOfDataPointsPattern": {
+    "value": "{{nSymbol}} = ọnụọgụ ebe ndozi",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "{{nSymbol}} = ọnụọgụ ebe ndozi"
+      }
+    ]
+  },
+  "chiSymbol": {
+    "value": "X",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "X"
+      }
+    ]
+  },
+  "fSymbol": {
+    "value": "f",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "f"
+      }
+    ]
+  },
+  "nSymbol": {
+    "value": "N",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "N"
+      }
+    ]
+  },
+  "theReducedChiSquaredStatisticIs": {
+    "value": "Mgbakọ na mwepụ nha nhata",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "mgbakọ na mwepụ nha nhata"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "mgbakọ na mwepụ nha nhata",
+        "newValue": "Mgbakọ na mwepụ nha nhata"
+      }
+    ]
+  },
+  "deviations": {
+    "value": "Ndiiche",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "ndiiche"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "ndiiche",
+        "newValue": "Ndiiche"
+      }
+    ]
+  },
+  "rSymbol": {
+    "value": "r",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "r"
+      }
+    ]
+  },
+  "equation": {
+    "value": "Hazi mgbakọ na mwepụ",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "hazi mgbakọ na mwepụ"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "hazi mgbakọ na mwepụ",
+        "newValue": "Hazi mgbakọ na mwepụ"
+      }
+    ]
+  },
+  "undefined": {
+    "value": "na-Akọwaghị",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "na-akọwaghị"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "na-akọwaghị",
+        "newValue": "na-Akọwaghị"
+      }
+    ]
+  },
+  "curve-fitting.title": {
+    "value": "Ịkpa Nkata Dabara",
+    "history": [
+      {
+        "userId": 971059,
+        "timestamp": 1659972024016,
+        "oldValue": "",
+        "newValue": "ịkpa nkata dabara"
+      },
+      {
+        "userId": 971059,
+        "timestamp": 1662800099407,
+        "oldValue": "ịkpa nkata dabara",
+        "newValue": "Ịkpa Nkata Dabara"
+      }
+    ]
+  }
+}

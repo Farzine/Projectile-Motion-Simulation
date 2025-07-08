@@ -1,0 +1,805 @@
+{
+  "screen.intro": {
+    "value": "Káábọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975046,
+        "oldValue": "",
+        "newValue": "Ọ̀rọ̀ Ìṣáájú"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240205,
+        "oldValue": "Ọ̀rọ̀ Ìṣáájú",
+        "newValue": "Káábọ̀"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Lààbu",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975046,
+        "oldValue": "",
+        "newValue": "Yara àyẹ̀wò"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240205,
+        "oldValue": "Yara àyẹ̀wò",
+        "newValue": "Lààbu"
+      }
+    ]
+  },
+  "addMutations": {
+    "value": "Ṣafikun Iyipada",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Ṣafikun Awọn iyipada"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240205,
+        "oldValue": "Ṣafikun Awọn iyipada",
+        "newValue": "Ṣafikun Awọn mutations"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Ṣafikun Awọn mutations",
+        "newValue": "Ṣafikun Iyipada"
+      }
+    ]
+  },
+  "dominant": {
+    "value": "Alakoso",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Dominant"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380284,
+        "oldValue": "Dominant",
+        "newValue": "Alakoso"
+      }
+    ]
+  },
+  "recessive": {
+    "value": "Jiini",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Recessive"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380284,
+        "oldValue": "Recessive",
+        "newValue": "Jiini"
+      }
+    ]
+  },
+  "addMutation": {
+    "value": "Ṣafikun Iyipada",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Ṣafikun  iyipada"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240205,
+        "oldValue": "Ṣafikun  iyipada",
+        "newValue": "Ṣafikun mutation"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Ṣafikun mutation",
+        "newValue": "Ṣafikun Iyipada"
+      }
+    ]
+  },
+  "allOfTheBunniesHaveDied": {
+    "value": "Gbogbo awọn bunnies ti ku.",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Gbogbo awọn bunnies ti ku."
+      }
+    ]
+  },
+  "environmentalFactors": {
+    "value": "Awọn Okunfa Ayika",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Awọn koko Ayika"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240205,
+        "oldValue": "Awọn koko Ayika",
+        "newValue": "Awọn Environmental Factors"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380284,
+        "oldValue": "Awọn Environmental Factors",
+        "newValue": "Awọn Okunfa Ayika"
+      }
+    ]
+  },
+  "environmentalFactor": {
+    "value": "Okùnfà  àyíká ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Awọn Okun Ayika"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240205,
+        "oldValue": "Awọn Okun Ayika",
+        "newValue": "Environmental Factors"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Environmental Factors",
+        "newValue": "Okùnfà  àyíká "
+      }
+    ]
+  },
+  "population": {
+    "value": "Olùgbé ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Olùgbé "
+      }
+    ]
+  },
+  "proportions": {
+    "value": "Ipin",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Awọn iwọn"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240205,
+        "oldValue": "Awọn iwọn",
+        "newValue": "Awọn proportions"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Awọn proportions",
+        "newValue": "Ipin"
+      }
+    ]
+  },
+  "pedigree": {
+    "value": "Pedigree",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Pedigree"
+      }
+    ]
+  },
+  "none": {
+    "value": "ko si",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "ko si"
+      }
+    ]
+  },
+  "memoryLimitMessage": {
+    "value": "Oriire!<br> <b>Olugbe bunny rẹ ti ye gun to<b>lati lu opin iranti ti kikopa.",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Oriire!<br> <b>Olugbe bunny rẹ ti ye gun to<b>lati lu opin iranti ti kikopa."
+      }
+    ]
+  },
+  "bunniesHaveTakenOverTheWorld": {
+    "value": "Bunnies ti gba agbaye kan!",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Bunnies ti gba agbaye kan!"
+      }
+    ]
+  },
+  "fur": {
+    "value": "Irun",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Fur"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Fur",
+        "newValue": "Irun"
+      }
+    ]
+  },
+  "furDominant": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "F"
+      }
+    ]
+  },
+  "furRecessive": {
+    "value": "f",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "f"
+      }
+    ]
+  },
+  "ears": {
+    "value": "Eti",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Eti"
+      }
+    ]
+  },
+  "earsDominant": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "E"
+      }
+    ]
+  },
+  "earsRecessive": {
+    "value": "e",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "e"
+      }
+    ]
+  },
+  "teeth": {
+    "value": "Eyin",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Eyin"
+      }
+    ]
+  },
+  "teethDominant": {
+    "value": "T",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "T"
+      }
+    ]
+  },
+  "teethRecessive": {
+    "value": "t",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "t"
+      }
+    ]
+  },
+  "whiteFur": {
+    "value": "Irun alawọ funfun",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Fur Alawọ funfun"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Fur Alawọ funfun",
+        "newValue": "Irun alawọ funfun"
+      }
+    ]
+  },
+  "brownFur": {
+    "value": "Irun alàwo pako",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Fur Alàwo pako"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Fur Alàwo pako",
+        "newValue": "Irun alàwo pako"
+      }
+    ]
+  },
+  "floppyEars": {
+    "value": "Awọn Eti fẹ́lẹ́fẹ́lẹ́ ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Awọn eti Floppy"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240206,
+        "oldValue": "Awọn eti Floppy",
+        "newValue": "Awọn Eti Floppy"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Awọn Eti Floppy",
+        "newValue": "Awọn Eti fẹ́lẹ́fẹ́lẹ́ "
+      }
+    ]
+  },
+  "straightEars": {
+    "value": "Eti tààrà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": " Awọn eti  Gígùn"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240206,
+        "oldValue": " Awọn eti  Gígùn",
+        "newValue": " Awọn straigt Eti"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": " Awọn straigt Eti",
+        "newValue": "Eti tààrà"
+      }
+    ]
+  },
+  "shortTeeth": {
+    "value": "Eyin kukuru",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Eyin Kukuru"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Eyin Kukuru",
+        "newValue": "Eyin kukuru"
+      }
+    ]
+  },
+  "longTeeth": {
+    "value": "Eyin gigun",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Eyin gigun"
+      }
+    ]
+  },
+  "generationValue": {
+    "value": "Iran  {{value}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Iran  {{value}}"
+      }
+    ]
+  },
+  "limitedFood": {
+    "value": "Opin ounje",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Opin ounje"
+      }
+    ]
+  },
+  "toughFood": {
+    "value": "Ounjẹ Alakikanju",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Ounjẹ Alakikanju"
+      }
+    ]
+  },
+  "wolves": {
+    "value": "Awon ìkookò",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Awon ìkookò’"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Awon ìkookò’",
+        "newValue": "Awon ìkookò"
+      }
+    ]
+  },
+  "mutationComing": {
+    "value": "Iyipada bọ̀",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Mutation Coming..."
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Mutation Coming...",
+        "newValue": "Iyipada bọ̀"
+      }
+    ]
+  },
+  "alleles": {
+    "value": "Alleles",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Alleles"
+      }
+    ]
+  },
+  "selectABunny": {
+    "value": "Yan Bunny kan",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Yan Bunny kan"
+      }
+    ]
+  },
+  "startOfGeneration": {
+    "value": "Ibẹrẹ ti Iran",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Ibẹrẹ ti Iran"
+      }
+    ]
+  },
+  "endOfGeneration": {
+    "value": "Ipari Iran",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Ipari Iran"
+      }
+    ]
+  },
+  "noData": {
+    "value": "Ko si dàtà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Ko si data"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Ko si data",
+        "newValue": "Ko si dàtà"
+      }
+    ]
+  },
+  "currently": {
+    "value": "Lọwọlọwọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Lọwọlọwọ"
+      }
+    ]
+  },
+  "oneBunny": {
+    "value": "Bunny eyokan",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Bunny eyokan"
+      }
+    ]
+  },
+  "countBunnies": {
+    "value": "{{count}} bunnies",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "{{count}} bunnies"
+      }
+    ]
+  },
+  "values": {
+    "value": "Idiyélé ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Awon idiyélé "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Awon idiyélé ",
+        "newValue": "Idiyélé "
+      }
+    ]
+  },
+  "generation": {
+    "value": "Iran",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "iran"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "iran",
+        "newValue": "Iran"
+      }
+    ]
+  },
+  "zoomOutToSeeData": {
+    "value": "Sun jade lati wo data.",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Sun jade lati wo data."
+      }
+    ]
+  },
+  "total": {
+    "value": "Lapapọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Lapapọ"
+      }
+    ]
+  },
+  "dataProbe": {
+    "value": "Iwadi Dátà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Iwadi Data"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Iwadi Data",
+        "newValue": "Iwadi Dátà"
+      }
+    ]
+  },
+  "addAMate": {
+    "value": "Safikun ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Fi Mate kun"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637329094265,
+        "oldValue": "Fi Mate kun",
+        "newValue": "Safikun Mate"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1638271380285,
+        "oldValue": "Safikun Mate",
+        "newValue": "Safikun "
+      }
+    ]
+  },
+  "play": {
+    "value": "Sééré",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Sééré"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Sẹsẹbẹrẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Lati ibẹrẹ"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240206,
+        "oldValue": "Lati ibẹrẹ",
+        "newValue": "Sẹsẹbẹrẹ"
+      }
+    ]
+  },
+  "greaterThanValuePercent": {
+    "value": ">{{value}}%",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": ">{{value}}%"
+      }
+    ]
+  },
+  "lessThanValuePercent": {
+    "value": "<{{value}}%",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "<{{value}}%"
+      }
+    ]
+  },
+  "valuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "natural-selection.title": {
+    "value": "Yíyàn adánidá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629824975047,
+        "oldValue": "",
+        "newValue": "Aṣayan Adayé ba"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1632258240206,
+        "oldValue": "Aṣayan Adayé ba",
+        "newValue": "Natural Selection"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637188630757,
+        "oldValue": "Natural Selection",
+        "newValue": "Yíyàn adánidá"
+      }
+    ]
+  }
+}

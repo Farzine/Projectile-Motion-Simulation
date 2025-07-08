@@ -1,0 +1,733 @@
+{
+  "collision-lab.title": {
+    "value": "Láábu ìkọlura ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995818,
+        "oldValue": "",
+        "newValue": "Yara Collision"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615611,
+        "oldValue": "Yara Collision",
+        "newValue": "Láábu Collision"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Láábu Collision",
+        "newValue": "Láábu ìkọlura "
+      }
+    ]
+  },
+  "pattern.vectorSymbolEqualsValueSpaceUnits": {
+    "value": "|{{symbol}}| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "|{{symbol}}| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "symbol.velocity": {
+    "value": "v",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "v"
+      }
+    ]
+  },
+  "units.metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "symbol.momentum": {
+    "value": "p",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "p"
+      }
+    ]
+  },
+  "units.kilogramMetersPerSecond": {
+    "value": "kg m/s",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "kg m/s"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Àkójọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Mass"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Mass",
+        "newValue": "Àkójọ"
+      }
+    ]
+  },
+  "units.kilograms": {
+    "value": "kg",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "kg"
+      }
+    ]
+  },
+  "momentum": {
+    "value": "Ìsúnniṣe",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Momentum"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Momentum",
+        "newValue": "Ìsúnniṣe"
+      }
+    ]
+  },
+  "position": {
+    "value": "Ipò",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "ipò"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": "ipò",
+        "newValue": "Ipò"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Iyárá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "ìwọ̀n ìyára"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": "ìwọ̀n ìyára",
+        "newValue": "Velocity"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Velocity",
+        "newValue": "Iyara"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763594396,
+        "oldValue": "Iyara",
+        "newValue": "Iyárá"
+      }
+    ]
+  },
+  "pattern.symbolSubSymbol": {
+    "value": "{{symbol1}}<sub>{{symbol2}}</sub>",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "{{symbol1}}<sub>{{symbol2}}</sub>"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "approximatePattern": {
+    "value": "~{{value}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "~{{value}}"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Arin Àkójọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Arin Massi"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Arin Massi",
+        "newValue": "Arin Àkójọ"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Agbára Kainẹ̀tik",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Agbára Kinetic"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Agbára Kinetic",
+        "newValue": "Agbára Kainẹ̀tik"
+      }
+    ]
+  },
+  "values": {
+    "value": "Iwọ̀n",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Awon ìwọ̀n"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Awon ìwọ̀n",
+        "newValue": "Iwọ̀n"
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "Iwọn aláìṣeéyípadà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": " ìwọn aláìṣeéyípadà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": " ìwọn aláìṣeéyípadà",
+        "newValue": "Size to wa Constant"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Size to wa Constant",
+        "newValue": "ìwọn aláìṣeéyípadà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763594396,
+        "oldValue": "ìwọn aláìṣeéyípadà",
+        "newValue": "Iwọn aláìṣeéyípadà"
+      }
+    ]
+  },
+  "reflectingBorder": {
+    "value": "Ojìji ibodè",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Aàlà Ti nṣe afihan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": "Aàlà Ti nṣe afihan",
+        "newValue": "Reflecting Border"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Reflecting Border",
+        "newValue": "òjìji ibodè"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": "òjìji ibodè",
+        "newValue": "Ojìji ibodè"
+      }
+    ]
+  },
+  "path": {
+    "value": "Ọ̀nà ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Ọ̀nà "
+      }
+    ]
+  },
+  "custom": {
+    "value": "Asa",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "ìṣe"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": "ìṣe",
+        "newValue": "Custom"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637275978629,
+        "oldValue": "Custom",
+        "newValue": "Asa"
+      }
+    ]
+  },
+  "pattern.valueSpaceUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.seconds": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}}{{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "{{value}}{{units}}"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "%",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "%"
+      }
+    ]
+  },
+  "inelastic": {
+    "value": "Alailagbara lati ran",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Alailagbara lati ran"
+      }
+    ]
+  },
+  "elastic": {
+    "value": "Ríràn",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Ríràn"
+      }
+    ]
+  },
+  "elasticity": {
+    "value": "Agbára lati ran",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Agbára lati ran"
+      }
+    ]
+  },
+  "enter": {
+    "value": "Sàtẹ̀wọlé",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "ṣàtẹ̀wọlé"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": "ṣàtẹ̀wọlé",
+        "newValue": "Sàtẹ̀wọlé"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} sí {{max}} {{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "{{min}} sí {{max}} {{units}}"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueSpaceUnits": {
+    "value": "{{label}} = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "{{label}} = {{value}} {{units}}"
+      }
+    ]
+  },
+  "units.joules": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "J"
+      }
+    ]
+  },
+  "momentaDiagram": {
+    "value": "Àwòrán Momenta",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": " Àwòrán Momenta"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": " Àwòrán Momenta",
+        "newValue": "Àwòrán Momenta"
+      }
+    ]
+  },
+  "total": {
+    "value": "Lápapọ̀ ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Lápapọ̀ "
+      }
+    ]
+  },
+  "moreData": {
+    "value": "Dátà pupo",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": " dátà pupo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": " dátà pupo",
+        "newValue": " Dátà pupo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": " Dátà pupo",
+        "newValue": "Dátà pupo"
+      }
+    ]
+  },
+  "balls": {
+    "value": "Bọ́ọ̀lù",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Awon bọ́ọ̀lù"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": "Awon bọ́ọ̀lù",
+        "newValue": "Bọ́ọ̀lù"
+      }
+    ]
+  },
+  "returnBalls": {
+    "value": "Dá bọ́ọ̀lù pádá   ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Àbọ̀ aAwon bọ́ọ̀lù "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": "Àbọ̀ aAwon bọ́ọ̀lù ",
+        "newValue": "Dá  bọ́ọ̀lù pádá   "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": "Dá  bọ́ọ̀lù pádá   ",
+        "newValue": "Dá bọ́ọ̀lù pádá   "
+      }
+    ]
+  },
+  "screen.explore1D": {
+    "value": "Yànàná 1D",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Yànàná 1D"
+      }
+    ]
+  },
+  "screen.explore2D": {
+    "value": "Yànàná 2D",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Yànàná 2D"
+      }
+    ]
+  },
+  "screen.inelastic": {
+    "value": "Alailagbara lati ran",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Alailagbara lati ran"
+      }
+    ]
+  },
+  "inelasticCollision": {
+    "value": "Ikọlura Alailagbara lati ran",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Collision Alailagbara lati ran"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637276528436,
+        "oldValue": "Collision Alailagbara lati ran",
+        "newValue": "ìkọlura Alailagbara lati ran"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": "ìkọlura Alailagbara lati ran",
+        "newValue": "Ikọlura Alailagbara lati ran"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueUnits": {
+    "value": "{{label}} = {{value}}{{units}}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "{{label}} = {{value}}{{units}}"
+      }
+    ]
+  },
+  "stick": {
+    "value": "Duro ti",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Duro ti"
+      }
+    ]
+  },
+  "slip": {
+    "value": "Yọ́ ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Yọ́ kuro"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": "Yọ́ kuro",
+        "newValue": "Yọ́ "
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Kábọ́",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": " SpreadsỌ̀rọ̀ Ìṣáájú"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630500615612,
+        "oldValue": " SpreadsỌ̀rọ̀ Ìṣáájú",
+        "newValue": "Kábọ́"
+      }
+    ]
+  },
+  "changeInMomentum": {
+    "value": "Àyípadà ninu isúnniṣe",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629274995819,
+        "oldValue": "",
+        "newValue": "Àyípadà ninu Momentum"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763286180,
+        "oldValue": "Àyípadà ninu Momentum",
+        "newValue": "Àyípadà ninu Ìsúnniṣe"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1637763594396,
+        "oldValue": "Àyípadà ninu Ìsúnniṣe",
+        "newValue": "Àyípadà ninu isúnniṣe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "ButtonNode.ReturnMolecule": {
+    "value": "بازگرداندن مولکول",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "بازگرداندن مولکول",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonDioxide": {
+    "value": "دی اکسید کربن",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "دی اکسید کربن",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonMonoxide": {
+    "value": "منوکسید کربن",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "منوکسیدکربن",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "منوکسیدکربن",
+        "newValue": "منوکسید کربن",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Nitrogen": {
+    "value": "نیتروژن",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "نیتروژن",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.NitrogenDioxide": {
+    "value": "دی اکسید نیتروژن",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "دی اکسید نیتروژن",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Oxygen": {
+    "value": "اکسیژن",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "اکسیژن",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Ozone": {
+    "value": "اوزن",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "اوزن",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Water": {
+    "value": "آب",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "آب",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.HigherEnergy": {
+    "value": "افزایش انرژی",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "افزایش انرژی",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Infrared": {
+    "value": "فروسرخ",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "فروسرخ",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Microwave": {
+    "value": "مایکروویو",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "مایکروویو",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Ultraviolet": {
+    "value": "فرابنفش",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "فرابنفش",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Visible": {
+    "value": "نور مرئی",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "نور مرئی",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.buttonCaption": {
+    "value": "طیف نوری را نشان بده",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "طیف نوری را نشان بده",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.close": {
+    "value": "بستن",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "بستن",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.cyclesPerSecondUnits": {
+    "value": "Hz",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.frequencyArrowLabel": {
+    "value": "افزایش فرکانس و انرژی",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "افزایش فرکانس و انرژی",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.gammaRayBandLabel": {
+    "value": "پرتو\nگاما",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "پرتو\nگاما",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.infraredBandLabel": {
+    "value": "فروسرخ",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "فروسرخ",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.metersUnits": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.microwaveBandLabel": {
+    "value": "مایکروویو",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "مایکروویو",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.radioBandLabel": {
+    "value": "موج رادیویی",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "موج رادیویی",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.title": {
+    "value": "طیف نوری",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "طیف نوری",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.ultravioletBandLabel": {
+    "value": "فرا\nبنفش",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "فرا\nبنفش",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.visibleBandLabel": {
+    "value": "نور مرئی",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "نور مرئی",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.wavelengthArrowLabel": {
+    "value": "افزایش طول موج",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "افزایش طول موج",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.xrayBandLabel": {
+    "value": "پرتو ایکس",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "پرتو ایکس",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules-and-light.title": {
+    "value": "مولکول ها و نور",
+    "history": [
+      {
+        "userId": 241525,
+        "timestamp": 1452301566454,
+        "oldValue": "",
+        "newValue": "مولکول ها و نور",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.observationWindow": {
+    "value": "پنجرۀ مشاهده",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "",
+        "newValue": "پنجرۀ مشاهده"
+      }
+    ]
+  },
+  "keyboardHelpDialog.turnLightSourceOnOrOff": {
+    "value": "منبع نور را روشن یا خاموش کن",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "",
+        "newValue": "منبع نور را روشن یا خاموش کن"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pauseOrPlayShortcut": {
+    "value": "پنجره مشاهده را پخش یا متوقف کن",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "",
+        "newValue": "پنجره مشاهده را پخش یا متوقف کن"
+      }
+    ]
+  },
+  "keyboardHelpDialog.stepForwardShortcut": {
+    "value": "هنگامی که عمل متوقف شد با گام های بزرگتر به جلو برو",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "",
+        "newValue": "هنگامی که عمل متوقف شد با گام های بزرگتر به جلو برو"
+      }
+    ]
+  },
+  "molecularNamePattern": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "",
+        "newValue": "{0} ({1})"
+      }
+    ]
+  },
+  "ControlPanel.Methane": {
+    "value": "متان",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "",
+        "newValue": "متان"
+      }
+    ]
+  },
+  "openSciEd.energySource": {
+    "value": "انرژی از سطح زمین",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714807425494,
+        "oldValue": "",
+        "newValue": "انرژی از سطح زمین"
+      }
+    ]
+  }
+}

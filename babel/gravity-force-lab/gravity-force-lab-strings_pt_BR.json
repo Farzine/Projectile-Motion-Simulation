@@ -1,0 +1,568 @@
+{
+  "units.meters": {
+    "value": "metros",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788820,
+        "oldValue": "",
+        "newValue": "metros",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "kg",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788820,
+        "oldValue": "",
+        "newValue": "kg",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source": {
+    "value": "Força em {0} por {1}",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788820,
+        "oldValue": "",
+        "newValue": "Força em {0} por {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source_value": {
+    "value": "Força sobre {0} por {1} = {2} N",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788820,
+        "oldValue": "",
+        "newValue": "Força sobre {0} por {1} = {2} N",
+        "explanation": null
+      }
+    ]
+  },
+  "constantRadius": {
+    "value": "Mesmos Raios",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788820,
+        "oldValue": "",
+        "newValue": "Mesmos Raios",
+        "explanation": null
+      }
+    ]
+  },
+  "showValues": {
+    "value": "Mostrar Valores",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788820,
+        "oldValue": "",
+        "newValue": "Mostrar Valores",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1": {
+    "value": "Massa 1",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Massa 1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2": {
+    "value": "Massa 2",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Massa 2",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1Abbreviated": {
+    "value": "m1",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "m1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2Abbreviated": {
+    "value": "m2",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "m2",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity-force-lab.title": {
+    "value": "Laboratório de Força Gravitacional",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Laboratório de Força Gravítica",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1582923199622,
+        "oldValue": "Laboratório de Força Gravítica",
+        "newValue": "Laboratório de Força Gravitacional",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassLabel": {
+    "value": "Mudar Massa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mudar Massa",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassHeading": {
+    "value": "Mudar Massa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mudar Massa",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassInLargerSteps": {
+    "value": "Mudar muito a massa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mudar muito a massa",
+        "explanation": null
+      }
+    ]
+  },
+  "changeMassInSmallerSteps": {
+    "value": "Mudar a massa aos poucos",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mudar a massa aos poucos",
+        "explanation": null
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "Mesmos raios",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Tamanho da Contante",
+        "explanation": null
+      },
+      {
+        "userId": 143491,
+        "timestamp": 1576866437356,
+        "oldValue": "Tamanho da Contante",
+        "newValue": "Mesmos raios",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpStartOfSphere": {
+    "value": "Pular o começo da régua para<br>o centro da esfera m1",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Pular o começo da régua para<br>o centro da esfera m1",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpHome": {
+    "value": "Pular para posição inicial",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Pular para posição inicial",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToLeft": {
+    "value": "Pular para a esquerda",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Pular para a esquerda",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToMaximumMass": {
+    "value": "Pular para a massa máxima",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Pular para a massa máxima",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToMinimumMass": {
+    "value": "Pular para a massa mínima",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Pular para a massa mínima",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToRight": {
+    "value": "Pular para a direita",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Pular para a direita",
+        "explanation": null
+      }
+    ]
+  },
+  "moveGrabbedRuler": {
+    "value": "Mover régua agarrada",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mover régua agarrada",
+        "explanation": null
+      }
+    ]
+  },
+  "moveInLargerSteps": {
+    "value": "Mover a passos largos",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mover a passos largos",
+        "explanation": null
+      }
+    ]
+  },
+  "moveInSmallerSteps": {
+    "value": "Mover a passos curtos",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mover a passos curtos",
+        "explanation": null
+      }
+    ]
+  },
+  "moveOrJumpGrabbedRuler": {
+    "value": "Mover ou Pular a Régua Agarrada",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mover ou Pular a Régua Agarrada",
+        "explanation": null
+      }
+    ]
+  },
+  "moveSphereLabel": {
+    "value": "Mover esfera",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mover esfera",
+        "explanation": null
+      }
+    ]
+  },
+  "moveSpheresHeading": {
+    "value": "Mover esferas",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1572311205551,
+        "oldValue": "",
+        "newValue": "Mover esferas",
+        "explanation": null
+      }
+    ]
+  },
+  "body.name.earth": {
+    "value": "Terra",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Terra",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "Personalizar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Personalizar",
+        "explanation": null
+      }
+    ]
+  },
+  "module.force-laws.name": {
+    "value": "Leis de Força",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Leis de Força",
+        "explanation": null
+      }
+    ]
+  },
+  "module.sun-planet-system.name": {
+    "value": "Sistema Sol-Planeta",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Sistema Sol-Planeta",
+        "explanation": null
+      }
+    ]
+  },
+  "my.solar.system": {
+    "value": "Meu Sistema Solar",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Meu Sistema Solar",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size": {
+    "value": "Tamanho do Objeto",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Tamanho do Objeto",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size.actual-size": {
+    "value": "Realístico",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Realístico",
+        "explanation": null
+      }
+    ]
+  },
+  "object.size.cartoon": {
+    "value": "Esboço",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Esboço",
+        "explanation": null
+      }
+    ]
+  },
+  "planet": {
+    "value": "Planeta",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Planeta",
+        "explanation": null
+      }
+    ]
+  },
+  "planet.control.title": {
+    "value": "Planeta",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Planeta",
+        "explanation": null
+      }
+    ]
+  },
+  "readout.pattern-bodyname": {
+    "value": "{0} massa",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "{0} massa",
+        "explanation": null
+      }
+    ]
+  },
+  "related.sims": {
+    "value": "Simulações Relacionados",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Simulações Relacionados",
+        "explanation": null
+      }
+    ]
+  },
+  "sun": {
+    "value": "Sol",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Sol",
+        "explanation": null
+      }
+    ]
+  },
+  "sun.planet.controls": {
+    "value": "Definições",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Definições",
+        "explanation": null
+      }
+    ]
+  },
+  "units": {
+    "value": "Unidades",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Unidades",
+        "explanation": null
+      }
+    ]
+  },
+  "units.earth.masses": {
+    "value": "Massas da Terra",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "Massas da Terra",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kilometers": {
+    "value": "quilômetros",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "quilômetros",
+        "explanation": null
+      }
+    ]
+  },
+  "units.light-minutes": {
+    "value": "minutos-luz",
+    "history": [
+      {
+        "userId": 143491,
+        "timestamp": 1459368788821,
+        "oldValue": "",
+        "newValue": "minutos-luz",
+        "explanation": null
+      }
+    ]
+  }
+}

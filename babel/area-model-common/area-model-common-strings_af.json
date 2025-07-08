@@ -1,0 +1,294 @@
+{
+  "calculation": {
+    "value": "Berekening",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Berekening"
+      }
+    ]
+  },
+  "area": {
+    "value": "Oppervlak",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Oppervlak"
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Oppervlakmodel Berekening",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Oppervlakmodel berekening"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1678783740836,
+        "oldValue": "Oppervlakmodel berekening",
+        "newValue": "Oppervlakmodel Berekening",
+        "explanation": null
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Dimensies",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Dimensies"
+      }
+    ]
+  },
+  "factors": {
+    "value": "Faktore",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Faktore"
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Gedeeltelike Produk",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Gedeeltelike Produk"
+      }
+    ]
+  },
+  "product": {
+    "value": "Produk",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Produk"
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Totale oppervlak van Model",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Somtotaal van Model"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1678731240944,
+        "oldValue": "Somtotaal van Model",
+        "newValue": "Totale oppervlak van Model",
+        "explanation": null
+      }
+    ]
+  },
+  "partition": {
+    "value": "Verdeling",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Verdeling"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Ontdek",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Ontdek"
+      }
+    ]
+  },
+  "enter": {
+    "value": "Bereken",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Gaan in"
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1678731240944,
+        "oldValue": "Gaan in",
+        "newValue": "Bereken",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Generies",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Generies"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Bereken die gedeeltelike produk en sylengte.",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Bereken die gedeeltelike produk en sylengte."
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Bereken die gedeeltelike produk.",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Bereken die gedeeltelike produk."
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Bereken die gedeeltelike produk en somtotaal van die oppervlak.",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Bereken die gedeeltelike produk en somtotaal van die oppervlak."
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Bereken die sylengtes.",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Bereken die sylengtes."
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Bereken die totale oppervlak.",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Bereken die somtotaal."
+      },
+      {
+        "userId": 813497,
+        "timestamp": 1678731240944,
+        "oldValue": "Bereken die somtotaal.",
+        "newValue": "Bereken die totale oppervlak.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Bereken die sylengtes.",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Bereken die sylengtes."
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Bereken die gedeeltelike produkte.",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Bereken die gedeeltelike produkte."
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Speletjie",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Speletjie"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Veranderlikes",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678724438311,
+        "oldValue": "",
+        "newValue": "Veranderlikes"
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Desimale",
+    "history": [
+      {
+        "userId": 813497,
+        "timestamp": 1678783740836,
+        "oldValue": "",
+        "newValue": "Desimale"
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Vermenigvuldig",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738051991169,
+        "oldValue": "",
+        "newValue": "Vermenigvuldig"
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Partisie",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1738051991169,
+        "oldValue": "",
+        "newValue": "Partisie"
+      }
+    ]
+  }
+}

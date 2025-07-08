@@ -1,0 +1,1134 @@
+{
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1663050630729,
+        "oldValue": "",
+        "newValue": "Enter"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Tartu tai vapauta {{thing}}",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "Tartu tai vapauta {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Tartu tai vapauta {{thing}}",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "Tartu tai vapauta {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "tai",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "tai",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "sivu alaspäin",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1630155988925,
+        "oldValue": "sivu alaspäin",
+        "newValue": "Sivu alaspäin"
+      },
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "Sivu alaspäin",
+        "newValue": "Pg Dn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "sivu ylöspäin",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1630155988925,
+        "oldValue": "sivu ylöspäin",
+        "newValue": "Sivu ylöspäin"
+      },
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "Sivu ylöspäin",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Vaihto",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Vaihto"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Välilyönti",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Välilyönti"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Sarkain",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1670153348619,
+        "oldValue": "",
+        "newValue": "Sarkain"
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Aallonpituus",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Aallonpituus"
+      }
+    ]
+  },
+  "wavelengthNMValuePattern": {
+    "value": "{0} nm",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "{0} nm"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321768,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321768,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1622186974552,
+        "oldValue": "Ω",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Perustoiminnot",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Perustoiminnot"
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1670153348619,
+        "oldValue": "",
+        "newValue": "Aakkoslukko"
+      },
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "Aakkoslukko",
+        "newValue": "Caps Lock",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Loppu",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Loppu"
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Esc"
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Poistu",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Poistu"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Nopea",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Nopea"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Koti"
+      },
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "Koti",
+        "newValue": "Home",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Liiku ryhmän valintojen välillä",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Liiku ryhmän valintojen välillä"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Seuraava",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Seuraava"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Edellinen",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Edellinen"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normaali",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "normaali",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1630155988925,
+        "oldValue": "normaali",
+        "newValue": "Normaali"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Paina nappuloita",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Paina nappuloita"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Hidas",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "hidas",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "hidas",
+        "newValue": "Hidas"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Liiku valintojen välillä",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1663689254934,
+        "oldValue": "",
+        "newValue": "Liiku valintojen välillä"
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "Viivain",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1660654946626,
+        "oldValue": "",
+        "newValue": "Viivain"
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Viivain",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1660654946626,
+        "oldValue": "",
+        "newValue": "Viivain"
+      }
+    ]
+  },
+  "cool": {
+    "value": "Jäähdytä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Jäähdytä",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Lämmitä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Lämmitä",
+        "explanation": null
+      }
+    ]
+  },
+  "NumberControl.pattern_0value_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865311101,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454085877759,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454085877759,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL ei ole saatavilla. Klikkaa lisätietoa.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "WebGL ei ole saatavilla. Klikkaa lisätietoa.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Grafiikassa tapahtui virhe.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Grafiikassa tapahtui virhe.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Lataa uudelleen",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Lataa uudelleen",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Internet Explorerin päivittäminen on suositeltavaa.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Internet Explorerin päivittäminen on suositeltavaa.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Pienennetään grafiikan laatua",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Pienennetään grafiikan laatua",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "Nollaa kaikki",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "Nollaa kaikki"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "Aseta arvot näppäimistöllä",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "Aseta arvot näppäimistöllä"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "Option",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "Option"
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "Option",
+        "newValue": "Valinta",
+        "explanation": null
+      },
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "Valinta",
+        "newValue": "Option",
+        "explanation": null
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "key.a": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "key.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "key.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "key.r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "key.s": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "S"
+      }
+    ]
+  },
+  "key.w": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "key.one": {
+    "value": "1",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "1"
+      }
+    ]
+  },
+  "key.two": {
+    "value": "2",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "2"
+      }
+    ]
+  },
+  "key.three": {
+    "value": "3",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "3"
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686332343529,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686368634832,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Siirry seuraavaan",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686369831591,
+        "oldValue": "",
+        "newValue": "Siirry seuraavaan"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Siirry edelliseen",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1686369831591,
+        "oldValue": "",
+        "newValue": "Siirry edelliseen"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Ponnahdusvalikko",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Ponnahdusvalikko"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "valinta",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "valinta"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "valinnat",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "valinnat"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. {{thingPlural}} ponnahdusvalikko",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "1. {{thingPlural}} ponnahdusvalikko"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. Mene  {{thingPlural}} kautta",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "2. Mene  {{thingPlural}} kautta"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Valitse uusi {{thingSingular}}",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "3. Valitse uusi {{thingSingular}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "4. Sulje tallentamatta",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "4. Sulje tallentamatta"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Liukusäädöt",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Liukusäädöt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Säädä",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Säädä"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "liukusäädin",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "liuku"
+      },
+      {
+        "userId": 11244837,
+        "timestamp": 1731745715882,
+        "oldValue": "liuku",
+        "newValue": "liukusäädin",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "maksimi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "maksimi"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "minimi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "minimi"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} pienemmin askelin",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "{{verb}} pienemmin askelin"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} suuremmin askelin",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "{{verb}} suuremmin askelin"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Siirry {{minimum}}",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Siirry {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Siirry {{maximum}}",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Siirry {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "Liiku",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Liiku"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "Liiku hitaammin",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Liiku hitaammin"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "Siirrä liikutettavia kohteita",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1712459545629,
+        "oldValue": "",
+        "newValue": "Siirrä liikutettavia kohteita"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Siirry maksimiin",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731745244906,
+        "oldValue": "",
+        "newValue": "Siirry maksimiin"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Siirry minimiin",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731745244906,
+        "oldValue": "",
+        "newValue": "Siirry minimiin"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Säädä liukusäädintä",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731745244906,
+        "oldValue": "",
+        "newValue": "Säädä liukusäädintä"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Säädä pienemmissä askelissa",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731745244906,
+        "oldValue": "",
+        "newValue": "Säädä pienemmissä askelissa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Säädä suuremmissa askelissa",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731745244906,
+        "oldValue": "",
+        "newValue": "Säädä suuremmissa askelissa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+    "value": "Pysäytä tai aloita toiminta",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731745244906,
+        "oldValue": "",
+        "newValue": "Pysäytä tai aloita toiminta"
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "to <b>Grab</b> or <b>Release</b>",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731745715882,
+        "oldValue": "",
+        "newValue": "to <b>Grab</b> or <b>Release</b>"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 11244837,
+        "timestamp": 1731765420385,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.faucetControls": {
+    "value": "Hanan säätimet",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "",
+        "newValue": "Hanan säätimet"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+    "value": "Säädä hanan virtausta",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "",
+        "newValue": "Säädä hanan virtausta"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+    "value": "Säädä pienin askelin",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "",
+        "newValue": "Säädä pienin askelin"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+    "value": "Säädä suurin askelin",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "",
+        "newValue": "Säädä suurin askelin"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.closeFaucet": {
+    "value": "Sulje hana",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "",
+        "newValue": "Sulje hana"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetFully": {
+    "value": "Avaa hana kokonaan",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "",
+        "newValue": "Avaa hana kokonaan"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+    "value": "Avaa hanaa hieman",
+    "history": [
+      {
+        "userId": 1135480,
+        "timestamp": 1745404034257,
+        "oldValue": "",
+        "newValue": "Avaa hanaa hieman"
+      }
+    ]
+  }
+}

@@ -1,0 +1,832 @@
+{
+  "body.custom": {
+    "value": "Na al’ada",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Na al’ada"
+      }
+    ]
+  },
+  "body.earth": {
+    "value": "Duniyar ƙasa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Duniyar ƙasa "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Duniyar ƙasa ",
+        "newValue": "Duniyar ƙasa",
+        "explanation": null
+      }
+    ]
+  },
+  "body.jupiter": {
+    "value": "Duniyar Jopita",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Duniyar Jopita "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Duniyar Jopita ",
+        "newValue": "Duniyar Jopita",
+        "explanation": null
+      }
+    ]
+  },
+  "body.moon": {
+    "value": "Wata",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Wata "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Wata ",
+        "newValue": "Wata",
+        "explanation": null
+      }
+    ]
+  },
+  "body.planetX": {
+    "value": "Duniya mai harafin X",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Duniya mai harafin X"
+      }
+    ]
+  },
+  "elasticPotentialEnergy": {
+    "value": "Attakkar da ke cikin abinda ake iya miƙewa ko matsewa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Attakkar da ke cikin abinda ake iya miƙewa ko matsewa "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Attakkar da ke cikin abinda ake iya miƙewa ko matsewa ",
+        "newValue": "Attakkar da ke cikin abinda ake iya miƙewa ko matsewa",
+        "explanation": null
+      }
+    ]
+  },
+  "energyGraph": {
+    "value": "Taswirar kuzari",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Taswirar kuzari "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Taswirar kuzari ",
+        "newValue": "Taswirar kuzari",
+        "explanation": null
+      }
+    ]
+  },
+  "energyLegend": {
+    "value": "Taswirar kuzari",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Taswirar kuzari "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Taswirar kuzari ",
+        "newValue": "Taswirar kuzari",
+        "explanation": null
+      }
+    ]
+  },
+  "eTherm": {
+    "value": "E<sub>therm</sub>",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "",
+        "newValue": "E<sub>therm</sub>"
+      }
+    ]
+  },
+  "gravitationalPotentialEnergy": {
+    "value": "Attakkar dake tsakanin abubuwa biyu",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Attakkar da kega Abubuwa biyu Manya-manya idan suna kusa da juna "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "Attakkar da kega Abubuwa biyu Manya-manya idan suna kusa da juna ",
+        "newValue": "Attakkar dake tsakanin abubuwa biyu "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Attakkar dake tsakanin abubuwa biyu ",
+        "newValue": "Attakkar dake tsakanin abubuwa biyu",
+        "explanation": null
+      }
+    ]
+  },
+  "ke": {
+    "value": "KE",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Haruffan K da E"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668512534948,
+        "oldValue": "Haruffan K da E",
+        "newValue": "KE"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Attakkar dake ga abu idan yana tafiya",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Attakkar dake ga abu idan yana tafiya "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Attakkar dake ga abu idan yana tafiya ",
+        "newValue": "Attakkar dake ga abu idan yana tafiya",
+        "explanation": null
+      }
+    ]
+  },
+  "peElas": {
+    "value": "PE<sub>elas</sub>",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Haruffan P da E"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "Haruffan P da E",
+        "newValue": "PE<sub>elas</sub>"
+      }
+    ]
+  },
+  "peGrav": {
+    "value": "PE<sub>grav</sub>",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Haruffan P da E"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "Haruffan P da E",
+        "newValue": "PE<sub>grav</sub>"
+      }
+    ]
+  },
+  "thermalEnergy": {
+    "value": "Attakkar zafi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Attakkar zafi "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Attakkar zafi ",
+        "newValue": "Attakkar zafi",
+        "explanation": null
+      }
+    ]
+  },
+  "totalEnergy": {
+    "value": "Jimlar Attakka",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Jimlar Attakka"
+      }
+    ]
+  },
+  "eTot": {
+    "value": "E<sub>total</sub>",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "E<sub>total</sub>"
+      }
+    ]
+  },
+  "massValue": {
+    "value": "{{mass}} g",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "{{mass}} harafin g"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "{{mass}} harafin g",
+        "newValue": "{{mass}} g"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Alamar tambaya"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665503525118,
+        "oldValue": "Alamar tambaya",
+        "newValue": "?"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Nauyi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Nauyi "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Nauyi ",
+        "newValue": "Nauyi",
+        "explanation": null
+      }
+    ]
+  },
+  "cm": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Santi mita"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665503525118,
+        "oldValue": "Santi mita",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "damping": {
+    "value": "Rage saurin kai-da-komo",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Rage saurin kai-da-komo (saboda wucewar lokaci)"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304780276,
+        "oldValue": "Rage saurin kai-da-komo (saboda wucewar lokaci)",
+        "newValue": "Rage saurin kai-da-komo"
+      }
+    ]
+  },
+  "dampingEqualsZero": {
+    "value": "Damping {{equalsZero}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Rage saurin kai-da-komo (saboda wucewar lokaci){{equalsZero}}"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "Rage saurin kai-da-komo (saboda wucewar lokaci){{equalsZero}}",
+        "newValue": "Damping {{equalsZero}}"
+      }
+    ]
+  },
+  "lots": {
+    "value": "Dayawa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Dayawa"
+      }
+    ]
+  },
+  "none": {
+    "value": "Ba ko ɗaya ba",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Ba ko ɗaya ba "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Ba ko ɗaya ba ",
+        "newValue": "Ba ko ɗaya ba",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Nauyin iska",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Nauyin iska (Maganaɗisun da ke jawo abu zuwa ban kasa)"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "Nauyin iska (Maganaɗisun da ke jawo abu zuwa ban kasa)",
+        "newValue": "Nauyin iska"
+      }
+    ]
+  },
+  "gravityValue": {
+    "value": "{{gravity}}m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "{{gravity}}"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "{{gravity}}",
+        "newValue": "{{gravity}}m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "whatIsTheValueOfGravity": {
+    "value": "Minene ƙimar nauyin iska?",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Minene ƙimar nauyin iska?"
+      }
+    ]
+  },
+  "massEquilibrium": {
+    "value": "Inda nauyi ya Daidaita",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Inda nauyi ya Daidaita "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Inda nauyi ya Daidaita ",
+        "newValue": "Inda nauyi ya Daidaita",
+        "explanation": null
+      }
+    ]
+  },
+  "movableLine": {
+    "value": "Layin da ake iya gusarwa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Layin da ake iya gusarwa "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Layin da ake iya gusarwa ",
+        "newValue": "Layin da ake iya gusarwa",
+        "explanation": null
+      }
+    ]
+  },
+  "displacement": {
+    "value": "Turewa (zakuɗa)",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Turewa (zakuɗa)"
+      }
+    ]
+  },
+  "naturalLength": {
+    "value": "Tsawo na asali",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Tsawo na asali "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Tsawo na asali ",
+        "newValue": "Tsawo na asali",
+        "explanation": null
+      }
+    ]
+  },
+  "periodTrace": {
+    "value": "Layi mai nuna lokaci",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Layi mai nuna lokaci "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1681818066807,
+        "oldValue": "Layi mai nuna lokaci ",
+        "newValue": "Layi mai nuna lokaci",
+        "explanation": null
+      }
+    ]
+  },
+  "springConstant": {
+    "value": "Spring Constant {{spring}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Lambar sifirin {{spring}}"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304780276,
+        "oldValue": "Lambar sifirin {{spring}}",
+        "newValue": "Spring Constant {{spring}}"
+      }
+    ]
+  },
+  "heightEqualsZero": {
+    "value": "Tsawo = 0 m",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Tsawo "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "Tsawo ",
+        "newValue": "Tsawo = 0"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665503525118,
+        "oldValue": "Tsawo = 0",
+        "newValue": "Tsawo = 0 m"
+      }
+    ]
+  },
+  "large": {
+    "value": "Babba",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Babba"
+      }
+    ]
+  },
+  "small": {
+    "value": "Ƙarami",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Ƙarami"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Kuzari/Attakka",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Kuzari/Attakka"
+      }
+    ]
+  },
+  "thickness": {
+    "value": "Kauri",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Kauri"
+      }
+    ]
+  },
+  "equilibriumPosition": {
+    "value": "Wurin da aka samu daidaita",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Daidaita"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668512534948,
+        "oldValue": "Daidaita",
+        "newValue": "Wurin da aka samu daidaita"
+      }
+    ]
+  },
+  "constantParameter": {
+    "value": "Abinda bai canzawa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Abinda bai canzawa"
+      }
+    ]
+  },
+  "length": {
+    "value": "Tsawon sifirin {{spring}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Tsawon sifirin {{spring}}"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304780276,
+        "oldValue": "Tsawon sifirin {{spring}}",
+        "newValue": "Spring Length {{spring}}"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668512534948,
+        "oldValue": "Spring Length {{spring}}",
+        "newValue": "Tsawon sifirin {{spring}}"
+      }
+    ]
+  },
+  "long": {
+    "value": "Dogo",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Dogo"
+      }
+    ]
+  },
+  "short": {
+    "value": "Gajere",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Gajere"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Gabatarwa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Gabatarwa"
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Ujila",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Ujila"
+      }
+    ]
+  },
+  "forces": {
+    "value": "Ƙarfi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Ƙarfi"
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Jimlar ƙarfi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Jimlar ƙarfi"
+      }
+    ]
+  },
+  "spring": {
+    "value": "Sifirin",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Sifirin (Abinda ake iya miƙewa da matsewa)"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668512534948,
+        "oldValue": "Sifirin (Abinda ake iya miƙewa da matsewa)",
+        "newValue": "Sifirin"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Sauri",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Sauri"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Ɗakin binciken kimiyya",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Dakin bincike"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668512534948,
+        "oldValue": "Dakin bincike",
+        "newValue": "Ɗakin binciken kimiyya"
+      }
+    ]
+  },
+  "screen.vectors": {
+    "value": "Hamili",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Hamili"
+      }
+    ]
+  },
+  "masses-and-springs.title": {
+    "value": "Nauyayyaki da sifirin-sifirin",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114966516,
+        "oldValue": "",
+        "newValue": "Nauyayyaki da sifirin-sifirin"
+      }
+    ]
+  },
+  "springConstantPattern": {
+    "value": "Spring Constant {{spring}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "",
+        "newValue": "Spring Constant {{spring}}"
+      }
+    ]
+  },
+  "springStrength": {
+    "value": "Spring Strength {{spring}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660222817184,
+        "oldValue": "",
+        "newValue": "Karfin dake ga sifirin {{spring}}"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665304624735,
+        "oldValue": "Karfin dake ga sifirin {{spring}}",
+        "newValue": "Spring Strength {{spring}}"
+      }
+    ]
+  }
+}

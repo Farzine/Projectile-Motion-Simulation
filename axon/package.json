@@ -1,0 +1,21 @@
+{
+  "name": "axon",
+  "version": "1.0.0-dev.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/axon.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "generatedUnitTests": true,
+    "requirejsNamespace": "AXON",
+    "supportedBrands": [
+      "phet",
+      "phet-io"
+    ],
+    "supportsOutputJS": true
+  }
+}

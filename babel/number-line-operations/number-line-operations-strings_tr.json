@@ -1,0 +1,350 @@
+{
+  "screen.chips": {
+    "value": "Çipler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "Çipler"
+      }
+    ]
+  },
+  "operationDescriptions": {
+    "value": "İşlem Açıklamaları",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "İşlem Açıklamaları"
+      }
+    ]
+  },
+  "operationLabels": {
+    "value": "İşlem Etiketleri",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "İşlem Etiketleri"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Noktalar",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "İşaretleme Kalemi "
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1616267684192,
+        "oldValue": "İşaretleme Kalemi ",
+        "newValue": "Noktalar"
+      }
+    ]
+  },
+  "positives": {
+    "value": "Pozitif",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "Pozitif"
+      }
+    ]
+  },
+  "negatives": {
+    "value": "Negatif",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "Negatif"
+      }
+    ]
+  },
+  "netWorth": {
+    "value": "Net Değer",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "Net Değer"
+      }
+    ]
+  },
+  "currencyUnits": {
+    "value": "₺",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "₺"
+      }
+    ]
+  },
+  "operationOffScale": {
+    "value": "İşlem ölçeği kapalı",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "İşlem ölçeği kapalı"
+      }
+    ]
+  },
+  "add": {
+    "value": "ekle",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "ekle"
+      }
+    ]
+  },
+  "remove": {
+    "value": "çıkar ",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "çıkar "
+      }
+    ]
+  },
+  "addRemoveAssetDebtPattern": {
+    "value": "{{currencyUnits}}{{value}} {{assetOrDebt}} {{addOrRemove}}",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684192,
+        "oldValue": "",
+        "newValue": "{{currencyUnits}}{{value}} {{assetOrDebt}} {{addOrRemove}}"
+      }
+    ]
+  },
+  "asset": {
+    "value": "varlık",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "mal varlığı"
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1616267684192,
+        "oldValue": "mal varlığı",
+        "newValue": "varlık"
+      }
+    ]
+  },
+  "debt": {
+    "value": "borç",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "borçlar"
+      },
+      {
+        "userId": 707975,
+        "timestamp": 1616267684192,
+        "oldValue": "borçlar",
+        "newValue": "borç"
+      }
+    ]
+  },
+  "addRemovePositiveNegativePattern": {
+    "value": "{{positiveOrNegative}} {{value}} {{addOrRemove}} ",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684192,
+        "oldValue": "",
+        "newValue": "{{positiveOrNegative}} {{value}} {{addOrRemove}} "
+      }
+    ]
+  },
+  "positive": {
+    "value": "pozitif",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "pozitif"
+      }
+    ]
+  },
+  "negative": {
+    "value": "negatif",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "negatif"
+      }
+    ]
+  },
+  "total": {
+    "value": "Toplam",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "Toplam"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Genel",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "Genel"
+      }
+    ]
+  },
+  "pointLabels": {
+    "value": "Nokta Etiketleri",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616187006887,
+        "oldValue": "",
+        "newValue": "Nokta Etiketleri"
+      }
+    ]
+  },
+  "numericalExpression": {
+    "value": "Sayısal İfade",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "Sayısal İfade"
+      }
+    ]
+  },
+  "screen.netWorth": {
+    "value": "Net Değer",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "Net Değer"
+      }
+    ]
+  },
+  "loan": {
+    "value": "Borç",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "Borç"
+      }
+    ]
+  },
+  "assets": {
+    "value": "Varlıklar",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "Varlıklar"
+      }
+    ]
+  },
+  "debts": {
+    "value": "Borçlar",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "Borçlar"
+      }
+    ]
+  },
+  "number-line-operations.title": {
+    "value": "Sayı Doğrusu: İşlemler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "Sayı Doğrusu: İşlemler"
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "İşlemler",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "İşlemler"
+      }
+    ]
+  },
+  "initialNetWorth": {
+    "value": "İlk Net Değer",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "İlk Net Değer"
+      }
+    ]
+  },
+  "initialNetWorthWithBreak": {
+    "value": "İlk<br>Net Değer",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "İlk<br>Net Değer"
+      }
+    ]
+  },
+  "simplify": {
+    "value": "Sade Hali",
+    "history": [
+      {
+        "userId": 707975,
+        "timestamp": 1616267684193,
+        "oldValue": "",
+        "newValue": "Sade Hali"
+      }
+    ]
+  }
+}

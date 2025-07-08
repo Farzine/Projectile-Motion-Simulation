@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "Deňeşdir",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662891622570,
+        "oldValue": "",
+        "newValue": "Deňeşdir"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} kiçidir {{greaterNumber}}-dan(den)",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662891622571,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} kiçidir {{greaterNumber}}-dan(den)"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} uludyr {{smallerNumber}}-dan(den)",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662891622571,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} uludyr {{smallerNumber}}-dan(den)"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} deňdir {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662891622571,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} deňdir {{equalNumberRight}}"
+      }
+    ]
+  }
+}

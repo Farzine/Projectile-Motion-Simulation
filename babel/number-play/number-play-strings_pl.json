@@ -1,0 +1,237 @@
+{
+  "screen.game": {
+    "value": "Gra",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Gra"
+      }
+    ]
+  },
+  "screen.ten": {
+    "value": "Dziesięć",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Dziesięć"
+      }
+    ]
+  },
+  "screen.twenty": {
+    "value": "Dwadzieścia",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Dwadzieścia"
+      }
+    ]
+  },
+  "ones": {
+    "value": "Jedynki",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Jedynki"
+      }
+    ]
+  },
+  "tenFrame": {
+    "value": "Ramka dziesiętna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Dziesięć ramek"
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1650951873151,
+        "oldValue": "Dziesięć ramek",
+        "newValue": "Ramka dziesiętna"
+      }
+    ]
+  },
+  "word": {
+    "value": "Słownie",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Nazwa"
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678622048644,
+        "oldValue": "Nazwa",
+        "newValue": "Słownie",
+        "explanation": null
+      }
+    ]
+  },
+  "wordLanguage": {
+    "value": "Słownie ({{language}})",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Nawa ({{language}})"
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1662991745026,
+        "oldValue": "Nawa ({{language}})",
+        "newValue": "Nazwa ({{language}})"
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1678622048644,
+        "oldValue": "Nazwa ({{language}})",
+        "newValue": "Słownie ({{language}})",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourGame": {
+    "value": "Wybierz grę!",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Wybierz grę!"
+      }
+    ]
+  },
+  "games": {
+    "value": "Gry",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Gry"
+      }
+    ]
+  },
+  "number-play.title": {
+    "value": "Gra liczbowa",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1650908096071,
+        "oldValue": "",
+        "newValue": "Gra liczbowa"
+      }
+    ]
+  },
+  "subitizeTime": {
+    "value": "Czas ekspozycji",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "Czas ekspozycji"
+      }
+    ]
+  },
+  "subitizeTimeDescription": {
+    "value": "Ustaw czas wyświetlania obiektów na poziomach gry Szacowanie.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "Ustaw czas wyświetlania obiektów na poziomach gry Szacowanie."
+      }
+    ]
+  },
+  "countingLevel1Description": {
+    "value": "<b>Liczenie: Poziom 1</b>  Licz od 1-10",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "<b>Liczenie: Poziom 1</b>  Licz od 1-10"
+      }
+    ]
+  },
+  "countingLevel2Description": {
+    "value": "<b>Liczenie: Poziom 2</b>  Licz od 11-20",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "<b>Liczenie: Poziom 2</b>  Licz od 11-20"
+      }
+    ]
+  },
+  "subitizingLevel1Description": {
+    "value": "<b>Szacowanie: Poziom 1</b>  Szacuj od 1-5",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "<b>Szacowanie: Poziom 1</b>  Szacuj od 1-5"
+      }
+    ]
+  },
+  "subitizingLevel2Description": {
+    "value": "<b>Szacowanie: Poziom 2</b>  Szacuj od 6-10",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "<b>Szacowanie: Poziom 2</b>  Szacuj od 6-10"
+      }
+    ]
+  },
+  "tenFrames": {
+    "value": "Ramki dziesiętne",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "Ramki dziesiętne"
+      }
+    ]
+  },
+  "automaticallyHearTotal": {
+    "value": "Automatycznie usłysz sumę",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "Automatycznie usłysz sumę"
+      }
+    ]
+  },
+  "automaticallyHearTotalDescription": {
+    "value": "Usłysz liczebność aktualizowaną automatycznie podczas interakcji.",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1682774328176,
+        "oldValue": "",
+        "newValue": "Usłysz liczebność aktualizowaną automatycznie podczas interakcji."
+      }
+    ]
+  }
+}

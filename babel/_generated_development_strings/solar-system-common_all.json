@@ -1,0 +1,2778 @@
+{
+  "am": {
+    "V": {
+      "value": "ቪ"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "ዓመታት"
+    },
+    "clear": {
+      "value": "ግልጽ"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "ኪሜ/ሰ"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "ፍርግርግ"
+    },
+    "measuringTape": {
+      "value": "የመለኪያ ቴፕ"
+    },
+    "gravityForce": {
+      "value": "የስበት ኃይል"
+    },
+    "velocity": {
+      "value": "ፍጥነት"
+    },
+    "path": {
+      "value": "መንገድ"
+    }
+  },
+  "ar": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "سنوات"
+    },
+    "clear": {
+      "value": "مسح"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "كم / ثانية"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "شبكة"
+    },
+    "measuringTape": {
+      "value": "شريط قياس"
+    },
+    "gravityForce": {
+      "value": "قوة الجاذبية"
+    },
+    "velocity": {
+      "value": "سرعة"
+    },
+    "path": {
+      "value": "طريق"
+    },
+    "speed": {
+      "value": "السرعة كم /ث"
+    },
+    "zoom": {
+      "value": "التكبير:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    },
+    "offscaleMessage": {
+      "value": "بعض متجهات القوة صغيرة جدًا بحيث لا يمكن عرضها."
+    }
+  },
+  "ar_MA": {
+    "offscaleMessage": {
+      "value": "بعض متجهات القوة صغيرة جدا لا تظهر"
+    },
+    "zoom": {
+      "value": "تكبير"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "السنوات"
+    },
+    "clear": {
+      "value": "مسح"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "path": {
+      "value": "المسار"
+    },
+    "grid": {
+      "value": "الشبكة"
+    },
+    "measuringTape": {
+      "value": "شريط قياس الطول"
+    },
+    "speed": {
+      "value": "السرعة (km/s)"
+    },
+    "velocity": {
+      "value": "السرعة"
+    },
+    "gravityForce": {
+      "value": "قوة الوزن"
+    }
+  },
+  "az": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "illər"
+    },
+    "clear": {
+      "value": "Təmiz"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/san"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Tor"
+    },
+    "measuringTape": {
+      "value": "Ölçü lenti"
+    },
+    "gravityForce": {
+      "value": "Cazibə qüvvəsi"
+    },
+    "velocity": {
+      "value": "Sürət"
+    },
+    "path": {
+      "value": "Yol"
+    },
+    "offscaleMessage": {
+      "value": "Bəzi qüvvə vektorları göstərilməyəcək qədər çox kiçikdir."
+    },
+    "speed": {
+      "value": "Sürət (km/s)"
+    },
+    "zoom": {
+      "value": "Yaxınlaşdır"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "be": {
+    "offscaleMessage": {
+      "value": "Некаторыя вектары сілы занадта малыя для адлюстравання."
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "км/с"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Скорасць (км/с)"
+    },
+    "velocity": {
+      "value": "Напрамак скорасці"
+    },
+    "gravityForce": {
+      "value": "Сіла гравітацыі"
+    },
+    "grid": {
+      "value": "Сетка"
+    },
+    "measuringTape": {
+      "value": "Рулетка"
+    },
+    "zoom": {
+      "value": "Маштаб:"
+    },
+    "units.AU": {
+      "value": "а. адз."
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    },
+    "units.years": {
+      "value": "гадоў"
+    },
+    "clear": {
+      "value": "Скінуць"
+    },
+    "path": {
+      "value": "Траекторыя"
+    }
+  },
+  "bg": {
+    "offscaleMessage": {
+      "value": "Някои вектори на скоростта са прекалено малки за да бъдат показани."
+    },
+    "zoom": {
+      "value": "Увеличение:"
+    },
+    "units.AU": {
+      "value": "АЕ"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": ""
+    },
+    "units.years": {
+      "value": "години"
+    },
+    "clear": {
+      "value": "Изчисти"
+    },
+    "path": {
+      "value": "Траектория"
+    },
+    "grid": {
+      "value": "Мрежа"
+    },
+    "measuringTape": {
+      "value": "Ролетка"
+    },
+    "speed": {
+      "value": "Скорост (km/s)"
+    },
+    "velocity": {
+      "value": "Скорост"
+    },
+    "gravityForce": {
+      "value": "Гравитационна сила"
+    }
+  },
+  "bn": {
+    "offscaleMessage": {
+      "value": "Some force vectors are too small to display"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Speed (km/s)"
+    },
+    "velocity": {
+      "value": "বেগ"
+    },
+    "gravityForce": {
+      "value": "অভিকর্ষ"
+    },
+    "grid": {
+      "value": "গ্রিড"
+    },
+    "measuringTape": {
+      "value": "পরিমাপের জন্য টেপ"
+    },
+    "zoom": {
+      "value": "জুম"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "bs": {
+    "units.years": {
+      "value": "godina"
+    },
+    "clear": {
+      "value": "Na početak"
+    },
+    "units.AU": {
+      "value": "AJ"
+    },
+    "grid": {
+      "value": "mreža"
+    },
+    "measuringTape": {
+      "value": "mjerna traka"
+    },
+    "gravityForce": {
+      "value": "sila gravitacije"
+    },
+    "velocity": {
+      "value": "brzina"
+    },
+    "path": {
+      "value": "putanja"
+    }
+  },
+  "ca": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "anys"
+    },
+    "clear": {
+      "value": "Neteja"
+    },
+    "units.AU": {
+      "value": "UA"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Graella"
+    },
+    "measuringTape": {
+      "value": "Cinta mètrica"
+    },
+    "gravityForce": {
+      "value": "Força gravitatòria"
+    },
+    "velocity": {
+      "value": "Velocitat"
+    },
+    "path": {
+      "value": "Trajectòria"
+    },
+    "offscaleMessage": {
+      "value": "Alguns vectors de força són massa petits per mostrar-se."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Velocitat (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "cs": {
+    "units.years": {
+      "value": "roků"
+    },
+    "clear": {
+      "value": "Smazat"
+    },
+    "grid": {
+      "value": "Mřížka"
+    },
+    "measuringTape": {
+      "value": "Měřící pásmo"
+    },
+    "gravityForce": {
+      "value": "Gravitační síla"
+    },
+    "velocity": {
+      "value": "Rychlost"
+    },
+    "path": {
+      "value": "Dráha"
+    },
+    "V": {
+      "value": "v"
+    },
+    "speed": {
+      "value": "Rychlost (km/s)"
+    },
+    "zoom": {
+      "value": "Lupa:"
+    }
+  },
+  "da": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "år"
+    },
+    "clear": {
+      "value": "Slet"
+    },
+    "units.AU": {
+      "value": "AE"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Tern"
+    },
+    "measuringTape": {
+      "value": "Målebånd"
+    },
+    "gravityForce": {
+      "value": "Tiltrækningskraft"
+    },
+    "velocity": {
+      "value": "Hastighed"
+    },
+    "path": {
+      "value": "Bane"
+    },
+    "offscaleMessage": {
+      "value": "Nogle kraftvektorer er for små til at blive vist."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Fart (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "de": {
+    "V": {
+      "value": "v"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "Jahre"
+    },
+    "clear": {
+      "value": "Zurücksetzen"
+    },
+    "units.AU": {
+      "value": "AE"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Gitter"
+    },
+    "measuringTape": {
+      "value": "Maßband"
+    },
+    "gravityForce": {
+      "value": "Schwerkraft"
+    },
+    "velocity": {
+      "value": "Geschwindigkeit"
+    },
+    "path": {
+      "value": "Bahn"
+    },
+    "offscaleMessage": {
+      "value": "Einige Kraftvektoren sind zu klein, um angezeigt zu werden."
+    },
+    "speed": {
+      "value": "Geschwindigkeit (km/s)"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "el": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "έτη"
+    },
+    "clear": {
+      "value": "Καθαρισμός"
+    },
+    "units.AU": {
+      "value": "ΑΜ"
+    },
+    "units.kms": {
+      "value": "χμ./σ."
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Πλέγμα"
+    },
+    "measuringTape": {
+      "value": "Ταινία μέτρησης"
+    },
+    "gravityForce": {
+      "value": "Βαρυτική δύναμη"
+    },
+    "velocity": {
+      "value": "Ταχύτητα"
+    },
+    "path": {
+      "value": "Τροχιά"
+    },
+    "offscaleMessage": {
+      "value": "Ορισμένα διανύσματα δύναμης είναι πολύ μικρά για να εμφανιστούν."
+    },
+    "zoom": {
+      "value": "Εστίαση:"
+    },
+    "speed": {
+      "value": "Ταχύτητα (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "es": {
+    "units.years": {
+      "value": "Años"
+    },
+    "clear": {
+      "value": "Limpiar"
+    },
+    "units.AU": {
+      "value": "UA"
+    },
+    "grid": {
+      "value": "Cuadrícula"
+    },
+    "measuringTape": {
+      "value": "Cinta de Medir"
+    },
+    "gravityForce": {
+      "value": "Fuerza de Gravedad"
+    },
+    "velocity": {
+      "value": "Velocidad"
+    },
+    "path": {
+      "value": "Trayectoria"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "offscaleMessage": {
+      "value": "Algunos vectores de fuerza son demasiado pequeños para mostrarlos."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Rapidez (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "es_PE": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "años"
+    },
+    "clear": {
+      "value": "Limpiar"
+    },
+    "units.AU": {
+      "value": "UA"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Cuadrícula"
+    },
+    "measuringTape": {
+      "value": "Cinta métrica"
+    },
+    "gravityForce": {
+      "value": "Fuerza de gravedad"
+    },
+    "velocity": {
+      "value": "Velocidad"
+    },
+    "path": {
+      "value": "Trayectoria"
+    },
+    "offscaleMessage": {
+      "value": "Algunos vectores de fuerza son demasiado pequeños para mostrarlos."
+    },
+    "speed": {
+      "value": "Rapidez (km/s)"
+    },
+    "zoom": {
+      "value": "Acercar:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "eu": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "años"
+    },
+    "clear": {
+      "value": "Garbitu"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Sarea"
+    },
+    "measuringTape": {
+      "value": "Neurketa zinta"
+    },
+    "gravityForce": {
+      "value": "Grabitate-indarra"
+    },
+    "velocity": {
+      "value": "Abiadura"
+    },
+    "path": {
+      "value": "Bidea"
+    },
+    "offscaleMessage": {
+      "value": "Indar-bektore batzuk txikiegiak dira bistaratzeko."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Abiadura (km/s)"
+    }
+  },
+  "fa": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "سال"
+    },
+    "clear": {
+      "value": "پاک کردن"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "شبکه بندی شطرنجی"
+    },
+    "measuringTape": {
+      "value": "نوار اندازه گیری"
+    },
+    "gravityForce": {
+      "value": "نیروی جاذبه"
+    },
+    "velocity": {
+      "value": "سرعت"
+    },
+    "path": {
+      "value": "مسیر"
+    },
+    "zoom": {
+      "value": "بزرگنمایی:"
+    },
+    "speed": {
+      "value": "تندی (km/s)"
+    },
+    "offscaleMessage": {
+      "value": "برخی بردارهای نیرو برای نمایش خیلی کوچک هستند"
+    }
+  },
+  "fr": {
+    "V": {
+      "value": "V"
+    },
+    "units.years": {
+      "value": "années"
+    },
+    "clear": {
+      "value": "Effacer"
+    },
+    "units.AU": {
+      "value": "UA"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "grid": {
+      "value": "Quadrillage"
+    },
+    "measuringTape": {
+      "value": "Mesure de distance"
+    },
+    "gravityForce": {
+      "value": "Force de Gravité"
+    },
+    "velocity": {
+      "value": "Vitesse"
+    },
+    "path": {
+      "value": "Chemin"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "offscaleMessage": {
+      "value": "Certains vecteurs force sont trop petits pour être affichés"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Vitesse (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "gu": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "વર્ષો"
+    },
+    "clear": {
+      "value": "સાફ"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "કિમી/સેકન્ડ"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "ગ્રીડ"
+    },
+    "measuringTape": {
+      "value": "માપન ટેપ"
+    },
+    "gravityForce": {
+      "value": "ગુરુત્વાકર્ષણ બળ"
+    },
+    "velocity": {
+      "value": "વેગ"
+    },
+    "path": {
+      "value": "રસ્તો"
+    },
+    "zoom": {
+      "value": "ઝુમ કરો:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "ha": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "Shekaru"
+    },
+    "clear": {
+      "value": "Share"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Layukka masu gida-gida"
+    },
+    "measuringTape": {
+      "value": "Abin auna tsawo"
+    },
+    "gravityForce": {
+      "value": "Ƙarfin nauyin iska"
+    },
+    "velocity": {
+      "value": "Sauri"
+    },
+    "path": {
+      "value": "Hanya"
+    },
+    "offscaleMessage": {
+      "value": "Wasu hotonan ba”a iya ganinsu saboda zamansu Ƙanƙana"
+    },
+    "zoom": {
+      "value": "Ƙara girma"
+    },
+    "speed": {
+      "value": "Gudu"
+    }
+  },
+  "hi": {
+    "offscaleMessage": {
+      "value": "कुछ बल के vectors बहुत छोटे है इसलिए दिखाए नहीं जा सकते।"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "गति (km/s)"
+    },
+    "velocity": {
+      "value": "वेग"
+    },
+    "gravityForce": {
+      "value": "गुरुत्व बल"
+    },
+    "path": {
+      "value": "रास्ता"
+    },
+    "grid": {
+      "value": "Grid (जाली)"
+    },
+    "measuringTape": {
+      "value": "मापक यत्रं"
+    },
+    "zoom": {
+      "value": "बढ़ाना"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "hr": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "godine"
+    },
+    "clear": {
+      "value": "Čisto"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Mreža"
+    },
+    "measuringTape": {
+      "value": "Traka za mjerenje"
+    },
+    "gravityForce": {
+      "value": "Gravitacijska sila"
+    },
+    "velocity": {
+      "value": "Vektor brzine"
+    },
+    "path": {
+      "value": "Putanja"
+    },
+    "offscaleMessage": {
+      "value": "Neki vektori sile premali su za prikaz."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Iznos brzine (km/h)"
+    }
+  },
+  "ht": {
+    "offscaleMessage": {
+      "value": "Gen kèk vektè fòs yo twò piti pou afiche."
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "ane"
+    },
+    "clear": {
+      "value": "Efase"
+    },
+    "path": {
+      "value": "Trajektwa"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "V": {
+      "value": "V"
+    },
+    "zoom": {
+      "value": "Zoom"
+    },
+    "speed": {
+      "value": "Vitès (km/s)"
+    },
+    "velocity": {
+      "value": "Velosite"
+    },
+    "gravityForce": {
+      "value": "Fòs Gravite"
+    },
+    "grid": {
+      "value": "Griy"
+    },
+    "measuringTape": {
+      "value": "Mèt Riban"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "hu": {
+    "units.years": {
+      "value": "év"
+    },
+    "clear": {
+      "value": "Törlés"
+    },
+    "units.AU": {
+      "value": "CsE"
+    },
+    "grid": {
+      "value": "Rács"
+    },
+    "measuringTape": {
+      "value": "Mérőszalag"
+    },
+    "gravityForce": {
+      "value": "Gravitációs erő"
+    },
+    "velocity": {
+      "value": "Sebességvektor"
+    },
+    "path": {
+      "value": "Nyomvonal"
+    },
+    "offscaleMessage": {
+      "value": "Némelyik erővektor túl kicsi ahhoz, hogy ábrázolni lehessen."
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Sebesség (km/s)"
+    },
+    "zoom": {
+      "value": "Nagyítás:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "ig": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "afọ"
+    },
+    "clear": {
+      "value": "Kpochapụ"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "okporo"
+    },
+    "measuringTape": {
+      "value": "Ihe teepu"
+    },
+    "gravityForce": {
+      "value": "Ike ndọda"
+    },
+    "velocity": {
+      "value": "Ọsọ ọsọ"
+    },
+    "path": {
+      "value": "uzo"
+    }
+  },
+  "is": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "ár"
+    },
+    "clear": {
+      "value": "Hreinsa"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Rúður"
+    },
+    "measuringTape": {
+      "value": "Málband"
+    },
+    "gravityForce": {
+      "value": "Þyngdarkraftur"
+    },
+    "velocity": {
+      "value": "Hraði"
+    },
+    "path": {
+      "value": "Slóð"
+    },
+    "offscaleMessage": {
+      "value": "Sumir vigrar eru of litlir til að sýna."
+    },
+    "zoom": {
+      "value": "Aðdráttur:"
+    },
+    "speed": {
+      "value": "Ferð (km/s)"
+    }
+  },
+  "it": {
+    "units.years": {
+      "value": "anni"
+    },
+    "clear": {
+      "value": "Azzera"
+    },
+    "units.AU": {
+      "value": "UA"
+    },
+    "grid": {
+      "value": "Griglia"
+    },
+    "measuringTape": {
+      "value": "Metro"
+    },
+    "gravityForce": {
+      "value": "Forza di Gravità"
+    },
+    "velocity": {
+      "value": "Velocità"
+    },
+    "path": {
+      "value": "Orbita"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "offscaleMessage": {
+      "value": "Alcuni vettori forza sono troppo piccoli per essere visualizzati."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Velocità (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "iw": {
+    "V": {
+      "value": "V"
+    },
+    "units.years": {
+      "value": "שנים"
+    },
+    "clear": {
+      "value": "נקה"
+    },
+    "units.AU": {
+      "value": "יחידות אסטרונומיות"
+    },
+    "units.kms": {
+      "value": "קילומטרים לשנייה"
+    },
+    "grid": {
+      "value": "רשת"
+    },
+    "measuringTape": {
+      "value": "סרט מדידה"
+    },
+    "gravityForce": {
+      "value": "כוח גרביטציה"
+    },
+    "velocity": {
+      "value": "מהירות"
+    },
+    "path": {
+      "value": "מסלול"
+    },
+    "offscaleMessage": {
+      "value": "חלק מווקטורים יכולים להיות קטנים מדי להצגה"
+    },
+    "zoom": {
+      "value": "התקרבות/התרחקות"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "speed": {
+      "value": "מהירות (ק\"מ לשנייה)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "ki": {
+    "offscaleMessage": {
+      "value": "Indo imwe cia hinya nĩ nini mũno itangĩoneka."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "mĩaka"
+    },
+    "clear": {
+      "value": "Utheri"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "speed": {
+      "value": "Iheya (km/s)"
+    },
+    "velocity": {
+      "value": "ihenya"
+    },
+    "gravityForce": {
+      "value": "Hinya wa Gravity"
+    },
+    "path": {
+      "value": "Njĩra"
+    },
+    "grid": {
+      "value": "kĩbara"
+    },
+    "measuringTape": {
+      "value": "Tape ya gũthima"
+    }
+  },
+  "km": {
+    "units.years": {
+      "value": "ឆ្នាំ"
+    },
+    "clear": {
+      "value": "សំអាត"
+    },
+    "path": {
+      "value": "គន្លង"
+    },
+    "speed": {
+      "value": "ល្បឿន(km/s)"
+    },
+    "velocity": {
+      "value": "វុិចទ័រល្បឿន"
+    },
+    "gravityForce": {
+      "value": "កម្លាំងទំនាញ"
+    },
+    "grid": {
+      "value": "ក្រឡា"
+    },
+    "measuringTape": {
+      "value": "ឧបករណ៍វាស់ប្រវែង"
+    }
+  },
+  "ko": {
+    "units.years": {
+      "value": "년"
+    },
+    "clear": {
+      "value": "지우기"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "grid": {
+      "value": "그리드"
+    },
+    "measuringTape": {
+      "value": "줄자"
+    },
+    "gravityForce": {
+      "value": "중력"
+    },
+    "velocity": {
+      "value": "속력"
+    },
+    "path": {
+      "value": "경로"
+    },
+    "offscaleMessage": {
+      "value": "읿부 힘벡터는 표시하기에 너무 작음"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "속도 (km/s)"
+    },
+    "zoom": {
+      "value": "줌:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "lg": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "emyaka"
+    },
+    "clear": {
+      "value": "Okumalawo"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Guliidi"
+    },
+    "measuringTape": {
+      "value": "Tape y’okupima"
+    },
+    "gravityForce": {
+      "value": "Amanyi "
+    },
+    "velocity": {
+      "value": "Sipiidi"
+    },
+    "path": {
+      "value": "Ekkubo"
+    }
+  },
+  "lt": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "metai"
+    },
+    "clear": {
+      "value": "Išvalyti"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Tinklas"
+    },
+    "measuringTape": {
+      "value": "Matavimo juosta"
+    },
+    "gravityForce": {
+      "value": "Gravitacijos jėga"
+    },
+    "velocity": {
+      "value": "Greitis"
+    },
+    "path": {
+      "value": "Kelias"
+    }
+  },
+  "mn": {
+    "units.years": {
+      "value": "жил"
+    },
+    "clear": {
+      "value": "Цэвэрлэ"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "grid": {
+      "value": "Тор"
+    },
+    "measuringTape": {
+      "value": "Хэмжилтийн төрөл"
+    },
+    "gravityForce": {
+      "value": "Гравитацийн Хүч"
+    },
+    "velocity": {
+      "value": "Хурд"
+    },
+    "path": {
+      "value": "Зам"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Хурд (km/s)"
+    },
+    "zoom": {
+      "value": "Томруулах:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "mr": {
+    "offscaleMessage": {
+      "value": "काही शक्ती रेषा खूप छोट्या असल्याने स्क्रीन वर दाखवता येत नाही."
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "वर्षे"
+    },
+    "clear": {
+      "value": "पुसून टाका"
+    },
+    "path": {
+      "value": "मार्ग"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "V": {
+      "value": "V"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "गती (km/s)"
+    },
+    "velocity": {
+      "value": "वेग"
+    },
+    "gravityForce": {
+      "value": "गुरुत्वीय बल"
+    },
+    "grid": {
+      "value": "जाळी"
+    },
+    "measuringTape": {
+      "value": "मापन पट्टी"
+    }
+  },
+  "ms": {
+    "offscaleMessage": {
+      "value": "Sebahagian daya vektor terlalu kecil untuk dipaparkan."
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Laju (km/s)"
+    },
+    "velocity": {
+      "value": "Halaju"
+    },
+    "gravityForce": {
+      "value": "Daya Graviti"
+    },
+    "path": {
+      "value": "Laluan"
+    },
+    "grid": {
+      "value": "Grid"
+    },
+    "measuringTape": {
+      "value": "Pita Ukur"
+    },
+    "zoom": {
+      "value": "Zum:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "tahun"
+    },
+    "clear": {
+      "value": "Kosongkan"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    }
+  },
+  "mt": {
+    "offscaleMessage": {
+      "value": "Xi force vectors huma zgħar wisq biex jiġu fid-display."
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Speed (km/s)"
+    },
+    "velocity": {
+      "value": "Velocita"
+    },
+    "gravityForce": {
+      "value": "Il-Forza tal-Gravita"
+    },
+    "path": {
+      "value": "Path"
+    },
+    "grid": {
+      "value": "Grid"
+    },
+    "measuringTape": {
+      "value": "Rutella"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    },
+    "units.years": {
+      "value": "snin"
+    },
+    "clear": {
+      "value": "Ħassar"
+    }
+  },
+  "nb": {
+    "offscaleMessage": {
+      "value": "Noen kraftvektorer er for små til å vises."
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km7s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Fart (km/s)"
+    },
+    "velocity": {
+      "value": "Hastighet"
+    },
+    "gravityForce": {
+      "value": "Gravitasjonskraft"
+    },
+    "path": {
+      "value": "Bane"
+    },
+    "grid": {
+      "value": "koordinatsystem"
+    },
+    "measuringTape": {
+      "value": "Målbånd"
+    },
+    "zoom": {
+      "value": "Xoom:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "nl": {
+    "units.years": {
+      "value": "jaren"
+    },
+    "clear": {
+      "value": "Wissen"
+    },
+    "grid": {
+      "value": "Rooster"
+    },
+    "measuringTape": {
+      "value": "Rolmaat"
+    },
+    "gravityForce": {
+      "value": "Zwaartekracht"
+    },
+    "velocity": {
+      "value": "Snelheid"
+    },
+    "path": {
+      "value": "Baan"
+    },
+    "offscaleMessage": {
+      "value": "Enkele vectoren zijn te klein om te laten zien."
+    },
+    "speed": {
+      "value": "Snelheid (km/s)"
+    }
+  },
+  "ny": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "zaka"
+    },
+    "clear": {
+      "value": "Chotsani "
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Gridi"
+    },
+    "measuringTape": {
+      "value": "Tepi yoyezera"
+    },
+    "gravityForce": {
+      "value": "Mphamvu yokoka"
+    },
+    "velocity": {
+      "value": "Liwiro"
+    },
+    "path": {
+      "value": "Njira"
+    }
+  },
+  "om": {
+    "offscaleMessage": {
+      "value": "Muraasni kal-qabeewwan humnaa agarsiisuuf baay’ee xiqqaadha."
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "path": {
+      "value": "Karaa"
+    },
+    "grid": {
+      "value": "Sarara walqaqaxxaamuru."
+    },
+    "measuringTape": {
+      "value": "Dheerina Safartuu"
+    },
+    "speed": {
+      "value": "Saffisa (km/s)"
+    },
+    "velocity": {
+      "value": "Ariitii"
+    },
+    "gravityForce": {
+      "value": "Humna Harkisaa"
+    },
+    "zoom": {
+      "value": "Zoomii:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "pl": {
+    "V": {
+      "value": "v"
+    },
+    "units.years": {
+      "value": "lat"
+    },
+    "clear": {
+      "value": "Wyczyść"
+    },
+    "units.AU": {
+      "value": "au"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "siatka"
+    },
+    "measuringTape": {
+      "value": "taśma miernicza"
+    },
+    "gravityForce": {
+      "value": "siła grawitacyjna"
+    },
+    "velocity": {
+      "value": "prędkość"
+    },
+    "path": {
+      "value": "tor"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "offscaleMessage": {
+      "value": "Niektóre wektory siły są zbyt małe, aby je wyświetlić."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "szybkość (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "pt": {
+    "offscaleMessage": {
+      "value": "Alguns vetores de força são muito pequenos para serem exibidos."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "units.AU": {
+      "value": "ua"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "v"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "anos"
+    },
+    "clear": {
+      "value": "Limpar"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "path": {
+      "value": "Caminho"
+    },
+    "grid": {
+      "value": "Grelha"
+    },
+    "measuringTape": {
+      "value": "Fita Métrica"
+    },
+    "speed": {
+      "value": "Velocidade (km/s)"
+    },
+    "velocity": {
+      "value": "Velocidade"
+    },
+    "gravityForce": {
+      "value": "Força da Gravidade"
+    }
+  },
+  "pt_BR": {
+    "units.years": {
+      "value": "anos"
+    },
+    "clear": {
+      "value": "Limpar"
+    },
+    "units.AU": {
+      "value": "UA"
+    },
+    "grid": {
+      "value": "Grade"
+    },
+    "measuringTape": {
+      "value": "Fita Métrica"
+    },
+    "gravityForce": {
+      "value": "Força Gravitacional"
+    },
+    "velocity": {
+      "value": "Vetor Velocidade"
+    },
+    "path": {
+      "value": "Caminho"
+    },
+    "offscaleMessage": {
+      "value": "Alguns vetores de força são muito pequenos para serem exibidos."
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "speed": {
+      "value": "Valor da Velocidade (km/s)"
+    },
+    "zoom": {
+      "value": "Ampliar:"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "ro": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "ani"
+    },
+    "clear": {
+      "value": "șterge"
+    },
+    "units.AU": {
+      "value": "UA"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Grilă"
+    },
+    "measuringTape": {
+      "value": "Ruletă"
+    },
+    "gravityForce": {
+      "value": "Forța gravitațională"
+    },
+    "velocity": {
+      "value": "Viteza"
+    },
+    "path": {
+      "value": "Traiectorie"
+    },
+    "offscaleMessage": {
+      "value": "O parte din vectorii forțelor sunt prea mici pentru a fi afișați"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Viteza (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "sk": {
+    "V": {
+      "value": "v"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "rokov"
+    },
+    "clear": {
+      "value": "Vynulovať"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Mriežka"
+    },
+    "measuringTape": {
+      "value": "Meracie pásmo"
+    },
+    "gravityForce": {
+      "value": "Gravitačná sila"
+    },
+    "velocity": {
+      "value": "Rýchlosť"
+    },
+    "path": {
+      "value": "Trajektória"
+    },
+    "offscaleMessage": {
+      "value": "Niektoré vektory sily sú príliš malé na zobrazenie."
+    },
+    "zoom": {
+      "value": "Lupa:"
+    },
+    "speed": {
+      "value": "Rýchlosť (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "sl": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "leta"
+    },
+    "clear": {
+      "value": "Izbriši"
+    },
+    "units.AU": {
+      "value": "AE"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Mreža"
+    },
+    "measuringTape": {
+      "value": "Merilni trak"
+    },
+    "gravityForce": {
+      "value": "Gravitacijska sila"
+    },
+    "velocity": {
+      "value": "Hitrost"
+    },
+    "path": {
+      "value": "Pot"
+    },
+    "offscaleMessage": {
+      "value": "Nekateri vektorji sil so premajkhni za prikaz"
+    },
+    "speed": {
+      "value": "Hitrost (km/s)"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "sr": {
+    "units.years": {
+      "value": "година"
+    },
+    "clear": {
+      "value": "На почетак"
+    },
+    "units.AU": {
+      "value": "АЈ"
+    },
+    "grid": {
+      "value": "мрежа"
+    },
+    "measuringTape": {
+      "value": "мерна трака"
+    },
+    "gravityForce": {
+      "value": "сила гравитације"
+    },
+    "velocity": {
+      "value": "вектор брзине"
+    },
+    "path": {
+      "value": "путања"
+    },
+    "offscaleMessage": {
+      "value": "Неки вектори силе су премали за приказ."
+    },
+    "speed": {
+      "value": "брзина (km/s)"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "zoom": {
+      "value": "увећање"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "st": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "lilemo"
+    },
+    "clear": {
+      "value": "hlakile"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "krit"
+    },
+    "measuringTape": {
+      "value": "khoele e methang"
+    },
+    "gravityForce": {
+      "value": "matla a lefaat'se a ho hula"
+    },
+    "velocity": {
+      "value": "lebelo"
+    },
+    "path": {
+      "value": "tsela"
+    }
+  },
+  "sv": {
+    "V": {
+      "value": "V"
+    },
+    "clear": {
+      "value": "Rensa"
+    },
+    "grid": {
+      "value": "Rutnät"
+    },
+    "measuringTape": {
+      "value": "Måttband"
+    },
+    "gravityForce": {
+      "value": "Gravitation"
+    },
+    "velocity": {
+      "value": "Hastighet"
+    },
+    "path": {
+      "value": "Bana"
+    },
+    "offscaleMessage": {
+      "value": "Vissa kraftvektorer är för små för att synas."
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "speed": {
+      "value": "Fart (km/s)"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "sw": {
+    "V": {
+      "value": "v"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "Miaka"
+    },
+    "clear": {
+      "value": "Futa"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Gridi"
+    },
+    "measuringTape": {
+      "value": "Futi kamba"
+    },
+    "gravityForce": {
+      "value": "Kikosi cha Mvuto"
+    },
+    "velocity": {
+      "value": "mwendo kasi"
+    },
+    "path": {
+      "value": "Njia"
+    },
+    "offscaleMessage": {
+      "value": "Baadhi ya vekta za nguvu ni ndogo sana kuonyesha."
+    },
+    "zoom": {
+      "value": "Kuza:"
+    },
+    "speed": {
+      "value": "kasi (km/s)"
+    }
+  },
+  "te": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "సంవత్సరాలు "
+    },
+    "clear": {
+      "value": "తుడిచెయ్యి"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "గ్రిడ్"
+    },
+    "measuringTape": {
+      "value": "కొలిచే టేప్"
+    },
+    "gravityForce": {
+      "value": "గురుత్వ బలం"
+    },
+    "velocity": {
+      "value": "వేగం"
+    },
+    "path": {
+      "value": "పథం"
+    },
+    "offscaleMessage": {
+      "value": "Some force vectors are too small to display."
+    },
+    "speed": {
+      "value": "వడి (km/s)"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "tg": {
+    "V": {
+      "value": "В"
+    },
+    "units.years": {
+      "value": "сол"
+    },
+    "clear": {
+      "value": "Тоза"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "км/с"
+    },
+    "grid": {
+      "value": "Шабака"
+    },
+    "measuringTape": {
+      "value": "Лентаи чен"
+    },
+    "gravityForce": {
+      "value": "Қувваи ҷозиба"
+    },
+    "velocity": {
+      "value": "Суръат"
+    },
+    "path": {
+      "value": "роҳ"
+    }
+  },
+  "th": {
+    "units.years": {
+      "value": "ปี"
+    },
+    "clear": {
+      "value": "ล้างข้อมูล"
+    },
+    "grid": {
+      "value": "กริด"
+    },
+    "measuringTape": {
+      "value": "แถบวัดระยะ"
+    },
+    "gravityForce": {
+      "value": "แรงดึงดูด"
+    },
+    "velocity": {
+      "value": "ความเร็ว"
+    },
+    "path": {
+      "value": "เส้นทาง"
+    },
+    "offscaleMessage": {
+      "value": "เวกเตอร์ของบางแรงน้อยมากจนไม่สามารถแสดงได้"
+    },
+    "speed": {
+      "value": "อัตราเร็ว (km/s)"
+    },
+    "zoom": {
+      "value": "ซูม:"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "tr": {
+    "units.years": {
+      "value": "Yıl"
+    },
+    "clear": {
+      "value": "Temiz"
+    },
+    "grid": {
+      "value": "Izgara"
+    },
+    "measuringTape": {
+      "value": "Ölçüm bandı"
+    },
+    "gravityForce": {
+      "value": "Yerçekimi kuvveti"
+    },
+    "velocity": {
+      "value": "Hız"
+    },
+    "path": {
+      "value": "Yörünge"
+    },
+    "speed": {
+      "value": "Hız (km/s)"
+    },
+    "zoom": {
+      "value": "Yakınlaştır:"
+    }
+  },
+  "uz": {
+    "offscaleMessage": {
+      "value": "Ba'zi kuch vektorlari ko‘rsatish uchun juda kichik."
+    },
+    "zoom": {
+      "value": "Yaqinlashtirish:"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "yillar"
+    },
+    "clear": {
+      "value": "Tozalash"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "path": {
+      "value": "Yo‘lak"
+    },
+    "grid": {
+      "value": "To‘r"
+    },
+    "measuringTape": {
+      "value": "O‘lchov lentasi"
+    },
+    "speed": {
+      "value": "Tezlik (km/s)"
+    },
+    "velocity": {
+      "value": "Tezlik"
+    },
+    "gravityForce": {
+      "value": "Gravitatsiya Kuchi"
+    }
+  },
+  "vi": {
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "năm"
+    },
+    "clear": {
+      "value": "Xoá"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "Lưới"
+    },
+    "measuringTape": {
+      "value": "Thước đo"
+    },
+    "gravityForce": {
+      "value": "Lực hấp dẫn"
+    },
+    "velocity": {
+      "value": "Vận tốc"
+    },
+    "path": {
+      "value": "Quỹ đạo"
+    },
+    "offscaleMessage": {
+      "value": "Lực quá lớn nên không thể hiển thị"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "speed": {
+      "value": "Tốc độ (km/s)"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "yo": {
+    "offscaleMessage": {
+      "value": "Diẹ ninu awọn olutọpa ipa ti kere ju lati ṣafihan."
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "ọdun"
+    },
+    "clear": {
+      "value": "Ko o"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "speed": {
+      "value": "iyara (km/s)"
+    },
+    "velocity": {
+      "value": "Iyara"
+    },
+    "gravityForce": {
+      "value": "Agbara Walẹ"
+    },
+    "path": {
+      "value": "Ona"
+    },
+    "grid": {
+      "value": "Akoj"
+    },
+    "measuringTape": {
+      "value": "Teepu Idiwọn"
+    }
+  },
+  "zh_TW": {
+    "V": {
+      "value": "速率"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "年"
+    },
+    "clear": {
+      "value": "清除"
+    },
+    "units.AU": {
+      "value": "天文單位"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "grid": {
+      "value": "格線"
+    },
+    "measuringTape": {
+      "value": "測量尺"
+    },
+    "gravityForce": {
+      "value": "重力"
+    },
+    "velocity": {
+      "value": "速率"
+    },
+    "path": {
+      "value": "路徑"
+    },
+    "offscaleMessage": {
+      "value": "有些力的向量過小以至於無法顯示。"
+    },
+    "zoom": {
+      "value": "縮放："
+    },
+    "speed": {
+      "value": "速度（公里/秒）"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "zu": {
+    "offscaleMessage": {
+      "value": "amanye ama-force vecteos mancane kakhuluukhuthi angaboniswa."
+    },
+    "zoom": {
+      "value": "sondeza"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "V": {
+      "value": "V"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "units.years": {
+      "value": "iminyaka"
+    },
+    "clear": {
+      "value": "cacile"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "path": {
+      "value": "indlela"
+    },
+    "grid": {
+      "value": "igridi"
+    },
+    "measuringTape": {
+      "value": "itheyiphu yokulinganisa"
+    },
+    "speed": {
+      "value": "isivinini(km/s)"
+    },
+    "velocity": {
+      "value": "isivinini"
+    },
+    "gravityForce": {
+      "value": "amandla adonsela phansi"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    }
+  },
+  "en": {
+    "gravityForce": {
+      "value": "Gravity Force"
+    },
+    "grid": {
+      "value": "Grid"
+    },
+    "measuringTape": {
+      "value": "Measuring Tape"
+    },
+    "velocity": {
+      "value": "Velocity"
+    },
+    "V": {
+      "value": "V"
+    },
+    "clear": {
+      "value": "Clear"
+    },
+    "path": {
+      "value": "Path"
+    },
+    "zoom": {
+      "value": "Zoom:"
+    },
+    "offscaleMessage": {
+      "value": "Some force vectors are too small to display."
+    },
+    "speed": {
+      "value": "Speed (km/s)"
+    },
+    "units.AU": {
+      "value": "AU"
+    },
+    "units.years": {
+      "value": "years"
+    },
+    "units.kms": {
+      "value": "km/s"
+    },
+    "pattern.labelUnits": {
+      "value": "{{value}} {{units}}"
+    },
+    "pattern.velocityValueUnits": {
+      "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+    },
+    "pattern.unitsPower": {
+      "value": "{{units}}<sup>{{power}}</sup>"
+    },
+    "a11y": {
+      "restart": {
+        "value": "Restart"
+      },
+      "massSlider": {
+        "value": "Mass Slider"
+      },
+      "scaleSlider": {
+        "value": "Scale Slider"
+      },
+      "increase": {
+        "value": "Increase"
+      },
+      "decrease": {
+        "value": "Decrease"
+      }
+    }
+  }
+}

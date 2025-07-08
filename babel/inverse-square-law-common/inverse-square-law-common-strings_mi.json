@@ -1,0 +1,123 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614760082363,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Pūnaha Tau ā-Ira",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614760082363,
+        "oldValue": "",
+        "newValue": "Pūnaha Tau ā-Ira"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Te tōpana ki  {{thisObject}} nā {{otherObject}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614758678341,
+        "oldValue": "",
+        "newValue": "Te tōpana ki  {{thisObject}} nā {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Te tōpana ki  {{thisObject}} nā {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614758678341,
+        "oldValue": "",
+        "newValue": "Te tōpana ki  {{thisObject}} nā {{otherObject}} = {{value}} N"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Ngā Uara Tōpana",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614758678341,
+        "oldValue": "",
+        "newValue": "Ngā Uara Tōpana"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Huna",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614760082363,
+        "oldValue": "",
+        "newValue": "Huna"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "mita",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614758678341,
+        "oldValue": "",
+        "newValue": "mita"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "mita",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614758678341,
+        "oldValue": "",
+        "newValue": "mita"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "nitana",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614758678341,
+        "oldValue": "",
+        "newValue": "nitana"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Tānga Ngahuru",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614760082363,
+        "oldValue": "",
+        "newValue": "Tānga Ngahuru"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1614760082363,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  }
+}

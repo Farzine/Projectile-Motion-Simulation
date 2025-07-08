@@ -1,0 +1,798 @@
+{
+  "decay": {
+    "value": "דעיכה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "דעיכה"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "סמל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "סמל"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "ענן אלקטרונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "ענן אלקטרונים"
+      }
+    ]
+  },
+  "stable": {
+    "value": "יציב",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "יציב"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "לא יציב",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "לא יציב"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "ניוטרונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "ניוטרונים"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "לא נוצר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "לא נוצר"
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "ניוטרון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "ניוטרון"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "צביר של {{neutronNumber}} ניוטרונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "צביר של {{neutronNumber}} ניוטרונים"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "דעיכת α",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "דעיכת α"
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "דעיכת <sup>-</sup>β",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "β<sup>-</sup> דעיכת"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1662843869559,
+        "oldValue": "β<sup>-</sup> דעיכת",
+        "newValue": "דעיכת <sup>-</sup>β"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "דעיכת <sup>+</sup>β",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "β<sup>+</sup> דעיכת"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1662843869559,
+        "oldValue": "β<sup>+</sup> דעיכת",
+        "newValue": "דעיכת <sup>+</sup>β"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "פליטת פרוטון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "פליטת פרוטון"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "פליטת ניוטרון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "פליטת ניוטרון"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "פחות יציב",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "פחות יציב"
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "יותר יציב",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "יותר יציב"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "דעיכות אפשריות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "דעיכות אפשריות"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "למרות שקיימות דעיכות נוספות, הדעיכות המוצגות הן הנפוצות ביותר. במקרים בהם אין דעיכות ידועות, לא מוצגות דעיכות קיימות.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "למרות שקיימות דעיכות נוספות, הדעיכות המוצגות הן הנפוצות ביותר. במקרים בהם אין דעיכות ידועות, לא מוצגות דעיכות קיימות."
+      }
+    ]
+  },
+  "protons": {
+    "value": "פרוטונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "פרוטונים"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "ניוטרונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "ניוטרונים"
+      }
+    ]
+  },
+  "proton": {
+    "value": "פרוטון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "פרוטון"
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "ניוטרון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "ניוטרון"
+      }
+    ]
+  },
+  "electron": {
+    "value": "אלקטרון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "אלקטרון"
+      }
+    ]
+  },
+  "positron": {
+    "value": "פוזיטרון",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "פוזיטרון"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "מחצית החיים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "מחצית החיים"
+      }
+    ]
+  },
+  "unknown": {
+    "value": "לא ידוע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "לא ידוע"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "שניות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "שניות"
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>A</b></span>"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>B</b></span>"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>C</b></span>"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>D</b></span>"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>E</b></span>"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>F</b></span>"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>G</b></span>"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>H</b></span>"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>I</b></span>"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662923999031,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>J</b></span>"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "ציר זמן מחצית החיים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "ציר זמן מחצית החיים"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "פרוטונים:",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "פרוטונים"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "פרוטונים",
+        "newValue": "פרוטונים:",
+        "explanation": null
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "ניוטירונים:",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "אלקטרונים"
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "אלקטרונים",
+        "newValue": "ניוטירונים:",
+        "explanation": null
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "הזמן הנדרש לאור לחצות את הגרעין",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "הזמן הנדרש לאור לחצות את הגרעין - "
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "הזמן הנדרש לאור לחצות את האטום",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "הזמן הנדרש לאור לחצות את האטום - "
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "הזמן הנדרש לאור לחצות 1000 אטומים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "הזמן הנדרש לאור לחצות 1000 אטומים - "
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "הזמן הנדרש לקול לנוע מרחק של 1 מ\"מ",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "הזמן הנדרש לקול לנוע מרחק של 1 מ\"מ - "
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "מצמוץ של עין",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "מצמוץ של עין - "
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "דקה אחת",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "דקה אחת - "
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "שנה אחת",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "שנה אחת - "
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "אורך החיים הממוצע של אדם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "אורך החיים הממוצע של אדם - "
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "גיל היקום",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "גיל היקום - "
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "אורך החיים הגדול ביותר של כוכבים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "אורך החיים הגדול ביותר של כוכבים - "
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "בניית גרעין",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1662831895019,
+        "oldValue": "",
+        "newValue": "בניית גרעין"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "דעיכה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "דעיכה"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "טבלה מבוא",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "טבלה מבוא"
+      }
+    ]
+  },
+  "energy": {
+    "value": "אנרגיה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "אנרגיה"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "מספרי קסם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "מספרי קסם"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "טבלת נוקליד חלקית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "טבלת נוקליד חלקית"
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "תרשים מלא ואינטראקטיבי של הנוקלידים והתפרקותם זמינה בפרויקט החינוך אנרגיה באוניברסיטת קלגרי, ראו {{link}}.",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "תרשים מלא ואינטראקטיבי של הנוקלידים והתפרקותם זמינה בפרויקט החינוך אנרגיה באוניברסיטת קלגרי, ראו {{link}}."
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "טבלה מלאה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "טבלה מלאה"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "טבלת נוקליד מלאה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "טבלת נוקליד מלאה"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "טבלה מלאה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "טבלה מלאה"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "דגם מעטפת הגרעין",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "דגם מעטפת הגרעין"
+      }
+    ]
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "{{name}} - {{mass}}"
+      }
+    ]
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "{{nameMass}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "{{mass}} {{particleType}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "מספר פרוטונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "מספר פרוטונים"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "מספר ניוטרונים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "מספר ניוטרונים"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "לא ידוע{{space}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "לא ידוע{{space}}"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "סוג הדעיכה ככל הנראה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "סוג הדעיכה ככל הנראה"
+      }
+    ]
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1698187145129,
+        "oldValue": "",
+        "newValue": "({{decayLikelihoodPercent}}%)"
+      }
+    ]
+  }
+}

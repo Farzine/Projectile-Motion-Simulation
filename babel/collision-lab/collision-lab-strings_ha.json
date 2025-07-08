@@ -1,0 +1,645 @@
+{
+  "collision-lab.title": {
+    "value": "Ɗakin binciken abubuwan ke karo da juna",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Ɗakin binciken abubuwan ke karo da juna"
+      }
+    ]
+  },
+  "pattern.vectorSymbolEqualsValueSpaceUnits": {
+    "value": "{{symbol}}| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{symbol}}| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "symbol.velocity": {
+    "value": "Harafin V",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Harafin V"
+      }
+    ]
+  },
+  "units.metersPerSecond": {
+    "value": "Mita a kowace daƙiƙa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Mita a kowace daƙiƙa"
+      }
+    ]
+  },
+  "symbol.momentum": {
+    "value": "Karamin harafin p",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Karamin harafin p"
+      }
+    ]
+  },
+  "units.kilogramMetersPerSecond": {
+    "value": "kilogiram na mita a kowace daƙiƙa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "kilogiram na miat a kowace daƙiƙa"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "kilogiram na miat a kowace daƙiƙa",
+        "newValue": "kilogiram na mita a kowace daƙiƙa"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Nauyi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Nauyi"
+      }
+    ]
+  },
+  "units.kilograms": {
+    "value": "kilogiram",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "kilogiram"
+      }
+    ]
+  },
+  "momentum": {
+    "value": "Nauyi da gudun da abu keyi a lockaci daya",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Nauyi da gudun da abu keyi a lockaci daya"
+      }
+    ]
+  },
+  "position": {
+    "value": "Muhalli",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Muhalli"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "karamin harafin m",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "karamin harafin m"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Gudu",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Tafiyar abu da chanja inda ya nufa"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "Tafiyar abu da chanja inda ya nufa",
+        "newValue": "Gudu"
+      }
+    ]
+  },
+  "pattern.symbolSubSymbol": {
+    "value": "{{symbol1}}<sub>{{symbol2}}</sub>",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{symbol1}}<sub>{{symbol2}}</sub>"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Karamin arafin x"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665114389261,
+        "oldValue": "Karamin arafin x",
+        "newValue": "ƙaramin arafin x"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668088105473,
+        "oldValue": "ƙaramin arafin x",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Karamin harafin y"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665114389261,
+        "oldValue": "Karamin harafin y",
+        "newValue": "ƙaramin harafin y"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668088105473,
+        "oldValue": "ƙaramin harafin y",
+        "newValue": "y"
+      }
+    ]
+  },
+  "approximatePattern": {
+    "value": "{{value}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{value}}"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Nauyi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1665114391982,
+        "oldValue": "",
+        "newValue": "Nauyi"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Kuzarin da kega abinda ke motsi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Kuzarin da kega abinda ke motsi"
+      }
+    ]
+  },
+  "values": {
+    "value": "ƙima",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "ƙima"
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "Girman da bai chanzawa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Girman da bai chanzawa"
+      }
+    ]
+  },
+  "path": {
+    "value": "Hanya",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "",
+        "newValue": "Hanya "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1680527668684,
+        "oldValue": "Hanya ",
+        "newValue": "Hanya",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "Na al’ada",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "",
+        "newValue": "Na al’ada"
+      }
+    ]
+  },
+  "pattern.valueSpaceUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.seconds": {
+    "value": "Karamin harafin s",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Karamin harafin s"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665114389261,
+        "oldValue": "Karamin harafin s",
+        "newValue": "ƙaramin harafin s"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1668088105473,
+        "oldValue": "ƙaramin harafin s",
+        "newValue": "Karamin harafin s"
+      }
+    ]
+  },
+  "pattern.valueUnits": {
+    "value": "{{value}}{{units}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{value}}{{units}}"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "Daga cikin kashi ɗari",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Daga cikin kashi ɗari"
+      }
+    ]
+  },
+  "inelastic": {
+    "value": "Abinda bana roba ba",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Sanda rarren abu"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "Sanda rarren abu",
+        "newValue": "Abinda bana roba ba"
+      }
+    ]
+  },
+  "elastic": {
+    "value": "Na roba",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Abinda ba sanda rarre ba"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "Abinda ba sanda rarre ba",
+        "newValue": "Na roba "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1680527668684,
+        "oldValue": "Na roba ",
+        "newValue": "Na roba",
+        "explanation": null
+      }
+    ]
+  },
+  "elasticity": {
+    "value": "Abin ke iya ƙaruwa ko raguwa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Abin ke iya ƙaruwa ko raguwa"
+      }
+    ]
+  },
+  "enter": {
+    "value": "Shiga",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "Shiga"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} zuwa {{max}} {{units}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{min}} zuwa {{max}} {{units}}"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueSpaceUnits": {
+    "value": "{{label}} = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{label}} = {{value}} {{units}}"
+      }
+    ]
+  },
+  "units.joules": {
+    "value": "Babban harafin J",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Babban harafin J"
+      }
+    ]
+  },
+  "total": {
+    "value": "Jimla",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Jimla"
+      }
+    ]
+  },
+  "moreData": {
+    "value": "Ƙarin bayanai",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Ƙarin bayanai"
+      }
+    ]
+  },
+  "balls": {
+    "value": "Ƙwallaye",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Ƙwallaye"
+      }
+    ]
+  },
+  "returnBalls": {
+    "value": "Mayar da ƙwallaye",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Mayar da ƙwallaye"
+      }
+    ]
+  },
+  "screen.inelastic": {
+    "value": "Abinda bana roba ba",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Sanda rarren abu"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1653907169824,
+        "oldValue": "Sanda rarren abu",
+        "newValue": "Sandararren abu"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "Sandararren abu",
+        "newValue": "Abinda bana roba ba"
+      }
+    ]
+  },
+  "pattern.labelEqualsValueUnits": {
+    "value": "{{label}} = {{value}}{{units}}",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "{{label}} = {{value}}{{units}}"
+      }
+    ]
+  },
+  "stick": {
+    "value": "LiƘe",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1661420128391,
+        "oldValue": "",
+        "newValue": "LiƘe"
+      }
+    ]
+  },
+  "slip": {
+    "value": "Zane wa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Sulɓucewa"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1658668224639,
+        "oldValue": "Sulɓucewa",
+        "newValue": "Zane wa"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1661420124813,
+        "oldValue": "Zane wa",
+        "newValue": "Zamewa"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665114389262,
+        "oldValue": "Zamewa",
+        "newValue": "Zane wa"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Gabatarwa",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Gabatarwa"
+      }
+    ]
+  },
+  "changeInMomentum": {
+    "value": "Canjin da ake samu saboda nauyi da gudun da abu keyi a lockaci daya",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1652181059743,
+        "oldValue": "",
+        "newValue": "Canjin da ake samu saboda nauyi da gudun da abu keyi a lockaci daya"
+      }
+    ]
+  },
+  "screen.explore1D": {
+    "value": "Explore 1D",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1680527668684,
+        "oldValue": "",
+        "newValue": "Explore 1D"
+      }
+    ]
+  },
+  "screen.explore2D": {
+    "value": "Explore 2D",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1680527668684,
+        "oldValue": "",
+        "newValue": "Explore 2D"
+      }
+    ]
+  },
+  "reflectingBorder": {
+    "value": "Reflecting Border",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1680527668684,
+        "oldValue": "",
+        "newValue": "Reflecting Border"
+      }
+    ]
+  },
+  "inelasticCollision": {
+    "value": "Inelastic Collision",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1680527668684,
+        "oldValue": "",
+        "newValue": "Inelastic Collision"
+      }
+    ]
+  },
+  "momentaDiagram": {
+    "value": "Momenta Diagram",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1680527668684,
+        "oldValue": "",
+        "newValue": "Momenta Diagram"
+      }
+    ]
+  }
+}

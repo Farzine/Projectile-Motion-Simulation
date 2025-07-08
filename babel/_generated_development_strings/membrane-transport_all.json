@@ -1,0 +1,527 @@
+{
+  "en": {
+    "membrane-transport.title": {
+      "value": "Membrane Transport"
+    },
+    "screen.simpleDiffusion": {
+      "value": "Simple Diffusion"
+    },
+    "screen.facilitatedDiffusion": {
+      "value": "Facilitated Diffusion"
+    },
+    "screen.activeTransport": {
+      "value": "Active Transport"
+    },
+    "screen.playground": {
+      "value": "Playground"
+    },
+    "solutes": {
+      "value": "Solutes"
+    },
+    "oxygen": {
+      "value": "O<sub>2</sub>"
+    },
+    "carbonDioxide": {
+      "value": "CO<sub>2</sub>"
+    },
+    "sodiumIon": {
+      "value": "Na<sup>+</sup>"
+    },
+    "potassiumIon": {
+      "value": "K<sup>+</sup>"
+    },
+    "glucose": {
+      "value": "Glucose"
+    },
+    "atp": {
+      "value": "ATP"
+    },
+    "outside": {
+      "value": "Outside"
+    },
+    "inside": {
+      "value": "Inside"
+    },
+    "voltageGatedChannels": {
+      "value": "Voltage-gated Channels"
+    },
+    "ligandGatedChannels": {
+      "value": "Ligand-gated Channels"
+    },
+    "activeTransporters": {
+      "value": "Active Transporters"
+    },
+    "leakageChannels": {
+      "value": "Leakage Channels"
+    },
+    "NaPlusKPlusPump": {
+      "value": "Na<sup>+</sup>/K<sup>+</sup><br>Pump"
+    },
+    "sodiumGlucoseCotransporter": {
+      "value": "Na<sup>+</sup>/Glucose<br>Cotransporter"
+    },
+    "membranePotential_mV": {
+      "value": "Membrane Potential (mV)"
+    },
+    "charges": {
+      "value": "Charges"
+    },
+    "addLigands": {
+      "value": "Add Ligands"
+    },
+    "removeLigands": {
+      "value": "Remove Ligands"
+    },
+    "animateLipids": {
+      "value": "Animate Lipids"
+    },
+    "animateLipidsDescription": {
+      "value": "Whether the phospholipids forming the cell membrane should be animated."
+    },
+    "glucoseDrain": {
+      "value": "Glucose Metabolism"
+    },
+    "glucoseDrainDescription": {
+      "value": "Glucose fades from the inside of the cell. Barcharts display constant high concentration of glucose inside the cell."
+    },
+    "preferencesDialog.audio.sounds.stereoSounds": {
+      "value": "Stereo Sounds"
+    },
+    "preferencesDialog.audio.sounds.stereoSoundsDescription": {
+      "value": "Emphasize solute transport direction by mapping sound to right (outside to inside) and left (inside to outside) channels."
+    },
+    "soluteConcentrations": {
+      "value": "Solute Concentrations"
+    },
+    "crossingHighlights": {
+      "value": "Crossing Highlights"
+    },
+    "crossingSounds": {
+      "value": "Crossing Sounds"
+    },
+    "a11y": {
+      "simpleDiffusionScreen": {
+        "screenButtonsHelpText": {
+          "value": "Explore what solutes can diffuse freely in a cellular environment."
+        }
+      },
+      "facilitatedDiffusionScreen": {
+        "screenButtonsHelpText": {
+          "value": "Explore conditions to facilitate diffusion for solutes using transport proteins."
+        }
+      },
+      "activeTransportScreen": {
+        "screenButtonsHelpText": {
+          "value": "Explore conditions to actively transport solutes using transport proteins."
+        }
+      },
+      "playgroundScreen": {
+        "screenButtonsHelpText": {
+          "value": "Play with all solutes and all transport proteins."
+        }
+      },
+      "screenSummary": {
+        "playArea": {
+          "intro": {
+            "value": "An observation window zooms in on a cross-section of a cell's membrane.\n  The membrane consists of a wiggling phospholipid bilayer, a double-layered sheet\n  that separates fluids inside and outside of cell. When added to outside or inside,\n  solute particles are suspended in fluid and randomly move with Brownian motion."
+          },
+          "proteins": {
+            "value": "Transport proteins of different types can be added directly to membrane."
+          },
+          "potential": {
+            "value": "There are options to change cell environment and affect added proteins."
+          },
+          "barCharts": {
+            "value": "Bar charts of solute concentrations dynamically compare solute amounts outside and inside cell."
+          },
+          "screen1": {
+            "value": "{ a11y_screenSummary_playArea_intro } { a11y_screenSummary_playArea_barCharts }"
+          },
+          "screen2and4": {
+            "value": "{ a11y_screenSummary_playArea_intro } { a11y_screenSummary_playArea_proteins } { a11y_screenSummary_playArea_potential } { a11y_screenSummary_playArea_barCharts }"
+          },
+          "screen3": {
+            "value": "{ a11y_screenSummary_playArea_intro } { a11y_screenSummary_playArea_proteins } { a11y_screenSummary_playArea_barCharts }"
+          }
+        },
+        "controlArea": {
+          "value": "You can pause action or slow it down to hear more details, add or remove sounds and highlights that enhance solute crossings, and you can reset everything to start over."
+        },
+        "currentDetails": {
+          "leadingParagraph": {
+            "value": "Right now, zoomed-in cross section of cell has:"
+          },
+          "noAddedSolutes": {
+            "value": "no added solutes"
+          },
+          "soluteTypesOnOutside": {
+            "value": "{ $count ->\n  [one] { $count } solute type on outside\n *[other] { $count } solute types on outside\n}"
+          },
+          "soluteTypesOnInside": {
+            "value": "{ $count ->\n  [one] { $count } solute type on inside\n *[other] { $count } solute types on inside\n}"
+          },
+          "transportProteins": {
+            "value": "{ $proteinCount ->\n  [one] { $proteinCount} transport protein\n  *[other] { $proteinCount} transport proteins\n} of { $proteinTypeCount ->\n  [one] { $proteinTypeCount } type\n *[other] { $proteinTypeCount} types\n}, in membrane"
+          },
+          "ligands": {
+            "value": "2 added ligand types on outside only"
+          },
+          "membranePotentialValue": {
+            "value": "{ $membranePotential ->\n  [-70] negative 70\n  [-50] negative 50\n  *[30] positive 30\n} millivolts"
+          },
+          "membranePotential": {
+            "value": "membrane potential of { a11y_screenSummary_currentDetails_membranePotentialValue }"
+          }
+        },
+        "interactionHint": {
+          "value": "Add or remove solute to outside or inside of cell."
+        },
+        "interactionHintWithTransportProteins": {
+          "value": "Add or remove solutes to outside or inside of cell, and play with transport proteins."
+        }
+      },
+      "soluteControls": {
+        "accessibleHeading": {
+          "value": "Solute Controls"
+        },
+        "accessibleHelpText": {
+          "value": "Choose solute for adding or removing with Solute Adjusters."
+        }
+      },
+      "eraseSolutesButton": {
+        "accessibleName": {
+          "value": "Reset Solutes"
+        },
+        "accessibleContextResponse": {
+          "value": "Solutes cleared. Add solutes to observe changes"
+        },
+        "accessibleHelpText": {
+          "value": "Disabled when no solutes have been added."
+        }
+      },
+      "crossingHighlightsCheckbox": {
+        "accessibleHelpText": {
+          "value": "Explore with or without visual highlights for solute crossings."
+        },
+        "accessibleCheckedContextResponse": {
+          "value": "Visual highlights for solute crossings, on."
+        },
+        "accessibleUncheckedContextResponse": {
+          "value": "Visual highlights for solute crossings, off."
+        }
+      },
+      "crossingSoundsCheckbox": {
+        "accessibleHelpText": {
+          "value": "Explore with or without unique sounds for solute crossings."
+        },
+        "accessibleCheckedContextResponse": {
+          "value": "Solute crossing sounds on."
+        },
+        "accessibleUncheckedContextResponse": {
+          "value": "Solute crossing sounds off."
+        }
+      },
+      "transportProteinPanel": {
+        "accessibleHeading": {
+          "value": "Transport Proteins"
+        },
+        "accessibleHelpText": {
+          "value": "Add up to 7 proteins to membrane. Use keyboard shortcuts to grab, sort, and release proteins into membrane."
+        },
+        "ligandGatedChannelPanel": {
+          "sodiumIonNaPlusLigandGated": {
+            "value": "Sodium Ion NA plus, Ligand-gated"
+          },
+          "potassiumIonKPlusLigandGated": {
+            "value": "Potassium Ion K plus, Ligand-gated"
+          }
+        },
+        "leakageChannelPanel": {
+          "sodiumIonNaPlusLeakage": {
+            "value": "Sodium Ion NA plus, Leakage"
+          },
+          "potassiumIonKPlusLeakage": {
+            "value": "Potassium Ion K plus, Leakage"
+          }
+        },
+        "voltageGatedChannelPanel": {
+          "sodiumIonNaPlusVoltageGated": {
+            "value": "Sodium Ion NA plus, Voltage-gated"
+          },
+          "potassiumIonKPlusVoltageGated": {
+            "value": "Potassium Ion K plus, Voltage-gated"
+          },
+          "membranePotential": {
+            "radioButtonGroup": {
+              "accessibleName": {
+                "value": "Membrane Potential"
+              },
+              "accessibleHelpText": {
+                "value": "Adjust millivolts and observe proteins."
+              },
+              "negative70RadioButton": {
+                "accessibleName": {
+                  "value": "negative 70 millivolts"
+                }
+              },
+              "negative50RadioButton": {
+                "accessibleName": {
+                  "value": "negative 50 millivolts"
+                }
+              },
+              "positive30RadioButton": {
+                "accessibleName": {
+                  "value": "positive 30 millivolts"
+                }
+              }
+            }
+          },
+          "chargesCheckbox": {
+            "accessibleHelpText": {
+              "value": "Explore with or without charge signs showing membrane potential along inside and outside."
+            },
+            "voicingHelpText": {
+              "value": "Explore with or without charge signs along membrane."
+            },
+            "negative70AccessibleCheckedContextResponse": {
+              "value": "Positive outside and negative inside; charge signs densely packed along membrane."
+            },
+            "negative50AccessibleCheckedContextResponse": {
+              "value": "Positive outside and negative inside; charge signs lightly packed along membrane."
+            },
+            "positive30AccessibleCheckedContextResponse": {
+              "value": "Negative outside and positive inside; charge signs sparse along membrane."
+            },
+            "accessibleUncheckedContextResponse": {
+              "value": "Membrane potential charge signs, hidden."
+            }
+          }
+        },
+        "activeTransportProteinPanel": {
+          "sodiumPotassiumPump": {
+            "value": "Sodium-Potassium Pump"
+          },
+          "sodiumGlucoseCotransporter": {
+            "value": "Sodium-Glucose Cotransporter"
+          },
+          "accessibleHelpText": {
+            "value": "Grab transporter to pull to membrane."
+          }
+        }
+      },
+      "ligandNode": {
+        "accessibleName": {
+          "value": "{ $ligandType ->\n[starLigand]     Star Ligand\n*[triangleLigand] Triangle Ligand\n}"
+        },
+        "accessibleHelpText": {
+          "value": "Grab a ligand. When grabbed, use keyboard shortcuts to move ligand to binding site. Release to bind or let ligands bind naturally."
+        },
+        "releasedResponse": {
+          "value": "Released."
+        },
+        "releasedOffMembraneResponse": {
+          "value": "{ a11y_ligandNode_accessibleName } released off membrane."
+        },
+        "releasedOnProteinResponse": {
+          "value": "Released. Binding successful. Protein opens."
+        },
+        "releasedOnBusyOrIncompatibleProteinResponse": {
+          "value": "Released. Binding unsuccessful. Ligand floats away."
+        },
+        "unboundResponse": {
+          "value": "Ligand floats away. Protein closes."
+        },
+        "movedAboveLigandGatedChannelResponse": {
+          "value": "Above { $openOrClosed ->\n[open]   open\n*[closed] closed\n} { a11y_transportProtein_briefName } { $ligandType ->\n[triangleLigand] Triangle Site\n*[starLigand]     Star Site\n}, { $index } of { $transportProteinCount } Proteins."
+        },
+        "movedAboveLeakageChannelResponse": {
+          "value": "Above { a11y_transportProtein_briefName }, { $index } of { $transportProteinCount } Proteins."
+        },
+        "movedAboveOtherChannelResponse": {
+          "value": "Above { $openOrClosed ->\n[open]   open\n*[closed] closed\n} { a11y_transportProtein_briefName }, { $index } of { $transportProteinCount } Proteins."
+        },
+        "grabbedResponse": {
+          "value": "Grabbed. Outside, { $proteinCount } Proteins in Membrane."
+        },
+        "grabbedResponseWithHint": {
+          "value": "{ a11y_ligandNode_grabbedResponse } Move ligand with A or D keys. Space to release."
+        },
+        "grabbedResponseWithEmptyMembraneHint": {
+          "value": "{ a11y_ligandNode_grabbedResponse } Space to release. Add transport proteins."
+        }
+      },
+      "soluteAccessibleNames": {
+        "oxygen": {
+          "value": "Oxygen, O2, nonpolar, small"
+        },
+        "carbonDioxide": {
+          "value": "Carbon Dioxide, CO2, nonpolar, small"
+        },
+        "sodiumIon": {
+          "value": "Sodium Ion, Na, positive, small"
+        },
+        "potassiumIon": {
+          "value": "Potassium Ion, K, positive, small"
+        },
+        "glucose": {
+          "value": "Glucose, hexagonal ring, large"
+        },
+        "atp": {
+          "value": "Adenosine Triphosphate, ATP, complex, large"
+        }
+      },
+      "solute": {
+        "value": "{ $soluteType ->\n  [oxygen]        oxygen molecules\n  [carbonDioxide] carbon dioxide molecules\n  [sodiumIon]     sodium ions\n  [potassiumIon]  potassium ions\n  [glucose]       glucose molecules\n *[atp]           ATP molecules\n}"
+      },
+      "soluteCapitalized": {
+        "value": "{ $soluteType ->\n  [oxygen]        Oxygen Molecules\n  [carbonDioxide] Carbon Dioxide molecules\n  [sodiumIon]     Sodium Ions\n  [potassiumIon]  Potassium Ions\n  [glucose]       Glucose Molecules\n *[atp]           Atp Molecules\n}"
+      },
+      "soluteBrief": {
+        "value": "{ $soluteType ->\n  [oxygen]        Oxygen\n  [carbonDioxide] Carbon Dioxide\n  [sodiumIon]     Sodium\n  [potassiumIon]  Potassium\n  [glucose]       Glucose\n *[atp]           Atp\n}"
+      },
+      "soluteControl": {
+        "outside": {
+          "accessibleName": {
+            "value": "{ a11y_soluteCapitalized } Outside Cell"
+          },
+          "accessibleHelpText": {
+            "value": "Adjust chosen solute amount on outside."
+          }
+        },
+        "inside": {
+          "accessibleName": {
+            "value": "{ a11y_soluteCapitalized } Inside Cell"
+          },
+          "accessibleHelpText": {
+            "value": "Adjust chosen solute amount on inside."
+          }
+        },
+        "voicingHintResponse": {
+          "value": "Adjust chosen solute amount."
+        },
+        "accessibleRoleDescription": {
+          "value": "solute adjuster"
+        },
+        "accessibleObjectResponse": {
+          "value": "{ $amount ->\n  [none] no\n  [few] a few\n  [some] some\n  [smallAmount] small amount of\n  [several] several\n  [many] many\n  [largeAmount] large amount of\n  [hugeAmount] huge amount of\n *[maxAmount] max amount of\n} { a11y_solute }"
+        },
+        "accessibleContextResponse": {
+          "value": "{ $amount ->\n\n  [aLittle] A little\n *[aLot]    A lot\n} { $addedOrRemoved ->\n  [added]   added\n *[removed] removed\n}. Now,\n{ $moreOrLessOrSameOrNone ->\n  [none] no { a11y_solute } outside or inside.\n  [same] same amount of solute inside and outside.\n *[other] { $differenceSize ->\n    [aLittle] a little\n   *[aLot]    a lot\n  }\n  { $moreOrLessOrSameOrNone ->\n    [more] more\n   *[less] less\n  }\n  { a11y_solute }\n  { $directionality ->\n    [insideThanOutside] inside than outside\n   *[outsideThanInside] outside than inside\n  }.\n}    "
+        }
+      },
+      "soluteConcentrationsAccordionBox": {
+        "descriptionContent": {
+          "value": "A barchart for each solute captures amounts on either side of membrane, recent crossings captured with visual highlights and sounds. If needed, pause sim to freeze details for reading."
+        },
+        "barChart": {
+          "accessibleName": {
+            "value": "{ a11y_soluteCapitalized }: { a11y_soluteConcentrationsAccordionBox_barChart_comparison }; { a11y_soluteConcentrationsAccordionBox_barChart_crossing }."
+          },
+          "comparison": {
+            "value": "{ $amount ->\n  *[none]  none\n  [equal] Amounts exactly equal outside and inside\n  [manyMoreOutside] many more outside than inside \n  [aboutTwiceAsManyOutside] about twice as many outside as inside\n  [someMoreOutside] some more outside than inside\n  [roughlyEqualOutside] roughly equal amounts inside and outside\n  [manyMoreInside] many more inside than outside\n  [aboutTwiceAsManyInside] about twice as many inside as outside\n  [someMoreInside] some more inside than outside\n  [roughlyEqualInside] roughly equal amounts inside and outside\n}"
+          },
+          "crossing": {
+            "value": "{ $crossing ->\n  *[none] no crossings\n  [inside] crossings in\n  [outside] crossings out\n  [both] crossings in and out\n}"
+          }
+        }
+      },
+      "soluteCrossing": {
+        "initialResponse": {
+          "value": "{ a11y_soluteCapitalized } crossing membrane, { a11y_soluteConcentrationsAccordionBox_barChart_comparison }."
+        },
+        "subsequentResponse": {
+          "value": "{ a11y_soluteBrief }, { a11y_soluteConcentrationsAccordionBox_barChart_comparison }."
+        },
+        "inBalanceResponse": {
+          "value": "{ a11y_soluteCapitalized } crossing steadily in both directions, now roughly equal."
+        },
+        "manyTypesResponse": {
+          "value": "Many solute types crossing membrane."
+        },
+        "manyTypesInBalanceResponse": {
+          "value": "Many solutes types crossing steadily in both directions."
+        }
+      },
+      "ligandToggleButton": {
+        "accessibleHelpText": {
+          "value": "Add or remove triangle- and star-shaped ligands to outside of cell."
+        },
+        "addedAccessibleContextResponse": {
+          "value": "Outside flooded with ligands."
+        },
+        "removedAccessibleContextResponse": {
+          "value": "Ligands removed."
+        }
+      },
+      "cellMembrane": {
+        "accessibleHeading": {
+          "value": "Cell Membrane"
+        }
+      },
+      "transportProtein": {
+        "grabbedResponse": {
+          "value": "Grabbed."
+        },
+        "offMembraneResponse": {
+          "value": "Off membrane"
+        },
+        "releasedReplacedResponse": {
+          "value": "Released. Protein replaced."
+        },
+        "deletedResponse": {
+          "value": "Deleted."
+        },
+        "cancelledResponse": {
+          "value": "Released. Back to initial slot."
+        },
+        "objectResponse": {
+          "value": "{ $openOrClosed ->\n  [open]   open\n *[closed] closed\n}, { $proteinIndex } of { $proteinCount } Proteins in Membrane"
+        },
+        "accessibleName": {
+          "value": "{ $nameResponse }, { $objectResponse }"
+        },
+        "accessibleNameReversed": {
+          "value": "{ $objectResponse }, { $nameResponse }"
+        },
+        "accessibleObjectResponse": {
+          "value": "Above slot { $slotIndex } of { $slotCount }"
+        },
+        "empty": {
+          "value": "empty"
+        },
+        "briefName": {
+          "value": "{ $type ->\n  [sodiumIonLeakageChannel]         Sodium Ion, Leakage\n  [potassiumIonLeakageChannel]      Potassium Ion, Leakage\n  [sodiumIonVoltageGatedChannel]    Sodium Ion, Voltage-Gated\n  [potassiumIonVoltageGatedChannel] Potassium Ion, Voltage-Gated\n  [sodiumIonLigandGatedChannel]     Sodium Ion, Ligand-Gated\n  [potassiumIonLigandGatedChannel]  Potassium Ion, Ligand-Gated\n  [sodiumPotassiumPump]             Sodium Potassium Pump\n *[sodiumGlucoseCotransporter]      Sodium-Glucose Cotransporter\n}"
+        }
+      },
+      "membranePotential": {
+        "sodiumVoltageGatedOpenedResponse": {
+          "value": "Sodium Ion Voltage-gated, open."
+        },
+        "sodiumVoltageGatedClosedResponse": {
+          "value": "Sodium Ion Voltage-gated, closed."
+        },
+        "potassiumVoltageGatedOpenedResponse": {
+          "value": "Potassium Ion Voltage-gated, open."
+        },
+        "potassiumVoltageGatedClosedResponse": {
+          "value": "Potassium Ion Voltage-gated, closed."
+        },
+        "sodiumOpenedPotassiumOpenedResponse": {
+          "value": "{ a11y_membranePotential_sodiumVoltageGatedOpenedResponse } { a11y_membranePotential_potassiumVoltageGatedOpenedResponse }"
+        },
+        "sodiumOpenedPotassiumClosedResponse": {
+          "value": "{ a11y_membranePotential_sodiumVoltageGatedOpenedResponse } { a11y_membranePotential_potassiumVoltageGatedClosedResponse }"
+        },
+        "sodiumClosedPotassiumOpenedResponse": {
+          "value": "{ a11y_membranePotential_potassiumVoltageGatedOpenedResponse } { a11y_membranePotential_sodiumVoltageGatedClosedResponse } "
+        },
+        "sodiumClosedPotassiumClosedResponse": {
+          "value": "Voltage-gated channels closed."
+        },
+        "noChangeResponse": {
+          "value": "No change in transport proteins."
+        }
+      }
+    }
+  }
+}

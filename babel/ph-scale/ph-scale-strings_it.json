@@ -1,0 +1,512 @@
+{
+  "acidic": {
+    "value": "Acido",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "acido",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "acido",
+        "newValue": "Acido",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "Basico",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "basico",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "basico",
+        "newValue": "Basico",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "Acido per batteria",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "acido per batteria",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "acido per batteria",
+        "newValue": "Acido per batteria",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "Sangue",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "sangue",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "sangue",
+        "newValue": "Sangue",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "Brodo di pollo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "brodo di pollo",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "brodo di pollo",
+        "newValue": "Brodo di pollo",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "Caffè",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "caffè",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "caffè",
+        "newValue": "Caffè",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "Liquido personalizzato",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "liquido personalizzato",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "liquido personalizzato",
+        "newValue": "Liquido personalizzato",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "Liquami di fogna",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "liquami di fogna",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "liquami di fogna",
+        "newValue": "Liquami di fogna",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "Sapone",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "sapone ",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "sapone ",
+        "newValue": "Sapone ",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1680456217544,
+        "oldValue": "Sapone ",
+        "newValue": "Sapone",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "Latte",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "latte",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "latte",
+        "newValue": "Latte",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "Succo d'arancia",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "succo d'arancia",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "succo d'arancia",
+        "newValue": "Succo d'arancia",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "Seltz",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "seltz",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "seltz",
+        "newValue": "Seltz",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "Saliva",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "saliva",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "saliva",
+        "newValue": "Saliva",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "Vomito",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "vomito",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "vomito",
+        "newValue": "Vomito",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "Acqua",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "acqua",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "acqua",
+        "newValue": "Acqua",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Concentrazione",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "Concentrazione",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "Lineare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "Lineare",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "Logaritmica",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "Logaritmica",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "Conteggio molecole",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744971,
+        "oldValue": "",
+        "newValue": "Conteggio molecole",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "Neutro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "neutro",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1452798572135,
+        "oldValue": "neutro",
+        "newValue": "Neutro",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "Fuori scala",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "Fuori scala",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "Scala del pH",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "Scala del pH",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "Quantità",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "Quantità",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "rapporto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744971,
+        "oldValue": "",
+        "newValue": "rapporto",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "Macro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1452798735321,
+        "oldValue": "",
+        "newValue": "Macro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Soluzione personalizzata",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "Soluzione personalizzata",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1448634611424,
+        "oldValue": "",
+        "newValue": "l",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/l",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1456425744972,
+        "oldValue": "",
+        "newValue": "mol/l",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680456217544,
+        "oldValue": "",
+        "newValue": "pH"
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680456217544,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Micro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680708040266,
+        "oldValue": "",
+        "newValue": "Micro"
+      }
+    ]
+  },
+  "particleCounts": {
+    "value": "Conteggio particelle",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680708040266,
+        "oldValue": "",
+        "newValue": "Conteggio particelle"
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1680708040266,
+        "oldValue": "",
+        "newValue": "mol"
+      }
+    ]
+  }
+}

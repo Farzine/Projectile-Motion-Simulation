@@ -1,0 +1,339 @@
+{
+  "units.meters": {
+    "value": "metr",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "metr",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "kq",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "kq",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source": {
+    "value": "{1}  tərəfindən {0}-ə təsir edən qüvvə ",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "{1}  tərəfindən {0}-ə təsir edən qüvvə ",
+        "explanation": null
+      }
+    ]
+  },
+  "force-description-pattern-target_source_value": {
+    "value": "{1}  tərəfindən {0}-ə təsir edən qüvvə ={2} N",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "{1}  tərəfindən {0}-ə təsir edən qüvvə ={2} N",
+        "explanation": null
+      }
+    ]
+  },
+  "constantRadius": {
+    "value": "Sabit radius",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "Sabit radius",
+        "explanation": null
+      }
+    ]
+  },
+  "showValues": {
+    "value": "Dəyərləri göstər",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "Dəyərləri göstər",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1": {
+    "value": "1-ci kütlə",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "1-ci kütlə",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2": {
+    "value": "2-ci kütlə",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "2-ci kütlə",
+        "explanation": null
+      }
+    ]
+  },
+  "mass1Abbreviated": {
+    "value": "m1",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "m1",
+        "explanation": null
+      }
+    ]
+  },
+  "mass2Abbreviated": {
+    "value": "m2",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "m2",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity-force-lab.title": {
+    "value": "Qravitasiya qüvvəsi laboratoriyası",
+    "history": [
+      {
+        "userId": 661982,
+        "timestamp": 1554934939967,
+        "oldValue": "",
+        "newValue": "Qravitasiya qüvvəsi labaratoriyası",
+        "explanation": null
+      },
+      {
+        "userId": 1120507,
+        "timestamp": 1671353951129,
+        "oldValue": "Qravitasiya qüvvəsi labaratoriyası",
+        "newValue": "Qravitasiya qüvvəsi laboratoriyası"
+      }
+    ]
+  },
+  "changeMassInSmallerSteps": {
+    "value": "Kütləni daha kiçik addımlarla dəyişdirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437396,
+        "oldValue": "",
+        "newValue": "Kütləni daha kiçik addımlarla dəyişdirin"
+      }
+    ]
+  },
+  "changeMassLabel": {
+    "value": "Kütləni dəyişdirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437395,
+        "oldValue": "",
+        "newValue": "Kütləni dəyişdirin"
+      }
+    ]
+  },
+  "jumpToLeft": {
+    "value": "Sola keçin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437397,
+        "oldValue": "",
+        "newValue": "Sola keçin"
+      }
+    ]
+  },
+  "jumpToMaximumMass": {
+    "value": "Maksimum kütləyə keçin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437397,
+        "oldValue": "",
+        "newValue": "Maksimum kütləyə keçin"
+      }
+    ]
+  },
+  "jumpToMinimumMass": {
+    "value": "Minimum kütləyə keçin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437397,
+        "oldValue": "",
+        "newValue": "Minimum kütləyə keçin"
+      }
+    ]
+  },
+  "jumpToRight": {
+    "value": "Sağa keçin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437397,
+        "oldValue": "",
+        "newValue": "Sağa keçin"
+      }
+    ]
+  },
+  "moveInLargerSteps": {
+    "value": "Daha böyük addımla irəliləyin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437399,
+        "oldValue": "",
+        "newValue": "Daha böyük addımla irəliləyin"
+      }
+    ]
+  },
+  "moveInSmallerSteps": {
+    "value": "Daha kiçik addımla irəliləyin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437399,
+        "oldValue": "",
+        "newValue": "Daha kiçik addımla irəliləyin"
+      }
+    ]
+  },
+  "moveSphereLabel": {
+    "value": "Kürəni hərəkət etdirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437399,
+        "oldValue": "",
+        "newValue": "Kürəni hərəkət etdirin"
+      }
+    ]
+  },
+  "moveSpheresHeading": {
+    "value": "Kürələri hərəkət etdirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437399,
+        "oldValue": "",
+        "newValue": "Kürələri hərəkət etdirin"
+      }
+    ]
+  },
+  "constantSize": {
+    "value": "Sabit ölçü",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437396,
+        "oldValue": "",
+        "newValue": "Sabit ölçü"
+      }
+    ]
+  },
+  "changeMassHeading": {
+    "value": "Kütləni dəyişdirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437395,
+        "oldValue": "",
+        "newValue": "Kütləni dəyişdirin"
+      }
+    ]
+  },
+  "changeMassInLargerSteps": {
+    "value": "Kütləni daha böyük addımlarla dəyişdirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437395,
+        "oldValue": "",
+        "newValue": "Kütləni daha böyük addımlarla dəyişdirin"
+      }
+    ]
+  },
+  "moveGrabbedRuler": {
+    "value": "Seçilmiş xətkeşi hərəkət etdirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437399,
+        "oldValue": "",
+        "newValue": "Seçilmiş xətkeşi hərəkət etdirin"
+      }
+    ]
+  },
+  "jumpHome": {
+    "value": "Xətkeşi ilkin vəziyyətinə gətirin<br>və buraxın",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437396,
+        "oldValue": "",
+        "newValue": "Xətkeşi ilkin vəziyyətinə gətirin<br>və buraxın"
+      }
+    ]
+  },
+  "moveOrJumpGrabbedRuler": {
+    "value": "Seçilmiş xətkeşi hərəkət etdirin və ya buraxın",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437396,
+        "oldValue": "",
+        "newValue": "Seçilmiş xətkeşi hərəkət etdirin və ya buraxın"
+      }
+    ]
+  },
+  "jumpStartOfSphere": {
+    "value": "Xətkeşin başlanğıcını m1 sferasının<br>mərkəzinə gətirin",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1671910437397,
+        "oldValue": "",
+        "newValue": "Xətkeşin başlanğıcını m1 sferasının<br>mərkəzinə gətirin"
+      }
+    ]
+  }
+}

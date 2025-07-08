@@ -1,0 +1,669 @@
+{
+  "screen.macro": {
+    "value": "Makrotaso",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Makrotaso",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Mikrotaso",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "",
+        "newValue": "Mikrotaso",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Oma liuos",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "",
+        "newValue": "Oma liuos",
+        "explanation": null
+      }
+    ]
+  },
+  "acidic": {
+    "value": "hapan",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Hapan",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "Hapan",
+        "newValue": "hapan"
+      }
+    ]
+  },
+  "basic": {
+    "value": "emäksinen",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Emäksinen",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "Emäksinen",
+        "newValue": "emäksinen"
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "neutraali",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "neutraali",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "akkuhappo",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "suolahappo",
+        "explanation": null
+      },
+      {
+        "userId": 158684,
+        "timestamp": 1480571076098,
+        "oldValue": "suolahappo",
+        "newValue": "akkuhappo",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "veri",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "veri",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "kanakeitto",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "kanakeitto",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "kahvi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "kahvi",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "viemärinpuhdistusaine",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "viemärinpuhdistusaine",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "käsisaippua",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "käsisaippua",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "maito",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "maito",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "appelsiinimehu",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "appelsiinimehu",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "virvoitusjuoma",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "virvoitusjuoma",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "sylki",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "sylki",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "oksennus",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "oksennus",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "vesi",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "vesi",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      },
+      {
+        "userId": 158684,
+        "timestamp": 1480571076098,
+        "oldValue": "L",
+        "newValue": "l",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "-suhde",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076098,
+        "oldValue": "",
+        "newValue": "suhde",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "suhde",
+        "newValue": "-suhde"
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "molekyylien määrä",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076098,
+        "oldValue": "",
+        "newValue": "Molekyylien määrä",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "Molekyylien määrä",
+        "newValue": "molekyylien määrä"
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "logaritminen",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "",
+        "newValue": "Logaritminen",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "Logaritminen",
+        "newValue": "logaritminen"
+      }
+    ]
+  },
+  "linear": {
+    "value": "lineaarinen",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "",
+        "newValue": "Lineaarinen",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "Lineaarinen",
+        "newValue": "lineaarinen"
+      }
+    ]
+  },
+  "offScale": {
+    "value": "asteikon ulkopuolella",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "",
+        "newValue": "asteikon ulkopuolella",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "konsentraatio",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "",
+        "newValue": "Konsentraatio",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "Konsentraatio",
+        "newValue": "konsentraatio"
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/l",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "mol/L",
+        "explanation": null
+      },
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "mol/L",
+        "newValue": "mol/l",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "ainemäärä",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "",
+        "newValue": "Ainemäärä",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1646516229343,
+        "oldValue": "Ainemäärä",
+        "newValue": "ainemäärä"
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH-asteikko",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "pH asteikko",
+        "explanation": null
+      },
+      {
+        "userId": 158684,
+        "timestamp": 1480571076099,
+        "oldValue": "pH asteikko",
+        "newValue": "pH-asteikko",
+        "explanation": null
+      }
+    ]
+  },
+  "about.credits": {
+    "value": ""
+  },
+  "button.zoomIn": {
+    "value": "Skaalaus (÷10)",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009352,
+        "oldValue": "",
+        "newValue": "Skaalaus (÷10)",
+        "explanation": null
+      }
+    ]
+  },
+  "button.zoomOut": {
+    "value": "Skaalaus (x10)",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Skaalaus (x10)",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.H3O_OH_ratio": {
+    "value": "{0}/{1} suhde",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009352,
+        "oldValue": "",
+        "newValue": "{0}/{1} suhde",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.dontAskAgain": {
+    "value": "Älä kysy uudestaan",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Älä kysy uudestaan",
+        "explanation": null
+      }
+    ]
+  },
+  "checkBox.moleculeCount": {
+    "value": "Molekyylinen lukumäärä",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Molekyylinen lukumäärä",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.beer": {
+    "value": "olut",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009352,
+        "oldValue": "",
+        "newValue": "olut",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "oma liuos",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "oma liuos",
+        "explanation": null
+      }
+    ]
+  },
+  "confirm.changeLiquid": {
+    "value": ""
+  },
+  "label.H2O": {
+    "value": ""
+  },
+  "label.H3O": {
+    "value": ""
+  },
+  "label.OH": {
+    "value": ""
+  },
+  "label.acid": {
+    "value": "happo",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "happo",
+        "explanation": null
+      }
+    ]
+  },
+  "label.base": {
+    "value": "emäs",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009352,
+        "oldValue": "",
+        "newValue": "emäs",
+        "explanation": null
+      }
+    ]
+  },
+  "label.pH": {
+    "value": "pH;",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "pH;",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.description": {
+    "value": "Testaa ph erilaisista liuoksista kuten kahvi, sylki ja saippua, päättele ovatko luokset neutraaleja, happoja vai emäksiä. Tarkastele hydroksini ja hydroniumionien määrää liuoksessa. Vertaa logaritmisiä ja lineeaarisia asteikkoja. Testaa miten liuoksen laimennos vaikuttaa pH:on.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Testaa ph erilaisista liuoksista kuten kahvi, sylki ja saippua, päättele ovatko luokset neutraaleja, happoja vai emäksiä. Tarkastele hydroksini ja hydroniumionien määrää liuoksessa. Vertaa logaritmisiä ja lineeaarisia asteikkoja. Testaa miten liuoksen laimennos vaikuttaa pH:on.",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.concentration": {
+    "value": "Konsentraatio  ({0})",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Konsentraatio  ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.linearScale": {
+    "value": "Lineaarinen asteikko",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Lineaarinen asteikko",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.logarithmicScale": {
+    "value": "Logaritminen asteikko",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009352,
+        "oldValue": "",
+        "newValue": "Logaritminen asteikko",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.numberOfMoles": {
+    "value": "Moolimäärä ({0})",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009352,
+        "oldValue": "",
+        "newValue": "Moolimäärä ({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "title.waterComponents": {
+    "value": "Veden komponentit",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457868009351,
+        "oldValue": "",
+        "newValue": "Veden komponentit",
+        "explanation": null
+      }
+    ]
+  }
+}

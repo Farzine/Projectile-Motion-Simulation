@@ -1,0 +1,312 @@
+{
+  "cubic": {
+    "value": "3차",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "3차",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "선형",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "선형",
+        "explanation": null
+      }
+    ]
+  },
+  "quadratic": {
+    "value": "2차",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "2차",
+        "explanation": null
+      }
+    ]
+  },
+  "adjustableFit": {
+    "value": "조절가능 적합도",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "조절가능 적합도",
+        "explanation": null
+      }
+    ]
+  },
+  "bestFit": {
+    "value": "최고의 적합도",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "최고의 적합도",
+        "explanation": null
+      }
+    ]
+  },
+  "curve": {
+    "value": "곡선",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "곡선",
+        "explanation": null
+      }
+    ]
+  },
+  "residuals": {
+    "value": "나머지",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "나머지",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "값",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "값",
+        "explanation": null
+      }
+    ]
+  },
+  "theReducedChiSquaredStatisticIs": {
+    "value": "감소된 카이제곱 통계는:",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "감소된 카이제곱 통계는:",
+        "explanation": null
+      }
+    ]
+  },
+  "deviations": {
+    "value": "편차",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "편차",
+        "explanation": null
+      }
+    ]
+  },
+  "equation": {
+    "value": "방정식",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "방정식",
+        "explanation": null
+      }
+    ]
+  },
+  "undefined": {
+    "value": "정의되지 아니한",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "정의되지 아니한",
+        "explanation": null
+      }
+    ]
+  },
+  "curve-fitting.title": {
+    "value": "곡선 맞춤",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1573825882353,
+        "oldValue": "",
+        "newValue": "곡선 맞춤",
+        "explanation": null
+      }
+    ]
+  },
+  "pointCoordinatesPattern": {
+    "value": "({{xCoordinate}}, {{yCoordinate}})",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "({{xCoordinate}}, {{yCoordinate}})"
+      }
+    ]
+  },
+  "deltaEqualsPattern": {
+    "value": "Δ<sub>{{y}}</sub> = {{deltaValue}}",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "Δ<sub>{{y}}</sub> = {{deltaValue}}"
+      }
+    ]
+  },
+  "ySymbol": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "aSymbol": {
+    "value": "a",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "a"
+      }
+    ]
+  },
+  "bSymbol": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "b"
+      }
+    ]
+  },
+  "cSymbol": {
+    "value": "c",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "c"
+      }
+    ]
+  },
+  "dSymbol": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "xSymbol": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "fEqualsNumberOfParametersPattern": {
+    "value": "{{fSymbol}} = 적합에 필요한 매개변수 수 (예: 3차 적합의 경우 {{fSymbol}} = 4)",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "{{fSymbol}} = 적합에 필요한 매개변수 수 (예: 3차 적합의 경우 {{fSymbol}} = 4)"
+      }
+    ]
+  },
+  "nEqualsNumberOfDataPointsPattern": {
+    "value": "{{nSymbol}} = 데이터점 수",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "{{nSymbol}} = 데이터점 수"
+      }
+    ]
+  },
+  "chiSymbol": {
+    "value": "X",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "X"
+      }
+    ]
+  },
+  "fSymbol": {
+    "value": "f",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "f"
+      }
+    ]
+  },
+  "nSymbol": {
+    "value": "N",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "N"
+      }
+    ]
+  },
+  "rSymbol": {
+    "value": "r",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1701133179111,
+        "oldValue": "",
+        "newValue": "r"
+      }
+    ]
+  }
+}

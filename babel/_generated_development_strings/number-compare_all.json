@@ -1,0 +1,1257 @@
+{
+  "am": {
+    "screen.compare": {
+      "value": "ማወዳደር"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} ያንሳል ከ {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} ይበልጣል ከ {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} እኩል ይሆናል ከ {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "ቁጥር ማወዳደር"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "የቁጥር አረፍተነገርን በፍጥነት ማዳመጥ"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "መስተጋብር በሚፈጥሩበት ጊዜ የሚፈጠረወን የቁጥር አረፍተ ነገር በፍጥነት ያዳምጡ"
+    }
+  },
+  "ar": {
+    "screen.compare": {
+      "value": "قارن"
+    },
+    "isLessThan": {
+      "value": "{{greaterNumber}}اقل من{{smallerNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{smallerNumber}}أكبر من{{greaterNumber}}"
+    },
+    "isEqualTo": {
+      "value": "  {{equalNumberRight}}مساوي ل{{equalNumberLeft}} "
+    }
+  },
+  "ar_MA": {
+    "screen.compare": {
+      "value": "قارن"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}}أصغرمن {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} أكبر من {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} يساوي {{equalNumberRight}}"
+    }
+  },
+  "az": {
+    "screen.compare": {
+      "value": "Müqayisə edin"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} {{greaterNumber}} ədədindən kiçikdir."
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} {{smallerNumber}} ədədindən böyükdür."
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} və {{equalNumberRight}} bərbərdir"
+    },
+    "number-compare.title": {
+      "value": "Ədəd Müqayisəsi"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Tənliyi Avtomatik Dinləyin"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Qarşılıqlı əlaqə qurarkən tənliyin yenilənməsini avtomatik eşidin."
+    }
+  },
+  "bg": {
+    "screen.compare": {
+      "value": "Сравни"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} е по-малко от {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} е по-голямо от {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} е равно на {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Сравни числата"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Автоматично чуване на числово изречение"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Чуйте автоматично актуализиране на числовото изречение, докато взаимодействате."
+    }
+  },
+  "bn": {
+    "screen.compare": {
+      "value": "তুলনা"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}}  হয়  {{greaterNumber}} থেকে কম"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} হয়  {{smallerNumber}} থেকে বড়"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} হয়  {{equalNumberRight}} এর সমান"
+    },
+    "number-compare.title": {
+      "value": "সংখ্যার  তুলনা"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "স্বয়ংক্রিয়ভাবে সংখ্যা বাক্য শুনুন"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "আপনি ইন্টারঅ্যাক্ট করার সাথে সাথে স্বয়ংক্রিয়ভাবে সংখ্যা বাক্য আপডেট শুনুন"
+    }
+  },
+  "bs": {
+    "screen.compare": {
+      "value": "Uporedi"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} je manje od {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} je veće od {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} je jednako {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Uporedi brojeve"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatski slušajte brojčanu rečenicu"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Slušajte automatski ažuriranje  rečenice dok ste u interakciji."
+    }
+  },
+  "ca": {
+    "screen.compare": {
+      "value": "Compara"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} és menor que {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} és major que {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} és igual a {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Comparació de números"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Sentir automàticament l'oració numèrica"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Sent com s'actualitza automàticament l'oració numèrica a l'interactuar."
+    }
+  },
+  "cs": {
+    "screen.compare": {
+      "value": "Porovnání"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} je menší než  {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} je větší než  {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} je rovno  {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Porovnání čísel"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automaticky přečíst čísla"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Přečíst číselný výraz automaticky během interakce."
+    }
+  },
+  "da": {
+    "screen.compare": {
+      "value": "Sammenlign"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} er mindre end {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} er større end {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} er lig med {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Talsammenligning"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Hør automatisk tallet"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Hør tallet update automatisk når du ændrer."
+    }
+  },
+  "de": {
+    "screen.compare": {
+      "value": "Vergleichen"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} ist kleiner als {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} ist größer als {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} ist gleich {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Zahlen vergleichen"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatisch Zahlensatz hören"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Höre die Aktualisierung des Zahlensatzes automatisch, während du interagierst."
+    }
+  },
+  "el": {
+    "screen.compare": {
+      "value": "Σύγκριση"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} είναι μικρότερο από {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} είναι μεγαλύτερο από  {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} είναι ίσο με {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Σύγκριση αριθμών"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Αυτόματη εκφώνηση αριθμών"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Ακούστε την ενημερωμένη εκφώνηση αριθμών καθώς αλληλεπιδράτε."
+    }
+  },
+  "es": {
+    "screen.compare": {
+      "value": "Compara"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} es menor que {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} es mayor que {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} es igual a {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Comparar Números"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Escuchar Oraciones Numéricas Automáticamente"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Escucha la oración numérica que se actualiza automáticamente a medida que interactúas."
+    }
+  },
+  "es_MX": {},
+  "es_PE": {
+    "screen.compare": {
+      "value": "Compara"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} es menor que {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} es mayor que {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} es igual que {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Comparación de números"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Escuche automáticamente la oración numérica"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Escuche la oración numérica actualizarse automáticamente a medida que interactúa."
+    }
+  },
+  "eu": {
+    "screen.compare": {
+      "value": "Konparatu"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} baino txikiagoa da {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} baino handiagoa da {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} -ren berdina da {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Zenbakiak konparatu"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Entzun automatikoki zenbaki esaldia"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Entzun zenbaki-esaldiaren eguneratzea automatikoki elkarreragin bitartean."
+    }
+  },
+  "fa": {
+    "screen.compare": {
+      "value": "مقایسه"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} کوچکتر از {{greaterNumber}} است"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} بزرگتر از {{smallerNumber}} است"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} برابر با {{equalNumberRight}} است"
+    },
+    "number-compare.title": {
+      "value": "مقایسه اعداد"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "جمله عدد را به طور خودکار بشنوید"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "هنگام تعامل به روز رسانی جمله عدد را به طور خودکار بشنوید"
+    }
+  },
+  "fa_DA": {
+    "screen.compare": {
+      "value": "مقایسه"
+    },
+    "number-compare.title": {
+      "value": "مقایسه اعداد"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "افادۀ عددی را به طور خودکار بشنوید"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "به روز رسانی افاده عددی را به طور خودکار در حین کار بشنوید."
+    }
+  },
+  "fi": {
+    "screen.compare": {
+      "value": "Vertaile"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} on pienempi kuin {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} on suurempi kuin {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} on yhtäsuuri kuin {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Lukujen vertailu"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Kuuntele automaattisesti yhtälö tai epäyhtälö"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Kuuntele automaattisesti yhtälön tai epäyhtälön päivittyminen vuorovaikutuksen aikana."
+    }
+  },
+  "fr": {
+    "screen.compare": {
+      "value": "Comparer"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} est plus petit que {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} est plus grand que {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} est égal à {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Comparaison de nombres"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Entendre automatiquement la phrase numérique"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Écoutez la phrase numérique se mettre à jour automatiquement lorsque vous interagissez."
+    }
+  },
+  "gu": {
+    "screen.compare": {
+      "value": "સરખામણી"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} નાની છે {{greaterNumber}} થી"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} મોટી છે  {{smallerNumber}} થી"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} સમાન છે {{equalNumberRight}}"
+    }
+  },
+  "ha": {
+    "screen.compare": {
+      "value": "Kwatanta"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} is less than {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} is greater than {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} is equal to {{equalNumberRight}}"
+    }
+  },
+  "hi": {
+    "screen.compare": {
+      "value": "तुलना करो"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} छोटा है {{greaterNumber}} से"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} बड़ा है {{smallerNumber}} से"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} बराबर है {{equalNumberRight}} के"
+    }
+  },
+  "hr": {
+    "screen.compare": {
+      "value": "Usporedi"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} je manji od {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} je veći od {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} jednak je {{equalNumberRight}}"
+    }
+  },
+  "ht": {
+    "screen.compare": {
+      "value": "Konpare"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} pi piti pase {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} pi gran pase {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} egal ak {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Konpare Nimewo"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Tande Otomatikman Nimewo Fraz"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Tande mizajou nimewo fraz la otomatikman pandan w ap entèraji avè l."
+    }
+  },
+  "ig": {
+    "screen.compare": {
+      "value": "Tulee Ya"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} erughị {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} karịrị {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} hà nhata na {{equalNumberRight}}"
+    }
+  },
+  "it": {
+    "screen.compare": {
+      "value": "Confronta"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} è minore di  {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} è maggiore di  {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} è uguale a {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Confronto di numeri"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Ascolta automaticamente la frase numerica"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Ascolta la frase numerica che si aggiorna automaticamente mentre interagisci."
+    }
+  },
+  "iw": {
+    "screen.compare": {
+      "value": "השוואה"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} פחות מ- {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} גדול מ- {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} שווה ל- {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "השוואת מספר"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "השמעה אוטומטית של משפט המספר"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "השמעה אוטומטית עדכנית של משפט המספר במהלך האינטראקציה"
+    }
+  },
+  "ja": {
+    "screen.compare": {
+      "value": "くらべよう"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} は {{greaterNumber}} より 小さい。"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} は {{smallerNumber}} より 大きい。"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} は {{equalNumberRight}} と おなじ。"
+    }
+  },
+  "ki": {
+    "screen.compare": {
+      "value": "Mĩringithania"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} nĩ mũnini gũkĩra{{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} nĩ mũnene gũkĩra{{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} ĩiganaine na{{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Mĩringithania ya Namba"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Ouguo Thikĩrĩria namba Mũhari"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Thikĩrĩria namba muhari gucenjio ouguo muracemania"
+    }
+  },
+  "ko": {
+    "screen.compare": {
+      "value": "비교하기"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} 는 {{greaterNumber}} 보다 작다."
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} 는 {{smallerNumber}} 보다 크다."
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}}는 {{equalNumberRight}}와 크기가 같다."
+    },
+    "number-compare.title": {
+      "value": "수 비교"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "수문장을 자동적으로 들음"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "상호작용 중에 업데이트된 수 문장을 자동적으로 들음"
+    }
+  },
+  "lg": {
+    "screen.compare": {
+      "value": "Okugerageranya"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} ntono okusinga {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} kinene okusinga {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} yenkana {{equalNumberRight}}"
+    }
+  },
+  "mn": {
+    "screen.compare": {
+      "value": "Харьцуул"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} бол {{greaterNumber}}-ээс бага"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} бол {{smallerNumber}}-ээс их"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} бол {{equalNumberRight}}-тай тэнцүү"
+    },
+    "number-compare.title": {
+      "value": "Тоог харьцуул"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Тоон өгүүлбэрийг автоматаар сонсох"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Таныг харилцах үед тоон өгүүлбэр автоматаар шинэчлэгдэхийг сонсоорой."
+    }
+  },
+  "ms": {
+    "screen.compare": {
+      "value": "Bandingkan"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} adalah kurang daripada {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}}  adalah besar daripada {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} adalah sama dengan {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Perbandingan Nombor"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Mendengar Ayat Nombor Secara Automatik"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Dengar ayat nombor dikemas kini secara automatik semasa anda berinteraksi."
+    }
+  },
+  "mt": {
+    "screen.compare": {
+      "value": "Qabbel"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} hu iżgħar minn {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} hu ikbar minn {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} hu daqs {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Qabbel in-Numri"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Awtomatikament Isma' s-Sentenza bin-Numri"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Isma' s-sentenza bin-numri taġġorna awtomatikament inti u tkompli."
+    }
+  },
+  "nl": {
+    "screen.compare": {
+      "value": "Vergelijk"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} is minder dan  {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} is groter dan {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} is gelijk aan {{equalNumberRight}}"
+    }
+  },
+  "ny": {
+    "screen.compare": {
+      "value": "Yerekezerani"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} ndiyochepera {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} ndi yayikulu kuposa {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} ndi ofanana ndi {{equalNumberRight}}"
+    }
+  },
+  "om": {
+    "screen.compare": {
+      "value": "Wal bira qabu"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} irra xiqqaa {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} irra guddaa {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} wal-qixaa {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Lakkoofsa Walbira Qabsiisuu"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Battalumattii Hima Lakkoofsa Dhaga'uu"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Yeroo walqunnamtutti fooyya'iinsa hima lakkoofsaa battaluma dhaga'i."
+    }
+  },
+  "pl": {
+    "screen.compare": {
+      "value": "Porównaj"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} jest mniejsze niż {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} jest większe niż {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} jest równe {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Porównywanie liczb"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatycznie odsłuchaj nazwę liczby"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Odsłuchaj automatycznie aktualizowaną  podczas interakcji nazwę liczby."
+    }
+  },
+  "ps": {
+    "screen.compare": {
+      "value": "پرتله (مقایسه)"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} کوچنی دی له {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} لوی دی له  {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} مساوي دی له {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "د عددونو پرتله کول"
+    }
+  },
+  "pt_BR": {
+    "screen.compare": {
+      "value": "Comparar"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} é menor que {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} é maior que {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} é igual a {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Comparar Números"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Ouvir Sentença Numérica Automaticamente"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Ouça a atualização da sentença numérica automaticamente conforme você interage."
+    }
+  },
+  "ro": {
+    "screen.compare": {
+      "value": "Compară"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} este mai mic decât {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} este mai mare decât {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}}  este egal cu {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Compară numerele"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Ascultați automat propoziția cu numere"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Actualizare automată a propoziției cu numere pe măsură ce interacționați."
+    }
+  },
+  "rw": {
+    "screen.compare": {
+      "value": "Kugereranya"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} irutwa na {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} iruta {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} ingana na {{equalNumberRight}}"
+    }
+  },
+  "sk": {
+    "screen.compare": {
+      "value": "Porovnanie"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} je menšie než {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} je väčšie než {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} sa rovná  {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Porovnanie čísel"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatické počúvanie výroku o číslach"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Vypočujte si, ako sa pri interakcii automaticky aktualizuje výrok o číslach."
+    }
+  },
+  "sl": {
+    "screen.compare": {
+      "value": "Primerjaj"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} je manjše kot {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} je večje kot {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} je enako {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Primerjava števil"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Samodejno poslušaj številko stavka"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Poslušaj številko stavka samodejno medtem ko delaš."
+    }
+  },
+  "sn": {
+    "screen.compare": {
+      "value": "Cherechedza musiyano"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} idiki pane {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} ihombe pane {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} yakaenzana ne {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Yera manhamba"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatically Hear Number Sentence"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Hear the number sentence update automatically as you interact."
+    }
+  },
+  "sq": {
+    "screen.compare": {
+      "value": "Krahasoni"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} është më pak se {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} është me e madhe se {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} është e barabartë me {{equalNumberRight}}"
+    }
+  },
+  "sr": {
+    "screen.compare": {
+      "value": "Упореди"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} је мање од {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} је веће од {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} је једнако {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Упореди бројеве"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Аутоматски слушајте бројчану реченицу"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Слушајте аутоматски ажурирање  реченице док сте у интеракцији."
+    }
+  },
+  "st": {
+    "screen.compare": {
+      "value": "bapisa"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} e nyane ho {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} e kholo ho feta  {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} e lekana le {{equalNumberRight}}"
+    }
+  },
+  "sv": {
+    "screen.compare": {
+      "value": "Jämför"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} är mindre än {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} är större än {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} är lika med {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Jämför tal"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Hör automatiskt tal meningen"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Hör tal meningen uppdateras automatiskt när du spelar."
+    }
+  },
+  "sw": {
+    "screen.compare": {
+      "value": "Linganisha"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} ni ndogo kuliko {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} ni kubwa kuliko {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} inalingana na {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Nambari Linganisha"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Sikia Sentensi ya Namba kiotomatiki"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Sikia sasisho la sentensi ya nambari kiotomatiki unapowasiliana."
+    }
+  },
+  "te": {
+    "screen.compare": {
+      "value": "సరి పోల్చు"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} ,  {{greaterNumber}}  కన్నా చిన్నది"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} ,  {{smallerNumber}} కన్నా పెద్దది"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} ,  {{equalNumberRight}} కు సమానం"
+    },
+    "number-compare.title": {
+      "value": "సంఖ్యలను సరి పోల్చండి"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatically Hear Number Sentence"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Hear the number sentence update automatically as you interact."
+    }
+  },
+  "tk": {
+    "screen.compare": {
+      "value": "Deňeşdir"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} kiçidir {{greaterNumber}}-dan(den)"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} uludyr {{smallerNumber}}-dan(den)"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} deňdir {{equalNumberRight}}"
+    }
+  },
+  "tr": {
+    "screen.compare": {
+      "value": "Karşılaştırma"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} küçüktür {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} büyüktür {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} eşittir {{equalNumberRight}}"
+    }
+  },
+  "tw": {
+    "screen.compare": {
+      "value": "Brɔfo"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} sua sene {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} so sene {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} ne {{equalNumberRight}} yɛc pɛ"
+    }
+  },
+  "ur": {
+    "screen.compare": {
+      "value": "تقابل"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} چھوٹا ہے {{greaterNumber}} سے"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}}  بڑا ہے {{smallerNumber}} سے"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} کی قدر {{equalNumberRight}} کے مساوی ہے"
+    },
+    "number-compare.title": {
+      "value": "اعداد کا تقابل"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "خودکار طرز پر عدد کا جملہ سنیں"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "عدد پر مبنی جملے میں خودبخود تبدیلی کو سنیں جیسے جیسے آپ اس سے تعامل کرتے ہیں۔"
+    }
+  },
+  "uz": {
+    "screen.compare": {
+      "value": "Taqqoslash"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} {{greaterNumber}} dan kichik"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} {{smallerNumber}} dan katta"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} {{equalNumberRight}} ga teng"
+    },
+    "number-compare.title": {
+      "value": "Raqamni Taqqoslash"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Raqamli Jumlani Avtomatik Eshitish"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "O'zaro aloqada bo'lganingizda, raqam jumlasi yangilanishini avtomatik ravishda eshiting."
+    }
+  },
+  "vi": {
+    "screen.compare": {
+      "value": "So sánh"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} is less than {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} is greater than {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} is equal to {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "So sánh số"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatically Hear Number Sentence"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Hear the number sentence update automatically as you interact."
+    }
+  },
+  "yo": {
+    "screen.compare": {
+      "value": "Fiwera"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} jẹ kere ju {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} o tobi ju {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} jẹ dogba si {{equalNumberRight}}"
+    }
+  },
+  "zh_CN": {
+    "screen.compare": {
+      "value": "大小比较"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} 小于 {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} 大于 {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} 等于 {{equalNumberRight}}"
+    }
+  },
+  "zh_HK": {
+    "screen.compare": {
+      "value": "比較"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} 小於 {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} 大於{{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} 等於{{equalNumberRight}}"
+    }
+  },
+  "zh_TW": {
+    "screen.compare": {
+      "value": "比較"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} 小於 {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} 大於 {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} 等於 {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "Number Compare_比較數字"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "自動聽到數字的句子"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "互動時自動聽到更新後的數字的句子"
+    }
+  },
+  "zu": {
+    "screen.compare": {
+      "value": "qhathanisa"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} is less than {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} is greater than {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} is equal to {{equalNumberRight}}"
+    },
+    "number-compare.title": {
+      "value": "inombolo qhathanisa"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "zwa ngokuzenza kalelayo umusho wenombolo"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "zwa umusho wezinombolo ubuyekeza ngokuzenzakalelayo njegoba uhlanganyela."
+    }
+  },
+  "en": {
+    "number-compare.title": {
+      "value": "Number Compare"
+    },
+    "screen.compare": {
+      "value": "Compare"
+    },
+    "isLessThan": {
+      "value": "{{smallerNumber}} is less than {{greaterNumber}}"
+    },
+    "isGreaterThan": {
+      "value": "{{greaterNumber}} is greater than {{smallerNumber}}"
+    },
+    "isEqualTo": {
+      "value": "{{equalNumberLeft}} is equal to {{equalNumberRight}}"
+    },
+    "automaticallyHearNumberSentence": {
+      "value": "Automatically Hear Number Sentence"
+    },
+    "automaticallyHearNumberSentenceDescription": {
+      "value": "Hear the number sentence update automatically as you interact."
+    }
+  }
+}

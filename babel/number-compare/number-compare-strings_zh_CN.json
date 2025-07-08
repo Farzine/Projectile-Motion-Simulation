@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "大小比较",
+    "history": [
+      {
+        "userId": 1073265,
+        "timestamp": 1665542827869,
+        "oldValue": "",
+        "newValue": "大小比较"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} 小于 {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 1073265,
+        "timestamp": 1665542827870,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} 小于 {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} 大于 {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 1073265,
+        "timestamp": 1665542827870,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} 大于 {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} 等于 {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 1073265,
+        "timestamp": 1665542827870,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} 等于 {{equalNumberRight}}"
+      }
+    ]
+  }
+}

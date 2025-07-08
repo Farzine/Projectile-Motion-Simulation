@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport"
+        content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <title>Hello World - Scenery Example</title>
+
+  <!-- Before loading other things (that might error), create hooks to report errors/loads for continuous testing -->
+  <script src="../../chipper/js/browser/sim-tests/pageload-connector.js"></script>
+
+  <!-- jQuery and lodash are dependencies -->
+  <script src="../../sherpa/lib/jquery-2.1.0.min.js"></script>
+  <script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+
+  <script src="../dist/scenery.min.js"></script>
+
+  <style>
+    /* so the centering of the text is obvious */
+    #hello-world-scene {
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+<div id="hello-world-scene" style="width: 400px; height: 400px;"></div>
+<script type="text/javascript">
+  // Create a Node as the root of our tree (it can contain children)
+  const scene = new phet.scenery.Node();
+
+  // Create a display using this root node, using our existing div
+  const display = new phet.scenery.Display( scene, {
+    container: document.getElementById( 'hello-world-scene' ),
+    backgroundColor: '#eee'
+  } );
+
+  const scratchFloatArray = new Float32Array( 9 );
+
+  class TrianglePainter {
+    /**
+     * @public
+     *
+     * @param {WebGL2RenderingContext} gl
+     * @param {TriangleNode} node
+     */
+    constructor( gl, node ) {
+      this.gl = gl;
+      this.node = node;
+
+      // Simple example for custom shader
+      const vertexShaderSource = [
+        // Position
+        'attribute vec3 aPosition;',
+        'attribute vec3 aColor;',
+        'varying vec3 vColor;',
+        'uniform mat3 uModelViewMatrix;',
+        'uniform mat3 uProjectionMatrix;',
+
+        'void main( void ) {',
+        '  vColor = aColor;',
+        // homogeneous model-view transformation
+        '  vec3 view = uModelViewMatrix * vec3( aPosition.xy, 1 );',
+        // homogeneous map to to normalized device coordinates
+        '  vec3 ndc = uProjectionMatrix * vec3( view.xy, 1 );',
+        // combine with the z coordinate specified
+        '  gl_Position = vec4( ndc.xy, aPosition.z, 1.0 );',
+        '}'
+      ].join( '\n' );
+
+      // Simple demo for custom shader
+      const fragmentShaderSource = [
+        'precision mediump float;',
+        'varying vec3 vColor;',
+
+        // Returns the color from the vertex shader
+        'void main( void ) {',
+        '  gl_FragColor = vec4( vColor, 1.0 );',
+        '}'
+      ].join( '\n' );
+
+      this.shaderProgram = new phet.scenery.ShaderProgram( gl, vertexShaderSource, fragmentShaderSource, {
+        attributes: [ 'aPosition', 'aColor' ],
+        uniforms: [ 'uModelViewMatrix', 'uProjectionMatrix' ]
+      } );
+
+      this.vertexBuffer = gl.createBuffer();
+
+      const points = node.shape.subpaths[ 0 ].points;
+      gl.bindBuffer( gl.ARRAY_BUFFER, this.vertexBuffer );
+      gl.bufferData( gl.ARRAY_BUFFER, new Float32Array( [
+        points[ 0 ].x, points[ 0 ].y, 0.2,
+        points[ 1 ].x, points[ 1 ].y, 0.2,
+        points[ 2 ].x, points[ 2 ].y, 0.2
+      ] ), gl.STATIC_DRAW );
+
+      this.colorBuffer = gl.createBuffer();
+
+      gl.bindBuffer( gl.ARRAY_BUFFER, this.colorBuffer );
+      gl.bufferData( gl.ARRAY_BUFFER, new Float32Array( [
+        1, 0, 0,
+        0, 1, 0,
+        0, 0, 1
+      ] ), gl.STATIC_DRAW );
+    }
+
+    /**
+     * @public
+     *
+     * @param {Matrix3} modelViewMatrix
+     * @param {Matrix3} projectionMatrix
+     * @returns {number}
+     */
+    paint( modelViewMatrix, projectionMatrix ) {
+      const gl = this.gl;
+
+      this.shaderProgram.use();
+
+      gl.uniformMatrix3fv( this.shaderProgram.uniformLocations.uModelViewMatrix, false, modelViewMatrix.copyToArray( scratchFloatArray ) );
+      gl.uniformMatrix3fv( this.shaderProgram.uniformLocations.uProjectionMatrix, false, projectionMatrix.copyToArray( scratchFloatArray ) );
+
+      gl.bindBuffer( gl.ARRAY_BUFFER, this.vertexBuffer );
+      gl.vertexAttribPointer( this.shaderProgram.attributeLocations.aPosition, 3, gl.FLOAT, false, 0, 0 );
+
+      gl.bindBuffer( gl.ARRAY_BUFFER, this.colorBuffer );
+      gl.vertexAttribPointer( this.shaderProgram.attributeLocations.aColor, 3, gl.FLOAT, false, 0, 0 );
+
+      gl.drawArrays( gl.TRIANGLES, 0, 3 );
+
+      this.shaderProgram.unuse();
+
+      return phet.scenery.WebGLNode.PAINTED_SOMETHING;
+    }
+
+    /**
+     * Releases references
+     * @public
+     */
+    dispose() {
+      this.shaderProgram.dispose();
+      this.gl.deleteBuffer( this.colorBuffer );
+      this.gl.deleteBuffer( this.vertexBuffer );
+
+      this.shaderProgram = null;
+    }
+  }
+
+  class TriangleNode extends phet.scenery.WebGLNode {
+    /**
+     * @public
+     *
+     * @param {Object} [options]
+     */
+    constructor( options ) {
+      const shape = phet.kite.Shape.regularPolygon( 3, 100 * Math.sqrt( 2 ) );
+
+      super( TrianglePainter, _.extend( {
+        canvasBounds: shape.bounds
+      }, options ) );
+
+      // @public {Shape}
+      this.shape = shape;
+    }
+  }
+
+  const triangle = new TriangleNode( {
+    x: 200,
+    y: 200
+  } );
+  scene.addChild( triangle );
+
+  display.updateOnRequestAnimationFrame( timeElapsed => {
+    triangle.rotate( timeElapsed );
+  } );
+</script>
+</body>
+</html>

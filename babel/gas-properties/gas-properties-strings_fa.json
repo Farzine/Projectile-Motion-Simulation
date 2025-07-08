@@ -1,0 +1,736 @@
+{
+  "atmospheres": {
+    "value": "اتمسفر",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "اتمسفر",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "شمارنده برخورد",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "شمارنده برخورد",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "برخوردها",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "برخوردها",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "سنگین",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "سنگین",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "ثابت نگه داشتن",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "ثابت نگه داشتن ...",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "ثابت نگه داشتن ...",
+        "newValue": "ثابت نگه داشتن",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "آرمانی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "آرمانی",
+        "explanation": null
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "کلوین",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "",
+        "newValue": "کلوین",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "کیلوپاسکال",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "کیلوپاسکال",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "سبک",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "سبک",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "نانومتر",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "نانومتر",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "هیچکدام",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "هیچکدام",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "وای!<br><br> به بیشینه دما رسیدیم.",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "",
+        "newValue": "وای!<br><br> به بیشینه دما رسیدیم.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "وای!<br><br>فشار را نمی توان ثابت نگه داشت <br>وقتی که محفظه خالی است.",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "اوه، چون محفظه خالی است، فشار را نمیتوان ثابت نگه داشت.",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "اوه، چون محفظه خالی است، فشار را نمیتوان ثابت نگه داشت.",
+        "newValue": "وای!<br><br>فشار را نمی توان ثابت نگه داشت <br>وقتی که محفظه خالی است.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "وای!<br><br>فشار را نمیتوان ثابت نگه داشت.<br>زیرا حجم بیش از حد بزرگ می شود.",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "اوه، فشار را نمیتوان ثابت نگه داشت زیرا حجم بیش از حد زیاد میشود.",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "اوه، فشار را نمیتوان ثابت نگه داشت زیرا حجم بیش از حد زیاد میشود.",
+        "newValue": " وای!<br><br>فشار را نمیتوان ثابت نگه داشت.<br>زیرا حجم بیش از حد بزرگ می شود.",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": " وای!<br><br>فشار را نمیتوان ثابت نگه داشت.<br>زیرا حجم بیش از حد بزرگ می شود.",
+        "newValue": "وای!<br><br>فشار را نمیتوان ثابت نگه داشت.<br>زیرا حجم بیش از حد بزرگ می شود.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "وای!<br><br>فشار را نمی توان ثابت نگه داشت <br> چون حجم زیادی کوچک خواهد بود.",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "اوه، فشار را نمیتوان ثابت نگه داشت زیرا حجم بیش از حد کم میشود.",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "اوه، فشار را نمیتوان ثابت نگه داشت زیرا حجم بیش از حد کم میشود.",
+        "newValue": "وای!<br><br>فشار را نمی توان ثابت نگه داشت <br> چون حجم زیادی کوچک خواهد بود. ",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": "وای!<br><br>فشار را نمی توان ثابت نگه داشت <br> چون حجم زیادی کوچک خواهد بود. ",
+        "newValue": "وای!<br><br>فشار را نمی توان ثابت نگه داشت <br> چون حجم زیادی کوچک خواهد بود.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "وای!<br><br>وقتی محفظه خالی است <br>دما را نمی توان ثابت نگه داشت.",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "اوه، وقتی محفظه خالی است، دما را نمیتوان ثابت نگه داشت.",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "اوه، وقتی محفظه خالی است، دما را نمیتوان ثابت نگه داشت.",
+        "newValue": "وای!<br><br>وقتی محفظه خالی است <br>دما را نمی توان ثابت نگه داشت.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "وای!<br><br>وقتی محفظه باز است <br>دما را نمی توان ثابت نگه داشت.",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "اوه، وقتی محفظه باز است، دما را نمیتوان ثابت نگه داشت.",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "اوه، وقتی محفظه باز است، دما را نمیتوان ثابت نگه داشت.",
+        "newValue": "وای!<br><br>وقتی محفظه باز است <br>دما را نمی توان ثابت نگه داشت.",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "ذرات",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "ذرات",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "فشار",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "فشار",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "نویز فشار",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "نویز فشار",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "فشار ↕ دما",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "فشار ↕ دما",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "فشار ↕ حجم",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": " فشار ↕ حجم",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": " فشار ↕ حجم",
+        "newValue": "فشار ↕ حجم",
+        "explanation": null
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "پیکوثانیه",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "پیکوثانیه",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "بازگرداندن درپوش",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "بازگرداندن درپوش",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "دوره نمونه",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "دوره نمونه",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "زمان سنج",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "زمان سنج",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "دما (T)",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "دما (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "حجم (V)",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "حجم (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "برخوردها به دیوار",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "برخوردها به دیوار",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "پهنا",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "پهنا",
+        "explanation": null
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "",
+        "newValue": " {{value}} {{units}}",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": " {{value}} {{units}}",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "",
+        "newValue": "°C",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "اطلاعات",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "اطلاعات",
+        "explanation": null
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "مرکز جرم",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "مرکز جرم",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "دمای اولیه",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "دمای اولیه",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "جرم (واحد جرم اتمی)",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "جرم (واحد جرم اتمی)",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "نعداد ذرات",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "نعداد ذرات",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "شعاع (پیکومتر)",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "شعاع (پیکومتر)",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "برداشتن دیوار حائل",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "برداشتن دیوار حائل",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "بازگرداندن دیواره",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "بازگرداندن دیواره ",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": "بازگرداندن دیواره ",
+        "newValue": "بازگرداندن دیواره",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "آهنگ گسترش ذرات",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "آهنگ گسترش ذرات",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "مقیاس",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "مقیاس",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "پخش",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576256173193,
+        "oldValue": "",
+        "newValue": "پخش",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "اکتشاف",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "اکتشاف",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "تندی میانگین",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "تندی میانگین",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "دمای تزریق",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "دمای تزریق",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "محفظه",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "محفظه",
+        "explanation": null
+      }
+    ]
+  },
+  "setTo": {
+    "value": "تنظیم",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "تنظیم",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "انرژی جنبشی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "انرژی جنبشی",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "تندی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "تندی",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "انرژی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "انرژی",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "ویژگی های گاز",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576304024801,
+        "oldValue": "",
+        "newValue": "ویژگی های گاز",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "{{value}} = <sub>avg</sub>T",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": "",
+        "newValue": "{{value}} = <sub>avg</sub>T"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "K {{value}} = <sub>avg</sub>T",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": "",
+        "newValue": "K {{value}} = <sub>avg</sub>T"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714805510548,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  }
+}

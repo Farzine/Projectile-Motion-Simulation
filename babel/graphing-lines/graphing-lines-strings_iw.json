@@ -1,0 +1,488 @@
+{
+  "point.unknown": {
+    "value": "( ?, ? )",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "( ?, ? )",
+        "explanation": null
+      }
+    ]
+  },
+  "point.XY": {
+    "value": "({0}, {1})",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "({0}, {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "notALine": {
+    "value": "... אינו ישר.",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "... אינו קו.",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "... אינו קו.",
+        "newValue": "... אינו ישר."
+      }
+    ]
+  },
+  "aCorrectEquation": {
+    "value": "המשוואה הנכונה:",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "המשואה הנכונה:",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "המשואה הנכונה:",
+        "newValue": "המשוואה הנכונה:"
+      }
+    ]
+  },
+  "symbol.intercept": {
+    "value": "b",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "b",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "בחרו את הרמה שלכם",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "בחרו שלב",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "בחרו שלב",
+        "newValue": "בחרו את הרמה שלכם"
+      }
+    ]
+  },
+  "eraseLines": {
+    "value": "מחיקת ישרים",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "מחיקת קוים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "מחיקת קוים",
+        "newValue": "מחיקת ישרים"
+      }
+    ]
+  },
+  "graphTheLine": {
+    "value": "התאימו פונקציה לישר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "צירו את הקו",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "צירו את הקו",
+        "newValue": "התאימו פונקציה לישר"
+      }
+    ]
+  },
+  "pattern_Level_0": {
+    "value": "שלב {0}",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "שלב {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lineGame": {
+    "value": "משחק הישרים",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "משחק הקוים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "משחק הקוים",
+        "newValue": "משחק הישרים"
+      }
+    ]
+  },
+  "lineToGraph": {
+    "value": "התאימו ישר לפונקציה:",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "קו לגרף:",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "קו לגרף:",
+        "newValue": "התאימו ישר לפונקציה:"
+      }
+    ]
+  },
+  "symbol.slope": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "makeTheEquation": {
+    "value": "יצירת משוואה:",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "יצירת משואה:",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "יצירת משואה:",
+        "newValue": "יצירת משוואה:"
+      }
+    ]
+  },
+  "putPointsOnLine": {
+    "value": "הצבת הנקודות על הישר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "הצבת הנקודות על הקו",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "הצבת הנקודות על הקו",
+        "newValue": "הצבת הנקודות על הישר"
+      }
+    ]
+  },
+  "saveLine": {
+    "value": "שמירת ישר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "שמירת קו",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "שמירת קו",
+        "newValue": "שמירת ישר"
+      }
+    ]
+  },
+  "setThePoint": {
+    "value": "קביעת הנקודה",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "קביעת נקודה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "קביעת נקודה",
+        "newValue": "קביעת הנקודה"
+      }
+    ]
+  },
+  "setTheSlope": {
+    "value": "קביעת השיפוע",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "קביעת שיפוע",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "קביעת שיפוע",
+        "newValue": "קביעת השיפוע"
+      }
+    ]
+  },
+  "setTheYIntercept": {
+    "value": "קביעת חיתוך עם ציר ה-Y",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "קביעת חיתוך עם ציר ה-Y",
+        "explanation": null
+      }
+    ]
+  },
+  "slope": {
+    "value": "שיפוע",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "שיפוע",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slopeIntercept": {
+    "value": "פונקציה קווית",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "שיפוע-חיתוך",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "שיפוע-חיתוך",
+        "newValue": "פונקציה קווית"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568673,
+        "oldValue": "",
+        "newValue": "x",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568673,
+        "oldValue": "",
+        "newValue": "y",
+        "explanation": null
+      }
+    ]
+  },
+  "yourEquation": {
+    "value": "המשוואה שלך:",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "המשואה שלך:",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "המשואה שלך:",
+        "newValue": "המשוואה שלך:"
+      }
+    ]
+  },
+  "yourLine": {
+    "value": "הישר שלך:",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "הקו שלך:",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1633806560233,
+        "oldValue": "הקו שלך:",
+        "newValue": "הישר שלך:"
+      }
+    ]
+  },
+  "slopeUndefined": {
+    "value": "{0}={1} (השיפוע אינו מוגדר)",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "{0}={1} (השיפוע אינו מוגדר)",
+        "explanation": null
+      }
+    ]
+  },
+  "graphing-lines.title": {
+    "value": "ציר הגרפים",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "ציר הגרפים",
+        "explanation": null
+      }
+    ]
+  },
+  "hideGrid": {
+    "value": "הסתרת רשת",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "הסתרת רשת",
+        "explanation": null
+      }
+    ]
+  },
+  "hideLines": {
+    "value": "הסתרת קוים",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "הסתרת קוים",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.pointSlope": {
+    "value": "נקודה-שיפוע",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "נקודה-שיפוע",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slope": {
+    "value": "שיפוע",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "שיפוע",
+        "explanation": null
+      }
+    ]
+  },
+  "slopeIs": {
+    "value": "השיפוע הוא",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "השיפוע הוא",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": "AdM",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "AdM",
+        "explanation": null
+      }
+    ]
+  },
+  "undefined": {
+    "value": "אינו מוגדר",
+    "history": [
+      {
+        "userId": 322219,
+        "timestamp": 1465148568674,
+        "oldValue": "",
+        "newValue": "אינו מוגדר",
+        "explanation": null
+      }
+    ]
+  }
+}

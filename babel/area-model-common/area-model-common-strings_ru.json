@@ -1,0 +1,423 @@
+{
+  "area": {
+    "value": "Площадь",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Площадь",
+        "explanation": null
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Вычисление площади",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Вычисление площади",
+        "explanation": null
+      }
+    ]
+  },
+  "calculation": {
+    "value": "Вычисления",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Вычисление",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183059970,
+        "oldValue": "Вычисление",
+        "newValue": "Вычисления",
+        "explanation": null
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Размеры",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Размеры",
+        "explanation": null
+      }
+    ]
+  },
+  "enter": {
+    "value": "Ввести",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Ввести",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Изучение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Изучить",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Изучить",
+        "newValue": "Изучение",
+        "explanation": null
+      }
+    ]
+  },
+  "factors": {
+    "value": "Компоненты деления",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Компоненты деления",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183059970,
+        "oldValue": "Компоненты деления",
+        "newValue": "Множители",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796840083,
+        "oldValue": "Множители",
+        "newValue": "Компоненты деления",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Найдите площадь блока и длину стороны",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Найдите площадь блока и длину стороны.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Найдите площадь блока и длину стороны.",
+        "newValue": "Найдите площадь блока и длину стороны",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Найдите площадь блока и значение общей площади",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Найдите площадь блока и значение общей площади.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Найдите площадь блока и значение общей площади.",
+        "newValue": "Найдите площадь блока и значение общей площади",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Найдите площадь блока",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Найдите площадь блока.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Найдите площадь блока.",
+        "newValue": "Найдите площадь блока",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Найдите площади блоков",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Найдите значение площадей блоков.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Найдите значение площадей блоков.",
+        "newValue": "Найдите площади блоков",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Найдите длины сторон",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Найдите длину стороны.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Найдите длину стороны.",
+        "newValue": "Найдите длины сторон",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Найдите длины сторон",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Найдите длины сторон.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Найдите длины сторон.",
+        "newValue": "Найдите длины сторон",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Найдите общую площадь",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Найдите общую площадь.",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Найдите общую площадь.",
+        "newValue": "Найдите общую площадь",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Игра",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Игра",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Простые числа",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Простые числа",
+        "explanation": null
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Площадь блоков",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Площадь блоков",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Площадь блоков",
+        "newValue": "Блоки",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796356294,
+        "oldValue": "Блоки",
+        "newValue": "Площадь блоков",
+        "explanation": null
+      }
+    ]
+  },
+  "partition": {
+    "value": "Деление на блоки",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Деление на блоки",
+        "explanation": null
+      }
+    ]
+  },
+  "product": {
+    "value": "Произведение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Произведение",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Произведение",
+        "newValue": "Блок",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796840083,
+        "oldValue": "Блок",
+        "newValue": "Произведение",
+        "explanation": null
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Общая площадь",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Общая площадь",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183059970,
+        "oldValue": "Общая площадь",
+        "newValue": "Полная площадь",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542183704799,
+        "oldValue": "Полная площадь",
+        "newValue": "Общая площадь фигуры",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796356294,
+        "oldValue": "Общая площадь фигуры",
+        "newValue": "Полная площадь",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1542796840083,
+        "oldValue": "Полная площадь",
+        "newValue": "Общая площадь",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Переменные",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542174441834,
+        "oldValue": "",
+        "newValue": "Переменные",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Умножение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542183059970,
+        "oldValue": "",
+        "newValue": "Умножение",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Деление на блоки",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542183059970,
+        "oldValue": "",
+        "newValue": "Деление на блоки",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Десятичные дроби/доли",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1542175100687,
+        "oldValue": "",
+        "newValue": "Десятичные дроби/доли",
+        "explanation": null
+      }
+    ]
+  }
+}

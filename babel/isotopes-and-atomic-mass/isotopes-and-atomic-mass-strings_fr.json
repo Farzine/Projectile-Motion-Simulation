@@ -1,0 +1,266 @@
+{
+  "neutrons": {
+    "value": "Neutrons",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Neutrons",
+        "explanation": null
+      }
+    ]
+  },
+  "atomicMass": {
+    "value": "Unité de masse atomique (u)",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Masse atomique (amu)",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "Masse atomique (amu)",
+        "newValue": "Unité de masse atomique (u)"
+      }
+    ]
+  },
+  "massNumber": {
+    "value": "Nombre de masse",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Nombre de masse",
+        "explanation": null
+      }
+    ]
+  },
+  "myIsotope": {
+    "value": "Mon isotope",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Mon isotope",
+        "explanation": null
+      }
+    ]
+  },
+  "otherIsotopesPattern": {
+    "value": "Autres isotopes <br> de\n{0}\n",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Autres\n{0}\nisotopes",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "Autres\n{0}\nisotopes",
+        "newValue": "Autres isotopes <br> de\n{0}\n"
+      }
+    ]
+  },
+  "thisIsotope": {
+    "value": "Cet isotope",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Cette isotope",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "Cette isotope",
+        "newValue": "Cet isotope"
+      }
+    ]
+  },
+  "trace": {
+    "value": "Traces",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1556744910217,
+        "oldValue": "",
+        "newValue": "trace",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "trace",
+        "newValue": "Traces"
+      }
+    ]
+  },
+  "abundanceInNature": {
+    "value": "Abondance dans la nature",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Abondance dans la nature",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Symbole",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Symbole",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes": {
+    "value": "Isotopes",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Isotopes",
+        "explanation": null
+      }
+    ]
+  },
+  "amu": {
+    "value": "u",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "amu",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "amu",
+        "newValue": "u"
+      }
+    ]
+  },
+  "averageAtomicMass": {
+    "value": "Masse atomique moyenne",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Masse atomique moyenne",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopeMixture": {
+    "value": "Mélange d'isotope :",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Mélange d'isotope:",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "Mélange d'isotope:",
+        "newValue": "Mélange d'isotope :"
+      }
+    ]
+  },
+  "myMix": {
+    "value": "Mon mélange",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Mon mélange",
+        "explanation": null
+      }
+    ]
+  },
+  "naturesMix": {
+    "value": "Mélange de la nature",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Mélange de la nature",
+        "explanation": null
+      }
+    ]
+  },
+  "percentComposition": {
+    "value": "Composition (pourcentage)",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Pourcentage de composition",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "Pourcentage de composition",
+        "newValue": "Composition (pourcentage)"
+      }
+    ]
+  },
+  "mixtures": {
+    "value": "Mélanges",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Mélanges",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes-and-atomic-mass.title": {
+    "value": "Isotopes et Masse Atomique",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1468445514690,
+        "oldValue": "",
+        "newValue": "Isotopes et masse atomique",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850356777,
+        "oldValue": "Isotopes et masse atomique",
+        "newValue": "Isotopes et Masse Atomique"
+      }
+    ]
+  }
+}

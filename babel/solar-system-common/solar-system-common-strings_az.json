@@ -1,0 +1,178 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "illər",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "illər"
+      }
+    ]
+  },
+  "clear": {
+    "value": "Təmiz",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "Təmiz"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/san",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "km/san"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}"
+      }
+    ]
+  },
+  "grid": {
+    "value": "Tor",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "Tor"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Ölçü lenti",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "Ölçü lenti"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Cazibə qüvvəsi",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "Cazibə qüvvəsi"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Sürət",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "Sürət"
+      }
+    ]
+  },
+  "path": {
+    "value": "Yol",
+    "history": [
+      {
+        "userId": 1120507,
+        "timestamp": 1681240126366,
+        "oldValue": "",
+        "newValue": "Yol"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Bəzi qüvvə vektorları göstərilməyəcək qədər çox kiçikdir.",
+    "history": [
+      {
+        "userId": 1156659,
+        "timestamp": 1703607962361,
+        "oldValue": "",
+        "newValue": "Bəzi qüvvə vektorları göstərilməyəcək qədər çox kiçikdir."
+      }
+    ]
+  },
+  "speed": {
+    "value": "Sürət (km/s)",
+    "history": [
+      {
+        "userId": 1156659,
+        "timestamp": 1703607962361,
+        "oldValue": "",
+        "newValue": "Sürət (km/s)"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Yaxınlaşdır",
+    "history": [
+      {
+        "userId": 1156659,
+        "timestamp": 1703607962361,
+        "oldValue": "",
+        "newValue": "Yaxınlaşdır"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 1156659,
+        "timestamp": 1703607962361,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

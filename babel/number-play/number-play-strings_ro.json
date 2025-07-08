@@ -1,0 +1,225 @@
+{
+  "screen.game": {
+    "value": "Jocuri",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Joc"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "Joc",
+        "newValue": "Jocuri",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ten": {
+    "value": "Zece",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Zece"
+      }
+    ]
+  },
+  "screen.twenty": {
+    "value": "Douăzeci",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Douăzeci"
+      }
+    ]
+  },
+  "ones": {
+    "value": "Unități",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Unități"
+      }
+    ]
+  },
+  "tenFrame": {
+    "value": "Fișă cu 10 spații",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Zeci"
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "Zeci",
+        "newValue": "Fișă cu 10 spații",
+        "explanation": null
+      }
+    ]
+  },
+  "word": {
+    "value": "Cuvânt",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Cuvânt"
+      }
+    ]
+  },
+  "wordLanguage": {
+    "value": "Cuvânt ({{language}})",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Cuvânt ({{language}})"
+      }
+    ]
+  },
+  "chooseYourGame": {
+    "value": "Alege-ți jocul!",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Alege-ți jocul!"
+      }
+    ]
+  },
+  "games": {
+    "value": "Jocuri",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Jocuri"
+      }
+    ]
+  },
+  "number-play.title": {
+    "value": "Jocul numerelor",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1672213913977,
+        "oldValue": "",
+        "newValue": "Jocul numerelor"
+      }
+    ]
+  },
+  "subitizeTime": {
+    "value": "Setează timpul de estimare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "Setează timpul de estimare"
+      }
+    ]
+  },
+  "subitizeTimeDescription": {
+    "value": "Setați timpul în care sunt afișate obiectele în nivelurile jocului ”Estimează”.",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "Setați timpul în care sunt afișate obiectele în nivelurile jocului ”Estimează”."
+      }
+    ]
+  },
+  "countingLevel1Description": {
+    "value": "<b>Numără: Nivel 1</b>  Numără de la 1 la 10",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "<b>Numără: Nivel 1</b>  Numără de la 1 la 10"
+      }
+    ]
+  },
+  "countingLevel2Description": {
+    "value": "<b>Numără: Nivel 2</b>  Numără de la 11 la 20",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "<b>Numără: Nivel 2</b>  Numără de la 11 la 20"
+      }
+    ]
+  },
+  "subitizingLevel1Description": {
+    "value": "<b>Estimează: Nivel 1</b>  Numără de la 1 la 5",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "<b>Estimează: Nivel 1</b>  Numără de la 1 la 5"
+      }
+    ]
+  },
+  "subitizingLevel2Description": {
+    "value": "<b>Estimează: Nivel 2</b>  Numără de la 6 la 10",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "<b>Estimează: Nivel 2</b>  Numără de la 6 la 10"
+      }
+    ]
+  },
+  "tenFrames": {
+    "value": "Fișe cu 10 spații",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "Fișe cu 10 spații"
+      }
+    ]
+  },
+  "automaticallyHearTotal": {
+    "value": "Redă automat Totalul",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "Redă automat Totalul"
+      }
+    ]
+  },
+  "automaticallyHearTotalDescription": {
+    "value": "Actualizarea automată Totalului pe măsură ce interacționați.",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681498985490,
+        "oldValue": "",
+        "newValue": "Actualizarea automată Totalului pe măsură ce interacționați."
+      }
+    ]
+  }
+}

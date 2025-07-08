@@ -1,0 +1,793 @@
+{
+  "decay": {
+    "value": "Yemirilish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Yemirilish"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Belgi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Belgi"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "Elektron bulut",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Elektron bulut"
+      }
+    ]
+  },
+  "stable": {
+    "value": "Barqaror",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Barqaror"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "Beqaror",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Beqaror"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "α yemirilish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "α yemirilish"
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "β<sup>-</sup> yemirilish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "β<sup>-</sup> yemirilish"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "β<sup>+</sup> yemirilish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "β<sup>+</sup> yemirilish"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "Proton ajralib chiqishi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Proton ajralib chiqishi"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "Neytron ajralib chiqishi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Neytron ajralib chiqishi"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "kamroq barqaror",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "kamroq barqaror"
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "koʻproq barqaror",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "ko‘proq barqaror"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "ko‘proq barqaror",
+        "newValue": "koʻproq barqaror",
+        "explanation": null
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "Mavjud Yemirilishlar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Mavjud Yemirilishlar"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "Boshqa parchalanishlar mavjud bo‘lsa-da, ko'rsatilgan mavjud parchalanishlar eng keng tarqalgan. Ma'lum yemirilishlar mavjud bo‘lmagan hollarda mavjud yemirilishlar ko‘rsatilmaydi.",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Boshqa parchalanishlar mavjud bo‘lsa-da, ko'rsatilgan mavjud parchalanishlar eng keng tarqalgan. Ma'lum yemirilishlar mavjud bo‘lmagan hollarda mavjud yemirilishlar ko‘rsatilmaydi."
+      }
+    ]
+  },
+  "protons": {
+    "value": "Protonlar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Protonlar"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "Neytronlar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Neytronlar"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "neytronlar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "neytronlar"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "shakllanmaydi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "shakllanmaydi"
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "neytron",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "neytron"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "{{neutronNumber}} ta neytron klasteri",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "{{neutronNumber}} ta neytron klasteri"
+      }
+    ]
+  },
+  "proton": {
+    "value": "Proton",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Proton"
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "Neytron",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Neytron"
+      }
+    ]
+  },
+  "electron": {
+    "value": "Elektron",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Elektron"
+      }
+    ]
+  },
+  "positron": {
+    "value": "Positron",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Positron"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "Yarim yemirilish davri",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Yarim hayot"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694526276142,
+        "oldValue": "Yarim hayot",
+        "newValue": "Yarim yemirilish davri",
+        "explanation": null
+      }
+    ]
+  },
+  "unknown": {
+    "value": "Noma'lum",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Noma'lum"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "sekundlar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "sekundlar"
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>A</b></span>"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>B</b></span>"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>C</b></span>"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>D</b></span>"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>E</b></span>"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>F</b></span>"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>G</b></span>"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>H</b></span>"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>I</b></span>"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>J</b></span>"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "Yarim yemirilish davri o‘lchovi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Yarim umr ko'rish davri"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694526276142,
+        "oldValue": "Yarim umr ko'rish davri",
+        "newValue": "Yarim yemirilish davri o‘lchovi",
+        "explanation": null
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "Protonlar:",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Protonlar:"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "Neytronlar:",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Neytronlar:"
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "Nurning yadroni kesib o'tish vaqti",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Nurning yadroni kesib o'tish vaqti"
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "Nurning atomni kesib o'tish vaqti",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Nurning atomni kesib o'tish vaqti"
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "Nurning 1000 ta atomni kesib o'tish vaqti",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Nurning 1000 ta atomni kesib o'tish vaqti"
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "Ovozning 1 mm masofaga tarqalish vaqti",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Ovozning 1 mm masofaga tarqalish vaqti"
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "Ko‘z ochib yumguncha",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Ko‘z ochib yumguncha"
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "Bir daqiqa",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Bir daqiqa"
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "Bir yil",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Bir yil"
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "Insonning o‘rtacha umri",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Insonning o‘rtacha umri"
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "Koinot yoshi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Koinot yoshi"
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "Eng uzoq yashagan yulduzlarning umri",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "- Eng uzoq yashagan yulduzlarning umri"
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "Yadro yaratish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694493890851,
+        "oldValue": "",
+        "newValue": "Yadro yaratish"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "Yemirilish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Yemirilish"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "Diagrammaga kirish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Diagrammaga kirish"
+      }
+    ]
+  },
+  "energy": {
+    "value": "Energiya",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Energiya"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "Sehrli sonlar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Sehrli sonlar"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "Qisman yadro diagrammasi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Qisman yadro diagrammasi"
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "toʻliq diagramma",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "toʻliq diagramma"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "Toʻliq yadro diagrammasi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Toʻliq yadro diagrammasi"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "Toʻliq Diagramma",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Toʻliq Diagramma"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "Yadro qobigʻi modeli",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699041818090,
+        "oldValue": "",
+        "newValue": "Yadro qobigʻi modeli"
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "Nuklidlar va ularning parchalanishlarining toʻliq interaktiv jadvalini Kalgari universitetidagi Energiya taʼlimi loyihasidan quyidagi havola orqali olishingiz mumkin: {{link}}.",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "Nuklidlar va ularning parchalanishlarining toʻliq interaktiv jadvalini Kalgari universitetidagi Energiya taʼlimi loyihasidan quyidagi havola orqali olishingiz mumkin: {{link}}."
+      }
+    ]
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "{{name}} - {{mass}}"
+      }
+    ]
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "{{nameMass}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "{{mass}} {{particleType}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "Proton soni",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "Proton soni"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "Neytron soni",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "Neytron soni"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "nomaʼlum{{space}}",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "nomaʼlum{{space}}"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "Eng katta ehtimoliy yemirilish turi",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "Eng katta ehtimoliy yemirilish turi"
+      }
+    ]
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1699173505843,
+        "oldValue": "",
+        "newValue": "({{decayLikelihoodPercent}}%)"
+      }
+    ]
+  }
+}

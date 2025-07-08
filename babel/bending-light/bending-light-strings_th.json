@@ -1,0 +1,440 @@
+{
+  "air": {
+    "value": "อากาศ",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "อากาศ",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "น้ำ",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "น้ำ",
+        "explanation": null
+      }
+    ]
+  },
+  "glass": {
+    "value": "แก้ว",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "แก้ว",
+        "explanation": null
+      }
+    ]
+  },
+  "diamond": {
+    "value": "เพชร",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "เพชร",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryA": {
+    "value": "วัตถุ A",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "วัตถุ A",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryB": {
+    "value": "วัตถุ B",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "วัตถุ B",
+        "explanation": null
+      }
+    ]
+  },
+  "miss": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "-",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_percent": {
+    "value": "{0}%",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "{0}%",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "กำหนดค่าเอง",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "กำหนดค่าเอง",
+        "explanation": null
+      }
+    ]
+  },
+  "unknown": {
+    "value": "ค่า n คืออะไร?",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "ค่า n คืออะไร?",
+        "explanation": null
+      }
+    ]
+  },
+  "indexOfRefraction": {
+    "value": "ดัชนีหักเห",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "ค่าดัชนีหักเห",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1619429886255,
+        "oldValue": "ค่าดัชนีหักเห",
+        "newValue": "ดัชนีหักเห"
+      }
+    ]
+  },
+  "intensity": {
+    "value": "ความเข้มแสง",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "ความเข้มแสง",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "แสดงภาพช้า",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "แสดงภาพช้า",
+        "explanation": null
+      }
+    ]
+  },
+  "normalSpeed": {
+    "value": "ปกติ",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "ปกติ",
+        "explanation": null
+      }
+    ]
+  },
+  "material": {
+    "value": "ตัวกลาง",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "ชนิดของตัวกลาง",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1619429886255,
+        "oldValue": "ชนิดของตัวกลาง",
+        "newValue": "ตัวกลาง"
+      }
+    ]
+  },
+  "angles": {
+    "value": "มุม",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "มุม",
+        "explanation": null
+      }
+    ]
+  },
+  "normalLine": {
+    "value": "เส้นแนวฉาก",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "เส้นปกติ",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1619429886255,
+        "oldValue": "เส้นปกติ",
+        "newValue": "เส้นแนวฉาก"
+      }
+    ]
+  },
+  "ray": {
+    "value": "รังสี",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "รังสี",
+        "explanation": null
+      }
+    ]
+  },
+  "wave": {
+    "value": "คลื่น",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "คลื่น",
+        "explanation": null
+      }
+    ]
+  },
+  "intro": {
+    "value": "บทนำ",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "บทนำการทดลอง",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1619429886255,
+        "oldValue": "บทนำการทดลอง",
+        "newValue": "บทนำ"
+      }
+    ]
+  },
+  "objects": {
+    "value": "เนื้อปริซึม",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "เนื้อวัตถุของปริซึม",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1619429886255,
+        "oldValue": "เนื้อวัตถุของปริซึม",
+        "newValue": "เนื้อปริซึม"
+      }
+    ]
+  },
+  "reflections": {
+    "value": "การสะท้อน",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "การสะท้อน",
+        "explanation": null
+      }
+    ]
+  },
+  "protractor": {
+    "value": "ไม้โปรแทรคเตอร์",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "โปรแทรคเตอร์",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1619429886255,
+        "oldValue": "โปรแทรคเตอร์",
+        "newValue": "ไม้โปรแทรคเตอร์"
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelengthPattern": {
+    "value": "{0} nm",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "{0} nm",
+        "explanation": null
+      }
+    ]
+  },
+  "environment": {
+    "value": "ชนิดของตัวกลาง",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "ชนิดของตัวกลาง",
+        "explanation": null
+      }
+    ]
+  },
+  "prisms": {
+    "value": "ปริซึม",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "ปริซึม",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "อัตราเร็ว",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "อัตราเร็ว",
+        "explanation": null
+      }
+    ]
+  },
+  "velocityPattern": {
+    "value": "{0} c",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "{0} c",
+        "explanation": null
+      }
+    ]
+  },
+  "unknownVelocity": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "เวลา",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "เวลา",
+        "explanation": null
+      }
+    ]
+  },
+  "moreTools": {
+    "value": "เครื่องมืออื่น ๆ",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "เครื่องมือต่างๆ",
+        "explanation": null
+      },
+      {
+        "userId": 153887,
+        "timestamp": 1619429886255,
+        "oldValue": "เครื่องมือต่างๆ",
+        "newValue": "เครื่องมืออื่น ๆ"
+      }
+    ]
+  },
+  "bending-light.title": {
+    "value": "แสงที่หักเห",
+    "history": [
+      {
+        "userId": 158586,
+        "timestamp": 1456740907586,
+        "oldValue": "",
+        "newValue": "แสงที่หักเห",
+        "explanation": null
+      }
+    ]
+  }
+}

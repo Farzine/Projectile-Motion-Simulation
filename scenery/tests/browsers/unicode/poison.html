@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <title>JS cache poisoning with detection for if it was already loaded</title>
+
+  <script type="text/javascript">
+    const script = document.createElement( 'script' );
+    script.type = 'text/javascript';
+    script.async = true;
+    script.charset = 'utf-16';
+    script.onload = function() {
+      if ( window.$ ) {
+        document.body.appendChild( document.createTextNode( 'Please use Ctrl-F5 to force a reload' ) );
+      }
+      else {
+        window.onload = function() { window.location = 'http://www.microsoft.com'; };
+      }
+    };
+    script.src = 'http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.2.min.js';
+    const other = document.getElementsByTagName( 'script' )[ 0 ];
+    other.parentNode.insertBefore( script, other );
+  </script>
+</head>
+<body></body>
+</html>

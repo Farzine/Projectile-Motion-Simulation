@@ -1,0 +1,174 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "años",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "años"
+      }
+    ]
+  },
+  "clear": {
+    "value": "Garbitu",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "Garbitu"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "AU",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "AU"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "|v| = {{value}} {{units}}"
+      },
+      {
+        "userId": 155750,
+        "timestamp": 1684185035482,
+        "oldValue": "|v| = {{value}} {{units}}",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "Sarea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "Sarea"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Neurketa zinta",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "Neurketa zinta"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Grabitate-indarra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "Grabitate-indarra"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Abiadura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "Abiadura"
+      }
+    ]
+  },
+  "path": {
+    "value": "Bidea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1670319371670,
+        "oldValue": "",
+        "newValue": "Bidea"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "Indar-bektore batzuk txikiegiak dira bistaratzeko.",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1684185035482,
+        "oldValue": "",
+        "newValue": "Indar-bektore batzuk txikiegiak dira bistaratzeko."
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Zoom:",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1684185035482,
+        "oldValue": "",
+        "newValue": "Zoom:"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Abiadura (km/s)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1684185035482,
+        "oldValue": "",
+        "newValue": "Abiadura (km/s)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,840 @@
+{
+  "dipoleDirection": {
+    "value": "Dipolretning",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "Dipolretning",
+        "explanation": null
+      }
+    ]
+  },
+  "deltaPlus": {
+    "value": "δ+",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "δ+",
+        "explanation": null
+      }
+    ]
+  },
+  "deltaMinus": {
+    "value": "δ−",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "δ−",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.dipoleDirection": {
+    "value": "{{from}} → {{to}}",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "{{from}} → {{to}}",
+        "explanation": null
+      }
+    ]
+  },
+  "electronDensity": {
+    "value": "Elektrontetthet",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "Elektrontetthet",
+        "explanation": null
+      }
+    ]
+  },
+  "electrostaticPotential": {
+    "value": "Elektrostatisk potensial",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "Elektrostatisk potensial",
+        "explanation": null
+      }
+    ]
+  },
+  "less": {
+    "value": "mindre",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "mindre",
+        "explanation": null
+      }
+    ]
+  },
+  "more": {
+    "value": "mer",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "mer",
+        "explanation": null
+      }
+    ]
+  },
+  "negative": {
+    "value": "negativ",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689708,
+        "oldValue": "",
+        "newValue": "negativ",
+        "explanation": null
+      }
+    ]
+  },
+  "positive": {
+    "value": "positiv",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "positiv",
+        "explanation": null
+      }
+    ]
+  },
+  "surfaceColorRealMolecules": {
+    "value": "Overflatefarge",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Overflatefarge",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogen": {
+    "value": "hydrogen",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "hydrogen",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "value": "nitrogen",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "nitrogen",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "oksygen",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "oksygen",
+        "explanation": null
+      }
+    ]
+  },
+  "fluorine": {
+    "value": "fluor",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "fluor",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenFluoride": {
+    "value": "hydrogenfluorid",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "hydrogenfluorid",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "vann",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "vann",
+        "explanation": null
+      }
+    ]
+  },
+  "carbonDioxide": {
+    "value": "karbondioksid",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "karbondioksid",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenCyanide": {
+    "value": "hydrogencyanid",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "hydrogencyanid",
+        "explanation": null
+      }
+    ]
+  },
+  "ozone": {
+    "value": "ozon",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "ozon",
+        "explanation": null
+      }
+    ]
+  },
+  "ammonia": {
+    "value": "ammoniakk",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "ammoniakk",
+        "explanation": null
+      }
+    ]
+  },
+  "borane": {
+    "value": "bor",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "bor",
+        "explanation": null
+      }
+    ]
+  },
+  "boronTrifluoride": {
+    "value": "bortrifluorid",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "bortrifluorid",
+        "explanation": null
+      }
+    ]
+  },
+  "formaldehyde": {
+    "value": "formaldehyd",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "formaldehyd",
+        "explanation": null
+      }
+    ]
+  },
+  "methane": {
+    "value": "metan",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "metan",
+        "explanation": null
+      }
+    ]
+  },
+  "fluoromethane": {
+    "value": "fluormetan",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "fluormetan",
+        "explanation": null
+      }
+    ]
+  },
+  "difluoromethane": {
+    "value": "difluormetan",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "difluormetan",
+        "explanation": null
+      }
+    ]
+  },
+  "trifluoromethane": {
+    "value": "trifluormetan",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "trifluormetan",
+        "explanation": null
+      }
+    ]
+  },
+  "tetrafluoromethane": {
+    "value": "tetrafluormetan",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "tetrafluormetan",
+        "explanation": null
+      }
+    ]
+  },
+  "chloroform": {
+    "value": "kloroform",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "kloroform",
+        "explanation": null
+      }
+    ]
+  },
+  "atomElectronegativities": {
+    "value": "Ektronegativitet",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Ektronegativitet",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule": {
+    "value": "Molekyl",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Molekyl",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.symbolName": {
+    "value": "{{symbol}} ({{name}})",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "{{symbol}} ({{name}})",
+        "explanation": null
+      }
+    ]
+  },
+  "atomLabels": {
+    "value": "Atometiketter",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Atometiketter",
+        "explanation": null
+      }
+    ]
+  },
+  "bondDipoles": {
+    "value": "Bindingsdipoler",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Bindingsdipoler",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularDipole": {
+    "value": "Molekylær dipol",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Molekylær dipol",
+        "explanation": null
+      }
+    ]
+  },
+  "partialCharges": {
+    "value": "Delladninger",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Delladninger",
+        "explanation": null
+      }
+    ]
+  },
+  "view": {
+    "value": "Se",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Se",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "ingen",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "ingen",
+        "explanation": null
+      }
+    ]
+  },
+  "surface": {
+    "value": "Overflate",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Overflate",
+        "explanation": null
+      }
+    ]
+  },
+  "underDevelopment.line1": {
+    "value": "Virkelige molekyler er ikke tilgjengelige i HTML5 nå.",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Virkelige molekyler er ikke tilgjengelige i HTML5 nå.",
+        "explanation": null
+      }
+    ]
+  },
+  "underDevelopment.line2": {
+    "value": "Hvis enheten kjører Java, kan du bruke Java versjon på",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Hvis enheten kjører Java, kan du bruke Java versjon på",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.realMolecules": {
+    "value": "Virkelige molekyler",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Virkelige molekyler",
+        "explanation": null
+      }
+    ]
+  },
+  "atomA": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "A",
+        "explanation": null
+      }
+    ]
+  },
+  "atomB": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "B",
+        "explanation": null
+      }
+    ]
+  },
+  "atomC": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "C",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Elektrisk felt",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Elektrisk felt",
+        "explanation": null
+      }
+    ]
+  },
+  "off": {
+    "value": "av",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "av",
+        "explanation": null
+      }
+    ]
+  },
+  "on": {
+    "value": "på",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "på",
+        "explanation": null
+      }
+    ]
+  },
+  "electronegativity": {
+    "value": "Elektronegativitet",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Elektronegativitet",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.atomName": {
+    "value": "Atom {{name}}",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Atom {{name}}",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.threeAtoms": {
+    "value": "Tre atomer",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Tre atomer",
+        "explanation": null
+      }
+    ]
+  },
+  "bondCharacter": {
+    "value": "Bindingstype",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Bindingstype",
+        "explanation": null
+      }
+    ]
+  },
+  "moreCovalent": {
+    "value": "mer kovalent",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "mer kovalent",
+        "explanation": null
+      }
+    ]
+  },
+  "moreIonic": {
+    "value": "mer ionisk",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "mer ionisk",
+        "explanation": null
+      }
+    ]
+  },
+  "bondDipole": {
+    "value": "Bindingsdipol",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Bindingsdipol",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.twoAtoms": {
+    "value": "To atomer",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "To atomer",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-polarity.title": {
+    "value": "Molekylpolaritet",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Molekylpolaritet",
+        "explanation": null
+      }
+    ]
+  },
+  "realMolecules": {
+    "value": "Virkelige molekyler",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Virkelige molekyler",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": ""
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "C",
+        "explanation": null
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "B",
+        "explanation": null
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "A",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}:",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "{0}:",
+        "explanation": null
+      }
+    ]
+  },
+  "ionic": {
+    "value": "mer ionisk",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "mer ionisk",
+        "explanation": null
+      }
+    ]
+  },
+  "rainbowOption": {
+    "value": "Virkelige molekyler: bruk regnbue for\r\nelektrostatisk potensial",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Virkelige molekyler: bruk regnbue for\r\nelektrostatisk potensial",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1567761622658,
+        "oldValue": "Virkelige molekyler: bruk regnbue for\r\\nelektrostatisk potensial",
+        "newValue": "Virkelige molekyler: bruk regnbue for\r\nelektrostatisk potensial",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0atomName": {
+    "value": "Atom {0}",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Atom {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "twoAtoms": {
+    "value": "To atomer",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "To atomer",
+        "explanation": null
+      }
+    ]
+  },
+  "covalent": {
+    "value": "mer kovalent",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "mer kovalent",
+        "explanation": null
+      }
+    ]
+  },
+  "threeAtoms": {
+    "value": "Tre atomer",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1567759689709,
+        "oldValue": "",
+        "newValue": "Tre atomer",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "screen.intro": {
+    "value": "Uvod",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Uvod"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratorij",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Laboratorij"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Slijedite centar mase",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Slijedi centar mase"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Slijedi centar mase",
+        "newValue": "Slijedite centar mase"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Tijela",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Tijela"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Napomene o jedinicama",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Napomene o mjernim jedinicama"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Napomene o mjernim jedinicama",
+        "newValue": "Napomene o jedinicama"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Više podataka",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Više podataka"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Sunce, Planet",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Sunce i planet"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Sunce i planet",
+        "newValue": "Sunce i Planeta"
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "Sunce i Planeta",
+        "newValue": "Sunce, Planet",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Sunce, Planet i Mjesec",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Sunce, planet i mjesec"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Sunce, planet i mjesec",
+        "newValue": "Sunce, Planeta i Mjesec"
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "Sunce, Planeta i Mjesec",
+        "newValue": "Sunce, Planet i Mjesec",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Sunce, Planet i Komet",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Sunce, planet i komet"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Sunce, planet i komet",
+        "newValue": "Sunce, Planeta i Kometa "
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "Sunce, Planeta i Kometa ",
+        "newValue": "Sunce, Planet i Komet",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Trojanski asteroidi",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Trojanci"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Trojanci",
+        "newValue": "Trojanski asteroidi"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Elipse",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Elipse"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Elipse",
+        "newValue": "Elipse "
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "Elipse ",
+        "newValue": "Elipse",
+        "explanation": null
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Hiperbole",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Hiperbole"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Gravitacijska praćka",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Gravitacijska praćka"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Dvostruka gravitacijska praćka",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Dvostruka gravitacijska praćka"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Binarne zvijezde, planet",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Binarne zvijezde, planet"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Balet četiri zvijezde",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Ples četiri zvijezde"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Ples četiri zvijezde",
+        "newValue": "Balet četiri zvijezde"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Dvostruko Dvostruko",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Dvostruki binarni sustav"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Dvostruki binarni sustav",
+        "newValue": "Dvostruko Dvostruko"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Prilagođen",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Prilagođeno"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Prilagođeno",
+        "newValue": "Prilagođen"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Masa"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Masa",
+        "newValue": "Masa "
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "Masa ",
+        "newValue": "Masa",
+        "explanation": null
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "centar mase",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Centar mase"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Centar mase",
+        "newValue": "centar mase "
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "centar mase ",
+        "newValue": "centar mase",
+        "explanation": null
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "v<sub>x</sub>"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "v<sub>x</sub>",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "v<sub>y</sub>"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "v<sub>y</sub>",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} to {{max}}",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "",
+        "newValue": "{{min}} to {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Moj sunčev sustav",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1670367744580,
+        "oldValue": "",
+        "newValue": "Moj Sunčev sustav"
+      },
+      {
+        "userId": 710277,
+        "timestamp": 1670576099081,
+        "oldValue": "Moj Sunčev sustav",
+        "newValue": "Moj sunčev sustav "
+      },
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "Moj sunčev sustav ",
+        "newValue": "Moj sunčev sustav",
+        "explanation": null
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Napomena 1:</b> Astronomska jedinica (AU) iznosi oko 150 milijuna kilometara. To je prosječna udaljenost između Sunca i Zemlje.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "<b>Napomena 1:</b> Astronomska jedinica (AU) iznosi oko 150 milijuna kilometara. To je prosječna udaljenost između Sunca i Zemlje."
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Napomena 2:</b> Vrijednosti mase u ovoj simulaciji kreću se od 1 Jupiterove mase do 1,5 Sunčeve mase. Svi astronomski objekti pokazuju slično ponašanje pod jakim gravitacijskim poljem, uključujući manje planete, komete i asteroide.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "<b>Napomena 2:</b> Vrijednosti mase u ovoj simulaciji kreću se od 1 Jupiterove mase do 1,5 Sunčeve mase. Svi astronomski objekti pokazuju slično ponašanje pod jakim gravitacijskim poljem, uključujući manje planete, komete i asteroide."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Napomena 3:</b> Zbog velikog raspona vrijednosti u simulaciji, vektori gravitacijske sile ponekad mogu biti premali ili preveliki za prikaz. Vektori sile gravitacije mogu se mijenjati pomoću kontrole zuma.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "<b>Napomena 3:</b> Zbog velikog raspona vrijednosti u simulaciji, vektori gravitacijske sile ponekad mogu biti premali ili preveliki za prikaz. Vektori sile gravitacije mogu se mijenjati pomoću kontrole zuma."
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "Return Bodies",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "Return Bodies"
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "Masa"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "Pozicija",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "Pozicija"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "Brzina",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1684477971046,
+        "oldValue": "",
+        "newValue": "Brzina"
+      }
+    ]
+  }
+}

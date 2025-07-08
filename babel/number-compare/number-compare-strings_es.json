@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Compara",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1629821691952,
+        "oldValue": "",
+        "newValue": "Compara"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} es menor que {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1629821691952,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} es menor que {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} es mayor que {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1629821691952,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} es mayor que {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} es igual a {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 282036,
+        "timestamp": 1629821691952,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} es igual a {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Comparar Números",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1684193021802,
+        "oldValue": "",
+        "newValue": "Comparar Números"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Escuchar Oraciones Numéricas Automáticamente",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1684193021802,
+        "oldValue": "",
+        "newValue": "Escuchar Oraciones Numéricas Automáticamente"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Escucha la oración numérica que se actualiza automáticamente a medida que interactúas.",
+    "history": [
+      {
+        "userId": 964963,
+        "timestamp": 1684193021802,
+        "oldValue": "",
+        "newValue": "Escucha la oración numérica que se actualiza automáticamente a medida que interactúas."
+      }
+    ]
+  }
+}

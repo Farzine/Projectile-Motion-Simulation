@@ -1,0 +1,656 @@
+{
+  "pressureNoise": {
+    "value": "اختلال فشار",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "فشار صدا"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "فشار صدا",
+        "newValue": "اختلال فشار",
+        "explanation": null
+      }
+    ]
+  },
+  "atmospheres": {
+    "value": "اتموسفیر",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "اتموسفیر"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "فشار",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "فشار"
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "تصادم‌ها به دیوار",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "برخوردها به دیوار"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "برخوردها به دیوار",
+        "newValue": "تصادم‌ها به دیوار",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "برگشتاندن پوش",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "باز گرداندن پوش"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "باز گرداندن پوش",
+        "newValue": "برگشتاندن پوش",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "وای!br><br>به حداکثر درجهٔ حرارت رسیدیم",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>به حداکثر درجه حرارت رسیدیم"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "Oops!<br><br>به حداکثر درجه حرارت رسیدیم",
+        "newValue": "وای!br><br>به حد اکثر درجهٔ حرارت رسیدیم.",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "وای!br><br>به حد اکثر درجهٔ حرارت رسیدیم.",
+        "newValue": "وای!br><br>به حداکثر درجهٔ حرارت رسیدیم",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "شمارشگر برخوردها",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "شمارش برخوردها"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "شمارش برخوردها",
+        "newValue": "شمارشگر تصادم‌ها",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "شمارشگر تصادم‌ها",
+        "newValue": "شمارشگر برخوردها",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "هیچکدام",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "هیچکدام"
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "فشار↕ T",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "فشار↕ T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "فشار↕V",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "فشار↕V"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "ثابت نگه داشتن",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "ثابت نگه داشتن"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "درجه حرارت (T)",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "درجه حرارت (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "حجم (V)",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "حجم (V)"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "زمان سنج (استاپ‌واچ)",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "زمان سنج"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "زمان سنج",
+        "newValue": "زمان سنج (استاپ‌واچ)",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "زمان سنج (استاپ‌واچ)",
+        "newValue": "زمان سنج‌ (استاپ‌واچ)",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "زمان سنج‌ (استاپ‌واچ)",
+        "newValue": "زمان سنج (استاپ‌واچ)",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "عرض",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "عرض"
+      }
+    ]
+  },
+  "collisions": {
+    "value": "تصادمات",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "تصادمات"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "سنگین",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "سنگین"
+      }
+    ]
+  },
+  "light": {
+    "value": "سبک",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "سبک"
+      }
+    ]
+  },
+  "particles": {
+    "value": "ذرات",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "ذرات"
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Oops!<br><br>فشار را نمی‌توان ثابت نگه داشت وقتی که ظرف خالی است.",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>فشار را نمی‌توان ثابت نگه داشت وقتی که ظرف خالی است."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "وای!<br><br>فشار را نمی‌توان ثابت نگه داشت.<br> حجم بیش از حد بزرگ خواهد بود.",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "وای!<br><br>فشار را نمی‌توان ثابت نگه داشت.<br> حجم بیش از حد بزرگ خواهد بود."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "وای!<br><br>فشار را نمی‌توان ثابت نگه داشت.<br>حجم بیش از حد کوچک خواهد بود.",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "وای!<br><br>فشار را نمی‌توان ثابت نگه داشت.<br>حجم بیش از حد کوچک خواهد بود."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت.<br>وقتی ظرف خالی است.",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت.<br>وقتی ظرف خالی است."
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت.<br>وقتی ظرف خالی است.",
+        "newValue": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت <br>وقتی ظرف خالی است.",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت <br>وقتی ظرف خالی است.",
+        "newValue": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت.<br>وقتی ظرف خالی است.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت <br>وقتی ظرف باز است.",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "وای!<br><br>درجه حرارت را نمی‌توان ثابت نگه داشت <br>وقتی ظرف باز است."
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "گازات خیالی (آیدیل)",
+    "history": [
+      {
+        "userId": 11191855,
+        "timestamp": 1720510297926,
+        "oldValue": "",
+        "newValue": "خیالی (ایده آل)"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "خیالی (ایده آل)",
+        "newValue": "گازات خیالی (آیدیل)",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "انتشار",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "انتشار"
+      }
+    ]
+  },
+  "data": {
+    "value": "معلومات (داتا)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "معلومات (داتا)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "تعداد ذرات",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "تعداد ذرات"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "کتله (AMU)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "کتله (AMU)"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "شعاع (pm)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "شعاع (pm)"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "درجهٔ حرارت اولیه (K)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "درجهٔ حرارت اولیه (K)"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "مرکز کتلهٔ نقطه‌ای (مرکز ثقل)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "مرکز کتلهٔ نقطه‌ای"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724440106135,
+        "oldValue": "مرکز کتلهٔ نقطه‌ای",
+        "newValue": "مرکز کتلهٔ نقطه‌ای (مرکز ثقل)",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "سرعت جریان ذرات",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "سرعت جریان ذرات"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724440106135,
+        "oldValue": "سرعت جریان ذرات",
+        "newValue": "میزان جریان ذرات",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "میزان جریان ذرات",
+        "newValue": "سرعت جریان ذرات",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "مقیاس",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "مقیاس"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "برداشتن دیوار حائل",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "برداشتن دیوار"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "برداشتن دیوار",
+        "newValue": "برداشتن دیوار حائل",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "برگشتاندن دیوار",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1722700712048,
+        "oldValue": "",
+        "newValue": "برگشتاندن دیوار"
+      }
+    ]
+  },
+  "pressureNoiseDescription": {
+    "value": "کمی اختلال به فشار سنج علاوه می‌کند تا حقیقی تر به نظر برسد.",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "",
+        "newValue": "کمی اختلال به فشار سنج علاوه می‌کند تا حقیقی‌تر به نظر برسد."
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "کمی اختلال به فشار سنج علاوه می‌کند تا حقیقی‌تر به نظر برسد.",
+        "newValue": "کمی اختلال به فشار سنج علاوه می‌کند تا حقیقی تر به نظر برسد.",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.changeUnits": {
+    "value": "تغییر واحدها",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "",
+        "newValue": "تغییر واحدها"
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "دورهٔ نمونه‌ای",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724526851495,
+        "oldValue": "",
+        "newValue": "دورهٔ نمونه‌ای"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "انرژی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "انرژی"
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "تیزی متوسط",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "تیزی متوسط"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "تزریق درجهٔ حرارت",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "تزریق درجهٔ حرارت"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "ثابت نگهداشتن درجهٔ حرارت",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "ثابت نگهداشتن درجهٔ حرارت"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "تنظیم درجهٔ حرارت",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "تنظیم درجهٔ حرارت"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "انرژی حرکی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "انرژی حرکی"
+      }
+    ]
+  },
+  "speed": {
+    "value": "تیزی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "تیزی"
+      }
+    ]
+  },
+  "wallVelocity": {
+    "value": "سرعت دیوار",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "سرعت دیوار"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "خصوصیت‌های گاز",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1724533049234,
+        "oldValue": "",
+        "newValue": "خصوصیت‌های گاز"
+      }
+    ]
+  }
+}

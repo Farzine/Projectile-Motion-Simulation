@@ -1,0 +1,510 @@
+{
+  "acidic": {
+    "value": "Sur",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Sur",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "Basisk",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Basisk",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "Batterisyre",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "batterisyre",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "batterisyre",
+        "newValue": "Batterisyre",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "Blod",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "blod",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "blod",
+        "newValue": "Blod",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "Kyllingsuppe",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "kyllingsuppe",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "kyllingsuppe",
+        "newValue": "Kyllingsuppe",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "Kaffe",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "kaffe",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "kaffe",
+        "newValue": "Kaffe",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "Avløpsåpner",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "avløpsåpner",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "avløpsåpner",
+        "newValue": "Avløpsåpner",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "Håndsåpe",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "håndsåpe",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "håndsåpe",
+        "newValue": "Håndsåpe",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "Makro",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Makro",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "Melk",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "melk",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "melk",
+        "newValue": "Melk",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "Nøytral",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Nøytral",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "Appelsinjus",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "appelsinjuice",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "appelsinjuice",
+        "newValue": "Appelsinjuice",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1609141348210,
+        "oldValue": "Appelsinjuice",
+        "newValue": "Appelsinjus",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "Brus",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "brus",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "brus",
+        "newValue": "Brus",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "Spytt",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "spytt",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "spytt",
+        "newValue": "Spytt",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "Oppkast",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "oppkast",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "oppkast",
+        "newValue": "Oppkast",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "Vann",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972109,
+        "oldValue": "",
+        "newValue": "vann",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "vann",
+        "newValue": "Vann",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "Tilpasset",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "tilpasset væske",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "tilpasset væske",
+        "newValue": "Tilpasset",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "Stoffmengde",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "stoffmengde",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "stoffmengde",
+        "newValue": "Stoffmengde",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "Forhold",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "forhold",
+        "explanation": null
+      },
+      {
+        "userId": 267946,
+        "timestamp": 1584886732464,
+        "oldValue": "forhold",
+        "newValue": "Forhold",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "utenfor skalaen",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "utenfor skalaen",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Konsentrasjon",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Konsentrasjon",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "Lineær",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Lineær",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "Logaritmisk",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Logaritmisk",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "Mengde",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Mengde",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "mol/L",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "Mikro",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Mikro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Min løsning",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "Min løsning",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH-skala",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "pH-skala",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1452723972110,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  }
+}

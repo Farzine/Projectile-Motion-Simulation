@@ -1,0 +1,736 @@
+{
+  "label.twoF": {
+    "value": "2F",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "2F"
+      }
+    ]
+  },
+  "checkbox.twoFPoints": {
+    "value": "2F punkter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "2F point"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1670010114487,
+        "oldValue": "2F point",
+        "newValue": "2F punkter"
+      }
+    ]
+  },
+  "checkbox.add2FPointsCheckbox": {
+    "value": "Tilføj “2F punkts”-tjekboks til kontrolpanel",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Tilføj “F2 points” checkboks til kontrolpanel"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1669922080126,
+        "oldValue": "Tilføj “F2 points” checkboks til kontrolpanel",
+        "newValue": "Tilføj “2F points” tjekboks til kontrolpanel"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1670010114487,
+        "oldValue": "Tilføj “2F points” tjekboks til kontrolpanel",
+        "newValue": "Tilføj “2F punkts”-tjekboks til kontrolpanel"
+      }
+    ]
+  },
+  "arrow": {
+    "value": "Pil",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Pil"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnObject": {
+    "value": "Vælg et objekt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Vælg et objekt"
+      }
+    ]
+  },
+  "centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "label.concaveLens": {
+    "value": "Konkav<br>linse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Konkav linse"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1656838690498,
+        "oldValue": "Konkav linse",
+        "newValue": "Konkav<br>linse"
+      }
+    ]
+  },
+  "label.concaveMirror": {
+    "value": "Konkavt<br>spejl",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Konkavt spejl"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1656838690498,
+        "oldValue": "Konkavt spejl",
+        "newValue": "Konkavt<br>spejl"
+      }
+    ]
+  },
+  "label.convexLens": {
+    "value": "Konveks<br>linse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Konveks linse"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1656838690498,
+        "oldValue": "Konveks linse",
+        "newValue": "Konveks<br>linse"
+      }
+    ]
+  },
+  "label.convexMirror": {
+    "value": "Konvekst<br>spejl",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Konvekst spejl"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1656838690498,
+        "oldValue": "Konvekst spejl",
+        "newValue": "Konvekst<br>spejl"
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Diameter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Diameter"
+      }
+    ]
+  },
+  "radioButton.direct": {
+    "value": "direkte (ved brug af brændvidde længde slider)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "direkte (ved brug af brændvidde længde slider)"
+      }
+    ]
+  },
+  "label.F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "F"
+      }
+    ]
+  },
+  "label.flatMirror": {
+    "value": "Plant<br>spejl",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Glat<br>spejl"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1656838690498,
+        "oldValue": "Glat<br>spejl",
+        "newValue": "Plant<br>spejl"
+      }
+    ]
+  },
+  "focalLengthPositive": {
+    "value": "Brændvidde længde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Brændvidde længde"
+      }
+    ]
+  },
+  "focalLengthNegative": {
+    "value": "Brændvidde længde (-)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Brændvidde længde (-)"
+      }
+    ]
+  },
+  "focalLengthControl": {
+    "value": "Brændvidde længdekontrol:",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Brændvidde længdekontrol:"
+      }
+    ]
+  },
+  "checkbox.focalPoints": {
+    "value": "Brændpunkter (F)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Fokuspunkter"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1647353183767,
+        "oldValue": "Fokuspunkter",
+        "newValue": "Brændpunkter"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1669949305719,
+        "oldValue": "Brændpunkter",
+        "newValue": "Brændpunkter (F)"
+      }
+    ]
+  },
+  "checkbox.guides": {
+    "value": "Guider",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Guider"
+      }
+    ]
+  },
+  "indexOfRefraction": {
+    "value": "Brydningsindeks",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Brydningsindeks"
+      }
+    ]
+  },
+  "radioButton.indirect": {
+    "value": "indirekte (beregnet fra andre optiske parametre)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "indirekte (beregnet fra andre optiske parametre)"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToPoint": {
+    "value": "Hop til point, <br>cyklusser venstre-til-højre<br>gennem interessante punkter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Hop til point, <br>cyklusser venstre-til-højre<br>gennem interessante punkter"
+      }
+    ]
+  },
+  "checkbox.labels": {
+    "value": "Benævnelser",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Benævnelser"
+      }
+    ]
+  },
+  "screen.lens": {
+    "value": "Linse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Linse"
+      }
+    ]
+  },
+  "light": {
+    "value": "Lys",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Lys"
+      }
+    ]
+  },
+  "radioButton.many": {
+    "value": "Mange",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Mange"
+      }
+    ]
+  },
+  "radioButton.marginal": {
+    "value": "Marginal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Fuld bredde"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1670033971974,
+        "oldValue": "Fuld bredde",
+        "newValue": "Marginal"
+      }
+    ]
+  },
+  "screen.mirror": {
+    "value": "Spejl",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Spejl"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "Flyt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Flyt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "Bevæg flytbare ting",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Flyt holdte ting"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1670034926997,
+        "oldValue": "Flyt holdte ting",
+        "newValue": "Bevæg flytbare ting"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "Flyt langsommere",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Flyt langsommere"
+      }
+    ]
+  },
+  "radioButton.none": {
+    "value": "Ingen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Ingen"
+      }
+    ]
+  },
+  "keyboardHelpDialog.object": {
+    "value": "Objekt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Objekt"
+      }
+    ]
+  },
+  "label.object": {
+    "value": "Objekt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Objekt"
+      }
+    ]
+  },
+  "label.objectN": {
+    "value": "Objekt {{objectNumber}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Objekt {{objectNumber}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.objects": {
+    "value": "Objekter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Objekter"
+      }
+    ]
+  },
+  "label.opticalAxis": {
+    "value": "Optisk akse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Optisk akse"
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Blyant",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Blyant"
+      }
+    ]
+  },
+  "penguin": {
+    "value": "Pingvin",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Pingvin"
+      }
+    ]
+  },
+  "radioButton.principal": {
+    "value": "Principal",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Delvis"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1670033971974,
+        "oldValue": "Delvis",
+        "newValue": "Principal"
+      }
+    ]
+  },
+  "radiusOfCurvaturePositive": {
+    "value": "Krumningsradius",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Krumningsradius"
+      }
+    ]
+  },
+  "radiusOfCurvatureNegative": {
+    "value": "Radius af krumning (-)",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Radius af krumning (-)"
+      }
+    ]
+  },
+  "rays": {
+    "value": "Stråler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Stråler"
+      }
+    ]
+  },
+  "label.realImage": {
+    "value": "Rigtigt<br>billede",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Rigtigt billede"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1656838690498,
+        "oldValue": "Rigtigt billede",
+        "newValue": "Rigtigt<br>billede"
+      }
+    ]
+  },
+  "label.realImageN": {
+    "value": "Rigtigt<br>billede {{imageNumber}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Rigtigt<br>billede {{imageNumber}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.removeFromToolbox": {
+    "value": "Flyt fra værktøjskasse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Flyt fra værktøjskasse"
+      }
+    ]
+  },
+  "keyboardHelpDialog.returnToToolbox": {
+    "value": "Returner til værktøjskasse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Returner til værktøjskasse"
+      }
+    ]
+  },
+  "keyboardHelpDialog.rulerAndMarkerControls": {
+    "value": "Lineal og marker kontroller",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Lineal og marker kontroller"
+      }
+    ]
+  },
+  "label.projectionScreen": {
+    "value": "Skærm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Skærm"
+      }
+    ]
+  },
+  "checkbox.secondPoint": {
+    "value": "Andet punkt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Andet punkt"
+      }
+    ]
+  },
+  "star": {
+    "value": "Stjerne",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Stjerne"
+      }
+    ]
+  },
+  "checkbox.virtualImage": {
+    "value": "Virtuelt billede",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Virtuelt billede"
+      }
+    ]
+  },
+  "label.virtualImage": {
+    "value": "Virtuelt<br>billede",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Virtuelt<billede>billede"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1656838690498,
+        "oldValue": "Virtuelt<billede>billede",
+        "newValue": "Virtuelt<br>billede"
+      }
+    ]
+  },
+  "label.virtualImageN": {
+    "value": "Virtuelt<br>billede {{imageNumber}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1654849682683,
+        "oldValue": "",
+        "newValue": "Virtuelt<br>billede {{imageNumber}}"
+      }
+    ]
+  },
+  "valueCentimetersPattern": {
+    "value": "{{value}} cm",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "{{value}} cm"
+      }
+    ]
+  },
+  "geometric-optics.title": {
+    "value": "Geometrisk optik",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Geometrisk optik"
+      }
+    ]
+  },
+  "planet": {
+    "value": "Planet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Planet"
+      }
+    ]
+  },
+  "focalPoint": {
+    "value": "Brændpunkt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1647338706664,
+        "oldValue": "",
+        "newValue": "Fokuspunkt"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1647353183767,
+        "oldValue": "Fokuspunkt",
+        "newValue": "Brændpunkt"
+      }
+    ]
+  }
+}

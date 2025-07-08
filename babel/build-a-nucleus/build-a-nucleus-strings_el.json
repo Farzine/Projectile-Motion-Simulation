@@ -1,0 +1,796 @@
+{
+  "decay": {
+    "value": "Διάσπαση",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Διάσπαση"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Σύμβολο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Σύμβολο"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "Ηλεκτρονιακό Νέφος",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Ηλεκτρονιακό Νέφος"
+      }
+    ]
+  },
+  "stable": {
+    "value": "Σταθερός",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Σταθερός"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "Ασταθής",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Ασταθής"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "νετρόνια",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "νετρόνια"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "δεν σχηματίζεται",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "δε σχηματίζεται"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "δε σχηματίζεται",
+        "newValue": "δεν σχηματίζεται"
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "νετρόνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "νετρόνιο"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "Σύμπλεγμα {{neutronNumber}} νετρονίων",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Σύμπλεγμα {{neutronNumber}} νετρονίων"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "διάσπαση α",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "διάσπαση α"
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "β<sup>-</sup> διάσπαση",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "β<sup>-</sup> διάσπαση"
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "β<sup>+</sup> διάσπαση",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "β<sup>+</sup> διάσπαση"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "Εκπομπή πρωτονίου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Εκπομπή πρωτονίου"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "Εκπομπή νετρονίου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Εκπομπή νετρονίου"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "λιγότερο σταθερός",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "λιγότερο σταθερός"
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "περισσότερο σταθερός",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "περισσότερο σταθερός"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "Διαθέσιμες διασπάσεις",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Δυνατές διασπάσεις"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "Δυνατές διασπάσεις",
+        "newValue": "Διαθέσιμες διασπάσεις"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "Οι διαθέσιμες διασπάσεις που παρουσιάζονται είναι οι πλέον πιθανές, χωρίς να αποκλείονται πιθανές άλλες. Στις περιπτώσεις όπου δεν υπάρχουν γνωστές διασπάσεις, αυτές δεν παρουσιάζονται.",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Οι δυνατές διασπάσεις που παρουσιάζονται είναι οι πλέον πιθανές, χωρίς να αποκλείονται πιθανές άλλες. Στις περιπτώσεις όπου δεν υπάρχουνγνωστές διασπάσεις, αυτές δεν παρουσιάζονται."
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "Οι δυνατές διασπάσεις που παρουσιάζονται είναι οι πλέον πιθανές, χωρίς να αποκλείονται πιθανές άλλες. Στις περιπτώσεις όπου δεν υπάρχουνγνωστές διασπάσεις, αυτές δεν παρουσιάζονται.",
+        "newValue": "Οι διαθέσιμες διασπάσεις που παρουσιάζονται είναι οι πλέον πιθανές, χωρίς να αποκλείονται πιθανές άλλες. Στις περιπτώσεις όπου δεν υπάρχουν γνωστές διασπάσεις, αυτές δεν παρουσιάζονται."
+      }
+    ]
+  },
+  "protons": {
+    "value": "Πρωτόνια",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Πρωτόνια"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "Νετρόνια",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Νετρόνια"
+      }
+    ]
+  },
+  "proton": {
+    "value": "Πρωτόνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Πρωτόνιο"
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "Νετρόνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Νετρόνιο"
+      }
+    ]
+  },
+  "electron": {
+    "value": "Ηλεκτρόνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Ηλεκτρόνιο"
+      }
+    ]
+  },
+  "positron": {
+    "value": "Ποζιτρόνιο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Ποζιτρόνιο"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "Χρόνος ημιζωής:",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Χρόνος ημιζωής:"
+      }
+    ]
+  },
+  "unknown": {
+    "value": "Άγνωστο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Άγνωστο"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "δευτερόλεπτα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "δευτερόλεπτα"
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>A</b></span>"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>B</b></span>"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>C</b></span>"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>D</b></span>"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>E</b></span>"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>F</b></span>"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>G</b></span>"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>H</b></span>"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>I</b></span>"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>J</b></span>"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "Χρονική κλίμακα ημιζωής",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Χρονική κλίμακα ημιζωής"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "Πρωτόνια:",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Πρωτόνια:"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "Νετρόνια:",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Νετρόνια:"
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "Χρονικό διάστημα για να διαπεράσει το φως έναν πυρήνα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Χρονικό διάστημα για να διαπεράσει το φως έναν πυρήνα"
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "Χρονικό διάστημα για να διαπεράσει το φως ένα άτομο",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Χρονικό διάστημα για να διαπεράσει το φως ένα άτομο"
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "Χρονικό διάστημα για να διαπεράσει το φως 1000 άτομα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Χρονικό διάστημα για να διαπεράσει το φως 1000 άτομα"
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "Χρονικό διάστημα για να ταξιδέψει ο ήχος σε διάστημα 1 mm",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Χρονικό διάστημα για να ταξιδέψει ο ήχος σε διάστημα 1 mm"
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "Βλεφαρισμός",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Βλεφαρισμός"
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "Ένα λεπτό",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Ένα λεπτό"
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "Ένα έτος",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "-Ένα έτος"
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "Μέση διάρκεια ζωής του ανθρώπου",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- "
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1662795431166,
+        "oldValue": "- ",
+        "newValue": "- Μέση διάρκεια ζωής του ανθρώπου"
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "Ηλικία του Σύμπαντος",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Ηλικία του Σύμπαντος"
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "Διάρκεια ζωής των μακροβιότερων αστέρων",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "- Διάρκεια ζωής των μακροβιότερων αστέρων"
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "Κτίσε έναν Πυρήνα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1662755668653,
+        "oldValue": "",
+        "newValue": "Κτίσε έναν Πυρήνα"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "Διάσπαση",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Διάσπαση"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "Διαγράμματα Εισαγωγή",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Διαγράμματα Εισαγωγή"
+      }
+    ]
+  },
+  "energy": {
+    "value": "Ενέργεια",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Ενέργεια"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "Μαγικοί Αριθμοί",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Μαγικοί Αριθμοί"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "Μερικό Διάγραμμα Νουκλεϊδίων",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Μερικό Διάγραμμα Νουκλεϊδίων"
+      }
+    ]
+  },
+  "fullChartInfoPanelTextPattern": {
+    "value": "Ένα πλήρες, διαδραστικό διάγραμμα των νουκλεϊδίων και των διασπάσεων τους είναι διαθέσιμο από το Energy Education Project στο Πανεπιστήμιο του Κάλγκαρι, βλ. {{link}}.",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Ένα πλήρες, διαδραστικό διάγραμμα των νουκλεϊδίων και των διασπάσεων τους είναι διαθέσιμο από το Energy Education Project στο Πανεπιστήμιο του Κάλγκαρι, βλ. {{link}}."
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "Πλήρες Διάγραμμα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Πλήρες Διάγραμμα"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "Πλήρες Διάγραμμα Νουκλεϊδίων",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Πλήρες Διάγραμμα Νουκλεϊδίων"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "Πλήρες Διάγραμμα",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Πλήρες Διάγραμμα"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "Πρότυπο Ατομικών Φλοιών",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Πρότυπο Ατομικών Φλοιών"
+      }
+    ]
+  },
+  "nameMassPattern": {
+    "value": "{{name}} - {{mass}}",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "{{name}} - {{mass}}"
+      }
+    ]
+  },
+  "elementDoesNotFormPattern": {
+    "value": "{{nameMass}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "{{nameMass}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "zeroParticlesDoesNotFormPattern": {
+    "value": "{{mass}} {{particleType}} {{doesNotForm}}",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "{{mass}} {{particleType}} {{doesNotForm}}"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "Αριθμός Πρωτονίων",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Αριθμός Πρωτονίων"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "Αριθμός Νετρονίων",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Αριθμός Νετρονίων"
+      }
+    ]
+  },
+  "unknownSpacePattern": {
+    "value": "άγνωστο{{space}}",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "άγνωστο{{space}}"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "Πιθανότερος τύπος διάσπασης",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "Πιθανότερος τύπος διάσπασης"
+      }
+    ]
+  },
+  "percentageInParenthesesPattern": {
+    "value": "({{decayLikelihoodPercent}}%)",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1698178436516,
+        "oldValue": "",
+        "newValue": "({{decayLikelihoodPercent}}%)"
+      }
+    ]
+  }
+}

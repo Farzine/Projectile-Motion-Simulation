@@ -1,0 +1,530 @@
+{
+  "quantum-measurement.title": {
+    "value": "Квантно мерење",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Квантно мерење"
+      }
+    ]
+  },
+  "screen.blochSphere": {
+    "value": "Блохова сфера",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Блохова сфера"
+      }
+    ]
+  },
+  "screen.coins": {
+    "value": "Новчић",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Новчић"
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Фотони",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Фотони"
+      }
+    ]
+  },
+  "screen.spin": {
+    "value": "Спин",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Спин"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "H"
+      }
+    ]
+  },
+  "N": {
+    "value": "N",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "N"
+      }
+    ]
+  },
+  "P": {
+    "value": "P",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "P"
+      }
+    ]
+  },
+  "SternGerlachMeasurements": {
+    "value": "Штерн-Герлах мерење",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Штерн-Герлах мерење"
+      }
+    ]
+  },
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "atom": {
+    "value": "атом",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "атом"
+      }
+    ]
+  },
+  "atoms": {
+    "value": "атомк",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "атомк"
+      }
+    ]
+  },
+  "averagePolarizationDialog.explanatoryParagraph": {
+    "value": "Једначина даје вредност између +1 и -1. Ова вредност представља пондерисани просек поларизације детектованих фотона ако је свака детекција вертикалне поларизације мапирана на вредност +1, а свака детекција хоризонталне поларизације је мапирана на вредност -1. Ова вредност се такође може мапирати на векторску репрезентацију која се налази између вредности +1 и -1.",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Једначина даје вредност између +1 и -1. Ова вредност представља пондерисани просек поларизације детектованих фотона ако је свака детекција вертикалне поларизације мапирана на вредност +1, а свака детекција хоризонталне поларизације је мапирана на вредност -1. Ова вредност се такође може мапирати на векторску репрезентацију која се налази између вредности +1 и -1."
+      }
+    ]
+  },
+  "eventsPerSecondPattern": {
+    "value": "{{value}}/s",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "{{value}}/s"
+      }
+    ]
+  },
+  "experimentNPattern": {
+    "value": "Experiment {{number}} {{order}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Experiment {{number}} {{order}}"
+      }
+    ]
+  },
+  "fortyFiveDegrees": {
+    "value": "45°",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "45°"
+      }
+    ]
+  },
+  "nameAndAbbreviationPattern": {
+    "value": "{{name}} (<b>{{abbreviation}}</b>)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "{{name}} (<b>{{abbreviation}}</b>)"
+      }
+    ]
+  },
+  "numberOfCoinsPattern": {
+    "value": "N = {{number}}",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "N = {{number}}"
+      }
+    ]
+  },
+  "preferences.showGlobalPhase.description": {
+    "value": "Прикажите глобалну фазу квантног стања на екрану Блохове сфере",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "Прикажите глобалну фазу квантног стања на екрану Блохове сфере"
+      }
+    ]
+  },
+  "probabilityOfValuePattern": {
+    "value": "P({{value}})",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "P({{value}})"
+      }
+    ]
+  },
+  "unknownProbabilitySymbol": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747602836839,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+    "value": "{{function}} - Број фотона детектованих помоћу {{direction}} поларизационог детектора",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1747635423595,
+        "oldValue": "",
+        "newValue": "{{function}} - Број фотона детектованих помоћу {{direction}} поларизационог детектора"
+      }
+    ]
+  },
+  "preferences.classicalCoinsStartHidden.title": {
+    "value": "Класични новчићи почињу сакривени",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Класични новчићи почињу сакривени"
+      }
+    ]
+  },
+  "preferences.classicalCoinsStartHidden.description": {
+    "value": "Сакријте класичне новчиће након што су припремљени",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Сакријте класичне новчиће након што су припремљени"
+      }
+    ]
+  },
+  "preferences.showGlobalPhase.title": {
+    "value": "Прикажи глобалну фазу",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Прикажи глобалну фазу"
+      }
+    ]
+  },
+  "classicalCoin": {
+    "value": "Класични новчић",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Класични новчић"
+      }
+    ]
+  },
+  "classical": {
+    "value": "Класичнo",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Класичнo"
+      }
+    ]
+  },
+  "quantumCoinQuoted": {
+    "value": "Квантни „новчић“",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Квантни „новчић“"
+      }
+    ]
+  },
+  "quantum": {
+    "value": "Квантнo",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Квантнo"
+      }
+    ]
+  },
+  "newCoin": {
+    "value": "Нови новчић",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Нови новчић"
+      }
+    ]
+  },
+  "singleCoinMeasurements": {
+    "value": "Мерења појединачних новчића",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Мерења појединачних новчића"
+      }
+    ]
+  },
+  "multipleCoinMeasurements": {
+    "value": "Вишеструка мерења новчића",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Вишеструка мерења новчића"
+      }
+    ]
+  },
+  "identicalCoins": {
+    "value": "Идентични новчићи",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Идентични новчићи"
+      }
+    ]
+  },
+  "coin": {
+    "value": "новчић",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "новчић"
+      }
+    ]
+  },
+  "itemToPreparePattern": {
+    "value": "{{item}} за припрему",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "{{item}} за припрему"
+      }
+    ]
+  },
+  "preparedState": {
+    "value": "Припремљено стање",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Припремљено стање"
+      }
+    ]
+  },
+  "initialOrientation": {
+    "value": "Почетна оријентација",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Почетна оријентација"
+      }
+    ]
+  },
+  "basisState": {
+    "value": "Основно стање",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Основно стање"
+      }
+    ]
+  },
+  "hide": {
+    "value": "Сакриј",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Сакриј"
+      }
+    ]
+  },
+  "reveal": {
+    "value": "Откриј",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Откриј"
+      }
+    ]
+  },
+  "observe": {
+    "value": "Посматрајте",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Посматрајте"
+      }
+    ]
+  },
+  "flip": {
+    "value": "Окретање",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Окретање"
+      }
+    ]
+  },
+  "reprepare": {
+    "value": "Поново припреми",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Поново припреми"
+      }
+    ]
+  },
+  "flipAndReveal": {
+    "value": "Окрени и откриј",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Окрени и откриј"
+      }
+    ]
+  },
+  "reprepareAndReveal": {
+    "value": "Поново припреми и посматрај",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Поново припреми и посматрај"
+      }
+    ]
+  },
+  "coinBias": {
+    "value": "Пристрасност новчића (стање)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Пристрасност новчића (стање)"
+      }
+    ]
+  },
+  "stateToPrepare": {
+    "value": "стање- припрема",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "стање- припрема"
+      }
+    ]
+  },
+  "probability": {
+    "value": "Вероватноћа",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1749129297773,
+        "oldValue": "",
+        "newValue": "Вероватноћа"
+      }
+    ]
+  }
+}

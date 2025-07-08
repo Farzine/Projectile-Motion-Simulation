@@ -1,0 +1,687 @@
+{
+  "drinkMix": {
+    "value": "Edari-nahasketa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Edari nahasketa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Edari nahasketa",
+        "newValue": "Edari-nahasketa",
+        "explanation": null
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "mM",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "mM",
+        "explanation": null
+      }
+    ]
+  },
+  "units.uM": {
+    "value": "µM",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "µM",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "ura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "ura",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltChloride": {
+    "value": "Kobalto(II) kloruroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Kobalto kloruro",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Kobalto kloruro",
+        "newValue": "Kobalto(II) kloruroa",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltIINitrate": {
+    "value": "Kobalto(II) nitratoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Kobalto (II) nitrato",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Kobalto (II) nitrato",
+        "newValue": "Kobalto(II) nitratoa",
+        "explanation": null
+      }
+    ]
+  },
+  "copperSulfate": {
+    "value": "Kobre(II) sulfatoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Kobre sulfato",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Kobre sulfato",
+        "newValue": "Kobre(II) sulfatoa",
+        "explanation": null
+      }
+    ]
+  },
+  "nickelIIChloride": {
+    "value": "Nikel(II) kloruroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Nikel (II) kloruro",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Nikel (II) kloruro",
+        "newValue": "Nikel(II) kloruroa",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0formula.1name": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChromate": {
+    "value": "Potasio kromatoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Potasio kromato",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Potasio kromato",
+        "newValue": "Potasio kromatoa",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumDichromate": {
+    "value": "Potasio dikromatoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Potasio dikromato",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Potasio dikromato",
+        "newValue": "Potasio dikromatoa",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumPermanganate": {
+    "value": "Potasio permanganatoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Potasio permanganato",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Potasio permanganato",
+        "newValue": "Potasio permanganatoa",
+        "explanation": null
+      }
+    ]
+  },
+  "absorbance": {
+    "value": "Xurgapena",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Xurgapena",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0percent": {
+    "value": "% {0}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "{0}%",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "{0}%",
+        "newValue": "% {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "transmittance": {
+    "value": "Transmisio-maila",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Transmisio-maila",
+        "explanation": null
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Kontzentrazioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Kontzentrazioa",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}:",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "{0}:",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "Disoluzioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Disoluzioa",
+        "explanation": null
+      }
+    ]
+  },
+  "preset": {
+    "value": "finkatua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "finkatuta",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "finkatuta",
+        "newValue": "finkatua",
+        "explanation": null
+      }
+    ]
+  },
+  "units.nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "aldakorra",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "aldakorra",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Uhin-luzera",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "uhin-luzera",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "uhin-luzera",
+        "newValue": "Uhin-luzera",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.beersLaw": {
+    "value": "Beer-en legea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Beer-en Legea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Beer-en Legea",
+        "newValue": "Beer-en legea",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumChloride": {
+    "value": "Sodio kloruroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Sodio-kloruroa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Sodio-kloruroa",
+        "newValue": "Sodio kloruroa",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "units.milliliters": {
+    "value": "mL",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "mL",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "mol/L",
+        "explanation": null
+      }
+    ]
+  },
+  "evaporation": {
+    "value": "Lurrundu",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Lurrunketa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Lurrunketa",
+        "newValue": "Lurrundu",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "asko",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "asko",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "ezer ez",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Ezer",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Ezer",
+        "newValue": "ezer ez",
+        "explanation": null
+      }
+    ]
+  },
+  "removeSolute": {
+    "value": "Kendu solutua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Solutua kendu",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Solutua kendu",
+        "newValue": "Kendu solutua",
+        "explanation": null
+      }
+    ]
+  },
+  "saturated": {
+    "value": "Asea!",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Asetua!",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Asetua!",
+        "newValue": "Asea!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0soluteAmount": {
+    "value": "Solutu-kopurua: {0} g",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Solutu-kopurua: {0} g",
+        "explanation": null
+      }
+    ]
+  },
+  "solute": {
+    "value": "Solutua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Solutua",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "Solidoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Solidoa",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.concentration": {
+    "value": "Kontzentrazioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Kontzentrazioa",
+        "explanation": null
+      }
+    ]
+  },
+  "beers-law-lab.title": {
+    "value": "Beer-en legea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Beer-en Legea",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561273757403,
+        "oldValue": "Beer-en Legea",
+        "newValue": "Beer-en legea",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration.name": {
+    "value": "Kontzentrazioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "Kontzentrazioa",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.parentheses.0text": {
+    "value": "({0})",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "({0})",
+        "explanation": null
+      }
+    ]
+  },
+  "units.M": {
+    "value": "M",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490131158415,
+        "oldValue": "",
+        "newValue": "M",
+        "explanation": null
+      }
+    ]
+  },
+  "showSolutionVolume": {
+    "value": "Erakutsi soluzioaren bolumena",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699463768,
+        "oldValue": "",
+        "newValue": "Erakutsi soluzioaren bolumena"
+      }
+    ]
+  },
+  "showSoluteAmount": {
+    "value": "Erakutsi solutuen kantitatea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699463768,
+        "oldValue": "",
+        "newValue": "Erakutsi solutuen kantitatea"
+      }
+    ]
+  },
+  "beakerUnits": {
+    "value": "Edalontzi-unitateak:",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699463768,
+        "oldValue": "",
+        "newValue": "Edalontzi-unitateak:"
+      }
+    ]
+  },
+  "concentrationMeterUnits": {
+    "value": "Kontzentrazio-neurgailuen unitateak:",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699463768,
+        "oldValue": "",
+        "newValue": "Kontzentrazio-neurgailuen unitateak:"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "%",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1679699463768,
+        "oldValue": "",
+        "newValue": "%"
+      }
+    ]
+  }
+}

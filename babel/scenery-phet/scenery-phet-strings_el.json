@@ -1,0 +1,1508 @@
+{
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1613054087095,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. Εμφάνιση {{thingPlural}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150179,
+        "oldValue": "",
+        "newValue": "Πτυσσόμενη λίστα {{thingPlural}}"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1714850245800,
+        "oldValue": "Πτυσσόμενη λίστα {{thingPlural}}",
+        "newValue": "1. Εμφάνιση {{thingPlural}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. Μετακίνηση μέσω {{thingPlural}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150179,
+        "oldValue": "",
+        "newValue": "Μετακίνηση μέσω {{thingPlural}}"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1714850245800,
+        "oldValue": "Μετακίνηση μέσω {{thingPlural}}",
+        "newValue": "2. Μετακίνηση μέσω {{thingPlural}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Αλλαγή {{thingSingular}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150179,
+        "oldValue": "",
+        "newValue": "Επιλογή νέου{{thingSingular}}"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1714850245800,
+        "oldValue": "Επιλογή νέου{{thingSingular}}",
+        "newValue": "3. Αλλαγή {{thingSingular}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "4. Κλείσιμο χωρίς αλλαγές",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150179,
+        "oldValue": "",
+        "newValue": "Κλείσιμο λίστας χωρίς αλλαγές"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1714850245800,
+        "oldValue": "Κλείσιμο λίστας χωρίς αλλαγές",
+        "newValue": "4. Κλείσιμο χωρίς αλλαγές",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Ρύθμιση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150179,
+        "oldValue": "",
+        "newValue": "Ρύθμιση"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1599584344581,
+        "oldValue": "",
+        "newValue": "Alt",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Βασικές ενέργειες",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Βασικές ενέργειες",
+        "explanation": null
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Κεφαλαία",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1613054087095,
+        "oldValue": "",
+        "newValue": "Κεφαλαία"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Τέλος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Τέλος",
+        "explanation": null
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Καταχώριση",
+    "history": [
+      {
+        "userId": 170570,
+        "timestamp": 1542489453310,
+        "oldValue": "",
+        "newValue": "Εισαγωγή",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "Εισαγωγή",
+        "newValue": "Enter",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1550856412892,
+        "oldValue": "Enter",
+        "newValue": "Εισαγωγή",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1554017835290,
+        "oldValue": "Εισαγωγή",
+        "newValue": "Enter",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1557236182944,
+        "oldValue": "Enter",
+        "newValue": "Καταχώριση",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Κλείσιμο παραθύρου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Κλείσιμο παραθύρου",
+        "explanation": null
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1613054087095,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Πιάστε ή αφήστε το {{thing}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "Πιάστε ή αφήστε {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1725041018929,
+        "oldValue": "Πιάστε ή αφήστε {{thing}}",
+        "newValue": "Πιάστε ή αφήστε το {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Πιάστε ή αφήστε το {{thing}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "Πιάστε ή αφήστε {{thing}}",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1725041018929,
+        "oldValue": "Πιάστε ή αφήστε {{thing}}",
+        "newValue": "Πιάστε ή αφήστε το {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Αρχική",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Αρχική",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Μετακίνηση στο {{maximum}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "Μετακίνηση στο {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Μετακίνηση στο {{minimum}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "Μετακίνηση στο {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "μέγιστο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "μέγιστο"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "ελάχιστο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "ελάχιστο"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Μετακίνηση μεταξύ των αντικειμένων μιας ομάδας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Μετακίνηση μεταξύ αντικειμένων σε μια ομάδα",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1642600397247,
+        "oldValue": "Μετακίνηση μεταξύ αντικειμένων σε μια ομάδα",
+        "newValue": "Μετακίνηση μεταξύ των αντικειμένων μιας ομάδας"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Μετακίνηση στο επόμενο αντικείμενο ή ομάδα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Μετακίνηση στο επόμενο αντικείμενο ή ομάδα",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Μετακίνηση στο προηγούμενο αντικείμενο ή ομάδα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Μετακίνησ στο προηγούμενο αντικείμενο ή ομάδα",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1642600397247,
+        "oldValue": "Μετακίνησ στο προηγούμενο αντικείμενο ή ομάδα",
+        "newValue": "Μετακίνηση στο προηγούμενο αντικείμενο ή ομάδα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "επιλογή",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "επιλογή"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "επιλογές",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "επιλογές"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "ή",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "ή",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Down",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "Pg Down",
+        "explanation": null
+      },
+      {
+        "userId": 628821,
+        "timestamp": 1550077739832,
+        "oldValue": "Pg Down",
+        "newValue": "Κάτω ",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1550504473026,
+        "oldValue": "Κάτω ",
+        "newValue": "Pg Down",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "Pg Up",
+        "explanation": null
+      },
+      {
+        "userId": 628821,
+        "timestamp": 1550077739832,
+        "oldValue": "Pg Up",
+        "newValue": "Πάνω",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1550504473026,
+        "oldValue": "Πάνω",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Αλλαγή επιλογής",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1650371071412,
+        "oldValue": "",
+        "newValue": "Αναδυόμενο μενού"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1714850245800,
+        "oldValue": "Αναδυόμενο μενού",
+        "newValue": "Αλλαγή επιλογής",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Πάτημα πλήκτρων",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Πάτημα πλήκτρων",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "δρομέας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "δρομέας"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Χειριστήρια δρομέα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "Χειριστήρια δρομέα"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Διάστημα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "Space",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1614347748660,
+        "oldValue": "Space",
+        "newValue": "Διάστημα"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1544769136831,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Εναλλαγή πλαισίων ελέγχου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1573198976675,
+        "oldValue": "",
+        "newValue": "Εναλλαγή πλαισίων ελέγχου",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1608300108811,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} σε μεγαλύτερα βήματα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "{{verb}} σε μεγαλύτερα βήματα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} σε μικρότερα βήματα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "{{verb}} σε μικρότερα βήματα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1548854102882,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1548854102882,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Επαναφόρτωση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461910835644,
+        "oldValue": "",
+        "newValue": "Επαναφόρτωση",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Συγγνώμη, αλλά συνέβη ένα σφάλμα γραφικών.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461910835644,
+        "oldValue": "",
+        "newValue": "Συγγνώμη, αλλά συνέβη ένα σφάλμα γραφικών",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1686246005963,
+        "oldValue": "Συγγνώμη, αλλά συνέβη ένα σφάλμα γραφικών",
+        "newValue": "Συγγνώμη, αλλά συνέβη ένα σφάλμα γραφικών.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "Το WebGL δεν έχει ενεργοποιηθεί ή δεν είναι διαθέσιμο. Κάντε κλικ για να μάθετε περισσότερα.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461910835644,
+        "oldValue": "",
+        "newValue": "Το WebGLδεν έχει ενεργοποιηθεί ή δεν είναι διαθέσιμο. Κάντε κλικ για να μάθετε περισσότερα.",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1642600397248,
+        "oldValue": "Το WebGLδεν έχει ενεργοποιηθεί ή δεν είναι διαθέσιμο. Κάντε κλικ για να μάθετε περισσότερα.",
+        "newValue": "Το WebGL δεν έχει ενεργοποιηθεί ή δεν είναι διαθέσιμο. Κάντε κλικ για να μάθετε περισσότερα."
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+    "value": "Επιλέξτε έναν {{thingTitle}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150179,
+        "oldValue": "",
+        "newValue": "Επιλέξτε έναν {{thingTitle}}"
+      }
+    ]
+  },
+  "eight": {
+    "value": "οκτώ",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150179,
+        "oldValue": "",
+        "newValue": "οκτώ"
+      }
+    ]
+  },
+  "five": {
+    "value": "πέντε",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "πέντε"
+      }
+    ]
+  },
+  "four": {
+    "value": "τέσσερα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "τέσσερα"
+      }
+    ]
+  },
+  "nine": {
+    "value": "εννέα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "εννέα"
+      }
+    ]
+  },
+  "one": {
+    "value": "ένα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "ένα"
+      }
+    ]
+  },
+  "seven": {
+    "value": "εφτά",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "επτά"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "επτά",
+        "newValue": "εφτά",
+        "explanation": null
+      }
+    ]
+  },
+  "six": {
+    "value": "έξι",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "έξι"
+      }
+    ]
+  },
+  "ten": {
+    "value": "δέκα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "δέκα"
+      }
+    ]
+  },
+  "three": {
+    "value": "τρία",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "τρία"
+      }
+    ]
+  },
+  "two": {
+    "value": "δύο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "δύο"
+      }
+    ]
+  },
+  "zero": {
+    "value": "μηδέν",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1618224150180,
+        "oldValue": "",
+        "newValue": "μηδέν"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Γρήγορα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1608300108811,
+        "oldValue": "",
+        "newValue": "Γρήγορα",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Κανονικά",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1537462262981,
+        "oldValue": "",
+        "newValue": "Κανονικά",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Αργά",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1537462262981,
+        "oldValue": "",
+        "newValue": "Αργά",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1608300108811,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1696518416138,
+        "oldValue": "{{value}} {{units}}",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "key.k": {
+    "value": "Κ",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1599584344581,
+        "oldValue": "",
+        "newValue": "Κ",
+        "explanation": null
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1599584344581,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Μετακίνηση στο επόμενο αντικείμενο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Μετακίνηση στο επόμενο αντικείμενο",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Μετακίνηση στο προηγούμενο αντικείμενο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1546067511250,
+        "oldValue": "",
+        "newValue": "Μετακίνηση στο προηγούμενο αντικείμενο",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "Χάρακας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1573198976675,
+        "oldValue": "",
+        "newValue": "Χάρακας",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Χάρακας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1573198976675,
+        "oldValue": "",
+        "newValue": "Χάρακας",
+        "explanation": null
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "για τo <b>Πιάσιμο</b> ή την  <b>Απελευθέρωση</b>",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1583574113828,
+        "oldValue": "",
+        "newValue": "για τη <b>Σύλληψη</b> ή την  <b>Απελευθέρωση</b>",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1699095176231,
+        "oldValue": "για τη <b>Σύλληψη</b> ή την  <b>Απελευθέρωση</b>",
+        "newValue": "για τo <b>Πιάσιμο</b> ή την  <b>Απελευθέρωση</b>",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Μήκος κύματος",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1569586713809,
+        "oldValue": "",
+        "newValue": "Μήκος κύματος",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelengthNMValuePattern": {
+    "value": "{0} nm",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1569586713809,
+        "oldValue": "",
+        "newValue": "{0} nm",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Κρύο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1482331886099,
+        "oldValue": "",
+        "newValue": "Κρύο",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Ζεστό",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1482331886099,
+        "oldValue": "",
+        "newValue": "Θερμότητα",
+        "explanation": null
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1482848140289,
+        "oldValue": "Θερμότητα",
+        "newValue": "Ζεστό",
+        "explanation": null
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1565940295302,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyUnitsPattern": {
+    "value": "{{frequency}} THz",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1549001601522,
+        "oldValue": "",
+        "newValue": "{{frequency}} THz",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461863679668,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Βραχυκύκλωμα!",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461861826880,
+        "oldValue": "",
+        "newValue": "Βραχυκύκλωμα!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461863679668,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Ενημερώστε τον Internet Explorer εγκαθιστώντας τις προτεινόμενες διορθώσεις των Windows Updates.",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461910835644,
+        "oldValue": "",
+        "newValue": "Ενημερώστε τον Internet Explorer εγκαθιστώντας τις προτεινόμενες διορθώσεις των Windows Updates.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Εκτέλεση με χαμηλή ποιότητα γραφικών",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1461910835644,
+        "oldValue": "",
+        "newValue": "Εκτέλεση με χαμηλή ποιότητα γραφικών",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "Επαναφορά όλων",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1679664264314,
+        "oldValue": "",
+        "newValue": "Επαναφορά όλων"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "Επιλογή",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1679664264314,
+        "oldValue": "",
+        "newValue": "Επιλογή"
+      }
+    ]
+  },
+  "key.a": {
+    "value": "Α",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "A"
+      },
+      {
+        "userId": 146870,
+        "timestamp": 1699095254160,
+        "oldValue": "A",
+        "newValue": "Α",
+        "explanation": null
+      }
+    ]
+  },
+  "key.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "key.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "key.r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "key.s": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "S"
+      }
+    ]
+  },
+  "key.w": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "key.one": {
+    "value": "1",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "1"
+      }
+    ]
+  },
+  "key.two": {
+    "value": "2",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "2"
+      }
+    ]
+  },
+  "key.three": {
+    "value": "3",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427211691,
+        "oldValue": "",
+        "newValue": "3"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.timingControls": {
+    "value": "Χειριστήρια χρονισμού",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427578849,
+        "oldValue": "",
+        "newValue": "Χειριστήρια χρονισμού"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+    "value": "Παύση ή αναπαραγωγή δράσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682427578849,
+        "oldValue": "",
+        "newValue": "Παύση ή αναπαραγωγή δράσης"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Προσαρμογή σε μεγαλύτερα βήματα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682843503304,
+        "oldValue": "",
+        "newValue": "Προσαρμογή σε μεγαλύτερα βήματα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Προσαρμογή σε μικρότερα βήματα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682843503304,
+        "oldValue": "",
+        "newValue": "Προσαρμογή σε μικρότερα βήματα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Προσαρμογή ρυθμιστικού",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682843503304,
+        "oldValue": "",
+        "newValue": "Προσαρμογή ρυθμιστικού"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Μετάβαση στο μέγιστο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682843503304,
+        "oldValue": "",
+        "newValue": "Μετάβαση στο μέγιστο"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Μετάβαση στο ελάχιστο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682843503304,
+        "oldValue": "",
+        "newValue": "Μετάβαση στο ελάχιστο"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "Ορίστε τιμές στο πληκτρολόγιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1682844184358,
+        "oldValue": "",
+        "newValue": "Ορίστε τιμές στο πληκτρολόγιο"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "Μετακίνηση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1684214336724,
+        "oldValue": "",
+        "newValue": "Μετακίνηση"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "Αργή μετακίνηση",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1684214336724,
+        "oldValue": "",
+        "newValue": "Αργή μετακίνηση"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "Μετακίνηση αντικειμένων με δυνατότητα μεταφοράς",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1684214336724,
+        "oldValue": "",
+        "newValue": "Μετακίνηση αντικειμένων με δυνατότητα μεταφοράς"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinnerControls": {
+    "value": "Χειριστήρια στροβιλιστών",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723277577298,
+        "oldValue": "",
+        "newValue": "Χειριστήρια στροβιλιστών"
+      }
+    ]
+  },
+  "keyboardHelpDialog.spinner": {
+    "value": "στροβιλιστής",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723277577298,
+        "oldValue": "",
+        "newValue": "στροβιλιστής"
+      }
+    ]
+  },
+  "keyboardHelpDialog.heatCoolOff": {
+    "value": "Κλειστό",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723277577298,
+        "oldValue": "",
+        "newValue": "Κλειστό"
+      }
+    ]
+  },
+  "keyboardHelpDialog.heatCoolControls": {
+    "value": "Χειριστήρια ζεστού/κρύου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723277577298,
+        "oldValue": "",
+        "newValue": "Χειριστήρια ζεστού/κρύου"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumHeat": {
+    "value": "Μέγιστη θερμότητα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723277577298,
+        "oldValue": "",
+        "newValue": "Μέγιστη θερμότητα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximumCool": {
+    "value": "Μέγιστη ψύξη",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723277577298,
+        "oldValue": "",
+        "newValue": "Μέγιστη ψύξη"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.faucetControls": {
+    "value": "Χειριστήρια βρύσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723278007660,
+        "oldValue": "",
+        "newValue": "Χειριστήρια βρύσης"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+    "value": "Ρύθμιση ροής της βρύσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723278007660,
+        "oldValue": "",
+        "newValue": "Ρύθμιση ροής της βρύσης"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+    "value": "Ρύθμιση σε μικρότερα βήματα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723278007660,
+        "oldValue": "",
+        "newValue": "Ρύθμιση σε μικρότερα βήματα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+    "value": "Ρύθμιση σε μεγαλύτερα βήματα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723278007660,
+        "oldValue": "",
+        "newValue": "Ρύθμιση σε μεγαλύτερα βήματα"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.closeFaucet": {
+    "value": "Κλείσιμο βρύσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723278007660,
+        "oldValue": "",
+        "newValue": "Κλείσιμο βρύσης"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetFully": {
+    "value": "Πλήρες άνοιγμα βρύσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723278007660,
+        "oldValue": "",
+        "newValue": "Πλήρες άνοιγμα βρύσης"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+    "value": "Σύντομο άνοιγμα βρύσης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1723278007660,
+        "oldValue": "",
+        "newValue": "Σύντομο άνοιγμα βρύσης"
+      }
+    ]
+  },
+  "ResetAllButton.name": {
+    "value": "Επαναφορά όλων",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1743102579975,
+        "oldValue": "",
+        "newValue": "Επαναφορά όλων"
+      }
+    ]
+  },
+  "SoundToggleButton.name": {
+    "value": "Εναλλαγή ήχου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1743102628793,
+        "oldValue": "",
+        "newValue": "Εναλλαγή ήχου"
+      }
+    ]
+  }
+}

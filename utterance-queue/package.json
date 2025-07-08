@@ -1,0 +1,22 @@
+{
+  "name": "utterance-queue",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/utternace-queue.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "generatedUnitTests": true,
+    "buildStandalone": true,
+    "requiresLodash": true,
+    "requirejsNamespace": "UTTERANCE_QUEUE"
+  }
+}

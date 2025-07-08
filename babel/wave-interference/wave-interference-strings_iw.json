@@ -1,0 +1,800 @@
+{
+  "circleDiameter": {
+    "value": "קוטר העיגול",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "קוטר העיגול",
+        "explanation": null
+      }
+    ]
+  },
+  "squareWidth": {
+    "value": "רוחב ריבוע",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "רוחב ריבוע",
+        "explanation": null
+      }
+    ]
+  },
+  "disorder": {
+    "value": "הפרעה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "סדר",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686418721588,
+        "oldValue": "סדר",
+        "newValue": "הפרעה",
+        "explanation": null
+      }
+    ]
+  },
+  "latticeSpacing": {
+    "value": "מרווחי הסריג",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "מרווחי הסריג",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "הרבה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "אקראי",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686418721588,
+        "oldValue": "אקראי",
+        "newValue": "הרבה",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "אין",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "0",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686418721588,
+        "oldValue": "0",
+        "newValue": "אין",
+        "explanation": null
+      }
+    ]
+  },
+  "diameter": {
+    "value": "קוטר",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "קוטר",
+        "explanation": null
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "פחיסות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "פחיסות",
+        "explanation": null
+      }
+    ]
+  },
+  "height": {
+    "value": "גובה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "גובה",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "רוחב",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "רוחב",
+        "explanation": null
+      }
+    ]
+  },
+  "rotation": {
+    "value": "סיבוב",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "סיבוב",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffraction": {
+    "value": "שבירה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "עקיפה",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686418721588,
+        "oldValue": "עקיפה",
+        "newValue": "שבירה",
+        "explanation": null
+      }
+    ]
+  },
+  "centimetersUnits": {
+    "value": "ס\"מ",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "ס\"מ",
+        "explanation": null
+      }
+    ]
+  },
+  "electricFieldAtCenter": {
+    "value": "מרכז השדה החשמלי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מרכז השדה החשמלי",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "שדה חשמלי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "שדה חשמלי",
+        "explanation": null
+      }
+    ]
+  },
+  "lightGenerator": {
+    "value": "מחולל אור",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מחולל אור",
+        "explanation": null
+      }
+    ]
+  },
+  "positionCM": {
+    "value": "מיקום  (cm)",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מיקום  (cm)",
+        "explanation": null
+      }
+    ]
+  },
+  "positionNM": {
+    "value": "מיקום (nm)",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מיקום (nm)",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureAtCenter": {
+    "value": "לחץ במרכז",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "לחץ במרכז",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "לחץ",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "לחץ",
+        "explanation": null
+      }
+    ]
+  },
+  "soundGenerator": {
+    "value": "מחולל צלילים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מחולל צלילים",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevelAtCenter": {
+    "value": "גובה המים במרכז",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "גובה המים במרכז",
+        "explanation": null
+      }
+    ]
+  },
+  "waterLevel": {
+    "value": "גובה המים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "גובה המים",
+        "explanation": null
+      }
+    ]
+  },
+  "waterWaveGenerator": {
+    "value": "מחולל גלי מים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מחולל גל מים",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "מחולל גל מים",
+        "newValue": "מחולל גלי מים",
+        "explanation": null
+      }
+    ]
+  },
+  "separation": {
+    "value": "הפרדה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "הפרדה",
+        "explanation": null
+      }
+    ]
+  },
+  "intensity": {
+    "value": "עוצמה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "עוצמה",
+        "explanation": null
+      }
+    ]
+  },
+  "top": {
+    "value": "למעלה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "למעלה",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "רגיל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "רגיל",
+        "explanation": null
+      }
+    ]
+  },
+  "slow": {
+    "value": "איטי",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "איטי",
+        "explanation": null
+      }
+    ]
+  },
+  "sideView": {
+    "value": "מבט מהצד",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מבט מהצד",
+        "explanation": null
+      }
+    ]
+  },
+  "topView": {
+    "value": "מבט מלמעלה",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מבט מלמעלה",
+        "explanation": null
+      }
+    ]
+  },
+  "max": {
+    "value": "מרבית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מרבית",
+        "explanation": null
+      }
+    ]
+  },
+  "min": {
+    "value": "מזערית",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מזערית",
+        "explanation": null
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "משרעת",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "משרעת",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "תדירות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "תדירות",
+        "explanation": null
+      }
+    ]
+  },
+  "both": {
+    "value": "גם וגם",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "גם וגם",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "חלקיקים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "חלקיקים",
+        "explanation": null
+      }
+    ]
+  },
+  "waves": {
+    "value": "גלים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "גלים",
+        "explanation": null
+      }
+    ]
+  },
+  "graph": {
+    "value": "גרף",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "גרף",
+        "explanation": null
+      }
+    ]
+  },
+  "playTone": {
+    "value": "השמע צליל",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "השמע צליל",
+        "explanation": null
+      }
+    ]
+  },
+  "screenLabel": {
+    "value": "מסך",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "מסך",
+        "explanation": null
+      }
+    ]
+  },
+  "soundEffect": {
+    "value": "אפקט קול",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "אפקט קול",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "זמן",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584883723515,
+        "oldValue": "",
+        "newValue": "זמן",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.interference": {
+    "value": "התאבכות",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "התאבכות",
+        "explanation": null
+      }
+    ]
+  },
+  "noBarrier": {
+    "value": "ללא מחסום",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "ללא מחסום",
+        "explanation": null
+      }
+    ]
+  },
+  "oneSlit": {
+    "value": "חריץ אחד",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "חריץ אחד",
+        "explanation": null
+      }
+    ]
+  },
+  "slitSeparation": {
+    "value": "הפרדת חריצים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "הפרדת חריצים",
+        "explanation": null
+      }
+    ]
+  },
+  "slitWidth": {
+    "value": "רוחב חריץ",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "רוחב חריץ ",
+        "explanation": null
+      },
+      {
+        "userId": 282815,
+        "timestamp": 1686417287840,
+        "oldValue": "רוחב חריץ ",
+        "newValue": "רוחב חריץ",
+        "explanation": null
+      }
+    ]
+  },
+  "twoSlits": {
+    "value": "שני חריצים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "שני חריצים",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.slits": {
+    "value": "סריגים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "סריגים",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "גלים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "גלים",
+        "explanation": null
+      }
+    ]
+  },
+  "wave-interference.title": {
+    "value": "הפרעת גלים",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1584893271354,
+        "oldValue": "",
+        "newValue": "הפרעת גלים",
+        "explanation": null
+      }
+    ]
+  },
+  "femtosecondConversion": {
+    "value": "1 fs = 10<sup>-15</sup> s",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "1 fs = 10<sup>-15</sup> s"
+      }
+    ]
+  },
+  "femtosecondsUnits": {
+    "value": "fs",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "fs"
+      }
+    ]
+  },
+  "millisecondConversion": {
+    "value": "1 ms = 10<sup>-3</sup> s",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "1 ms = 10<sup>-3</sup> s"
+      }
+    ]
+  },
+  "millisecondsUnits": {
+    "value": "ms",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "ms"
+      }
+    ]
+  },
+  "nanometersUnits": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "secondsUnits": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "distanceUnits": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "timeUnits": {
+    "value": "{{time}} {{units}}",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417226459,
+        "oldValue": "",
+        "newValue": "{{time}} {{units}}"
+      }
+    ]
+  },
+  "mmValue": {
+    "value": "{{value}} mm",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417287840,
+        "oldValue": "",
+        "newValue": "{{value}} mm"
+      }
+    ]
+  },
+  "degreesValue": {
+    "value": "{{value}} ˚",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417287840,
+        "oldValue": "",
+        "newValue": "{{value}} ˚"
+      }
+    ]
+  },
+  "cmValue": {
+    "value": "{{value}} cm",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417287840,
+        "oldValue": "",
+        "newValue": "{{value}} cm"
+      }
+    ]
+  },
+  "nmValue": {
+    "value": "{{value}} nm",
+    "history": [
+      {
+        "userId": 282815,
+        "timestamp": 1686417287840,
+        "oldValue": "",
+        "newValue": "{{value}} nm"
+      }
+    ]
+  }
+}

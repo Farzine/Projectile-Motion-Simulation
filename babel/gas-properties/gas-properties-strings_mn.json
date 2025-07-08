@@ -1,0 +1,626 @@
+{
+  "atmospheres": {
+    "value": "атм",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "атм",
+        "explanation": null
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "кПа",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "кПа",
+        "explanation": null
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Даралт",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Даралт",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>дун</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "T<sub>дун</sub> = {{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>дун</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "T<sub>дун</sub> = {{value}} K",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "Мэдээ",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Мэдээ",
+        "explanation": null
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Массын Төв",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Массын Төв",
+        "explanation": null
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Эхний Температур (K)",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Эхний Температур (K)",
+        "explanation": null
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Масс (АМН)",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Масс (АМН)",
+        "explanation": null
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Жижиг хэсгийн Тоо",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Жижиг хэсгийн Тоо",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Радиус (пм)",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Радиус (пм)",
+        "explanation": null
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Тусгаарлагчийг ав",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Тусгаарлагчийг ав",
+        "explanation": null
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Дахин Тусгаалах",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Дахин Тусгаалах",
+        "explanation": null
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Жижиг хэсгийн Урсгал",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Жижиг хэсгийн Урсгал",
+        "explanation": null
+      }
+    ]
+  },
+  "scale": {
+    "value": "Шугам",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Шугам",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Секундомер",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Секундомер",
+        "explanation": null
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "нм",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "нм",
+        "explanation": null
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "пс",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "пс",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Нэвчилт",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Нэвчилт",
+        "explanation": null
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Мөргөлтийн Тоолуур",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Мөргөлтийн Тоолуур",
+        "explanation": null
+      }
+    ]
+  },
+  "width": {
+    "value": "Өргөн",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Өргөн",
+        "explanation": null
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Турших хугацаа",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Турших хугацаа",
+        "explanation": null
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Хана Мөргөх",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Хана Мөргөх",
+        "explanation": null
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Таглаарай",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Таглаарай",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Өө!<br><br>Хамгийн их температурт хүрсэн.",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Өө!<br><br>Хамгийн их температурт хүрсэн.",
+        "explanation": null
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Мөргөлтүүд",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Мөргөлтүүд",
+        "explanation": null
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Хүнд",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Хүнд",
+        "explanation": null
+      }
+    ]
+  },
+  "light": {
+    "value": "Гэрэл",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Гэрэл",
+        "explanation": null
+      }
+    ]
+  },
+  "particles": {
+    "value": "Жижиг хэсэг",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Жижиг хэсэг",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Судлах",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Судлах",
+        "explanation": null
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Даралтын Шуугиан",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568341894465,
+        "oldValue": "",
+        "newValue": "Даралтын Шуугиан",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Үгүй",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Үгүй",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Даралт ↕T",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Даралт ↕T",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Дарлат ↕V",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Дарлат ↕V",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Тогтмол байх",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Тогтмол байх",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Температур (T)",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Температур (T)",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Эзлэхүүн (V)",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Эзлэхүүн (V)",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Өө!<br><br>Савыг хоослох үед даралтыг<br>тогтмол барих боломжгүй.",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Өө!<br><br>Савыг хоослох үед даралтыг<br>тогтмол барих боломжгүй.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Өө!<br><br>Даралтыг тогтмол барьж болохгүй.<br>Эзлэхүүний хэмжээ хэт том байна.",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Өө!<br><br>Даралтыг тогтмол барьж болохгүй.<br>Эзлэхүүний хэмжээ хэт том байна.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Өө!<br><br>Даралтыг тогтмол барьж болохгүй.<br>Эзлэхүүний хэмжээ хэт бага байна.",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Өө!<br><br>Даралтыг тогтмол барьж болохгүй.<br>Эзлэхүүний хэмжээ хэт бага байна.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Өө!<br><br>Савыг хоослох үед температурыг<br>тогтмол барих боломжгүй.",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Өө!<br><br>Савыг хоослох үед температурыг<br>тогтмол барих боломжгүй.",
+        "explanation": null
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Өө!<br><br>Сав нээлттэй үед температурыг<br>тогтмол барих боломжгүй.",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Өө!<br><br>Сав нээлттэй үед температурыг<br>тогтмол барих боломжгүй.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Идеал",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343297674,
+        "oldValue": "",
+        "newValue": "Идеал",
+        "explanation": null
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Дундаж Хурд",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Дундаж Хурд",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "м/с",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "м/с",
+        "explanation": null
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Оруулах Температур",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Оруулах Температур",
+        "explanation": null
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Савд Тохирох",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Савд Тохирох",
+        "explanation": null
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Тохируулсан:",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Тохируулсан:",
+        "explanation": null
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Кинетик Энерги",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Кинетик Энерги",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Хурд",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Хурд",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Энерги",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Энерги",
+        "explanation": null
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Хийн Шинж",
+    "history": [
+      {
+        "userId": 348103,
+        "timestamp": 1568343821748,
+        "oldValue": "",
+        "newValue": "Хийн Шинж",
+        "explanation": null
+      }
+    ]
+  }
+}

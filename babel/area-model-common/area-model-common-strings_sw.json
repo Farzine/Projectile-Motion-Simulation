@@ -1,0 +1,386 @@
+{
+  "area": {
+    "value": "Eneo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Eneo"
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Modeli ya Ukokotozi wa Eneo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Uhesabuji wa mfano wa eneo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665479446027,
+        "oldValue": "Uhesabuji wa mfano wa eneo",
+        "newValue": "Kifani cha Ukokotoaji wa enea"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Kifani cha Ukokotoaji wa enea",
+        "newValue": "Kifani cha Ukokotoaji wa eneo"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672929334395,
+        "oldValue": "Kifani cha Ukokotoaji wa eneo",
+        "newValue": "Modeli ya Ukokotozi wa Eneo lenye desimali"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672931002386,
+        "oldValue": "Modeli ya Ukokotozi wa Eneo lenye desimali",
+        "newValue": "Modeli ya Ukokotozi wa Eneo"
+      }
+    ]
+  },
+  "calculation": {
+    "value": "Ukokotozi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Hesabu"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665479446027,
+        "oldValue": "Hesabu",
+        "newValue": "Kokotoa"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Kokotoa",
+        "newValue": "Ukokotozi"
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Vipimo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Vipimo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665479446027,
+        "oldValue": "Vipimo",
+        "newValue": "Ukubwa"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672929334395,
+        "oldValue": "Ukubwa",
+        "newValue": "Urefu na upana"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672931002386,
+        "oldValue": "Urefu na upana",
+        "newValue": "Vipimo"
+      }
+    ]
+  },
+  "enter": {
+    "value": "Ingiza",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Ingiza"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Chunguza",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Chunguza"
+      }
+    ]
+  },
+  "factors": {
+    "value": "Vigawo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Mambo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665479446027,
+        "oldValue": "Mambo",
+        "newValue": "Vigawo"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Tafuta zao hafifu na urefu wa upande mmoja",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Tafuta zidisho za sehemu na urefu wa upande"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Tafuta zidisho za sehemu na urefu wa upande",
+        "newValue": "Tafuta zao hafifu na urefu wa upande mmoja"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Tafuta zao hafifu na eneo lote",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Tafuta zidisho za sehemu na eneo la jumla"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Tafuta zidisho za sehemu na eneo la jumla",
+        "newValue": "Tafuta zao hafifu na eneo lote"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Tafuta zao hafifu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Tafuta zidisho za sehemu"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Tafuta zidisho za sehemu",
+        "newValue": "Tafuta zao hafifu"
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Tafuta zao hafifu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Tafuta zidisho za sehemu"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Tafuta zidisho za sehemu",
+        "newValue": "Tafuta zao hafifu"
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Tafuta urefu wa pande.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Tafuta urefu wa upande."
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Tafuta urefu wa upande.",
+        "newValue": "Tafuta urefu wa pande."
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Tafuta urefu wa pande.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Tafuta urefu wa upande."
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Tafuta urefu wa upande.",
+        "newValue": "Tafuta urefu wa pande."
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Tafuta eneo lote",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Tafuta eneo la jumla."
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672922622493,
+        "oldValue": "Tafuta eneo la jumla.",
+        "newValue": "Tafuta eneo lote"
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Mchezo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Mchezo"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Kawaida",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Kawaida"
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Zidisho za Sehemu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Zidisho za Sehemu"
+      }
+    ]
+  },
+  "partition": {
+    "value": "Sehemu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Sehemu"
+      }
+    ]
+  },
+  "product": {
+    "value": "Zidisho",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Zidisho"
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Eneo lote la modeli",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Jumla ya eneo la mfano"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665479446027,
+        "oldValue": "Jumla ya eneo la mfano",
+        "newValue": "Jumla ya eneo la kifani"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672931002386,
+        "oldValue": "Jumla ya eneo la kifani",
+        "newValue": "Eneo lote la modeli"
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Desimali",
+    "history": [
+      {
+        "userId": 1085625,
+        "timestamp": 1667540548633,
+        "oldValue": "",
+        "newValue": "Desimali"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Vigeu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658717762097,
+        "oldValue": "",
+        "newValue": "Vigezo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665479446027,
+        "oldValue": "Vigezo",
+        "newValue": "Vigeu"
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Zidisha",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658722889199,
+        "oldValue": "",
+        "newValue": "Zidisha"
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Sehemu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658722889199,
+        "oldValue": "",
+        "newValue": "Sehemu"
+      }
+    ]
+  }
+}

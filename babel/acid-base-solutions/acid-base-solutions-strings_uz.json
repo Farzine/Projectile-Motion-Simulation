@@ -1,0 +1,594 @@
+{
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1617366787982,
+        "oldValue": "",
+        "newValue": "pH"
+      }
+    ]
+  },
+  "liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1617366787982,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "negligible": {
+    "value": "ahamiyatsiz",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Ahamiyatsiz"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Ahamiyatsiz",
+        "newValue": "ahamiyatsiz",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "Muvozanat konsentratsiyasi (mol/L)",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Muvozanat konsentratsiyasi"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Muvozanat konsentratsiyasi",
+        "newValue": "Muvozanat konsentratsiyasi (mol/L)",
+        "explanation": null
+      }
+    ]
+  },
+  "graph": {
+    "value": "Grafik",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Grafik"
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "Ko‘rinishlarni berkitish",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Ko'rinishlarni bekitish"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617366786404,
+        "oldValue": "Ko'rinishlarni bekitish",
+        "newValue": "Ko‘rinishlarni bekitish"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617780521771,
+        "oldValue": "Ko‘rinishlarni bekitish",
+        "newValue": "Ko'rinishlarni bekitish"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617803968654,
+        "oldValue": "Ko'rinishlarni bekitish",
+        "newValue": "Ko‘rinishlarni berkitish"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Ko‘rinishlarni berkitish",
+        "newValue": "Ko‘rinishlarni Berkitish",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Ko‘rinishlarni Berkitish",
+        "newValue": "Ko‘rinishlarni berkitish",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules": {
+    "value": "Molekulalar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Molekulalar"
+      }
+    ]
+  },
+  "solvent": {
+    "value": "Erituvchi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Erituvchi"
+      }
+    ]
+  },
+  "solution": {
+    "value": "Eritma",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Eritma"
+      }
+    ]
+  },
+  "tools": {
+    "value": "Vositalar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Vositalar"
+      }
+    ]
+  },
+  "views": {
+    "value": "Ko‘rinishlar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Ko'rinishlar"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617366786404,
+        "oldValue": "Ko'rinishlar",
+        "newValue": "Ko‘rinishlar"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617780521771,
+        "oldValue": "Ko‘rinishlar",
+        "newValue": "Ko'rinishlar"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617803968654,
+        "oldValue": "Ko'rinishlar",
+        "newValue": "Ko‘rinishlar"
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "pH Ranglari kaliti",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "pH ranglari kaliti"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "pH ranglari kaliti",
+        "newValue": "pH Ranglari Kaliti",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "pH Ranglari Kaliti",
+        "newValue": "pH Ranglari kaliti",
+        "explanation": null
+      }
+    ]
+  },
+  "stronger": {
+    "value": "kuchliroq",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "kuchliroq"
+      }
+    ]
+  },
+  "weaker": {
+    "value": "kuchsizroq",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "kuchsizroq"
+      }
+    ]
+  },
+  "acid": {
+    "value": "Kislota",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kislota"
+      }
+    ]
+  },
+  "base": {
+    "value": "Asos",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Asos"
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "Boshlang‘ich konsentratsiya (mol/L):",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Boshlang'ich konsentratsiya"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617366786404,
+        "oldValue": "Boshlang'ich konsentratsiya",
+        "newValue": "Boshlang‘ich konsentratsiya"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617780521771,
+        "oldValue": "Boshlang‘ich konsentratsiya",
+        "newValue": "Boshlang'ich konsentratsiya"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617803968654,
+        "oldValue": "Boshlang'ich konsentratsiya",
+        "newValue": "Boshlang‘ich konsentratsiya"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Boshlang‘ich konsentratsiya",
+        "newValue": "Boshlang‘ich Konsentratsiya (mol/L):",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Boshlang‘ich Konsentratsiya (mol/L):",
+        "newValue": "Boshlang‘ich konsentratsiya (mol/L):",
+        "explanation": null
+      }
+    ]
+  },
+  "strength": {
+    "value": "Kuch",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kuch"
+      }
+    ]
+  },
+  "strong": {
+    "value": "kuchli",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "kuchli"
+      }
+    ]
+  },
+  "weak": {
+    "value": "kuchsiz",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "kuchsiz"
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "Mening eritmam",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Mening eritmam"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Mening eritmam",
+        "newValue": "Mening Eritmam",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Mening Eritmam",
+        "newValue": "Mening eritmam",
+        "explanation": null
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "Kuchli kislota",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kuchli kislota"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Kuchli kislota",
+        "newValue": "Kuchli Kislota",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Kuchli Kislota",
+        "newValue": "Kuchli kislota",
+        "explanation": null
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "Kuchli asos",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kuchli asos"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Kuchli asos",
+        "newValue": "Kuchli Asos",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Kuchli Asos",
+        "newValue": "Kuchli asos",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Suv",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Suv"
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "Kuchsiz kislota",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kuchsiz kislota"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Kuchsiz kislota",
+        "newValue": "Kuchsiz Kislota",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Kuchsiz Kislota",
+        "newValue": "Kuchsiz kislota",
+        "explanation": null
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "Kuchsiz asos",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kuchsiz asos"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Kuchsiz asos",
+        "newValue": "Kuchsiz Asos",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Kuchsiz Asos",
+        "newValue": "Kuchsiz asos",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "Kirish",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kirish"
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "Kislota-asosli eritmalar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1614848935647,
+        "oldValue": "",
+        "newValue": "Kislota-asos eritmalari"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1619677207844,
+        "oldValue": "Kislota-asos eritmalari",
+        "newValue": "Kislotali-asosli eritmalari"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699010064259,
+        "oldValue": "Kislotali-asosli eritmalari",
+        "newValue": "Kislota-asosli Eritmalar",
+        "explanation": null
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Kislota-asosli Eritmalar",
+        "newValue": "Kislota-asosli eritmalar",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label.1value": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694780105509,
+        "oldValue": "",
+        "newValue": "{0}: {1}"
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694780105509,
+        "oldValue": "",
+        "newValue": "{0}{1}"
+      }
+    ]
+  },
+  "pattern.0value.1power": {
+    "value": "{0} x 10<sup>{1}</sup>",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694780105509,
+        "oldValue": "",
+        "newValue": "{0} x 10<sup>{1}</sup>"
+      }
+    ]
+  },
+  "showSolvent": {
+    "value": "Eritmani ko‘rsatish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1695907248391,
+        "oldValue": "",
+        "newValue": "Eritmani Ko‘rsatish"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1699013001467,
+        "oldValue": "Eritmani Ko‘rsatish",
+        "newValue": "Eritmani ko‘rsatish",
+        "explanation": null
+      }
+    ]
+  },
+  "showTheSolventMoleculesInParticlesView": {
+    "value": "Zarrachalar ko‘rinishida erituvchi molekulalarini ko‘rsatish",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1695907248391,
+        "oldValue": "",
+        "newValue": "Zarrachalar ko‘rinishida erituvchi molekulalarini ko‘rsatish"
+      }
+    ]
+  },
+  "patternSolutionNameFormula": {
+    "value": "{{solutionName}} ({{formula}})",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1695907248391,
+        "oldValue": "",
+        "newValue": "{{solutionName}} ({{formula}})"
+      }
+    ]
+  },
+  "particles": {
+    "value": "Zarrachalar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1695907248391,
+        "oldValue": "",
+        "newValue": "Zarrachalar"
+      }
+    ]
+  }
+}

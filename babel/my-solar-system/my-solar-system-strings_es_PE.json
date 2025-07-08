@@ -1,0 +1,464 @@
+{
+  "screen.intro": {
+    "value": "Introducción",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Introducción"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratorio",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Laboratorio"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Seguir el centro de masa",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Seguir el centro de masa"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Cuerpos",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Cuerpos"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Notas sobre las unidades",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Notas sobre las unidades"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Más datos",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Más datos"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Sol y planeta",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Sol y planeta"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Sol, Planeta y Luna",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Sol, Planeta y Luna"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Sol, Planeta y Cometa",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Sol, Planeta y Cometa"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Asteroides troyanos",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Asteroides troyanos"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Elipses",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Elipses"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Hiperbólico",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Hiperbólico"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Huaracazo",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Huaracazo"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Doble huaracazo",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Doble huaracazo"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Estrella binaria, planeta",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Estrella binaria, planeta"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Ballet de cuatro estrellas",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Ballet de cuatro estrellas"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Dupla",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Dupla"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Personalizado",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Personalizado"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Masa"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Centro de masa",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Centro de masa"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} hasta {{max}}",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "{{min}} hasta {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Mi sistema solar",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1670298330778,
+        "oldValue": "",
+        "newValue": "Mi sistema solar"
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Nota 1:</b> Una Unidad Astronómica (UA) mide aproximadamente 150 millones de kilómetros. Esta es la distancia promedio entre el Sol y la Tierra.",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700320334936,
+        "oldValue": "",
+        "newValue": "<b>Nota 1:</b> Una Unidad Astronómica (UA) mide aproximadamente 150 millones de kilómetros. Esta es la distancia promedio entre el Sol y la Tierra."
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Nota 2:</b> Los valores de masa en esta simulación oscilan entre 1 masa de Júpiter y 1,5 masas solares. Todos los objetos astronómicos muestran un comportamiento similar bajo un fuerte campo gravitacional, incluidos los planetas más pequeños, los cometas y los asteroides.",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700320334936,
+        "oldValue": "",
+        "newValue": "<b>Nota 2:</b> Los valores de masa en esta simulación oscilan entre 1 masa de Júpiter y 1,5 masas solares. Todos los objetos astronómicos muestran un comportamiento similar bajo un fuerte campo gravitacional, incluidos los planetas más pequeños, los cometas y los asteroides."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Nota 3:</b> Debido al amplio rango de valores en la simulación, los vectores de fuerza de gravedad a veces pueden ser demasiado pequeños o demasiado grandes para mostrarlos. Los vectores de fuerza de gravedad se pueden cambiar de escala con el control de zoom.",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700320334936,
+        "oldValue": "",
+        "newValue": "<b>Nota 3:</b> Debido al amplio rango de valores en la simulación, los vectores de fuerza de gravedad a veces pueden ser demasiado pequeños o demasiado grandes para mostrarlos. Los vectores de fuerza de gravedad se pueden cambiar de escala con el control de zoom."
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "Cuerpos de retorno",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700320334936,
+        "oldValue": "",
+        "newValue": "Cuerpos de retorno"
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700320334936,
+        "oldValue": "",
+        "newValue": "Masa"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "Posición",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700320334936,
+        "oldValue": "",
+        "newValue": "Posición"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "Velocidad",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1700320334936,
+        "oldValue": "",
+        "newValue": "Velocidad"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "Elija un sistema orbital",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1724813296186,
+        "oldValue": "",
+        "newValue": "Elija un sistema orbital"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "sistema orbital",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1724813296186,
+        "oldValue": "",
+        "newValue": "sistema orbital"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "sistemas orbitales",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1724813296186,
+        "oldValue": "",
+        "newValue": "sistemas orbitales"
+      }
+    ]
+  },
+  "mode.orbitalSystem1": {
+    "value": "Sistema orbital 1",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1724813296186,
+        "oldValue": "",
+        "newValue": "Sistema orbital 1"
+      }
+    ]
+  },
+  "mode.orbitalSystem2": {
+    "value": "Sistema orbital 2",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1724813296186,
+        "oldValue": "",
+        "newValue": "Sistema orbital 2"
+      }
+    ]
+  },
+  "mode.orbitalSystem3": {
+    "value": "Sistema orbital 3",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1724813296186,
+        "oldValue": "",
+        "newValue": "Sistema orbital 3"
+      }
+    ]
+  },
+  "mode.orbitalSystem4": {
+    "value": "Sistema orbital 4",
+    "history": [
+      {
+        "userId": 133358,
+        "timestamp": 1724813296186,
+        "oldValue": "",
+        "newValue": "Sistema orbital 4"
+      }
+    ]
+  }
+}

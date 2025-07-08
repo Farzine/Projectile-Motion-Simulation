@@ -1,0 +1,122 @@
+{
+  "chooseYourLevel": {
+    "value": "Izvēlies līmeni!",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "Izvēlies līmeni!",
+        "explanation": null
+      }
+    ]
+  },
+  "equation": {
+    "value": "Vienādojums",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1554554721150,
+        "oldValue": "",
+        "newValue": "Vienādojums",
+        "explanation": null
+      }
+    ]
+  },
+  "levelTitlePattern": {
+    "value": "{{number}}. līmenis",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1548956875621,
+        "oldValue": "",
+        "newValue": "{{number}}. līmenis",
+        "explanation": null
+      }
+    ]
+  },
+  "representationMax": {
+    "value": "Max",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1554554721150,
+        "oldValue": "",
+        "newValue": "Max",
+        "explanation": null
+      }
+    ]
+  },
+  "mixedNumber": {
+    "value": "Jaukts skaitlis",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1554554721150,
+        "oldValue": "",
+        "newValue": "Jaukts skaitlis",
+        "explanation": null
+      }
+    ]
+  },
+  "myMatches": {
+    "value": "Mani pāri",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1458628119027,
+        "oldValue": "",
+        "newValue": "Mani pāri",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "ok": {
+    "value": "Labi",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1458628119027,
+        "oldValue": "",
+        "newValue": "Labi",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "timeNumberSec": {
+    "value": "Laiks: {0} sek.",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1458628119027,
+        "oldValue": "",
+        "newValue": "Laiks: {0} sek.",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "mixedNumbersChooseYourLevel": {
+    "value": "Jauktie skaitļi: Izvēlies līmeni!",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1458628119027,
+        "oldValue": "",
+        "newValue": "Jauktie skaitļi: Izvēlies līmeni!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  },
+  "fractionsChooseYourLevel": {
+    "value": "Daļas: Izvēlies līmeni!",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1458628119027,
+        "oldValue": "",
+        "newValue": "Daļas: Izvēlies līmeni!",
+        "explanation": "moved from fraction-matcher to fractions-common, see https://github.com/phetsims/fraction-matcher/issues/107"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "area": {
+    "value": "Luas",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Luas"
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Pengiraan luas model",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Pengiraan model keluasan"
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623418677971,
+        "oldValue": "Pengiraan model keluasan",
+        "newValue": "Pengiraan keluasan model "
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "Pengiraan keluasan model ",
+        "newValue": "Pengiraan luas model "
+      },
+      {
+        "userId": 11360046,
+        "timestamp": 1742768900256,
+        "oldValue": "Pengiraan luas model ",
+        "newValue": "Pengiraan luas model",
+        "explanation": null
+      }
+    ]
+  },
+  "calculation": {
+    "value": "Pengiraan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Pengiraan"
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Dimensi",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Dimensi"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Teroka",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Teroka"
+      }
+    ]
+  },
+  "factors": {
+    "value": "Faktor",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Faktor"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Cari luas bahagian dan panjang sisi.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Cari luas bahagian dan panjang sisi."
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Cari luas bahagian dan jumlah luas.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Cari luas bahagian dan jumlah luas."
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Cari luas bahagian.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Cari luas bahagian."
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Cari luas bahagian.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Cari luas bahagian."
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Cari panjang sisi.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Cari panjang sisi."
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Cari panjang sisi.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Cari panjang sisi."
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Cari jumlah luas.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Cari jumlah luas."
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Rekreasi",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Rekreasi"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Fahamkan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623421586042,
+        "oldValue": "",
+        "newValue": "Fahamkan"
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Hasil pemisahan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Hasil pemisahan"
+      }
+    ]
+  },
+  "partition": {
+    "value": "Pemisah",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Pemisah"
+      }
+    ]
+  },
+  "product": {
+    "value": "Hasilnya",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Hasilnya"
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Jumlah keluasan model",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Jumlah keluasan model"
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Perpuluhan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623418677972,
+        "oldValue": "",
+        "newValue": "Perpuluhan"
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Pendaraban",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Pendaraban"
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Pemisahan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623288739338,
+        "oldValue": "",
+        "newValue": "Pemisahan"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Pemboleh ubah",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742768900256,
+        "oldValue": "",
+        "newValue": "Pemboleh ubah"
+      }
+    ]
+  },
+  "enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742768900256,
+        "oldValue": "",
+        "newValue": "Enter"
+      }
+    ]
+  }
+}

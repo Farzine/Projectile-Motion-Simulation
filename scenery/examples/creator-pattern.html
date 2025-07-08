@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1"/>
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <title>Creator Pattern - Example</title>
+
+  <!-- Before loading other things (that might error), create hooks to report errors/loads for continuous testing -->
+  <script src="../../chipper/js/browser/sim-tests/pageload-connector.js"></script>
+
+  <!-- jQuery and LoDash are dependencies -->
+  <script src="../../sherpa/lib/jquery-2.1.0.min.js"></script>
+  <script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+
+  <!-- Scenery code -->
+  <script src="../dist/scenery.min.js"></script>
+
+  <style type="text/css">
+    /* Let content go to the edges */
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      overflow: hidden;
+    }
+
+    /* Have the #main div cover the entire viewport */
+    #main {
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #fff;
+      z-index: 0;
+    }
+
+  </style>
+</head>
+<body>
+
+<div id="main"></div>
+<!-- eslint-disable --> <!--TODO: fix lint https://github.com/phetsims/chipper/issues/1405-->
+
+<script>
+  const main = () => {
+
+
+    window.assertions.enableAssert();
+
+    // modules
+    const Node = phet.scenery.Node;
+    const Display = phet.scenery.Display;
+    const Rectangle = phet.scenery.Rectangle;
+    const Circle = phet.scenery.Circle;
+    const DragListener = phet.scenery.DragListener;
+    const Emitter = phet.axon.Emitter;
+
+    // Set up the display
+    const view = new Node();
+    const display = new Display( view, { container: document.getElementById( 'main' ) } );
+    display.initializeEvents();
+    display.resizeOnWindowResize();
+    display.updateOnRequestAnimationFrame();
+
+    const toolbox = new Rectangle( 100, 100, 300, 300, { fill: 'gray', stroke: 'black' } );
+    view.addChild( toolbox );
+
+    // MODEL
+    class ModelElement {
+      constructor() {
+        this.disposeEmitter = new Emitter();
+      }
+
+      dispose() {
+        this.disposeEmitter.emit();
+      }
+    }
+
+    // VIEW
+
+    // When the icon is dragged, create a new model element, look up the view and forward the drag events.¬
+    toolbox.addInputListener( DragListener.createForwardingListener( event => {
+
+      // Create the model element.
+      // See https://github.com/phetsims/phet-info/issues/93#issuecomment-469844263 for discussion about
+      // dealing with model view transform and coordinate frames.
+      const modelElement = new ModelElement();
+      const modelElementNode = new ModelElementNode( modelElement );
+      modelElementNode.center = event.pointer.point;
+      modelElementNode.dragListener.press( event, modelElementNode );
+      modelElement.disposeEmitter.addListener( () => modelElementNode.dispose() );
+      view.addChild( modelElementNode );
+    } ) );
+
+    class ModelElementNode extends Circle {
+      constructor( modelElement ) {
+        super( 50, { fill: 'red' } );
+
+        // @public (read-only) - so we can look up the view from a model
+        this.modelElement = modelElement;
+
+        // @public (read-only) - so we can forward the drag events from the toolbox.
+        this.dragListener = new DragListener( {
+          translateNode: true,
+
+          // Dispose if dropped back in the toolbox.
+          end: () => {
+            if ( toolbox.bounds.containsPoint( this.center ) ) {
+              modelElement.dispose()
+            }
+          }
+        } );
+        this.addInputListener( this.dragListener );
+      }
+    }
+  };
+
+  main();
+</script>
+
+</body>
+</html>

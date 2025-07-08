@@ -1,0 +1,146 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1546519873452,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Desimal-notasjon",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1584897969773,
+        "oldValue": "",
+        "newValue": "Desimal-notasjon",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Kraft på {{thisObject}} fra {{otherObject}}",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1546519873452,
+        "oldValue": "",
+        "newValue": "Kraft på {{thisObject}} fra {{otherObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Kraft på {{thisObject}} fra {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1546519873452,
+        "oldValue": "",
+        "newValue": "Kraft på {{thisObject}} fra {{otherObject}} = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Kraftverdier",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1546519873452,
+        "oldValue": "",
+        "newValue": "Kraftverdier",
+        "explanation": null
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Skjult",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1584897969773,
+        "oldValue": "",
+        "newValue": "Skjult",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "meter",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1584897969773,
+        "oldValue": "",
+        "newValue": "meter",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "meter",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1584897969773,
+        "oldValue": "",
+        "newValue": "meter",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "Newton",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1584897969773,
+        "oldValue": "",
+        "newValue": "Newton",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Vitenskapelig notasjon",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1584897969774,
+        "oldValue": "",
+        "newValue": "Vitenskapelig notasjon",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1546519873452,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 267946,
+        "timestamp": 1546519873452,
+        "oldValue": "",
+        "newValue": "pm",
+        "explanation": null
+      }
+    ]
+  }
+}

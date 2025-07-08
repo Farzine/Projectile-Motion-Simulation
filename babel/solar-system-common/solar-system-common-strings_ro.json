@@ -1,0 +1,192 @@
+{
+  "V": {
+    "value": "V",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "V"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "ani",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "ani"
+      }
+    ]
+  },
+  "clear": {
+    "value": "șterge",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "șterge"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "UA",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "UA"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "|v| = {{value}} {{units}}"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "|v| = {{value}} {{units}}",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "Grilă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Grilă"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "Ruletă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Ruletă"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "Forța gravitațională",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Forța gravitațională"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Viteza",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Viteză"
+      },
+      {
+        "userId": 954258,
+        "timestamp": 1696828791151,
+        "oldValue": "Viteză",
+        "newValue": "Viteza",
+        "explanation": null
+      }
+    ]
+  },
+  "path": {
+    "value": "Traiectorie",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Traiectorie"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "O parte din vectorii forțelor sunt prea mici pentru a fi afișați",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "O parte din vectorii forțelor sunt prea mici pentru a fi afișați"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "Zoom:",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Zoom:"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Viteza (km/s)",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1684688417283,
+        "oldValue": "",
+        "newValue": "Viteza (km/s)"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 954258,
+        "timestamp": 1696572965129,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

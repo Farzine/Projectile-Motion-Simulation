@@ -1,0 +1,377 @@
+{
+  "keepGoing": {
+    "value": "tsoela-pele",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1672151886129,
+        "oldValue": "",
+        "newValue": "tsoela-pele"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "boemo bo bocha",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1672151886129,
+        "oldValue": "",
+        "newValue": "boemo bo bocha"
+      }
+    ]
+  },
+  "score": {
+    "value": "Moputso",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630010650,
+        "oldValue": "",
+        "newValue": "Moputso"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "moputso: {{score}}",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1670923718182,
+        "oldValue": "",
+        "newValue": "moputso: {{score}}"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Khetha boemo ba Hau",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630010650,
+        "oldValue": "",
+        "newValue": "Khetha boemo ba Hau"
+      }
+    ]
+  },
+  "done": {
+    "value": "qetile",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1671456121892,
+        "oldValue": "",
+        "newValue": "qetile"
+      }
+    ]
+  },
+  "next": {
+    "value": "E Hlalamang",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "E nngwe"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "E nngwe",
+        "newValue": "E Hlalamang"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "u qetile boemo",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1671456121892,
+        "oldValue": "",
+        "newValue": "u qetile boemo"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "Bokhoni ba hau: {0}",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "bokgoni bja gago: {0}"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216738,
+        "oldValue": "bokgoni bja gago: {0}",
+        "newValue": "Bokhoni ba hau: {0}"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "Bokhoni ba hau bo botle",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Bokgoni bja gago bo boswa"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216738,
+        "oldValue": "Bokgoni bja gago bo boswa",
+        "newValue": "Bokhoni ba hau bo botle"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Teko {0} ea {1}",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630010650,
+        "oldValue": "",
+        "newValue": "Teko {0} ea {1}"
+      }
+    ]
+  },
+  "check": {
+    "value": "Hlahloba",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Lebelela"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216738,
+        "oldValue": "Lebelela",
+        "newValue": "Hlahloba"
+      }
+    ]
+  },
+  "continue": {
+    "value": "Tsoela pele",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Tswelapele"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216738,
+        "oldValue": "Tswelapele",
+        "newValue": "Tsoela pele"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "U nepile Haholo-holo",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Bokgoni"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216738,
+        "oldValue": "Bokgoni",
+        "newValue": "U nepile Haholo-holo"
+      }
+    ]
+  },
+  "good": {
+    "value": "U nepile",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Botse"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "Botse",
+        "newValue": "U nepile"
+      }
+    ]
+  },
+  "great": {
+    "value": "U nepile haholo",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Botse botse"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "Botse botse",
+        "newValue": "U nepile haholo"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Leka Hape",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Tswela pele le go leka"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "Tswela pele le go leka",
+        "newValue": "Leka Hape"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Boleng: {0}",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Levele: {0}"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "Levele: {0}",
+        "newValue": "Boleng: {0}"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Moputso: {0}",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Mopotso: {0}"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "Mopotso: {0}",
+        "newValue": "Moputso: {0}"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Moputso:{0}holimo ho{1}",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Mopotso: {0} godimo ga {1}"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "Mopotso: {0} godimo ga {1}",
+        "newValue": "Moputso:{0}holimo ho{1}"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "ketha boemo",
+    "history": [
+      {
+        "userId": 1036340,
+        "timestamp": 1670601781526,
+        "oldValue": "",
+        "newValue": "ketha boemo"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Bonts'a Karabo",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630010650,
+        "oldValue": "",
+        "newValue": "Bonts'a Karabo"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Qala Qalong",
+    "history": [
+      {
+        "userId": 1047969,
+        "timestamp": 1662630010650,
+        "oldValue": "",
+        "newValue": "Qala Qalong"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Nako: {0}",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Nako: {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Leka Hape",
+    "history": [
+      {
+        "userId": 293563,
+        "timestamp": 1653645115267,
+        "oldValue": "",
+        "newValue": "Thoma gape"
+      },
+      {
+        "userId": 1047969,
+        "timestamp": 1654626216739,
+        "oldValue": "Thoma gape",
+        "newValue": "Leka Hape"
+      }
+    ]
+  }
+}

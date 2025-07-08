@@ -1,0 +1,381 @@
+{
+  "calculation": {
+    "value": "Изчисление",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Изчисление"
+      }
+    ]
+  },
+  "area": {
+    "value": "Площ",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Площ"
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Изчисление на площ",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Изчисление на площта на модела"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753067965,
+        "oldValue": "Изчисление на площта на модела",
+        "newValue": "Изчисление на площ",
+        "explanation": null
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Размери",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Размери"
+      }
+    ]
+  },
+  "factors": {
+    "value": "Коефициенти",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Коефициенти"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753067965,
+        "oldValue": "Коефициенти",
+        "newValue": "Коефициент",
+        "explanation": null
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753101654,
+        "oldValue": "Коефициент",
+        "newValue": "Коефициенти",
+        "explanation": null
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Отделни части",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Отделни елементи"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753067965,
+        "oldValue": "Отделни елементи",
+        "newValue": "Отделни части",
+        "explanation": null
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Обща площ на модела",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Обща площ на модела"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753067965,
+        "oldValue": "Обща площ на модела",
+        "newValue": "Обща площ",
+        "explanation": null
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753101654,
+        "oldValue": "Обща площ",
+        "newValue": "Обща площ на модела",
+        "explanation": null
+      }
+    ]
+  },
+  "partition": {
+    "value": "Деление",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Деление"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753067965,
+        "oldValue": "Деление",
+        "newValue": "Части",
+        "explanation": null
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753101654,
+        "oldValue": "Части",
+        "newValue": "Пропорции",
+        "explanation": null
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Пропорции",
+        "newValue": "Деление",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Изследване",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Изучаване"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Изучаване",
+        "newValue": "Изследване",
+        "explanation": null
+      }
+    ]
+  },
+  "enter": {
+    "value": "Въведи",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Въведи"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Общи положения",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Общ"
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Общ",
+        "newValue": "Общи положения",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Намерете частичното произведение и дължината на страната.",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Намерете отделните елементи и дължините на страните."
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Намерете отделните елементи и дължините на страните.",
+        "newValue": "Намерете частичното произведение и дължината на страната.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Намерете отделните части.",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Намери отделните елементи."
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Намери отделните елементи.",
+        "newValue": "Намерете отделните части.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Намерете площта на отделните части.",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Намери отделните елементи и общата площ."
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Намери отделните елементи и общата площ.",
+        "newValue": "Намерете площта на отделните части.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Намерете дължината на страните.",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Намерете дължините на страните."
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Намерете дължините на страните.",
+        "newValue": "Намерете дължината на страните.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Намере общата площ.",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Намерете общата площ."
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Намерете общата площ.",
+        "newValue": "Намере общата площ.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Намерете дължината на страните.",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Намерете дължините на страните."
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Намерете дължините на страните.",
+        "newValue": "Намерете дължината на страните.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Намерете отделните части.",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Намерете отделниче части."
+      },
+      {
+        "userId": 1145192,
+        "timestamp": 1684753125849,
+        "oldValue": "Намерете отделниче части.",
+        "newValue": "Намерете отделните части.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Игра",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Игра"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Променливи",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753025047,
+        "oldValue": "",
+        "newValue": "Променливи"
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Десетични знаци",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753067965,
+        "oldValue": "",
+        "newValue": "Десетични знаци"
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Умножение",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753101654,
+        "oldValue": "",
+        "newValue": "Умножение"
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Пропорции",
+    "history": [
+      {
+        "userId": 1145192,
+        "timestamp": 1684753101654,
+        "oldValue": "",
+        "newValue": "Пропорции"
+      }
+    ]
+  }
+}

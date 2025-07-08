@@ -1,0 +1,571 @@
+{
+  "Chart.clear": {
+    "value": "Очистить",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Очистить",
+        "explanation": null
+      }
+    ]
+  },
+  "Chart.title": {
+    "value": "Потенциал мембраны vs. Время",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Потенциал мембраны vs. Время",
+        "explanation": null
+      }
+    ]
+  },
+  "Chart.xAxisLabel": {
+    "value": "Время(ms)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Время(ms)",
+        "explanation": null
+      }
+    ]
+  },
+  "Chart.yAxisLabel": {
+    "value": "Потенциал мембраны (mv)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Потенциал мембраны (mv)",
+        "explanation": null
+      }
+    ]
+  },
+  "Control.title": {
+    "value": "Контроль",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Контроль",
+        "explanation": null
+      }
+    ]
+  },
+  "Legend.potassiumGatedChannel": {
+    "value": "Закрытий канал калия",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Закрытий канал калия",
+        "explanation": null
+      }
+    ]
+  },
+  "Legend.potassiumIon": {
+    "value": "Ион калия (K-)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Ион калия (K-)",
+        "explanation": null
+      }
+    ]
+  },
+  "Legend.potassiumLeakChannel": {
+    "value": "Канал утечки калия",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Канал утечки калия",
+        "explanation": null
+      }
+    ]
+  },
+  "Legend.sodiumGatedChannel": {
+    "value": "Закрытий канал натрия",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Закрытий канал натрия",
+        "explanation": null
+      }
+    ]
+  },
+  "Legend.sodiumIon": {
+    "value": "Ион натрия (Na+)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Ион натрия (Na+)",
+        "explanation": null
+      }
+    ]
+  },
+  "Legend.sodiumLeakChannel": {
+    "value": "Канал утечки натрия",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Канал утечки натрия",
+        "explanation": null
+      }
+    ]
+  },
+  "Legend.title": {
+    "value": "Легенда",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Легенда",
+        "explanation": null
+      }
+    ]
+  },
+  "ModuleTitle.AxonCrossSection": {
+    "value": "Потенциал",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Потенциал",
+        "explanation": null
+      }
+    ]
+  },
+  "PotassiumChemicalSymbol": {
+    "value": "K-",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "K-",
+        "explanation": null
+      }
+    ]
+  },
+  "ShowAllIons": {
+    "value": "Показать все ионы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Показать все ионы",
+        "explanation": null
+      }
+    ]
+  },
+  "ShowCharges": {
+    "value": "Показать заряды",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Показать заряды",
+        "explanation": null
+      }
+    ]
+  },
+  "ShowConcentrations": {
+    "value": "Показать концентрацию",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Показать концентрацию",
+        "explanation": null
+      }
+    ]
+  },
+  "ShowPotentialChart": {
+    "value": "График потенциала",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "График потенциала",
+        "explanation": null
+      }
+    ]
+  },
+  "SodiumChemicalSymbol": {
+    "value": "Na+",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Na+",
+        "explanation": null
+      }
+    ]
+  },
+  "allIons": {
+    "value": "Все ионы",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Все Ионы",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Все Ионы",
+        "newValue": "Все ионы",
+        "explanation": null
+      }
+    ]
+  },
+  "charges": {
+    "value": "Заряды",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Заряды",
+        "explanation": null
+      }
+    ]
+  },
+  "chartClear": {
+    "value": "Сбросить",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Сбросить",
+        "explanation": null
+      }
+    ]
+  },
+  "chartTitle": {
+    "value": "Потенциал мембраны/Время",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Мембранный Потенциал/Время",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Мембранный Потенциал/Время",
+        "newValue": "Потенциал мембраны/Время",
+        "explanation": null
+      }
+    ]
+  },
+  "chartXAxisLabel": {
+    "value": "Время (мс)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Время (мс)",
+        "explanation": null
+      }
+    ]
+  },
+  "chartYAxisLabel": {
+    "value": "Потенциал мембраны (мВ)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Мембранный потенциал (мВ)",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Мембранный потенциал (мВ)",
+        "newValue": "Потенциал мембраны (мВ)",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrations": {
+    "value": "Концентрации",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Концентрации",
+        "explanation": null
+      }
+    ]
+  },
+  "fastForward": {
+    "value": "Ускоренный режим",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Ускоренный режим",
+        "explanation": null
+      }
+    ]
+  },
+  "legend": {
+    "value": "Обозначения",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Обозначения",
+        "explanation": null
+      }
+    ]
+  },
+  "neuron.title": {
+    "value": "Нейрон",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Нейрон",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Обычный режим",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Обычный режим",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumGatedChannel": {
+    "value": "Канал с калием",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Закрытый канал Калия",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Закрытый канал Калия",
+        "newValue": "Канал с калием",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumIon": {
+    "value": "Ион калия (K+)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Ион Калия (K+)",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Ион Калия (K+)",
+        "newValue": "Ион калия (K+)",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumLeakChannel": {
+    "value": "Канал утечки калия",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Канал утечки Калия",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Канал утечки Калия",
+        "newValue": "Канал утечки калия",
+        "explanation": null
+      }
+    ]
+  },
+  "potentialChart": {
+    "value": "Диаграмма потенциала",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "График потенциала",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "График потенциала",
+        "newValue": "Диаграмма потенциала",
+        "explanation": null
+      }
+    ]
+  },
+  "showLegend": {
+    "value": "Показать",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Показать",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Замедленное движение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Замедленный режим",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Замедленный режим",
+        "newValue": "Замедленное движение",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumGatedChannel": {
+    "value": "Канал с натрием",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Закрытый канал Натрия",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Закрытый канал Натрия",
+        "newValue": "Канал с натрием",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumIon": {
+    "value": "Ион натрия (Na+)",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Ион Натрия (Na+)",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Ион Натрия (Na+)",
+        "newValue": "Ион натрия (Na+)",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumLeakChannel": {
+    "value": "Канал утечки натрия",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Канал утечки Натрия",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561503281,
+        "oldValue": "Канал утечки Натрия",
+        "newValue": "Канал утечки натрия",
+        "explanation": null
+      }
+    ]
+  },
+  "stimulateNeuron": {
+    "value": "Стимулировать\nнейрон",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "Стимулировать\nнейрон",
+        "explanation": null
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "мМ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130575452,
+        "oldValue": "",
+        "newValue": "мМ",
+        "explanation": null
+      }
+    ]
+  }
+}

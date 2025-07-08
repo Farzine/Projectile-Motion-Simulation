@@ -1,0 +1,978 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "1 s"
+      }
+    ]
+  },
+  "acSource": {
+    "value": "O‘zgaruvchan kuchlanish",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "O'zgaruvchan kuchlanish"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132900,
+        "oldValue": "O'zgaruvchan kuchlanish",
+        "newValue": "O‘zgaruvchan kuchlanish"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Elektr lampani qo‘shish",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "elektr lampani qo'shing"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372306347,
+        "oldValue": "elektr lampani qo'shing",
+        "newValue": "elektr lampani qo‘shing"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617880221180,
+        "oldValue": "elektr lampani qo‘shing",
+        "newValue": "Elektr lampani qo‘shish"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Boshqa sozlamalar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Ilg'or"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132900,
+        "oldValue": "Ilg'or",
+        "newValue": "Ilg‘or"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878794981,
+        "oldValue": "Ilg‘or",
+        "newValue": "Boshqa sozlamalar"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Ampermetr",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Ampermetr"
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Ampermetr ko‘rsatkichi",
+    "history": [
+      {
+        "userId": 1070982,
+        "timestamp": 1658123633447,
+        "oldValue": "",
+        "newValue": "Ampermetr ko‘rsatkichi"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Ampermetrlar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Ampermetrlar"
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Animatsiya tezligi cheklangan qiymatiga erishdi! Tezlik {{percent}}% ga kamaytirildi.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Animatsiya tezligi cheklangan qiymatiga erishdi! Tezlik {{percent}}% ga kamaytirildi."
+      }
+    ]
+  },
+  "battery": {
+    "value": "Galvanik element",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Galvanik element"
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Manbaning ichki qarshiligi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Manbaning ichki qarshiligi"
+      }
+    ]
+  },
+  "british": {
+    "value": "O‘zbek",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "O'zbek"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132900,
+        "oldValue": "O'zbek",
+        "newValue": "O‘zbek"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Elektr sig‘im",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Elektr sig'im"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132900,
+        "oldValue": "Elektr sig'im",
+        "newValue": "Elektr sig‘im"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Capacitor",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Capacitor"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Tanga",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Tanga"
+      }
+    ]
+  },
+  "conventional": {
+    "value": "An'anaviy",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "An'anaviy"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132900,
+        "oldValue": "An'anaviy",
+        "newValue": "An‘anaviy"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1618567716693,
+        "oldValue": "An‘anaviy",
+        "newValue": "An'anaviy"
+      }
+    ]
+  },
+  "current": {
+    "value": "Tok kuchi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Tok kuchi"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Tok kuchi",
+        "newValue": "To‘k kuchi"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878398014,
+        "oldValue": "To‘k kuchi",
+        "newValue": "Tok kuchi"
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Tok kuchi (A)",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Tok kuchi (A)"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Tok kuchi (A)",
+        "newValue": "To‘k kuchi (A)"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878398014,
+        "oldValue": "To‘k kuchi (A)",
+        "newValue": "Tok kuchi (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Tok kuchi jadvali",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Tok kuchi jadvali"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Tok kuchi jadvali",
+        "newValue": "To‘k kuchi jadvali"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878398014,
+        "oldValue": "To‘k kuchi jadvali",
+        "newValue": "Tok kuchi jadvali"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Tok oqimi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Tok oqimi"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Tok oqimi",
+        "newValue": "To‘k oqimi"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878398014,
+        "oldValue": "To‘k oqimi",
+        "newValue": "Tok oqimi"
+      }
+    ]
+  },
+  "dog": {
+    "value": "It",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "It"
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Qog‘oz pul",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Qog'oz pul"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Qog'oz pul",
+        "newValue": "Qog‘oz pul"
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Elektronlar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Elektronlar"
+      }
+    ]
+  },
+  "eraser": {
+    "value": "O‘chirg‘ich",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "O'chirg'ich"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "O'chirg'ich",
+        "newValue": "O‘chirg‘ich"
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Chastota",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Chastota"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Saqlagich",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Saqlagich"
+      }
+    ]
+  },
+  "hand": {
+    "value": "Qo‘l",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Qo'l"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Qo'l",
+        "newValue": "Qo‘l"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Induktivlik",
+    "history": [
+      {
+        "userId": 1070982,
+        "timestamp": 1658123633447,
+        "oldValue": "",
+        "newValue": "Induktivlik"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Jihozlar nomi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Etiketkalar"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878794981,
+        "oldValue": "Etiketkalar",
+        "newValue": "Jihozlar nomi"
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "elektr lampa",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "elektr lampa"
+      }
+    ]
+  },
+  "lots": {
+    "value": "katta",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "ko'p"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "ko'p",
+        "newValue": "ko‘p"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878794981,
+        "oldValue": "ko‘p",
+        "newValue": "katta"
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Kattalik",
+    "history": [
+      {
+        "userId": 1070982,
+        "timestamp": 1658123633447,
+        "oldValue": "",
+        "newValue": "Kattalik"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Qog‘oz uchun skripka",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Qog'oz uchun skripka "
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Qog'oz uchun skripka ",
+        "newValue": "Qog‘oz uchun skripka "
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694785072082,
+        "oldValue": "Qog‘oz uchun skripka ",
+        "newValue": "Qog‘oz uchun skripka",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "qalam",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "qalam"
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Bosqich smenasi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Bosqich Smenasi"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Bosqich Smenasi",
+        "newValue": "Bosqich smenasi"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Qarshilik",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Qarshilik"
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Rezistor",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Rezistor"
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Sxematik Standart",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Sxematik Standart"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Tokni ko‘rish",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Tokni ko'rish"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Tokni ko'rish",
+        "newValue": "To‘kni ko‘rish"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878398014,
+        "oldValue": "To‘kni ko‘rish",
+        "newValue": "Tokni ko‘rish"
+      }
+    ]
+  },
+  "signed": {
+    "value": "Imzolangan",
+    "history": [
+      {
+        "userId": 1070982,
+        "timestamp": 1658123633447,
+        "oldValue": "",
+        "newValue": "Imzolangan"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Manba qarshiligi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Manba qarshiligi"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Sekundomer",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Sekundomer"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Kalit",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Kalit"
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Element parametrini o‘zgartirish uchun ustiga bosing.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Element parametrini o'zgartirish uchun ustiga bosing."
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617372132901,
+        "oldValue": "Element parametrini o'zgartirish uchun ustiga bosing.",
+        "newValue": "Element parametrini o‘zgartirish uchun ustiga bosing."
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Kalit yopiq.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "kalit yopiq"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694785072082,
+        "oldValue": "kalit yopiq",
+        "newValue": "Kalit yopiq.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Kalit ochiq.",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "kalit ochiq"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694785072082,
+        "oldValue": "kalit ochiq",
+        "newValue": "Kalit ochiq.",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Vaqt",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Vaqt"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "kichik",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "mayda"
+      },
+      {
+        "userId": 641649,
+        "timestamp": 1617878794981,
+        "oldValue": "mayda",
+        "newValue": "kichik"
+      }
+    ]
+  },
+  "values": {
+    "value": "Qiymatlar",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Qiymatlar"
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Kuchlanish",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Kuchlanish"
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "Kuchlanish (V)",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Kuchlanish (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Kuchlanish jadvali",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Kuchlanish jadvali"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmetr",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Voltmetr"
+      }
+    ]
+  },
+  "wire": {
+    "value": "Sim",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Sim"
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Simning solishtirma qarshiligi",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "Simning solishtirma qarshiligi"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{current}} A"
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} Om",
+    "history": [
+      {
+        "userId": 1070982,
+        "timestamp": 1658123633447,
+        "oldValue": "",
+        "newValue": "{{resistance}} Om"
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω"
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{voltage}} V"
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "{{voltage}} V"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615367674684,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "Haqiqiy lampa",
+    "history": [
+      {
+        "userId": 641649,
+        "timestamp": 1615368477381,
+        "oldValue": "",
+        "newValue": "Haqiqiy lampa"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE (Elektrotexnika va elektronika muhandislari instituti)",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694785072082,
+        "oldValue": "",
+        "newValue": "IEEE (Elektrotexnika va elektronika muhandislari instituti)"
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC (Xalqaro elektrotexnika komissiyasi)",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694785072082,
+        "oldValue": "",
+        "newValue": "IEC (Xalqaro elektrotexnika komissiyasi)"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Induktor",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694785072082,
+        "oldValue": "",
+        "newValue": "Induktor"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Maʼlumotlar diapazondan tashqarida",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694785072082,
+        "oldValue": "",
+        "newValue": "Maʼlumotlar diapazondan tashqarida"
+      }
+    ]
+  }
+}

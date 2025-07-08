@@ -1,0 +1,674 @@
+{
+  "circleDiameter": {
+    "value": "Ympyrän halkaisija",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Ympyrän halkaisija"
+      }
+    ]
+  },
+  "squareWidth": {
+    "value": "Neliö leveys",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Neliö leveys"
+      }
+    ]
+  },
+  "disorder": {
+    "value": "Epäjärjestys",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Epäjärjestys"
+      }
+    ]
+  },
+  "latticeSpacing": {
+    "value": "Tasojen välimatka",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Tasojen välimatka"
+      }
+    ]
+  },
+  "lots": {
+    "value": "Paljon",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Paljon"
+      }
+    ]
+  },
+  "none": {
+    "value": "Ei yhtään",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Ei yhtään"
+      }
+    ]
+  },
+  "diameter": {
+    "value": "Halkaisija",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Halkaisija"
+      }
+    ]
+  },
+  "eccentricity": {
+    "value": "Eksentrisyys",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Eksentrisyys"
+      }
+    ]
+  },
+  "height": {
+    "value": "Korkeus",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Korkeus"
+      }
+    ]
+  },
+  "width": {
+    "value": "Leveys",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Leveys"
+      }
+    ]
+  },
+  "rotation": {
+    "value": "Kiertymä",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Kiertymä"
+      }
+    ]
+  },
+  "screen.diffraction": {
+    "value": "Diffraktio",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Diffraktio"
+      }
+    ]
+  },
+  "distanceUnits": {
+    "value": "",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "{{distance}} {{units}}",
+        "newValue": ""
+      }
+    ]
+  },
+  "timeUnits": {
+    "value": "",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "{{time}} {{units}}"
+      },
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "{{time}} {{units}}",
+        "newValue": ""
+      }
+    ]
+  },
+  "centimetersUnits": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "electricFieldAtCenter": {
+    "value": "Sähkökenttä keskipisteessä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Sähkökenttä keskipisteessä"
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Sähkökenttä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Sähkökenttä"
+      }
+    ]
+  },
+  "femtosecondConversion": {
+    "value": "1 fs = 10<sup>-15</sup> s",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "1 fs = 10<sup>-15</sup> s"
+      }
+    ]
+  },
+  "femtosecondsUnits": {
+    "value": "fs",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "fs"
+      }
+    ]
+  },
+  "lightGenerator": {
+    "value": "Valonlähde",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Valonlähde"
+      }
+    ]
+  },
+  "millisecondConversion": {
+    "value": "1 ms = 10<sup>-3</sup> s",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "1 ms = 10<sup>-3</sup> s"
+      }
+    ]
+  },
+  "millisecondsUnits": {
+    "value": "ms",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "ms"
+      }
+    ]
+  },
+  "nanometersUnits": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "positionCM": {
+    "value": "Etäisyys (cm)",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Etäisyys (cm)"
+      }
+    ]
+  },
+  "positionNM": {
+    "value": "Etäisyys (nm)",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Etäisyys (nm)"
+      }
+    ]
+  },
+  "pressureAtCenter": {
+    "value": "Paine keskipisteessä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Paine keskipisteessä"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Paine",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Paine"
+      }
+    ]
+  },
+  "secondsUnits": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "soundGenerator": {
+    "value": "Äänigeneraattori",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Äänigeneraattori"
+      }
+    ]
+  },
+  "waterLevelAtCenter": {
+    "value": "Pinnan korkeus",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Pinnan korkeus"
+      }
+    ]
+  },
+  "waterLevel": {
+    "value": "Veden pinta",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Veden pinta"
+      }
+    ]
+  },
+  "waterWaveGenerator": {
+    "value": "Aaltolähde",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Aaltolähde"
+      }
+    ]
+  },
+  "separation": {
+    "value": "Välimatka",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Välimatka"
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Intensiteetti",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Intensiteetti"
+      }
+    ]
+  },
+  "top": {
+    "value": "Ylös",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Ylös"
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normaali",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Normaali"
+      }
+    ]
+  },
+  "slow": {
+    "value": "Hidas",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Hidas"
+      }
+    ]
+  },
+  "sideView": {
+    "value": "Näkymä sivulta",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Näkymä sivulta"
+      }
+    ]
+  },
+  "topView": {
+    "value": "Näkymä päältä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Näkymä päältä"
+      }
+    ]
+  },
+  "max": {
+    "value": "max",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "max"
+      }
+    ]
+  },
+  "min": {
+    "value": "min",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "min"
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "Amplitudi",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Amplitudi"
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Taajuus",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Taajuus"
+      }
+    ]
+  },
+  "both": {
+    "value": "Molemmat",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Molemmat"
+      }
+    ]
+  },
+  "particles": {
+    "value": "Väliaine",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Väliaine"
+      }
+    ]
+  },
+  "waves": {
+    "value": "Aallot",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Aallot"
+      }
+    ]
+  },
+  "graph": {
+    "value": "Kuvaaja",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Kuvaaja"
+      }
+    ]
+  },
+  "playTone": {
+    "value": "Soita ääni",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Soita ääni"
+      }
+    ]
+  },
+  "screenLabel": {
+    "value": "Varjostin",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Varjostin"
+      }
+    ]
+  },
+  "soundEffect": {
+    "value": "Ääniefekti",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Ääniefekti"
+      }
+    ]
+  },
+  "time": {
+    "value": "Aika",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Aika"
+      }
+    ]
+  },
+  "screen.interference": {
+    "value": "Interferenssi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Interferenssi"
+      }
+    ]
+  },
+  "noBarrier": {
+    "value": "Ei estettä",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Ei estettä"
+      }
+    ]
+  },
+  "oneSlit": {
+    "value": "Yksi rako",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Yksi rako"
+      }
+    ]
+  },
+  "slitSeparation": {
+    "value": "Rakojen välimatka",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Rakojen välimatka"
+      }
+    ]
+  },
+  "slitWidth": {
+    "value": "Raon leveys",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Raon leveys"
+      }
+    ]
+  },
+  "twoSlits": {
+    "value": "Kaksi rakoa",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Kaksi rakoa"
+      }
+    ]
+  },
+  "screen.slits": {
+    "value": "Raot",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Raot"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Aallot",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Aallot"
+      }
+    ]
+  },
+  "wave-interference.title": {
+    "value": "Aaltojen interferenssi",
+    "history": [
+      {
+        "userId": 383666,
+        "timestamp": 1673851625543,
+        "oldValue": "",
+        "newValue": "Aaltojen interferenssi"
+      }
+    ]
+  }
+}

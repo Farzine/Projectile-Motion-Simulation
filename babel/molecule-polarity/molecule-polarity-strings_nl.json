@@ -1,0 +1,989 @@
+{
+  "dipoleDirection": {
+    "value": "Richting dipool:",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Richting dipool:",
+        "explanation": null
+      }
+    ]
+  },
+  "electronDensity": {
+    "value": "elektronendichtheid",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "elektronendichtheid",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1503835322295,
+        "oldValue": "elektronendichtheid",
+        "newValue": "Elektronendichtheid",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Elektronendichtheid",
+        "newValue": "elektronendichtheid",
+        "explanation": null
+      }
+    ]
+  },
+  "electrostaticPotential": {
+    "value": "elektrostatische potentiaal",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "elektrostatische potentiaal",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1503835322295,
+        "oldValue": "elektrostatische potentiaal",
+        "newValue": "Elektrostatische potentiaal",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Elektrostatische potentiaal",
+        "newValue": "elektrostatische potentiaal",
+        "explanation": null
+      }
+    ]
+  },
+  "less": {
+    "value": "minder",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "minder",
+        "explanation": null
+      }
+    ]
+  },
+  "more": {
+    "value": "meer",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "meer",
+        "explanation": null
+      }
+    ]
+  },
+  "negative": {
+    "value": "negatief",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "negatief",
+        "explanation": null
+      }
+    ]
+  },
+  "positive": {
+    "value": "positief",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "positief",
+        "explanation": null
+      }
+    ]
+  },
+  "surfaceColorRealMolecules": {
+    "value": "Kleur oppervlak (echte moleculen)",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Kleur oppervlak (echte moleculen)",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogen": {
+    "value": "waterstof",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "waterstof",
+        "explanation": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "value": "stikstof",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "stikstof",
+        "explanation": null
+      }
+    ]
+  },
+  "oxygen": {
+    "value": "zuurstof",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "zuurstof",
+        "explanation": null
+      }
+    ]
+  },
+  "fluorine": {
+    "value": "fluor",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "fluor",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenFluoride": {
+    "value": "waterstoffluoride",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "waterstoffluoride",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "water",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "water",
+        "explanation": null
+      }
+    ]
+  },
+  "carbonDioxide": {
+    "value": "koolstofdioxide",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "koolstofdioxide",
+        "explanation": null
+      }
+    ]
+  },
+  "hydrogenCyanide": {
+    "value": "waterstofcyanide",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "waterstofcyanide",
+        "explanation": null
+      }
+    ]
+  },
+  "ozone": {
+    "value": "ozon",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "ozon",
+        "explanation": null
+      }
+    ]
+  },
+  "ammonia": {
+    "value": "ammonia",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "ammonia",
+        "explanation": null
+      }
+    ]
+  },
+  "borane": {
+    "value": "boraan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "boraan",
+        "explanation": null
+      }
+    ]
+  },
+  "boronTrifluoride": {
+    "value": "boortrifluoride",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "boortrifluoride",
+        "explanation": null
+      }
+    ]
+  },
+  "formaldehyde": {
+    "value": "formaldehyde",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "formaldehyde",
+        "explanation": null
+      }
+    ]
+  },
+  "methane": {
+    "value": "methaan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "methaan",
+        "explanation": null
+      }
+    ]
+  },
+  "fluoromethane": {
+    "value": "fluormethaan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "fluormethaan",
+        "explanation": null
+      }
+    ]
+  },
+  "difluoromethane": {
+    "value": "difluormethaan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "difluormethaan",
+        "explanation": null
+      }
+    ]
+  },
+  "trifluoromethane": {
+    "value": "trifluormethaan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "trifluormethaan",
+        "explanation": null
+      }
+    ]
+  },
+  "tetrafluoromethane": {
+    "value": "tetrafluormethaan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "tetrafluormethaan",
+        "explanation": null
+      }
+    ]
+  },
+  "chloroform": {
+    "value": "chloroform",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "chloroform",
+        "explanation": null
+      }
+    ]
+  },
+  "atomElectronegativities": {
+    "value": "elektronegativiteit atomen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "elektronegativiteit atomen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1503835322295,
+        "oldValue": "elektronegativiteit atomen",
+        "newValue": "Elektronegativiteit atomen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Elektronegativiteit atomen",
+        "newValue": "elektronegativiteit atomen",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule": {
+    "value": "molecuul",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "molecuul",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "molecuul",
+        "newValue": "Molecuul",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Molecuul",
+        "newValue": "molecuul",
+        "explanation": null
+      }
+    ]
+  },
+  "atomLabels": {
+    "value": "symbolen atomen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "symbolen atomen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "symbolen atomen",
+        "newValue": "Symbolen atomen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Symbolen atomen",
+        "newValue": "symbolen atomen",
+        "explanation": null
+      }
+    ]
+  },
+  "bondDipoles": {
+    "value": "dipoolbindingen ",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "dipoolbindingen ",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "dipoolbindingen ",
+        "newValue": "Dipoolbindingen ",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Dipoolbindingen ",
+        "newValue": "dipoolbindingen ",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularDipole": {
+    "value": "dipool van het molecuul",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "dipool van het molecuul",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "dipool van het molecuul",
+        "newValue": "Dipool van het molecuul",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Dipool van het molecuul",
+        "newValue": "dipool van het molecuul",
+        "explanation": null
+      }
+    ]
+  },
+  "partialCharges": {
+    "value": "partiële lading",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "partiële lading",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "partiële lading",
+        "newValue": "Partiële ladingen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Partiële ladingen",
+        "newValue": "partiële lading",
+        "explanation": null
+      }
+    ]
+  },
+  "view": {
+    "value": "bekijk",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "bekijk",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "bekijk",
+        "newValue": "Bekijk",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Bekijk",
+        "newValue": "bekijk",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "geen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "geen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "geen",
+        "newValue": "Geen",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Geen",
+        "newValue": "geen",
+        "explanation": null
+      }
+    ]
+  },
+  "surface": {
+    "value": "oppervlak",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "oppervlak",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "oppervlak",
+        "newValue": "Oppervlak",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Oppervlak",
+        "newValue": "oppervlak",
+        "explanation": null
+      }
+    ]
+  },
+  "underDevelopment.line1": {
+    "value": "Echte moleculen zijn nog niet beschikbaar in HTML5",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Echte moleculen zijn nog niet beschikbaar in HTML5",
+        "explanation": null
+      }
+    ]
+  },
+  "underDevelopment.line2": {
+    "value": "Als je toestel werkt met Java, kan je de Java versie gebruiken die te vinden is op",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Als je toestel werkt met Java, kan je de Java versie gebruiken die te vinden is op",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1503835322295,
+        "oldValue": "Als je toestel werkt met Java, kan je de Java versie gebruiken die te vinden is op",
+        "newValue": "Als je toestel werkt met Java kan je de Java versie gebruiken die te vinden is op",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "Als je toestel werkt met Java kan je de Java versie gebruiken die te vinden is op",
+        "newValue": "Als je toestel werkt met Java, kan je de Java versie gebruiken die te vinden is op",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.realMolecules": {
+    "value": "Echte moleculen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Echte moleculen",
+        "explanation": null
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Elektrisch veld",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Elektrisch veld",
+        "explanation": null
+      }
+    ]
+  },
+  "off": {
+    "value": "uit",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "uit",
+        "explanation": null
+      }
+    ]
+  },
+  "on": {
+    "value": "aan",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "aan",
+        "explanation": null
+      }
+    ]
+  },
+  "electronegativity": {
+    "value": "elektronegativiteit",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "elektronegativiteit",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "elektronegativiteit",
+        "newValue": "Elektronegativiteit",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Elektronegativiteit",
+        "newValue": "elektronegativiteit",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.atomName": {
+    "value": "Atoom {{name}}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Atoom {{name}}",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.threeAtoms": {
+    "value": "Drie atomen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802599,
+        "oldValue": "",
+        "newValue": "Drie atomen",
+        "explanation": null
+      }
+    ]
+  },
+  "bondCharacter": {
+    "value": "type binding",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "type binding",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "type binding",
+        "newValue": "Type binding",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Type binding",
+        "newValue": "type binding",
+        "explanation": null
+      }
+    ]
+  },
+  "moreCovalent": {
+    "value": "meer covalent",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "meer covalent",
+        "explanation": null
+      }
+    ]
+  },
+  "moreIonic": {
+    "value": "meer ionisch",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "meer ionisch",
+        "explanation": null
+      }
+    ]
+  },
+  "bondDipole": {
+    "value": "dipoolbinding",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "dipoolbinding",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "dipoolbinding",
+        "newValue": "Dipoolbinding",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1514631767627,
+        "oldValue": "Dipoolbinding",
+        "newValue": "dipoolbinding",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.twoAtoms": {
+    "value": "Twee atomen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "Twee atomen",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-polarity.title": {
+    "value": "Polariteit van moleculen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "polariteit molecuul",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1503835322295,
+        "oldValue": "polariteit molecuul",
+        "newValue": "Polariteit van molecuul",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1510064041595,
+        "oldValue": "Polariteit van molecuul",
+        "newValue": "Polariteit molecuul",
+        "explanation": null
+      },
+      {
+        "userId": 170730,
+        "timestamp": 1550586605677,
+        "oldValue": "Polariteit molecuul",
+        "newValue": "Polariteit van moleculen",
+        "explanation": null
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "A",
+        "explanation": null
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "B",
+        "explanation": null
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "C",
+        "explanation": null
+      }
+    ]
+  },
+  "covalent": {
+    "value": "sterker covalent",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "sterker covalent",
+        "explanation": null
+      }
+    ]
+  },
+  "ionic": {
+    "value": "sterker ionogeen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "sterker ionogeen",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0atomName": {
+    "value": "Atoom {0}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "Atoom {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "{0}",
+        "explanation": null
+      }
+    ]
+  },
+  "rainbowOption": {
+    "value": "echte moleculen: gebruik regenboog voor elektrostatische potentiaal",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "echte moleculen: gebruik regenboog voor elektrostatische potentiaal",
+        "explanation": null
+      }
+    ]
+  },
+  "realMolecules": {
+    "value": "Echte Moleculen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "Echte Moleculen",
+        "explanation": null
+      }
+    ]
+  },
+  "threeAtoms": {
+    "value": "Drie Atomen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "Drie Atomen",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": "John van der Pluijm, Colegio Arubano",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "John van der Pluijm, Colegio Arubano",
+        "explanation": null
+      }
+    ]
+  },
+  "twoAtoms": {
+    "value": "Twee Atomen",
+    "history": [
+      {
+        "userId": 170730,
+        "timestamp": 1501518802600,
+        "oldValue": "",
+        "newValue": "Twee Atomen",
+        "explanation": null
+      }
+    ]
+  }
+}

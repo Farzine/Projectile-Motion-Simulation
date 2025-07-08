@@ -1,0 +1,340 @@
+{
+  "grabOrReleaseBalloonHeading": {
+    "value": "Узми или пусти балон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588088020211,
+        "oldValue": "",
+        "newValue": "Узми или пусти балон",
+        "explanation": null
+      }
+    ]
+  },
+  "grabOrReleaseBalloonLabel": {
+    "value": "Узми или пусти балон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588088020211,
+        "oldValue": "",
+        "newValue": "Узми или пусти балон",
+        "explanation": null
+      }
+    ]
+  },
+  "moveOrJumpGrabbedBalloonHeading": {
+    "value": "Помери или пусти балон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "",
+        "newValue": "Помери или пусти балон",
+        "explanation": null
+      }
+    ]
+  },
+  "moveGrabbedBalloonLabel": {
+    "value": "Померите ухваћени балон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588088020211,
+        "oldValue": "",
+        "newValue": "Померите ухваћени балон",
+        "explanation": null
+      }
+    ]
+  },
+  "moveSlowerLabel": {
+    "value": "Померајте спорије",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588088020211,
+        "oldValue": "",
+        "newValue": "Померајте спорије",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpCloseToSweaterLabel": {
+    "value": "Помери до џемпера",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "",
+        "newValue": "Помери до џемпера",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpCloseToWallLabel": {
+    "value": "Стави на зид",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "",
+        "newValue": "Стави на зид",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpNearWallLabel": {
+    "value": "Стави близу зида",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "",
+        "newValue": "Стави близу зида",
+        "explanation": null
+      }
+    ]
+  },
+  "jumpToCenterLabel": {
+    "value": "Стави на средину",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "",
+        "newValue": "Стави на средину",
+        "explanation": null
+      }
+    ]
+  },
+  "toGrabOrRelease": {
+    "value": "to <b>ухвати</b> or <b>пусти</b>",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "",
+        "newValue": "to <b>ухвати</b> or <b>пусти</b>",
+        "explanation": null
+      }
+    ]
+  },
+  "addWall": {
+    "value": "Додај зид",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Додај\n зид",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "Додај\n зид",
+        "newValue": "Додај зид",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ShowAllCharges": {
+    "value": "Покажи сва наелектрисања",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Покажи сва наелектрисања",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ShowChargeDifferences": {
+    "value": "Покажи разлику наелектрисања",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Покажи разлику наелектрисања",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ShowNoCharges": {
+    "value": "Сакриј наелектрисања",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Сакриј наелектрисања",
+        "explanation": null
+      }
+    ]
+  },
+  "removeWall": {
+    "value": "Склони зид",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Врати \nзид",
+        "explanation": null
+      },
+      {
+        "userId": 156030,
+        "timestamp": 1588095102714,
+        "oldValue": "Врати \nзид",
+        "newValue": "Склони зид",
+        "explanation": null
+      }
+    ]
+  },
+  "resetBalloons": {
+    "value": "Врати балоне",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Врати балоне",
+        "explanation": null
+      }
+    ]
+  },
+  "resetBalloon": {
+    "value": "Врати балон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Врати балон",
+        "explanation": null
+      }
+    ]
+  },
+  "balloons-and-static-electricity.title": {
+    "value": "Балони и статички електрицитет",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Балони и статички електрицитет",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.ChargeDisplay": {
+    "value": "Покажи наелектрисање",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Покажи наелектрисање",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.IgnoreInitialBalloonCharge": {
+    "value": "Занемари почетно наелектрисање",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Занемари почетно наелектрисање",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.TwoBalloons": {
+    "value": "Два балона (није 99 luftbalons)",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Два балона (није 99 luftbalons)",
+        "explanation": null
+      }
+    ]
+  },
+  "BalloonApplet.Wall": {
+    "value": "Зид",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Зид",
+        "explanation": null
+      }
+    ]
+  },
+  "balloons.description": {
+    "value": "Зашто се балон протрљан о џемпер лепи за зид? Погледајте наелектрисања на зиду, балону а богами и на џемперчету,",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Зашто се балон протрљан о џемпер лепи за зид? Погледајте наелектрисања на зиду, балону а богами и на џемперчету,",
+        "explanation": null
+      }
+    ]
+  },
+  "bring.the.balloon": {
+    "value": "Примакниј балон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Примакниј балон",
+        "explanation": null
+      }
+    ]
+  },
+  "near.the.wall": {
+    "value": "ближе зиду",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "ближе зиду",
+        "explanation": null
+      }
+    ]
+  },
+  "on.the.sweater": {
+    "value": "о џемперче",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "о џемперче",
+        "explanation": null
+      }
+    ]
+  },
+  "rub.the.balloon": {
+    "value": "Протрљај балон",
+    "history": [
+      {
+        "userId": 156030,
+        "timestamp": 1486231037105,
+        "oldValue": "",
+        "newValue": "Протрљај балон",
+        "explanation": null
+      }
+    ]
+  }
+}

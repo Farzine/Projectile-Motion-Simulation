@@ -1,0 +1,46 @@
+{
+  "screen.compare": {
+    "value": "Usporedi",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1664303088252,
+        "oldValue": "",
+        "newValue": "Usporedi"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} je manji od {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1664303088252,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} je manji od {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} je veći od {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1664303088252,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} je veći od {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} jednak je {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 710277,
+        "timestamp": 1664303088252,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} jednak je {{equalNumberRight}}"
+      }
+    ]
+  }
+}

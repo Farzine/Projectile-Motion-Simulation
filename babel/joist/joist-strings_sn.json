@@ -1,0 +1,1237 @@
+{
+  "simTitleWithScreenNamePattern": {
+    "value": "{{simName}} — {{screenName}}",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "{{simName}} — {{screenName}}"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.invalidQueryParameters": {
+    "value": "Invalid Query Parameters",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Mhinduro dzemubvunzo dzisiridzo"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Mhinduro dzemubvunzo dzisiridzo",
+        "newValue": "MaQuery Paramita asiriiwo",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "MaQuery Paramita asiriiwo",
+        "newValue": "Invalid Query Parameters",
+        "explanation": null
+      }
+    ]
+  },
+  "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+    "value": "Maquery parameters aya ane<br>invalid values:",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Imwe kana yakawanda yeiyi mivhunzo paramita ine<br>nhamba dzisiridzo:"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Imwe kana yakawanda yeiyi mivhunzo paramita ine<br>nhamba dzisiridzo:",
+        "newValue": "rimwechete kana maviri ema query paramita ane <br> mavalues asiriiwo",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "rimwechete kana maviri ema query paramita ane <br> mavalues asiriiwo",
+        "newValue": "One or more of these query parameters have<br>invalid values:",
+        "explanation": null
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1691433786968,
+        "oldValue": "One or more of these query parameters have<br>invalid values:",
+        "newValue": "Maquery parameters aya ane<br>invalid values:",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.about": {
+    "value": "Nezve....",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Nezvedu…"
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1688144047782,
+        "oldValue": "Nezvedu…",
+        "newValue": "Nezvedu….",
+        "explanation": null
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1688147439695,
+        "oldValue": "Nezvedu….",
+        "newValue": "Nezvedu…",
+        "explanation": null
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1689196671705,
+        "oldValue": "Nezvedu…",
+        "newValue": "Nezvedu....",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Nezvedu....",
+        "newValue": "Nezve...",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Nezve...",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Nezve....",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "Skrini izere",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Chidzitiro chakazara"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Chidzitiro chakazara",
+        "newValue": "Skrini  rizere",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Skrini  rizere",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Skrini izere",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "Tarisa ma updates",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Tarisa kune Zvigadziriso…"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Tarisa kune Zvigadziriso…",
+        "newValue": "tarisa zvichangobuda",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "tarisa zvichangobuda",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Tarisa ma updates",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "Sarudzo",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Zvisarudzo…"
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1688050609536,
+        "oldValue": "Zvisarudzo…",
+        "newValue": "Zvisarudzo...",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689681830611,
+        "oldValue": "Zvisarudzo...",
+        "newValue": "Sarudzo...",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Sarudzo...",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Sarudzo",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "PhET webhusaiti…",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "PhET Webhusaiti"
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1688050609536,
+        "oldValue": "PhET Webhusaiti",
+        "newValue": "PhET Webhusaiti...",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "PhET Webhusaiti...",
+        "newValue": "PhET Webhisaiti…",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "PhET Webhisaiti…",
+        "newValue": "PhET Website…",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "PhET Website…",
+        "newValue": "PhET webhusaiti…",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "Mhan'ara Dambudziko.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Mhan'ara Dambudziko..."
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Mhan'ara Dambudziko...",
+        "newValue": "Mhan'ara dambudziko",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Mhan'ara dambudziko",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Mhan'ara Dambudziko.",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "Skrinishoti",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Mufananidzo"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Mufananidzo",
+        "newValue": "Skrinishoti",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Skrinishoti",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Skrinishoti",
+        "explanation": null
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "mhando {0}",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "version {0}"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689682049424,
+        "oldValue": "version {0}",
+        "newValue": "Mhando {0}",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Mhando {0}",
+        "newValue": "Vhezheni {0}",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Vhezheni {0}",
+        "newValue": "mhando {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "options.title": {
+    "value": "Sarudzo",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Zvisarudzo"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Zvisarudzo",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Sarudzo",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "Rutendo",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Rutendo"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Rutendo",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Rutendo",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "Dudziro",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Dudziro"
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "Kutarisa ma updates",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Tarisa kune Zvigadziriso…"
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1688050609536,
+        "oldValue": "Tarisa kune Zvigadziriso…",
+        "newValue": "arisa kune Zvigadziriso…",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "arisa kune Zvigadziriso…",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817764319,
+        "oldValue": "",
+        "newValue": "Tarisa ma apudhetsi",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Tarisa ma apudhetsi",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Kutarisa ma updates",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "Wana ma updates",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Tora Zvigadziriso…"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Tora Zvigadziriso…",
+        "newValue": "Wana Zvichangobuda…",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Wana Zvichangobuda…",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Wana ma updates",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "Hakuna mhando itsva iripo: {0}.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Pane shanduro itsva iripo: {0}."
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Pane shanduro itsva iripo: {0}.",
+        "newValue": "Pane vheni itsva: {0}.",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Pane vheni itsva: {0}.",
+        "newValue": "Hakuna mhando itsva iripo: {0}.",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "Kwete Tinotenda",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Kwete ndatenda"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Kwete ndatenda",
+        "newValue": "Kwete Ndatenda",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Kwete Ndatenda",
+        "newValue": "Kwete Tinotenda",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "Kukundikana kutarisa ma updates",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Hatina kukwanisa kutarisa zvigadziriso."
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Hatina kukwanisa kutarisa zvigadziriso.",
+        "newValue": "Hazvigoni kuvana zvichangobuda",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Hazvigoni kuvana zvichangobuda",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Kukundikana kutarisa ma updates",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "Vhezheni itsva yavepo",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Shanduro itsva iripo"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Shanduro itsva iripo",
+        "newValue": "vhezheni itsva yavepo",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "vhezheni itsva yavepo",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Vhezheni itsva yavepo",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "Simulation ndeya zvino zvino",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Iyi simulation ndeyemazuva ano."
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Iyi simulation ndeyemazuva ano.",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817764319,
+        "oldValue": "",
+        "newValue": "vhezheni itsva yavepo",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "vhezheni itsva yavepo",
+        "newValue": ""
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690558167256,
+        "oldValue": "",
+        "newValue": "Simulation ndeya zvino zvino",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "Mhando yako itsva i : {0}.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688050043763,
+        "oldValue": "",
+        "newValue": "Shanduro yako yazvino ndeye: {0}."
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Shanduro yako yazvino ndeye: {0}.",
+        "newValue": "Vheni yako izvezvi ndi: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690556659878,
+        "oldValue": "Vheni yako izvezvi ndi: {0}",
+        "newValue": "Vhezheni yako izvezvi ndi: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Vhezheni yako izvezvi ndi: {0}",
+        "newValue": "Mhando yako itsva i : {0}.",
+        "explanation": null
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Purojekita Modhi",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688147439695,
+        "oldValue": "",
+        "newValue": "Purojekita Mode"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Purojekita Mode",
+        "newValue": "Projector Mode",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689819614720,
+        "oldValue": "Projector Mode",
+        "newValue": "Purojekita Modhi",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.visual.projectorModeDescription": {
+    "value": "Wedzera kusiyanisa kwemavara kuitira kuoneka zviri nani mumakirasi.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1688147439695,
+        "oldValue": "",
+        "newValue": "Wedzera kusiyanisa kwemavara kuitira kuoneka zviri nani mumakirasi"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Wedzera kusiyanisa kwemavara kuitira kuoneka zviri nani mumakirasi",
+        "newValue": "Increase color contrast for better visibility in classrooms.",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689819614720,
+        "oldValue": "Increase color contrast for better visibility in classrooms.",
+        "newValue": "Wedzera kusiyanisa kwemavara kuitira kuoneka zviri nani mumakirasi.",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.overview.title": {
+    "value": "Muchidimbu",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1688333563295,
+        "oldValue": "",
+        "newValue": "Overview"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Overview",
+        "newValue": "Muchidimbu",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.simulation.title": {
+    "value": "Simulation",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1688333563295,
+        "oldValue": "",
+        "newValue": "Simulation"
+      }
+    ]
+  },
+  "preferences.tabs.audio.voicing.titleEnglishOnly": {
+    "value": "Kutaurira (English Chete)",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1688333563295,
+        "oldValue": "",
+        "newValue": "Inzwi (English Only)"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Inzwi (English Only)",
+        "newValue": "Voicing (English Only)",
+        "explanation": null
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689819614720,
+        "oldValue": "Voicing (English Only)",
+        "newValue": "Kutaurira (English Only)",
+        "explanation": null
+      },
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "Kutaurira (English Only)",
+        "newValue": "Kutaurira (English Chete)",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.audio.voicing.description": {
+    "value": "Taura ne nongedza zvidzidzo paurikurura",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1688333563295,
+        "oldValue": "",
+        "newValue": "Voice and highlight content as you interact."
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689819614720,
+        "oldValue": "Voice and highlight content as you interact.",
+        "newValue": "Taura ne nongedza zvidzidzo paurikurura",
+        "explanation": null
+      }
+    ]
+  },
+  "preferences.tabs.localization.regionAndCulture.title": {
+    "value": "Chitendero netsika",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1688467202694,
+        "oldValue": "",
+        "newValue": "Chitendero neTsika"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689817249900,
+        "oldValue": "Chitendero neTsika",
+        "newValue": "Chitendero netsika",
+        "explanation": null
+      }
+    ]
+  },
+  "ieErrorPage.platformError": {
+    "value": "Platform Error",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1689202213368,
+        "oldValue": "",
+        "newValue": "Puratifomu era"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Puratifomu era",
+        "newValue": "Platform Error",
+        "explanation": null
+      }
+    ]
+  },
+  "ieErrorPage.ieIsNotSupported": {
+    "value": "Internet Explorer haishandi",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1689202213368,
+        "oldValue": "",
+        "newValue": "Internet Explorer haitsigirwe"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Internet Explorer haitsigirwe",
+        "newValue": "Internet Explorer haishandi",
+        "explanation": null
+      }
+    ]
+  },
+  "ieErrorPage.useDifferentBrowser": {
+    "value": "Shandisa rimwe browser",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1689202213368,
+        "oldValue": "",
+        "newValue": "Shandisa imwe browser kumhanyisa iyi simulation."
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690557121917,
+        "oldValue": "Shandisa imwe browser kumhanyisa iyi simulation.",
+        "newValue": "Shandisa rimwe browser",
+        "explanation": null
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "Ratidza maPointer",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1689203392560,
+        "oldValue": "",
+        "newValue": "Ratidza maPointer"
+      }
+    ]
+  },
+  "done": {
+    "value": "Zvaita",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1689203392560,
+        "oldValue": "",
+        "newValue": "Ndapedza"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1689911914019,
+        "oldValue": "Ndapedza",
+        "newValue": "Zvaita",
+        "explanation": null
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "Settings",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1689203392560,
+        "oldValue": "",
+        "newValue": "Settings"
+      }
+    ]
+  },
+  "preferences.tabs.localization.title": {
+    "value": "Localization",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1689819614720,
+        "oldValue": "",
+        "newValue": "Localization"
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "Zvisungo, Zvakavanzika & Rezinesi",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Zvisungo, Zvakavanzika & Rezinesi"
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "Rumbidzo dzeDudziro",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Rumbidzo dzeDudziro"
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "Rumbidzo dzeThird-party",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Rumbidzo dzeThird-party"
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "Rumbidzo",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Rumbidzo"
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "Lead Design: {0}",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Lead Design: {0}"
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "Sofutiwe Dhivheropumendi: {0}",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Software Development: {0}"
+      },
+      {
+        "userId": 1135239,
+        "timestamp": 1690860817168,
+        "oldValue": "Software Development: {0}",
+        "newValue": "Sofutiwe Dhivheropumendi: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "Chikwata: {0}",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Chikwata: {0}"
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "Quality Assurance: {0}",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690559671660,
+        "oldValue": "",
+        "newValue": "Quality Assurance: {0}"
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "Kiyibhodhi shotikatsi",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690860817168,
+        "oldValue": "",
+        "newValue": "Kiyibhodhi shotikatsi"
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "kuti zvitange",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690860817168,
+        "oldValue": "",
+        "newValue": "kuti zvitange"
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "Zvibatsiri : {0}",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690860817168,
+        "oldValue": "",
+        "newValue": "Zvibatsiri : {0}"
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "Graphic Arts: {0}",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690860817168,
+        "oldValue": "",
+        "newValue": "Graphic Arts: {0}"
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "Saundi Dhizaini: {0}",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690860817168,
+        "oldValue": "",
+        "newValue": "Saundi Dhizaini: {0}"
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "Kunzwika Kwakawedzera",
+    "history": [
+      {
+        "userId": 1135239,
+        "timestamp": 1690860817168,
+        "oldValue": "",
+        "newValue": "Kunzwika Kwakawedzera"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.theSimulationWillStart": {
+    "value": "Simulation inozotanga netsika dzakagara dziripo dze<br>idzo kwiri parameters.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Simulation inozotanga netsika dzakagara dziripo dze<br>idzo kwiri parameters."
+      }
+    ]
+  },
+  "preferences.title": {
+    "value": "Zvaunoda",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Zvaunoda"
+      }
+    ]
+  },
+  "preferences.tabs.visual.title": {
+    "value": "Zvekuona nemeso",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Zvekuona nemeso"
+      }
+    ]
+  },
+  "preferences.tabs.audio.title": {
+    "value": "Odhiyo",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Odhiyo"
+      }
+    ]
+  },
+  "preferences.tabs.input.title": {
+    "value": "Iniputi",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Iniputi"
+      }
+    ]
+  },
+  "preferences.tabs.audio.audioFeatures.title": {
+    "value": "Maficha eOdhiyo",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Maficha eOdhiyo"
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlights": {
+    "value": "Interactive Highlights",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Interactive Highlights"
+      }
+    ]
+  },
+  "preferences.tabs.visual.interactiveHighlightsDescription": {
+    "value": "Wedzera zvekuona nemeso zvemouse netouch paunenge uchitamba.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Wedzera zvekuona nemeso zvemouse netouch paunenge uchitamba."
+      }
+    ]
+  },
+  "preferences.tabs.general.accessibilityIntro": {
+    "value": "Isu tiri kuwedzera maficha kune yedu simulation kuti iwedzere kusanganisa. Zvimwe zvezvinhu izvi zvinotsigira kuwaniswa kwevadzidzi vane zvido zvakasiyana uye mukati menzvimbo dzakasiyana. Ongorora iyi menyu kuti uongorore kana kushandura marongero emharidzo.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Isu tiri kuwedzera maficha kune yedu simulation kuti iwedzere kusanganisa. Zvimwe zvezvinhu izvi zvinotsigira kuwaniswa kwevadzidzi vane zvido zvakasiyana uye mukati menzvimbo dzakasiyana. Ongorora iyi menyu kuti uongorore kana kushandura marongero emharidzo."
+      }
+    ]
+  },
+  "preferences.tabs.general.moreAccessibility": {
+    "value": "Kuti uwane mamwe masimulations ane anosanganisirwa maficha, tsvaga Access neKusanganisirwa pane simulation firita peji wofirita neficha yekusanganisirwa.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Kuti uwane mamwe masimulations ane anosanganisirwa maficha, tsvaga Access neKusanganisirwa pane simulation firita peji wofirita neficha yekusanganisirwa."
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.title": {
+    "value": "Kurira",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Kurira"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.extraSounds.title": {
+    "value": "Extra kurira",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Extra kurira"
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.description": {
+    "value": "Tamba masonification uye mamiriro ekurira paunenge uchitamba.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Tamba masonification uye mamiriro ekurira paunenge uchitamba."
+      }
+    ]
+  },
+  "preferences.tabs.audio.sounds.extraSounds.description": {
+    "value": "Ridza kumwe kurira kunogona kubatsira kune vamwe vadzidzi.",
+    "history": [
+      {
+        "userId": 1156097,
+        "timestamp": 1691080738177,
+        "oldValue": "",
+        "newValue": "Ridza kumwe kurira kunogona kubatsira kune vamwe vadzidzi."
+      }
+    ]
+  }
+}

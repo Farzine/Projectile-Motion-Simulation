@@ -1,0 +1,86 @@
+{
+  "screen.compare": {
+    "value": "Sammenlign",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1650622492864,
+        "oldValue": "",
+        "newValue": "Sammenlign"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} er mindre end {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1650622492864,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} er mindre end {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} er større end {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1650622492864,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} er større end {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} er lig med {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1650622492864,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} er lig med {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Talsammenligning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1681974883143,
+        "oldValue": "",
+        "newValue": "Talsammenligning"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Hør automatisk tallet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1681974883143,
+        "oldValue": "",
+        "newValue": "Hør automatisk tallet"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Hør tallet update automatisk når du ændrer.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1681974883143,
+        "oldValue": "",
+        "newValue": "Hør tallet update automatisk når du ændre."
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1682325185995,
+        "oldValue": "Hør tallet update automatisk når du ændre.",
+        "newValue": "Hør tallet update automatisk når du ændrer.",
+        "explanation": null
+      }
+    ]
+  }
+}

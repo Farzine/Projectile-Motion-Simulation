@@ -1,0 +1,31 @@
+{
+  "extends": "../../../perennial-alias/tsconfig/tsconfig-node.json",
+  "include": [
+    // Gruntfile and eslint.config.mjs
+    "../../*",
+    "../../js/**/*",
+    /////////////////////////////////////////
+    // Dependencies outside of chipper
+    "../../../perennial-alias/js/common/**/*",
+    "../../../perennial-alias/js/npm-dependencies/**/*",
+    "../../../perennial-alias/js/grunt/tasks/util/**/*",
+    "../../../perennial-alias/js/test/puppeteerQUnit.js",
+    "../../../perennial-alias/js/grunt/typeCheck.ts",
+    "../../../perennial-alias/js/eslint/lint.ts",
+    "../../../perennial-alias/js/eslint/divideIntoBatches.ts",
+    "../../../perennial-alias/js/eslint/getLintCLIOptions.ts",
+    "../../../perennial-alias/js/grunt/tasks/lint.ts",
+    "../../../tandem/js/phet-io-types.ts"
+  ],
+  "exclude": [
+    "../../js/browser/**/*",
+    "../../js/browser-and-node/**/*",
+    "../../../perennial-alias/js/common/Maintenance.ts"
+  ],
+  // DUPLICATION ALERT, any additions here need to be added to ../js/tsconfig.json
+  "references": [
+    {
+      "path": "../../js/browser-and-node/tsconfig.json"
+    }
+  ]
+}

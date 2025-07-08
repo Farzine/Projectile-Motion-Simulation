@@ -1,0 +1,143 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 1029687,
+        "timestamp": 1646079853797,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "Forza su {{thisObject}} da {{otherObject}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1546181802690,
+        "oldValue": "",
+        "newValue": "Forza su {{thisObject}} da {{otherObject}}",
+        "explanation": null
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "Forza su {{thisObject}} da {{otherObject}} = {{value}} N",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1546181802690,
+        "oldValue": "",
+        "newValue": "Forza su {{thisObject}} da {{otherObject}} = {{value}} N",
+        "explanation": null
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "Valori della forza",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1546181802690,
+        "oldValue": "",
+        "newValue": "Valori della forza",
+        "explanation": null
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 1029687,
+        "timestamp": 1646079853798,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1029687,
+        "timestamp": 1646218455294,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "Notazione decimale",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1583587627772,
+        "oldValue": "",
+        "newValue": "Notazione decimale",
+        "explanation": null
+      }
+    ]
+  },
+  "hidden": {
+    "value": "Nascosto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1583587627772,
+        "oldValue": "",
+        "newValue": "Nascosto",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "metro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1572633948041,
+        "oldValue": "",
+        "newValue": "metro",
+        "explanation": null
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "metri",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1572633948041,
+        "oldValue": "",
+        "newValue": "metri",
+        "explanation": null
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "newton",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1572633948041,
+        "oldValue": "",
+        "newValue": "newton",
+        "explanation": null
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "Notazione scientifica",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1583587627772,
+        "oldValue": "",
+        "newValue": "Notazione scientifica",
+        "explanation": null
+      }
+    ]
+  }
+}

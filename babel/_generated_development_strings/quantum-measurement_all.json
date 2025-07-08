@@ -1,0 +1,4209 @@
+{
+  "ar": {
+    "averagePolarizationDialog.title": {
+      "value": "تمثيل الاستقطاب المتوسط"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "العملات الكلاسيكية تبدأ مخفية"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "إظهار المرحلة العالمية"
+    },
+    "quantum-measurement.title": {
+      "value": "القياس الكمي"
+    },
+    "screen.blochSphere": {
+      "value": "كرة بلوخ"
+    },
+    "screen.coins": {
+      "value": "عملات معدنية"
+    },
+    "screen.photons": {
+      "value": "الفوتونات"
+    },
+    "screen.spin": {
+      "value": "يلف"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "قياسات ستيرن-جيرلاخ (SG)"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "الذرة"
+    },
+    "atoms": {
+      "value": "الذرات"
+    },
+    "averagePolarization": {
+      "value": "الاستقطاب المتوسط"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "تُعطي المعادلة قيمةً تتراوح بين +1 و-1. تُمثل هذه القيمة متوسطًا مُرجّحًا لاستقطاب الفوتونات المُكتشفة، إذا عُيّن كل كشف للاستقطاب الرأسي بقيمة +1، وكل كشف للاستقطاب الأفقي بقيمة -1. يُمكن أيضًا تعيين هذه القيمة لتمثيل متجه يقع بين +1 و-1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - عدد الفوتونات التي تم اكتشافها بواسطة كاشف الاستقطاب {{direction}}"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "في معادلة الاستقطاب المتوسط:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - العدد الإجمالي للفوتونات المكتشفة"
+    },
+    "averagePolarizationRate": {
+      "value": "متوسط ​​معدل الاستقطاب"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "الزاوية السمتية ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "أساس:"
+    },
+    "basisState": {
+      "value": "حالة الأساس"
+    },
+    "behavior": {
+      "value": "سلوك"
+    },
+    "blochSphere": {
+      "value": "كرة بلوخ"
+    },
+    "blockDown": {
+      "value": "كتلة لأسفل"
+    },
+    "blockUp": {
+      "value": "كتلة لأعلى"
+    },
+    "classical": {
+      "value": "كلاسيكي"
+    },
+    "classicalCoin": {
+      "value": "عملة كلاسيكية"
+    },
+    "coin": {
+      "value": "عملة"
+    },
+    "coinBias": {
+      "value": "تحيز العملة (الحالة)"
+    },
+    "continuous": {
+      "value": "مستمر"
+    },
+    "custom": {
+      "value": "مخصص"
+    },
+    "decimalValues": {
+      "value": "القيم العشرية"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "قيمة التوقع"
+    },
+    "expectedPercentage": {
+      "value": "النسبة المئوية المتوقعة"
+    },
+    "experimentNPattern": {
+      "value": "التجربة {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "نقف"
+    },
+    "flipAndReveal": {
+      "value": "اقلب واكشف"
+    },
+    "fortyFiveDegrees": {
+      "value": "45 درجة"
+    },
+    "hide": {
+      "value": "يخفي"
+    },
+    "horizontal": {
+      "value": "أفقي"
+    },
+    "identicalCoins": {
+      "value": "عملات متطابقة"
+    },
+    "initialOrientation": {
+      "value": "التوجيه الأولي"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} للتحضير"
+    },
+    "lots": {
+      "value": "الكثير"
+    },
+    "magneticField": {
+      "value": "المجال المغنطيسي"
+    },
+    "manyPhotons": {
+      "value": "العديد من الفوتونات"
+    },
+    "measurementDelay": {
+      "value": "تأخير القياس (ns)"
+    },
+    "mirror": {
+      "value": "مرآة"
+    },
+    "multipleCoinMeasurements": {
+      "value": "قياسات متعددة للعملات المعدنية"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "عملة جديدة"
+    },
+    "none": {
+      "value": "لا أحد"
+    },
+    "numberOfAtoms": {
+      "value": "عدد الذرات"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "يراقب"
+    },
+    "photonPolarizationAngle": {
+      "value": "زاوية استقطاب الفوتون"
+    },
+    "photonSource": {
+      "value": "مصدر الفوتون"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "الزاوية القطبية ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "كاشف الاستقطاب {{orientation}}"
+    },
+    "polarizingBeamSplitter": {
+      "value": "مقسم الشعاع المستقطب"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "إخفاء العملات الكلاسيكية بعد تحضيرها"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "إظهار المرحلة العالمية للحالة الكمومية على شاشة كرة بلوخ"
+    },
+    "preparedState": {
+      "value": "حالة الأستعداد"
+    },
+    "probability": {
+      "value": "احتمال"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "الإسقاط:"
+    },
+    "propagation": {
+      "value": "الانتشار"
+    },
+    "propagationIntoPage": {
+      "value": "الانتشار<br>(في الصفحة)"
+    },
+    "quantum": {
+      "value": "الكم"
+    },
+    "quantumCoinQuoted": {
+      "value": "عملة كمية"
+    },
+    "reprepare": {
+      "value": "أعد التحضير"
+    },
+    "reprepareAndReveal": {
+      "value": "أعد التحضير وراقب"
+    },
+    "reveal": {
+      "value": "يكشف"
+    },
+    "singleCoinMeasurements": {
+      "value": "قياسات العملة الفردية"
+    },
+    "singleParticle": {
+      "value": "جسيم واحد"
+    },
+    "singlePhoton": {
+      "value": "فوتون واحد"
+    },
+    "sourceMode": {
+      "value": "وضع المصدر"
+    },
+    "spinMeasurementAxis": {
+      "value": "محور قياس الدوران"
+    },
+    "spinSource": {
+      "value": "مصدر الدوران 1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "حالة الدوران للتحضير"
+    },
+    "start": {
+      "value": "يبدأ"
+    },
+    "stateToPrepare": {
+      "value": "حالة الاستعداد"
+    },
+    "total": {
+      "value": "المجموع"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "؟"
+    },
+    "unpolarized": {
+      "value": "غير مستقطب"
+    },
+    "vectorRepresentation": {
+      "value": "تمثيل المتجهات"
+    },
+    "vertical": {
+      "value": "رَأسِيّ"
+    }
+  },
+  "bs": {
+    "screen.coins": {
+      "value": "Novčić"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Klasični novčići počinju sakriveni"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Sakrijte klasične novčiće nakon što su pripremljeni"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Prikaži globalnu fazu"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Prikažite globalnu fazu kvantnog stanja na ekranu Blohove sfere"
+    },
+    "classicalCoin": {
+      "value": "Klasični novčić"
+    },
+    "classical": {
+      "value": "Klasično"
+    },
+    "quantumCoinQuoted": {
+      "value": "Kvantni „novčić“"
+    },
+    "quantum": {
+      "value": "Kvantno"
+    },
+    "newCoin": {
+      "value": "Novi novčić"
+    },
+    "singleCoinMeasurements": {
+      "value": "Mjerenja pojedinačnih novčića"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Višestruka mjerenja novčića"
+    },
+    "identicalCoins": {
+      "value": "Identični novčići"
+    },
+    "coin": {
+      "value": "novčić"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} za pripremu"
+    },
+    "preparedState": {
+      "value": "Pripremljeno stanje"
+    },
+    "initialOrientation": {
+      "value": "Početna orijentacija"
+    },
+    "basisState": {
+      "value": "Osnovno stanje"
+    },
+    "coinBias": {
+      "value": "Pristrasnost novčića (stanje)"
+    },
+    "stateToPrepare": {
+      "value": "stanje- priprema"
+    },
+    "probability": {
+      "value": "Vjerovatnoća"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "hide": {
+      "value": "Sakrij"
+    },
+    "reveal": {
+      "value": "Otkrij"
+    },
+    "observe": {
+      "value": "Posmatrajte"
+    },
+    "flip": {
+      "value": "Okretanje"
+    },
+    "reprepare": {
+      "value": "Ponovo pripremi"
+    },
+    "flipAndReveal": {
+      "value": "Okreni i otkrij"
+    },
+    "reprepareAndReveal": {
+      "value": "Ponovo pripremi i posmatraj"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "P": {
+      "value": "P"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "quantum-measurement.title": {
+      "value": "Kvantno mjerenje"
+    },
+    "screen.blochSphere": {
+      "value": "Blohova sfera"
+    },
+    "screen.photons": {
+      "value": "Fotoni"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Štern-Gerlah mjerenje"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "atom"
+    },
+    "atoms": {
+      "value": "atomi"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "Jednačina daje vrijednost između +1 i -1. Ova vrijednost predstavlja ponderisani prosjek polarizacije detektovanih fotona ako je svaka detekcija vertikalne polarizacije mapirana na vrijednost +1, a svaka detekcija horizontalne polarizacije je mapirana na vrijednost -1. Ova vrijednost se takođe može mapirati na vektorsku reprezentaciju koja se nalazi između vrijednosti +1 i -1."
+    }
+  },
+  "ca": {
+    "screen.coins": {
+      "value": "Monedes"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Monedes clàssiques amagades des del principi"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Amaga les monedes clàssiques en ser preparades."
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Mostrar fase global"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Mostra la fase global de l'estat quàntic en la pantalla de l'esfera de Bloch."
+    },
+    "classicalCoin": {
+      "value": "Moneda clàssica"
+    },
+    "classical": {
+      "value": "Clàssic"
+    },
+    "quantumCoinQuoted": {
+      "value": "«Moneda» quàntica"
+    },
+    "quantum": {
+      "value": "Quàntic"
+    },
+    "newCoin": {
+      "value": "Moneda nova"
+    },
+    "singleCoinMeasurements": {
+      "value": "Mesures amb una sola moneda"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Mesures amb múltiples monedes"
+    },
+    "identicalCoins": {
+      "value": "Monedes idèntiques"
+    },
+    "coin": {
+      "value": "Moneda"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} per a preparar"
+    },
+    "preparedState": {
+      "value": "Estat preparat"
+    },
+    "initialOrientation": {
+      "value": "Orientació inicial"
+    },
+    "basisState": {
+      "value": "Estat base"
+    },
+    "hide": {
+      "value": "Amagar"
+    },
+    "reveal": {
+      "value": "Mostrar"
+    },
+    "observe": {
+      "value": "Observar"
+    },
+    "flip": {
+      "value": "Llançar"
+    },
+    "reprepare": {
+      "value": "Repreparar"
+    },
+    "flipAndReveal": {
+      "value": "Llançar i mostrar"
+    },
+    "reprepareAndReveal": {
+      "value": "Repreparar i observar"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "coinBias": {
+      "value": "Tendència de la moneda (estat)"
+    },
+    "stateToPrepare": {
+      "value": "Estat per a preparar"
+    },
+    "probability": {
+      "value": "Probabilitat"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "P": {
+      "value": "P"
+    }
+  },
+  "cs": {
+    "screen.coins": {
+      "value": "Mince"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Klasické mince začínají skrytě"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Skrýt klasické mince po přípravě."
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Zobrazit globální fázi"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Zobrazení globální fáze kvantového stavu na obrazovce Blochovy sféry"
+    },
+    "classicalCoin": {
+      "value": "Klasická mince"
+    },
+    "classical": {
+      "value": "klasické"
+    },
+    "quantumCoinQuoted": {
+      "value": "Kvantové „mince“"
+    },
+    "quantum": {
+      "value": "kvantové"
+    },
+    "newCoin": {
+      "value": "Nová mince"
+    },
+    "singleCoinMeasurements": {
+      "value": "Měření jednotlivé mince"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Měření více mincí"
+    },
+    "identicalCoins": {
+      "value": "Stejné mince"
+    },
+    "coin": {
+      "value": "mince"
+    },
+    "itemToPreparePattern": {
+      "value": "Připravené {{item}}"
+    },
+    "preparedState": {
+      "value": "Připravený stav"
+    },
+    "initialOrientation": {
+      "value": "Počáteční orientace"
+    },
+    "basisState": {
+      "value": "Základní stav"
+    },
+    "coinBias": {
+      "value": "Systematická chyba mince (stavu)"
+    },
+    "stateToPrepare": {
+      "value": "Stav k přípravě"
+    },
+    "probability": {
+      "value": "Pravděpodobnost"
+    },
+    "hide": {
+      "value": "Skrýt"
+    },
+    "observe": {
+      "value": "Pozorovat"
+    },
+    "flip": {
+      "value": "Otočit"
+    },
+    "reprepare": {
+      "value": "Znovu připravit"
+    },
+    "flipAndReveal": {
+      "value": "Otočit a odhalit"
+    },
+    "reprepareAndReveal": {
+      "value": "Znovu připravit a pozorovat"
+    },
+    "reveal": {
+      "value": "Odhalit"
+    },
+    "quantum-measurement.title": {
+      "value": "Kvantové měření"
+    },
+    "averagePolarizationDialog.title": {
+      "value": "Průměrné zastoupení polarizace"
+    },
+    "screen.blochSphere": {
+      "value": "Blochova koule"
+    },
+    "screen.photons": {
+      "value": "Fotony"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Stern-Gerlachova (SG) měření"
+    },
+    "atoms": {
+      "value": "Atomy"
+    },
+    "averagePolarization": {
+      "value": "Průměrná polarizace"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "Výsledkem rovnice je hodnota mezi +1 a -1. Tato hodnota představuje vážený průměr polarizace detekovaných fotonů, pokud je každá detekce vertikální polarizace mapována na hodnotu +1 a každá detekce horizontální polarizace na hodnotu -1. Tuto hodnotu lze také mapovat na vektorovou reprezentaci, která leží mezi hodnotami +1 a -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Počet fotonů detekovaných {{direction}} detektorem polarizace"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "V rovnici pro průměrnou polarizaci:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Celkový počet detekovaných fotonů"
+    },
+    "averagePolarizationRate": {
+      "value": "Průměrná rychlost polarizace"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Azimutální úhel ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Báze"
+    },
+    "behavior": {
+      "value": "Chování"
+    },
+    "blochSphere": {
+      "value": "Blochova koule"
+    },
+    "blockDown": {
+      "value": "Blok dolů"
+    },
+    "blockUp": {
+      "value": "Blok nahoru"
+    },
+    "continuous": {
+      "value": "kontinuální"
+    },
+    "custom": {
+      "value": "vlastní"
+    },
+    "decimalValues": {
+      "value": "Desetinné hodnoty"
+    },
+    "expectationValue": {
+      "value": "Očekávaná hodnota"
+    },
+    "expectedPercentage": {
+      "value": "Očekávané procento"
+    },
+    "horizontal": {
+      "value": "horizontální"
+    },
+    "lots": {
+      "value": "Mnoho"
+    },
+    "magneticField": {
+      "value": "Magnetické pole"
+    },
+    "manyPhotons": {
+      "value": "Mnoho fotonů"
+    },
+    "measurementDelay": {
+      "value": "Zpoždění měření (ns)"
+    },
+    "mirror": {
+      "value": "Zrcadlo"
+    },
+    "none": {
+      "value": "Žádná"
+    },
+    "numberOfAtoms": {
+      "value": "Počet atomů"
+    },
+    "photonPolarizationAngle": {
+      "value": "Polarizační úhel fotonu"
+    },
+    "photonSource": {
+      "value": "Zdroj fotonů"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Polární úhel ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "detektor {{orientation}} <br>polarizace"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Polarizační<br>dělič<br>paprsků"
+    },
+    "projection": {
+      "value": "Projekce:"
+    },
+    "propagation": {
+      "value": "Šíření"
+    },
+    "propagationIntoPage": {
+      "value": "Šíření<br>(do stránky)"
+    },
+    "singleParticle": {
+      "value": "jednotlivá částice"
+    },
+    "singlePhoton": {
+      "value": "Jeden foton"
+    },
+    "sourceMode": {
+      "value": "Režim zdroje"
+    },
+    "spinMeasurementAxis": {
+      "value": "Osa měření spinu"
+    },
+    "spinSource": {
+      "value": "Zdroj spinu -½"
+    },
+    "spinStateToPrepare": {
+      "value": "Připravit stav spinu"
+    },
+    "total": {
+      "value": "Celkem"
+    },
+    "unpolarized": {
+      "value": "nepolarizovaný"
+    },
+    "vectorRepresentation": {
+      "value": "Vektorová reprezentace"
+    },
+    "vertical": {
+      "value": "vertikální"
+    }
+  },
+  "da": {
+    "averagePolarizationDialog.title": {
+      "value": "Gennemsnitlig polariserings-repræsentation"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Klassiske mønter, begynd skjult"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Vis global fase"
+    },
+    "quantum-measurement.title": {
+      "value": "Kvantemåling"
+    },
+    "screen.blochSphere": {
+      "value": "Bloch sfære"
+    },
+    "screen.coins": {
+      "value": "Mønter"
+    },
+    "screen.photons": {
+      "value": "Fotoner"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "H": {
+      "value": "V"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Stern-Gerlach (SG) målinger"
+    },
+    "V": {
+      "value": "L"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atoms": {
+      "value": "Atomer"
+    },
+    "averagePolarization": {
+      "value": "Gennemsnitlig polarisering"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "Ligningen giver en værdi mellem +1 og -1. Denne værdi repræsenterer et vægtet gennemsnit af polariseringen af ​​detekterede fotoner, hvis hver detektion af vertikal polarisation er afbildet til en værdi på +1, og hver detektion af horisontal polarisation er afbildet til en værdi på -1. Denne værdi kan også afbildes som en vektorrepræsentation, der ligger mellem værdien +1 og -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Antal fotoner registreret af {{direction}} polarisationsdetektor"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "I ligningen for gennemsnitlig polarisering:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Samlet antal registrerede fotoner"
+    },
+    "averagePolarizationRate": {
+      "value": "Gennemsnitlig polarisationshastighed"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Azimutvinkel ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Basis:"
+    },
+    "basisState": {
+      "value": "Basis status"
+    },
+    "behavior": {
+      "value": "Opførsel"
+    },
+    "blochSphere": {
+      "value": "Bloch sfære"
+    },
+    "blockDown": {
+      "value": "Blok ned"
+    },
+    "blockUp": {
+      "value": "Blok op"
+    },
+    "classical": {
+      "value": "Klassisk"
+    },
+    "classicalCoin": {
+      "value": "Klassisk mønt"
+    },
+    "coin": {
+      "value": "Mønt"
+    },
+    "coinBias": {
+      "value": "Møntbias (blivende)"
+    },
+    "continuous": {
+      "value": "Vedblivende"
+    },
+    "custom": {
+      "value": "Traditionel"
+    },
+    "decimalValues": {
+      "value": "Decimalværdier"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Forventelig værdi"
+    },
+    "expectedPercentage": {
+      "value": "Forventet procent"
+    },
+    "experimentNPattern": {
+      "value": "Eksperiment {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Kast"
+    },
+    "flipAndReveal": {
+      "value": "Kast og afslør"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Skjul"
+    },
+    "horizontal": {
+      "value": "Vandret"
+    },
+    "identicalCoins": {
+      "value": "Ens mønter"
+    },
+    "initialOrientation": {
+      "value": "Indledende orientering"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} at klargøre"
+    },
+    "lots": {
+      "value": "Mange"
+    },
+    "magneticField": {
+      "value": "Magnetisk felt"
+    },
+    "manyPhotons": {
+      "value": "Mange fotoner"
+    },
+    "measurementDelay": {
+      "value": "Forsinkelse på visning (ns)"
+    },
+    "mirror": {
+      "value": "Spejl"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Visning med flere mønter"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Ny mønt"
+    },
+    "none": {
+      "value": "Ingen"
+    },
+    "numberOfAtoms": {
+      "value": "Antal atomer"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Observér"
+    },
+    "photonPolarizationAngle": {
+      "value": "Foton polarisationsvinkel"
+    },
+    "photonSource": {
+      "value": "Fotonkilde"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Polar vinkel ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "{{orientation}} Polarisations-<br>detektor"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Polariserende<br>stråle<br>opdeler"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Skjul de klassiske mønter efter de er klargjorte"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Vis den globale fase af kvantetilstanden på Bloch sfære-skærmen"
+    },
+    "preparedState": {
+      "value": "Klargjort tilstand"
+    },
+    "probability": {
+      "value": "Sandsynlighed"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Projektion:"
+    },
+    "propagation": {
+      "value": "Udbredelse"
+    },
+    "propagationIntoPage": {
+      "value": "Udbredelse<br>(til side)"
+    },
+    "quantum": {
+      "value": "Kvante"
+    },
+    "quantumCoinQuoted": {
+      "value": "Kvante “mønt”"
+    },
+    "reprepare": {
+      "value": "Gen-klargør"
+    },
+    "reprepareAndReveal": {
+      "value": "Gen-klargør og observér"
+    },
+    "reveal": {
+      "value": "Afslør"
+    },
+    "singleCoinMeasurements": {
+      "value": "Visning af enkeltmønt"
+    },
+    "singleParticle": {
+      "value": "Enkel partikel"
+    },
+    "singlePhoton": {
+      "value": "Enkel foton"
+    },
+    "sourceMode": {
+      "value": "Kildetilstand"
+    },
+    "spinMeasurementAxis": {
+      "value": "Spin måleakse"
+    },
+    "spinSource": {
+      "value": "Spin-1/2 kilde"
+    },
+    "spinStateToPrepare": {
+      "value": "Spintilstand at klargøre"
+    },
+    "start": {
+      "value": "Start"
+    },
+    "stateToPrepare": {
+      "value": "Tilstand at klargøre"
+    },
+    "total": {
+      "value": "Total"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Upolariseret"
+    },
+    "vectorRepresentation": {
+      "value": "Vektorvisning"
+    },
+    "vertical": {
+      "value": "Lodret"
+    }
+  },
+  "de": {
+    "quantum-measurement.title": {
+      "value": "Quantenmessung"
+    },
+    "averagePolarizationDialog.title": {
+      "value": "Mittlere Polarisationsdarstellung"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Klassische Münzen zu Beginn verdeckt"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Globale Phase anzeigen"
+    },
+    "screen.blochSphere": {
+      "value": "Bloch-Kugel"
+    },
+    "screen.coins": {
+      "value": "Münzen"
+    },
+    "screen.photons": {
+      "value": "Photonen"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Stern-Gerlach (SG) Messung"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atoms": {
+      "value": "Atome"
+    },
+    "averagePolarization": {
+      "value": "Durchschnittliche Polarisation"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "Die Gleichung ergibt einen Wert zwischen +1 und -1. Dieser Wert stellt einen gewichteten Durchschnitt der Polarisation der detektierten Photonen dar, wenn jeder Nachweis der vertikalen Polarisation auf einen Wert von +1 und jeder Nachweis der horizontalen Polarisation auf einen Wert von -1 abgebildet ist. Dieser Wert kann auch einer Vektordarstellung zugeordnet werden, die zwischen dem Wert von +1 und -1 liegt."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Anzahl der Photonen, die vom {{direction}} Polarisationsdetektor erfasst werden"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "In der Gleichung für die durchschnittliche Polarisation:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Gesamtzahl der erkannten Photonen"
+    },
+    "averagePolarizationRate": {
+      "value": "Durchschnittliche Polarisationsrate"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Azimutwinkel ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Basis:"
+    },
+    "basisState": {
+      "value": "Basis Zustand"
+    },
+    "behavior": {
+      "value": "Verhalten"
+    },
+    "blochSphere": {
+      "value": "Bloch-Kugel"
+    },
+    "blockDown": {
+      "value": "Unten blockieren"
+    },
+    "blockUp": {
+      "value": "Oben blockieren"
+    },
+    "classical": {
+      "value": "Klassisch"
+    },
+    "classicalCoin": {
+      "value": "Klassische Münze"
+    },
+    "coin": {
+      "value": "Münze"
+    },
+    "coinBias": {
+      "value": "Münzbasis (Zustand)"
+    },
+    "continuous": {
+      "value": "Kontinuierlich"
+    },
+    "custom": {
+      "value": "selbst gewählt"
+    },
+    "decimalValues": {
+      "value": "Zahlenwerte"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Erwartungswert"
+    },
+    "expectedPercentage": {
+      "value": "Erwarteter Prozentsatz"
+    },
+    "experimentNPattern": {
+      "value": "Experiment {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Werfen"
+    },
+    "flipAndReveal": {
+      "value": "Werfen und aufdecken"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Verdecken"
+    },
+    "horizontal": {
+      "value": "Horizontal"
+    },
+    "identicalCoins": {
+      "value": "Identische Münzen"
+    },
+    "initialOrientation": {
+      "value": "Startausrichtung"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} zum präparieren"
+    },
+    "lots": {
+      "value": "Viele"
+    },
+    "magneticField": {
+      "value": "Magnetfeld"
+    },
+    "manyPhotons": {
+      "value": "Viele Photonen"
+    },
+    "measurementDelay": {
+      "value": "Messverzögerung (ns)"
+    },
+    "mirror": {
+      "value": "Spiegel"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Messungen vieler Münzen"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Neue Münze"
+    },
+    "none": {
+      "value": "keine"
+    },
+    "numberOfAtoms": {
+      "value": "Anzahl der Atome"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Beobachten"
+    },
+    "photonPolarizationAngle": {
+      "value": "Polarisationswinkel der Photonen"
+    },
+    "photonSource": {
+      "value": "Photonenquelle"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Polarisationswinkel ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "{{orientation}} Polarisation<br>Detektor"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Polarisierender<br>Strahl<br>Teiler"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Klassische Münzen verdecken, nachdem sie präpariert wurden."
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Globale Phase des Quantenzustandes auf der Bloch-Kugel anzeigen"
+    },
+    "preparedState": {
+      "value": "Präparierter Zustand"
+    },
+    "probability": {
+      "value": "Wahrscheinlichkeit"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Projektion:"
+    },
+    "propagation": {
+      "value": "Ausbreitung"
+    },
+    "propagationIntoPage": {
+      "value": "Ausbreitung<br>(in die Seite)"
+    },
+    "quantum": {
+      "value": "Quant"
+    },
+    "quantumCoinQuoted": {
+      "value": "Quanten „Münze“"
+    },
+    "reprepare": {
+      "value": "Erneut präparieren"
+    },
+    "reprepareAndReveal": {
+      "value": "Erneut präparieren und beobachten"
+    },
+    "reveal": {
+      "value": "Aufdecken"
+    },
+    "singleCoinMeasurements": {
+      "value": "Messungen einzelner Münzen"
+    },
+    "singleParticle": {
+      "value": "Einzelnes Teilchen"
+    },
+    "singlePhoton": {
+      "value": "Einzelnes Photon"
+    },
+    "sourceMode": {
+      "value": "Quellmodus"
+    },
+    "spinMeasurementAxis": {
+      "value": "Spin-Messachse"
+    },
+    "spinSource": {
+      "value": "Spin-1/2 Quelle"
+    },
+    "spinStateToPrepare": {
+      "value": "Spin-Zustand zum präparieren"
+    },
+    "start": {
+      "value": "Start"
+    },
+    "stateToPrepare": {
+      "value": "Zustand zum präparieren"
+    },
+    "total": {
+      "value": "Insgesamt"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Unpolarisiert"
+    },
+    "vectorRepresentation": {
+      "value": "Vektordarstellung"
+    },
+    "vertical": {
+      "value": "Vertikal"
+    }
+  },
+  "es": {
+    "averagePolarizationDialog.title": {
+      "value": "Representación de Polarización Promedio"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Las Monedas Clásicas Empiezan Ocultas"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Mostrar Fase Global"
+    },
+    "quantum-measurement.title": {
+      "value": "Medición Cuántica"
+    },
+    "screen.blochSphere": {
+      "value": "Esfera de Bloch"
+    },
+    "screen.coins": {
+      "value": "Monedas"
+    },
+    "screen.photons": {
+      "value": "Fotones"
+    },
+    "screen.spin": {
+      "value": "Espín"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Mediciones de Stern-Gerlach (SG)"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "atoms": {
+      "value": "Átomos"
+    },
+    "averagePolarization": {
+      "value": "Polarización Promedio"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "La ecuación produce un valor entre +1 y -1. Este valor representa un promedio ponderado de la polarización de los fotones detectados si cada detección de polarización vertical se asigna a un valor de +1 y cada detección de polarización horizontal se asigna a un valor de -1. Este valor también se puede asignar a una representación vectorial que se encuentra entre el valor de +1 y -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Número de fotones detectados por el Detector de Polarización {{direction}}"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "En la ecuación para la polarización promedio:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Número total de fotones detectados"
+    },
+    "averagePolarizationRate": {
+      "value": "Tasa de Polarización Promedio"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Ángulo Azimutal ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Base:"
+    },
+    "basisState": {
+      "value": "Estado Base"
+    },
+    "behavior": {
+      "value": "Comportamiento"
+    },
+    "blochSphere": {
+      "value": "Esfera de Bloch"
+    },
+    "blockDown": {
+      "value": "Bloquear Abajo"
+    },
+    "blockUp": {
+      "value": "Bloquear Arriba"
+    },
+    "classical": {
+      "value": "Clásico"
+    },
+    "classicalCoin": {
+      "value": "Moneda Clásica"
+    },
+    "coin": {
+      "value": "Moneda"
+    },
+    "coinBias": {
+      "value": "Sesgo de la Moneda (Estado)"
+    },
+    "continuous": {
+      "value": "Continuo"
+    },
+    "custom": {
+      "value": "Personalizado"
+    },
+    "decimalValues": {
+      "value": "Valores Decimales"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Valor Esperado"
+    },
+    "expectedPercentage": {
+      "value": "Porcentaje Esperado"
+    },
+    "experimentNPattern": {
+      "value": "Experimento {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Girar"
+    },
+    "flipAndReveal": {
+      "value": "Girar y Revelar"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Ocultar"
+    },
+    "horizontal": {
+      "value": "Horizontal"
+    },
+    "identicalCoins": {
+      "value": "Monedas Idénticas"
+    },
+    "initialOrientation": {
+      "value": "Orientación Inicial"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} para Preparar"
+    },
+    "lots": {
+      "value": "Muchas"
+    },
+    "magneticField": {
+      "value": "Campo Magnético"
+    },
+    "manyPhotons": {
+      "value": "Muchos Fotones"
+    },
+    "measurementDelay": {
+      "value": "Retraso de Medición (ns)"
+    },
+    "mirror": {
+      "value": "Espejo"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Medición con Múltiples Monedas"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Nueva Moneda"
+    },
+    "none": {
+      "value": "Ninguna"
+    },
+    "numberOfAtoms": {
+      "value": "Número de Átomos"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Observar"
+    },
+    "photonPolarizationAngle": {
+      "value": "Ángulo de Polarización del Fotón"
+    },
+    "photonSource": {
+      "value": "Fuente de Fotones"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Ángulo Polar ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "Polarización {{orientation}}<br>Detector"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Divisor de Haz<br>Polarizante"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Ocultar las monedas clásicas después de prepararlas"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Mostrar la fase global del estado cuántico en la pantalla de la Esfera de Bloch"
+    },
+    "preparedState": {
+      "value": "Estado Preparado"
+    },
+    "probability": {
+      "value": "Probabilidad"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Proyección:"
+    },
+    "propagation": {
+      "value": "Propagación"
+    },
+    "propagationIntoPage": {
+      "value": "Propagación<br>(hacia la página)"
+    },
+    "quantum": {
+      "value": "Cuántico"
+    },
+    "quantumCoinQuoted": {
+      "value": "\"Moneda\" Cuántica"
+    },
+    "reprepare": {
+      "value": "Volver a Preparar"
+    },
+    "reprepareAndReveal": {
+      "value": "Volver a Preparar y Observar"
+    },
+    "reveal": {
+      "value": "Revelar"
+    },
+    "singleCoinMeasurements": {
+      "value": "Mediciones de una Sola Moneda"
+    },
+    "singleParticle": {
+      "value": "Partícula Individual"
+    },
+    "singlePhoton": {
+      "value": "Un Fotón"
+    },
+    "sourceMode": {
+      "value": "Modo de la fuente"
+    },
+    "spinMeasurementAxis": {
+      "value": "Eje de Medición de Espín"
+    },
+    "spinSource": {
+      "value": "Fuente de Espín-1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "Estado de Espín a Preparar"
+    },
+    "start": {
+      "value": "Iniciar"
+    },
+    "stateToPrepare": {
+      "value": "Estado a Preparar"
+    },
+    "total": {
+      "value": "Total"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Sin polarizar"
+    },
+    "vectorRepresentation": {
+      "value": "Representación Vectorial"
+    },
+    "vertical": {
+      "value": "Vertical"
+    }
+  },
+  "es_PE": {
+    "quantum-measurement.title": {
+      "value": "Medición cuántica"
+    },
+    "averagePolarizationDialog.title": {
+      "value": "Representación de polarización promedio"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Las monedas clásicas comienzan ocultas"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Mostrar fase global"
+    },
+    "screen.blochSphere": {
+      "value": "Esfera de Bloch"
+    },
+    "screen.coins": {
+      "value": "Monedas"
+    },
+    "screen.photons": {
+      "value": "Fotones"
+    },
+    "screen.spin": {
+      "value": "Girar"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Mediciones de Stern-Gerlach (SG)"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "atoms": {
+      "value": "Átomos"
+    },
+    "averagePolarization": {
+      "value": "Polarización media"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "La ecuación arroja un valor entre +1 y -1. Este valor representa un promedio ponderado de la polarización de los fotones detectados si cada detección de polarización vertical se asigna a un valor de +1 y cada detección de polarización horizontal a un valor de -1. Este valor también puede asignarse a una representación vectorial comprendida entre +1 y -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Número de fotones detectados por el detector de polarización {{direction}}"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "En la ecuación de polarización promedio:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Número total de fotones detectados"
+    },
+    "averagePolarizationRate": {
+      "value": "Tasa de polarización promedio"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Ángulo azimutal ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Base:"
+    },
+    "basisState": {
+      "value": "Estado base"
+    },
+    "behavior": {
+      "value": "Comportamiento"
+    },
+    "blochSphere": {
+      "value": "Esfera de Bloch"
+    },
+    "blockDown": {
+      "value": "Bloquear hacia abajo"
+    },
+    "blockUp": {
+      "value": "Bloquear"
+    },
+    "classical": {
+      "value": "Clásico"
+    },
+    "classicalCoin": {
+      "value": "Moneda clásica"
+    },
+    "coin": {
+      "value": "Moneda"
+    },
+    "coinBias": {
+      "value": "Sesgo de la moneda (estado)"
+    },
+    "continuous": {
+      "value": "Continuo"
+    },
+    "custom": {
+      "value": "Convención"
+    },
+    "decimalValues": {
+      "value": "Valores decimales"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Valor esperado"
+    },
+    "expectedPercentage": {
+      "value": "Porcentaje esperado"
+    },
+    "experimentNPattern": {
+      "value": "Experimento {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Voltear"
+    },
+    "flipAndReveal": {
+      "value": "Voltear y revelar"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Ocultar"
+    },
+    "horizontal": {
+      "value": "Horizontal"
+    },
+    "identicalCoins": {
+      "value": "Monedas idénticas"
+    },
+    "initialOrientation": {
+      "value": "Orientación inicial"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} para preparar"
+    },
+    "lots": {
+      "value": "Muchos"
+    },
+    "magneticField": {
+      "value": "Campo Magnético"
+    },
+    "manyPhotons": {
+      "value": "Muchos fotones"
+    },
+    "measurementDelay": {
+      "value": "Retardo de medición (ns)"
+    },
+    "mirror": {
+      "value": "Espejo"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Mediciones de monedas múltiples"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Nueva moneda"
+    },
+    "none": {
+      "value": "Ninguno"
+    },
+    "numberOfAtoms": {
+      "value": "Número de átomos"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Observar"
+    },
+    "photonPolarizationAngle": {
+      "value": "Ángulo de polarización del fotón"
+    },
+    "photonSource": {
+      "value": "Fuente de fotones"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Ángulo polar ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "{{orientation}} Detector de<br>polarización"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Divisor de haz polarizador"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Esconder las monedas clásicas después de prepararlas"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Muestra la fase global del estado cuántico en la pantalla de la Esfera de Bloch"
+    },
+    "preparedState": {
+      "value": "Estado preparado"
+    },
+    "probability": {
+      "value": "Probabilidad"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Proyección:"
+    },
+    "propagation": {
+      "value": "Propagación"
+    },
+    "propagationIntoPage": {
+      "value": "Propagación<br>(en la página)"
+    },
+    "quantum": {
+      "value": "Cuántico"
+    },
+    "quantumCoinQuoted": {
+      "value": "\"Moneda\" cuántica"
+    },
+    "reprepare": {
+      "value": "Preparar nuevamente"
+    },
+    "reprepareAndReveal": {
+      "value": "Preparar nuevamente y observar"
+    },
+    "reveal": {
+      "value": "Revelar"
+    },
+    "singleCoinMeasurements": {
+      "value": "Medidas de una sola moneda"
+    },
+    "singleParticle": {
+      "value": "Partícula individual"
+    },
+    "singlePhoton": {
+      "value": "Fotón individual"
+    },
+    "sourceMode": {
+      "value": "Modo fuente"
+    },
+    "spinMeasurementAxis": {
+      "value": "Eje de medición de giro"
+    },
+    "spinSource": {
+      "value": "Fuente de espín 1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "Estado de giro para prepararse"
+    },
+    "start": {
+      "value": "Comenzar"
+    },
+    "stateToPrepare": {
+      "value": "Estado a prepararse"
+    },
+    "total": {
+      "value": "Total"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "No polarizado"
+    },
+    "vectorRepresentation": {
+      "value": "Representación vectorial"
+    },
+    "vertical": {
+      "value": "Vertical"
+    }
+  },
+  "hi": {
+    "screen.coins": {
+      "value": "सिक्के"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "छिपे हुए प्राचीन सिक्के शुरू करें"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "प्राचीन सिक्के तैयार होने के बाद उन्हें छिपा दें।"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "वैश्विक स्तिथि दर्शाएं"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "ब्लॉक स्फीयर स्क्रीन पर क्वांटम अवस्था की वैश्विक स्तिथि दर्शाएं"
+    },
+    "classicalCoin": {
+      "value": "प्राचीन सिक्के"
+    },
+    "classical": {
+      "value": "प्राचीन"
+    },
+    "quantumCoinQuoted": {
+      "value": "क्वांटम सिक्के"
+    },
+    "quantum": {
+      "value": "क्वांटम"
+    },
+    "newCoin": {
+      "value": "नये सिक्के"
+    },
+    "singleCoinMeasurements": {
+      "value": "एक सिक्के का माप"
+    },
+    "multipleCoinMeasurements": {
+      "value": "एकाधिक सिक्कों का माप"
+    },
+    "identicalCoins": {
+      "value": "एक जैसे सिक्के"
+    },
+    "coin": {
+      "value": "सिक्के"
+    },
+    "itemToPreparePattern": {
+      "value": "तैयारी करने के लिए {{item}}"
+    },
+    "preparedState": {
+      "value": "तैयार अवस्था"
+    },
+    "initialOrientation": {
+      "value": "आरंभिक अवस्था"
+    },
+    "basisState": {
+      "value": "साधारण अवस्था"
+    },
+    "coinBias": {
+      "value": "खोटा सिक्का (अवस्था)"
+    },
+    "stateToPrepare": {
+      "value": "तैयारी की अवस्था"
+    },
+    "probability": {
+      "value": "प्रायिकता"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "hide": {
+      "value": "छिपाओ"
+    },
+    "reveal": {
+      "value": "दर्शाओ"
+    },
+    "observe": {
+      "value": "निरीक्षण"
+    },
+    "flip": {
+      "value": "पलटो"
+    },
+    "reprepare": {
+      "value": "पुनः तैयारी करें"
+    },
+    "flipAndReveal": {
+      "value": "दर्शाओ और पलटो"
+    },
+    "reprepareAndReveal": {
+      "value": "पुनः तैयारी करें और निरीक्षण करें"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "P": {
+      "value": "P"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    }
+  },
+  "it": {
+    "averagePolarizationDialog.title": {
+      "value": "Rappresentazione della polarizzazione media"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Avvia con le monetine classiche nascoste"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Mostra la fase totale"
+    },
+    "quantum-measurement.title": {
+      "value": "Misurazione quantistica"
+    },
+    "screen.blochSphere": {
+      "value": "Sfera di Bloch"
+    },
+    "screen.coins": {
+      "value": "Monetine"
+    },
+    "screen.photons": {
+      "value": "Fotoni"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Esperimento di Stern-Gerlach (SG)"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "Atomo"
+    },
+    "atoms": {
+      "value": "Atomi"
+    },
+    "averagePolarization": {
+      "value": "Polarizzazione media"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "La formula restituisce un valore compreso tra +1 e -1. Questo valore rappresenta una media ponderata della polarizzazione dei fotoni rilevati se ad ogni rilevamento di polarizzazione verticale viene associato il valore  +1 e ad ogni rilevamento di polarizzazione orizzontale viene associato il valore  -1. Questo valore può anche essere associato ad una rappresentazione vettoriale compresa tra +1 e -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Numero di fotoni rilevati dal Rilevatore di Polarizzazione {{direction}}"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "Nell'equazione per la polarizzazione media:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Numero totale di fotoni rilevati"
+    },
+    "averagePolarizationRate": {
+      "value": "Tasso di polarizzazione media"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Angolo azimutale ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Base:"
+    },
+    "basisState": {
+      "value": "Stato fondamentale"
+    },
+    "behavior": {
+      "value": "Comportamento"
+    },
+    "blochSphere": {
+      "value": "Sfera di Bloch"
+    },
+    "blockDown": {
+      "value": "Blocca in basso"
+    },
+    "blockUp": {
+      "value": "Blocca in alto"
+    },
+    "classical": {
+      "value": "Classico"
+    },
+    "classicalCoin": {
+      "value": "Monetina classica"
+    },
+    "coin": {
+      "value": "Monetina"
+    },
+    "coinBias": {
+      "value": "Sbilanciamento della moneta (Stato)"
+    },
+    "continuous": {
+      "value": "Continuo"
+    },
+    "custom": {
+      "value": "Personalizza"
+    },
+    "decimalValues": {
+      "value": "Valori decimali"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Valore atteso"
+    },
+    "expectedPercentage": {
+      "value": "Percentuale prevista"
+    },
+    "experimentNPattern": {
+      "value": "Esperimento {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Lancia"
+    },
+    "flipAndReveal": {
+      "value": "Lancia e mostra"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Nascondi"
+    },
+    "horizontal": {
+      "value": "Orizzontale"
+    },
+    "identicalCoins": {
+      "value": "Monete identiche"
+    },
+    "initialOrientation": {
+      "value": "Orientamento iniziale"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} da preparare"
+    },
+    "lots": {
+      "value": "Molti"
+    },
+    "magneticField": {
+      "value": "Campo magnetico"
+    },
+    "manyPhotons": {
+      "value": "Molti fotoni"
+    },
+    "measurementDelay": {
+      "value": "Ritardo nella misura (ns)"
+    },
+    "mirror": {
+      "value": "Specchio"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Misurazioni con più monetine"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Nuova moneta"
+    },
+    "none": {
+      "value": "Nessuno"
+    },
+    "numberOfAtoms": {
+      "value": "Numero di atomi"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Osserva"
+    },
+    "photonPolarizationAngle": {
+      "value": "Angolo di polarizzazione del fotone"
+    },
+    "photonSource": {
+      "value": "Sorgente di fotoni"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Angolo Polare  ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "Rivelatore di polarizzazione <br>{{orientation}}"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Separatore<br>del fascio<br>polarizzato"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Nascondi le monete classiche dopo averle preparate"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Mostra la fase globale dello stato quantico sullo schermo della Sfera Bloch"
+    },
+    "preparedState": {
+      "value": "Stato preparato"
+    },
+    "probability": {
+      "value": "Probabilità"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Proiezione:"
+    },
+    "propagation": {
+      "value": "Propagazione"
+    },
+    "propagationIntoPage": {
+      "value": "Propagazione<br>(entrante rispetto alla pagina)"
+    },
+    "quantum": {
+      "value": "Quantistico"
+    },
+    "quantumCoinQuoted": {
+      "value": "\"Monetina\" quantistica"
+    },
+    "reprepare": {
+      "value": "Riprepara"
+    },
+    "reprepareAndReveal": {
+      "value": "Riprepara ed osserva"
+    },
+    "reveal": {
+      "value": "Mostra"
+    },
+    "singleCoinMeasurements": {
+      "value": "Misurazioni con singola monetina"
+    },
+    "singleParticle": {
+      "value": "Particella singola"
+    },
+    "singlePhoton": {
+      "value": "Fotone singolo"
+    },
+    "sourceMode": {
+      "value": "Modalità sorgente"
+    },
+    "spinMeasurementAxis": {
+      "value": "Asse di misurazione dello spin"
+    },
+    "spinSource": {
+      "value": "Sorgente spin-1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "Prepara la stato dello spin"
+    },
+    "start": {
+      "value": "Via"
+    },
+    "stateToPrepare": {
+      "value": "Stato da preparare"
+    },
+    "total": {
+      "value": "Totale"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Non polarizzato"
+    },
+    "vectorRepresentation": {
+      "value": "Rappresentazione vettoriale"
+    },
+    "vertical": {
+      "value": "Verticale"
+    }
+  },
+  "ko": {
+    "averagePolarizationDialog.title": {
+      "value": "평균 분극 표현"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "고전 동전이 숨겨지기 시작한다"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "전체 시스템의 위상을 나타내는 시각적 표시"
+    },
+    "quantum-measurement.title": {
+      "value": "양자 측정"
+    },
+    "screen.blochSphere": {
+      "value": "블로흐 구"
+    },
+    "screen.coins": {
+      "value": "동전"
+    },
+    "screen.photons": {
+      "value": "광자"
+    },
+    "screen.spin": {
+      "value": "스핀"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "슈테른-겔라흐 측정"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "원자"
+    },
+    "atoms": {
+      "value": "원자들"
+    },
+    "averagePolarization": {
+      "value": "평균 분광"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "이 방정식은 +1과 -1 사이의 값을 산출합니다. 이 값은 수직 편광의 각 검출을 +1 값에 매핑하고 수평 편광의 각 검출을 -1 값에 매핑하는 경우 감지된 광자의 편광의 가중 평균을 나타냅니다. 이 값은 또한 +1과 -1 사이의 값에 놓이는 벡터 표현에 매핑될 수도 있습니다."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - {{direction}} 편광 검출기로 감지된 광자 수"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "평균 편극에 대한 방정식에서:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - 감지된 총 광자 수"
+    },
+    "averagePolarizationRate": {
+      "value": "평균 편광 비율"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "방위각 ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "기초"
+    },
+    "basisState": {
+      "value": "기초상태"
+    },
+    "behavior": {
+      "value": "행동"
+    },
+    "blochSphere": {
+      "value": "블로흐 구"
+    },
+    "blockDown": {
+      "value": "블록 다운"
+    },
+    "blockUp": {
+      "value": "블록 업"
+    },
+    "classical": {
+      "value": "전통적인"
+    },
+    "classicalCoin": {
+      "value": "전통적 동전"
+    },
+    "coin": {
+      "value": "동전"
+    },
+    "coinBias": {
+      "value": "주화 편향 (상태)"
+    },
+    "continuous": {
+      "value": "계속적인"
+    },
+    "custom": {
+      "value": "관례"
+    },
+    "decimalValues": {
+      "value": "십진수"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "기대 값"
+    },
+    "expectedPercentage": {
+      "value": "기대 백분률"
+    },
+    "experimentNPattern": {
+      "value": "실험 {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "뒤집기"
+    },
+    "flipAndReveal": {
+      "value": "뒤집어 보이기"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "숨기기"
+    },
+    "horizontal": {
+      "value": "수평의"
+    },
+    "identicalCoins": {
+      "value": "동일 동전"
+    },
+    "initialOrientation": {
+      "value": "초기 오리엔테이션"
+    },
+    "itemToPreparePattern": {
+      "value": "준비할 {{item}}"
+    },
+    "lots": {
+      "value": "많은"
+    },
+    "magneticField": {
+      "value": "자기장"
+    },
+    "manyPhotons": {
+      "value": "많은 광자"
+    },
+    "measurementDelay": {
+      "value": "측정 지연 (ns)"
+    },
+    "mirror": {
+      "value": "거울"
+    },
+    "multipleCoinMeasurements": {
+      "value": "여러 동전 측정"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "새로운 동전"
+    },
+    "none": {
+      "value": "없음"
+    },
+    "numberOfAtoms": {
+      "value": "원자의 수"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "관측하기"
+    },
+    "photonPolarizationAngle": {
+      "value": "광자 편광각"
+    },
+    "photonSource": {
+      "value": "광자원"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "극각 ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "{{orientation}} 편광<br>검측기"
+    },
+    "polarizingBeamSplitter": {
+      "value": "편광<br>빔<br>분산기"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "준비된 고전 동전을 숨기세요."
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "블로흐 구 화면에 양자 상태의 전역 위상을 표시합니다."
+    },
+    "preparedState": {
+      "value": "준비된 상태"
+    },
+    "probability": {
+      "value": "확률"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "투영"
+    },
+    "propagation": {
+      "value": "전파"
+    },
+    "propagationIntoPage": {
+      "value": "전파<br>(into page)"
+    },
+    "quantum": {
+      "value": "양자"
+    },
+    "quantumCoinQuoted": {
+      "value": "양자 동전"
+    },
+    "reprepare": {
+      "value": "준비하기"
+    },
+    "reprepareAndReveal": {
+      "value": "준비하고 관측하기"
+    },
+    "reveal": {
+      "value": "보이기"
+    },
+    "singleCoinMeasurements": {
+      "value": "동전 1개의 관찰"
+    },
+    "singleParticle": {
+      "value": "단일 입지"
+    },
+    "singlePhoton": {
+      "value": "단일 광자"
+    },
+    "sourceMode": {
+      "value": "소스 방식"
+    },
+    "spinMeasurementAxis": {
+      "value": "스핀 측정 축"
+    },
+    "spinSource": {
+      "value": "스핀-1/2 소스"
+    },
+    "spinStateToPrepare": {
+      "value": "준비할 스핀 상태"
+    },
+    "start": {
+      "value": "시작"
+    },
+    "stateToPrepare": {
+      "value": "준비 상태"
+    },
+    "total": {
+      "value": "합계"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "비편광 된"
+    },
+    "vectorRepresentation": {
+      "value": "벡터 표현"
+    },
+    "vertical": {
+      "value": "수직의"
+    }
+  },
+  "nl": {
+    "screen.coins": {
+      "value": "Munten"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Klassieke munten start verbergen"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Verberg de klassieke munten nadat ze voorbereid zijn"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Toon de globale fase"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Toon de globale fase van de quantum status op het Bloch-sfeer \nscherm"
+    },
+    "classicalCoin": {
+      "value": "Klassieke munt"
+    },
+    "classical": {
+      "value": "Klassiek"
+    },
+    "quantumCoinQuoted": {
+      "value": "Quantum \"Munt\""
+    },
+    "newCoin": {
+      "value": "Nieuwe munt"
+    },
+    "singleCoinMeasurements": {
+      "value": "Enkele muntmetingen"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Meerdere muntmetingen"
+    },
+    "identicalCoins": {
+      "value": "Identieke munten"
+    },
+    "coin": {
+      "value": "Munt"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} om voor te bereiden"
+    },
+    "preparedState": {
+      "value": "Voorbereide toestand"
+    },
+    "initialOrientation": {
+      "value": "Initiële oriëntatie"
+    },
+    "basisState": {
+      "value": "Basis toestand"
+    },
+    "hide": {
+      "value": "Verberg"
+    },
+    "reveal": {
+      "value": "Laat zien"
+    },
+    "observe": {
+      "value": "Observeer"
+    },
+    "flip": {
+      "value": "Verwissel"
+    },
+    "reprepare": {
+      "value": "Bereid opnieuw"
+    },
+    "flipAndReveal": {
+      "value": "Verwissel en laat zien"
+    },
+    "reprepareAndReveal": {
+      "value": "Bereid opnieuw en laat zien"
+    },
+    "coinBias": {
+      "value": "Munt voorkeur (toestand)"
+    },
+    "stateToPrepare": {
+      "value": "Toestand om voor te bereiden"
+    },
+    "probability": {
+      "value": "Waarschijnlijkheid"
+    }
+  },
+  "pl": {
+    "averagePolarizationDialog.title": {
+      "value": "Reprezentacja średniej polaryzacji"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Klasyczne monety początkowo są ukryte"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Pokaż fazę globalną"
+    },
+    "quantum-measurement.title": {
+      "value": "Pomiar kwantowy"
+    },
+    "screen.blochSphere": {
+      "value": "Sfera Blocha"
+    },
+    "screen.coins": {
+      "value": "Monety"
+    },
+    "screen.photons": {
+      "value": "Fotony"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "H": {
+      "value": "poz."
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "p"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Pomiary Sterna-Gerlacha (SG)"
+    },
+    "V": {
+      "value": "pion."
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atoms": {
+      "value": "Atomy"
+    },
+    "averagePolarization": {
+      "value": "Średnia polaryzacja"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "Równanie daje wartość pomiędzy +1 a -1. Wartość ta reprezentuje średnią ważoną polaryzacji wykrytych fotonów, jeśli każda detekcja polaryzacji pionowej jest odwzorowana na wartość +1, a każda detekcja polaryzacji poziomej jest odwzorowana na wartość -1. Wartość ta może być również odwzorowana na reprezentację wektorową, która leży pomiędzy wartością +1 i -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Liczba fotonów wykrytych przez detektor polaryzacji: {{direction}}"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "W równaniu na średnią polaryzację:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Całkowita liczba wykrytych fotonów"
+    },
+    "averagePolarizationRate": {
+      "value": "Średnia szybkość polaryzacji"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Kąt azymutalny ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Baza:"
+    },
+    "basisState": {
+      "value": "Stan bazowy"
+    },
+    "behavior": {
+      "value": "Zachowanie"
+    },
+    "blochSphere": {
+      "value": "Sfera Blocha"
+    },
+    "blockDown": {
+      "value": "Blokuj w dół"
+    },
+    "blockUp": {
+      "value": "Blokuj w górę"
+    },
+    "classical": {
+      "value": "Klasyczne"
+    },
+    "classicalCoin": {
+      "value": "Moneta klasyczna"
+    },
+    "coin": {
+      "value": "Moneta"
+    },
+    "coinBias": {
+      "value": "Stronniczość monety (stanu)"
+    },
+    "continuous": {
+      "value": "Ciągle"
+    },
+    "custom": {
+      "value": "Niestandardowy"
+    },
+    "decimalValues": {
+      "value": "Wartości dziesiętne"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Wartość oczekiwana"
+    },
+    "expectedPercentage": {
+      "value": "Oczekiwany procent"
+    },
+    "experimentNPattern": {
+      "value": "Eksperyment {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Rzuć"
+    },
+    "flipAndReveal": {
+      "value": "Rzuć i odkryj"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Ukryj"
+    },
+    "horizontal": {
+      "value": "Poziomy"
+    },
+    "identicalCoins": {
+      "value": "Identyczne monety"
+    },
+    "initialOrientation": {
+      "value": "Orientacja początkowa"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} do przygotowania"
+    },
+    "lots": {
+      "value": "Dużo"
+    },
+    "magneticField": {
+      "value": "Pole magnetyczne"
+    },
+    "manyPhotons": {
+      "value": "Wiele fotonów"
+    },
+    "measurementDelay": {
+      "value": "Opóźnienie pomiaru (ns)"
+    },
+    "mirror": {
+      "value": "Zwierciadło"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Pomiary wielu monet"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Nowa moneta"
+    },
+    "none": {
+      "value": "Nic"
+    },
+    "numberOfAtoms": {
+      "value": "Liczba atomów"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Obserwuj"
+    },
+    "photonPolarizationAngle": {
+      "value": "Kąt polaryzacji fotonu"
+    },
+    "photonSource": {
+      "value": "Źródło fotonów"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Kąt biegunowy ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "Detektor polaryzacji: {{orientation}}"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Polaryzacyjny<br>rozdzielacz<br>wiązki"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Ukryj klasyczne monety po ich przygotowaniu"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Pokaż globalną fazę stanu kwantowego na ekranie sfery Blocha"
+    },
+    "preparedState": {
+      "value": "Przygotowany stan"
+    },
+    "probability": {
+      "value": "Prawdopodobieństwo"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Rzut:"
+    },
+    "propagation": {
+      "value": "Propagacja"
+    },
+    "propagationIntoPage": {
+      "value": "Propagacja<br>(do strony)"
+    },
+    "quantum": {
+      "value": "Kwantowe"
+    },
+    "quantumCoinQuoted": {
+      "value": "\"Moneta\" kwantowa"
+    },
+    "reprepare": {
+      "value": "Przygotuj ponownie"
+    },
+    "reprepareAndReveal": {
+      "value": "Przygotuj ponownie i obserwuj"
+    },
+    "reveal": {
+      "value": "Odkryj"
+    },
+    "singleCoinMeasurements": {
+      "value": "Pomiary pojedynczej monety"
+    },
+    "singleParticle": {
+      "value": "Pojedyncza cząstka"
+    },
+    "singlePhoton": {
+      "value": "Pojedynczy foton"
+    },
+    "sourceMode": {
+      "value": "Tryb źródła"
+    },
+    "spinMeasurementAxis": {
+      "value": "Oś pomiaru spinu"
+    },
+    "spinSource": {
+      "value": "Źródło spin 1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "Stan spinowy do przygotowania"
+    },
+    "start": {
+      "value": "Start"
+    },
+    "stateToPrepare": {
+      "value": "Stan do przygotowania"
+    },
+    "total": {
+      "value": "łącznie"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Niespolaryzowany"
+    },
+    "vectorRepresentation": {
+      "value": "Reprezentacja wektorowa"
+    },
+    "vertical": {
+      "value": "Pionowy"
+    }
+  },
+  "pt_BR": {
+    "quantum-measurement.title": {
+      "value": "Medição Quântica"
+    },
+    "averagePolarizationDialog.title": {
+      "value": "Representação de Polarização Média"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Moedas Clássicas Começam Ocultas"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Mostrar Fase Global"
+    },
+    "screen.blochSphere": {
+      "value": "Esfera de Bloch"
+    },
+    "screen.coins": {
+      "value": "Moedas"
+    },
+    "screen.photons": {
+      "value": "Fótons"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Medidas de Stern-Gerlach (SG)"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "Átomo"
+    },
+    "atoms": {
+      "value": "Átomos"
+    },
+    "averagePolarization": {
+      "value": "Polarização Média"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "A equação produz um valor entre +1 e -1. Este valor representa uma média ponderada da polarização dos fótons detectados se cada detecção de polarização vertical for mapeada para um valor de +1 e cada detecção de polarização horizontal for mapeada para um valor de -1. Este valor também pode ser mapeado para uma representação vetorial que se situe entre os valores de +1 e -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Número de fótons detectados pelo {{direction}} Detector de Polarização"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "Na equação para polarização média:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Número total de fótons detectados"
+    },
+    "averagePolarizationRate": {
+      "value": "Taxa Média de Polarização"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Ângulo Azimutal ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Base:"
+    },
+    "basisState": {
+      "value": "Estado Base"
+    },
+    "behavior": {
+      "value": "Comportamento"
+    },
+    "blochSphere": {
+      "value": "Esfera de Bloch"
+    },
+    "blockDown": {
+      "value": "Bloco para Baixo"
+    },
+    "blockUp": {
+      "value": "Bloco para Cima"
+    },
+    "classical": {
+      "value": "Clássica"
+    },
+    "classicalCoin": {
+      "value": "Moeda Clássica"
+    },
+    "coin": {
+      "value": "Moeda"
+    },
+    "coinBias": {
+      "value": "Lado da Moeda (Estado)"
+    },
+    "continuous": {
+      "value": "Contínuo"
+    },
+    "custom": {
+      "value": "Personalizado"
+    },
+    "decimalValues": {
+      "value": "Valores Decimais"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Valor Esperado"
+    },
+    "expectedPercentage": {
+      "value": "Porcentagem Esperada"
+    },
+    "experimentNPattern": {
+      "value": "Experimento {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Jogar"
+    },
+    "flipAndReveal": {
+      "value": "Jogar e Mostrar"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Ocultar"
+    },
+    "horizontal": {
+      "value": "Horizontal"
+    },
+    "identicalCoins": {
+      "value": "Moedas Idênticas"
+    },
+    "initialOrientation": {
+      "value": "Orientação Inicial"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} para Preparar"
+    },
+    "lots": {
+      "value": "Muitas"
+    },
+    "magneticField": {
+      "value": "Campo Magnético"
+    },
+    "manyPhotons": {
+      "value": "Muitos Prótons"
+    },
+    "measurementDelay": {
+      "value": "Atraso de Medição (ns)"
+    },
+    "mirror": {
+      "value": "Espelho"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Medidas de Moedas Múltiplas"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Nova Moeda"
+    },
+    "none": {
+      "value": "Nenhuma"
+    },
+    "numberOfAtoms": {
+      "value": "Número de Átomos"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Observar"
+    },
+    "photonPolarizationAngle": {
+      "value": "Ângulo de Polarização de Fótons"
+    },
+    "photonSource": {
+      "value": "Fonte de Fótons"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Ângulo Polar ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "{{orientation}} Detector de<br>Polarização"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Divisor<br>de Feixe<br>Polarizador"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Ocultar as moedas clássicas depois de preparadas"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Mostrar a fase global do estado quântico na tela da Esfera de Bloch"
+    },
+    "preparedState": {
+      "value": "Estado Preparado"
+    },
+    "probability": {
+      "value": "Probabilidade"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Projeção:"
+    },
+    "propagation": {
+      "value": "Propagação"
+    },
+    "propagationIntoPage": {
+      "value": "Propagação<br>(na página)"
+    },
+    "quantum": {
+      "value": "Quântico"
+    },
+    "quantumCoinQuoted": {
+      "value": "\"Moeda\" Quântica"
+    },
+    "reprepare": {
+      "value": "Repreparar"
+    },
+    "reprepareAndReveal": {
+      "value": "Repreparar e Observar"
+    },
+    "reveal": {
+      "value": "Revelar"
+    },
+    "singleCoinMeasurements": {
+      "value": "Medidas de Moeda Única"
+    },
+    "singleParticle": {
+      "value": "Partícula Única"
+    },
+    "singlePhoton": {
+      "value": "Fóton Único"
+    },
+    "sourceMode": {
+      "value": "Modo de Fonte"
+    },
+    "spinMeasurementAxis": {
+      "value": "Eixo de Medição de Rotação"
+    },
+    "spinSource": {
+      "value": "Fonte de Spin-1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "Estado do Spin para Preparar"
+    },
+    "start": {
+      "value": "Iniciar"
+    },
+    "stateToPrepare": {
+      "value": "Estado para Preparar"
+    },
+    "total": {
+      "value": "Total"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Não Polarizado"
+    },
+    "vectorRepresentation": {
+      "value": "Representação Vetorial"
+    },
+    "vertical": {
+      "value": "Vertical"
+    }
+  },
+  "ro": {
+    "averagePolarizationDialog.title": {
+      "value": "Reprezentarea polarizării medii"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Se începe cu monedele clasice ascunse"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Afișați faza globală"
+    },
+    "quantum-measurement.title": {
+      "value": "Măsurări cuantice"
+    },
+    "screen.blochSphere": {
+      "value": "Sfera Bloch"
+    },
+    "screen.coins": {
+      "value": "Monede"
+    },
+    "screen.photons": {
+      "value": "Fotoni"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Măsurătorile Stern-Gerlach (SG)"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atoms": {
+      "value": "Atomi"
+    },
+    "averagePolarization": {
+      "value": "Polarizare medie"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "Ecuația generează o valoare între +1 și -1. Această valoare reprezintă o medie ponderată a polarizării fotonilor detectați dacă fiecare detectare a polarizării verticale este asociată cu o valoare de +1 și fiecare detectare a polarizării orizontale este asociată cu o valoare de -1. Această valoare poate fi, de asemenea, asociată cu o reprezentare vectorială care se află între valorile +1 și -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "Numărul de fotoni detectați pe {{direction}} \t{{function}}"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "În ecuația pentru polarizarea medie:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Numărul total de fotoni detectați"
+    },
+    "averagePolarizationRate": {
+      "value": "Rata medie de polarizare"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Unghi azimutal ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Baza:"
+    },
+    "basisState": {
+      "value": "Stare de bază"
+    },
+    "behavior": {
+      "value": "Comportament"
+    },
+    "blochSphere": {
+      "value": "Sfera Bloch"
+    },
+    "blockDown": {
+      "value": "Bloc jos"
+    },
+    "blockUp": {
+      "value": "Bloc sus"
+    },
+    "classical": {
+      "value": "Clasic"
+    },
+    "classicalCoin": {
+      "value": "moneda clasică"
+    },
+    "coin": {
+      "value": "moneda"
+    },
+    "coinBias": {
+      "value": "Monedă ”măsluită” (stare)"
+    },
+    "continuous": {
+      "value": "Continuu"
+    },
+    "custom": {
+      "value": "Personalizat"
+    },
+    "decimalValues": {
+      "value": "Valori zecimale"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Valoarea așteptată"
+    },
+    "expectedPercentage": {
+      "value": "Procent așteptat"
+    },
+    "experimentNPattern": {
+      "value": "Experimentul {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Rotește"
+    },
+    "flipAndReveal": {
+      "value": "Rotește și arată"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Ascunde"
+    },
+    "horizontal": {
+      "value": "orizontală"
+    },
+    "identicalCoins": {
+      "value": "Monede identice"
+    },
+    "initialOrientation": {
+      "value": "Orientare inițială"
+    },
+    "itemToPreparePattern": {
+      "value": "Pregătește {{item}}"
+    },
+    "lots": {
+      "value": "Multe"
+    },
+    "magneticField": {
+      "value": "Câmp magnetic"
+    },
+    "manyPhotons": {
+      "value": "Mai mulți fotoni"
+    },
+    "measurementDelay": {
+      "value": "Întârziere de măsurare (ns)"
+    },
+    "mirror": {
+      "value": "Oglindă"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Măsurători multiple ale monedelor"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Monedă nouă"
+    },
+    "none": {
+      "value": "Niciuna"
+    },
+    "numberOfAtoms": {
+      "value": "Numărul de atomi"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Observă"
+    },
+    "photonPolarizationAngle": {
+      "value": "Unghiul de polarizare al fotonului"
+    },
+    "photonSource": {
+      "value": "Sursă de fotoni"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Unghi polar({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "Detector de polarizare<br>{{orientation}}"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Divizor de <br>fascicul<br> polarizant"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Ascunde monedele clasice după ce acestea sunt pregătite"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Afișați faza globală a stării cuantice pe ecranul sferei Bloch"
+    },
+    "preparedState": {
+      "value": "Stare pregătită"
+    },
+    "probability": {
+      "value": "Probabilitate"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Proiecție:"
+    },
+    "propagation": {
+      "value": "Propagare"
+    },
+    "propagationIntoPage": {
+      "value": "Sens de propagare <br>(în pagină)"
+    },
+    "quantum": {
+      "value": "Cuantic"
+    },
+    "quantumCoinQuoted": {
+      "value": "”moneda” cuantică"
+    },
+    "reprepare": {
+      "value": "Setează"
+    },
+    "reprepareAndReveal": {
+      "value": "Setează și observă"
+    },
+    "reveal": {
+      "value": "Arată"
+    },
+    "singleCoinMeasurements": {
+      "value": "Măsurători pentru o singură monedă"
+    },
+    "singleParticle": {
+      "value": "Particulă unică"
+    },
+    "singlePhoton": {
+      "value": "Un singur foton"
+    },
+    "sourceMode": {
+      "value": "Mod sursă"
+    },
+    "spinMeasurementAxis": {
+      "value": "Axa de măsurare a spinului"
+    },
+    "spinSource": {
+      "value": "Sursa Spin-1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "Pregătește starea spinului"
+    },
+    "start": {
+      "value": "Start"
+    },
+    "stateToPrepare": {
+      "value": "Pregătește starea"
+    },
+    "total": {
+      "value": "total"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Nepolarizat"
+    },
+    "vectorRepresentation": {
+      "value": "Reprezentarea vectorială"
+    },
+    "vertical": {
+      "value": "verticală"
+    }
+  },
+  "sr": {
+    "quantum-measurement.title": {
+      "value": "Квантно мерење"
+    },
+    "screen.blochSphere": {
+      "value": "Блохова сфера"
+    },
+    "screen.coins": {
+      "value": "Новчић"
+    },
+    "screen.photons": {
+      "value": "Фотони"
+    },
+    "screen.spin": {
+      "value": "Спин"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Штерн-Герлах мерење"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "атом"
+    },
+    "atoms": {
+      "value": "атомк"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "Једначина даје вредност између +1 и -1. Ова вредност представља пондерисани просек поларизације детектованих фотона ако је свака детекција вертикалне поларизације мапирана на вредност +1, а свака детекција хоризонталне поларизације је мапирана на вредност -1. Ова вредност се такође може мапирати на векторску репрезентацију која се налази између вредности +1 и -1."
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "experimentNPattern": {
+      "value": "Experiment {{number}} {{order}}"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Прикажите глобалну фазу квантног стања на екрану Блохове сфере"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Број фотона детектованих помоћу {{direction}} поларизационог детектора"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Класични новчићи почињу сакривени"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Сакријте класичне новчиће након што су припремљени"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Прикажи глобалну фазу"
+    },
+    "classicalCoin": {
+      "value": "Класични новчић"
+    },
+    "classical": {
+      "value": "Класичнo"
+    },
+    "quantumCoinQuoted": {
+      "value": "Квантни „новчић“"
+    },
+    "quantum": {
+      "value": "Квантнo"
+    },
+    "newCoin": {
+      "value": "Нови новчић"
+    },
+    "singleCoinMeasurements": {
+      "value": "Мерења појединачних новчића"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Вишеструка мерења новчића"
+    },
+    "identicalCoins": {
+      "value": "Идентични новчићи"
+    },
+    "coin": {
+      "value": "новчић"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} за припрему"
+    },
+    "preparedState": {
+      "value": "Припремљено стање"
+    },
+    "initialOrientation": {
+      "value": "Почетна оријентација"
+    },
+    "basisState": {
+      "value": "Основно стање"
+    },
+    "hide": {
+      "value": "Сакриј"
+    },
+    "reveal": {
+      "value": "Откриј"
+    },
+    "observe": {
+      "value": "Посматрајте"
+    },
+    "flip": {
+      "value": "Окретање"
+    },
+    "reprepare": {
+      "value": "Поново припреми"
+    },
+    "flipAndReveal": {
+      "value": "Окрени и откриј"
+    },
+    "reprepareAndReveal": {
+      "value": "Поново припреми и посматрај"
+    },
+    "coinBias": {
+      "value": "Пристрасност новчића (стање)"
+    },
+    "stateToPrepare": {
+      "value": "стање- припрема"
+    },
+    "probability": {
+      "value": "Вероватноћа"
+    }
+  },
+  "vi": {
+    "averagePolarizationDialog.title": {
+      "value": "Biểu diễn độ phân cực trung bình"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Classical Coins Start Hidden"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Show Global Phase"
+    },
+    "quantum-measurement.title": {
+      "value": "Thí nghiệm lượng tử"
+    },
+    "screen.blochSphere": {
+      "value": "Hình cầu Bloch"
+    },
+    "screen.coins": {
+      "value": "Đồng xu"
+    },
+    "screen.photons": {
+      "value": "Photon"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "H": {
+      "value": "H"
+    },
+    "N": {
+      "value": "N"
+    },
+    "P": {
+      "value": "P"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Thí nghiệm Stern-Gerlach (SG)"
+    },
+    "V": {
+      "value": "V"
+    },
+    "atom": {
+      "value": "Nguyên tử"
+    },
+    "atoms": {
+      "value": "Nguyên tử"
+    },
+    "averagePolarization": {
+      "value": "Độ phân cực trung bình"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "The equation yields a value between +1 and -1. This value represents a weighted average of the polarization of detected photons if each detection of vertical polarization is mapped to a value of +1 and each detection of horizontal polarization is mapped to a value of -1. This value can also be mapped to a vector representation that lies between the value of +1 and -1."
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Số photons theo {{direction}} do máy đo phân cực đếm được"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "Trong phương trình đối với độ phân cực trung bình:"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Tổng số photon đếm được"
+    },
+    "averagePolarizationRate": {
+      "value": "Độ phân cực trung bình"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Góc phương vị ({{symbol}})"
+    },
+    "basisColon": {
+      "value": "Cơ bản:"
+    },
+    "basisState": {
+      "value": "Trạng thái cơ bản"
+    },
+    "behavior": {
+      "value": "Hành trạng"
+    },
+    "blochSphere": {
+      "value": "Hình cầu Bloch"
+    },
+    "blockDown": {
+      "value": "Chặn Down"
+    },
+    "blockUp": {
+      "value": "Chặn Up"
+    },
+    "classical": {
+      "value": "Cổ điển"
+    },
+    "classicalCoin": {
+      "value": "Đồng xu cổ điển"
+    },
+    "coin": {
+      "value": "Đồng xu"
+    },
+    "coinBias": {
+      "value": "Trạng thái đồng xu"
+    },
+    "continuous": {
+      "value": "Liên tục"
+    },
+    "custom": {
+      "value": "Điều chỉnh"
+    },
+    "decimalValues": {
+      "value": "Giá trị thập phân"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Giá trị kỳ vọng"
+    },
+    "expectedPercentage": {
+      "value": "Tỷ lệ kỳ vọng"
+    },
+    "experimentNPattern": {
+      "value": "Thí nghiệm {{number}} {{order}}"
+    },
+    "flip": {
+      "value": "Flip"
+    },
+    "flipAndReveal": {
+      "value": "Flip và hiện kết quả"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Ẩn"
+    },
+    "horizontal": {
+      "value": "Ngang"
+    },
+    "identicalCoins": {
+      "value": "Đồng xu giống nhau"
+    },
+    "initialOrientation": {
+      "value": "Hướng ban đầu"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} để chuẩn bị"
+    },
+    "lots": {
+      "value": "Nhiều"
+    },
+    "magneticField": {
+      "value": "Từ trường"
+    },
+    "manyPhotons": {
+      "value": "Nhiều photon"
+    },
+    "measurementDelay": {
+      "value": "Độ trễ của thời gian đo (ns)"
+    },
+    "mirror": {
+      "value": "Gương"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Thí nghiệm nhiều đồng xu"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "Đồng xu mới"
+    },
+    "none": {
+      "value": "Không có"
+    },
+    "numberOfAtoms": {
+      "value": "Số nguyên tử"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "observe": {
+      "value": "Quan sát"
+    },
+    "photonPolarizationAngle": {
+      "value": "Góc phân cực của photon"
+    },
+    "photonSource": {
+      "value": "Nguồn photon"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Góc cực ({{symbol}})"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "Máy đo<br>độ phân cực {{orientation}}"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Tách<br>chùm<br>phân cực"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Hide the classical coins after they are prepared"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Show the global  phase of the quantum state on the Bloch Sphere screen"
+    },
+    "preparedState": {
+      "value": "Trạng thái đã chuẩn bị"
+    },
+    "probability": {
+      "value": "Xác suất"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "projection": {
+      "value": "Hình chiếu:"
+    },
+    "propagation": {
+      "value": "Phương truyền"
+    },
+    "propagationIntoPage": {
+      "value": "Hướng<br>(vào trang giấy)"
+    },
+    "quantum": {
+      "value": "Lượng tử"
+    },
+    "quantumCoinQuoted": {
+      "value": "\"Xu\" lượng tử"
+    },
+    "reprepare": {
+      "value": "Tái chuẩn bị"
+    },
+    "reprepareAndReveal": {
+      "value": "Tái chuẩn bị và quan sát"
+    },
+    "reveal": {
+      "value": "Hiển thị"
+    },
+    "singleCoinMeasurements": {
+      "value": "Thí nghiệm đồng xu đơn"
+    },
+    "singleParticle": {
+      "value": "Hạt đơn"
+    },
+    "singlePhoton": {
+      "value": "Photon đơn"
+    },
+    "sourceMode": {
+      "value": "Kiểu nguồn"
+    },
+    "spinMeasurementAxis": {
+      "value": "Trục đo spin"
+    },
+    "spinSource": {
+      "value": "Nguồn spin -1/2"
+    },
+    "spinStateToPrepare": {
+      "value": "Trạng thái spin để chuẩn bị"
+    },
+    "start": {
+      "value": "Bắt đầu"
+    },
+    "stateToPrepare": {
+      "value": "Trạng thái để chuẩn bị"
+    },
+    "total": {
+      "value": "Tổng"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "unpolarized": {
+      "value": "Không phân cực"
+    },
+    "vectorRepresentation": {
+      "value": "Biểu diễn vector"
+    },
+    "vertical": {
+      "value": "Dọc"
+    }
+  },
+  "en": {
+    "quantum-measurement.title": {
+      "value": "Quantum Measurement"
+    },
+    "screen.coins": {
+      "value": "Coins"
+    },
+    "screen.photons": {
+      "value": "Photons"
+    },
+    "screen.spin": {
+      "value": "Spin"
+    },
+    "screen.blochSphere": {
+      "value": "Bloch Sphere"
+    },
+    "atom": {
+      "value": "Atom"
+    },
+    "atoms": {
+      "value": "Atoms"
+    },
+    "averagePolarization": {
+      "value": "Average Polarization"
+    },
+    "averagePolarizationRate": {
+      "value": "Average Polarization Rate"
+    },
+    "averagePolarizationDialog.title": {
+      "value": "Average Polarization Representation"
+    },
+    "averagePolarizationDialog.subTitle": {
+      "value": "In the equation for average polarization:"
+    },
+    "averagePolarizationDialog.numberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Number of photons detected by {{direction}} Polarization Detector"
+    },
+    "averagePolarizationDialog.totalNumberOfPhotonsPatternPhrase": {
+      "value": "{{function}} - Total number of photons detected"
+    },
+    "averagePolarizationDialog.explanatoryParagraph": {
+      "value": "The equation yields a value between +1 and -1. This value represents a weighted average of the polarization of detected photons if each detection of vertical polarization is mapped to a value of +1 and each detection of horizontal polarization is mapped to a value of -1. This value can also be mapped to a vector representation that lies between the value of +1 and -1."
+    },
+    "averagePolarizationRepresentation": {
+      "value": "Average Polarization Representation"
+    },
+    "coin": {
+      "value": "Coin"
+    },
+    "coinBias": {
+      "value": "Coin Bias (State)"
+    },
+    "custom": {
+      "value": "Custom"
+    },
+    "decimalValues": {
+      "value": "Decimal Values"
+    },
+    "eventsPerSecondPattern": {
+      "value": "{{value}}/s"
+    },
+    "expectationValue": {
+      "value": "Expectation Value"
+    },
+    "flip": {
+      "value": "Flip"
+    },
+    "flipAndReveal": {
+      "value": "Flip and Reveal"
+    },
+    "fortyFiveDegrees": {
+      "value": "45°"
+    },
+    "hide": {
+      "value": "Hide"
+    },
+    "horizontal": {
+      "value": "Horizontal"
+    },
+    "identicalCoins": {
+      "value": "Identical Coins"
+    },
+    "initialOrientation": {
+      "value": "Initial Orientation"
+    },
+    "basisState": {
+      "value": "Basis State"
+    },
+    "H": {
+      "value": "H"
+    },
+    "itemToPreparePattern": {
+      "value": "{{item}} to Prepare"
+    },
+    "magneticField": {
+      "value": "Magnetic Field"
+    },
+    "manyPhotons": {
+      "value": "Many Photons"
+    },
+    "mirror": {
+      "value": "Mirror"
+    },
+    "multipleCoinMeasurements": {
+      "value": "Multiple Coin Measurements"
+    },
+    "nameAndAbbreviationPattern": {
+      "value": "{{name}} (<b>{{abbreviation}}</b>)"
+    },
+    "newCoin": {
+      "value": "New Coin"
+    },
+    "observe": {
+      "value": "Observe"
+    },
+    "start": {
+      "value": "Start"
+    },
+    "photonPolarizationAngle": {
+      "value": "Photon Polarization Angle"
+    },
+    "polarizationDetectorLabelPattern": {
+      "value": "{{orientation}} Polarization<br>Detector"
+    },
+    "polarizingBeamSplitter": {
+      "value": "Polarizing<br>Beam<br>Splitter"
+    },
+    "propagation": {
+      "value": "Propagation"
+    },
+    "propagationIntoPage": {
+      "value": "Propagation<br>(into page)"
+    },
+    "classical": {
+      "value": "Classical"
+    },
+    "classicalCoin": {
+      "value": "Classical Coin"
+    },
+    "P": {
+      "value": "P"
+    },
+    "photonSource": {
+      "value": "Photon Source"
+    },
+    "preparedState": {
+      "value": "Prepared State"
+    },
+    "probability": {
+      "value": "Probability"
+    },
+    "probabilityOfValuePattern": {
+      "value": "P({{value}})"
+    },
+    "numberOfCoinsPattern": {
+      "value": "N = {{number}}"
+    },
+    "quantum": {
+      "value": "Quantum"
+    },
+    "quantumCoinQuoted": {
+      "value": "Quantum \"Coin\""
+    },
+    "reprepare": {
+      "value": "Reprepare"
+    },
+    "reprepareAndReveal": {
+      "value": "Reprepare and Observe"
+    },
+    "reveal": {
+      "value": "Reveal"
+    },
+    "singleCoinMeasurements": {
+      "value": "Single Coin Measurements"
+    },
+    "singlePhoton": {
+      "value": "Single Photon"
+    },
+    "spinStateToPrepare": {
+      "value": "Spin State to Prepare"
+    },
+    "stateToPrepare": {
+      "value": "State to Prepare"
+    },
+    "V": {
+      "value": "V"
+    },
+    "N": {
+      "value": "N"
+    },
+    "vectorRepresentation": {
+      "value": "Vector Representation"
+    },
+    "vertical": {
+      "value": "Vertical"
+    },
+    "SternGerlachMeasurements": {
+      "value": "Stern-Gerlach (SG) Measurements"
+    },
+    "sourceMode": {
+      "value": "Source Mode"
+    },
+    "spinSource": {
+      "value": "Spin-1/2 Source"
+    },
+    "total": {
+      "value": "Total"
+    },
+    "blochSphere": {
+      "value": "Bloch Sphere"
+    },
+    "unpolarized": {
+      "value": "Unpolarized"
+    },
+    "unknownProbabilitySymbol": {
+      "value": "?"
+    },
+    "projection": {
+      "value": "Projection:"
+    },
+    "blockUp": {
+      "value": "Block Up"
+    },
+    "blockDown": {
+      "value": "Block Down"
+    },
+    "expectedPercentage": {
+      "value": "Expected Percentage"
+    },
+    "none": {
+      "value": "None"
+    },
+    "lots": {
+      "value": "Lots"
+    },
+    "experimentNPattern": {
+      "value": "Experiment {{number}} {{order}}"
+    },
+    "spinMeasurementAxis": {
+      "value": "Spin Measurement Axis"
+    },
+    "basisColon": {
+      "value": "Basis:"
+    },
+    "polarAngleParenthesesSymbolPattern": {
+      "value": "Polar Angle ({{symbol}})"
+    },
+    "azimuthalAngleParenthesesSymbolPattern": {
+      "value": "Azimuthal Angle ({{symbol}})"
+    },
+    "singleParticle": {
+      "value": "Single Particle"
+    },
+    "continuous": {
+      "value": "Continuous"
+    },
+    "behavior": {
+      "value": "Behavior"
+    },
+    "numberOfAtoms": {
+      "value": "Number of Atoms"
+    },
+    "measurementDelay": {
+      "value": "Measurement Delay (ns)"
+    },
+    "preferences.showGlobalPhase.title": {
+      "value": "Show Global Phase"
+    },
+    "preferences.showGlobalPhase.description": {
+      "value": "Show the global phase of the quantum state on the Bloch Sphere screen"
+    },
+    "preferences.classicalCoinsStartHidden.title": {
+      "value": "Classical Coins Start Hidden"
+    },
+    "preferences.classicalCoinsStartHidden.description": {
+      "value": "Hide the classical coins after they are prepared"
+    },
+    "a11y": {
+      "equationAccessibleParagraphPattern": {
+        "value": "{{alpha}} times up state plus {{beta}} times down state."
+      },
+      "singleCoinStatePattern": {
+        "value": "Single coin: {{state}}"
+      },
+      "quantumCoinsAccessibleParagraph": {
+        "value": "Spin State to Prepare (alpha times up state plus beta times down state)"
+      },
+      "preparationAreaHeader": {
+        "classicalCoinToPrepare": {
+          "value": "Classical Coin to Prepare"
+        },
+        "classicalCoin": {
+          "value": "Classical Coin"
+        },
+        "quantumCoinToPrepare": {
+          "value": "Quantum \"Coin\" to Prepare"
+        },
+        "preparedState": {
+          "value": "Prepared State"
+        },
+        "classicalAccessibleParagraphPattern": {
+          "value": "Initial orientation: {{initialCoinFaceState}}. Probability of heads: {{upProbability}}. Probability of tails: {{downProbability}}"
+        },
+        "quantumAccessibleParagraphPattern": {
+          "value": "Initial orientation: {{initialCoinFaceState}}. Probability of up state: {{upProbability}}. Probability of down state: {{downProbability}}"
+        }
+      },
+      "coinsScreen": {
+        "screenButtonsHelpText": {
+          "value": "Play with the Coins Screen"
+        },
+        "coinStates": {
+          "heads": {
+            "value": "Heads"
+          },
+          "tails": {
+            "value": "Tails"
+          },
+          "superposition": {
+            "value": "Superposition"
+          },
+          "up": {
+            "value": "Up"
+          },
+          "down": {
+            "value": "Down"
+          }
+        },
+        "probabilityNumberControls": {
+          "probabilityOfHeads": {
+            "value": "Probability of Heads"
+          },
+          "probabilityOfHeadsHelpText": {
+            "value": "Probability of flipped coin landing on heads"
+          },
+          "probabilityOfTails": {
+            "value": "Probability of Tails"
+          },
+          "probabilityOfTailsHelpText": {
+            "value": "Probability of flipped coin landing on tails"
+          },
+          "probabilityOfUp": {
+            "value": "Probability of Up, Alpha Squared"
+          },
+          "probabilityOfUpHelpText": {
+            "value": "Probability of flipped coin landing on up state"
+          },
+          "probabilityOfDown": {
+            "value": "Probability of Down, Beta Squared"
+          },
+          "probabilityOfDownHelpText": {
+            "value": "Probability of flipped coin landing on down state"
+          }
+        },
+        "initialOrientationHelpText": {
+          "value": "Coin orientation before flipping"
+        },
+        "startMeasurement": {
+          "value": "Start Measurement"
+        },
+        "startMeasurementHelpText": {
+          "value": "Prepare coins to be measured"
+        },
+        "prepareNewCoinHelpText": {
+          "value": "Button to prepare a new coin"
+        },
+        "identicalCoins": {
+          "value": "Identical Coins"
+        },
+        "identicalCoinsHelpText": {
+          "value": "Number of identical coins to prepare"
+        }
+      },
+      "photonsScreen": {
+        "screenButtonsHelpText": {
+          "value": "Play with the Photons Screen"
+        },
+        "photonBehaviorMode": {
+          "value": "Behavior of Photons"
+        },
+        "emitPhotonButton": {
+          "value": "Photon Source"
+        }
+      },
+      "spinScreen": {
+        "screenButtonsHelpText": {
+          "value": "Play with the Spin Screen"
+        }
+      },
+      "blochSphereScreen": {
+        "screenButtonsHelpText": {
+          "value": "Play with the Bloch Sphere Screen"
+        }
+      }
+    }
+  }
+}

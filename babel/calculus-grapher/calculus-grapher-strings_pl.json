@@ -1,0 +1,295 @@
+{
+  "screen.derivative": {
+    "value": "Pochodna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Pochodna"
+      }
+    ]
+  },
+  "screen.integral": {
+    "value": "Całka",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Całka"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Lab",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Lab"
+      }
+    ]
+  },
+  "screen.advanced": {
+    "value": "Zaawansowane",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Zaawansowane"
+      }
+    ]
+  },
+  "discontinuities": {
+    "value": "Nieciągłość",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Nieciągłości"
+      },
+      {
+        "userId": 196556,
+        "timestamp": 1681821668130,
+        "oldValue": "Nieciągłości",
+        "newValue": "Nieciągłość",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Wartości",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Wartości"
+      }
+    ]
+  },
+  "valuesPreferenceDescription": {
+    "value": "Pokazuje wartości na osiach wykresu, linię odniesienia, \"Współczynnik kierunkowy stycznej\" i \"Pole wypadkowe\".",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Pokazuje wartości na osiach wykresu, linię odniesienia, \"Współczynnik kierunkowy stycznej\" i \"Pole wypadkowe\"."
+      }
+    ]
+  },
+  "notation": {
+    "value": "Notacja",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Notacja"
+      }
+    ]
+  },
+  "lagrange": {
+    "value": "Lagrange:",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Lagrange:"
+      }
+    ]
+  },
+  "leibniz": {
+    "value": "Leibniz:",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Leibniz:"
+      }
+    ]
+  },
+  "variable": {
+    "value": "Zmienna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Zmienna"
+      }
+    ]
+  },
+  "predictPreference": {
+    "value": "Przewiduj",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Przewiduj"
+      }
+    ]
+  },
+  "predictPreferenceDescription": {
+    "value": "Dodaje tryb umożliwiający przewidywanie f({{variable}}).",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Dodaje tryb umożliwiający przewidywanie f({{variable}})."
+      }
+    ]
+  },
+  "barometer.slopeOfTangent": {
+    "value": "Współczynnik<br> kierunkowy stycznej",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Współczynnik<br> kierunkowy stycznej"
+      }
+    ]
+  },
+  "checkbox.tangent": {
+    "value": "Styczna",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Styczna"
+      }
+    ]
+  },
+  "barometer.netSignedArea": {
+    "value": "Pole całkowite<br>ze znakiem",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Pole całkowite<br>ze znakiem"
+      }
+    ]
+  },
+  "checkbox.areaUnderCurve": {
+    "value": "Pole powierzchni<br>pod krzywą",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Pole powierzchni<br>pod krzywą"
+      }
+    ]
+  },
+  "symbol.d": {
+    "value": "d",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "d"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.f": {
+    "value": "f",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "f"
+      }
+    ]
+  },
+  "symbol.t": {
+    "value": "t",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "t"
+      }
+    ]
+  },
+  "smooth": {
+    "value": "Gładka",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Gładka"
+      }
+    ]
+  },
+  "predict": {
+    "value": "Przewiduj",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Przewiduj"
+      }
+    ]
+  },
+  "referenceLine": {
+    "value": "Linia<br>odniesienia",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Linia<br>odniesienia"
+      }
+    ]
+  },
+  "show": {
+    "value": "Pokaż",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Pokaż"
+      }
+    ]
+  },
+  "calculus-grapher.title": {
+    "value": "Pochodne i całki - wykresy",
+    "history": [
+      {
+        "userId": 196556,
+        "timestamp": 1681821106198,
+        "oldValue": "",
+        "newValue": "Pochodne i całki - wykresy"
+      }
+    ]
+  }
+}

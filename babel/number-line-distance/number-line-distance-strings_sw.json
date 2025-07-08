@@ -1,0 +1,514 @@
+{
+  "screen.explore": {
+    "value": "Chunguza",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Chunguza"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Kawaida",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Generic"
+      },
+      {
+        "userId": 688388,
+        "timestamp": 1658691347894,
+        "oldValue": "Generic",
+        "newValue": "Jumla"
+      },
+      {
+        "userId": 688388,
+        "timestamp": 1658692489626,
+        "oldValue": "Jumla",
+        "newValue": "Kawaida"
+      }
+    ]
+  },
+  "genericAbsoluteDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} na {{primaryPointControllerLabel}} yako {{difference}} {{units}} kando",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} na {{primaryPointControllerLabel}} yako {{difference}} {{units}} kando"
+      }
+    ]
+  },
+  "genericDirectedPositiveDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} iko chanya zaidi kuliko {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} iko chanya zaidi kuliko {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "genericDirectedNegativeDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} ni hasi zaidi kuliko {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} ni hasi zaidi kuliko {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "unit": {
+    "value": "kizio",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "kitengo"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672932514875,
+        "oldValue": "kitengo",
+        "newValue": "kizio"
+      }
+    ]
+  },
+  "units": {
+    "value": "vizio",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "vitengo"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672932514875,
+        "oldValue": "vitengo",
+        "newValue": "vizio"
+      }
+    ]
+  },
+  "symbol.x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "symbol.y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "symbol.east": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "E"
+      }
+    ]
+  },
+  "symbol.west": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "house": {
+    "value": "nyumba",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "chumba"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672932514875,
+        "oldValue": "chumba",
+        "newValue": "nyumba"
+      }
+    ]
+  },
+  "person": {
+    "value": "mtu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "mtu"
+      }
+    ]
+  },
+  "distanceSceneAbsoluteDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} na  {{primaryPointControllerLabel}} zipo umbali wa {{difference}} {{units}}",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} na  {{primaryPointControllerLabel}} yanatofautiana na kiwango hichi {{difference}} {{units}}"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672932514875,
+        "oldValue": "{{secondaryPointControllerLabel}} na  {{primaryPointControllerLabel}} yanatofautiana na kiwango hichi {{difference}} {{units}}",
+        "newValue": "{{secondaryPointControllerLabel}} na  {{primaryPointControllerLabel}} zipo umbali wa {{difference}} {{units}}"
+      }
+    ]
+  },
+  "distanceSceneDirectedPositiveDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} mashariki mwa {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} mashariki mwa {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "distanceSceneDirectedNegativeDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} magharibi mwa {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} magharibi mwa {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "symbol.meters": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "meter": {
+    "value": "mita",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "mita"
+      }
+    ]
+  },
+  "meters": {
+    "value": "mita",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "mita"
+      }
+    ]
+  },
+  "symbol.A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "symbol.B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "temperatureSceneAbsoluteDistanceTemplate": {
+    "value": "Tofauti ya joto ni {{difference}} {{units}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Tofauti ya joto ni {{difference}} {{units}}."
+      }
+    ]
+  },
+  "temperatureSceneDirectedPositiveDistanceTemplate": {
+    "value": "Mahali {{secondaryPointControllerLabel}} ni  {{difference}} {{units}} joto kuliko mahali  {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Mahali {{secondaryPointControllerLabel}} ni  {{difference}} {{units}} joto kuliko mahali  {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "temperatureSceneDirectedNegativeDistanceTemplate": {
+    "value": "Mahali {{secondaryPointControllerLabel}} ni {{difference}} {{units}} baridi kuliko mahali  {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Mahali {{secondaryPointControllerLabel}} ni {{difference}} {{units}} baridi kuliko mahali  {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "symbol.degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "degree": {
+    "value": "nyuzi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "degree"
+      },
+      {
+        "userId": 688388,
+        "timestamp": 1658691347894,
+        "oldValue": "degree",
+        "newValue": "nyuzi"
+      }
+    ]
+  },
+  "degrees": {
+    "value": "nyuzi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "degrees"
+      },
+      {
+        "userId": 688388,
+        "timestamp": 1658691347894,
+        "oldValue": "degrees",
+        "newValue": "nyuzi"
+      }
+    ]
+  },
+  "fish": {
+    "value": "samaki",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "samaki"
+      }
+    ]
+  },
+  "bird": {
+    "value": "ndege",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "ndege"
+      }
+    ]
+  },
+  "elevationSceneAbsoluteDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} na {{primaryPointControllerLabel}} yako na umbali wima wa {{difference}} {{units}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} na {{primaryPointControllerLabel}} yako na umbali wima wa {{difference}} {{units}}."
+      }
+    ]
+  },
+  "elevationSceneDirectedPositiveDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} juu ya {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} juu ya {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "elevationSceneDirectedNegativeDistanceTemplate": {
+    "value": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} chini ya {{primaryPointControllerLabel}}.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "{{secondaryPointControllerLabel}} ni {{difference}} {{units}} chini ya {{primaryPointControllerLabel}}."
+      }
+    ]
+  },
+  "pointLabels": {
+    "value": "Lebo za Pointi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Lebo za Pointi"
+      }
+    ]
+  },
+  "distanceLabels": {
+    "value": "Lebo za Umbali",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Lebo za Umbali"
+      }
+    ]
+  },
+  "distanceDescription": {
+    "value": "Maelezo ya Umbali",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Maelezo ya Umbali"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Alama za Tiki",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Alama za Vipimo"
+      },
+      {
+        "userId": 688388,
+        "timestamp": 1658691347894,
+        "oldValue": "Alama za Vipimo",
+        "newValue": "Alama za Tiki"
+      }
+    ]
+  },
+  "absoluteValue": {
+    "value": "Kiasi Halisi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Thamani Kabisa"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672932514875,
+        "oldValue": "Thamani Kabisa",
+        "newValue": "Kiasi Halisi"
+      }
+    ]
+  },
+  "directedDistance": {
+    "value": "Umbali ulioelekezwa",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Umbali ulioelekezwa"
+      }
+    ]
+  },
+  "distanceStatement": {
+    "value": "Maelezo ya Umbali",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Taarifa ya Umbali"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672932514875,
+        "oldValue": "Taarifa ya Umbali",
+        "newValue": "Maelezo ya Umbali"
+      }
+    ]
+  },
+  "number-line-distance.title": {
+    "value": "Mstari wa Namba: Umbali",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1658654127825,
+        "oldValue": "",
+        "newValue": "Mstari wa Nambari: Umbali"
+      },
+      {
+        "userId": 1085729,
+        "timestamp": 1672932514875,
+        "oldValue": "Mstari wa Nambari: Umbali",
+        "newValue": "Mstari wa Namba: Umbali"
+      }
+    ]
+  }
+}

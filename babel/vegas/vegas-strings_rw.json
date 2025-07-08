@@ -1,0 +1,377 @@
+{
+  "pattern.0yourBest": {
+    "value": "(Ibyiza byawe:{0})",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Ibyiza byawe {0}"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662924442126,
+        "oldValue": "Ibyiza byawe {0}",
+        "newValue": "(Ibyiza byawe {0})"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1663944700430,
+        "oldValue": "(Ibyiza byawe {0})",
+        "newValue": "(Ibyiza byawe:{0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Ibyiza byawe bishya!)",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Ibyiza byawe bishya!"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662924442126,
+        "oldValue": "Ibyiza byawe bishya!",
+        "newValue": "(Ibyiza byawe bishya!)"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Ikibazo  {0} muri {1}",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651611141100,
+        "oldValue": "",
+        "newValue": "Ikibazo  {0} muri {1}"
+      }
+    ]
+  },
+  "check": {
+    "value": "Suzuma",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651500898986,
+        "oldValue": "",
+        "newValue": "Suzuma"
+      }
+    ]
+  },
+  "continue": {
+    "value": "Gukomeza",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Gukomeza"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Byiza cyane!",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Byiza cyane!"
+      }
+    ]
+  },
+  "good": {
+    "value": "Byiza!",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Byiza"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662925625196,
+        "oldValue": "Byiza",
+        "newValue": "Byiza!"
+      }
+    ]
+  },
+  "great": {
+    "value": "Byiza!",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Byiza!"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Komeza Ugerageze",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "komeza ugerageze"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662925625196,
+        "oldValue": "komeza ugerageze",
+        "newValue": "Komeza Ugerageze"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Urwego: {0}",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Urwego{0}"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662924442126,
+        "oldValue": "Urwego{0}",
+        "newValue": "Urwego:{0}"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1663015646359,
+        "oldValue": "Urwego:{0}",
+        "newValue": "Urwego: {0}"
+      }
+    ]
+  },
+  "next": {
+    "value": "Ibikurikira",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651499985372,
+        "oldValue": "",
+        "newValue": "Ibikurikira"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Amanota:{0} ",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "{0} "
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662926024339,
+        "oldValue": "{0} ",
+        "newValue": "Amanota:{0} "
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Amanota{0} kuri {1}",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "{0} out of {1}"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662926024339,
+        "oldValue": "{0} out of {1}",
+        "newValue": "Amanota{0} kuri {1}"
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Hitamo urwego",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1669464819468,
+        "oldValue": "",
+        "newValue": "Hitamo urwego"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Erekana ibisubizo",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651500898986,
+        "oldValue": "",
+        "newValue": "Erekana ibisubizo"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Tangira",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651611141100,
+        "oldValue": "",
+        "newValue": "Tangira"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Igihe: {0}",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "Igihe {0}"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1662924442126,
+        "oldValue": "Igihe {0}",
+        "newValue": "Igihe: {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Ongera ugerageze",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651500898986,
+        "oldValue": "",
+        "newValue": "Ongera ugerageze"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651491787345,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Hitamo urwego rwawe!",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651499985372,
+        "oldValue": "",
+        "newValue": "Hitamo urwego rwawe"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1663013843318,
+        "oldValue": "Hitamo urwego rwawe",
+        "newValue": "Hitamo urwego rwawe!"
+      }
+    ]
+  },
+  "done": {
+    "value": "Byakozwe",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1663013843318,
+        "oldValue": "",
+        "newValue": "Byakozwe"
+      }
+    ]
+  },
+  "score": {
+    "value": "Amanota:",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651499985372,
+        "oldValue": "",
+        "newValue": "Amanota"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1663013843318,
+        "oldValue": "Amanota",
+        "newValue": "Amanota:"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Amanota:{{score}}",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651499985372,
+        "oldValue": "",
+        "newValue": "Amanota:{{score}}"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Wasoje hose!",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1651499985373,
+        "oldValue": "",
+        "newValue": "Wasoje"
+      },
+      {
+        "userId": 230437,
+        "timestamp": 1663013843318,
+        "oldValue": "Wasoje",
+        "newValue": "Wasoje hose!"
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Komeza",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1659168257192,
+        "oldValue": "",
+        "newValue": "Komeza"
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Urwego rushya",
+    "history": [
+      {
+        "userId": 230437,
+        "timestamp": 1659168257192,
+        "oldValue": "",
+        "newValue": "Urwego rushya"
+      }
+    ]
+  }
+}

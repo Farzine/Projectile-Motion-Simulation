@@ -1,0 +1,654 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Pusat Jisim",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Pusat Jisim "
+      },
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "Pusat Jisim ",
+        "newValue": "Pusat Jisim",
+        "explanation": null
+      }
+    ]
+  },
+  "data": {
+    "value": "Data",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Data"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "Resapan",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Resapan"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "Suhu Awal (K)",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Suhu Awal (K)"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "Jisim (AMU)",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Jisim (AMU)"
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "Bilangan Zarah",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Bilangan Zarah"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "Kadar Aliran Zarah",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Kadar Aliran Zarah"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "Tekanan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Tekanan"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Bunyi Tekanan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Bunyi Tekanan"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "Radius (pm)",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Radius (pm)"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Keluarkan Pembahagi",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Keluarkan Pembahagi"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Tetapkan Semula Pembahagi",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Tetapkan Semula Pembahagi"
+      }
+    ]
+  },
+  "scale": {
+    "value": "Skala",
+    "history": [
+      {
+        "userId": 981130,
+        "timestamp": 1638242946027,
+        "oldValue": "",
+        "newValue": "Skala"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Jam Randik",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Jam Randik"
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "Kiraan Perlanggaran",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231394,
+        "oldValue": "",
+        "newValue": "Kiraan Perlanggaran"
+      }
+    ]
+  },
+  "collisions": {
+    "value": "Perlanggaran",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Perlanggaran"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "Berat",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Berat"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Pemalar",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Pemalar"
+      }
+    ]
+  },
+  "light": {
+    "value": "Ringan",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Ringan"
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Tiada",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Tiada"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Oops!<br><br>Suhu maksima telah dicapai!",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Suhu maksima telah dicapai!"
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Oops!<br><br>Tekanan tidak boleh dimalarkan<br>apabila bekas kosong.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Tekanan tidak boleh dimalarkan<br>apabila bekas kosong."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "Oops!<br><br>Tekanan tidak boleh dimalarkan.<br>Isi padu akan menjadi terlampau tinggi.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Tekanan tidak boleh dimalarkan.<br>Isi padu akan menjadi terlampau tinggi."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Oops!<br><br>Tekanan tidak boleh dimalarkan.<br>Isi padu akan menjadi terlampau rendah.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Tekanan tidak boleh dimalarkan.<br>Isi padu akan menjadi terlampau rendah."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Oops!<br><br>Suhu tidak boleh dimalarkan<br>apabila bekas kosong.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Suhu tidak boleh dimalarkan<br>apabila bekas kosong."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Oops!<br><br>Suhu tidak boleh dimalarkan<br>apabila bekas dibuka.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Suhu tidak boleh dimalarkan<br>apabila bekas dibuka."
+      }
+    ]
+  },
+  "particles": {
+    "value": "Zarah-zarah",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Zarah-zarah"
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Tekanan ↕T",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Tekanan ↕T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Tekanan ↕V",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Tekanan ↕V"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Tutup Semula",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Tutup Semula"
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Tempoh Sampel",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Tempoh Sampel "
+      },
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "Tempoh Sampel ",
+        "newValue": "Tempoh Sampel",
+        "explanation": null
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "Suhu (T)",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Suhu (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "Isi padu (V)",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Isi padu (V)"
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "Perlanggaran Dinding Bekas",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Perlanggaran Dinding Bekas"
+      }
+    ]
+  },
+  "width": {
+    "value": "Luas",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1624088231395,
+        "oldValue": "",
+        "newValue": "Luas"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Tenaga",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Tenaga"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Teroka",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Teroka"
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "Ideal",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Ideal"
+      }
+    ]
+  },
+  "keyboardHelpDialog.changeUnits": {
+    "value": "Tukar Unit",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Tukar Unit"
+      }
+    ]
+  },
+  "pressureNoiseDescription": {
+    "value": "Tambah sedikit hingar pada tolok tekanan untuk menjadikannya kelihatan lebih realistik.",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Tambah sedikit hingar pada tolok tekanan untuk menjadikannya kelihatan lebih realistik."
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "Purata Kelajuan",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Purata Kelajuan"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "Suhu Suntikan",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Suhu Suntikan"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Padankan Bekas",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Padankan Bekas"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Tetapkan kepada:",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Tetapkan kepada:"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "Tenaga Kinetik",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Tenaga Kinetik"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Laju",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Laju"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}} K"
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}"
+      }
+    ]
+  },
+  "wallVelocity": {
+    "value": "Halaju Dinding",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Halaju Dinding"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "Sifat-sifat Gas",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742958300964,
+        "oldValue": "",
+        "newValue": "Sifat-sifat Gas"
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "V": {
+    "value": "速率",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "速率"
+      }
+    ]
+  },
+  "pattern.labelUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units.years": {
+    "value": "年",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "年"
+      }
+    ]
+  },
+  "clear": {
+    "value": "清除",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "清除"
+      }
+    ]
+  },
+  "units.AU": {
+    "value": "天文單位",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "天文單位"
+      }
+    ]
+  },
+  "units.kms": {
+    "value": "km/s",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "km/s"
+      }
+    ]
+  },
+  "pattern.velocityValueUnits": {
+    "value": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "|v| = {{value}} {{units}}"
+      },
+      {
+        "userId": 184096,
+        "timestamp": 1687317348888,
+        "oldValue": "|v| = {{value}} {{units}}",
+        "newValue": "|v<sub>{{index}}</sub>| = {{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "grid": {
+    "value": "格線",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "格線"
+      }
+    ]
+  },
+  "measuringTape": {
+    "value": "測量尺",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "測量尺"
+      }
+    ]
+  },
+  "gravityForce": {
+    "value": "重力",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "重力"
+      }
+    ]
+  },
+  "velocity": {
+    "value": "速率",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "速率"
+      }
+    ]
+  },
+  "path": {
+    "value": "路徑",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1670290356640,
+        "oldValue": "",
+        "newValue": "路徑"
+      }
+    ]
+  },
+  "offscaleMessage": {
+    "value": "有些力的向量過小以至於無法顯示。",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1687317348888,
+        "oldValue": "",
+        "newValue": "有些力的向量過小以至於無法顯示。"
+      }
+    ]
+  },
+  "zoom": {
+    "value": "縮放：",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1687317348888,
+        "oldValue": "",
+        "newValue": "縮放："
+      }
+    ]
+  },
+  "speed": {
+    "value": "速度（公里/秒）",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1687317348888,
+        "oldValue": "",
+        "newValue": "速度（公里/秒）"
+      }
+    ]
+  },
+  "pattern.unitsPower": {
+    "value": "{{units}}<sup>{{power}}</sup>",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1697002625984,
+        "oldValue": "",
+        "newValue": "{{units}}<sup>{{power}}</sup>"
+      }
+    ]
+  }
+}

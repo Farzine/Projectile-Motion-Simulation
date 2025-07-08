@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <title>PhET Bookmarks</title>
+
+  <style type="text/css">
+    select {
+      overflow: visible;
+      font-size: 16px;
+      font-family: Times, "Times New Roman", serif;
+    }
+
+    select option:checked {
+      background-color: Highlight;
+      color: HighlightText;
+    }
+
+    option {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    option:nth-child(odd) {
+      background: #f6f6f6;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      font-size: 16px;
+      font-family: Times, "Times New Roman", serif;
+    }
+
+    h3 {
+      font-family: Helvetica, Arial, sans-serif;
+      margin-top: 0;
+      margin-bottom: 10px;
+      margin-left: 10px;
+    }
+
+    body {
+      overflow-y: scroll;
+    }
+
+    #repositories {
+      position: absolute;
+      left: 0;
+      top: 10px;
+    }
+
+    #choices {
+      position: fixed;
+      left: 0;
+      top: 10px;
+      text-align: left;
+    }
+
+    #queryParameters {
+      position: fixed;
+      left: 0;
+      top: 10px;
+      text-align: left;
+      overflow-y: auto;
+      height: 95%;
+      width: 50%;
+      padding: 5px;
+    }
+
+    #choices select {
+      text-align: left;
+    }
+
+    .choiceLabel {
+      padding-right: 8px;
+    }
+
+    #launchButton {
+      font-size: 20px;
+      padding: 0 15px;
+    }
+
+    .bullet {
+      font-size: 12px;
+      margin: 3px;
+    }
+  </style>
+</head>
+<body>
+<script src="../sherpa/lib/lodash-4.17.4.min.js"></script>
+<script src="../sherpa/lib/jquery-2.1.0.min.js"></script>
+<script src="../assert/js/assert.js"></script>
+<script>
+  window.assertions.enableAssert();
+</script>
+<script src="../query-string-machine/js/QueryStringMachine.js"></script>
+<script src="../chipper/js/browser/initialize-globals.js"></script>
+<script type="module" src="../chipper/dist/js/phetmarks/js/phetmarks.js"></script>
+</body>
+</html>

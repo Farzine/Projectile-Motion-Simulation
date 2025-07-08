@@ -1,0 +1,932 @@
+{
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344401,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1.{{thingPlural}} açylýan sanawy",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420764,
+        "oldValue": "",
+        "newValue": "1.{{thingPlural}} açylýan sanawy"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. {{thingPlural}} içinden geç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420764,
+        "oldValue": "",
+        "newValue": "2. {{thingPlural}} içinden geç"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Täze {{thingSingular}} saýla",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420764,
+        "oldValue": "",
+        "newValue": "3. Täze {{thingSingular}} saýla"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "4. Sanawy üýtgetmän ýap",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420764,
+        "oldValue": "",
+        "newValue": "4. Sanawy üýtgetmän ýap"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Sazla",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "Sazla"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657091106710,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Esasy hereketler",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Esasy hereketler"
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "End"
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Giriz"
+      },
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "Giriz",
+        "newValue": "Enter"
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657091106710,
+        "oldValue": "",
+        "newValue": "Esc"
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Gepleşik penjiresinden çyk",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Gepleşik penjiresinden çyk"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Tut ýa-da goýber {{thing}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Tut ýa-da goýber {{thing}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Tut ýa-da goýber {{thing}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Tut ýa-da goýber {{thing}}"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Home"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "{{maximum}}-a bök",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "{{maximum}}-a bök"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "{{minimum}}-a bök",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "{{minimum}}-a bök"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "maksimum",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "maksimum"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "minimum",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "minimum"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Toparyň içindäki elementleriň arasynda geç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Toparyň içindäki elementleriň arasynda geç"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Indiki elemente ýa-da topara geç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Indiki elemente ýa-da topara geç"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Öňki elemente ýa-da topara geç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Öňki elemente ýa-da topara geç"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "opsiýa",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "opsiýa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "opsiýalar",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "opsiýalar"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "ýa-da",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "ýa-da"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Sahypa aşak",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Sahypa aşak"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Sahypa ýokaryk",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Sahypa ýokaryk"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Açylýan menýu",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662985334865,
+        "oldValue": "",
+        "newValue": "Açylýan menýu"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Düwmelere bas",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Düwmelere bas"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Shift"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "slaýder",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "slaýder"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Slaýder dolandyryşlary",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "Slaýder dolandyryşlary"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Boşluk",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Boşluk"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Tab"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Barlag gutularyny belle-aýyr",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "Barlag gutularyny belle-aýyr"
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662467127647,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "Ulurak ädimlerde {{verb}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "Ulurak ädimlerde {{verb}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "Kiçiräk ädimlerde {{verb}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "Kiçiräk ädimlerde {{verb}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662641457852,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "ρ"
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657090227710,
+        "oldValue": "",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Tolkun uzynlygy",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662897627121,
+        "oldValue": "",
+        "newValue": "Tolkun uzynlygy"
+      }
+    ]
+  },
+  "wavelengthNMValuePattern": {
+    "value": "{0} nm",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662897627121,
+        "oldValue": "",
+        "newValue": "{0} nm"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+    "value": "Bir {{thingTitle}} saýla",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "Bir {{thingTitle}} saýla"
+      }
+    ]
+  },
+  "eight": {
+    "value": "sekiz",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "sekiz"
+      }
+    ]
+  },
+  "five": {
+    "value": "bäş",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "bäş"
+      }
+    ]
+  },
+  "four": {
+    "value": "dört",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "dört"
+      }
+    ]
+  },
+  "nine": {
+    "value": "dokuz",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "dokuz"
+      }
+    ]
+  },
+  "one": {
+    "value": "bir",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "bir"
+      }
+    ]
+  },
+  "seven": {
+    "value": "ýedi",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "ýedi"
+      }
+    ]
+  },
+  "six": {
+    "value": "alty",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "alty"
+      }
+    ]
+  },
+  "ten": {
+    "value": "on",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "on"
+      }
+    ]
+  },
+  "three": {
+    "value": "üç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "üç"
+      }
+    ]
+  },
+  "two": {
+    "value": "iki",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "iki"
+      }
+    ]
+  },
+  "zero": {
+    "value": "nol",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662894420765,
+        "oldValue": "",
+        "newValue": "nol"
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Gaýtadan ýükle",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662465367341,
+        "oldValue": "",
+        "newValue": "Gaýtadan ýükle"
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Pes grafika hilinde işleýär",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662887887264,
+        "oldValue": "",
+        "newValue": "Pes grafika hilinde işleýär"
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Bagyşlaň, grafika ýalňyşlygy çykdy.",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662465367341,
+        "oldValue": "",
+        "newValue": "Bagyşlaň, grafika ýalňyşlygy çykdy."
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Maslahat berilýän Windows Update ýamalaryny gurnap, Internet Eksploreri täzeläň.",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662887887264,
+        "oldValue": "",
+        "newValue": "Maslahat berilýän Windows Update ýamalaryny gurnap, Internet Eksploreri täzeläň."
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL işledilmedik ýa-da elýeterli däl. Goşmaça maglumat üçin basyň.",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662465367341,
+        "oldValue": "",
+        "newValue": "WebGL işledilmedik ýa-da elýeterli däl. Goşmaça maglumat üçin basyň."
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Ulurak ädimlerde sazla",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662887175622,
+        "oldValue": "",
+        "newValue": "Ulurak ädimlerde sazla"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Kiçiräk ädimlerde sazla",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662887175622,
+        "oldValue": "",
+        "newValue": "Kiçiräk ädimlerde sazla"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Slaýderi sazla",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662887175622,
+        "oldValue": "",
+        "newValue": "Slaýderi sazla"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Maksimuma bök",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662887175622,
+        "oldValue": "",
+        "newValue": "Maksimuma bök"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Minimuma bök",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662887175622,
+        "oldValue": "",
+        "newValue": "Minimuma bök"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Indiki elemente geç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662470474719,
+        "oldValue": "",
+        "newValue": "Indiki elemente geç"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Öňki elemente geç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662470474719,
+        "oldValue": "",
+        "newValue": "Öňki elemente geç"
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "Çyzgyç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662875849455,
+        "oldValue": "",
+        "newValue": "Çyzgyç"
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Çyzgyç",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662875849455,
+        "oldValue": "",
+        "newValue": "Çyzgyç"
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "<b>Tut</b> ýa-da <b>goýber</b>",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459344402,
+        "oldValue": "",
+        "newValue": "<b>Tut</b> ýa-da <b>goýber</b>"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Tiz",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657091106710,
+        "oldValue": "",
+        "newValue": "Tiz"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Kadaly",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657091106710,
+        "oldValue": "",
+        "newValue": "Kadaly"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Haýal",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657091106710,
+        "oldValue": "",
+        "newValue": "Haýal"
+      }
+    ]
+  },
+  "cool": {
+    "value": "Sowat",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662472205772,
+        "oldValue": "",
+        "newValue": "Sowat"
+      }
+    ]
+  },
+  "heat": {
+    "value": "Gyzdyr",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662472205772,
+        "oldValue": "",
+        "newValue": "Gyzdyr"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657091106710,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657091106710,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662471822793,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662468698229,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459650042,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1662459650042,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Gysga ýol!",
+    "history": [
+      {
+        "userId": 1056556,
+        "timestamp": 1657089248585,
+        "oldValue": "",
+        "newValue": "Gysga ýol!"
+      }
+    ]
+  }
+}

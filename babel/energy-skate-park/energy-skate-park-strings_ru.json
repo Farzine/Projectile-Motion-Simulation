@@ -1,0 +1,794 @@
+{
+  "energies.energy": {
+    "value": "Энергия",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "энергия"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "энергия",
+        "newValue": "Энергия"
+      }
+    ]
+  },
+  "energies.kinetic": {
+    "value": "Кинетическая",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "кинетическая"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "кинетическая",
+        "newValue": "Кинетическая"
+      }
+    ]
+  },
+  "energies.potential": {
+    "value": "Потенциальная",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "потенциальная"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "потенциальная",
+        "newValue": "Потенциальная"
+      }
+    ]
+  },
+  "energies.thermal": {
+    "value": "Тепловая",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "тепловая"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "тепловая",
+        "newValue": "Тепловая"
+      }
+    ]
+  },
+  "energies.total": {
+    "value": "Полная",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "общая"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "общая",
+        "newValue": "Полная"
+      }
+    ]
+  },
+  "speedometer.label": {
+    "value": "Скорость",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скорость"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скорость",
+        "newValue": "Скорость"
+      }
+    ]
+  },
+  "heightLabels.zeroM": {
+    "value": "0 м",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "0 м"
+      }
+    ]
+  },
+  "skaterControls.restartSkater": {
+    "value": "Перезапустить скейтера",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Перезапустить скейтера"
+      }
+    ]
+  },
+  "speedometer.metersPerSecondPattern": {
+    "value": "{{value}} м/с",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "{{value}} м/с"
+      }
+    ]
+  },
+  "measuringTape.units": {
+    "value": " м",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": " м"
+      }
+    ]
+  },
+  "visibilityControls.path": {
+    "value": "Траектория",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "траектория"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "траектория",
+        "newValue": "Траектория"
+      }
+    ]
+  },
+  "visibilityControls.referenceHeight": {
+    "value": "Нулевой уровень",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "нулевой уровень"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "нулевой уровень",
+        "newValue": "Нулевой уровень"
+      }
+    ]
+  },
+  "visibilityControls.grid": {
+    "value": "Сетка",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "сетка"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "сетка",
+        "newValue": "Сетка"
+      }
+    ]
+  },
+  "trackControls.stickToTrack": {
+    "value": "Придерживаясь трека",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Придерживайтесь трека"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "Придерживайтесь трека",
+        "newValue": "Придерживаясь трека"
+      }
+    ]
+  },
+  "plots.pieChart.label": {
+    "value": "Круговая диаграмма",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Круговая диаграмма"
+      }
+    ]
+  },
+  "plots.barGraph.label": {
+    "value": "Гистограмма",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Гистограмма"
+      }
+    ]
+  },
+  "visibilityControls.speed": {
+    "value": "Скорость",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скорость"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скорость",
+        "newValue": "Скорость"
+      }
+    ]
+  },
+  "physicalControls.friction": {
+    "value": "Трение",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "трение"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "трение",
+        "newValue": "Трение"
+      }
+    ]
+  },
+  "physicalControls.gravityControls.moon": {
+    "value": "Луна",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Луна"
+      }
+    ]
+  },
+  "physicalControls.gravityControls.earth": {
+    "value": "Земля",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Земля"
+      }
+    ]
+  },
+  "physicalControls.gravityControls.jupiter": {
+    "value": "Юпитер",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Юпитер"
+      }
+    ]
+  },
+  "physicalControls.gravityControls.gravity": {
+    "value": "гравитация",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "гравитация"
+      }
+    ]
+  },
+  "physicalControls.gravityControls.gravityMetersPerSecondSquaredPattern": {
+    "value": "{{value}} м/с<sup>2</sup>",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "{{value}} м/с<sup>2</sup>"
+      }
+    ]
+  },
+  "physicalControls.gravityControls.gravityNewtonsPerKilogramPattern": {
+    "value": "{{value}} Н/кг",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "{{value}} Н/кг"
+      }
+    ]
+  },
+  "physicalControls.tiny": {
+    "value": "Низкая",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "очень маленький"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "очень маленький",
+        "newValue": "Низкая"
+      }
+    ]
+  },
+  "skaterControls.label": {
+    "value": "Скейтер",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скейтер"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скейтер",
+        "newValue": "Скейтер"
+      }
+    ]
+  },
+  "skaterControls.skater1MassPattern": {
+    "value": "Скейтер 1 ({{value}} кг)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скейтер 1 ({{value}} кг)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скейтер 1 ({{value}} кг)",
+        "newValue": "Скейтер 1 ({{value}} кг)"
+      }
+    ]
+  },
+  "skaterControls.skater2MassPattern": {
+    "value": "Скейтер 2 ({{value}} кг)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скейтер 2 ({{value}} кг)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скейтер 2 ({{value}} кг)",
+        "newValue": "Скейтер 2 ({{value}} кг)"
+      }
+    ]
+  },
+  "skaterControls.skater3MassPattern": {
+    "value": "Скейтер 3 ({{value}} кг)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скейтер 3 ({{value}} кг)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скейтер 3 ({{value}} кг)",
+        "newValue": "Скейтер 3 ({{value}} кг)"
+      }
+    ]
+  },
+  "skaterControls.skater4MassPattern": {
+    "value": "Скейтер 4 ({{value}} кг)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скейтер 4 ({{value}} кг)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скейтер 4 ({{value}} кг)",
+        "newValue": "Скейтер 4 ({{value}} кг)"
+      }
+    ]
+  },
+  "skaterControls.skater5MassPattern": {
+    "value": "Скейтер 5 ({{value}} кг)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скейтер 5 ({{value}} кг)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "скейтер 5 ({{value}} кг)",
+        "newValue": "Скейтер 5 ({{value}} кг)"
+      }
+    ]
+  },
+  "skaterControls.dogMassPattern": {
+    "value": "Собака ({{value}} кг)",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "собака ({{value}} кг)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "собака ({{value}} кг)",
+        "newValue": "Собака ({{value}} кг)"
+      }
+    ]
+  },
+  "physicalControls.massControls.mass": {
+    "value": "Масса",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "масса"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "масса",
+        "newValue": "Масса"
+      }
+    ]
+  },
+  "physicalControls.massControls.massKilogramsPattern": {
+    "value": "{{value}} кг",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "{{value}} кг"
+      }
+    ]
+  },
+  "physicalControls.small": {
+    "value": "Маленький",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "маленький"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "маленький",
+        "newValue": "Маленький"
+      }
+    ]
+  },
+  "physicalControls.large": {
+    "value": "Большой",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "большой"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "большой",
+        "newValue": "Большой"
+      }
+    ]
+  },
+  "physicalControls.custom": {
+    "value": "Пользователь",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "по выбору"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "по выбору",
+        "newValue": "Пользователь"
+      }
+    ]
+  },
+  "physicalControls.lots": {
+    "value": "Много",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "много"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "много",
+        "newValue": "Много"
+      }
+    ]
+  },
+  "physicalControls.none": {
+    "value": "Нет",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "нулевой"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "нулевой",
+        "newValue": "Нет"
+      }
+    ]
+  },
+  "heightLabels.heightEqualsZero": {
+    "value": "Высота = 0",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "высота = 0"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "высота = 0",
+        "newValue": "Высота = 0"
+      }
+    ]
+  },
+  "energy-skate-park.title": {
+    "value": "Энергетический скейт-парк",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Энергетический скейт-парк"
+      }
+    ]
+  },
+  "screens.graphs": {
+    "value": "Графики",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Графики"
+      }
+    ]
+  },
+  "plots.timeSwitchLabel": {
+    "value": "Время",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "время"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "время",
+        "newValue": "Время"
+      }
+    ]
+  },
+  "plots.positionSwitchLabel": {
+    "value": "Координата",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "координата"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "координата",
+        "newValue": "Координата"
+      }
+    ]
+  },
+  "plots.energyGraph.label": {
+    "value": "График энергии",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "график энергии"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "график энергии",
+        "newValue": "График энергии"
+      }
+    ]
+  },
+  "plots.positionLabel": {
+    "value": "Координата, м",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "координата (м)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "координата (м)",
+        "newValue": "Координата, м"
+      }
+    ]
+  },
+  "plots.energyLabel": {
+    "value": "Энергия, Дж",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "энергия (Дж)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "энергия (Дж)",
+        "newValue": "Энергия, Дж"
+      }
+    ]
+  },
+  "plots.timeLabel": {
+    "value": "Время, с",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "время (с)"
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1651004116429,
+        "oldValue": "время (с)",
+        "newValue": "Время, с"
+      }
+    ]
+  },
+  "screens.intro": {
+    "value": "Введение",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Введение"
+      }
+    ]
+  },
+  "screens.measure": {
+    "value": "Измерение",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Измерение"
+      }
+    ]
+  },
+  "pathSensor.energyJoulesPattern": {
+    "value": "{{value}} Дж",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "{{value}} Дж"
+      }
+    ]
+  },
+  "pathSensor.heightMetersPattern": {
+    "value": "Высота = {{value}} м",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Высота = {{value}} м"
+      }
+    ]
+  },
+  "pathSensor.speedMetersPerSecondPattern": {
+    "value": "скорость = {{value}} м/с",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "скорость = {{value}} м/с"
+      }
+    ]
+  },
+  "screens.playground": {
+    "value": "Игровая площадка",
+    "history": [
+      {
+        "userId": 775981,
+        "timestamp": 1630258563848,
+        "oldValue": "",
+        "newValue": "Игровая площадка"
+      }
+    ]
+  }
+}

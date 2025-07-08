@@ -1,0 +1,424 @@
+{
+  "speed": {
+    "value": "kasi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Kasi"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648612556,
+        "oldValue": "Kasi",
+        "newValue": "Mwendokasi"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1687011111262,
+        "oldValue": "Mwendokasi",
+        "newValue": "kasi",
+        "explanation": null
+      }
+    ]
+  },
+  "go": {
+    "value": "Nenda!",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nenda!"
+      }
+    ]
+  },
+  "pause": {
+    "value": "Sitisha",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Sitisha"
+      }
+    ]
+  },
+  "return": {
+    "value": "Rudisha",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Rudisha"
+      }
+    ]
+  },
+  "blueWins": {
+    "value": "Samawati Kushinda!",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Samawati Kushinda!"
+      }
+    ]
+  },
+  "redWins": {
+    "value": "Nyekundu kushinda!",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nyekundu kushinda!"
+      }
+    ]
+  },
+  "sumOfForces": {
+    "value": "Jumla ya Kani",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Jumla ya nguvu"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Jumla ya nguvu",
+        "newValue": "Jumla ya Kani"
+      }
+    ]
+  },
+  "values": {
+    "value": "Vipimo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Thamani"
+      },
+      {
+        "userId": 1000316,
+        "timestamp": 1690449237825,
+        "oldValue": "Thamani",
+        "newValue": "Vipimo",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0valueUnitsN": {
+    "value": "{0}N",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "{0}N"
+      }
+    ]
+  },
+  "sumOfForcesEqualsZero": {
+    "value": "Jumla ya Kani = 0",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Jumla ya nguvu = 0"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Jumla ya nguvu = 0",
+        "newValue": "Jumla ya Kani = 0"
+      }
+    ]
+  },
+  "leftForce": {
+    "value": "Kani ya Kushoto",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nguvu ya Kushoto"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Nguvu ya Kushoto",
+        "newValue": "Kani ya Kushoto"
+      }
+    ]
+  },
+  "rightForce": {
+    "value": "Kani Ya Kulia",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nguvu Ya Kulia"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Nguvu Ya Kulia",
+        "newValue": "Kani Ya Kulia"
+      }
+    ]
+  },
+  "pattern.0massUnitsKilograms": {
+    "value": "{0} kg",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "{0} kg"
+      }
+    ]
+  },
+  "appliedForce": {
+    "value": "kutumia kani",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "kutumia nguvu"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "kutumia nguvu",
+        "newValue": "kutumia kani"
+      }
+    ]
+  },
+  "frictionForce": {
+    "value": "kani ya Msuguano",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nguvu ya Msuguano"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Nguvu ya Msuguano",
+        "newValue": "kani ya Msuguano"
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsVelocity": {
+    "value": "{0} m/s",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "{0} m/s"
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "kuongeza kasi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "kuongeza kasi"
+      }
+    ]
+  },
+  "force": {
+    "value": "Kani",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nguvu"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Nguvu",
+        "newValue": "Kani"
+      }
+    ]
+  },
+  "forces": {
+    "value": "Kani",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nguvu"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Nguvu",
+        "newValue": "Kani"
+      }
+    ]
+  },
+  "masses": {
+    "value": "Tungamo/masi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "molekuli"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "molekuli",
+        "newValue": "Tungamo/masi"
+      }
+    ]
+  },
+  "friction": {
+    "value": "Msuguano",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Msuguano"
+      }
+    ]
+  },
+  "lots": {
+    "value": "Mengi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Mengi"
+      }
+    ]
+  },
+  "none": {
+    "value": "Hakuna",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Hakuna"
+      }
+    ]
+  },
+  "pattern.0name.1valueUnitsAcceleration": {
+    "value": "{0}: {1} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "{0}: {1} m/s<sup>2</sup>"
+      }
+    ]
+  },
+  "pattern.0valueUnitsNewtons": {
+    "value": "{0} Newton",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "{0} Newtons"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "{0} Newtons",
+        "newValue": "{0} Newton"
+      }
+    ]
+  },
+  "forces-and-motion-basics.title": {
+    "value": "Kani na Mwendo : Mambo Msingi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nguvu na Mwendo : Mambo Msingi"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Nguvu na Mwendo : Mambo Msingi",
+        "newValue": "Kani na Mwendo : Mambo Msingi"
+      }
+    ]
+  },
+  "netForce": {
+    "value": "Kani Jumla",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Nguvu Jumla"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665648545801,
+        "oldValue": "Nguvu Jumla",
+        "newValue": "Kani Jumla"
+      }
+    ]
+  },
+  "motion": {
+    "value": "Mwendo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Mwendo"
+      }
+    ]
+  },
+  "left": {
+    "value": "Kushoto",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Kushoto"
+      }
+    ]
+  },
+  "right": {
+    "value": "Kushoto",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1651490415396,
+        "oldValue": "",
+        "newValue": "Kushoto"
+      }
+    ]
+  }
+}

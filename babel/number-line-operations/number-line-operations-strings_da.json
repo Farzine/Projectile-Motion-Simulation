@@ -1,0 +1,572 @@
+{
+  "screen.chips": {
+    "value": "Mønter",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Mønter"
+      }
+    ]
+  },
+  "operationDescriptions": {
+    "value": "Beskrivelse af beregning",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Aktivitet"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "Aktivitet",
+        "newValue": "Udregning"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612550058315,
+        "oldValue": "Udregning",
+        "newValue": "Beskrivelse af ændring"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612616504434,
+        "oldValue": "Beskrivelse af ændring",
+        "newValue": "Beskrivelse af beregning"
+      }
+    ]
+  },
+  "operationLabels": {
+    "value": "Vis talværdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Vis talværdier"
+      }
+    ]
+  },
+  "tickMarks": {
+    "value": "Tallinie",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Tallinie"
+      }
+    ]
+  },
+  "positives": {
+    "value": "Positiv",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Positiver"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612550058315,
+        "oldValue": "Positiver",
+        "newValue": "Positive"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612580889346,
+        "oldValue": "Positive",
+        "newValue": "Positiv"
+      }
+    ]
+  },
+  "negatives": {
+    "value": "Negativ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Negativer"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612550058315,
+        "oldValue": "Negativer",
+        "newValue": "Negative"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612580889346,
+        "oldValue": "Negative",
+        "newValue": "Negativ"
+      }
+    ]
+  },
+  "netWorthWithCurrencyPattern": {
+    "value": "{{netWorthString}} ({{currencyUnits}})",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "{{netWorthString}} ({{currencyUnits}})"
+      }
+    ]
+  },
+  "netWorth": {
+    "value": "Nettoværdi ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Nettoværdi "
+      }
+    ]
+  },
+  "currencyUnits": {
+    "value": "Kr.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Kr."
+      }
+    ]
+  },
+  "operationOffScale": {
+    "value": "Udregning udenfor skala",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Udregning udenfor skala"
+      }
+    ]
+  },
+  "add": {
+    "value": "Tilføj ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "tilføj"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "tilføj",
+        "newValue": "Tilføj"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612537119927,
+        "oldValue": "Tilføj",
+        "newValue": "Tilføj "
+      }
+    ]
+  },
+  "remove": {
+    "value": "Fjern  ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "fjern"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "fjern",
+        "newValue": "Fjern"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612537119927,
+        "oldValue": "Fjern",
+        "newValue": "Fjern "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612616504434,
+        "oldValue": "Fjern ",
+        "newValue": "Fjern  "
+      }
+    ]
+  },
+  "addRemoveZeroCurrencyPattern": {
+    "value": "{{addOrRemove}} {{currencyUnits}}0",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{currencyUnits}}0"
+      }
+    ]
+  },
+  "addRemoveAssetDebtPattern": {
+    "value": "{{addOrRemove}} {{assetOrDebt}} af {{value}} {{currencyUnits}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} {{assetOrDebt}} af {{currencyUnits}}{{value}}"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "{{addOrRemove}} {{assetOrDebt}} af {{currencyUnits}}{{value}}",
+        "newValue": "{{addOrRemove}} {{assetOrDebt}} af {{value}} {{currencyUnits}}"
+      }
+    ]
+  },
+  "asset": {
+    "value": "værdi",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "værdi"
+      }
+    ]
+  },
+  "debt": {
+    "value": "gæld",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "gæld"
+      }
+    ]
+  },
+  "addRemoveZeroPattern": {
+    "value": "{{addOrRemove}} 0",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}} 0"
+      }
+    ]
+  },
+  "addRemovePositiveNegativePattern": {
+    "value": "{{addOrRemove}}{{positiveOrNegative}} {{value}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "",
+        "newValue": "{{addOrRemove}}{{positiveOrNegative}} {{value}}"
+      }
+    ]
+  },
+  "positive": {
+    "value": "positiv",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "plus"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "plus",
+        "newValue": "plus "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612550058315,
+        "oldValue": "plus ",
+        "newValue": " plus"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612580889346,
+        "oldValue": " plus",
+        "newValue": "positiv"
+      }
+    ]
+  },
+  "negative": {
+    "value": "negativ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "minus"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "minus",
+        "newValue": "minus "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612550058315,
+        "oldValue": "minus ",
+        "newValue": " minus"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612580889346,
+        "oldValue": " minus",
+        "newValue": "negativ"
+      }
+    ]
+  },
+  "total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Total"
+      }
+    ]
+  },
+  "totalCurrencyPattern": {
+    "value": "{{totalString}} = {{sign}}{{totalValue}} {{currencyUnits}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "",
+        "newValue": "{{totalString}} = {{sign}}{{totalValue}} {{currencyUnits}}"
+      }
+    ]
+  },
+  "totalValuePattern": {
+    "value": "{{totalString}} = {{totalValue}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "",
+        "newValue": "{{totalString}} = {{totalValue}}"
+      }
+    ]
+  },
+  "currencyValuePattern": {
+    "value": "{{sign}}{{value}} {{currencyUnits}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "",
+        "newValue": "{{sign}}{{value}} {{currencyUnits}}"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Grundlæggende",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Generelt"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "Generelt",
+        "newValue": "Grundlæggende"
+      }
+    ]
+  },
+  "pointLabels": {
+    "value": "Punktværdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Værdier på tallinien "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "Værdier på tallinien ",
+        "newValue": "Punktværdier"
+      }
+    ]
+  },
+  "numericalExpression": {
+    "value": "Numerisk udtryk",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Numerisk udtryk"
+      }
+    ]
+  },
+  "screen.netWorth": {
+    "value": "Nettoværdi ",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Nettoværdi "
+      }
+    ]
+  },
+  "loan": {
+    "value": "Lån",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Lån"
+      }
+    ]
+  },
+  "assets": {
+    "value": "Værdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Værdier"
+      }
+    ]
+  },
+  "debts": {
+    "value": "Gæld",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Gæld"
+      }
+    ]
+  },
+  "number-line-operations.title": {
+    "value": "Tallinje: Beregninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Tallinie: "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612532618510,
+        "oldValue": "Tallinie: ",
+        "newValue": "Tallinie: Bevægelser"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612582113336,
+        "oldValue": "Tallinie: Bevægelser",
+        "newValue": "Tallinje: Bevægelser"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612616504435,
+        "oldValue": "Tallinje: Bevægelser",
+        "newValue": "Tallinje: Beregninger"
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "Beregninger",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Operationer"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612537119927,
+        "oldValue": "Operationer",
+        "newValue": "Bevægelser"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612616504435,
+        "oldValue": "Bevægelser",
+        "newValue": "Beregninger"
+      }
+    ]
+  },
+  "initialNetWorth": {
+    "value": "Start-værdi",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Start-kapital "
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612537119927,
+        "oldValue": "Start-kapital ",
+        "newValue": "Start-værdi"
+      }
+    ]
+  },
+  "initialNetWorthWithBreak": {
+    "value": "Start<br>værdi",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Start<br>kapital"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612537119927,
+        "oldValue": "Start<br>kapital",
+        "newValue": "Start<br>værdi"
+      }
+    ]
+  },
+  "simplify": {
+    "value": "Simpelt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1612502397695,
+        "oldValue": "",
+        "newValue": "Enkelt"
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1612537119927,
+        "oldValue": "Enkelt",
+        "newValue": "Simpelt"
+      }
+    ]
+  }
+}

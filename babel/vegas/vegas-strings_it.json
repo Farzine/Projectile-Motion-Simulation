@@ -1,0 +1,337 @@
+{
+  "pattern.0yourBest": {
+    "value": "(Il tuo punteggio migliore: {0})",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "(Il tuo punteggio migliore: {0})",
+        "explanation": null
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Il tuo nuovo record!)",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "(Il tuo nuovo record!)",
+        "explanation": null
+      }
+    ]
+  },
+  "continue": {
+    "value": "Continua",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Continua",
+        "explanation": null
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Eccellente!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Eccellente!",
+        "explanation": null
+      }
+    ]
+  },
+  "good": {
+    "value": "Ottimo!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Ottimo!",
+        "explanation": null
+      }
+    ]
+  },
+  "great": {
+    "value": "Grande!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Grande!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Allenati",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Allenati",
+        "explanation": null
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Livello: {0}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Livello: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Punteggio: {0}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Punteggio: {0} ",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1679769906996,
+        "oldValue": "Punteggio: {0} ",
+        "newValue": "Punteggio: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Punteggio: {0} su {1}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "Punteggio: {0} su {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Tempo: {0}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1449598573678,
+        "oldValue": "",
+        "newValue": "tempo: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 157247,
+        "timestamp": 1461602840342,
+        "oldValue": "tempo: {0}",
+        "newValue": "Tempo: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 821188,
+        "timestamp": 1663712822947,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 821188,
+        "timestamp": 1663712822947,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "pattern.0challenge.1max": {
+    "value": "Partita {0} di {1}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1452453931065,
+        "oldValue": "",
+        "newValue": "Partita {0} di {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "check": {
+    "value": "Controlla",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1452800028294,
+        "oldValue": "",
+        "newValue": "Controlla",
+        "explanation": null
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Scegli il tuo livello!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1642197858127,
+        "oldValue": "",
+        "newValue": "Scegli il tuo livello!"
+      }
+    ]
+  },
+  "next": {
+    "value": "Successivo",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1452800028294,
+        "oldValue": "",
+        "newValue": "Successivo",
+        "explanation": null
+      }
+    ]
+  },
+  "score": {
+    "value": "Punteggio:",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1524764382788,
+        "oldValue": "",
+        "newValue": "Punteggio:",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Punteggio: {{score}}",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1524764382788,
+        "oldValue": "",
+        "newValue": "Punteggio: {{score}}",
+        "explanation": null
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Mostra la risposta",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1452800028294,
+        "oldValue": "",
+        "newValue": "Mostra la risposta",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Ricomincia",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1452453931065,
+        "oldValue": "",
+        "newValue": "Ricomincia",
+        "explanation": null
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Riprova",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1452800028294,
+        "oldValue": "",
+        "newValue": "Riprova",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Fatto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1548871276119,
+        "oldValue": "",
+        "newValue": "Fatto",
+        "explanation": null
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Hai completato tutti i livelli!",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1548871276119,
+        "oldValue": "",
+        "newValue": "Hai completato tutti i livelli!",
+        "explanation": null
+      }
+    ]
+  },
+  "keepGoing": {
+    "value": "Continua così",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Continua così",
+        "explanation": null
+      }
+    ]
+  },
+  "newLevel": {
+    "value": "Nuovo livello",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1532499409961,
+        "oldValue": "",
+        "newValue": "Nuovo livello",
+        "explanation": null
+      }
+    ]
+  },
+  "selectLevel": {
+    "value": "Scegli il livello",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1460138165501,
+        "oldValue": "",
+        "newValue": "Scegli il livello",
+        "explanation": null
+      }
+    ]
+  }
+}

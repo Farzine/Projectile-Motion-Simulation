@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Compara",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665360608001,
+        "oldValue": "",
+        "newValue": "Compara"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} és menor que {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665360608001,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} és menor que {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} és major que {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665360608001,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} és major que {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} és igual a {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665360608001,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} és igual a {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Comparació de números",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1714944291143,
+        "oldValue": "",
+        "newValue": "Comparació de números"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Sentir automàticament l'oració numèrica",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1714944291143,
+        "oldValue": "",
+        "newValue": "Sentir automàticament l'oració numèrica"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Sent com s'actualitza automàticament l'oració numèrica a l'interactuar.",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1714944291143,
+        "oldValue": "",
+        "newValue": "Sent com s'actualitza automàticament l'oració numèrica a l'interactuar."
+      }
+    ]
+  }
+}

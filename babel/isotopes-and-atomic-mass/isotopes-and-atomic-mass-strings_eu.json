@@ -1,0 +1,281 @@
+{
+  "neutrons": {
+    "value": "Neutroiak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Neutroiak",
+        "explanation": null
+      }
+    ]
+  },
+  "atomicMass": {
+    "value": "Masa atomikoa (amu)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Masa atomikoa (amu)",
+        "explanation": null
+      }
+    ]
+  },
+  "massNumber": {
+    "value": "Masa-zenbakia (A)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Masa-zenbakia",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581602,
+        "oldValue": "Masa-zenbakia",
+        "newValue": "Masa-zenbakia (A)",
+        "explanation": null
+      }
+    ]
+  },
+  "myIsotope": {
+    "value": "Nire isotopoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Nire isotopoa",
+        "explanation": null
+      }
+    ]
+  },
+  "otherIsotopesPattern": {
+    "value": "{0}(a)ren beste isotopoak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Beste\n{0}\nIsotopo",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "Beste<br>{0}<br>Isotopo",
+        "newValue": "{0}(a)ren beste isotopoak",
+        "explanation": null
+      }
+    ]
+  },
+  "thisIsotope": {
+    "value": "Isotopo hau",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Isotopo hau",
+        "explanation": null
+      }
+    ]
+  },
+  "trace": {
+    "value": "Aztarna",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1556782617611,
+        "oldValue": "",
+        "newValue": "Aztarna",
+        "explanation": null
+      }
+    ]
+  },
+  "abundanceInNature": {
+    "value": "Ugaritasuna naturan",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Naturako ugaritasuna",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "Naturako ugaritasuna",
+        "newValue": "Ugaritasuna naturan",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Sinboloa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Sinboloa",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes": {
+    "value": "Isotopoak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Isotopoak",
+        "explanation": null
+      }
+    ]
+  },
+  "amu": {
+    "value": "u",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "amu",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "amu",
+        "newValue": "u",
+        "explanation": null
+      }
+    ]
+  },
+  "averageAtomicMass": {
+    "value": "Batez besteko masa atomikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Batezbesteko masa atomikoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "Batezbesteko masa atomikoa",
+        "newValue": "Batez besteko masa atomikoa",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopeMixture": {
+    "value": "Isotopo-nahastea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Isotopo-nahasketa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "Isotopo-nahasketa",
+        "newValue": "Isotopo-nahastea",
+        "explanation": null
+      }
+    ]
+  },
+  "myMix": {
+    "value": "Nire nahastea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Nire nahastea",
+        "explanation": null
+      }
+    ]
+  },
+  "naturesMix": {
+    "value": "Naturako nahastea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Naturako nahastea",
+        "explanation": null
+      }
+    ]
+  },
+  "percentComposition": {
+    "value": "Ehuneko-konposizioa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Ehuneko konposizioa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "Ehuneko konposizioa",
+        "newValue": "Ehuneko-konposizioa",
+        "explanation": null
+      }
+    ]
+  },
+  "mixtures": {
+    "value": "Nahasteak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Nahasketak",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "Nahasketak",
+        "newValue": "Nahasteak",
+        "explanation": null
+      }
+    ]
+  },
+  "isotopes-and-atomic-mass.title": {
+    "value": "Isotopoak eta masa atomikoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1490136984549,
+        "oldValue": "",
+        "newValue": "Isotopoen masa eta masa atomikoa",
+        "explanation": null
+      },
+      {
+        "userId": 570617,
+        "timestamp": 1561277581603,
+        "oldValue": "Isotopoen masa eta masa atomikoa",
+        "newValue": "Isotopoak eta masa atomikoa",
+        "explanation": null
+      }
+    ]
+  }
+}

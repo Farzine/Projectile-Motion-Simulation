@@ -1,0 +1,411 @@
+{
+  "joules": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "J"
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "potentialEnergy": {
+    "value": "Energia potencial",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Energia Potencial"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Energia Potencial",
+        "newValue": "Energia potencial"
+      }
+    ]
+  },
+  "displacement": {
+    "value": "Desplaçament",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Desplaçament"
+      }
+    ]
+  },
+  "meters": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "m"
+      }
+    ]
+  },
+  "newtons": {
+    "value": "N",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "N"
+      }
+    ]
+  },
+  "displacementColon": {
+    "value": "Desplaçament:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Desplaçament:"
+      }
+    ]
+  },
+  "newtonsPerMeter": {
+    "value": "N/m",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "N/m"
+      }
+    ]
+  },
+  "springConstant": {
+    "value": "Constant de la molla:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Constant de la Molla:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Constant de la Molla:",
+        "newValue": "Constant de la molla:"
+      }
+    ]
+  },
+  "equilibriumPosition": {
+    "value": "Posició d'equilibri",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Posició d'Equilibri"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Posició d'Equilibri",
+        "newValue": "Posició d'equilibri"
+      }
+    ]
+  },
+  "appliedForce": {
+    "value": "Força aplicada",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Força Aplicada"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Força Aplicada",
+        "newValue": "Força aplicada"
+      }
+    ]
+  },
+  "barGraph": {
+    "value": "Gràfic de barres",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Gràfic de Barres"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Gràfic de Barres",
+        "newValue": "Gràfic de barres"
+      }
+    ]
+  },
+  "energyPlot": {
+    "value": "Gràfica d'energia",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Gràfica d'Energia"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Gràfica d'Energia",
+        "newValue": "Gràfica d'energia"
+      }
+    ]
+  },
+  "energy": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Energia"
+      }
+    ]
+  },
+  "forcePlot": {
+    "value": "Gràfica de força",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Gràfica de Força"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Gràfica de Força",
+        "newValue": "Gràfica de força"
+      }
+    ]
+  },
+  "values": {
+    "value": "Valors",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Valors"
+      }
+    ]
+  },
+  "appliedForceColon": {
+    "value": "Força aplicada:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Força Aplicada:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Força Aplicada:",
+        "newValue": "Força aplicada:"
+      }
+    ]
+  },
+  "appliedForceNumber": {
+    "value": "Força aplicada {0}:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Força Aplicada {0}:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Força Aplicada {0}:",
+        "newValue": "Força aplicada {0}:"
+      }
+    ]
+  },
+  "springConstantNumber": {
+    "value": "Constant de la molla {0}:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Constant de la Molla {0}:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Constant de la Molla {0}:",
+        "newValue": "Constant de la molla {0}:"
+      }
+    ]
+  },
+  "springForce": {
+    "value": "Força de la molla",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Força de la Molla"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Força de la Molla",
+        "newValue": "Força de la molla"
+      }
+    ]
+  },
+  "intro": {
+    "value": "Introducció",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Introducció"
+      }
+    ]
+  },
+  "bottomSpring": {
+    "value": "Molla inferior:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Molla Inferior:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Molla Inferior:",
+        "newValue": "Molla inferior:"
+      }
+    ]
+  },
+  "topSpring": {
+    "value": "Molla superior:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Molla Superior:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Molla Superior:",
+        "newValue": "Molla superior:"
+      }
+    ]
+  },
+  "leftSpring": {
+    "value": "Molla de l'esquerra:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Molla de l'Esquerra:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Molla de l'Esquerra:",
+        "newValue": "Molla de l'esquerra:"
+      }
+    ]
+  },
+  "rightSpring": {
+    "value": "Molla de la dreta:",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Molla de la Dreta:"
+      },
+      {
+        "userId": 1094568,
+        "timestamp": 1669655577088,
+        "oldValue": "Molla de la Dreta:",
+        "newValue": "Molla de la dreta:"
+      }
+    ]
+  },
+  "components": {
+    "value": "Components",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Components"
+      }
+    ]
+  },
+  "total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Total"
+      }
+    ]
+  },
+  "systems": {
+    "value": "Sistemes",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Sistemes"
+      }
+    ]
+  },
+  "hookes-law.title": {
+    "value": "Llei de Hooke",
+    "history": [
+      {
+        "userId": 1094568,
+        "timestamp": 1665254175787,
+        "oldValue": "",
+        "newValue": "Llei de Hooke"
+      }
+    ]
+  }
+}

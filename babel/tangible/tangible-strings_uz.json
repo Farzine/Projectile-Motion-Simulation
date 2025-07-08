@@ -1,0 +1,187 @@
+{
+  "cameraInputRequiresInternet": {
+    "value": "Kamera yozuvi internetga ulanishni talab qiladi.",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Kamera orqali kiritish internetga ulanishni talab qiladi."
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694709147151,
+        "oldValue": "Kamera orqali kiritish internetga ulanishni talab qiladi.",
+        "newValue": "Kamera yozuvi internetga ulanishni talab qiladi.",
+        "explanation": null
+      }
+    ]
+  },
+  "noMediaDevices": {
+    "value": "Hech qanday media qurilma mavjud emas",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Hech qanday media qurilma mavjud emas"
+      }
+    ]
+  },
+  "noMediaDevice": {
+    "value": "Mavjud media qurilmasi yo'q. U boshqa dastur tomonidan foydalaniladimi?",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Mavjud media qurilmasi yo‘q. U boshqa dastur tomonidan foydalaniladimi?"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694709147151,
+        "oldValue": "Mavjud media qurilmasi yo‘q. U boshqa dastur tomonidan foydalaniladimi?",
+        "newValue": "Mavjud media qurilmasi yo'q. U boshqa dastur tomonidan foydalaniladimi?",
+        "explanation": null
+      }
+    ]
+  },
+  "errorLoadingCameraInputHands": {
+    "value": "Kamera ma'lumotlarini yuklashda xatolik: Qo'llar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Kamera ma'lumotlarini yuklashda xatolik: Qo'llar"
+      }
+    ]
+  },
+  "cameraInputHandsHelpText": {
+    "value": "Simulatsiyani boshqarish uchun maxsus qo'l harakatlaridan foydalaning.",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Simulyatsiyani boshqarish uchun maxsus qo'l harakatlaridan foydalaning."
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694709147151,
+        "oldValue": "Simulyatsiyani boshqarish uchun maxsus qo'l harakatlaridan foydalaning.",
+        "newValue": "Simulatsiyani boshqarish uchun maxsus qo'l harakatlaridan foydalaning.",
+        "explanation": null
+      }
+    ]
+  },
+  "troubleshootingParagraph": {
+    "value": "Agar kerak bo‘lsa, qo‘l harakatlariga mos keladigan simulyatsiya qo‘llarining harakatini o‘zgartirish uchun quyidagi variantlardan foydalaning.",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Agar kerak bo‘lsa, qo‘l harakatlariga mos keladigan simulyatsiya qo‘llarining harakatini o‘zgartirish uchun quyidagi variantlardan foydalaning."
+      }
+    ]
+  },
+  "cameraInputFlipYHeading": {
+    "value": "Sizning qo‘llaringiz simulyatsiya qo‘llari bilan noto‘g‘ri bog‘langanmi?",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Sizning qo‘llaringiz simulyatsiya qo‘llari bilan noto‘g‘ri bog‘langanmi?"
+      }
+    ]
+  },
+  "cameraInputFlipXHeading": {
+    "value": "Sizning qo‘llaringiz simulyatsiya qo‘llarini noto‘g‘ri yo‘nalishda harakatlantiryaptimi?",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Sizning qo‘llaringiz simulyatsiya qo‘llarini noto‘g‘ri yo‘nalishda harakatlantiryaptimi?"
+      }
+    ]
+  },
+  "inputDevice": {
+    "value": "Kiritish qurilmasi:",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Kiritish Qurilmasi:"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694709147151,
+        "oldValue": "Kiritish Qurilmasi:",
+        "newValue": "Kiritish qurilmasi:",
+        "explanation": null
+      }
+    ]
+  },
+  "cameraInputHands": {
+    "value": "Kamera orqali kiritish: Qo‘llar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Kamera orqali Kiritish: Qo‘llar"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694709147151,
+        "oldValue": "Kamera orqali Kiritish: Qo‘llar",
+        "newValue": "Kamera orqali kiritish: Qo‘llar",
+        "explanation": null
+      }
+    ]
+  },
+  "troubleshootingCameraInputHands": {
+    "value": "Kamera orqali kiritishdagi nosozliklarni bartaraf etish: Qo‘llar",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Kamera orqali Kiritishdagi Nosozliklarni Bartaraf Etish: Qo'llar"
+      },
+      {
+        "userId": 11141169,
+        "timestamp": 1694709147151,
+        "oldValue": "Kamera orqali Kiritishdagi Nosozliklarni Bartaraf Etish: Qo'llar",
+        "newValue": "Kamera orqali kiritishdagi nosozliklarni bartaraf etish: Qo‘llar",
+        "explanation": null
+      }
+    ]
+  },
+  "cameraInputFlipY": {
+    "value": "Kamerani Y o‘qi bo‘ylab aylantiring.",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Kamerani Y o‘qi bo‘ylab aylantiring."
+      }
+    ]
+  },
+  "cameraInputFlipX": {
+    "value": "Kamerani X o‘qi bo‘ylab aylantiring.",
+    "history": [
+      {
+        "userId": 11141169,
+        "timestamp": 1694609735105,
+        "oldValue": "",
+        "newValue": "Kamerani X o‘qi bo‘ylab aylantiring."
+      }
+    ]
+  }
+}

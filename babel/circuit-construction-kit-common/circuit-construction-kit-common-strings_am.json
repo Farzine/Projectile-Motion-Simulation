@@ -1,0 +1,909 @@
+{
+  "oneSecond": {
+    "value": "1 ሰከንድ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "1 s"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "1 s",
+        "newValue": "1 ሰከንድ"
+      }
+    ]
+  },
+  "acSource": {
+    "value": "ተለዋዋጭ የኤሌክትሪክ ግፊት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ቮልቴጅ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "ቮልቴጅ",
+        "newValue": "ተለዋዋጭ የኤሌክትሪክ ግፊት"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "አምፖሎችን ጨምር/ሪ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "አምፑል ጨምር።"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "አምፑል ጨምር።",
+        "newValue": "አምፖሎችን ጨምር/ሪ"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "የተሻሻለ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የተሻሻለ"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "አሜትር",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "አሜትር"
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "የአሜትር\r\n\n\nንባብ",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1661892581047,
+        "oldValue": "",
+        "newValue": "የአሜትር\r\nንባብ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1662799120405,
+        "oldValue": "የአሜትር\r\nንባብ",
+        "newValue": "የአሜትር\r\n\nንባብ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1662799223420,
+        "oldValue": "የአሜትር\r\n\nንባብ",
+        "newValue": "የአሜትር\r\n\n\nንባብ"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "አሜትሮች",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "አሜትሮች"
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "የካርቱን ምስል ፍጥነት መጨረሻ ደርሷል።የአሁኑ ካርቱን ምስል ፍጥነት {{percent}} % ወደ መደበኛ ተቀንሷል።",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "",
+        "newValue": "የካርቱን ምስል ፍጥነት መጨረሻ ደርሷል።የአሁኑ ካርቱን ምስል ፍጥነት {{percent}} % ወደ መደበኛ ተቀንሷል።"
+      }
+    ]
+  },
+  "battery": {
+    "value": "ባትሪ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ባትሪ"
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "የባትሪ ሙግደት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የባትሪ ሙግደት"
+      }
+    ]
+  },
+  "british": {
+    "value": "ብሪትሽ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ብሪትሽ"
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "እቅበት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "እቅበት"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "አቃቤሌትሪክ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "አቃቤሌትሪክስ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "አቃቤሌትሪክስ",
+        "newValue": "አቃቤሌትሪክ"
+      }
+    ]
+  },
+  "coin": {
+    "value": "ሳንቲም",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ሳንትም"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "ሳንትም",
+        "newValue": "ሳንቲም"
+      }
+    ]
+  },
+  "conventional": {
+    "value": "የተለመደ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የተለመደ"
+      }
+    ]
+  },
+  "current": {
+    "value": "ዥረት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የኮረንቲ ዥረት"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "የኮረንቲ ዥረት",
+        "newValue": "ዥረት"
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "ዥረት (A)",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የኮረንቲ ዥረት (A)"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "የኮረንቲ ዥረት (A)",
+        "newValue": "ዥረት (A)"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "የዥረት ሠንጠረዥ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የኮረንቲ ዥረት ሠንጠረዥ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "የኮረንቲ ዥረት ሠንጠረዥ",
+        "newValue": "የዥረት ሠንጠረዥ"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "የዥረት ማወዳደርያ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የኮረንቲ ዥረት "
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "የኮረንቲ ዥረት ",
+        "newValue": "የዥረት ማወዳደርያ"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "ዳታ ከወሰን ውጪ",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1661892581047,
+        "oldValue": "",
+        "newValue": "ዳታ ከወሰን ውጪ"
+      }
+    ]
+  },
+  "dog": {
+    "value": "ውሻ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ውሻ"
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "የገንዘብ ኖት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የገንዘብ ኖት"
+      }
+    ]
+  },
+  "electrons": {
+    "value": "ኤሌክትሮኖች",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ኤሌክትሮኖች"
+      }
+    ]
+  },
+  "eraser": {
+    "value": "ላጲስ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ማጥፊያ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "ማጥፊያ",
+        "newValue": "ላጲስ"
+      }
+    ]
+  },
+  "frequency": {
+    "value": "ዝውተራ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ዝውተራ"
+      }
+    ]
+  },
+  "fuse": {
+    "value": "ባልቦላ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ባልቦላ"
+      }
+    ]
+  },
+  "hand": {
+    "value": "እጅ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "እጅ"
+      }
+    ]
+  },
+  "iec": {
+    "value": "IEC",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "IEC"
+      }
+    ]
+  },
+  "ieee": {
+    "value": "IEEE",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "IEEE"
+      }
+    ]
+  },
+  "inductance": {
+    "value": "ስርፆሽ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ስርፆሽ"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "ቃቤ ኮረንቲ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ቃቤ ኮረንቲ"
+      }
+    ]
+  },
+  "labels": {
+    "value": "መለያዎች",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "መለያዎች"
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "አምፖል",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "አምፑል"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "አምፑል",
+        "newValue": "አምፖል"
+      }
+    ]
+  },
+  "lots": {
+    "value": "ብዙ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ብዙ"
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "መጠን",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1661892581047,
+        "oldValue": "",
+        "newValue": "መጠን"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "ወረቀት ማያያዣ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ወረቀት ማያያዣ"
+      }
+    ]
+  },
+  "pencil": {
+    "value": "እርሳስ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "እርሳስ"
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "ገጥ ፉቅቅታ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ገጥ ፉቅቅታ"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "ሙግደት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ሙግደት"
+      }
+    ]
+  },
+  "resistor": {
+    "value": "ሞጋጅ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ሞጋጅ"
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "የምስል ስታንዳርድ",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1661892581047,
+        "oldValue": "",
+        "newValue": "የምስል ስታንዳርድ"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "ዥረቱን አሳይ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የኮረንቲ ዝረቱን አሳይ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "የኮረንቲ ዝረቱን አሳይ",
+        "newValue": "ዥረቱን አሳይ"
+      }
+    ]
+  },
+  "signed": {
+    "value": "ተፈርሟል",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1661892581047,
+        "oldValue": "",
+        "newValue": "ተፈርሟል"
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "የሙግደት ምንጭ",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "",
+        "newValue": "የሙግደት ምንጭ"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "ሰዓት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ሰዓት"
+      }
+    ]
+  },
+  "switch": {
+    "value": "ማብሪያ ማጥፊያ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ማብሪያና ማጥፊያ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "ማብሪያና ማጥፊያ",
+        "newValue": "ማብሪያ ማጥፊያ"
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "የኤሌክትሪክ እትበቱን አባል በመጫን አስተካክል/ይ።",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "",
+        "newValue": "የኤሌክትሪክ እትበቱን አባል በመጫን አስተካክል/ይ።"
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "ማብሪያ ማጥፍያው በርቷል።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ጠፍቷል።"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "ጠፍቷል።",
+        "newValue": "ማብሪያ ማጥፍያው በርቷል።"
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "ማብሪያ ማጥፍያው ጠፍቷል።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "በርቷል።"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "በርቷል።",
+        "newValue": "ማብሪያ ማጥፍያው ጠፍቷል።"
+      }
+    ]
+  },
+  "time": {
+    "value": "ጊዜ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ጊዜ"
+      }
+    ]
+  },
+  "tiny": {
+    "value": "ትንሽ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ትንሽ"
+      }
+    ]
+  },
+  "values": {
+    "value": "ዋጋዎች",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "",
+        "newValue": "ዋጋዎች"
+      }
+    ]
+  },
+  "voltage": {
+    "value": "የኤሌክትሪክ ግፊት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ቮልቴጅ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "ቮልቴጅ",
+        "newValue": "የኤሌክትሪክ ግፊት"
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": "የኤሌክትሪክ ግፊት (V)",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ቮልቴጅ (V)"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "ቮልቴጅ (V)",
+        "newValue": "የኤሌክትሪክ ግፊት (V)"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "የኤሌክትሪክ ግፊት ሠንጠረዥ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የቮልቴጅ ሠንጠረዥ"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "የቮልቴጅ ሠንጠረዥ",
+        "newValue": "የኤሌክትሪክ ግፊት ሠንጠረዥ"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "ቮልትሜትር",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ቮልትሜትር"
+      }
+    ]
+  },
+  "wire": {
+    "value": "የኤሌክትሪክ ገመድ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የኤሌክትሪክ ገመድ"
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "የኤሌክትሪክ ገመድ ሙግዳዊነት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የኤሌክትሪክ ገመድ ሙግዳዊነት"
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{current}} A"
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz"
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ {{currentRating}}A",
+    "history": [
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ {{currentRating}}A"
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} ohms",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{resistance}} ohms"
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω"
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{voltage}} V"
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volts",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "{{voltage}} volts"
+      }
+    ]
+  },
+  "realBulb": {
+    "value": "አምፖል (እውነተኛ)",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "አምፑል (እውነተኛ)"
+      },
+      {
+        "userId": 672644,
+        "timestamp": 1653045937076,
+        "oldValue": "አምፑል (እውነተኛ)",
+        "newValue": "አምፖል (እውነተኛ)"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "drinkMix": {
+    "value": "Getränkepulver",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Getränkepulver",
+        "explanation": null
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "mmol/L",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "mmol/L",
+        "explanation": null
+      }
+    ]
+  },
+  "units.uM": {
+    "value": "µmol/L",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "umol/L",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "umol/L",
+        "newValue": " µmol/L",
+        "explanation": null
+      },
+      {
+        "userId": 920037,
+        "timestamp": 1701447503801,
+        "oldValue": " µmol/L",
+        "newValue": "µmol/L",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Wasser",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Wasser",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltChloride": {
+    "value": "Cobalt(II) chlorid",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Cobalt(II)-chlorid",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Cobalt(II)-chlorid",
+        "newValue": "Cobalt(II) chlorid",
+        "explanation": null
+      }
+    ]
+  },
+  "cobaltIINitrate": {
+    "value": "Cobalt(II) nitrat",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Cobalt(II)-nitrat",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Cobalt(II)-nitrat",
+        "newValue": "Cobalt(II) nitrat",
+        "explanation": null
+      }
+    ]
+  },
+  "copperSulfate": {
+    "value": "Kupfer(II) sulfat",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Kupfer(II)-sulfat",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Kupfer(II)-sulfat",
+        "newValue": "Kupfer(II) sulfat",
+        "explanation": null
+      }
+    ]
+  },
+  "nickelIIChloride": {
+    "value": "Nickel(II) chlorid",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Nickel(II)-chlorid",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Nickel(II)-chlorid",
+        "newValue": "Nickel(II) chlorid",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0formula.1name": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChromate": {
+    "value": "Kalium chromat",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Kaliumchromat",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Kaliumchromat",
+        "newValue": "Kalium chromat",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumDichromate": {
+    "value": "Kalium dichromat",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Kaliumdichromat",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Kaliumdichromat",
+        "newValue": "Kalium dichromat",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumPermanganate": {
+    "value": "Kalium permanganat",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Kaliumpermanganat",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Kaliumpermanganat",
+        "newValue": "Kalium permanganat",
+        "explanation": null
+      }
+    ]
+  },
+  "absorbance": {
+    "value": "Absorption",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "Absorption",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0percent": {
+    "value": "{0}%",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "{0}%",
+        "explanation": null
+      }
+    ]
+  },
+  "transmittance": {
+    "value": "Transmission",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "Transmission",
+        "explanation": null
+      }
+    ]
+  },
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "Konzentration",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Konzentration",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0label": {
+    "value": "{0}:",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "{0}:",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "Lösung",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Lösung",
+        "explanation": null
+      }
+    ]
+  },
+  "preset": {
+    "value": "vorgegeben",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "vorgegeben",
+        "explanation": null
+      }
+    ]
+  },
+  "units.nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "variable": {
+    "value": "veränderbar",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "veränderbar",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "Wellenlänge",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "Wellenlänge",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.beersLaw": {
+    "value": "Beer's Gesetz",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "Beer's Gesetz",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumChloride": {
+    "value": "Natrium chlorid",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "Natriumchlorid",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Natriumchlorid",
+        "newValue": "Natrium chlorid",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "units.milliliters": {
+    "value": "mL",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "mL",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "mol/L",
+        "explanation": null
+      }
+    ]
+  },
+  "evaporation": {
+    "value": "Verdunstung",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Verdunstung",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "stark",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "stark",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "keine",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "keine",
+        "explanation": null
+      }
+    ]
+  },
+  "removeSolute": {
+    "value": "entferne gelösten Stoff",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "entferne gelösten Stoff",
+        "explanation": null
+      }
+    ]
+  },
+  "saturated": {
+    "value": "gesättigt!",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Gesättigt!",
+        "explanation": null
+      },
+      {
+        "userId": 272196,
+        "timestamp": 1522663886279,
+        "oldValue": "Gesättigt!",
+        "newValue": "gesättigt !",
+        "explanation": null
+      },
+      {
+        "userId": 920037,
+        "timestamp": 1701798703035,
+        "oldValue": "gesättigt !",
+        "newValue": "gesättigt!",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0soluteAmount": {
+    "value": "Menge gelöster Stoff: {0} g",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "Menge gelöster Stoff: {0} g",
+        "explanation": null
+      }
+    ]
+  },
+  "solute": {
+    "value": "gelöster Stoff",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "gelöster Stoff",
+        "explanation": null
+      }
+    ]
+  },
+  "solid": {
+    "value": "Feststoff",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Feststoff",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.concentration": {
+    "value": "Konzentration",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1454859412303,
+        "oldValue": "",
+        "newValue": "Konzentration",
+        "explanation": null
+      }
+    ]
+  },
+  "beers-law-lab.title": {
+    "value": "Lambert-Beer's Absorptionslabor",
+    "history": [
+      {
+        "userId": 272196,
+        "timestamp": 1473606008408,
+        "oldValue": "",
+        "newValue": "Lambert-Beer's Absorptionslabor",
+        "explanation": null
+      }
+    ]
+  },
+  "showSolutionVolume": {
+    "value": "Lösungsvolumen anzeigen",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1701447503801,
+        "oldValue": "",
+        "newValue": "Lösungsvolumen anzeigen"
+      }
+    ]
+  },
+  "showSoluteAmount": {
+    "value": "Menge des gelösten Stoffes anzeigen",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1701447503801,
+        "oldValue": "",
+        "newValue": "Menge des gelösten Stoffes anzeigen"
+      }
+    ]
+  },
+  "beakerUnits": {
+    "value": "Bechereinheiten:",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1701447503801,
+        "oldValue": "",
+        "newValue": "Bechereinheiten:"
+      }
+    ]
+  },
+  "concentrationMeterUnits": {
+    "value": "Konzentrationsmessereinheiten:",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1701447503801,
+        "oldValue": "",
+        "newValue": "Konzentrationsmessereinheiten:"
+      }
+    ]
+  },
+  "units.percent": {
+    "value": "%",
+    "history": [
+      {
+        "userId": 920037,
+        "timestamp": 1701447503801,
+        "oldValue": "",
+        "newValue": "%"
+      }
+    ]
+  }
+}

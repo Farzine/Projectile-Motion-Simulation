@@ -1,0 +1,423 @@
+{
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "ρ"
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Ampidiro",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Ampidiro"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pejy Ambany",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Pejy Ambany"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pejy Ambony",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Pejy Ambony"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "fiovàna",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "fiovàna"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Elanelana",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Elanelana"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Raiso na Alefaso {{thing}}",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Grab or Release {{thing}}"
+      },
+      {
+        "userId": 11140897,
+        "timestamp": 1686725860667,
+        "oldValue": "Grab or Release {{thing}}",
+        "newValue": "Raiso na Alefaso {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Raiso na Alefaso{{thing}}",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Grab or release {{thing}}"
+      },
+      {
+        "userId": 11140897,
+        "timestamp": 1686725860667,
+        "oldValue": "Grab or release {{thing}}",
+        "newValue": "Raiso na Alefaso{{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "na",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "na"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686682204047,
+        "oldValue": "",
+        "newValue": "Tab"
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686727669099,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1686727669099,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Mivoaka",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Mivoaka"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Hetsika fototra",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Hetsika fototra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Hivoaka ny fifanakalozan-kevitra",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Hivoaka ny fifanakalozan-kevitra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Mifindra eny amin'ireo singa ao anaty vondrona",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Mifindra eny amin'ireo singa ao anaty vondrona"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Mifindra any amin'ny singa na vondrona manaraka",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Mifindra any amin'ny singa na vondrona manaraka"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Mandrosoa mankany amin'ny singa manaraka",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Mandrosoa mankany amin'ny singa manaraka"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Mifindra any amin'ny singa na vondrona teo aloha",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Mifindra any amin'ny singa na vondrona teo aloha"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Hiverina any amin'ny singa teo aloha",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Hiverina any amin'ny singa teo aloha"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Tsindrio bokotra",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Tsindrio bokotra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Ampifamadiho ny boaty",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Ampifamadiho ny boaty"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "Farany",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Farany"
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Trano",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Trano"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Ahitsio amin'ny dingana lehibe kokoa",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Ahitsio amin'ny dingana lehibe kokoa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Ahitsio amin'ny dingana kely kokoa",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Ahitsio amin'ny dingana kely kokoa"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Ahitsio ny fanovana",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Ahitsio ny fanovana"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Ataovy ambony indrindra",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Ataovy ambony indrindra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Ataovy ambany indrindra",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "Ataovy ambany indrindra"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "fanaraha-maso ny fanovana",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687266684973,
+        "oldValue": "",
+        "newValue": "fanaraha-maso ny fanovana"
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Faritra fohy",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1687684065023,
+        "oldValue": "",
+        "newValue": "Faritra fohy"
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1688491893362,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1688491893362,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1688491893362,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1688491893362,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "<b>Grab</b> na <b>Afaka</b>",
+    "history": [
+      {
+        "userId": 11140897,
+        "timestamp": 1688491893362,
+        "oldValue": "",
+        "newValue": "<b>Grab</b> na <b>Afaka</b>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "Bandingkan",
+    "history": [
+      {
+        "userId": 964085,
+        "timestamp": 1664162557281,
+        "oldValue": "",
+        "newValue": "Bandingkan"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} adalah kurang daripada {{greaterNumber}}",
+    "history": [
+      {
+        "userId": 964085,
+        "timestamp": 1664162557281,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} adalah kurang daripada {{greaterNumber}}"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}}  adalah besar daripada {{smallerNumber}}",
+    "history": [
+      {
+        "userId": 964085,
+        "timestamp": 1664162557281,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}}  adalah besar daripada {{smallerNumber}}"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} adalah sama dengan {{equalNumberRight}}",
+    "history": [
+      {
+        "userId": 964085,
+        "timestamp": 1664162557281,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} adalah sama dengan {{equalNumberRight}}"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "Perbandingan Nombor",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742704558112,
+        "oldValue": "",
+        "newValue": "Perbandingan Nombor"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "Mendengar Ayat Nombor Secara Automatik",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742704558112,
+        "oldValue": "",
+        "newValue": "Mendengar Ayat Nombor Secara Automatik"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "Dengar ayat nombor dikemas kini secara automatik semasa anda berinteraksi.",
+    "history": [
+      {
+        "userId": 11360046,
+        "timestamp": 1742704558112,
+        "oldValue": "",
+        "newValue": "Dengar ayat nombor dikemas kini secara automatik semasa anda berinteraksi."
+      }
+    ]
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "custom": {
+    "value": "Personnalisée",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Personnalisée",
+        "explanation": null
+      }
+    ]
+  },
+  "earth": {
+    "value": "Terre",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Terre",
+        "explanation": null
+      }
+    ]
+  },
+  "jupiter": {
+    "value": "Jupiter",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Jupiter",
+        "explanation": null
+      }
+    ]
+  },
+  "moon": {
+    "value": "Lune",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Lune",
+        "explanation": null
+      }
+    ]
+  },
+  "planetX": {
+    "value": "Planète X",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Planète X",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.kineticEnergyAbbreviation": {
+    "value": "E<sub>C</sub>",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "EC",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "EC",
+        "newValue": "E<sub>C</sub>"
+      }
+    ]
+  },
+  "legend.potentialEnergyAbbreviation": {
+    "value": "E<sub>P</sub>",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "EP",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "EP",
+        "newValue": "E<sub>P</sub>"
+      }
+    ]
+  },
+  "legend.thermalEnergyAbbreviation": {
+    "value": "E<sub>th</sub>",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "E<sub>therm</sub>",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "E<sub>therm</sub>",
+        "newValue": "E<sub>th</sub>"
+      }
+    ]
+  },
+  "legend.totalEnergyAbbreviation": {
+    "value": "E<sub>tot</sub>",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "E<sub>totale</sub>",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "E<sub>totale</sub>",
+        "newValue": "E<sub>tot</sub>"
+      }
+    ]
+  },
+  "energyLegend": {
+    "value": "Légende de l'énergie",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Légende de l'énergie",
+        "explanation": null
+      }
+    ]
+  },
+  "legend.kineticEnergy": {
+    "value": "Énergie cinétique",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Energie cinétique",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Energie cinétique",
+        "newValue": "Énergie cinétique"
+      }
+    ]
+  },
+  "legend.potentialEnergy": {
+    "value": "Énergie potentielle",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Energie potentielle",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Energie potentielle",
+        "newValue": "Énergie potentielle"
+      }
+    ]
+  },
+  "legend.thermalEnergy": {
+    "value": "Énergie thermique",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Energie thermique",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Energie thermique",
+        "newValue": "Énergie thermique"
+      }
+    ]
+  },
+  "legend.totalEnergy": {
+    "value": "Énergie totale",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Energie totale",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Energie totale",
+        "newValue": "Énergie totale"
+      }
+    ]
+  },
+  "energyGraph": {
+    "value": "Graphe de l'énergie",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Graphe de l'énergie",
+        "explanation": null
+      }
+    ]
+  },
+  "pendulumMassPattern": {
+    "value": "Masse {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Masse {{pendulumNumber}}",
+        "explanation": null
+      }
+    ]
+  },
+  "friction": {
+    "value": "Frottement",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Frottement",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Beaucoup",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Beaucoup",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Aucun",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Aucune",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Aucune",
+        "newValue": "Aucun"
+      }
+    ]
+  },
+  "gravitationalAccelerationPattern": {
+    "value": "{{gravity}} m/s<sup>2</sup>",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "{{gravity}} m/s<sup>2</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "whatIsTheValueOfGravity": {
+    "value": "Quelle est la valeur de la gravité?",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Quelle est la valeur de la gravité?",
+        "explanation": null
+      }
+    ]
+  },
+  "gravity": {
+    "value": "Pesanteur",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Gravité",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Gravité",
+        "newValue": "Pesanteur"
+      }
+    ]
+  },
+  "length": {
+    "value": "Longueur {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Longueur {{pendulumNumber}}",
+        "explanation": null
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masse {{pendulumNumber}}",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Masse {{pendulumNumber}}",
+        "explanation": null
+      }
+    ]
+  },
+  "metersPattern": {
+    "value": "{{meters}} m",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "{{meters}} m",
+        "explanation": null
+      }
+    ]
+  },
+  "kilogramsPattern": {
+    "value": "{{kilograms}} kg",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "{{kilograms}} kg",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerUnits": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "Normal",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Normal",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Ralenti",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Lent",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Lent",
+        "newValue": "Ralenti"
+      }
+    ]
+  },
+  "degreesPattern": {
+    "value": "{{degrees}}°",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "{{degrees}}°",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "Règle",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Règle",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Chronomètre",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Chronomètre",
+        "explanation": null
+      }
+    ]
+  },
+  "periodTimer": {
+    "value": "Minuteur de période",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Minuteur de période",
+        "explanation": null
+      }
+    ]
+  },
+  "periodTrace": {
+    "value": "Trace de période",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Trace de période",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "Énergie",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Energie",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Energie",
+        "newValue": "Énergie"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Intro",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Intro",
+        "explanation": null
+      }
+    ]
+  },
+  "acceleration": {
+    "value": "Accélération",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Accélération",
+        "explanation": null
+      }
+    ]
+  },
+  "velocity": {
+    "value": "Vitesse",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Vitesse",
+        "explanation": null
+      }
+    ]
+  },
+  "secondsPattern": {
+    "value": "{{seconds}} s",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "{{seconds}} s",
+        "explanation": null
+      }
+    ]
+  },
+  "period": {
+    "value": "Période",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Période",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Labo",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Labo",
+        "explanation": null
+      }
+    ]
+  },
+  "pendulum-lab.title": {
+    "value": "Labo du pendule",
+    "history": [
+      {
+        "userId": 147846,
+        "timestamp": 1506883951732,
+        "oldValue": "",
+        "newValue": "Laboratoire pendulaire",
+        "explanation": null
+      },
+      {
+        "userId": 871615,
+        "timestamp": 1663850992129,
+        "oldValue": "Laboratoire pendulaire",
+        "newValue": "Labo du pendule"
+      }
+    ]
+  }
+}

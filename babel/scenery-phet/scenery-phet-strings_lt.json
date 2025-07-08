@@ -1,0 +1,978 @@
+{
+  "shortCircuit": {
+    "value": "Trumpasis jungimas!",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1671096644250,
+        "oldValue": "",
+        "newValue": "Trumpasis jungimas!"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "1. Iškelti {{thingPlural}} sąrašą",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "1. Iškelti {{thingPlural}} sąrašą"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "2. Judėti per {{thingPlural}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": " 2. Judėti per {{thingPlural}}"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": " 2. Judėti per {{thingPlural}}",
+        "newValue": "2. Judėti per {{thingPlural}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "3. Pasirinkti naują {{thingSingular}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "3. Pasirinkti naują {{thingSingular}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "4. Pasirinkti sąrašą be pakeitimų",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "4. Pasirinkti sąrašą be pakeitimų"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "Reguliuoti",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "Reguliuoti"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483721,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Pagr. veiksmai",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612201286804,
+        "oldValue": "",
+        "newValue": "Pagr. veiksmai"
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483721,
+        "oldValue": "",
+        "newValue": "Enter"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1668002731825,
+        "oldValue": "Enter",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "Enter",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678697703938,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483721,
+        "oldValue": "",
+        "newValue": "Esc"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1668002731825,
+        "oldValue": "Esc",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "Esc",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678697703938,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Uždaryti langą",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1606742161302,
+        "oldValue": "",
+        "newValue": "Uždaryti langą",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Griebti arba paleisti {{thing}}",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553452485775,
+        "oldValue": "",
+        "newValue": "Griebti arba paleisti {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Griebti arba paleisti {{thing}}",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553452485775,
+        "oldValue": "",
+        "newValue": "Griebti arba paleisti {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Šokti į {{maximum}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "Šokti į {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Šokti į {{minimum}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "Šokti į {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "didžiausias",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "didžiausias"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "mažiausias",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "mažiausias"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Eiti į grupės elementus",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1606742161302,
+        "oldValue": "",
+        "newValue": "Eiti į grupės elementus",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Eiti į kitą elementą ar grupę",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1606742161302,
+        "oldValue": "",
+        "newValue": "Eiti į kitą elementą ar grupę",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Grįžti į buvusį elementą ar grupę",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1606742161302,
+        "oldValue": "",
+        "newValue": "Grįžti į buvusį elementą ar grupę",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "pasirinkimas",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "pasirinkimas"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "pasirinkimai",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "pasirinkimai"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "arba",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553452485775,
+        "oldValue": "",
+        "newValue": "Arba",
+        "explanation": null
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1612445861642,
+        "oldValue": "Arba",
+        "newValue": "arba"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553452485775,
+        "oldValue": "",
+        "newValue": "Kitas puslapis",
+        "explanation": null
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1641076616236,
+        "oldValue": "Kitas puslapis",
+        "newValue": "Pg Dn"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553452485775,
+        "oldValue": "",
+        "newValue": "Ankstesnis puslapis",
+        "explanation": null
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1641076616236,
+        "oldValue": "Ankstesnis puslapis",
+        "newValue": "Pg Up"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "Iškelti meniu",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "Iškelti meniu"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Paspauskite mygtukus",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612201286804,
+        "oldValue": "",
+        "newValue": "Paspauskite mygtukus"
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483722,
+        "oldValue": "",
+        "newValue": "Shift"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "slankiklis",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "slankiklis"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "Slankiklio valdymas",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612444489703,
+        "oldValue": "",
+        "newValue": "Slankiklio valdymas"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Tarpas",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612199435048,
+        "oldValue": "",
+        "newValue": "Tarpas"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483722,
+        "oldValue": "",
+        "newValue": "Tab"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Perjungti žymimuosius langelius",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612444489703,
+        "oldValue": "",
+        "newValue": "Perjungti žymimuosius langelius"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} didesniais žingsniais",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "{{verb}} didesniais žingsniais"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} mažesniais žingsniais",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1669025989292,
+        "oldValue": "",
+        "newValue": "{{verb}} mažesniais žingsniais"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483722,
+        "oldValue": "",
+        "newValue": "ρ"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1641076616236,
+        "oldValue": "ρ",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483722,
+        "oldValue": "",
+        "newValue": "Ω"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1641076616236,
+        "oldValue": "Ω",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Eiti į kitą elementą",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1606742161302,
+        "oldValue": "",
+        "newValue": "Eiti į kitą elementą",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Grįžti į buvusį elementą",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1606742161302,
+        "oldValue": "",
+        "newValue": "Grįžti į buvusį elementą",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "Liniuotė",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1668002232639,
+        "oldValue": "",
+        "newValue": "Liniuotė"
+      }
+    ]
+  },
+  "ruler": {
+    "value": "liniuotė",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1668002232639,
+        "oldValue": "",
+        "newValue": "liniuotė"
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "<b>sugriebti</b> arba <b>paleisti</b>",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1668002731826,
+        "oldValue": "",
+        "newValue": "<b>sugriebti</b> arba <b>paleisti</b>"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normalus",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612446559071,
+        "oldValue": "",
+        "newValue": "Normalus"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Sulėtintas",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612446559071,
+        "oldValue": "",
+        "newValue": "Lėtai"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1641076616236,
+        "oldValue": "Lėtai",
+        "newValue": "Sulėtintas"
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483722,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Perkrauti",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640967313673,
+        "oldValue": "",
+        "newValue": "Perkrauti"
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Rodoma žema grafikos kokybe",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640967313673,
+        "oldValue": "",
+        "newValue": "Rodoma žema grafikos kokybe"
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Atsiprašome, įvyko grafikos klaida.",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612197274140,
+        "oldValue": "",
+        "newValue": "Atsiprašome, įvyko grafikos klaida."
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Atnaujinkite Internet Explorer",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640967313673,
+        "oldValue": "",
+        "newValue": "Atnaujinkite Internet Explorer"
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL yra neįjungtas arba nepasiekiamas. Spustelk, kad sužinotum daugiau.",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612439173458,
+        "oldValue": "",
+        "newValue": "WebGL yra neįjungtas arba nepasiekiamas. Spustelk, kad sužinotum daugiau."
+      }
+    ]
+  },
+  "cool": {
+    "value": "Aušinti",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553452485775,
+        "oldValue": "",
+        "newValue": "Aušinti",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Greitai",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483721,
+        "oldValue": "",
+        "newValue": "Greitai"
+      }
+    ]
+  },
+  "heat": {
+    "value": "Šildyti",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553452485775,
+        "oldValue": "",
+        "newValue": "Šiluma",
+        "explanation": null
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1640966483721,
+        "oldValue": "Šiluma",
+        "newValue": "Šildyti"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483722,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1640966483722,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "Keisti didesniais žingsniais",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612444489702,
+        "oldValue": "",
+        "newValue": "Keisti didesniais žingsniais"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "Keisti mažesniais žingsniais",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612444489702,
+        "oldValue": "",
+        "newValue": "Keisti mažesniais žingsniais"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "Reguliuoti slankiklį",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612444489702,
+        "oldValue": "",
+        "newValue": "Reguliuoti slankiklį"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "Šokti į didžiausią",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612444489702,
+        "oldValue": "",
+        "newValue": "Šokti į didžiausią"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "Šokti į mažiausią",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1612444489702,
+        "oldValue": "",
+        "newValue": "Šokti į mažiausią"
+      }
+    ]
+  },
+  "keyboardHelpDialog.generalNavigation": {
+    "value": "Pagrindinė navigacija",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1606742161302,
+        "oldValue": "",
+        "newValue": "Pagrindinė navigacija",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 533254,
+        "timestamp": 1553439026819,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "Caps Lock",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678697703938,
+        "oldValue": "",
+        "newValue": "Caps Lock",
+        "explanation": null
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "End"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "End",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678697703938,
+        "oldValue": "",
+        "newValue": "End",
+        "explanation": null
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "Fn"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "Fn",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678697703938,
+        "oldValue": "",
+        "newValue": "Fn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "Home"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "Home",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678697703938,
+        "oldValue": "",
+        "newValue": "Home",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696522167,
+        "oldValue": "",
+        "newValue": "-"
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "-",
+        "newValue": ""
+      },
+      {
+        "userId": 859922,
+        "timestamp": 1678697703938,
+        "oldValue": "",
+        "newValue": "-",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678696880534,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "Option",
+    "history": [
+      {
+        "userId": 859922,
+        "timestamp": 1678715352515,
+        "oldValue": "",
+        "newValue": "Option"
+      }
+    ]
+  }
+}

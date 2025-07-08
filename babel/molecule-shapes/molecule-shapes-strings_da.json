@@ -1,0 +1,471 @@
+{
+  "control.bonding": {
+    "value": "Binding",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Binding",
+        "explanation": null
+      }
+    ]
+  },
+  "control.electronGeometry": {
+    "value": "Elektrongeometri",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Elektronfordeling",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1682504122227,
+        "oldValue": "Elektronfordeling",
+        "newValue": "Elektrongeometri",
+        "explanation": null
+      }
+    ]
+  },
+  "control.geometryName": {
+    "value": "Navn",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Geometrisk navn",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1454995738939,
+        "oldValue": "Geometrisk navn",
+        "newValue": "Navn",
+        "explanation": null
+      }
+    ]
+  },
+  "control.lonePair": {
+    "value": "Frie elektronpar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Frie elektronpar",
+        "explanation": null
+      }
+    ]
+  },
+  "control.modelView": {
+    "value": "Model",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110135,
+        "oldValue": "",
+        "newValue": "Model",
+        "explanation": null
+      }
+    ]
+  },
+  "control.molecule": {
+    "value": "Molekyle",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Molekyle",
+        "explanation": null
+      }
+    ]
+  },
+  "control.moleculeGeometry": {
+    "value": "Molekylegeometri",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Molekyle geometri",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1454324261724,
+        "oldValue": "Molekyle geometri",
+        "newValue": "Molekylegeometri",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1454995738939,
+        "oldValue": "Molekylegeometri",
+        "newValue": "Molekylefordeling",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1682504122227,
+        "oldValue": "Molekylefordeling",
+        "newValue": "Molekylegeometri",
+        "explanation": null
+      }
+    ]
+  },
+  "control.options": {
+    "value": "Muligheder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Muligheder",
+        "explanation": null
+      }
+    ]
+  },
+  "control.realView": {
+    "value": "Virkelig",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Virkelig",
+        "explanation": null
+      }
+    ]
+  },
+  "control.removeAll": {
+    "value": "Fjern alt",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Fjern alt",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showBondAngles": {
+    "value": "Vis bindingsvinkler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Vis bindingsvinkler",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showLonePairs": {
+    "value": "Vis frie elektronpar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Vis frie elektronpar",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.diatomic": {
+    "value": "Lineær",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Lineær",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.linear": {
+    "value": "Lineær",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Lineær",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.octahedral": {
+    "value": "Oktaeder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Oktaeder",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.tetrahedral": {
+    "value": "Tetraeder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Tetraeder",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalBipyramidal": {
+    "value": "Trekantet dobbeltpyramide",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Trekantet dobbeltpyramide",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalPlanar": {
+    "value": "Trekantet plan",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Trekantet plan",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes.title": {
+    "value": "Molekyleformer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454995221827,
+        "oldValue": "",
+        "newValue": "Molekyleformer",
+        "explanation": null
+      }
+    ]
+  },
+  "options.projectorColors": {
+    "value": "Projektorindstilling",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110135,
+        "oldValue": "",
+        "newValue": "Projektorindstilling",
+        "explanation": null
+      }
+    ]
+  },
+  "options.showOuterLonePairs": {
+    "value": "Vis ydre frie elektronpar",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110135,
+        "oldValue": "",
+        "newValue": "Vis ydre lone par",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1454324261724,
+        "oldValue": "Vis ydre lone par",
+        "newValue": "Vis ydre frie elektronpar",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.model": {
+    "value": "Model",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Molekyleformer",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1454995221827,
+        "oldValue": "Molekyleformer",
+        "newValue": "Model",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.realMolecules": {
+    "value": "Rigtige molekyler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110135,
+        "oldValue": "",
+        "newValue": "Rigtige molekyler",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.bent": {
+    "value": "Bøjet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Bøjet",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.diatomic": {
+    "value": "Lineær",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Lineær",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.linear": {
+    "value": "Lineær",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Lineær",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.octahedral": {
+    "value": "Oktaeder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Oktaeder",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.seesaw": {
+    "value": "Vippe",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Vippe",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePlanar": {
+    "value": "Firkantet plan",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Firkantet plan",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePyramidal": {
+    "value": "Firkantet pyramide",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Firkantet pyramide",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tShaped": {
+    "value": "T-formet",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "T-formet",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tetrahedral": {
+    "value": "Tetraeder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Tetraeder",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalBipyramidal": {
+    "value": "Trekantet dobbeltpyramide",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Trekantet dobbeltpyramide",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPlanar": {
+    "value": "Trekantet plan",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Trekantet plan",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPyramidal": {
+    "value": "Trekantet pyramide",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1454305110134,
+        "oldValue": "",
+        "newValue": "Trekantet pyramide",
+        "explanation": null
+      }
+    ]
+  }
+}

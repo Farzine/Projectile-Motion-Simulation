@@ -1,0 +1,458 @@
+{
+  "ButtonNode.ReturnMolecule": {
+    "value": "Încă o moleculă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Întoarce molecula",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "Întoarce molecula",
+        "newValue": "Încă o moleculă",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonDioxide": {
+    "value": "Dioxid de carbon",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Dioxid de carbon",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.CarbonMonoxide": {
+    "value": "Monoxid de carbon",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Monoxid de carbon",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Nitrogen": {
+    "value": "Azot",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Azot",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.NitrogenDioxide": {
+    "value": "Dioxid de azot",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Dioxid de azot",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Oxygen": {
+    "value": "Oxigen",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Oxigen",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Ozone": {
+    "value": "Ozon",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Ozon",
+        "explanation": null
+      }
+    ]
+  },
+  "ControlPanel.Water": {
+    "value": "Apă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Apă",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.HigherEnergy": {
+    "value": "Crește energia",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Energie înaltă",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "Energie înaltă",
+        "newValue": "Crește energia",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Infrared": {
+    "value": "Infraroșu",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143427,
+        "oldValue": "",
+        "newValue": "Infrarosu",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "Infrarosu",
+        "newValue": "Infraroșu",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Microwave": {
+    "value": "Microunde",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143427,
+        "oldValue": "",
+        "newValue": "Microunde",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Ultraviolet": {
+    "value": "Ultraviolet",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Ultraviolet",
+        "explanation": null
+      }
+    ]
+  },
+  "QuadWavelengthSelector.Visible": {
+    "value": "Vizibil",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143427,
+        "oldValue": "",
+        "newValue": "Vizibil",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.buttonCaption": {
+    "value": "Spectrul electromagnetic",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Arată spectrul ",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "Arată spectrul ",
+        "newValue": "Spectrul electromagnetic",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.close": {
+    "value": "Închide",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Închide",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.cyclesPerSecondUnits": {
+    "value": "Hz",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.frequencyArrowLabel": {
+    "value": "Crește frecvența și energia",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Crește frecvența și energia",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.gammaRayBandLabel": {
+    "value": "Radiații Gamma",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Radiații Gamma",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.infraredBandLabel": {
+    "value": "Infraroșu",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Infrarosu",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "Infrarosu",
+        "newValue": "Infraroșu",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.metersUnits": {
+    "value": "m",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "m",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.microwaveBandLabel": {
+    "value": "Microunde",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Microunde",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.radioBandLabel": {
+    "value": "Radio",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Radio",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.title": {
+    "value": "Spectrul radiațiilor electromagnetice",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Spectrul radiațiilor electromagnetice",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.ultravioletBandLabel": {
+    "value": "Ultraviolet",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Ultraviolet",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.visibleBandLabel": {
+    "value": "Vizibil",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Vizibil",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.wavelengthArrowLabel": {
+    "value": "Crește lungimea de undă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Crește lungimea de undă",
+        "explanation": null
+      }
+    ]
+  },
+  "SpectrumWindow.xrayBandLabel": {
+    "value": "Radiații X",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Radiații X",
+        "explanation": null
+      }
+    ]
+  },
+  "molecularNamePattern": {
+    "value": "{0} ({1})",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      },
+      {
+        "userId": 183155,
+        "timestamp": 1682055418557,
+        "oldValue": "{0} {1}",
+        "newValue": "{0} ({1})",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules-and-light.title": {
+    "value": "Moleculele și lumina",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1449818143428,
+        "oldValue": "",
+        "newValue": "Moleculele și lumina",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.observationWindow": {
+    "value": "Fereastra de observație",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "",
+        "newValue": "Fereastra de observație"
+      }
+    ]
+  },
+  "keyboardHelpDialog.turnLightSourceOnOrOff": {
+    "value": "Porniți sau opriți sursa de lumină",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "",
+        "newValue": "Porniți sau opriți sursa de lumină"
+      }
+    ]
+  },
+  "keyboardHelpDialog.pauseOrPlayShortcut": {
+    "value": "Pauză sau redare acțiune în fereastra de observare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "",
+        "newValue": "Pauză sau redare acțiune în fereastra de observare"
+      }
+    ]
+  },
+  "keyboardHelpDialog.stepForwardShortcut": {
+    "value": "Când acțiunea este în pauză, înainte în pași mari",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "",
+        "newValue": "Când acțiunea este în pauză, înainte în pași mari"
+      }
+    ]
+  },
+  "ControlPanel.Methane": {
+    "value": "Metan",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "",
+        "newValue": "Metan"
+      }
+    ]
+  },
+  "openSciEd.energySource": {
+    "value": "Energia de la suprafața Pământului",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1681495966036,
+        "oldValue": "",
+        "newValue": "Energia de la suprafața Pământului"
+      }
+    ]
+  }
+}

@@ -1,0 +1,811 @@
+{
+  "screen.intro": {
+    "value": "المقدمة",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "مقدمة"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "مقدمة",
+        "newValue": "المقدمة"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "المعمل",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "مختبر"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "مختبر",
+        "newValue": "المعمل"
+      }
+    ]
+  },
+  "addMutations": {
+    "value": "اضافة طفرات",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "أضف الطفرات"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "أضف الطفرات",
+        "newValue": "اضافة طفرات"
+      }
+    ]
+  },
+  "dominant": {
+    "value": "سائدة",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "سائد"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "سائد",
+        "newValue": "سائدة"
+      }
+    ]
+  },
+  "recessive": {
+    "value": "متنحية",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "متنحي"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "متنحي",
+        "newValue": "متنحية"
+      }
+    ]
+  },
+  "addMutation": {
+    "value": "اضافة طفرة",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "إضافة طفرة"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "إضافة طفرة",
+        "newValue": "اضافة طفرة"
+      }
+    ]
+  },
+  "allOfTheBunniesHaveDied": {
+    "value": "ماتت كل الأرانب",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "ماتت كل الأرانب."
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "ماتت كل الأرانب.",
+        "newValue": "ماتت كل الأرانب"
+      }
+    ]
+  },
+  "environmentalFactors": {
+    "value": "العوامل البيئية",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "عوامل بيئية"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "عوامل بيئية",
+        "newValue": "العوامل البيئية"
+      }
+    ]
+  },
+  "environmentalFactor": {
+    "value": "عامل بيئي ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "عامل بيئي"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "عامل بيئي",
+        "newValue": "عامل بيئي "
+      }
+    ]
+  },
+  "population": {
+    "value": "السكان ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "تعداد الارانب"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "تعداد الارانب",
+        "newValue": "السكان "
+      }
+    ]
+  },
+  "proportions": {
+    "value": "النسب ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "النسب"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "النسب",
+        "newValue": "النسب "
+      }
+    ]
+  },
+  "pedigree": {
+    "value": "السلالة",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "شجرة العائلة"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "شجرة العائلة",
+        "newValue": "السلالة"
+      }
+    ]
+  },
+  "none": {
+    "value": "لا أحد",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "لا شيء"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "لا شيء",
+        "newValue": "لا أحد"
+      }
+    ]
+  },
+  "memoryLimitMessage": {
+    "value": "مبارك! <br><br> نجت الأرانب الخاصة بك لفترة كافية<br> لتصل إلى الحد الأقصى لذاكرة المحاكاة.",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "تهانينا! <br> <br> لقد نجت أعداد الأرانب لديك لفترة كافية <br> لتصل إلى الحد الأقصى للذاكرة في المحاكاة."
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "تهانينا! <br> <br> لقد نجت أعداد الأرانب لديك لفترة كافية <br> لتصل إلى الحد الأقصى للذاكرة في المحاكاة.",
+        "newValue": "مبارك! <br><br> نجت الأرانب الخاصة بك لفترة كافية<br> لتصل إلى الحد الأقصى لذاكرة المحاكاة."
+      }
+    ]
+  },
+  "bunniesHaveTakenOverTheWorld": {
+    "value": "لقد سيطرت الأرانب على العالم",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "لقد سيطرت الأرانب على العالم!"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "لقد سيطرت الأرانب على العالم!",
+        "newValue": "لقد سيطرت الأرانب على العالم"
+      }
+    ]
+  },
+  "fur": {
+    "value": "فرو",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "فرو"
+      }
+    ]
+  },
+  "furDominant": {
+    "value": "الفرو السائد",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "الفرو السائد"
+      }
+    ]
+  },
+  "furRecessive": {
+    "value": "الفرو المتنحي",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "الفرو المتنحي"
+      }
+    ]
+  },
+  "ears": {
+    "value": "آذان",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "آذان "
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "آذان ",
+        "newValue": "آذان"
+      }
+    ]
+  },
+  "earsDominant": {
+    "value": "آذان سائدة",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "آذان سائدة"
+      }
+    ]
+  },
+  "earsRecessive": {
+    "value": "آذان متنحية",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "آذان متنحية"
+      }
+    ]
+  },
+  "teeth": {
+    "value": "أسنان",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "أسنان "
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "أسنان ",
+        "newValue": "أسنان"
+      }
+    ]
+  },
+  "teethDominant": {
+    "value": "أسنان سائدة",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "أسنان سائدة"
+      }
+    ]
+  },
+  "teethRecessive": {
+    "value": "أسنان متنحية",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "أسنان متنحية"
+      }
+    ]
+  },
+  "whiteFur": {
+    "value": "فرو أبيض",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "فرو أبيض"
+      }
+    ]
+  },
+  "brownFur": {
+    "value": "فرو بني ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "فرو بني"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "فرو بني",
+        "newValue": "فرو بني "
+      }
+    ]
+  },
+  "floppyEars": {
+    "value": "آذان مرنة",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "آذان متدلية"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "آذان متدلية",
+        "newValue": "آذان مرنة"
+      }
+    ]
+  },
+  "straightEars": {
+    "value": "آذان طبيعية",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "آذان مستقيمة"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "آذان مستقيمة",
+        "newValue": "آذان طبيعية"
+      }
+    ]
+  },
+  "shortTeeth": {
+    "value": "أسنان قصيرة ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "أسنان قصيرة"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "أسنان قصيرة",
+        "newValue": "أسنان قصيرة "
+      }
+    ]
+  },
+  "longTeeth": {
+    "value": "أسنان طويلة ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "أسنان طويلة"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "أسنان طويلة",
+        "newValue": "أسنان طويلة "
+      }
+    ]
+  },
+  "limitedFood": {
+    "value": "طعام محدود ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "طعام محدود"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "طعام محدود",
+        "newValue": "طعام محدود "
+      }
+    ]
+  },
+  "toughFood": {
+    "value": "طعام صلب ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "طعام صلب"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "طعام صلب",
+        "newValue": "طعام صلب "
+      }
+    ]
+  },
+  "wolves": {
+    "value": "الذئاب",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "ذئاب"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "ذئاب",
+        "newValue": "الذئاب"
+      }
+    ]
+  },
+  "generationValue": {
+    "value": "جيل {{value}}",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "جيل {{value}}"
+      }
+    ]
+  },
+  "mutationComing": {
+    "value": "ظهور طفرة.. ",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "الطفرة قادمة..."
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "الطفرة قادمة...",
+        "newValue": "ظهور طفرة.. "
+      }
+    ]
+  },
+  "generation": {
+    "value": "جيل",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "جيل"
+      }
+    ]
+  },
+  "zoomOutToSeeData": {
+    "value": "تصغير لرؤية البيانات",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "تصغير لرؤية البيانات."
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "تصغير لرؤية البيانات.",
+        "newValue": "تصغير لرؤية البيانات"
+      }
+    ]
+  },
+  "total": {
+    "value": "المجموع",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "المجموع"
+      }
+    ]
+  },
+  "dataProbe": {
+    "value": "تحقيق البيانات",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "مسبار البيانات"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "مسبار البيانات",
+        "newValue": "تحقيق البيانات"
+      }
+    ]
+  },
+  "alleles": {
+    "value": "الأليلات",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "الأليلات"
+      }
+    ]
+  },
+  "selectABunny": {
+    "value": "اختر الأرنب",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "اختر أرنباً"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "اختر أرنباً",
+        "newValue": "اختر الأرنب"
+      }
+    ]
+  },
+  "startOfGeneration": {
+    "value": "بداية الجيل",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "بداية الجيل"
+      }
+    ]
+  },
+  "endOfGeneration": {
+    "value": "نهاية الجيل",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "نهاية الجيل"
+      }
+    ]
+  },
+  "noData": {
+    "value": "لا يوجد بيانات",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "لا توجد بيانات"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "لا توجد بيانات",
+        "newValue": "لا يوجد بيانات"
+      }
+    ]
+  },
+  "currently": {
+    "value": "حاليا",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "حاليا"
+      }
+    ]
+  },
+  "oneBunny": {
+    "value": "أرنب واحد",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "أرنب واحد"
+      }
+    ]
+  },
+  "countBunnies": {
+    "value": " أرانب {{count}}",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "{{count}} أرانب"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "{{count}} أرانب",
+        "newValue": " أرانب {{count}}"
+      }
+    ]
+  },
+  "values": {
+    "value": "قيم",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "قيم"
+      }
+    ]
+  },
+  "addAMate": {
+    "value": "اضافة الرفيق",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "أضف رفيقاً"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "أضف رفيقاً",
+        "newValue": "اضافة الرفيق"
+      }
+    ]
+  },
+  "play": {
+    "value": "لعب",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "ابدأ"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "ابدأ",
+        "newValue": "لعب"
+      }
+    ]
+  },
+  "startOver": {
+    "value": "ابدأ من جديد",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "ابدأ من جديد"
+      }
+    ]
+  },
+  "greaterThanValuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "lessThanValuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "valuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "natural-selection.title": {
+    "value": "الانتقاء الطبيعي",
+    "history": [
+      {
+        "userId": 694652,
+        "timestamp": 1667110360428,
+        "oldValue": "",
+        "newValue": "الانتخاب الطبيعي"
+      },
+      {
+        "userId": 997918,
+        "timestamp": 1669446182006,
+        "oldValue": "الانتخاب الطبيعي",
+        "newValue": "الانتقاء الطبيعي"
+      }
+    ]
+  }
+}

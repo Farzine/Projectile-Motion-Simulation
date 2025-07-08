@@ -1,0 +1,304 @@
+{
+  "area": {
+    "value": "Plocha",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723866,
+        "oldValue": "",
+        "newValue": "Plocha"
+      }
+    ]
+  },
+  "areaModelCalculation": {
+    "value": "Modelové výpočty plochy",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723866,
+        "oldValue": "",
+        "newValue": "Modelové výpočty plochy"
+      }
+    ]
+  },
+  "calculation": {
+    "value": "Výpočet",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723866,
+        "oldValue": "",
+        "newValue": "Výpočet"
+      }
+    ]
+  },
+  "screen.decimals": {
+    "value": "Desetinná čísla",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1650289691080,
+        "oldValue": "",
+        "newValue": "Desetinná čísla"
+      }
+    ]
+  },
+  "dimensions": {
+    "value": "Rozměry",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723866,
+        "oldValue": "",
+        "newValue": "Rozměry"
+      }
+    ]
+  },
+  "factors": {
+    "value": "Faktory",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Faktory"
+      }
+    ]
+  },
+  "partialProducts": {
+    "value": "Dílčí součiny",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Dílčí součiny"
+      }
+    ]
+  },
+  "partition": {
+    "value": "Rozklad",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Rozklad"
+      }
+    ]
+  },
+  "product": {
+    "value": "Součin",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Součin"
+      }
+    ]
+  },
+  "totalAreaOfModel": {
+    "value": "Celková plocha modelu",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Celková plocha modelu"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "Prozkoumat",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Prozkoumat"
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.oneLength": {
+    "value": "Najdi dílčí součin a délku strany.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Najdi dílčí součin a délku strany. "
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1687032639402,
+        "oldValue": "Najdi dílčí součin a délku strany. ",
+        "newValue": "Najdi dílčí součin a délku strany.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.totalArea": {
+    "value": "Najdi dílčí součin a celkovou plochu.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Najdi dílčí součin a celkovou plochu. "
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1687032639402,
+        "oldValue": "Najdi dílčí součin a celkovou plochu. ",
+        "newValue": "Najdi dílčí součin a celkovou plochu.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.oneProduct.text": {
+    "value": "Najdi dílčí součin.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Najdi dílčí součin. "
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1687032639402,
+        "oldValue": "Najdi dílčí součin. ",
+        "newValue": "Najdi dílčí součin.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoProducts": {
+    "value": "Najdi dílčí součiny.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Najdi dílčí součiny. "
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1687032639402,
+        "oldValue": "Najdi dílčí součiny. ",
+        "newValue": "Najdi dílčí součiny.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.threeLengths": {
+    "value": "Najdi délky stran.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Najdi délky stran. "
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1687032639402,
+        "oldValue": "Najdi délky stran. ",
+        "newValue": "Najdi délky stran.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.twoLengths": {
+    "value": "Najdi délky stran.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Najdi délky stran. "
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1687032639402,
+        "oldValue": "Najdi délky stran. ",
+        "newValue": "Najdi délky stran.",
+        "explanation": null
+      }
+    ]
+  },
+  "levelPrompt.totalArea": {
+    "value": "Najdi celkovou plochu.",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Najdi celkovou plochu. "
+      },
+      {
+        "userId": 315698,
+        "timestamp": 1687032639402,
+        "oldValue": "Najdi celkovou plochu. ",
+        "newValue": "Najdi celkovou plochu.",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.game": {
+    "value": "Hra",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Hra"
+      }
+    ]
+  },
+  "screen.generic": {
+    "value": "Obecně",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Obecně"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Proměnné",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1628597723867,
+        "oldValue": "",
+        "newValue": "Proměnné"
+      }
+    ]
+  },
+  "screen.multiply": {
+    "value": "Násobení",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1687033546695,
+        "oldValue": "",
+        "newValue": "Násobení"
+      }
+    ]
+  },
+  "screen.partition": {
+    "value": "Rozklad",
+    "history": [
+      {
+        "userId": 315698,
+        "timestamp": 1687033546695,
+        "oldValue": "",
+        "newValue": "Rozklad"
+      }
+    ]
+  }
+}

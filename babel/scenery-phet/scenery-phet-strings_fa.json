@@ -1,0 +1,1364 @@
+{
+  "keyboardHelpDialog.hyphen": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "-"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "Alt"
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "اقدامات مقدماتی",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "اقدامات مقدماتی",
+        "explanation": null
+      }
+    ]
+  },
+  "key.capsLock": {
+    "value": "Caps Lock",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "Caps Lock"
+      }
+    ]
+  },
+  "key.end": {
+    "value": "End",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "End",
+        "explanation": null
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "وارد کن",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1660043700980,
+        "oldValue": "وارد کن",
+        "newValue": "Enter"
+      },
+      {
+        "userId": 1085395,
+        "timestamp": 1663944043329,
+        "oldValue": "Enter",
+        "newValue": "ورود (Enter)"
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1670306735537,
+        "oldValue": "ورود (Enter)",
+        "newValue": "Enter"
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "خروج از یک دیالوگ",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "خروج از یک دیالوگ",
+        "explanation": null
+      }
+    ]
+  },
+  "key.fn": {
+    "value": "Fn",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "Fn"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "{{thing}} را بکش یا رها کن",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "{{thing}} را بکش یا رها کن",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "{{thing}} را بکش یا رها کن",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "{{thing}} را بکش یا رها کن",
+        "explanation": null
+      }
+    ]
+  },
+  "key.home": {
+    "value": "Home",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "دکمۀ Home",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1670306735537,
+        "oldValue": "دکمۀ Home",
+        "newValue": "Home"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "جابجا شدن بین آیتم های یک گروه",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576254656351,
+        "oldValue": "",
+        "newValue": "جابجا شدن بین آیتم های یک گروه",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "جابجا شدن به آیتم یا گروه بعدی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576254656351,
+        "oldValue": "",
+        "newValue": "جابجا شدن به آیتم بعدی یا گروه بعدی",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "جابجا شدن به آیتم بعدی یا گروه بعدی",
+        "newValue": "جابجا شدن به آیتم یا گروه بعدی",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "جابجا شدن به آیتم یا گروه قبلی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576254656351,
+        "oldValue": "",
+        "newValue": "جابجا شدن به آیتم قبلی یا گروه قبلی",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "جابجا شدن به آیتم قبلی یا گروه قبلی",
+        "newValue": "جابجا شدن به آیتم یا گروه قبلی",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "یا",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576081275308,
+        "oldValue": "",
+        "newValue": "یا",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "Pg Dn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Pg Up",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "دکمه ها را فشار دهید",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576254656351,
+        "oldValue": "",
+        "newValue": "دکمه ها را فشار دهید",
+        "explanation": null
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Space",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576081275308,
+        "oldValue": "",
+        "newValue": "فضا",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "فضا",
+        "newValue": "دکمۀ Space",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "دکمۀ Space",
+        "newValue": "Space"
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "دکمۀ Tab کیبورد",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "برگه",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "برگه",
+        "newValue": "دکمۀ Tab کیبورد",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1670306735537,
+        "oldValue": "دکمۀ Tab کیبورد",
+        "newValue": "Tab"
+      },
+      {
+        "userId": 1045822,
+        "timestamp": 1673360517709,
+        "oldValue": "Tab",
+        "newValue": "دکمۀ Tab کیبورد"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "تغییر کادرهای انتخاب",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "تغییر کادرهای انتخاب",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{units}} {{distance}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660059197627,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}"
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714848735603,
+        "oldValue": "{{distance}} {{units}}",
+        "newValue": "{{units}} {{distance}}",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      },
+      {
+        "userId": 1085395,
+        "timestamp": 1663944043329,
+        "oldValue": "ρ",
+        "newValue": "مقاومت ρ"
+      },
+      {
+        "userId": 157252,
+        "timestamp": 1671979169884,
+        "oldValue": "مقاومت ρ",
+        "newValue": "ρ"
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577167832391,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      },
+      {
+        "userId": 1085395,
+        "timestamp": 1663944043329,
+        "oldValue": "Ω",
+        "newValue": "اهم Ω"
+      },
+      {
+        "userId": 157252,
+        "timestamp": 1671979169884,
+        "oldValue": "اهم Ω",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "سریع",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1641328662679,
+        "oldValue": "",
+        "newValue": "سریع"
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 157252,
+        "timestamp": 1671987253495,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 157252,
+        "timestamp": 1671987253495,
+        "oldValue": "",
+        "newValue": "L"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "سرعت نرمال",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1552040672832,
+        "oldValue": "",
+        "newValue": "نرمال",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577174495035,
+        "oldValue": "نرمال",
+        "newValue": "سرعت نرمال",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "سرعت آهسته",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1552040672832,
+        "oldValue": "",
+        "newValue": "آهسته",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1577174495035,
+        "oldValue": "آهسته",
+        "newValue": "سرعت آهسته",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "مدار کوتاه!",
+    "history": [
+      {
+        "userId": 157252,
+        "timestamp": 1671978446333,
+        "oldValue": "",
+        "newValue": "مدار کوتاه!"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "۱. لیست {{thingPlural}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "",
+        "newValue": "۱. لیست {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "۲. حرکت در {{thingPlural}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "",
+        "newValue": "۲. حرکت در {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "۳. انتخاب {{thingSingular}} جدید",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "",
+        "newValue": "۳. انتخاب {{thingSingular}} جدید"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "۴. بستن لیست بدون تغییر",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "",
+        "newValue": "۴. بستن لیست بدون تغییر"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjust": {
+    "value": "تنظیم",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "تنظیم"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "پرش به {{maximum}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "پرش به {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "پرش به {{minimum}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "پرش به {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "بیشینه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "بیشینه"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "کمینه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "کمینه"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "گزینه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "",
+        "newValue": "گزینه"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "گزینه ها",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "",
+        "newValue": "گزینه ها"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.headingString": {
+    "value": "بازکردن منو",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1670308065056,
+        "oldValue": "",
+        "newValue": "بازکردن منو"
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "ورق زن",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "ورق زن"
+      }
+    ]
+  },
+  "keyboardHelpDialog.sliderControls": {
+    "value": "کنترل ورق زن",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "کنترل ورق زن"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} در قدم های طولانی تر",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "{{verb}} در قدم های طولانی تر"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} در قدم های کوتاه تر",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "{{verb}} در قدم های کوتاه تر"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660058250799,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "بارگذاری مجدد",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1584429175093,
+        "oldValue": "",
+        "newValue": "بارگذاری مجدد",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "اجرا با کیفیت گرافیکی پایین",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1584429175093,
+        "oldValue": "",
+        "newValue": "اجرا با کیفیت گرافیکی پایین",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "متاسفیم، یک اشکال گرافیکی پیش آمد.",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1584429175093,
+        "oldValue": "",
+        "newValue": "متاسفیم، یک اشکال گرافیکی پیش آمد. ",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714848735603,
+        "oldValue": "متاسفیم، یک اشکال گرافیکی پیش آمد. ",
+        "newValue": "متاسفیم، یک اشکال گرافیکی پیش آمد.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "اینترنت اکسپلورر را با نصب بروزرسانی توصیه شدۀ ویندوز به روز کنید.",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1584429175093,
+        "oldValue": "",
+        "newValue": "اینترنت اکسپلورر را با نصب بروزرسانی توصیه شدۀ ویندوز به روز کنید.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL فعال نشده یا در دسترس نیست. برای اطلاعات بیشتر کلیک کنید.",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1584429175093,
+        "oldValue": "",
+        "newValue": "WebGL فعال نشده یا در دسترس نیست. برای اطلاعات بیشتر کلیک کنید. ",
+        "explanation": null
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714848735603,
+        "oldValue": "WebGL فعال نشده یا در دسترس نیست. برای اطلاعات بیشتر کلیک کنید. ",
+        "newValue": "WebGL فعال نشده یا در دسترس نیست. برای اطلاعات بیشتر کلیک کنید.",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "سرما",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1485937840998,
+        "oldValue": "",
+        "newValue": "سرما",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "حرارت",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1485937840998,
+        "oldValue": "",
+        "newValue": "حرارت",
+        "explanation": null
+      }
+    ]
+  },
+  "comboBoxDisplay.valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577210750032,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "جابجا شدن به آیتم بعدی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576254656351,
+        "oldValue": "",
+        "newValue": "جابجا شدن به آیتم بعدی",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "جابجا شدن به آیتم قبلی",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1576254656351,
+        "oldValue": "",
+        "newValue": "جابجا شدن به آیتم قبلی",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerCapitalized": {
+    "value": "خط کش",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "خط کش",
+        "explanation": null
+      }
+    ]
+  },
+  "ruler": {
+    "value": "خط کش",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1577207497758,
+        "oldValue": "",
+        "newValue": "خط کش",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.resetAll": {
+    "value": "بازنشانی همه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "بازنشانی همه"
+      }
+    ]
+  },
+  "keyboardHelpDialog.setValuesInKeypad": {
+    "value": "تنظیم مقادیر صفحه کلید",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "تنظیم مقادیر صفحه کلید"
+      }
+    ]
+  },
+  "keyboardHelpDialog.move": {
+    "value": "حرکت",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "حرکت"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveSlower": {
+    "value": "حرکت آهسته",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "حرکت آهسته"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveDraggableItems": {
+    "value": "حرکت آیتم های جابجاپذیر",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "حرکت آیتم های جابجاپذیر"
+      }
+    ]
+  },
+  "key.option": {
+    "value": "گزینه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "گزینه"
+      }
+    ]
+  },
+  "key.a": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "A"
+      }
+    ]
+  },
+  "key.c": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "C"
+      }
+    ]
+  },
+  "key.d": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "D"
+      }
+    ]
+  },
+  "key.r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "key.s": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "S"
+      }
+    ]
+  },
+  "key.w": {
+    "value": "W",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "W"
+      }
+    ]
+  },
+  "key.one": {
+    "value": "۱",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "1"
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714806449192,
+        "oldValue": "1",
+        "newValue": "۱",
+        "explanation": null
+      }
+    ]
+  },
+  "key.two": {
+    "value": "۲",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "2"
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714806449192,
+        "oldValue": "2",
+        "newValue": "۲",
+        "explanation": null
+      }
+    ]
+  },
+  "key.three": {
+    "value": "۳",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1709873470799,
+        "oldValue": "",
+        "newValue": "3"
+      },
+      {
+        "userId": 641432,
+        "timestamp": 1714806449192,
+        "oldValue": "3",
+        "newValue": "۳",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelengthNMValuePattern": {
+    "value": "{0} نانومتر",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714798481890,
+        "oldValue": "",
+        "newValue": "{0} نانومتر"
+      }
+    ]
+  },
+  "wavelength": {
+    "value": "طول موج",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714798481890,
+        "oldValue": "",
+        "newValue": "طول موج"
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714798671630,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInLargerSteps": {
+    "value": "تنظیم با گام های بزرگ",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714801425743,
+        "oldValue": "",
+        "newValue": "تنظیم با گام های بزرگ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustInSmallerSteps": {
+    "value": "تنظیم با گام های کوچک",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714801425743,
+        "oldValue": "",
+        "newValue": "تنظیم با گام های کوچک"
+      }
+    ]
+  },
+  "keyboardHelpDialog.adjustSlider": {
+    "value": "تنظیم اسلایدر",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714801425743,
+        "oldValue": "",
+        "newValue": "تنظیم اسلایدر"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximum": {
+    "value": "پرش به بیشینه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714801425743,
+        "oldValue": "",
+        "newValue": "پرش به بیشینه"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimum": {
+    "value": "پرش به کمیینه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714801425743,
+        "oldValue": "",
+        "newValue": "پرش به کمیینه"
+      }
+    ]
+  },
+  "key.toGrabOrRelease": {
+    "value": "بگیر و رها کن",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714805261603,
+        "oldValue": "",
+        "newValue": "بگیر و رها کن"
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714847849216,
+        "oldValue": "",
+        "newValue": "{0} {1}"
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714847849216,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.timingControls": {
+    "value": "کنترل زمانبندی",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714880354043,
+        "oldValue": "",
+        "newValue": "کنترل زمانبندی"
+      }
+    ]
+  },
+  "keyboardHelpDialog.timingControls.pauseOrPlayAction": {
+    "value": "عمل پخش یا توقف",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714880354043,
+        "oldValue": "",
+        "newValue": "عمل پخش یا توقف"
+      }
+    ]
+  },
+  "zero": {
+    "value": "صفر",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "صفر"
+      }
+    ]
+  },
+  "one": {
+    "value": "یک",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "یک"
+      }
+    ]
+  },
+  "two": {
+    "value": "دو",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "دو"
+      }
+    ]
+  },
+  "three": {
+    "value": "سه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "سه"
+      }
+    ]
+  },
+  "four": {
+    "value": "چهار",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "چهار"
+      }
+    ]
+  },
+  "five": {
+    "value": "پنج",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "پنج"
+      }
+    ]
+  },
+  "six": {
+    "value": "شش",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "شش"
+      }
+    ]
+  },
+  "seven": {
+    "value": "هفت",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "هفت"
+      }
+    ]
+  },
+  "eight": {
+    "value": "هشت",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "هشت"
+      }
+    ]
+  },
+  "nine": {
+    "value": "نه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "نه"
+      }
+    ]
+  },
+  "ten": {
+    "value": "ده",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714890402070,
+        "oldValue": "",
+        "newValue": "ده"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.faucetControls": {
+    "value": "کنترل شیر آب",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1735760686260,
+        "oldValue": "",
+        "newValue": "کنترل شیر آب"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustFaucetFlow": {
+    "value": "تنظیم شارش شیر آب",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1735760686260,
+        "oldValue": "",
+        "newValue": "تنظیم شارش شیر آب"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInSmallerSteps": {
+    "value": "تنظیم با پله های کوچک تر",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1735760686260,
+        "oldValue": "",
+        "newValue": "تنظیم با پله های کوچک تر"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.adjustInLargerSteps": {
+    "value": "تنظیم با پله های بزرگ تر",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1735760686260,
+        "oldValue": "",
+        "newValue": "تنظیم با پله های بزرگ تر"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.closeFaucet": {
+    "value": "بستن شیر",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1735760686260,
+        "oldValue": "",
+        "newValue": "بستن شیر"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetFully": {
+    "value": "شیر را کاملا باز کن",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1735760686260,
+        "oldValue": "",
+        "newValue": "شیر را کاملا باز کن"
+      }
+    ]
+  },
+  "keyboardHelpDialog.faucetControls.openFaucetBriefly": {
+    "value": "شیر را کمی باز کن",
+    "history": [
+      {
+        "userId": 333721,
+        "timestamp": 1735760686260,
+        "oldValue": "",
+        "newValue": "شیر را کمی باز کن"
+      }
+    ]
+  }
+}

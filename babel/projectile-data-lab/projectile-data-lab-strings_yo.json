@@ -1,0 +1,240 @@
+{
+  "meanMPattern": {
+    "value": "{{mean}} m",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{mean}} m"
+      }
+    ]
+  },
+  "standardDeviationMPattern": {
+    "value": "{{standardDeviation}} m",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{standardDeviation}} m"
+      }
+    ]
+  },
+  "intervalMPattern": {
+    "value": "{{interval}} m",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{interval}} m"
+      }
+    ]
+  },
+  "percentPattern": {
+    "value": "{{percent}}%",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{percent}}%"
+      }
+    ]
+  },
+  "sampleSizeN": {
+    "value": "",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Sample Size (n)"
+      },
+      {
+        "userId": 973833,
+        "timestamp": 1741087809162,
+        "oldValue": "Sample Size (n)",
+        "newValue": ""
+      }
+    ]
+  },
+  "nEqualsSampleSizePattern": {
+    "value": "n = {{sampleSize}}",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "n = {{sampleSize}}"
+      }
+    ]
+  },
+  "numberOfSamplesPattern": {
+    "value": "",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Number of samples: {{numberOfSamples}}"
+      },
+      {
+        "userId": 973833,
+        "timestamp": 1741087809162,
+        "oldValue": "Number of samples: {{numberOfSamples}}",
+        "newValue": ""
+      }
+    ]
+  },
+  "valueDegreesPattern": {
+    "value": "{{value}}°",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{value}}°"
+      }
+    ]
+  },
+  "valueMetersPerSecondPattern": {
+    "value": "{{value}} m/s",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{value}} m/s"
+      }
+    ]
+  },
+  "stop": {
+    "value": "Duro",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Duro"
+      }
+    ]
+  },
+  "count": {
+    "value": "",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Ka"
+      },
+      {
+        "userId": 973833,
+        "timestamp": 1741087809162,
+        "oldValue": "Ka",
+        "newValue": ""
+      }
+    ]
+  },
+  "fieldNumberPattern": {
+    "value": "Field {{number}}",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Field {{number}}"
+      }
+    ]
+  },
+  "numberOfCountPattern": {
+    "value": "{{number}} of {{count}}",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{number}} of {{count}}"
+      }
+    ]
+  },
+  "min": {
+    "value": "Kere julo",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Kere julo"
+      }
+    ]
+  },
+  "max": {
+    "value": "Tobii julo",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Tobii julo"
+      }
+    ]
+  },
+  "binWidthMPattern": {
+    "value": "{{binWidth}} m",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "{{binWidth}} m"
+      }
+    ]
+  },
+  "projectile-data-lab.title": {
+    "value": "Data Laabu Projectileli",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087575757,
+        "oldValue": "",
+        "newValue": "Data Laabu Projectileli"
+      }
+    ]
+  },
+  "sampleNumberOfCountPattern": {
+    "value": "Apeere{{number}} of {{count}}",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087809162,
+        "oldValue": "",
+        "newValue": "Apeere{{number}} of {{count}}"
+      }
+    ]
+  },
+  "meanEqualsValueMPattern": {
+    "value": "Mean = {{value}} m",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087809162,
+        "oldValue": "",
+        "newValue": "Mean = {{value}} m"
+      }
+    ]
+  },
+  "launcherNumberPattern": {
+    "value": "Launcher {{number}}",
+    "history": [
+      {
+        "userId": 973833,
+        "timestamp": 1741087809162,
+        "oldValue": "",
+        "newValue": "Launcher {{number}}"
+      }
+    ]
+  }
+}

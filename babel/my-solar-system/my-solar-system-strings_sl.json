@@ -1,0 +1,470 @@
+{
+  "screen.intro": {
+    "value": "Uvod",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Uvod"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratorij",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Laboratorij"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Sledi težišču",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Sledi težišču"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Telesa",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Telesa"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Opombe o enotah",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Opombe o enotah"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Več podatkov",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Več podatkov"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Sonce in planet",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Sonce in planet"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Sonce, planet in luna",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Sonce, planet in luna"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Sonce, planet in komet",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Sonce, planet in komet"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Trojanci (asteroidi)",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Trojanci (asteroidi)"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Elipse",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Elipse"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Hiperbola",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419529,
+        "oldValue": "",
+        "newValue": "Hiperbola"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Frača",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Frača"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Dvojna frača",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Dvojna frača"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Dvojna zvezda, planet",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Dvojna zvezda, planet"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Balet štirih zvezd",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Balet štirih zvezd"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Sistem 4 zvezd",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Sistem 4 zvezd"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Poljubno",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Poljubno"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "s {{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "s {{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Masa"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Težišče",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Center mase"
+      },
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "Center mase",
+        "newValue": "Težišče"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1670689486003,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} do {{max}}",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "{{min}} do {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Moj sončni sistem",
+    "history": [
+      {
+        "userId": 156538,
+        "timestamp": 1670505419530,
+        "oldValue": "",
+        "newValue": "Moj sončni sistem"
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnOrbitalSystem": {
+    "value": "Izberi orbitalni sistem",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Izberi orbitalni sistem"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystem": {
+    "value": "orbitalni sistem",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "orbitalni sistem"
+      }
+    ]
+  },
+  "keyboardHelpDialog.orbitalSystems": {
+    "value": "orbitalni sistem",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "orbitalni sistem"
+      }
+    ]
+  },
+  "returnBodies": {
+    "value": "Vrni telesa",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Vrni telesa"
+      }
+    ]
+  },
+  "dataPanel.mass": {
+    "value": "Masa",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Masa"
+      }
+    ]
+  },
+  "dataPanel.position": {
+    "value": "Položaj",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Položaj"
+      }
+    ]
+  },
+  "dataPanel.velocity": {
+    "value": "Hitrost",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Hitrost"
+      }
+    ]
+  },
+  "unitsInfo.content2": {
+    "value": "<b>Opomba 2:</b> Vrednosti amse v simulaciji so od 1 mase Jupitra do 1.5 sončeve mase. Vsa astronomska telesa kažejo podobno obnašanjev močnem gravitacijskem polju, kar vključuje tudi manjše planete, komete in asteroide.",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "<b>Opomba 2:</b> Vrednosti amse v simulaciji so od 1 mase Jupitra do 1.5 sončeve mase. Vsa astronomska telesa kažejo podobno obnašanjev močnem gravitacijskem polju, kar vključuje tudi manjše planete, komete in asteroide."
+      }
+    ]
+  },
+  "unitsInfo.content3": {
+    "value": "<b>Opomba 3:</b> ZAradi velikega razpona vrednsoti v simulaciji so vektorji prikazane gravitacije včasih premajhni ali preveliki za prikaz. Vektor teže lahko povečamo/pomanjšamo z   uporabo kontrole povečave.",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "<b>Opomba 3:</b> ZAradi velikega razpona vrednsoti v simulaciji so vektorji prikazane gravitacije včasih premajhni ali preveliki za prikaz. Vektor teže lahko povečamo/pomanjšamo z   uporabo kontrole povečave."
+      }
+    ]
+  },
+  "mode.orbitalSystem1": {
+    "value": "Orbitalni sistem 1",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Orbitalni sistem 1"
+      }
+    ]
+  },
+  "mode.orbitalSystem2": {
+    "value": "Orbitalni sistem 2",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Orbitalni sistem 2"
+      }
+    ]
+  },
+  "mode.orbitalSystem3": {
+    "value": "Orbitalni sistem 3",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Orbitalni sistem 3"
+      }
+    ]
+  },
+  "mode.orbitalSystem4": {
+    "value": "Orbitalni sistem 4",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614190403,
+        "oldValue": "",
+        "newValue": "Orbitalni sistem 4"
+      }
+    ]
+  },
+  "unitsInfo.content": {
+    "value": "<b>Note 1:</b> Astronomska enota (AE) je približno 150 milijonov kilometrov. To je povprečna razdalj med Zemljo in SAoncem.",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1726614369472,
+        "oldValue": "",
+        "newValue": "<b>Note 1:</b> Astronomska enota (AE) je približno 150 milijonov kilometrov. To je povprečna razdalj med Zemljo in SAoncem."
+      }
+    ]
+  }
+}

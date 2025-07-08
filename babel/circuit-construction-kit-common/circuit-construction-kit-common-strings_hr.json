@@ -1,0 +1,796 @@
+{
+  "oneSecond": {
+    "value": "1 s",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "1 s",
+        "explanation": null
+      }
+    ]
+  },
+  "acSource": {
+    "value": "Izmjenični napon",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "AC napon",
+        "explanation": null
+      },
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "AC napon",
+        "newValue": "Izmjenični napon"
+      }
+    ]
+  },
+  "addRealBulbs": {
+    "value": "Dodaj stvarne žarulje",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Dodaj stvarne žarulje"
+      }
+    ]
+  },
+  "advanced": {
+    "value": "Napredno",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Napredno"
+      }
+    ]
+  },
+  "ammeter": {
+    "value": "Ampermetar",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Ampermetar",
+        "explanation": null
+      }
+    ]
+  },
+  "ammeterReadout": {
+    "value": "Očitanje ampermetra",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Očitanje ampermetra"
+      }
+    ]
+  },
+  "ammeters": {
+    "value": "Ampermetri",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Ampermetri",
+        "explanation": null
+      }
+    ]
+  },
+  "animationSpeedLimitReached": {
+    "value": "Dosegnuto ograničenje brzine animacije! Brzina simulacije reducirana na {{percent}}% uobičajene brzine.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Dosegnuto ograničenje brzine animacije! Brzina simulacije reducirana na {{percent}}% uobičajene brzine.",
+        "explanation": null
+      }
+    ]
+  },
+  "battery": {
+    "value": "Baterija",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Baterija",
+        "explanation": null
+      }
+    ]
+  },
+  "batteryResistance": {
+    "value": "Unutarnji otpor baterije",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Unutarnji otpor baterije",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitance": {
+    "value": "Električni kapacitet",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Električni kapacitet"
+      }
+    ]
+  },
+  "capacitor": {
+    "value": "Kondenzator",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Kondenzator"
+      }
+    ]
+  },
+  "coin": {
+    "value": "Novčić",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Novčić",
+        "explanation": null
+      }
+    ]
+  },
+  "conventional": {
+    "value": "Tehnički smjer struje",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Tehnički smjer struje",
+        "explanation": null
+      }
+    ]
+  },
+  "current": {
+    "value": "Struja",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Struja",
+        "explanation": null
+      }
+    ]
+  },
+  "currentWithUnits": {
+    "value": "Struja / A",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Struja / A"
+      }
+    ]
+  },
+  "currentChart": {
+    "value": "Graf struje",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Graf struje"
+      }
+    ]
+  },
+  "currentRating": {
+    "value": "Nazivna vrijednost struje",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Nazivna vrijednost struje"
+      }
+    ]
+  },
+  "dataOutOfRange": {
+    "value": "Podaci izvan mjernog područja",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Podaci izvan mjernog područja"
+      }
+    ]
+  },
+  "dog": {
+    "value": "Pas",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Pas",
+        "explanation": null
+      }
+    ]
+  },
+  "dollarBill": {
+    "value": "Novčanica",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Novčanica",
+        "explanation": null
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Gibanje elektrona.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Gibanje elektrona.",
+        "explanation": null
+      }
+    ]
+  },
+  "eraser": {
+    "value": "Gumica",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Gumica",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frekvencija",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "Frekvencija",
+        "explanation": null
+      }
+    ]
+  },
+  "fuse": {
+    "value": "Osigurač",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "Osigurač",
+        "explanation": null
+      }
+    ]
+  },
+  "hand": {
+    "value": "Ruka",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Ruka",
+        "explanation": null
+      }
+    ]
+  },
+  "inductance": {
+    "value": "Električni induktivitet",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Električni induktivitet"
+      }
+    ]
+  },
+  "inductor": {
+    "value": "Zavojnica",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Zavojnica"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Oznake",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Oznake",
+        "explanation": null
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Žarulja",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "Žarulja",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "visok",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "visok",
+        "explanation": null
+      }
+    ]
+  },
+  "magnitude": {
+    "value": "Iznos",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Iznos"
+      }
+    ]
+  },
+  "paperClip": {
+    "value": "Spajalica",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Spajalica",
+        "explanation": null
+      }
+    ]
+  },
+  "pencil": {
+    "value": "Olovka",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Olovka",
+        "explanation": null
+      }
+    ]
+  },
+  "phaseShift": {
+    "value": "Fazni pomak",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Fazni pomak"
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Električni otpor",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Električni otpor",
+        "explanation": null
+      }
+    ]
+  },
+  "resistor": {
+    "value": "Otpornik",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Otpornik",
+        "explanation": null
+      }
+    ]
+  },
+  "schematicStandard": {
+    "value": "Shema",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Shema"
+      }
+    ]
+  },
+  "showCurrent": {
+    "value": "Pokaži električnu struju",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Pokaži električnu struju",
+        "explanation": null
+      }
+    ]
+  },
+  "sourceResistance": {
+    "value": "Unutarnji otpor izvora",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Unutarnji otpor izvora"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "Štoperica",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Štoperica"
+      }
+    ]
+  },
+  "switch": {
+    "value": "Prekidač",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Prekidač",
+        "explanation": null
+      }
+    ]
+  },
+  "tapCircuitElementToEdit": {
+    "value": "Za uređivanje dodirnite element strujnog kruga.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Za uređivanje dodirnite element strujnog kruga.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsClosed": {
+    "value": "Prekidač je zatvoren.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Prekidač je zatvoren.",
+        "explanation": null
+      }
+    ]
+  },
+  "theSwitchIsOpen": {
+    "value": "Prekidač je otvoren.",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Prekidač je otvoren.",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Vrijeme",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "Vrijeme",
+        "explanation": null
+      }
+    ]
+  },
+  "tiny": {
+    "value": "nizak",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "nizak",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Vrijednosti",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Vrijednosti",
+        "explanation": null
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Električni napon",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Električni napon",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageWithUnits": {
+    "value": " Napon / V",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": " Napon / V"
+      }
+    ]
+  },
+  "voltageChart": {
+    "value": "Graf napona",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "",
+        "newValue": "Graf napona"
+      }
+    ]
+  },
+  "voltmeter": {
+    "value": "Voltmetar",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Voltmetar",
+        "explanation": null
+      }
+    ]
+  },
+  "wire": {
+    "value": "Vodič",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Vodič",
+        "explanation": null
+      }
+    ]
+  },
+  "wireResistivity": {
+    "value": "Otpor vodiča",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "Otpor vodiča",
+        "explanation": null
+      }
+    ]
+  },
+  "capacitanceUnits": {
+    "value": "{{capacitance}} F",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957895440,
+        "oldValue": "",
+        "newValue": "{{capacitance}} F"
+      }
+    ]
+  },
+  "currentUnits": {
+    "value": "{{current}} A",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "{{current}} A",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyHzValuePattern": {
+    "value": "{{frequency}} Hz",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "{{frequency}} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "inductanceUnits": {
+    "value": "{{inductance}} H",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957895440,
+        "oldValue": "",
+        "newValue": "{{inductance}} H"
+      }
+    ]
+  },
+  "capacitanceFaradsSymbol": {
+    "value": "{{resistance}} F",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957895440,
+        "oldValue": "",
+        "newValue": "{{resistance}} F"
+      }
+    ]
+  },
+  "inductanceHenriesSymbol": {
+    "value": "{{resistance}} H",
+    "history": [
+      {
+        "userId": 641452,
+        "timestamp": 1639957895440,
+        "oldValue": "",
+        "newValue": "{{resistance}} H"
+      }
+    ]
+  },
+  "fuseValue": {
+    "value": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "{{resistance}} mΩ<br><span style=\"font-size: 16px;\">≤ {{currentRating}} A</span>",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsValuePattern": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509402179540,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhmsSymbol": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageUnits": {
+    "value": "{{voltage}} V",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1568709162601,
+        "oldValue": "",
+        "newValue": "{{voltage}} V",
+        "explanation": null
+      }
+    ]
+  },
+  "voltageVoltsValuePattern": {
+    "value": "{{voltage}} volta",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "{{voltage}} volti",
+        "explanation": null
+      },
+      {
+        "userId": 641452,
+        "timestamp": 1639957593167,
+        "oldValue": "{{voltage}} volti",
+        "newValue": "{{voltage}} volta"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951046,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "resistanceOhms": {
+    "value": "{{resistance}} Ω",
+    "history": [
+      {
+        "userId": 169574,
+        "timestamp": 1509401951047,
+        "oldValue": "",
+        "newValue": "{{resistance}} Ω",
+        "explanation": null
+      }
+    ]
+  }
+}

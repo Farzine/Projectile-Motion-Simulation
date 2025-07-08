@@ -1,0 +1,160 @@
+{
+  "area": {
+    "value": "ploščina",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "ploščina",
+        "explanation": null
+      }
+    ]
+  },
+  "areaSymbol": {
+    "value": "S",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "S",
+        "explanation": null
+      }
+    ]
+  },
+  "length": {
+    "value": "dolžina",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "dolžina",
+        "explanation": null
+      }
+    ]
+  },
+  "lengthSymbol": {
+    "value": "l",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "l",
+        "explanation": null
+      }
+    ]
+  },
+  "resistance": {
+    "value": "Upor",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "Upor",
+        "explanation": null
+      }
+    ]
+  },
+  "resistivity": {
+    "value": "specifična upornost",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "specifični upornost",
+        "explanation": null
+      },
+      {
+        "userId": 157539,
+        "timestamp": 1556452445504,
+        "oldValue": "specifični upornost",
+        "newValue": "specifična upornost",
+        "explanation": null
+      }
+    ]
+  },
+  "resistance-in-a-wire.title": {
+    "value": "Upornost v žici",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "Upornost v žici",
+        "explanation": null
+      }
+    ]
+  },
+  "resistivitySymbol": {
+    "value": "ζ",
+    "history": [
+      {
+        "userId": 157539,
+        "timestamp": 1470122707028,
+        "oldValue": "",
+        "newValue": "ζ",
+        "explanation": null
+      }
+    ]
+  },
+  "cm": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1701337519695,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "ohm": {
+    "value": "ohmov",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1701337519695,
+        "oldValue": "",
+        "newValue": "ohmov"
+      }
+    ]
+  },
+  "pattern.0label.1value.2units": {
+    "value": "{0} = {1} {2}",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1701337519695,
+        "oldValue": "",
+        "newValue": "{0} = {1} {2}"
+      }
+    ]
+  },
+  "pattern.0resistanceUnits.1lengthUnits": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1701337519695,
+        "oldValue": "",
+        "newValue": "{0}{1}"
+      }
+    ]
+  },
+  "resistanceSymbol": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 157571,
+        "timestamp": 1701337519695,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  }
+}

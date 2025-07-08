@@ -1,0 +1,323 @@
+{
+  "allIons": {
+    "value": "所有離子",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "所有離子",
+        "explanation": null
+      }
+    ]
+  },
+  "charges": {
+    "value": "電荷",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459004269956,
+        "oldValue": "",
+        "newValue": "電荷",
+        "explanation": null
+      }
+    ]
+  },
+  "chartClear": {
+    "value": "清除",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459004269955,
+        "oldValue": "",
+        "newValue": "清除",
+        "explanation": null
+      }
+    ]
+  },
+  "chartTitle": {
+    "value": "膜電位與時間關係圖",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459005422143,
+        "oldValue": "",
+        "newValue": "膜電位與時間關係圖",
+        "explanation": null
+      }
+    ]
+  },
+  "chartXAxisLabel": {
+    "value": "時間 (毫秒)",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "時間（毫秒）",
+        "explanation": null
+      },
+      {
+        "userId": 184096,
+        "timestamp": 1459005422143,
+        "oldValue": "時間（毫秒）",
+        "newValue": "時間 (毫秒)",
+        "explanation": null
+      }
+    ]
+  },
+  "chartYAxisLabel": {
+    "value": "膜電位 (毫伏特)",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459005422143,
+        "oldValue": "",
+        "newValue": "膜電位 (毫伏特)",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationReadoutPattern.0label.1value.2units": {
+    "value": "{0} [{1} {2}]",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "{0} [{1} {2}]",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrations": {
+    "value": "濃度",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459004269956,
+        "oldValue": "",
+        "newValue": "濃度",
+        "explanation": null
+      }
+    ]
+  },
+  "fastForward": {
+    "value": "快轉",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "快轉",
+        "explanation": null
+      }
+    ]
+  },
+  "legend": {
+    "value": "圖例",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "圖例",
+        "explanation": null
+      }
+    ]
+  },
+  "neuron.title": {
+    "value": "Neuron_神經元",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "Neuron 神經元",
+        "explanation": null
+      },
+      {
+        "userId": 184096,
+        "timestamp": 1459004269956,
+        "oldValue": "Neuron 神經元",
+        "newValue": "神經元_Neuron",
+        "explanation": null
+      },
+      {
+        "userId": 184096,
+        "timestamp": 1492326809335,
+        "oldValue": "神經元_Neuron",
+        "newValue": "Neuron_神經元",
+        "explanation": null
+      }
+    ]
+  },
+  "normal": {
+    "value": "正常",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "正常",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumChemicalSymbol": {
+    "value": "K+",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "K+",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumGatedChannel": {
+    "value": "鉀離子通道 （電壓門控型）",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459416496881,
+        "oldValue": "",
+        "newValue": "鉀離子通道 （電壓門控型）",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumIon": {
+    "value": "鉀離子 (K+)",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "鉀離子 (K+)",
+        "explanation": null
+      }
+    ]
+  },
+  "potassiumLeakChannel": {
+    "value": "鉀離子通道 （一般型）",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459416496881,
+        "oldValue": "",
+        "newValue": "鉀離子通道 （一般型）",
+        "explanation": null
+      }
+    ]
+  },
+  "potentialChart": {
+    "value": "電位圖",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459004269956,
+        "oldValue": "",
+        "newValue": "電位圖",
+        "explanation": null
+      }
+    ]
+  },
+  "showLegend": {
+    "value": "顯示",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "顯示",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "慢動作",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "慢動作",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumChemicalSymbol": {
+    "value": "Na+",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "Na+",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumGatedChannel": {
+    "value": "鈉離子通道 （電壓門控型）",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459416496881,
+        "oldValue": "",
+        "newValue": "鈉離子通道 （電壓門控型）",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumIon": {
+    "value": "鈉離子 (Na+)",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "鈉離子 (Na+)",
+        "explanation": null
+      }
+    ]
+  },
+  "sodiumLeakChannel": {
+    "value": "鈉離子通道 （一般型）",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1459416496881,
+        "oldValue": "",
+        "newValue": "鈉離子通道 （一般型）",
+        "explanation": null
+      }
+    ]
+  },
+  "stimulateNeuron": {
+    "value": "模擬\n神經",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "模擬\n神經",
+        "explanation": null
+      }
+    ]
+  },
+  "units.mM": {
+    "value": "mM",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1456920271386,
+        "oldValue": "",
+        "newValue": "mM",
+        "explanation": null
+      }
+    ]
+  }
+}

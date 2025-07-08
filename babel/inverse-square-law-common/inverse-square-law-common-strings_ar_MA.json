@@ -1,0 +1,146 @@
+{
+  "units.centimeters": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656069632880,
+        "oldValue": "",
+        "newValue": "cm"
+      }
+    ]
+  },
+  "decimalNotation": {
+    "value": "التعبير العشري",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656428112316,
+        "oldValue": "",
+        "newValue": "التعبير العشري"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectPattern": {
+    "value": "القوة المطبقة على {{thisObject}} من طرف  {{otherObject}}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656018611881,
+        "oldValue": "",
+        "newValue": "قوة مطبقة على {{thisObject}} من طرف  {{otherObject}}"
+      },
+      {
+        "userId": 458291,
+        "timestamp": 1656069632881,
+        "oldValue": "قوة مطبقة على {{thisObject}} من طرف  {{otherObject}}",
+        "newValue": "القوة المطبقة على {{thisObject}} من طرف  {{otherObject}}"
+      }
+    ]
+  },
+  "forceOnObjectByOtherObjectWithUnitsPattern": {
+    "value": "القوة المطبقة على {{thisObject}} من طرف {{otherObject}} = {{value}} نيوتن",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656018611881,
+        "oldValue": "",
+        "newValue": "قوة مطبقة على {{thisObject}} من طرف {{otherObject}} = {{value}} نيوتن"
+      },
+      {
+        "userId": 458291,
+        "timestamp": 1656069632881,
+        "oldValue": "قوة مطبقة على {{thisObject}} من طرف {{otherObject}} = {{value}} نيوتن",
+        "newValue": "القوة المطبقة على {{thisObject}} من طرف {{otherObject}} = {{value}} نيوتن"
+      }
+    ]
+  },
+  "forceValues": {
+    "value": "شدة القوة",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656018611881,
+        "oldValue": "",
+        "newValue": "شدة القوة"
+      }
+    ]
+  },
+  "hidden": {
+    "value": "اخفاء",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656428112316,
+        "oldValue": "",
+        "newValue": "اخفاء"
+      }
+    ]
+  },
+  "units.meter": {
+    "value": "متر",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656018611881,
+        "oldValue": "",
+        "newValue": "متر"
+      }
+    ]
+  },
+  "units.meters": {
+    "value": "امتار",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656018611881,
+        "oldValue": "",
+        "newValue": "امتار"
+      }
+    ]
+  },
+  "units.newtons": {
+    "value": "نيوتن",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656018611881,
+        "oldValue": "",
+        "newValue": "نيوتن"
+      }
+    ]
+  },
+  "scientificNotation": {
+    "value": "الكتابة العلمية",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656428112316,
+        "oldValue": "",
+        "newValue": "الكتابة العلمية"
+      }
+    ]
+  },
+  "pattern_0value_1units": {
+    "value": " {{units}} {{value}}",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656069632881,
+        "oldValue": "",
+        "newValue": " {{units}} {{value}}"
+      }
+    ]
+  },
+  "units.picometers": {
+    "value": "pm",
+    "history": [
+      {
+        "userId": 458291,
+        "timestamp": 1656069632881,
+        "oldValue": "",
+        "newValue": "pm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "screen.compare": {
+    "value": "مقایسه",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660059197626,
+        "oldValue": "",
+        "newValue": "مقایسه"
+      }
+    ]
+  },
+  "isLessThan": {
+    "value": "{{smallerNumber}} کوچکتر از {{greaterNumber}} است",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660059197626,
+        "oldValue": "",
+        "newValue": "{{smallerNumber}} کوچکتر از {{greaterNumber}} است"
+      }
+    ]
+  },
+  "isGreaterThan": {
+    "value": "{{greaterNumber}} بزرگتر از {{smallerNumber}} است",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660059197626,
+        "oldValue": "",
+        "newValue": "{{greaterNumber}} بزرگتر از {{smallerNumber}} است"
+      }
+    ]
+  },
+  "isEqualTo": {
+    "value": "{{equalNumberLeft}} برابر با {{equalNumberRight}} است",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1660059197626,
+        "oldValue": "",
+        "newValue": "{{equalNumberLeft}} برابر با {{equalNumberRight}} است"
+      }
+    ]
+  },
+  "number-compare.title": {
+    "value": "مقایسه اعداد",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714806023137,
+        "oldValue": "",
+        "newValue": "مقایسه اعداد"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentence": {
+    "value": "جمله عدد را به طور خودکار بشنوید",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714806023137,
+        "oldValue": "",
+        "newValue": "جمله عدد را به طور خودکار بشنوید"
+      }
+    ]
+  },
+  "automaticallyHearNumberSentenceDescription": {
+    "value": "هنگام تعامل به روز رسانی جمله عدد را به طور خودکار بشنوید",
+    "history": [
+      {
+        "userId": 641432,
+        "timestamp": 1714806023137,
+        "oldValue": "",
+        "newValue": "هنگام تعامل به روز رسانی جمله عدد را به طور خودکار بشنوید"
+      }
+    ]
+  }
+}

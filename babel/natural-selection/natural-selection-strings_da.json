@@ -1,0 +1,704 @@
+{
+  "whiteFur": {
+    "value": "Hvid pels",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Hvid pels",
+        "explanation": null
+      }
+    ]
+  },
+  "brownFur": {
+    "value": "Brun pels",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Brun pels",
+        "explanation": null
+      }
+    ]
+  },
+  "floppyEars": {
+    "value": "Hænge-ører",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Hænge-ører",
+        "explanation": null
+      }
+    ]
+  },
+  "straightEars": {
+    "value": "Strit-ører",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Stritører",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "Stritører",
+        "newValue": "Strit-ører",
+        "explanation": null
+      }
+    ]
+  },
+  "shortTeeth": {
+    "value": "Korte tænder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Korte tænder",
+        "explanation": null
+      }
+    ]
+  },
+  "longTeeth": {
+    "value": "Lange tænder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Lange tænder",
+        "explanation": null
+      }
+    ]
+  },
+  "fur": {
+    "value": "Pels",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Pæls",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "Pæls",
+        "newValue": "Pels",
+        "explanation": null
+      }
+    ]
+  },
+  "furDominant": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "F",
+        "explanation": null
+      }
+    ]
+  },
+  "furRecessive": {
+    "value": "f",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "f",
+        "explanation": null
+      }
+    ]
+  },
+  "ears": {
+    "value": "Ører",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Ører",
+        "explanation": null
+      }
+    ]
+  },
+  "earsDominant": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "E",
+        "explanation": null
+      }
+    ]
+  },
+  "earsRecessive": {
+    "value": "e",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "e",
+        "explanation": null
+      }
+    ]
+  },
+  "teeth": {
+    "value": "Tænder",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Tænder",
+        "explanation": null
+      }
+    ]
+  },
+  "teethDominant": {
+    "value": "T",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "T",
+        "explanation": null
+      }
+    ]
+  },
+  "teethRecessive": {
+    "value": "t",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "t",
+        "explanation": null
+      }
+    ]
+  },
+  "addAMate": {
+    "value": "Tilføj en partner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Tilføj partner",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "Tilføj partner",
+        "newValue": "Tilføj en partner",
+        "explanation": null
+      }
+    ]
+  },
+  "addMutations": {
+    "value": "Tilføj mutationer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Tilføj mutationer",
+        "explanation": null
+      }
+    ]
+  },
+  "dominant": {
+    "value": "Dominerende",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Dominerende",
+        "explanation": null
+      }
+    ]
+  },
+  "recessive": {
+    "value": "Vigende",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Vigende",
+        "explanation": null
+      }
+    ]
+  },
+  "addMutation": {
+    "value": "Tilføj mutation",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Tilføj mutation",
+        "explanation": null
+      }
+    ]
+  },
+  "allOfTheBunniesHaveDied": {
+    "value": "Alle kaninerne er døde.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Alle kaninerne er døde.",
+        "explanation": null
+      }
+    ]
+  },
+  "environmentalFactors": {
+    "value": "Miljømæssige faktorer",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Miljømæssige faktorer",
+        "explanation": null
+      }
+    ]
+  },
+  "environmentalFactor": {
+    "value": "Miljømæssig faktor",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Miljømæssig faktor",
+        "explanation": null
+      }
+    ]
+  },
+  "population": {
+    "value": "Population",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Population",
+        "explanation": null
+      }
+    ]
+  },
+  "proportions": {
+    "value": "Fordeling",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Proportioner",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1602310479566,
+        "oldValue": "Proportioner",
+        "newValue": "Fordeling",
+        "explanation": null
+      }
+    ]
+  },
+  "pedigree": {
+    "value": "Stamtavle",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Stamtavle",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Ingen",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Ingen",
+        "explanation": null
+      }
+    ]
+  },
+  "limitedFood": {
+    "value": "Begrænset føde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Begrænset føde",
+        "explanation": null
+      }
+    ]
+  },
+  "memoryLimitMessage": {
+    "value": "Tillykke!<br><br>Din kanin-population har overlevet længe nok<br>til at nå hukommelsesgrænsen for denne simulering.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Tillykke!<br><br>Din kanin-population har overlevet længe nok<br>til at nå hukommelsesgrænsen for denne simulering.",
+        "explanation": null
+      }
+    ]
+  },
+  "mutationComing": {
+    "value": "Mutation på vej...",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Mutation på vej...",
+        "explanation": null
+      }
+    ]
+  },
+  "play": {
+    "value": "Spil",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Spil",
+        "explanation": null
+      }
+    ]
+  },
+  "startOver": {
+    "value": "Start forfra",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Start forfra",
+        "explanation": null
+      }
+    ]
+  },
+  "toughFood": {
+    "value": "Dårlig føde",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Hård føde",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "Hård føde",
+        "newValue": "Dårlig kost",
+        "explanation": null
+      },
+      {
+        "userId": 130982,
+        "timestamp": 1602310479566,
+        "oldValue": "Dårlig kost",
+        "newValue": "Dårlig føde",
+        "explanation": null
+      }
+    ]
+  },
+  "wolves": {
+    "value": "Ulve",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Ulve",
+        "explanation": null
+      }
+    ]
+  },
+  "bunniesHaveTakenOverTheWorld": {
+    "value": "Kaninerne har overtaget verden!",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "Kaninerne har overtaget verden!",
+        "explanation": null
+      }
+    ]
+  },
+  "alleles": {
+    "value": "Allele",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Allele",
+        "explanation": null
+      }
+    ]
+  },
+  "selectABunny": {
+    "value": "Vælg en kanin",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Vælg en kanin",
+        "explanation": null
+      }
+    ]
+  },
+  "generation": {
+    "value": "Generation",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Generation",
+        "explanation": null
+      }
+    ]
+  },
+  "zoomOutToSeeData": {
+    "value": "Zoom ud for at se data.",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Zoom ud for at se data.",
+        "explanation": null
+      }
+    ]
+  },
+  "total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Total",
+        "explanation": null
+      }
+    ]
+  },
+  "dataProbe": {
+    "value": "Data-måler",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599587192815,
+        "oldValue": "",
+        "newValue": "Data-måler",
+        "explanation": null
+      }
+    ]
+  },
+  "greaterThanValuePercent": {
+    "value": ">{{value}}%",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": ">{{value}}%",
+        "explanation": null
+      }
+    ]
+  },
+  "lessThanValuePercent": {
+    "value": "<{{value}}%",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "<{{value}}%",
+        "explanation": null
+      }
+    ]
+  },
+  "valuePercent": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585838378,
+        "oldValue": "",
+        "newValue": "{{value}}%",
+        "explanation": null
+      }
+    ]
+  },
+  "generationValue": {
+    "value": "Generation {{value}}",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Generation {{value}}",
+        "explanation": null
+      }
+    ]
+  },
+  "startOfGeneration": {
+    "value": "Start på generation",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Start på generation",
+        "explanation": null
+      }
+    ]
+  },
+  "endOfGeneration": {
+    "value": "Slut på generation",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Slut på generation",
+        "explanation": null
+      }
+    ]
+  },
+  "noData": {
+    "value": "Ingen data",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Ingen data",
+        "explanation": null
+      }
+    ]
+  },
+  "currently": {
+    "value": "Nuværende",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Nuværende",
+        "explanation": null
+      }
+    ]
+  },
+  "oneBunny": {
+    "value": "1 kanin",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "1 kanin",
+        "explanation": null
+      }
+    ]
+  },
+  "countBunnies": {
+    "value": "{{count}} kaniner",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "{{count}} kaniner",
+        "explanation": null
+      }
+    ]
+  },
+  "values": {
+    "value": "Værdier",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Værdier",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Intro",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Intro",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laboratorium",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Laboratorium",
+        "explanation": null
+      }
+    ]
+  },
+  "natural-selection.title": {
+    "value": "Naturlig udvælgelse",
+    "history": [
+      {
+        "userId": 130982,
+        "timestamp": 1599585255911,
+        "oldValue": "",
+        "newValue": "Naturlig udvælgelse",
+        "explanation": null
+      }
+    ]
+  }
+}

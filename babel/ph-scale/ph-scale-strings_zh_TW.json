@@ -1,0 +1,430 @@
+{
+  "acidic": {
+    "value": "酸性",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "酸性",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "鹼性",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "鹼性",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "電池中的酸性物質",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "電池中的酸性物質",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "血液",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "血液",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "雞湯",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "雞湯",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "咖啡",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "咖啡",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "自訂的液體",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "自訂的液體",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "水管清潔劑",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "水管清潔劑",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "洗手肥皂",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "洗手肥皂",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "牛乳",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "牛乳",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "柳橙汁",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "柳橙汁",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "汽水",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "汽水",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "唾液",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "唾液",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "嘔吐物",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "催吐劑",
+        "explanation": null
+      },
+      {
+        "userId": 184096,
+        "timestamp": 1451544033271,
+        "oldValue": "催吐劑",
+        "newValue": "嘔吐物",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "水",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "水",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "濃度",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "濃度",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "線性刻度",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "線性刻度",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "對數刻度",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "對數刻度",
+        "explanation": null
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "分子量",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "分子量",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "中性",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "中性",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "破表",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "破表",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0name.1pH": {
+    "value": "{0} (pH {1})",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "{0} (pH {1})",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH Scale_酸鹼性",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "酸鹼性_pH Scale",
+        "explanation": null
+      },
+      {
+        "userId": 184096,
+        "timestamp": 1498817943250,
+        "oldValue": "酸鹼性_pH Scale",
+        "newValue": "pH Scale_酸鹼性",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "莫耳數",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "莫耳數",
+        "explanation": null
+      }
+    ]
+  },
+  "ratio": {
+    "value": "比例",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "比例",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.macro": {
+    "value": "看酸鹼性",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "看酸鹼性",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "看分子",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "看分子",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "自訂溶液",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "自訂溶液",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "公升",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1448949286286,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      },
+      {
+        "userId": 184096,
+        "timestamp": 1451544033272,
+        "oldValue": "L",
+        "newValue": "公升",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "mol",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "mol",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "mol/L",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1451545594122,
+        "oldValue": "",
+        "newValue": "mol/L",
+        "explanation": null
+      }
+    ]
+  },
+  "particleCounts": {
+    "value": "粒子數",
+    "history": [
+      {
+        "userId": 184096,
+        "timestamp": 1680912735138,
+        "oldValue": "",
+        "newValue": "粒子數"
+      }
+    ]
+  }
+}

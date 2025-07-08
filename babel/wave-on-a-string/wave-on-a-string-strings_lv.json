@@ -1,0 +1,356 @@
+{
+  "rulers": {
+    "value": "Lineāli",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Lineāli",
+        "explanation": null
+      }
+    ]
+  },
+  "timer": {
+    "value": "Hronometrs",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Hronometrs",
+        "explanation": null
+      }
+    ]
+  },
+  "referenceLine": {
+    "value": "Pārvietojama līnija",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Atskaites līnija",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616234182959,
+        "oldValue": "Atskaites līnija",
+        "newValue": "Pārvietojama līnija"
+      }
+    ]
+  },
+  "tension": {
+    "value": "Daļiņu sablīvējums",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Daļiņu sablīvējums",
+        "explanation": null
+      }
+    ]
+  },
+  "damping": {
+    "value": "Viļņa rimšana",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Viļņa slāpēšana",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616234182959,
+        "oldValue": "Viļņa slāpēšana",
+        "newValue": "Viļņa rimšana"
+      }
+    ]
+  },
+  "low": {
+    "value": "Zems",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Zems",
+        "explanation": null
+      }
+    ]
+  },
+  "high": {
+    "value": "Augsts",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Augsts",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Nav",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Nav",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Liela",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Liela",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Frekvence",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Frekvence",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitHz": {
+    "value": "{0} Hz",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "{0} Hz",
+        "explanation": null
+      }
+    ]
+  },
+  "pulseWidth": {
+    "value": "Impulsa ilgums",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Pulsa ilgums",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616234182959,
+        "oldValue": "Pulsa ilgums",
+        "newValue": "Impulsa ilgums"
+      }
+    ]
+  },
+  "patternValueUnitS": {
+    "value": "{0} s",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "{0} s",
+        "explanation": null
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "Amplitūda",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Amplitūda",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitCm": {
+    "value": "{0} cm",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "{0} cm",
+        "explanation": null
+      }
+    ]
+  },
+  "restart": {
+    "value": "Sākt no jauna",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Atiestatīt",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616234182959,
+        "oldValue": "Atiestatīt",
+        "newValue": "Sākt no jauna"
+      }
+    ]
+  },
+  "speedSlow": {
+    "value": "Palēnināts režīms",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Palēnināti",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616234182959,
+        "oldValue": "Palēnināti",
+        "newValue": "Palēnināts režīms"
+      }
+    ]
+  },
+  "speedNormal": {
+    "value": "Normāls režīms",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Vidēji ātri",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616234182959,
+        "oldValue": "Vidēji ātri",
+        "newValue": "Normāls režīms"
+      }
+    ]
+  },
+  "manual": {
+    "value": "Manuāli",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Manuāli",
+        "explanation": null
+      }
+    ]
+  },
+  "oscillate": {
+    "value": "Oscilators",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Oscilators",
+        "explanation": null
+      }
+    ]
+  },
+  "pulse": {
+    "value": "Impulss",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Pulss",
+        "explanation": null
+      },
+      {
+        "userId": 155506,
+        "timestamp": 1616234182959,
+        "oldValue": "Pulss",
+        "newValue": "Impulss"
+      }
+    ]
+  },
+  "fixedEnd": {
+    "value": "Fiksēts galapunkts",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Fiksēts galapunkts",
+        "explanation": null
+      }
+    ]
+  },
+  "looseEnd": {
+    "value": "Nenostiprināts galapunkts",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Nenostiprināts galapunkts",
+        "explanation": null
+      }
+    ]
+  },
+  "noEnd": {
+    "value": "Bez galapunkta",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Bez galapunkta",
+        "explanation": null
+      }
+    ]
+  },
+  "unitCm": {
+    "value": "cm",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "cm",
+        "explanation": null
+      }
+    ]
+  },
+  "wave-on-a-string.title": {
+    "value": "Viļņa izplatīšanās auklā",
+    "history": [
+      {
+        "userId": 155506,
+        "timestamp": 1456914439667,
+        "oldValue": "",
+        "newValue": "Viļņa izplatīšanās auklā",
+        "explanation": null
+      }
+    ]
+  }
+}

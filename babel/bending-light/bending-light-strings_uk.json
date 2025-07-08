@@ -1,0 +1,665 @@
+{
+  "air": {
+    "value": "Повітря",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Повітря",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "Вода",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Вода",
+        "explanation": null
+      }
+    ]
+  },
+  "glass": {
+    "value": "Скло",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Скло",
+        "explanation": null
+      }
+    ]
+  },
+  "diamond": {
+    "value": "Алмаз",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Алмаз",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryA": {
+    "value": "Невідоме А",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Незнайомий А",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595540884597,
+        "oldValue": "Незнайомий А",
+        "newValue": "Незнайоме А",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595602660752,
+        "oldValue": "Незнайоме А",
+        "newValue": "Невідоме А",
+        "explanation": null
+      }
+    ]
+  },
+  "mysteryB": {
+    "value": "Невідоме Б",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Незнайомий Б",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595540884597,
+        "oldValue": "Незнайомий Б",
+        "newValue": "Незнайоме Б",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595602660752,
+        "oldValue": "Незнайоме Б",
+        "newValue": "Невідоме Б",
+        "explanation": null
+      }
+    ]
+  },
+  "miss": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "-",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern_0value_percent": {
+    "value": "{0}%",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "{0}%",
+        "explanation": null
+      }
+    ]
+  },
+  "custom": {
+    "value": "Змінний n",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Звичайний",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595540884597,
+        "oldValue": "Звичайний",
+        "newValue": "Змінний n",
+        "explanation": null
+      }
+    ]
+  },
+  "unknown": {
+    "value": " Який n?",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Що таке n? Який n?",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595540884597,
+        "oldValue": "Що таке n? Який n?",
+        "newValue": " Який n?",
+        "explanation": null
+      }
+    ]
+  },
+  "indexOfRefraction": {
+    "value": "Показник заломлення (n)",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Показник заломлення (n)",
+        "explanation": null
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Інтенсивність",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Інтенсивність",
+        "explanation": null
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Повільний рух",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Повільний рух",
+        "explanation": null
+      }
+    ]
+  },
+  "normalSpeed": {
+    "value": "Нормальна",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Нормальна",
+        "explanation": null
+      }
+    ]
+  },
+  "material": {
+    "value": "Середовище:",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Середовище:",
+        "explanation": null
+      }
+    ]
+  },
+  "angles": {
+    "value": "Кути",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Кути",
+        "explanation": null
+      }
+    ]
+  },
+  "normalLine": {
+    "value": "Перпендикуляр",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Нормальна",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595540884598,
+        "oldValue": "Нормальна",
+        "newValue": "Перпендикуляр",
+        "explanation": null
+      }
+    ]
+  },
+  "ray": {
+    "value": "Промінь",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Промінь",
+        "explanation": null
+      }
+    ]
+  },
+  "wave": {
+    "value": "Хвиля",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Хвиля",
+        "explanation": null
+      }
+    ]
+  },
+  "intro": {
+    "value": "Початок",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Початок",
+        "explanation": null
+      }
+    ]
+  },
+  "objects": {
+    "value": "Об'єкти:",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Об'єкти:",
+        "explanation": null
+      }
+    ]
+  },
+  "reflections": {
+    "value": "Відбиття",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Відбиття",
+        "explanation": null
+      }
+    ]
+  },
+  "protractor": {
+    "value": "Транспортир",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Транспортир",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "нм",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "nм",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595540884598,
+        "oldValue": "nм",
+        "newValue": "нм",
+        "explanation": null
+      }
+    ]
+  },
+  "wavelengthPattern": {
+    "value": "{0}нм",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "{0} nм",
+        "explanation": null
+      },
+      {
+        "userId": 166868,
+        "timestamp": 1595540884598,
+        "oldValue": "{0} nм",
+        "newValue": "{0}нм",
+        "explanation": null
+      }
+    ]
+  },
+  "environment": {
+    "value": "Середовище",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Середовище",
+        "explanation": null
+      }
+    ]
+  },
+  "prisms": {
+    "value": "Призми",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Призми",
+        "explanation": null
+      }
+    ]
+  },
+  "speed": {
+    "value": "Швидкість",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Швидкість",
+        "explanation": null
+      }
+    ]
+  },
+  "velocityPattern": {
+    "value": "{0} c",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "{0} c",
+        "explanation": null
+      }
+    ]
+  },
+  "unknownVelocity": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "?",
+        "explanation": null
+      }
+    ]
+  },
+  "time": {
+    "value": "Час",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Час",
+        "explanation": null
+      }
+    ]
+  },
+  "moreTools": {
+    "value": "Додаткові інструменти",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Додаткові інструменти",
+        "explanation": null
+      }
+    ]
+  },
+  "bending-light.title": {
+    "value": "Заломлення світла",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Заломлення світла",
+        "explanation": null
+      }
+    ]
+  },
+  "bending-light.name": {
+    "value": "Заломлення світла",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Заломлення світла",
+        "explanation": null
+      }
+    ]
+  },
+  "high": {
+    "value": "збільшити",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "збільшити",
+        "explanation": null
+      }
+    ]
+  },
+  "indexOfRefractionColon": {
+    "value": "Показник заломлення (n)",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Показник заломлення (n)",
+        "explanation": null
+      }
+    ]
+  },
+  "laserView": {
+    "value": "Лазерний вид",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Лазерний вид",
+        "explanation": null
+      }
+    ]
+  },
+  "low": {
+    "value": "зменшити",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "зменшити",
+        "explanation": null
+      }
+    ]
+  },
+  "multipleRays": {
+    "value": "Кілька промені",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Кілька промені",
+        "explanation": null
+      }
+    ]
+  },
+  "nUnknown": {
+    "value": "Яке значення має  n?",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Яке значення має  n?",
+        "explanation": null
+      }
+    ]
+  },
+  "oneColor": {
+    "value": "Один колір",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Один колір",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.value_c": {
+    "value": "{0} c",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "{0} c",
+        "explanation": null
+      }
+    ]
+  },
+  "prismBreak": {
+    "value": "Види призм",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Види призм",
+        "explanation": null
+      }
+    ]
+  },
+  "reset": {
+    "value": "Скинути",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Скинути",
+        "explanation": null
+      }
+    ]
+  },
+  "showNormal": {
+    "value": "Показати перпендикуляр",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Показати перпендикуляр",
+        "explanation": null
+      }
+    ]
+  },
+  "showProtractor": {
+    "value": "Показати транспортир",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Показати транспортир",
+        "explanation": null
+      }
+    ]
+  },
+  "showReflections": {
+    "value": "Показати відбивання",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Показати відбивання",
+        "explanation": null
+      }
+    ]
+  },
+  "singleRay": {
+    "value": "Один промінь",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Один промінь",
+        "explanation": null
+      }
+    ]
+  },
+  "toolbox": {
+    "value": "Інструменти",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Інструменти",
+        "explanation": null
+      }
+    ]
+  },
+  "whiteLight": {
+    "value": "Біле світло",
+    "history": [
+      {
+        "userId": 166868,
+        "timestamp": 1512225966823,
+        "oldValue": "",
+        "newValue": "Біле світло",
+        "explanation": null
+      }
+    ]
+  }
+}

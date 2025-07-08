@@ -1,0 +1,15 @@
+{
+  "name": "query-string-machine",
+  "version": "1.0.0-dev.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/query-string-machine.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "generatedUnitTests": true
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "screen.basics": {
+    "value": "Misingi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Misingi"
+      }
+    ]
+  },
+  "screen.numbers": {
+    "value": "Namba",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Nambari"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665481311288,
+        "oldValue": "Nambari",
+        "newValue": "Namba"
+      }
+    ]
+  },
+  "screen.operations": {
+    "value": "Matendo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Uendeshaji"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1664869886416,
+        "oldValue": "Uendeshaji",
+        "newValue": "Matendo"
+      }
+    ]
+  },
+  "screen.variables": {
+    "value": "Vigeu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Vigezo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1664869886416,
+        "oldValue": "Vigezo",
+        "newValue": "Vigeu"
+      }
+    ]
+  },
+  "screen.solveIt": {
+    "value": "Tatua!",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Tatua!"
+      }
+    ]
+  },
+  "x": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "level1Description": {
+    "value": "<b>Level 1</b>Milinganyo ya hatua moja",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "<b>Level 1</b>Milinganyo ya hatua moja"
+      }
+    ]
+  },
+  "level2Description": {
+    "value": "<b>Level 2</b> Milinganyo ya hatua moja na vizigeu hasi",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "<b>Level 2</b> Milinganyo ya hatua moja na mgawo hasi"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665481311288,
+        "oldValue": "<b>Level 2</b> Milinganyo ya hatua moja na mgawo hasi",
+        "newValue": "<b>Level 2</b> Milinganyo ya hatua moja na vizigeu hasi"
+      }
+    ]
+  },
+  "level3Description": {
+    "value": "<b>Level 3</b> Milinganyo ya hatua mbili",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "<b>Level 3</b> Milinganyo ya hatua mbili"
+      }
+    ]
+  },
+  "level4Description": {
+    "value": "<b>Level 4</b> Milinganyo ya hatua nyingi yenyesehemu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "<b>Level 4</b> Milinganyo ya hatua nyingi na sehemu"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665481311288,
+        "oldValue": "<b>Level 4</b> Milinganyo ya hatua nyingi na sehemu",
+        "newValue": "<b>Level 4</b> Milinganyo ya hatua nyingi yenyesehemu"
+      }
+    ]
+  },
+  "level5Description": {
+    "value": "<b>Level 5</b> Milinganyo ya hatua nyingi na vigeu pande zote mbili",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "<b>Level 5</b> Milinganyo ya hatua nyingi na vigeuzo pande zote mbili"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665481311288,
+        "oldValue": "<b>Level 5</b> Milinganyo ya hatua nyingi na vigeuzo pande zote mbili",
+        "newValue": "<b>Level 5</b> Milinganyo ya hatua nyingi na vigeu pande zote mbili"
+      }
+    ]
+  },
+  "chooseYourLevel": {
+    "value": "Chagua levo Chako",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Chagua Kiwango Chako"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665481311288,
+        "oldValue": "Chagua Kiwango Chako",
+        "newValue": "Chagua levo Chako"
+      }
+    ]
+  },
+  "solveFor": {
+    "value": "Tatua kwa {{variable}}",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Tatua kwa {{variable}}"
+      }
+    ]
+  },
+  "next": {
+    "value": "Inayofuata",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Inayofuata"
+      }
+    ]
+  },
+  "numberTooBig": {
+    "value": "Lo!<br><br>Hiyo itafanya nambari<br>hiyo ni kubwa sana kwa uigaji.<br><br>Jaribu operesheni tofauti!",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Hiyo itafanya nambari<br>hiyo ni kubwa sana kwa uigaji.<br><br>Jaribu operesheni tofauti!"
+      }
+    ]
+  },
+  "equationOrInequality": {
+    "value": "Mlingano au Si usawa",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Mlingano au Kutokuwa na Usawa"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665556205188,
+        "oldValue": "Mlingano au Kutokuwa na Usawa",
+        "newValue": "Mlingano au Si usawa"
+      }
+    ]
+  },
+  "snapshots": {
+    "value": "Vijipicha",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Vijipicha"
+      }
+    ]
+  },
+  "variables": {
+    "value": "Vigeu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Vigezo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1664869886416,
+        "oldValue": "Vigezo",
+        "newValue": "Vigeu"
+      }
+    ]
+  },
+  "variable": {
+    "value": "Kigeu",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Kigezo"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1664869886417,
+        "oldValue": "Kigezo",
+        "newValue": "Kigeu"
+      }
+    ]
+  },
+  "levels": {
+    "value": "levo",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Viwango"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665481311288,
+        "oldValue": "Viwango",
+        "newValue": "levo"
+      }
+    ]
+  },
+  "questionMark": {
+    "value": "Alama ya kuuliza",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "?"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665481311289,
+        "oldValue": "?",
+        "newValue": "Alama ya kuuliza"
+      }
+    ]
+  },
+  "rightSideFull": {
+    "value": "Lo!<br><br>Upande wa kulia wa usawa umejaa.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Upande wa kulia wa usawa umejaa."
+      }
+    ]
+  },
+  "leftSideFull": {
+    "value": "Lo!<br><br>Upande wa kushoto wa usawa umejaa.",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Lo!<br><br>Upande wa kushoto wa usawa umejaa."
+      }
+    ]
+  },
+  "equality-explorer.title": {
+    "value": "Kichunguza Usawa",
+    "history": [
+      {
+        "userId": 688388,
+        "timestamp": 1660240239925,
+        "oldValue": "",
+        "newValue": "Mchunguzi wa Usawa"
+      },
+      {
+        "userId": 1085625,
+        "timestamp": 1665556205188,
+        "oldValue": "Mchunguzi wa Usawa",
+        "newValue": "Kichunguza Usawa"
+      }
+    ]
+  }
+}

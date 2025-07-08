@@ -1,0 +1,569 @@
+{
+  "control.bonding": {
+    "value": "බන්ධනය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "බැඳීම",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "බැඳීම",
+        "newValue": "බන්ධනය",
+        "explanation": null
+      }
+    ]
+  },
+  "control.electronGeometry": {
+    "value": "ඉලෙක්ට්රෝන ජ්‍යාමිතිය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ඉලෙක්ට්රෝන ජ්‍යාමිතිය",
+        "explanation": null
+      }
+    ]
+  },
+  "control.geometryName": {
+    "value": "නම",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "නම",
+        "explanation": null
+      }
+    ]
+  },
+  "control.lonePair": {
+    "value": "එකසර යුගල",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "හුදෙකලා යුගල්",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "හුදෙකලා යුගල්",
+        "newValue": "නිදහස් ඉලෙක්ට්‍රෝන යුගල්",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "නිදහස් ඉලෙක්ට්‍රෝන යුගල්",
+        "newValue": "එකසර යුගල",
+        "explanation": null
+      }
+    ]
+  },
+  "control.modelView": {
+    "value": "ආකෘතිය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "අනුරුව",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465809451985,
+        "oldValue": "අනුරුව",
+        "newValue": "ආකෘතිය",
+        "explanation": null
+      }
+    ]
+  },
+  "control.molecule": {
+    "value": "අණුව",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "අණු",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465809451985,
+        "oldValue": "අණු",
+        "newValue": "අණුව",
+        "explanation": null
+      }
+    ]
+  },
+  "control.moleculeGeometry": {
+    "value": "අණුක ජ්‍යාමිතිය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "අණුක ජ්‍යාමිතිය",
+        "explanation": null
+      }
+    ]
+  },
+  "control.options": {
+    "value": "විකල්ප",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "විකල්පය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "විකල්පය",
+        "newValue": "විකල්ප",
+        "explanation": null
+      }
+    ]
+  },
+  "control.realView": {
+    "value": "සත්‍ය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "සත්‍ය",
+        "explanation": null
+      }
+    ]
+  },
+  "control.removeAll": {
+    "value": "සියල්ල ඉවත් කරන්න",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "සියල්ල ඉවත් කරන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showBondAngles": {
+    "value": "බන්ධන කෝණ පෙන්වන්න",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "බන්ධන කෝණ පෙන්වන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showLonePairs": {
+    "value": "එකසර යුගල පෙන්වන්න",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "හුදෙකලා යුගල් පෙන්වන්න",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "හුදෙකලා යුගල් පෙන්වන්න",
+        "newValue": "නිදහස් යුගල් පෙන්වන්න",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "නිදහස් යුගල් පෙන්වන්න",
+        "newValue": "එකසර යුගල පෙන්වන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.diatomic": {
+    "value": "රේඛීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "රේඛීය",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.linear": {
+    "value": "රේඛීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "රේඛීය",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.octahedral": {
+    "value": "අෂ්ටතල",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "අෂ්ටතල",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.tetrahedral": {
+    "value": "චතුස්තලීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "චතුෂ්තලීය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "චතුෂ්තලීය",
+        "newValue": "චතුස්තලීය",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalBipyramidal": {
+    "value": "ත්‍රිකෝණික ද්වි පිරමිඩාකාර",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ත්‍රිකෝනාකාර ද්වි පිරමිඩාකාර",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464502134207,
+        "oldValue": "ත්‍රිකෝනාකාර ද්වි පිරමිඩාකාර",
+        "newValue": "ත්‍රිකෝණික ද්වි පිරමිඩාකාර",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalPlanar": {
+    "value": "ත්‍රිකෝණික තලීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ත්‍රිකෝණාකාර තලීය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "ත්‍රිකෝණාකාර තලීය",
+        "newValue": "ත්‍රිකෝණික තලීය",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes.title": {
+    "value": "අණුක හැඩ",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "අණුවක හැඩ",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "අණුවක හැඩ",
+        "newValue": "අණුක හැඩ",
+        "explanation": null
+      }
+    ]
+  },
+  "options.projectorColors": {
+    "value": "ප්‍රක්ෂේපන ආකාරය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ප්‍රක්ෂේපන ආකාරය",
+        "explanation": null
+      }
+    ]
+  },
+  "options.showOuterLonePairs": {
+    "value": "පිටත එකසර යුගල පෙන්වන්න",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "පිටත හුදකලා වූ යුගල් පෙන්වන්න",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "පිටත හුදකලා වූ යුගල් පෙන්වන්න",
+        "newValue": "පිටත නිදහස් යුගල් පෙන්වන්න",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "පිටත නිදහස් යුගල් පෙන්වන්න",
+        "newValue": "පිටත එකසර යුගල පෙන්වන්න",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.model": {
+    "value": "ආදර්ශය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ආදර්ශය",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.realMolecules": {
+    "value": "සත්‍ය අණු",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "සත්‍ය අණු",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.bent": {
+    "value": "නැමුණු",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "නැමුණු",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.diatomic": {
+    "value": "රේඛීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "රේඛීය",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.linear": {
+    "value": "රේඛීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "රේඛීය",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.octahedral": {
+    "value": "අෂ්ටතල",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "අෂ්ටතල",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.seesaw": {
+    "value": "සීසෝව",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "සීසෝ",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "සීසෝ",
+        "newValue": "සීසෝව",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePlanar": {
+    "value": "සමචතුරස්‍ර තලය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "සම සතරැස් තලය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "සම සතරැස් තලය",
+        "newValue": "සමචතුරස්‍ර තලය",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePyramidal": {
+    "value": "සමචතුරස්‍ර පිරමිඩාකාර",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "සම සතරැස් පිරමිඩාකාර",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "සම සතරැස් පිරමිඩාකාර",
+        "newValue": "සමචතුරස්‍ර පිරමිඩාකාර",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tShaped": {
+    "value": "T හැඩය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ටී හැඩය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1464500830314,
+        "oldValue": "ටී හැඩය",
+        "newValue": "T හැඩය",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tetrahedral": {
+    "value": "චතුස්තලීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "චතුස්තලීය",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalBipyramidal": {
+    "value": "ත්‍රිකෝණික ද්වි පිරමිඩාකාර",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ත්‍රිකෝණාකාරද්වි පිරමිඩාකාර",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "ත්‍රිකෝණාකාරද්වි පිරමිඩාකාර",
+        "newValue": "ත්‍රිකෝණික ද්වි පිරමිඩාකාර",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPlanar": {
+    "value": "ත්‍රිකෝණික තලීය",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ත්‍රිකෝණාකාර තලීය",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "ත්‍රිකෝණාකාර තලීය",
+        "newValue": "ත්‍රිකෝණික තලීය",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPyramidal": {
+    "value": "ත්‍රිකෝණික පිරමිඩාකාර",
+    "history": [
+      {
+        "userId": 190960,
+        "timestamp": 1462690118844,
+        "oldValue": "",
+        "newValue": "ත්‍රිකෝණාකාර පිරමිඩාකාර",
+        "explanation": null
+      },
+      {
+        "userId": 308527,
+        "timestamp": 1465807560858,
+        "oldValue": "ත්‍රිකෝණාකාර පිරමිඩාකාර",
+        "newValue": "ත්‍රිකෝණික පිරමිඩාකාර",
+        "explanation": null
+      }
+    ]
+  }
+}

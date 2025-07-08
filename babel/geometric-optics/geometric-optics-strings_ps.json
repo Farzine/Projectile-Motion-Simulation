@@ -1,0 +1,717 @@
+{
+  "screen.lens": {
+    "value": "عدسیه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "عدسیې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "عدسیې",
+        "newValue": "عدسیه",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mirror": {
+    "value": "هنداره",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "هندارې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "هندارې",
+        "newValue": "هنداره",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.chooseAnObject": {
+    "value": "یو جسم انتخاب کړئ",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "یو جسم انتخاب کړئ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.object": {
+    "value": "جسم",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "جسم"
+      }
+    ]
+  },
+  "keyboardHelpDialog.objects": {
+    "value": "جسمونه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "جسمونه"
+      }
+    ]
+  },
+  "focalLengthControl": {
+    "value": "د محراقي فاصلې کنټرول:",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "د محراقي فاصلې کنټرول"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1702881673533,
+        "oldValue": "د محراقي فاصلې کنټرول",
+        "newValue": "د محراقي فاصلې کنټرول:",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.direct": {
+    "value": "مستقیم(د محراقي فاصلې د خوځونکې استعمالول)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "مستقیم(د محراقي فاصلې د خوځونکې استعمالول)"
+      }
+    ]
+  },
+  "radioButton.indirect": {
+    "value": "غیر مستقیم(د نورو نوري پارامترونو څخه یې محاسبه کړئ)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "غیر مستقیم(د نورو نوري پارامترونو څخه یې محاسبه کړئ)"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "غیر مستقیم(د نورو نوري پارامترونو څخه یې محاسبه کړئ)",
+        "newValue": "غیر مستقیم(د نورو نوري پارامترونو څخه محاسبه شوې ده.",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996470672,
+        "oldValue": "غیر مستقیم(د نورو نوري پارامترونو څخه محاسبه شوې ده.",
+        "newValue": "غیر مستقیم(د نورو نوري پارامترونو څخه یې محاسبه کړئ)",
+        "explanation": null
+      }
+    ]
+  },
+  "checkbox.add2FPointsCheckbox": {
+    "value": "د کنټرول پینل چک بوکس ته د 2F نقطو اضافي کول",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "د کنټرول پینل چک بوکس ته د 2f نقطو اضافي کول"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1702881673533,
+        "oldValue": "د کنټرول پینل چک بوکس ته د 2f نقطو اضافي کول",
+        "newValue": "د کنټرول پینل چک بوکس ته د 2F نقطو اضافي کول",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.removeFromToolbox": {
+    "value": "د وسایلو له بکس څخه یې لرې کړئ",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "د وسایلو له بکس څخه یې لرې کړئ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.returnToToolbox": {
+    "value": "د وسایلو بکس ته راستانه شئ",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "د وسایلو بکس ته راستانه شئ"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToPoint": {
+    "value": "نقطې ته ټوپ کول,<br>د دښې لورې څخه چپ لور ته دورانونه<br>  د زړه پورې نقطو له لارې",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "نقطې ته ټوپ کول,<br>د دښې لورې څخه چپ لور ته دورانونه<br>  د زړه پورې نقطو له لارې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "نقطې ته ټوپ کول,<br>د دښې لورې څخه چپ لور ته دورانونه<br>  د زړه پورې نقطو له لارې",
+        "newValue": "نقطې ته ټوپ کول,<br>د دښې لورې څخه چپ لور ته دورانونه<br>د زړه پورې نقطو له لارې",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996470672,
+        "oldValue": "نقطې ته ټوپ کول,<br>د دښې لورې څخه چپ لور ته دورانونه<br>د زړه پورې نقطو له لارې",
+        "newValue": "نقطې ته ټوپ کول,<br>د دښې لورې څخه چپ لور ته دورانونه<br>  د زړه پورې نقطو له لارې",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.rulerAndMarkerControls": {
+    "value": "د خطکش او مارکر کنټرولونه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "د خطکش او مارکر کنټرولونه"
+      }
+    ]
+  },
+  "pencil": {
+    "value": "پنسل",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "پنسل"
+      }
+    ]
+  },
+  "penguin": {
+    "value": "پنگوین",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "پنگوین"
+      }
+    ]
+  },
+  "star": {
+    "value": "ستوری",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "ستوری"
+      }
+    ]
+  },
+  "arrow": {
+    "value": "تیر",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "تیر"
+      }
+    ]
+  },
+  "light": {
+    "value": "رڼا",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "رڼا"
+      }
+    ]
+  },
+  "label.projectionScreen": {
+    "value": "پرده",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "پرده"
+      }
+    ]
+  },
+  "checkbox.focalPoints": {
+    "value": "محراقي ټکي (F)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "(F) محراقي ټکي"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1702881673533,
+        "oldValue": "(F) محراقي ټکي",
+        "newValue": "محراقي ټکي (F)",
+        "explanation": null
+      }
+    ]
+  },
+  "checkbox.twoFPoints": {
+    "value": "2f ټکي",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "2f ټکي"
+      }
+    ]
+  },
+  "checkbox.virtualImage": {
+    "value": "مجازي انځور",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "مجازی انځور"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "مجازی انځور",
+        "newValue": "مجازي انځور",
+        "explanation": null
+      }
+    ]
+  },
+  "checkbox.labels": {
+    "value": "نښې",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "نښې"
+      }
+    ]
+  },
+  "checkbox.secondPoint": {
+    "value": "دوهم ټکی",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "دوهم ټکی"
+      }
+    ]
+  },
+  "checkbox.guides": {
+    "value": "لارښونې",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "لارښونې"
+      }
+    ]
+  },
+  "rays": {
+    "value": "وړانګې",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "وړانګې"
+      }
+    ]
+  },
+  "label.opticalAxis": {
+    "value": "نوري محور",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "نوري محور"
+      }
+    ]
+  },
+  "label.F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "F"
+      }
+    ]
+  },
+  "label.twoF": {
+    "value": "2F",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "2F"
+      }
+    ]
+  },
+  "label.object": {
+    "value": "جسم",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "جسم"
+      }
+    ]
+  },
+  "label.objectN": {
+    "value": "جسم {{objectNumber}}",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "جسم {{objectNumber}}"
+      }
+    ]
+  },
+  "label.realImage": {
+    "value": "حقيقي انځور",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "حقيقي انځور"
+      }
+    ]
+  },
+  "label.realImageN": {
+    "value": "حقيقي،<br>انځور{{imageNumber}}",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "حقيقي،<br>انځور{{imageNumber}}"
+      }
+    ]
+  },
+  "label.virtualImage": {
+    "value": "مجازي انځور",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "مجازی انځور"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "مجازی انځور",
+        "newValue": "مجازي انځور",
+        "explanation": null
+      }
+    ]
+  },
+  "label.virtualImageN": {
+    "value": "مجازي <br>انځور{{imageNumber}}",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "مجازی <br>انځور{{imageNumber}}"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "مجازی <br>انځور{{imageNumber}}",
+        "newValue": "مجازي <br>انځور{{imageNumber}}",
+        "explanation": null
+      }
+    ]
+  },
+  "radioButton.marginal": {
+    "value": "سرحدي",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "سرحدي"
+      }
+    ]
+  },
+  "radioButton.principal": {
+    "value": "اصلي",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "اصلي"
+      }
+    ]
+  },
+  "radioButton.many": {
+    "value": "زیات",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "زیات"
+      }
+    ]
+  },
+  "radioButton.none": {
+    "value": "هیڅ",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "هیڅ"
+      }
+    ]
+  },
+  "focalLengthPositive": {
+    "value": "محراقي فاصله",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "محراقي فاصله"
+      }
+    ]
+  },
+  "focalLengthNegative": {
+    "value": "محراقي فاصله (-)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "(-)محراقي فاصله"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1702881673533,
+        "oldValue": "(-)محراقي فاصله",
+        "newValue": "محراقي فاصله (-)",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusOfCurvaturePositive": {
+    "value": "دانحناء وړانګه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "دانحناء وړانګې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "دانحناء وړانګې",
+        "newValue": "دانحناء وړانګه",
+        "explanation": null
+      }
+    ]
+  },
+  "radiusOfCurvatureNegative": {
+    "value": "دانحناء وړانګه (-)",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "(-) دانحناء وړانګې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1702881673533,
+        "oldValue": "(-) دانحناء وړانګې",
+        "newValue": "دانحناء وړانګې (-)",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "دانحناء وړانګې (-)",
+        "newValue": "دانحناء وړانګه (-)",
+        "explanation": null
+      }
+    ]
+  },
+  "indexOfRefraction": {
+    "value": "د انکسار ضریب",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "د انکسار ضریب"
+      }
+    ]
+  },
+  "diameter": {
+    "value": "قطر",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "قطر"
+      }
+    ]
+  },
+  "label.convexLens": {
+    "value": "محدبه <br>عدسیه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "محدبې <br>عدسیې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "محدبې <br>عدسیې",
+        "newValue": "محدبه <br>عدسیه",
+        "explanation": null
+      }
+    ]
+  },
+  "label.concaveLens": {
+    "value": "مقعره<br>عدسیه",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "مقعرې<br>عدسیې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "مقعرې<br>عدسیې",
+        "newValue": "مقعره <br>عدسیه",
+        "explanation": null
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996470672,
+        "oldValue": "مقعره <br>عدسیه",
+        "newValue": "مقعره<br>عدسیه",
+        "explanation": null
+      }
+    ]
+  },
+  "label.convexMirror": {
+    "value": "محدبه <br>هنداره",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "محدبې <br>هندارې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "محدبې <br>هندارې",
+        "newValue": "محدبه <br>هنداره",
+        "explanation": null
+      }
+    ]
+  },
+  "label.concaveMirror": {
+    "value": "مقعره<br>هنداره",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "مقعرې<br>هندارې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "مقعرې<br>هندارې",
+        "newValue": "مقعره<br>هنداره",
+        "explanation": null
+      }
+    ]
+  },
+  "label.flatMirror": {
+    "value": "مستوي<br>هنداره",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "مستوي<br>هندارې"
+      },
+      {
+        "userId": 11192058,
+        "timestamp": 1703996360388,
+        "oldValue": "مستوي<br>هندارې",
+        "newValue": "مستوي<br>هنداره",
+        "explanation": null
+      }
+    ]
+  },
+  "geometric-optics.title": {
+    "value": "هندسي نور",
+    "history": [
+      {
+        "userId": 11192058,
+        "timestamp": 1701248209529,
+        "oldValue": "",
+        "newValue": "هندسي نور"
+      }
+    ]
+  }
+}

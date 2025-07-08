@@ -1,0 +1,446 @@
+{
+  "control.bonding": {
+    "value": "Bindningstyp",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Bindningstyp",
+        "explanation": null
+      }
+    ]
+  },
+  "control.electronGeometry": {
+    "value": "Elektrongeometri",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Elektrongeometri",
+        "explanation": null
+      }
+    ]
+  },
+  "control.geometryName": {
+    "value": "Geometri",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Geometri",
+        "explanation": null
+      }
+    ]
+  },
+  "control.lonePair": {
+    "value": "Oparade elektroner",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Oparade elektroner",
+        "explanation": null
+      }
+    ]
+  },
+  "control.modelView": {
+    "value": "Modell",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Modell",
+        "explanation": null
+      }
+    ]
+  },
+  "control.molecule": {
+    "value": "Molekyl",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Molekyl",
+        "explanation": null
+      }
+    ]
+  },
+  "control.moleculeGeometry": {
+    "value": "Molekylgeometri",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Molekylgeometri",
+        "explanation": null
+      }
+    ]
+  },
+  "control.options": {
+    "value": "Alternativ",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Alternativ",
+        "explanation": null
+      }
+    ]
+  },
+  "control.realView": {
+    "value": "Verklig",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Verklig",
+        "explanation": null
+      }
+    ]
+  },
+  "control.removeAll": {
+    "value": "Rensa allt",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Rensa allt",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showBondAngles": {
+    "value": "Visa bindningsvinklar",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Visa bindningsvinklar",
+        "explanation": null
+      }
+    ]
+  },
+  "control.showLonePairs": {
+    "value": "Visa oparade elektroner",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Visa oparade elektroner",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.diatomic": {
+    "value": "Linjär",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Linjär",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.linear": {
+    "value": "Linjär",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Linjär",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.octahedral": {
+    "value": "Oktaedrisk",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Oktaedrisk",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.tetrahedral": {
+    "value": "Tetraedrisk",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Tetraedrisk",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalBipyramidal": {
+    "value": "Trigonal bipyramidal",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Trigonal bipyramidal",
+        "explanation": null
+      }
+    ]
+  },
+  "geometry.trigonalPlanar": {
+    "value": "Planar trigonal",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Planar trigonal",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes-basics.title": {
+    "value": "Molekylformer",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Molekylformer",
+        "explanation": null
+      }
+    ]
+  },
+  "molecule-shapes.title": {
+    "value": "Molekylformer",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Molekylformer",
+        "explanation": null
+      }
+    ]
+  },
+  "options.showOuterLonePairs": {
+    "value": "Visa yttre oparade elektroner",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Visa yttre oparade elektroner",
+        "explanation": null
+      }
+    ]
+  },
+  "realExamples.title": {
+    "value": "Verkliga exempel",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Verkliga exempel",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.model": {
+    "value": "Molekylformer",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Molekylformer",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.realMolecules": {
+    "value": "Verkliga molekyler",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Verkliga molekyler",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.bent": {
+    "value": "Böjd",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Böjd",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.diatomic": {
+    "value": "Linjär",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Linjär",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.linear": {
+    "value": "Linjär",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221711,
+        "oldValue": "",
+        "newValue": "Linjär",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.octahedral": {
+    "value": "Oktaedrisk",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Oktaedrisk",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.seesaw": {
+    "value": "Gungbräda",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Gungbräda",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePlanar": {
+    "value": "Plankvadratisk",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Plankvadratisk",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.squarePyramidal": {
+    "value": "Planpyramidal",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Planpyramidal",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tShaped": {
+    "value": "T-formad",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "T-formad",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.tetrahedral": {
+    "value": "Tetraedrisk",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Tetraedrisk",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalBipyramidal": {
+    "value": "Trigonal bipyramidal",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Trigonal bipyramidal",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPlanar": {
+    "value": "Planar trigonal",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Planar trigonal",
+        "explanation": null
+      }
+    ]
+  },
+  "shape.trigonalPyramidal": {
+    "value": "Trigonal bipyramidal",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Trigonal bipyramidal",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits": {
+    "value": "Anders Gölstam",
+    "history": [
+      {
+        "userId": 155212,
+        "timestamp": 1485819221712,
+        "oldValue": "",
+        "newValue": "Anders Gölstam",
+        "explanation": null
+      }
+    ]
+  }
+}

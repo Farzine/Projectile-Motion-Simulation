@@ -1,0 +1,486 @@
+{
+  "screen.layerModel": {
+    "value": "Geruza eredua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Geruza eredua"
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Fotoiak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Fotoiak"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Uhinak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Uhinak"
+      }
+    ]
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "Graduatzailea eta Fluxu-neurgailuaren kontrolak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Graduatzailea eta Fluxu-neurgailuaren kontrolak"
+      }
+    ]
+  },
+  "morePhotons": {
+    "value": "Fotoi gehiago",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Fotoi gehiago"
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Infragorriak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Infragorriak"
+      }
+    ]
+  },
+  "absorbingLayers": {
+    "value": "Geruza xurgatzaileak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Geruza xurgatzaileak"
+      }
+    ]
+  },
+  "infraredAbsorbance": {
+    "value": "Infragorrien xurgapena",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Infragorrien xurgapena"
+      }
+    ]
+  },
+  "valuePercentPattern": {
+    "value": "% {{value}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "% {{value}}"
+      }
+    ]
+  },
+  "sunlight": {
+    "value": "Eguzki-argia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Eguzki-argia"
+      }
+    ]
+  },
+  "solarIntensity": {
+    "value": "Eguzki-intentsitatea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Eguzki-intentsitatea"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "Gure Eguzkia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Gure Eguzkia"
+      }
+    ]
+  },
+  "surfaceAlbedo": {
+    "value": "Azalera Albedoa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Azalera Albedoa"
+      }
+    ]
+  },
+  "temperatureUnits": {
+    "value": "Tenperatura unitateak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1675328468148,
+        "oldValue": "",
+        "newValue": "Tenperatura unitateak"
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "Asko ",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Asko "
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "Bat ere ez",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Bat ere ez"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} milioiko (ppm)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} milioiko (ppm)"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} milioiko (ppb)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} milioiko (ppb)"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} milioiko (ppb)",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} milioiko (ppb)"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": " Gas-konzentrazioa berotegi-efektua dela kausa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": " Gas-konzentrazioa berotegi-efektua dela kausa"
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Izotz aroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Izotz aroa"
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Gainazaleko Termometroa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Gainazaleko Termometroa"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Hodeia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Hodeia"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Energia"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Erakutsi gainazaleko tenperatura",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Erakutsi gainazaleko tenperatura"
+      }
+    ]
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Hasi eguzki-argia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Hasi eguzki-argia"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Energia balantzea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Energia balantzea"
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Atmosferaren goialdea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Atmosferaren goialdea"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "Barruan",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Barruan"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "Kanpoan",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Kanpoan"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "Sarea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Sarea"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Energia fluxua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Energia fluxua"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Energia balantzea",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Energia balantzea"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Fluxu-neurgailua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Fluxu-neurgailua"
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Berotegi-efektua",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Berotegi-efektua"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% hezetasun erlatiboa",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% hezetasun erlatiboa"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Eguzki-argia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Eguzki-argia"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Infragorriak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Infragorriak"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Eguzki-argia",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Eguzki-argia"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "Infragorriak",
+    "history": [
+      {
+        "userId": 155750,
+        "timestamp": 1647295639575,
+        "oldValue": "",
+        "newValue": "Infragorriak"
+      }
+    ]
+  }
+}

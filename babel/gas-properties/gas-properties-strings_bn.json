@@ -1,0 +1,607 @@
+{
+  "atmospheres": {
+    "value": "atm",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566934,
+        "oldValue": "",
+        "newValue": "atm"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "চাপ ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "চাপ "
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}} K"
+      }
+    ]
+  },
+  "data": {
+    "value": "উপাত্ত ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "উপাত্ত "
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "ভরকেন্দ্র ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "ভরকেন্দ্র "
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "আদি তাপমাত্রা(K)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "আদি তাপমাত্রা(K)"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "ভর (পারমানবিক ভর এককে -AMU )",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "ভর (পারমানবিক ভর এককে -AMU )"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "বস্তুকণার  সংখ্যাসমূহ ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "বস্তুকণার  সংখ্যাসমূহ "
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "ব্যাসার্ধ (পিকোমিটার-pm )",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "ব্যাসার্ধ (পিকোমিটার-pm )"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "Remove Divider",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Remove Divider"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "Reset Divider",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Reset Divider"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "কনার প্রবাহের হার (Particle Flow Rate)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "কনার প্রবাহের হার (Particle Flow Rate)"
+      }
+    ]
+  },
+  "scale": {
+    "value": "স্কেল ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "স্কেল "
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "স্টপওয়াচ ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "স্টপওয়াচ "
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "(ন্যানোমিটার)nm",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "(ন্যানোমিটার)nm"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "ব্যাপন ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "ব্যাপন "
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "ধাক্কা গনক ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "ধাক্কা গনক "
+      }
+    ]
+  },
+  "width": {
+    "value": "প্রস্থ ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "প্রস্থ "
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "Sample Period",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Sample Period"
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "দেওয়ালে ধাক্কার সংখ্যা (Wall Collisions)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "দেওয়ালে ধাক্কার সংখ্যা (Wall Collisions)"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "Return Lid",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Return Lid"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "Oops!<br><br>Maximum temperature reached.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Maximum temperature reached."
+      }
+    ]
+  },
+  "collisions": {
+    "value": "সংঘর্ষসমূহ ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "সংঘর্ষসমূহ "
+      }
+    ]
+  },
+  "heavy": {
+    "value": "ভারী ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "ভারী "
+      }
+    ]
+  },
+  "light": {
+    "value": "হালকা ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "হালকা "
+      }
+    ]
+  },
+  "particles": {
+    "value": "কণাসমূহ ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "কণাসমূহ "
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "অনুসন্ধান (Explore)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "অনুসন্ধান (Explore)"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "Pressure Noise",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Pressure Noise"
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "Nothing",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Nothing"
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Pressure ↕T",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Pressure ↕T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Pressure ↕V",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Pressure ↕V"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "Hold Constant",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Hold Constant"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "তাপমাত্রা (T)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "তাপমাত্রা (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "আয়তন (V)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "আয়তন (V)"
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "Oops!<br><br>Pressure cannot be held constant<br>when the container is empty.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Pressure cannot be held constant<br>when the container is empty."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "eOops!<br><br>Pressure cannot be held constant.<br>Volume would be too large.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "eOops!<br><br>Pressure cannot be held constant.<br>Volume would be too large."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "Oops!<br><br>Pressure cannot be held constant.<br>Volume would be too small.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Pressure cannot be held constant.<br>Volume would be too small."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "Oops!<br><br>Temperature cannot be held constant<br>when the container is empty.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Temperature cannot be held constant<br>when the container is empty."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "Oops!<br><br>Temperature cannot be held constant<br>when the container is open.",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Oops!<br><br>Temperature cannot be held constant<br>when the container is open."
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "আদর্শ ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "আদর্শ "
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "গড় দ্রুতি ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "গড় দ্রুতি "
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "আরোপিত তাপমাত্রা (Injection Temperature)",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "আরোপিত তাপমাত্রা (Injection Temperature)"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "Match Container",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Match Container"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "Set to:",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "Set to:"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "গতি শক্তি ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "গতি শক্তি "
+      }
+    ]
+  },
+  "speed": {
+    "value": "দ্রুতি ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "দ্রুতি "
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "শক্তি ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "শক্তি "
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "গ্যাসের ধর্মাবলী ",
+    "history": [
+      {
+        "userId": 652918,
+        "timestamp": 1663754566935,
+        "oldValue": "",
+        "newValue": "গ্যাসের ধর্মাবলী "
+      }
+    ]
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "atmospheres": {
+    "value": "umkhathi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "umkhathi"
+      }
+    ]
+  },
+  "kilopascals": {
+    "value": "kPa",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "kPa"
+      }
+    ]
+  },
+  "pressure": {
+    "value": "ingcindezi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "ingcindezi"
+      }
+    ]
+  },
+  "tAvg": {
+    "value": "T<sub>avg</sub> = {{value}}",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}}"
+      }
+    ]
+  },
+  "tAvgK": {
+    "value": "T<sub>avg</sub> = {{value}} K",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "T<sub>avg</sub> = {{value}} K"
+      }
+    ]
+  },
+  "data": {
+    "value": "idatha",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "idatha"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "isikhungo sobuningi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "isikhungo sobuningi"
+      }
+    ]
+  },
+  "initialTemperatureK": {
+    "value": "izinga lokushisa lokuqala",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "izinga lokushisa lokuqala"
+      }
+    ]
+  },
+  "massAMU": {
+    "value": "ubuningi (AMU)",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "ubuningi (AMU)"
+      }
+    ]
+  },
+  "numberOfParticles": {
+    "value": "inani lezinhlayiya",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "inani lezinhlayiya"
+      }
+    ]
+  },
+  "radiusPm": {
+    "value": "irediyase (pm)",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "irediyase (pm)"
+      }
+    ]
+  },
+  "removeDivider": {
+    "value": "susa isihlukanisi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "susa isihlukanisi"
+      }
+    ]
+  },
+  "resetDivider": {
+    "value": "isihlukanisi sokuphumula",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "isihlukanisi sokuphumula"
+      }
+    ]
+  },
+  "particleFlowRate": {
+    "value": "izinga lokugeleza kwezinhlayiyana",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "izinga lokugeleza kwezinhlayiyana"
+      }
+    ]
+  },
+  "scale": {
+    "value": "isikali",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "isikali"
+      }
+    ]
+  },
+  "stopwatch": {
+    "value": "isitophuwashi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "isitophuwashi"
+      }
+    ]
+  },
+  "nanometers": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "valueUnits": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "picoseconds": {
+    "value": "ps",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "ps"
+      }
+    ]
+  },
+  "screen.diffusion": {
+    "value": "ukusabalalisa",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "ukusabalalisa"
+      }
+    ]
+  },
+  "pressureNoise": {
+    "value": "umsindo wengicindezi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1694841319674,
+        "oldValue": "",
+        "newValue": "umsindo wengicindezi"
+      }
+    ]
+  },
+  "collisionCounter": {
+    "value": "counter ukungqubuzana",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "counter ukungqubuzana"
+      }
+    ]
+  },
+  "width": {
+    "value": "ububanzi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "ububanzi"
+      }
+    ]
+  },
+  "samplePeriod": {
+    "value": "isikhathi sesampula",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "isikhathi sesampula"
+      }
+    ]
+  },
+  "wallCollisions": {
+    "value": "ukushayisana kwezindonga",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "ukushayisana kwezindonga"
+      }
+    ]
+  },
+  "degreesCelsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "returnLid": {
+    "value": "buyisela isvalo",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "buyisela isvalo"
+      }
+    ]
+  },
+  "oopsMaximumTemperature": {
+    "value": "awu!<br><br>izinga lokushisa eliphezulu lifinyelelwe",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "awu!<br><br>izinga lokushisa eliphezulu lifinyelelwe"
+      }
+    ]
+  },
+  "collisions": {
+    "value": "ukushayisana",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "ukushayisana"
+      }
+    ]
+  },
+  "heavy": {
+    "value": "esindayo",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "esindayo"
+      }
+    ]
+  },
+  "light": {
+    "value": "ukukhanya",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "ukukhanya"
+      }
+    ]
+  },
+  "particles": {
+    "value": "izinhlayiya",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "izinhlayiya"
+      }
+    ]
+  },
+  "screen.explore": {
+    "value": "hlola",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "hlola"
+      }
+    ]
+  },
+  "holdConstant.nothing": {
+    "value": "lutho",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "lutho"
+      }
+    ]
+  },
+  "holdConstant.pressureT": {
+    "value": "Pressure ↕T",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "Pressure ↕T"
+      }
+    ]
+  },
+  "holdConstant.pressureV": {
+    "value": "Pressure ↕V",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "Pressure ↕V"
+      }
+    ]
+  },
+  "holdConstant.title": {
+    "value": "bamba njalo",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "bamba njalo"
+      }
+    ]
+  },
+  "holdConstant.temperature": {
+    "value": "izinga lokushisa (T)",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "izinga lokushisa (T)"
+      }
+    ]
+  },
+  "holdConstant.volume": {
+    "value": "umthambo (V)",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "umthambo (V)"
+      }
+    ]
+  },
+  "oopsPressureEmpty": {
+    "value": "awu! <br><br>ingcindezi ayikwazi ukubanjwa njalo<br> lapho isitsha singenalutho.",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "awu! <br><br>ingcindezi ayikwazi ukubanjwa njalo<br> lapho isitsha singenalutho."
+      }
+    ]
+  },
+  "oopsPressureLarge": {
+    "value": "awu!?<br><br>ingcindezi ayikwazi ukubanjwa njalo.<br>umthamo ingaba nkulu kakhulu.",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "awu!?<br><br>ingcindezi ayikwazi ukubanjwa njalo.<br>umthamo ingaba nkulu kakhulu."
+      }
+    ]
+  },
+  "oopsPressureSmall": {
+    "value": "awu!<br><br>ingcidezi ayikwazi ukubanjwa njalo<br>umthamo ingaba nkulu kakhulu.",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "awu!<br><br>ingcidezi ayikwazi ukubanjwa njalo<br>umthamo ingaba nkulu kakhulu."
+      }
+    ]
+  },
+  "oopsTemperatureEmpty": {
+    "value": "awu! <br><br>izinga lokushisa alikwazi ukubanjwa njalo <br>lapho isitsha singenalutho.",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "awu! <br><br>izinga lokushisa alikwazi ukubanjwa njalo <br>lapho isitsha singenalutho."
+      }
+    ]
+  },
+  "oopsTemperatureOpen": {
+    "value": "awu!<br><br>izinga lokushisa alikwazi ukubanjwa njalo<br>lapho isitsha sivuliwe.",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "awu!<br><br>izinga lokushisa alikwazi ukubanjwa njalo<br>lapho isitsha sivuliwe."
+      }
+    ]
+  },
+  "screen.ideal": {
+    "value": "ekahle",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "ekahle"
+      }
+    ]
+  },
+  "averageSpeed": {
+    "value": "isvinini esimaphakathi",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "isvinini esimaphakathi"
+      }
+    ]
+  },
+  "metersPerSecond": {
+    "value": "m/s",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "m/s"
+      }
+    ]
+  },
+  "injectionTemperature": {
+    "value": "umjovo izinga lokushisa",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "umjovo izinga lokushisa"
+      }
+    ]
+  },
+  "matchContainer": {
+    "value": "isitsha sokufanisa",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "isitsha sokufanisa"
+      }
+    ]
+  },
+  "setTo": {
+    "value": "bona ku:",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "bona ku:"
+      }
+    ]
+  },
+  "kineticEnergy": {
+    "value": "amandla kinetic",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "amandla kinetic"
+      }
+    ]
+  },
+  "speed": {
+    "value": "isivinini",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "isivinini"
+      }
+    ]
+  },
+  "screen.energy": {
+    "value": "amandla",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "amandla"
+      }
+    ]
+  },
+  "gas-properties.title": {
+    "value": "izakhiwo zomoya",
+    "history": [
+      {
+        "userId": 11140779,
+        "timestamp": 1695126055471,
+        "oldValue": "",
+        "newValue": "izakhiwo zomoya"
+      }
+    ]
+  }
+}

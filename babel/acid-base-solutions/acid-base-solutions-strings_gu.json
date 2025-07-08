@@ -1,0 +1,573 @@
+{
+  "pattern.0label.1value": {
+    "value": "{0}: {1}",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "{0}: {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": " pH",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": " pH",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": " {0}{1}",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": " {0}{1}",
+        "explanation": null
+      }
+    ]
+  },
+  "liters": {
+    "value": "લીટર",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "લીટર ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "લીટર ",
+        "newValue": "L ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "L ",
+        "newValue": "લીટર"
+      }
+    ]
+  },
+  "pattern.0value.1power": {
+    "value": "{0} x 10<sup>{1}</sup>",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "{0} x 10<sup>{1}</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "negligible": {
+    "value": " નજીવું",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": " negligible",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": " negligible",
+        "newValue": " નજીવું",
+        "explanation": null
+      }
+    ]
+  },
+  "concentrationGraph.yAxis": {
+    "value": "સંતુલને સાંદ્રતા(mol/L)",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "સમતુલા એકાગ્રતા(mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "સમતુલા એકાગ્રતા(mol/L)",
+        "newValue": "સમતોલન સાંદ્રતા(mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "સમતોલન સાંદ્રતા(mol/L)",
+        "newValue": "સંતુલને સાંદ્રતા(mol/L)"
+      }
+    ]
+  },
+  "graph": {
+    "value": "આલેખ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "ગ્રાફ ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "ગ્રાફ ",
+        "newValue": "આલેખ",
+        "explanation": null
+      }
+    ]
+  },
+  "hideViews": {
+    "value": "ઘટકો દેખાતા બંધ કરો",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "વ્યુ હાઈડ કરો ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "વ્યુ હાઈડ કરો ",
+        "newValue": "ઘટકો દેખાતા બંધ કરો",
+        "explanation": null
+      }
+    ]
+  },
+  "molecules": {
+    "value": "અણુ ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "અણુ ",
+        "explanation": null
+      }
+    ]
+  },
+  "solvent": {
+    "value": "દ્રાવક",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "સૉલ્વેંટ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "સૉલ્વેંટ",
+        "newValue": "દ્રાવક",
+        "explanation": null
+      }
+    ]
+  },
+  "solution": {
+    "value": "દ્રાવણ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "સોલ્યુશન ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "સોલ્યુશન ",
+        "newValue": "દ્રાવણ",
+        "explanation": null
+      }
+    ]
+  },
+  "tools": {
+    "value": "સાધનો",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "સાધન ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "સાધન ",
+        "newValue": "સાધનો"
+      }
+    ]
+  },
+  "views": {
+    "value": "ઘટકો દર્શાવો",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "વ્યુવ્સ ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "વ્યુવ્સ ",
+        "newValue": "ઘટકો દર્શાવો",
+        "explanation": null
+      }
+    ]
+  },
+  "pHColorKey": {
+    "value": "pH રંગ દર્શક",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "રંગોની ચાવી ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "રંગોની ચાવી ",
+        "newValue": "pH રંગ દર્શક",
+        "explanation": null
+      }
+    ]
+  },
+  "stronger": {
+    "value": "પ્રબળ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "મજબુત ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "મજબુત ",
+        "newValue": "પ્રબળ",
+        "explanation": null
+      }
+    ]
+  },
+  "weaker": {
+    "value": "નિર્બળ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "મંદ ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "મંદ ",
+        "newValue": "નિર્બળ"
+      }
+    ]
+  },
+  "acid": {
+    "value": "એસિડ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "એસીડ ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "એસીડ ",
+        "newValue": "એસિડ",
+        "explanation": null
+      }
+    ]
+  },
+  "base": {
+    "value": "બેઇઝ ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "બેઇઝ ",
+        "explanation": null
+      }
+    ]
+  },
+  "initialConcentration": {
+    "value": "શરૂઆતની  સાંદ્રતા (mol/L):",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "Initial Concentration (mol/L)",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "Initial Concentration (mol/L)",
+        "newValue": "પ્રારંભિક સાંદ્રતા (mol/L):",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "પ્રારંભિક સાંદ્રતા (mol/L):",
+        "newValue": "શરૂઆતની  સાંદ્રતા (mol/L):"
+      }
+    ]
+  },
+  "strength": {
+    "value": "સાંદ્રતા:",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "શક્તિ:",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "શક્તિ:",
+        "newValue": "સાંદ્રતા:",
+        "explanation": null
+      }
+    ]
+  },
+  "strong": {
+    "value": "સાંદ્ર",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "સ્ટ્રોંગ ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "સ્ટ્રોંગ ",
+        "newValue": "પ્રબળ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "પ્રબળ",
+        "newValue": "સાંદ્ર"
+      }
+    ]
+  },
+  "weak": {
+    "value": "મંદ ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "મંદ ",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "મારું દ્રાવણ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "મારું સોલ્યુશન ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "મારું સોલ્યુશન ",
+        "newValue": "મારું દ્રાવણ",
+        "explanation": null
+      }
+    ]
+  },
+  "strongAcid": {
+    "value": "પ્રબળ એસિડ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "સ્ટ્રોંગ એસીડ ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "સ્ટ્રોંગ એસીડ ",
+        "newValue": "પ્રબળ એસિડ",
+        "explanation": null
+      }
+    ]
+  },
+  "strongBase": {
+    "value": "પ્રબળ બેઇઝ ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "સ્ટ્રોંગ બેઇઝ ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "સ્ટ્રોંગ બેઇઝ ",
+        "newValue": "પ્રબળ બેઇઝ ",
+        "explanation": null
+      }
+    ]
+  },
+  "water": {
+    "value": "પાણી ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "પાણી ",
+        "explanation": null
+      }
+    ]
+  },
+  "weakAcid": {
+    "value": "નિર્બળ એસિડ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "મંદ એસીડ ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "મંદ એસીડ ",
+        "newValue": "મંદ એસિડ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "મંદ એસિડ",
+        "newValue": "નિર્બળ એસિડ"
+      }
+    ]
+  },
+  "weakBase": {
+    "value": "નિર્બળ બેઇઝ ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "મંદ બેઇઝ ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "મંદ બેઇઝ ",
+        "newValue": "નિર્બળ બેઇઝ "
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "પ્રસ્તાવના ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "પ્રસ્તાવના ",
+        "explanation": null
+      }
+    ]
+  },
+  "acid-base-solutions.title": {
+    "value": "એસિડ-બેઇઝ દ્રાવણો - જીજ્ઞેશ ખુંટ",
+    "history": [
+      {
+        "userId": 654769,
+        "timestamp": 1553529260386,
+        "oldValue": "",
+        "newValue": "એસીડ બેઇજ સોલ્યુશન - નિકુંજ સવાણી દ્વારા રજૂઆત ",
+        "explanation": null
+      },
+      {
+        "userId": 420144,
+        "timestamp": 1588755797157,
+        "oldValue": "એસીડ બેઇજ સોલ્યુશન - નિકુંજ સવાણી દ્વારા રજૂઆત ",
+        "newValue": "એસિડ-બેઇઝ દ્રાવણો",
+        "explanation": null
+      },
+      {
+        "userId": 654769,
+        "timestamp": 1643297506890,
+        "oldValue": "એસિડ-બેઇઝ દ્રાવણો",
+        "newValue": "એસિડ-બેઇઝ દ્રાવણો નિકુંજ સવાણી "
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651496201717,
+        "oldValue": "એસિડ-બેઇઝ દ્રાવણો નિકુંજ સવાણી ",
+        "newValue": "એસિડ-બેઇઝ દ્રાવણો"
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651643952068,
+        "oldValue": "એસિડ-બેઇઝ દ્રાવણો",
+        "newValue": "એસિડ-બેઇઝ દ્રાવણો - જીજ્ઞેશ ખુંટ"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <title>Sharpness tests for Scenery</title>
+
+  <script src="../../sherpa/lib/jquery-2.1.0.js"></script>
+  <script src="../../sherpa/lib/lodash-4.17.4.min.js"></script>
+  <script src="../../assert/js/assert.js"></script>
+  <script src="../../sherpa/lib/linebreak-1.1.0.js"></script>
+  <script src="../../sherpa/lib/he-1.1.1.js"></script>
+
+</head>
+<body>
+
+<label for="scale">Scale</label>
+<input autocomplete="off" id="scaleSlider" name="scale" type="range" min="-50" max="0" value="0" step="0.1" style="width: 900px;" />
+<br>
+<label for="mipmap">Mipmap</label>
+<input type="checkbox" autocomplete="off" id="mipmapCheckbox" name="mipmap" checked></input>
+
+<script type="module">
+  /*eslint-disable*/ // TODO: fix lint https://github.com/phetsims/chipper/issues/1405
+  import scenery from '../js/main.js';
+  import phetCore from '../../phet-core/js/main.js';
+  import axon from '../../axon/js/main.js';
+  import dot from '../../dot/js/main.js';
+  import kite from '../../kite/js/main.js';
+
+  window.scenery = scenery;
+  window.kite = kite;
+  window.dot = dot;
+  window.axon = axon;
+  window.phetCore = phetCore;
+
+  var scene = new phet.scenery.Node();
+  var display = new phet.scenery.Display( scene, {
+    width: 2048,
+    height: 1024,
+    backgroundColor: '#eee',
+    accessibility: true
+  } );
+
+  document.body.appendChild( display.domElement );
+  display.domElement.style.position = 'relative';
+
+  var image = new phet.scenery.Image( '../assets/sharpness-test-pattern.png', {
+    mipmap: true,
+    initialLevel: 7,
+    maxLevel: 7,
+    mipmapBias: 0.5
+  } );
+
+  const images = [
+    new phet.scenery.Image( '../assets/sharpness-test-pattern.png', {
+      mipmap: true,
+      initialLevel: 7,
+      maxLevel: 7,
+      mipmapBias: 0,
+      renderer: 'svg'
+    } ),
+    new phet.scenery.Image( '../assets/sharpness-test-pattern.png', {
+      mipmap: true,
+      initialLevel: 7,
+      maxLevel: 7,
+      mipmapBias: 0.5,
+      renderer: 'canvas'
+    } )
+  ];
+
+  var imageContainer = new phet.scenery.HBox( {
+    children: images
+  } );
+  scene.addChild( imageContainer );
+
+  display.updateDisplay();
+
+  function updateMipmap() {
+    images.forEach( image => {
+      image.mipmap = document.getElementById( 'mipmapCheckbox' ).checked;
+    } );
+  }
+
+  document.getElementById( 'mipmapCheckbox' ).addEventListener( 'click', updateMipmap );
+
+  display.updateOnRequestAnimationFrame( function() {
+    imageContainer.setScaleMagnitude( Math.pow( 2, Number( document.getElementById( 'scaleSlider' ).value ) / 10 ) );
+    display.updateDisplay();
+  } );
+</script>
+</body>
+</html>

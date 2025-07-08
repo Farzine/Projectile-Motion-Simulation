@@ -1,0 +1,573 @@
+{
+  "rulers": {
+    "value": "Линейки",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Шкалы",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561230823,
+        "oldValue": "Шкалы",
+        "newValue": "Линейки",
+        "explanation": null
+      }
+    ]
+  },
+  "timer": {
+    "value": "Таймер",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Таймер",
+        "explanation": null
+      }
+    ]
+  },
+  "referenceLine": {
+    "value": "Направляющая",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Направляющая",
+        "explanation": null
+      }
+    ]
+  },
+  "tension": {
+    "value": "Натяжение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Натяжение",
+        "explanation": null
+      }
+    ]
+  },
+  "damping": {
+    "value": "Затухание",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Затухание",
+        "explanation": null
+      }
+    ]
+  },
+  "low": {
+    "value": "Меньше",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Низкое",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561230824,
+        "oldValue": "Низкое",
+        "newValue": "Низкая",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502179867286,
+        "oldValue": "Низкая",
+        "newValue": "Меньше",
+        "explanation": null
+      }
+    ]
+  },
+  "high": {
+    "value": "Больше",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Высокое",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561230824,
+        "oldValue": "Высокое",
+        "newValue": "Высокая",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502179867286,
+        "oldValue": "Высокая",
+        "newValue": "Больше",
+        "explanation": null
+      }
+    ]
+  },
+  "none": {
+    "value": "Слабое",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Нет",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502179867286,
+        "oldValue": "Нет",
+        "newValue": "Слабое",
+        "explanation": null
+      }
+    ]
+  },
+  "lots": {
+    "value": "Сильное",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Максимальное",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561230824,
+        "oldValue": "Максимальное",
+        "newValue": "Много",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502179867286,
+        "oldValue": "Много",
+        "newValue": "Сильное",
+        "explanation": null
+      }
+    ]
+  },
+  "frequency": {
+    "value": "Частота",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Частота",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitHz": {
+    "value": "{0} Гц",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "{0} Гц",
+        "explanation": null
+      }
+    ]
+  },
+  "pulseWidth": {
+    "value": "Длительность импульса",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Ширина импульса",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774924094,
+        "oldValue": "Ширина импульса",
+        "newValue": "Длительность импульса",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitS": {
+    "value": "{0} с",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "{0} с",
+        "explanation": null
+      }
+    ]
+  },
+  "amplitude": {
+    "value": "Амплитуда",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Амплитуда",
+        "explanation": null
+      }
+    ]
+  },
+  "patternValueUnitCm": {
+    "value": "{0} см",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "{0} см",
+        "explanation": null
+      }
+    ]
+  },
+  "restart": {
+    "value": "Исходное положение",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Исходное положение",
+        "explanation": null
+      }
+    ]
+  },
+  "speedSlow": {
+    "value": "Медленный режим",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Замедленный режим",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1501561230824,
+        "oldValue": "Замедленный режим",
+        "newValue": "Замедленное движение",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774924094,
+        "oldValue": "Замедленное движение",
+        "newValue": "Медленный режим",
+        "explanation": null
+      }
+    ]
+  },
+  "speedNormal": {
+    "value": "Обычный режим",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Обычный режим",
+        "explanation": null
+      }
+    ]
+  },
+  "manual": {
+    "value": "Вручную",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Вручную",
+        "explanation": null
+      }
+    ]
+  },
+  "oscillate": {
+    "value": "Колебания",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Колебания",
+        "explanation": null
+      }
+    ]
+  },
+  "pulse": {
+    "value": "Импульс",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Импульс",
+        "explanation": null
+      }
+    ]
+  },
+  "fixedEnd": {
+    "value": "Закрепленный конец",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Закрепленный конец",
+        "explanation": null
+      }
+    ]
+  },
+  "looseEnd": {
+    "value": "Свободный конец",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Свободный конец",
+        "explanation": null
+      }
+    ]
+  },
+  "noEnd": {
+    "value": "Без конца",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Без конца",
+        "explanation": null
+      }
+    ]
+  },
+  "unitCm": {
+    "value": "см",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "см",
+        "explanation": null
+      }
+    ]
+  },
+  "wave-on-a-string.title": {
+    "value": "Волна из бус на нити",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140119,
+        "oldValue": "",
+        "newValue": "Механическая волна на примере колебаний связки бус",
+        "explanation": null
+      },
+      {
+        "userId": 456246,
+        "timestamp": 1502179867286,
+        "oldValue": "Механическая волна на примере колебаний связки бус",
+        "newValue": "Волна на связке бус",
+        "explanation": null
+      },
+      {
+        "userId": 728618,
+        "timestamp": 1583774924094,
+        "oldValue": "Волна на связке бус",
+        "newValue": "Волна из бус на нити",
+        "explanation": null
+      }
+    ]
+  },
+  "hideHelp": {
+    "value": "Скрыть Help",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "Скрыть Help",
+        "explanation": null
+      }
+    ]
+  },
+  "pausePlay": {
+    "value": "пауза/пуск",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "пауза/пуск",
+        "explanation": null
+      }
+    ]
+  },
+  "paused": {
+    "value": "Пауза",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "Пауза",
+        "explanation": null
+      }
+    ]
+  },
+  "pulse2": {
+    "value": "Импульс",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "Импульс",
+        "explanation": null
+      }
+    ]
+  },
+  "refLineHelp": {
+    "value": "Подвижная линия отсчета",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "Подвижная линия отсчета",
+        "explanation": null
+      }
+    ]
+  },
+  "reset": {
+    "value": "Сброс",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "Сброс",
+        "explanation": null
+      }
+    ]
+  },
+  "resetTimer": {
+    "value": "сброс",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "сброс",
+        "explanation": null
+      }
+    ]
+  },
+  "rulerHelp": {
+    "value": "подвижная линейка",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "подвижная линейка",
+        "explanation": null
+      }
+    ]
+  },
+  "showHelp": {
+    "value": "Показать Help",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "Показать Help",
+        "explanation": null
+      }
+    ]
+  },
+  "startTimer": {
+    "value": "старт/пауза",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "старт/пауза",
+        "explanation": null
+      }
+    ]
+  },
+  "step": {
+    "value": "шаг",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "шаг",
+        "explanation": null
+      }
+    ]
+  },
+  "timerHelp": {
+    "value": "подвижный таймер",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "подвижный таймер",
+        "explanation": null
+      }
+    ]
+  },
+  "wiggleWrench": {
+    "value": "Подвигай Ключ!",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "Подвигай Ключ!",
+        "explanation": null
+      }
+    ]
+  },
+  "wrenchHelp": {
+    "value": "ключ",
+    "history": [
+      {
+        "userId": 456246,
+        "timestamp": 1501130140120,
+        "oldValue": "",
+        "newValue": "ключ",
+        "explanation": null
+      }
+    ]
+  }
+}

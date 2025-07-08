@@ -1,0 +1,515 @@
+{
+  "screen.layerModel": {
+    "value": "Επίπεδο μοντέλο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992514,
+        "oldValue": "",
+        "newValue": "Επίπεδο μοντέλο"
+      }
+    ]
+  },
+  "screen.photons": {
+    "value": "Φωτόνια",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992514,
+        "oldValue": "",
+        "newValue": "Φωτόνια"
+      }
+    ]
+  },
+  "screen.waves": {
+    "value": "Κύματα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Κύματα"
+      }
+    ]
+  },
+  "sliderAndFluxMeterControls": {
+    "value": "Ολισθητής και Χειριστήρια Ροής",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Ολισθητής και Χειριστήρια Ροής"
+      }
+    ]
+  },
+  "morePhotons": {
+    "value": "Περισσότερα φωτόνια",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Περισσότερα φωτόνια"
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Υπέρυθρες",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Υπέρυθρες"
+      }
+    ]
+  },
+  "absorbingLayers": {
+    "value": "Στρώματα απορρόφησης",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Στρώσεις απορρόφησης"
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1675350790260,
+        "oldValue": "Στρώσεις απορρόφησης",
+        "newValue": "Στρώματα απορρόφησης"
+      }
+    ]
+  },
+  "infraredAbsorbance": {
+    "value": "Απορρόφηση υπερύθρων",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Απορρόφηση υπερύθρων"
+      }
+    ]
+  },
+  "valuePercentPattern": {
+    "value": "{{value}}%",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "{{value}}%"
+      }
+    ]
+  },
+  "sunlight": {
+    "value": "Ηλιακό φως",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Ηλιακό φως"
+      }
+    ]
+  },
+  "solarIntensity": {
+    "value": "Ένταση ηλιακής ακτινοβολίας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Ένταση ηλιακής ακτινοβολίας"
+      }
+    ]
+  },
+  "ourSun": {
+    "value": "Ο Ήλιος μας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Ήλιος"
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1675350790260,
+        "oldValue": "Ήλιος",
+        "newValue": "Ο Ήλιος μας"
+      }
+    ]
+  },
+  "surfaceAlbedo": {
+    "value": "Albedo επιφανείας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Επιφάνεια Albedo"
+      },
+      {
+        "userId": 170570,
+        "timestamp": 1675350790260,
+        "oldValue": "Επιφάνεια Albedo",
+        "newValue": "Albedo επιφανείας"
+      }
+    ]
+  },
+  "temperatureUnits": {
+    "value": "Μονάδες Θερμοκρασίας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1675319992515,
+        "oldValue": "",
+        "newValue": "Μονάδες Θερμοκρασίας"
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "Κ",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Κ"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "Πολλά",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Πολλά"
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "Κανένα",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Κανένα"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} ppb"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "Συγκέντρωση αερίων θερμοκηπίου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Συγκέντρωση αερίων θερμοκηπίου"
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Εποχή παγετώνων",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Εποχή παγετώνων"
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Θερμόμετρο επιφάνειας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Θερμόμετρο επιφάνειας"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Σύννεφο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Σύννεφο"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "Ενέργεια",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Ενέργεια"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Εμφάνιση επιφανειακής θερμοκρασίας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Εμφάνιση επιφανειακής θερμοκρασίας"
+      }
+    ]
+  },
+  "temperature.units.valueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Έναρξη ηλιακού φωτός",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Έναρξη ηλιακού φωτός"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Ενεργειακό ισοζύγιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Ενεργειακό ισοζύγιο"
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Κορυφή της ατμόσφαιρας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Κορυφή της ατμόσφαιρας"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "Εισερχόμενη",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Εισερχόμενη"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "Εξερχόμενη",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Εξερχόμενη"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "Διαφορά",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Διαφορά"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Ενεργειακή ροή",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Ενεργειακή ροή"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Ενεργειακό ισοζύγιο",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Ενεργειακό ισοζύγιο"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Μετρητής ροής",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Μετρητής ροής"
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Φαινόμενο του θερμοκηπίου",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Φαινόμενο του θερμοκηπίου"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% σχετική υγρασία",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% σχετική υγρασία"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Ηλιακό φως",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Ηλιακό φως"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Υπέρυθρες",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Υπέρυθρες"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Ηλιακό φως",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Ηλιακό φως"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "Υπέρυθρη ακτινοβολία",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1647274152946,
+        "oldValue": "",
+        "newValue": "Υπέρυθρη ακτινοβολία"
+      }
+    ]
+  },
+  "defaultTemperatureUnits": {
+    "value": "Προεπιλεγμένες μονάδες θερμοκρασίας",
+    "history": [
+      {
+        "userId": 146870,
+        "timestamp": 1694871159661,
+        "oldValue": "",
+        "newValue": "Προεπιλεγμένες μονάδες θερμοκρασίας"
+      }
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "screen.macro": {
+    "value": "મેક્રો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "મેક્રો",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.micro": {
+    "value": "માઈક્રો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "માઈક્રો",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.mySolution": {
+    "value": "મારું દ્રાવણ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "મારું દ્રાવણ",
+        "explanation": null
+      }
+    ]
+  },
+  "acidic": {
+    "value": "એસિડિક",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "એસિડિક",
+        "explanation": null
+      }
+    ]
+  },
+  "basic": {
+    "value": "બેઝિક",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "બેઝિક",
+        "explanation": null
+      }
+    ]
+  },
+  "pH": {
+    "value": "pH",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526426,
+        "oldValue": "",
+        "newValue": "pH",
+        "explanation": null
+      }
+    ]
+  },
+  "neutral": {
+    "value": "તટસ્થ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "તટસ્થ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.batteryAcid": {
+    "value": "બેટરી એસિડ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "બેટરી એસિડ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.blood": {
+    "value": "રક્ત",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "લોહી",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651498339784,
+        "oldValue": "લોહી",
+        "newValue": "રક્ત"
+      }
+    ]
+  },
+  "choice.chickenSoup": {
+    "value": "ચિકન સૂપ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "ચિકન સૂપ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.coffee": {
+    "value": "કોફી",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "કોફી",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.drainCleaner": {
+    "value": "ગટર ક્લિનર",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "ગટર ક્લિનર",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.handSoap": {
+    "value": "હાથ ધોવાનો સાબુ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "હાથ સાબુ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651498754895,
+        "oldValue": "હાથ સાબુ",
+        "newValue": "હાથ ધોવાનો સાબુ"
+      }
+    ]
+  },
+  "choice.milk": {
+    "value": "દૂધ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "દૂધ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.orangeJuice": {
+    "value": "નારંગીનો રસ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "નારંગીનો રસ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.soda": {
+    "value": "સોડા પોપ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526426,
+        "oldValue": "",
+        "newValue": "સોડા પોપ",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.spit": {
+    "value": "થૂંક",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526426,
+        "oldValue": "",
+        "newValue": "થૂંક",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.vomit": {
+    "value": "ઉલટી",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526426,
+        "oldValue": "",
+        "newValue": "ઉલટી",
+        "explanation": null
+      }
+    ]
+  },
+  "choice.water": {
+    "value": "પાણી",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526426,
+        "oldValue": "",
+        "newValue": "પાણી",
+        "explanation": null
+      }
+    ]
+  },
+  "pattern.0value.1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526426,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units.liters": {
+    "value": "લિ.",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327526425,
+        "oldValue": "",
+        "newValue": "લિ",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651498339784,
+        "oldValue": "લિ",
+        "newValue": "લિ."
+      }
+    ]
+  },
+  "ratio": {
+    "value": "પ્રમાણ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "રેશિયો",
+        "explanation": null
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651498754895,
+        "oldValue": "રેશિયો",
+        "newValue": "પ્રમાણ"
+      }
+    ]
+  },
+  "moleculeCount": {
+    "value": "પરમાણુ ગણતરી",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "પરમાણુ ગણતરી",
+        "explanation": null
+      }
+    ]
+  },
+  "logarithmic": {
+    "value": "લોગરીધમિક",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "લોગરીધમિક",
+        "explanation": null
+      }
+    ]
+  },
+  "linear": {
+    "value": "રૈખિક",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "રૈખિક",
+        "explanation": null
+      }
+    ]
+  },
+  "offScale": {
+    "value": "ઓફ સ્કેલ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "ઓફ સ્કેલ",
+        "explanation": null
+      }
+    ]
+  },
+  "concentration": {
+    "value": "સાંદ્રતા",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "સાંદ્રતા",
+        "explanation": null
+      }
+    ]
+  },
+  "units.molesPerLiter": {
+    "value": "મોલ/લિ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "મોલ/લિ",
+        "explanation": null
+      }
+    ]
+  },
+  "quantity": {
+    "value": "જથ્થો",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "જથ્થો",
+        "explanation": null
+      }
+    ]
+  },
+  "units.moles": {
+    "value": "મોલ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "મોલ",
+        "explanation": null
+      }
+    ]
+  },
+  "ph-scale.title": {
+    "value": "pH સ્કેલ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "પીએચ સ્કેલ- Pankajsid34",
+        "explanation": null
+      },
+      {
+        "userId": 726621,
+        "timestamp": 1643807093632,
+        "oldValue": "પીએચ સ્કેલ- Pankajsid34",
+        "newValue": "પીએચ સ્કેલ"
+      },
+      {
+        "userId": 685826,
+        "timestamp": 1651498754895,
+        "oldValue": "પીએચ સ્કેલ",
+        "newValue": "pH સ્કેલ"
+      }
+    ]
+  },
+  "choice.custom": {
+    "value": "કસ્ટમ",
+    "history": [
+      {
+        "userId": 726621,
+        "timestamp": 1593327990405,
+        "oldValue": "",
+        "newValue": "કસ્ટમ",
+        "explanation": null
+      }
+    ]
+  }
+}

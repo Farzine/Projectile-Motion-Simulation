@@ -1,0 +1,871 @@
+{
+  "decay": {
+    "value": "التحلل الاشعاعي",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "انحلال "
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "انحلال ",
+        "newValue": "التحلل الاشعاعي"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "الرمز الكيميائي",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "رمز"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "رمز",
+        "newValue": "الرمز الكيميائي"
+      }
+    ]
+  },
+  "electronCloud": {
+    "value": "السحابة الإليكترونية",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "السحابة الالكترونية"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "السحابة الالكترونية",
+        "newValue": "السحابة الإليكترونية "
+      },
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "السحابة الإليكترونية ",
+        "newValue": "السحابة الإليكترونية",
+        "explanation": null
+      }
+    ]
+  },
+  "stable": {
+    "value": "مستقر",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "مستقر"
+      }
+    ]
+  },
+  "unstable": {
+    "value": "غير مستقر",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "غير مستقر"
+      }
+    ]
+  },
+  "alphaDecay": {
+    "value": "تحلل α",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "انحلال الفا"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "انحلال الفا",
+        "newValue": "تحلل α "
+      },
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "تحلل α ",
+        "newValue": "تحلل α",
+        "explanation": null
+      }
+    ]
+  },
+  "betaMinusDecay": {
+    "value": "انحلال بيتا-<sup>-</sup>",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "انحلال بيتا-<sup>-</sup> "
+      },
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "انحلال بيتا-<sup>-</sup> ",
+        "newValue": "انحلال بيتا-<sup>-</sup>",
+        "explanation": null
+      }
+    ]
+  },
+  "betaPlusDecay": {
+    "value": "إنبعاث بروتون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "انحلال بيتا+<sup>-</sup> "
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "انحلال بيتا+<sup>-</sup> ",
+        "newValue": "إنبعاث بروتون"
+      }
+    ]
+  },
+  "protonEmission": {
+    "value": "إنبعاث بروتون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "انبعاث بروتوني"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "انبعاث بروتوني",
+        "newValue": "إنبعاث بروتون"
+      }
+    ]
+  },
+  "neutronEmission": {
+    "value": "إنبعاث نيوترون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "انبعاث نيوتروني"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "انبعاث نيوتروني",
+        "newValue": "إنبعاث نيوترون"
+      }
+    ]
+  },
+  "lessStable": {
+    "value": "اقل استقرارا",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "اقل استقرار"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "اقل استقرار",
+        "newValue": "اقل استقرارا"
+      }
+    ]
+  },
+  "moreStable": {
+    "value": "اكثر استقرارا",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "اكثر استقرار"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "اكثر استقرار",
+        "newValue": "اكثر استقرارا"
+      }
+    ]
+  },
+  "availableDecays": {
+    "value": "التحللات الاشعاعية المتاحة",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "الانحلالات النووية الممكنة"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "الانحلالات النووية الممكنة",
+        "newValue": "التحللات الاشعاعية المتاحة"
+      }
+    ]
+  },
+  "availableDecaysInfoPanelText": {
+    "value": "قد توجد تحللات أخرى، لكن التحللات المستخدمة هي الأكثر شيوعا. في حال عدم وجود تحلل إشعاعي معروف، لا يتم عرض اي تحلل متاح",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "الانحلالات الانبعاثية الممكنة تظهر هنا - قد يكون هناك انحلالات انبعاثية اخرى غير المذكورة . في حال عدم وجود انحلالات انبعاثية ممكنة فلا شئ سيفعل هنا"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "الانحلالات الانبعاثية الممكنة تظهر هنا - قد يكون هناك انحلالات انبعاثية اخرى غير المذكورة . في حال عدم وجود انحلالات انبعاثية ممكنة فلا شئ سيفعل هنا",
+        "newValue": "قد توجد تحللات أخرى، لكن التحللات المستخدمة هي الأكثر شيوعا. في حال عدم وجود تحلل إشعاعي معروف، لا يتم عرض اي تحلل متاح"
+      }
+    ]
+  },
+  "protons": {
+    "value": "بروتونات",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "بروتونات"
+      }
+    ]
+  },
+  "neutronsUppercase": {
+    "value": "نيوترونات",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "نيوترونات"
+      }
+    ]
+  },
+  "neutronsLowercase": {
+    "value": "نيوترونات",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "نيوترونات"
+      }
+    ]
+  },
+  "doesNotForm": {
+    "value": "لا يتكون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "لا يتكون"
+      }
+    ]
+  },
+  "neutronLowercase": {
+    "value": "نيوترون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "نيوترون"
+      }
+    ]
+  },
+  "clusterOfNeutronsPattern": {
+    "value": "مجموعة من {{neutronNumber}} نيوترون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": " تكتل من {{neutronNumber}} نيوترون"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": " تكتل من {{neutronNumber}} نيوترون",
+        "newValue": "مجموعة من {{neutronNumber}} نيوترون"
+      }
+    ]
+  },
+  "proton": {
+    "value": "بروتون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "بروتون"
+      }
+    ]
+  },
+  "neutronUppercase": {
+    "value": "نيوترون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "نيوترون"
+      }
+    ]
+  },
+  "electron": {
+    "value": "الكترون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "الكترون"
+      }
+    ]
+  },
+  "positron": {
+    "value": "بوزيترون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "بوزيترون"
+      }
+    ]
+  },
+  "halfLifeColon": {
+    "value": "العمر النصفي",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "عمر النصف"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "عمر النصف",
+        "newValue": "العمر النصفي"
+      }
+    ]
+  },
+  "unknown": {
+    "value": "غير معروف",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "غير معروف"
+      }
+    ]
+  },
+  "s": {
+    "value": "s",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "s"
+      }
+    ]
+  },
+  "seconds": {
+    "value": "الثواني",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "ثواني"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "ثواني",
+        "newValue": "الثواني"
+      }
+    ]
+  },
+  "A": {
+    "value": "A",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>A</b></span>"
+      }
+    ]
+  },
+  "B": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>B</b></span>"
+      }
+    ]
+  },
+  "C": {
+    "value": "C",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>C</b></span>"
+      }
+    ]
+  },
+  "D": {
+    "value": "D",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>D</b></span>"
+      }
+    ]
+  },
+  "E": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>E</b></span>"
+      }
+    ]
+  },
+  "F": {
+    "value": "F",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>F</b></span>"
+      }
+    ]
+  },
+  "G": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>G</b></span>"
+      }
+    ]
+  },
+  "H": {
+    "value": "H",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>H</b></span>"
+      }
+    ]
+  },
+  "I": {
+    "value": "I",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>I</b></span>"
+      }
+    ]
+  },
+  "J": {
+    "value": "J",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "<span style=\"font-family: monospace;\"><b>J</b></span>"
+      }
+    ]
+  },
+  "halfLifeTimescale": {
+    "value": "الجدول الزمني للعمر النصفي",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "التدرج الزمني لعمر النصف"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "التدرج الزمني لعمر النصف",
+        "newValue": "الجدول الزمني للعمر النصفي"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "بروتونات",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "البروتونات :"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "البروتونات :",
+        "newValue": "بروتونات"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "نيوترونات",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "النيوترونات:"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "النيوترونات:",
+        "newValue": "نيوترونات"
+      }
+    ]
+  },
+  "timeForLightToCrossANucleus": {
+    "value": "الزمن اللازم للضوء لعبور نواة",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "الزمن اللازم للضوء ليعبر النواة"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "الزمن اللازم للضوء ليعبر النواة",
+        "newValue": "الزمن اللازم للضوء لعبور نواة"
+      }
+    ]
+  },
+  "timeForLightToCrossAnAtom": {
+    "value": "الزمن اللازم للضوء لعبور ذرة",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "الزمن  اللازم للضوء ليعبر الذرة "
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "الزمن  اللازم للضوء ليعبر الذرة ",
+        "newValue": "الزمن اللازم للضوء لعبور ذرة"
+      }
+    ]
+  },
+  "timeForLightToCrossOneThousandAtoms": {
+    "value": "الزمن اللازم للضوء لعبور 1000 ذرة",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "الزمن الازم للضوء ليعبر الف ذرة"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "الزمن الازم للضوء ليعبر الف ذرة",
+        "newValue": "الزمن اللازم للضوء لعبور 1000 ذرة"
+      }
+    ]
+  },
+  "timeForSoundToTravelOneMillimeter": {
+    "value": "الزمن اللازم للصوت للانتقال 1mm",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "الزمن اللازم للضوء ليعبر ميللي متر واحد"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "الزمن اللازم للضوء ليعبر ميللي متر واحد",
+        "newValue": "الزمن اللازم للصوت للانتقال 1mm"
+      }
+    ]
+  },
+  "aBlinkOfAnEye": {
+    "value": "طرفة عين",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "غمضة عين"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "غمضة عين",
+        "newValue": "طرفة عين "
+      }
+    ]
+  },
+  "oneMinute": {
+    "value": "دقيقة واحدة",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "دقيقة واحدة"
+      }
+    ]
+  },
+  "oneYear": {
+    "value": "سنة واحدة",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "سنة واحدة"
+      }
+    ]
+  },
+  "averageHumanLifespan": {
+    "value": "متوسط عمر الانسان",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "متوسط عمر الانسان"
+      }
+    ]
+  },
+  "ageOfTheUniverse": {
+    "value": "عمر الكون",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "عمر الكون"
+      }
+    ]
+  },
+  "lifetimeOfLongestLivedStars": {
+    "value": "العمر الزمني لأطول النجوم عمرا",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "عمر اكبر نجم معمر"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "عمر اكبر نجم معمر",
+        "newValue": "العمر الزمني لأطول النجوم عمرا"
+      }
+    ]
+  },
+  "build-a-nucleus.title": {
+    "value": "بناء نواة",
+    "history": [
+      {
+        "userId": 1085691,
+        "timestamp": 1665055437084,
+        "oldValue": "",
+        "newValue": "كيف تبنى النواة الذرية"
+      },
+      {
+        "userId": 694652,
+        "timestamp": 1669783097211,
+        "oldValue": "كيف تبنى النواة الذرية",
+        "newValue": "بناء نواة"
+      }
+    ]
+  },
+  "screen.decay": {
+    "value": "التحللات الاشعاعية",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "التحللات الاشعاعية"
+      }
+    ]
+  },
+  "screen.chartIntro": {
+    "value": "مقدمة عن الرسم البياني",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "مقدمة عن الرسم البياني"
+      }
+    ]
+  },
+  "energy": {
+    "value": "الطاقة",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "الطاقة"
+      }
+    ]
+  },
+  "magicNumbers": {
+    "value": "الأعداد السحرية",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "الأعداد السحرية"
+      }
+    ]
+  },
+  "partialNuclideChart": {
+    "value": "مخطط النويات الجزئية",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "مخطط النويات الجزئية"
+      }
+    ]
+  },
+  "fullChartLowercase": {
+    "value": "المخطط الكامل",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "المخطط الكامل"
+      }
+    ]
+  },
+  "fullNuclideChart": {
+    "value": "مخطط النويات الكلي",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "مخطط النويات الكلي"
+      }
+    ]
+  },
+  "fullChartCapitalized": {
+    "value": "المخطط الكامل",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "المخطط الكامل"
+      }
+    ]
+  },
+  "nuclearShellModel": {
+    "value": "نموذج القشرة النووية",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "نموذج القشرة النووية"
+      }
+    ]
+  },
+  "axis.protonNumber": {
+    "value": "رقم البوترون",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "رقم البوترون"
+      }
+    ]
+  },
+  "axis.neutronNumber": {
+    "value": "رقم النيوترون",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "رقم النيوترون"
+      }
+    ]
+  },
+  "mostLikelyDecayType": {
+    "value": "نوع التحلل الأكثر شيوعاً",
+    "history": [
+      {
+        "userId": 869663,
+        "timestamp": 1725541137856,
+        "oldValue": "",
+        "newValue": "نوع التحلل الأكثر شيوعاً"
+      }
+    ]
+  }
+}

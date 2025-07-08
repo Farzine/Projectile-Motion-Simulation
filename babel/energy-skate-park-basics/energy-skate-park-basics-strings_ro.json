@@ -1,0 +1,350 @@
+{
+  "controls.mass": {
+    "value": "Masă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Masa",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Masa",
+        "newValue": "Masă"
+      }
+    ]
+  },
+  "small": {
+    "value": "Mic",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Mic",
+        "explanation": null
+      }
+    ]
+  },
+  "large": {
+    "value": "Mare",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Mare",
+        "explanation": null
+      }
+    ]
+  },
+  "controls.friction.title": {
+    "value": "Frecare",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Frecare",
+        "explanation": null
+      }
+    ]
+  },
+  "controls.gravity.none": {
+    "value": "Zero",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Nimic",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Nimic",
+        "newValue": "Zero"
+      }
+    ]
+  },
+  "controls.gravity.lots": {
+    "value": "Mare",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Mult",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Mult",
+        "newValue": "Mare"
+      }
+    ]
+  },
+  "plots.bar-graph": {
+    "value": "Diagramă coloane",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Grafic tip bară",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Grafic tip bară",
+        "newValue": "Diagramă coloane"
+      }
+    ]
+  },
+  "pieChart": {
+    "value": "Diagramă circulară",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Grafic circular",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Grafic circular",
+        "newValue": "Diagramă circulară"
+      }
+    ]
+  },
+  "properties.speed": {
+    "value": "Viteza",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Viteza",
+        "explanation": null
+      }
+    ]
+  },
+  "controls.show-grid": {
+    "value": "Fundal grilă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Linii ajutătoare",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Linii ajutătoare",
+        "newValue": "Fundal grilă"
+      }
+    ]
+  },
+  "normal": {
+    "value": "Mișcare normală",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Mișcare normală",
+        "explanation": null
+      }
+    ]
+  },
+  "slow.motion": {
+    "value": "Mișcare lentă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Mișcare lentă",
+        "explanation": null
+      }
+    ]
+  },
+  "energy.kinetic": {
+    "value": "Cinetică",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "cinetică",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "cinetică",
+        "newValue": "Cinetică"
+      }
+    ]
+  },
+  "energy.potential": {
+    "value": "Potențială",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "potențială",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "potențială",
+        "newValue": "Potențială"
+      }
+    ]
+  },
+  "energy.thermal": {
+    "value": "Termică",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "termică",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "termică",
+        "newValue": "Termică"
+      }
+    ]
+  },
+  "energy.total": {
+    "value": "Total",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Total",
+        "explanation": null
+      }
+    ]
+  },
+  "energy.energy": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Energia",
+        "explanation": null
+      }
+    ]
+  },
+  "zeroMeters": {
+    "value": "0 metri",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "0 metri",
+        "explanation": null
+      }
+    ]
+  },
+  "controls.restart-skater": {
+    "value": "Reia scena!",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Repornește skater",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Repornește skater",
+        "newValue": "Reia scena!"
+      }
+    ]
+  },
+  "screen.introduction": {
+    "value": "Introducere",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Introducere",
+        "explanation": null
+      }
+    ]
+  },
+  "screen.friction": {
+    "value": "Frecare",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Frecarea",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Frecarea",
+        "newValue": "Frecare"
+      }
+    ]
+  },
+  "screen.trackPlayground": {
+    "value": "Teren de joacă",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Teren de joacă",
+        "explanation": null
+      }
+    ]
+  },
+  "energy-skate-park-basics.title": {
+    "value": "Energia în skatepark: Baze teoretice",
+    "history": [
+      {
+        "userId": 161937,
+        "timestamp": 1462259320098,
+        "oldValue": "",
+        "newValue": "Energia pe terenul de skate. Baze teoretice",
+        "explanation": null
+      },
+      {
+        "userId": 955557,
+        "timestamp": 1644161138446,
+        "oldValue": "Energia pe terenul de skate. Baze teoretice",
+        "newValue": "Energia în skatepark: Baze teoretice"
+      }
+    ]
+  }
+}
